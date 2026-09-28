@@ -28,6 +28,9 @@ const STR = {
 };
 
 const $ = s => document.querySelector(s);
+// 兼容舊 schema (source 為字串, source_url) 與新 schema (source: {name, url})
+const srcName = a => (a.source && typeof a.source === "object" ? a.source.name : a.source) || "";
+const srcUrl  = a => (a.source && typeof a.source === "object" ? a.source.url : a.source_url) || "";
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
 let LANG = localStorage.getItem("hks_lang") || "zh_hant";
@@ -133,7 +136,7 @@ function filtered(){
     if (filter.date !== "all" && !(a.published_at || "").startsWith(filter.date)) return false;
     if (q) {
       const hay = [a.title.en, a.title.zh_hant, a.title.zh_hans, a.summary.en, a.summary.zh_hant, a.summary.zh_hans,
-                   a.source, ...(a.tags.en||[]), ...(a.tags.zh_hant||[]), ...(a.tags.zh_hans||[])].join(" ").toLowerCase();
+                   srcName(a), ...(a.tags.en||[]), ...(a.tags.zh_hant||[]), ...(a.tags.zh_hans||[])].join(" ").toLowerCase();
       if (!hay.includes(q)) return false;
     }
     return true;
@@ -154,9 +157,9 @@ function cardHTML(a){
       <p class="card-summary">${esc(a.summary[LANG] || a.summary.zh_hant)}</p>
       <div class="tags">${tags}</div>
       <div class="card-foot">
-        <span class="src">${esc(a.source)}</span>
+        <span class="src">${esc(srcName(a))}</span>
         <span class="actions">
-          <a class="abtn primary" href="${esc(a.source_url)}" target="_blank" rel="noopener">${esc(t("readMore"))}</a>
+          <a class="abtn primary" href="${esc(srcUrl(a))}" target="_blank" rel="noopener">${esc(t("readMore"))}</a>
           <button class="abtn" data-share="fb" data-id="${esc(a.id)}">f</button>
           <button class="abtn" data-share="native" data-id="${esc(a.id)}">⤴</button>
           <button class="abtn" data-share="copy" data-id="${esc(a.id)}">🔗</button>
