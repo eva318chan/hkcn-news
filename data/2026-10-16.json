@@ -1,5 +1,279 @@
 [
   {
+    "id": "20261016-midea-buyback",
+    "category": "finance",
+    "published_at": "2026-10-16T19:30:00+08:00",
+    "source": {
+      "name": "新浪財經",
+      "url": "http://finance.sina.com.cn/stock/aigc/hkgg/2026-10-16/doc-inivmiin1685378.shtml"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Midea Has Bought Back 133 Million Shares for 10.73 Billion Yuan",
+      "zh_hant": "美的集團累計回購1.33億股　耗資107.31億元",
+      "zh_hans": "美的集团累计回购1.33亿股　耗资107.31亿元"
+    },
+    "summary": {
+      "en": "Midea Group said it has repurchased 133 million A-shares through centralised bidding as of today, representing 1.74% of its total share capital, at a total cost of 10.731 billion yuan. Prices ranged from 73.66 to 87.71 yuan per share. The buyback programme totals 6.5 to 13 billion yuan with a cap of 100 yuan per share, and the repurchased shares will now be cancelled to reduce registered capital rather than used for equity incentives.",
+      "zh_hant": "美的集團公布，截至今日累計以集中競價方式回購A股股份1.33億股，佔總股本1.74%，累計支付總金額107.31億元。回購最高成交價每股87.71元、最低73.66元。回購方案總額65億至130億元、上限每股100元，用途已由股權激勵改為依法註銷以減少註冊資本。",
+      "zh_hans": "美的集团公布，截至今日累计以集中竞价方式回购A股股份1.33亿股，占总股本1.74%，累计支付总金额107.31亿元。回购最高成交价每股87.71元、最低73.66元。回购方案总额65亿至130亿元、上限每股100元，用途已由股权激励改为依法注销以减少注册资本。"
+    },
+    "tags": {
+      "en": [
+        "Midea",
+        "share buyback",
+        "A-shares"
+      ],
+      "zh_hant": [
+        "美的集團",
+        "股份回購",
+        "A股"
+      ],
+      "zh_hans": [
+        "美的集团",
+        "股份回购",
+        "A股"
+      ]
+    }
+  },
+  {
+    "id": "20261016-yacht-southbound-maiden",
+    "category": "hk",
+    "published_at": "2026-10-16T18:45:00+08:00",
+    "source": {
+      "name": "香港政府新聞網",
+      "url": "http://www.news.gov.hk/chi/2026/10/20261016/20261016_184550_545.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "First Five “Yachts Southbound” Vessels Arrive in Hong Kong for Maiden Voyage Ceremony",
+      "zh_hant": "「粵艇南下」首批5艘遊艇抵港　舉行首航儀式",
+      "zh_hans": "「粤艇南下」首批5艘游艇抵港　举行首航仪式"
+    },
+    "summary": {
+      "en": "The “Yachts Southbound” scheme officially took effect as the first five yachts from Shenzhen, Zhuhai and Guangzhou’s Nansha arrived in Hong Kong for a maiden voyage ceremony. Acting Financial Secretary Michael Wong said Hong Kong is positioning itself as Asia’s yacht hub, with the superyacht industry projected to be worth HK$350 billion by 2032. The government is advancing four new yacht clubs — at the airport, Lamma Island, Aberdeen and Hung Hom — offering over 1,100 berths in total.",
+      "zh_hant": "「粵艇南下」政策正式實施，首批5艘來自深圳、珠海及廣州南沙的遊艇今日抵港，並舉行首航儀式。署理財政司司長黃偉綸表示，香港正積極發展成為亞洲遊艇樞紐，預計2032年超級遊艇產業市值達3,500億港元。政府正推動機場、南丫島、香港仔及紅磡4個全新遊艇會，提供逾1,100個泊位。",
+      "zh_hans": "「粤艇南下」政策正式实施，首批5艘来自深圳、珠海及广州南沙的游艇今日抵港，并举行首航仪式。署理财政司司长黄伟纶表示，香港正积极发展成为亚洲游艇枢纽，预计2032年超级游艇产业市值达3,500亿港元。政府正推动机场、南丫岛、香港仔及红磡4个全新游艇会，提供逾1,100个泊位。"
+    },
+    "tags": {
+      "en": [
+        "Yachts Southbound",
+        "yacht economy",
+        "Greater Bay Area",
+        "maritime"
+      ],
+      "zh_hant": [
+        "粵艇南下",
+        "遊艇經濟",
+        "大灣區",
+        "海事"
+      ],
+      "zh_hans": [
+        "粤艇南下",
+        "游艇经济",
+        "大湾区",
+        "海事"
+      ]
+    }
+  },
+  {
+    "id": "20261016-hos-flat-selection",
+    "category": "hk",
+    "published_at": "2026-10-16T18:00:00+08:00",
+    "source": {
+      "name": "TVB無綫新聞",
+      "url": "https://www.youtube.com/watch?v=GvPdJyciKaA"
+    },
+    "image_url": "",
+    "title": {
+      "en": "New HOS Flats Go on Sale Next Wednesday; Nearly 7,000 Units, Kai Tak Project Over HK$10,000 per sq ft",
+      "zh_hant": "新一期居屋下周三揀樓　近7000伙啟陽苑呎價逾萬",
+      "zh_hans": "新一期居屋下周三拣楼　近7000伙启阳苑呎价逾万"
+    },
+    "summary": {
+      "en": "The latest Home Ownership Scheme sale begins next Wednesday, with five projects offering nearly 7,000 flats priced from HK$1.5 million to HK$4.8 million. Kai Yeung Court in Kai Tak, next to the MTR station, commands over HK$10,000 per square foot as the priciest project. A Housing Authority member questioned whether high-value land should be used for subsidised housing.",
+      "zh_hant": "新一期居屋下周三開始揀樓，五個項目合共提供近7,000個單位，售價由150萬元至480萬元。其中啟德啟陽苑鄰近港鐵站，呎價逾萬元成「樓王」。有房委會委員認為，不應用市值高的地皮興建資助房屋。",
+      "zh_hans": "新一期居屋下周三开始拣楼，五个项目合共提供近7,000个单位，售价由150万元至480万元。其中启德启阳苑邻近港铁站，呎价逾万元成「楼王」。有房委会委员认为，不应用市值高的地皮兴建资助房屋。"
+    },
+    "tags": {
+      "en": [
+        "HOS",
+        "Kai Yeung Court",
+        "flat selection",
+        "subsidised housing"
+      ],
+      "zh_hant": [
+        "居屋",
+        "啟陽苑",
+        "揀樓",
+        "資助房屋"
+      ],
+      "zh_hans": [
+        "居屋",
+        "启阳苑",
+        "拣楼",
+        "资助房屋"
+      ]
+    }
+  },
+  {
+    "id": "20261016-tech-export-control-list",
+    "category": "tech",
+    "published_at": "2026-10-16T16:06:39+08:00",
+    "source": {
+      "name": "京報網（新華社）",
+      "url": "https://news.bjd.com.cn/2026/10/16/11997479.shtml"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Commerce Ministry Proposes Revising Tech Export Control List, Seeking Views on 40 AI and Photovoltaic Items",
+      "zh_hant": "商務部擬修訂技術出口管制目錄　AI光伏等40項技術徵意見",
+      "zh_hans": "商务部拟修订技术出口管制目录　AI光伏等40项技术征意见"
+    },
+    "summary": {
+      "en": "The commerce and science ministries have proposed revising China’s catalogue of technologies banned or restricted from export, covering 40 items across AI, biomedicine and photovoltaics. AI accounts for 23 items, including large models, AI agents and computing clusters; 14 items would be banned from export and 26 restricted. Public consultation runs from today until November 15, with officials stressing the revision is routine management and not aimed at any specific country.",
+      "zh_hant": "商務部與科技部發布公告，擬修訂《中國禁止出口限制出口技術目錄》，涉及人工智能、生物醫藥及光伏三個領域共40項技術。其中AI佔23項，包括大模型、智能體及算力集群；14項擬列為禁止出口，26項擬列為限制出口。公開徵求意見期由今日起至11月15日，官方強調修訂屬常態化管理，不針對任何特定國家。",
+      "zh_hans": "商务部与科技部发布公告，拟修订《中国禁止出口限制出口技术目录》，涉及人工智能、生物医药及光伏三个领域共40项技术。其中AI占23项，包括大模型、智能体及算力集群；14项拟列为禁止出口，26项拟列为限制出口。公开征求意见期由今日起至11月15日，官方强调修订属常态化管理，不针对任何特定国家。"
+    },
+    "tags": {
+      "en": [
+        "tech export control",
+        "AI",
+        "photovoltaics",
+        "commerce ministry"
+      ],
+      "zh_hant": [
+        "技術出口管制",
+        "人工智能",
+        "光伏",
+        "商務部"
+      ],
+      "zh_hans": [
+        "技术出口管制",
+        "人工智能",
+        "光伏",
+        "商务部"
+      ]
+    }
+  },
+  {
+    "id": "20261016-wang-fuk-court-sale",
+    "category": "society",
+    "published_at": "2026-10-16T15:38:00+08:00",
+    "source": {
+      "name": "香港政府新聞網",
+      "url": "http://www.news.gov.hk/chi/2026/10/20261016/20261016_153854_340.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Over 93% of Wang Fuk Court Owners Sign Sale Agreements; Remaining Cases Handled with Discretion",
+      "zh_hant": "宏福苑逾九成三業主簽買賣協議　餘下個案酌情處理",
+      "zh_hans": "宏福苑逾九成三业主签买卖协议　余下个案酌情处理"
+    },
+    "summary": {
+      "en": "The deadline for Wang Fuk Court owners in Tai Po to sign sale agreements expired yesterday, with 1,850 households across Blocks A to H — 93.2% of all units — having signed. The Housing Bureau said most unsigned cases involve title issues such as probate, bankruptcy, ownership disputes, or owners living overseas. Authorities will handle each case with discretion under a “compassion, reason and law, with compassion first” approach while pressing ahead with conveyancing.",
+      "zh_hant": "大埔宏福苑出售單位買賣協議簽署限期昨日屆滿，A至H八座共1,850戶業主已簽署，佔單位總數93.2%。房屋局表示，未簽署個案多因需釐清業權，例如遺囑認證、破產、業權爭議或業主身處境外。當局將以「情、理、法兼備，以情為先」原則，按個別情況酌情處理，並繼續跟進契約轉讓手續。",
+      "zh_hans": "大埔宏福苑出售单位买卖协议签署限期昨日届满，A至H八座共1,850户业主已签署，占单位总数93.2%。房屋局表示，未签署个案多因需厘清业权，例如遗嘱认证、破产、业权争议或业主身处境外。当局将以「情、理、法兼备，以情为先」原则，按个别情况酌情处理，并继续跟进契约转让手续。"
+    },
+    "tags": {
+      "en": [
+        "Wang Fuk Court",
+        "Housing Bureau",
+        "acquisition",
+        "title transfer"
+      ],
+      "zh_hant": [
+        "宏福苑",
+        "房屋局",
+        "收購",
+        "業權轉讓"
+      ],
+      "zh_hans": [
+        "宏福苑",
+        "房屋局",
+        "收购",
+        "业权转让"
+      ]
+    }
+  },
+  {
+    "id": "20261016-elderly-care-pricing",
+    "category": "society",
+    "published_at": "2026-10-16T15:10:00+08:00",
+    "source": {
+      "name": "新浪財經（中國青年報客戶端）",
+      "url": "https://finance.sina.cn/2026-10-16/detail-inivmpqz6900665.d.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Three Agencies Issue Inclusive Elderly-Care Guidelines; All Fees Must Be Listed",
+      "zh_hant": "三部門印發普惠養老指導意見　所有收費須列入清單",
+      "zh_hans": "三部门印发普惠养老指导意见　所有收费须列入清单"
+    },
+    "summary": {
+      "en": "Three central agencies — the NDRC, the Ministry of Civil Affairs and the National Health Commission — today issued guidelines to improve pricing mechanisms for inclusive elderly-care services. Care homes will be classified as basic-guarantee, inclusive-support or fully market-based, with differentiated fee management; basic service fees at basic-guarantee homes will follow government-guided prices. All charges must appear on an official list — anything off the list cannot be charged.",
+      "zh_hant": "國家發改委、民政部及國家衛健委今日聯合印發指導意見，進一步完善普惠養老服務價格形成機制。養老機構按功能劃分為兜底保障型、普惠支持型及完全市場型三類，實行差異化收費管理；兜底保障型機構基本服務費實行政府指導價。所有收費項目須納入清單管理，清單之外一律不得收費。",
+      "zh_hans": "国家发改委、民政部及国家卫健委今日联合印发指导意见，进一步完善普惠养老服务价格形成机制。养老机构按功能划分为兜底保障型、普惠支持型及完全市场型三类，实行差异化收费管理；兜底保障型机构基本服务费实行政府指导价。所有收费项目须纳入清单管理，清单之外一律不得收费。"
+    },
+    "tags": {
+      "en": [
+        "inclusive elderly care",
+        "elderly-care services",
+        "fee list"
+      ],
+      "zh_hant": [
+        "普惠養老",
+        "養老服務",
+        "收費清單"
+      ],
+      "zh_hans": [
+        "普惠养老",
+        "养老服务",
+        "收费清单"
+      ]
+    }
+  },
+  {
+    "id": "20261016-a-shares-close",
+    "category": "finance",
+    "published_at": "2026-10-16T15:00:00+08:00",
+    "source": {
+      "name": "新浪財經",
+      "url": "http://city.sina.cn/finance/2026-10-16/detail-inivmazi7722091.d.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "A-Shares Mixed at Close; Shanghai Index Up 0.24% as Defence and Low-Altitude Stocks Lead",
+      "zh_hant": "A股漲跌互現　滬指收升0.24%軍工低空經濟領漲",
+      "zh_hans": "A股涨跌互现　沪指收升0.24%军工低空经济领涨"
+    },
+    "summary": {
+      "en": "Mainland A-shares closed mixed, with the Shanghai Composite up 0.24% at 3,716.28, the Shenzhen Component down 0.12% and the ChiNext off 0.39%. Combined turnover was about 1.57 trillion yuan, with more than 3,300 stocks advancing. Defence shares led the gains with several hitting the daily limit, while low-altitude economy and flying-car concepts also rose; gaming and PCB stocks retreated.",
+      "zh_hant": "A股三大指數今日漲跌互現，滬指升0.24%報3,716.28點，深成指跌0.12%，創業板指跌0.39%。滬深兩市成交約1.57萬億元，全市場逾3,300隻個股上漲。軍工板塊領漲，多隻股份漲停；低空經濟及飛行汽車概念亦走強，房地產板塊拉升，遊戲及PCB概念則回調。",
+      "zh_hans": "A股三大指数今日涨跌互现，沪指升0.24%报3,716.28点，深成指跌0.12%，创业板指跌0.39%。沪深两市成交约1.57万亿元，全市场逾3,300只个股上涨。军工板块领涨，多只股份涨停；低空经济及飞行汽车概念亦走强，房地产板块拉升，游戏及PCB概念则回调。"
+    },
+    "tags": {
+      "en": [
+        "A-shares",
+        "Shanghai index",
+        "defence stocks",
+        "low-altitude economy"
+      ],
+      "zh_hant": [
+        "A股",
+        "滬指",
+        "軍工",
+        "低空經濟"
+      ],
+      "zh_hans": [
+        "A股",
+        "沪指",
+        "军工",
+        "低空经济"
+      ]
+    }
+  },
+  {
     "id": "20261016-hang-seng-close",
     "category": "finance",
     "published_at": "2026-10-16T16:08:00+08:00",
