@@ -1,5 +1,338 @@
 [
   {
+    "id": "20261016-hang-seng-close",
+    "category": "finance",
+    "published_at": "2026-10-16T16:08:00+08:00",
+    "source": {
+      "name": "新浪港股",
+      "url": "http://city.sina.cn/finance/2026-10-16/detail-inivmazi7774326.d.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Hang Seng Index Closes Up 0.52% at 24,186; Tech Index Gains 1.16%",
+      "zh_hant": "恒指收漲0.52%報24186點　恒生科指升1.16%",
+      "zh_hans": "恒指收涨0.52%报24186点　恒生科指升1.16%"
+    },
+    "summary": {
+      "en": "Hong Kong stocks retreated in the afternoon but still closed higher. The Hang Seng Index ended up 0.52% at 24,186.83, while the Hang Seng Tech Index rose 1.16% and the state-owned enterprises index gained 0.31%. Tech shares led the advance, with Lenovo surging over 8% and Kuaishou and Alibaba up more than 2%, while defence stocks and gold miners also strengthened.",
+      "zh_hant": "港股三大指數午后回落，收市仍錄得升幅。恒生指數收報24186.83點，升0.52%；恒生科技指數升1.16%，國企指數升0.31%。盤面上科網股普漲，聯想漲超8%，快手、阿里漲超2%；軍工股及黃金股亦走強。",
+      "zh_hans": "港股三大指数午后回落，收市仍录得升幅。恒生指数收报24186.83点，升0.52%；恒生科技指数升1.16%，国企指数升0.31%。盘面上科网股普涨，联想涨超8%，快手、阿里涨超2%；军工股及黄金股亦走强。"
+    },
+    "tags": {
+      "en": [
+        "Hang Seng",
+        "Hong Kong stocks",
+        "tech shares"
+      ],
+      "zh_hant": [
+        "恒指",
+        "港股",
+        "科網股"
+      ],
+      "zh_hans": [
+        "恒指",
+        "港股",
+        "科网股"
+      ]
+    }
+  },
+  {
+    "id": "20261016-chung-yeung-transport",
+    "category": "hk",
+    "published_at": "2026-10-16T14:30:00+08:00",
+    "source": {
+      "name": "Hongkong Invest",
+      "url": "https://hongkong-invest.com/%E9%81%8B%E8%BC%B8%E7%BD%B2%E5%91%BC%E7%B1%B2%E9%87%8D%E9%99%BD%E7%AF%80%E5%81%87%E6%9C%9F%E5%89%8D%E5%BE%8C%E5%B8%82%E6%B0%91%E5%92%8C%E6%97%85%E5%AE%A2%E6%87%89%E9%A0%90%E6%97%A9%E8%A8%88%E5%8A%83/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Transport Dept Urges Early Planning for Cross-Border Travel Over Chung Yeung Holiday",
+      "zh_hant": "運輸署籲重陽節假期前後　預早計劃跨境行程",
+      "zh_hans": "运输署吁重阳节假期前后　预早计划跨境行程"
+    },
+    "summary": {
+      "en": "The Transport Department warned that cross-boundary traffic will surge between October 16 and 19 over the Chung Yeung Festival holiday, with the return peak expected on Monday afternoon and evening. The MTR East Rail line, the high-speed rail, the Hong Kong-Zhuhai-Macao Bridge shuttle buses and cross-boundary coaches will all add services. Passengers are advised to travel outside peak hours and allow ample time.",
+      "zh_hant": "運輸署表示，重陽節假期前後（十月十六至十九日），各陸路口岸人流及車流將顯著增加，星期一下午至傍晚預計為回港高峰。港鐵東鐵綫、高鐵香港段、港珠澳大橋穿梭巴士及跨境直通巴士均會加強服務。署方呼籲市民預早計劃行程，盡量避開繁忙時間，並預留充裕交通時間。",
+      "zh_hans": "运输署表示，重阳节假期前后（十月十六至十九日），各陆路口岸人流及车流将显著增加，星期一下午至傍晚预计为回港高峰。港铁东铁线、高铁香港段、港珠澳大桥穿梭巴士及跨境直通巴士均会加强服务。署方呼吁市民预早计划行程，尽量避开繁忙时间，并预留充裕交通时间。"
+    },
+    "tags": {
+      "en": [
+        "Chung Yeung Festival",
+        "Transport Department",
+        "cross-border"
+      ],
+      "zh_hant": [
+        "重陽節",
+        "運輸署",
+        "跨境交通"
+      ],
+      "zh_hans": [
+        "重阳节",
+        "运输署",
+        "跨境交通"
+      ]
+    }
+  },
+  {
+    "id": "20261016-interpol-assembly-hk",
+    "category": "hk",
+    "published_at": "2026-10-16T11:27:00+08:00",
+    "source": {
+      "name": "政府新聞網",
+      "url": "http://www.news.gov.hk/chi/2026/10/20261016/20261016_112730_080.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Hong Kong to Host INTERPOL General Assembly Next Month; Privileges Order Gazetted",
+      "zh_hant": "國際刑警第94屆全體大會下月在港舉行　相關命令刊憲",
+      "zh_hans": "国际刑警第94届全体大会下月在港举行　相关命令刊宪"
+    },
+    "summary": {
+      "en": "The 94th INTERPOL General Assembly will be held in Hong Kong from November 30 to December 3, alongside the 231st Executive Committee meeting on November 29. To give effect to the privileges and immunities agreement signed between the central government and INTERPOL, the government today gazetted the relevant order. The order will be tabled in the Legislative Council next Wednesday and take effect the same day.",
+      "zh_hant": "由國家主辦、香港承辦的國際刑警組織第231次執委會會議及第94屆全體大會下月底在港舉行，日期分別為11月29日及11月30日至12月3日。特區政府今日將相關特權及豁免權命令刊憲，下周三提交立法會審議，同日生效。特區政府表示會全力辦好會議，向世界展現「一國兩制」成果。",
+      "zh_hans": "由国家主办、香港承办的国际刑警组织第231次执委会会议及第94届全体大会下月底在港举行，日期分别为11月29日及11月30日至12月3日。特区政府今日将相关特权及豁免权命令刊宪，下周三提交立法会审议，同日生效。特区政府表示会全力办好会议，向世界展现「一国两制」成果。"
+    },
+    "tags": {
+      "en": [
+        "INTERPOL",
+        "General Assembly",
+        "Hong Kong"
+      ],
+      "zh_hant": [
+        "國際刑警組織",
+        "全體大會",
+        "香港"
+      ],
+      "zh_hans": [
+        "国际刑警组织",
+        "全体大会",
+        "香港"
+      ]
+    }
+  },
+  {
+    "id": "20261016-wang-yi-herzog",
+    "category": "china",
+    "published_at": "2026-10-16T16:00:00+08:00",
+    "source": {
+      "name": "路透社",
+      "url": "https://businessintelligence.mo/2026/10/14/%e4%b8%ad%e5%9c%8b9%e6%9c%88%e6%96%b0%e5%a2%9e%e8%b2%b8%e6%ac%be%e5%8f%8a%e7%a4%be%e8%9e%8d%e7%95%a5%e8%b6%85%e9%a0%90%e6%9c%9f%ef%bc%8c%e8%b2%a8%e5%b9%a3%e6%94%bf%e7%ad%96%e6%88%96%e9%80%b2%e5%85%a5/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Wang Yi Meets Israeli President: Urges Open Gaza Corridors, Halt to Settlements",
+      "zh_hant": "王毅會見以色列總統　促全面打開加沙通道、停止定居點",
+      "zh_hans": "王毅会见以色列总统　促全面打开加沙通道、停止定居点"
+    },
+    "summary": {
+      "en": "Chinese Foreign Minister Wang Yi met Israeli President Isaac Herzog on Thursday, saying the immediate priority is to fully open humanitarian corridors into Gaza and stop the humanitarian disaster from spreading. He also said Israel should halt and reverse the establishment of settlements in the West Bank. The meeting came as tensions in the Middle East remain high.",
+      "zh_hant": "中國外交部長王毅周四會見以色列總統赫爾佐格時表示，當務之急是全面打開進入加沙地區的通道，不能允許人道主義災難持續蔓延；以色列亦應停止並撤銷在約旦河西岸強行設立定居點的行徑。會晤之際，中東地區局勢持續緊張。",
+      "zh_hans": "中国外交部长王毅周四会见以色列总统赫尔佐格时表示，当务之急是全面打开进入加沙地区的通道，不能允许人道主义灾难持续蔓延；以色列亦应停止并撤销在约旦河西岸强行设立定居点的行径。会晤之际，中东地区局势持续紧张。"
+    },
+    "tags": {
+      "en": [
+        "Wang Yi",
+        "Israel",
+        "Gaza"
+      ],
+      "zh_hant": [
+        "王毅",
+        "以色列",
+        "加沙"
+      ],
+      "zh_hans": [
+        "王毅",
+        "以色列",
+        "加沙"
+      ]
+    }
+  },
+  {
+    "id": "20261016-us-ppi-sept",
+    "category": "finance",
+    "published_at": "2026-10-16T15:00:00+08:00",
+    "source": {
+      "name": "WEEX",
+      "url": "https://www.weex.com/news/detail/stocks-and-crypto-rebound-after-hot-ppi-weex-tradfi-daily-brief-october-16-2026-kz1k8ln2dcpp5u7bcevkcfsw"
+    },
+    "image_url": "",
+    "title": {
+      "en": "US September PPI Jumps 6.3% to Four-Year High; Stocks Rebound After Selloff",
+      "zh_hant": "美國9月PPI同比漲6.3%創逾四年新高　美股先跌後回升",
+      "zh_hans": "美国9月PPI同比涨6.3%创逾四年新高　美股先跌后回升"
+    },
+    "summary": {
+      "en": "US producer price inflation rose 6.3% year on year in September, the highest in more than four years, briefly lifting bets on further rate hikes. Risk assets sold off on the hot print before rebounding, with the three major indexes closing higher. Bitcoin briefly broke below $80,000 before recovering to the $82,000–$83,000 range.",
+      "zh_hant": "美國9月份生產者物價指數同比上漲6.3%，為逾四年來最高，一度推高市場對加息的押注。風險資產在數據公布後先跌後反彈，三大股指收市向上。比特幣曾短暫跌穿8萬美元，其後回升至8.2萬至8.3萬美元水平。",
+      "zh_hans": "美国9月份生产者物价指数同比上涨6.3%，为逾四年来最高，一度推高市场对加息的押注。风险资产在数据公布后先跌后反弹，三大股指收市向上。比特币曾短暂跌穿8万美元，其后回升至8.2万至8.3万美元水平。"
+    },
+    "tags": {
+      "en": [
+        "US PPI",
+        "inflation",
+        "US stocks"
+      ],
+      "zh_hant": [
+        "美國PPI",
+        "通脹",
+        "美股"
+      ],
+      "zh_hans": [
+        "美国PPI",
+        "通胀",
+        "美股"
+      ]
+    }
+  },
+  {
+    "id": "20261016-italy-aviation-strike",
+    "category": "world",
+    "published_at": "2026-10-16T14:28:00+08:00",
+    "source": {
+      "name": "The Orbit Post",
+      "url": "https://theorbitpostnews.us/italy-easyjet-strike-october-16-flights/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Italy Aviation Chaos: easyJet 24-Hour Strike Grounds Hundreds of Flights",
+      "zh_hant": "意大利航空大罷工　易捷停飛24小時、約200英航班取消",
+      "zh_hans": "意大利航空大罢工　易捷停飞24小时、约200英航班取消"
+    },
+    "summary": {
+      "en": "A 24-hour strike by easyJet's Italian crews, called by the USB Lavoro Privato union, ran from midnight to midnight on Friday, coinciding with walkouts by airport workers in Pisa, Florence and Venice. Around 200 easyJet flights between the UK and Italy were cancelled. Under Italian law, flights departing between 7am–10am and 6pm–9pm are protected and must operate; all others face cancellation or delay.",
+      "zh_hant": "意大利易捷航空機組人員周五展開24小時全國大罷工，同日比薩、佛羅倫斯及威尼斯機場員工亦有罷工行動。約200班往返英國與意大利的易捷航班取消。按意大利法例，上午7至10時及晚上6至9時為受保障時段，航班必須飛行；其餘時段航班面臨取消或延誤風險。",
+      "zh_hans": "意大利易捷航空机组人员周五展开24小时全国大罢工，同日比萨、佛罗伦萨及威尼斯机场员工亦有罢工行动。约200班往返英国与意大利的易捷航班取消。按意大利法例，上午7至10时及晚上6至9时为受保障时段，航班必须飞行；其余时段航班面临取消或延误风险。"
+    },
+    "tags": {
+      "en": [
+        "Italy",
+        "aviation strike",
+        "easyJet"
+      ],
+      "zh_hant": [
+        "意大利",
+        "航空罷工",
+        "易捷航空"
+      ],
+      "zh_hans": [
+        "意大利",
+        "航空罢工",
+        "易捷航空"
+      ]
+    }
+  },
+  {
+    "id": "20261016-amazon-bee",
+    "category": "tech",
+    "published_at": "2026-10-16T10:15:00+08:00",
+    "source": {
+      "name": "MoneyDJ理財網",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=ba43a5c8-b25a-4d79-9c9b-7069a6c8280c"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Amazon Launches Two Bee AI Wearables, Deepens Alexa+ Integration",
+      "zh_hant": "亞馬遜推兩款Bee AI裝置　串接Alexa+主攻日常應用",
+      "zh_hans": "亚马逊推两款Bee AI装置　串接Alexa+主攻日常应用"
+    },
+    "summary": {
+      "en": "Amazon on October 15 unveiled two Bee-branded AI devices: the wrist-worn Bee Frontier and Bee Eclipse, a card-sized accessory that pairs with smartphones. Both focus on conversation summaries, information extraction and task management, and integrate with Alexa+ so users can access summaries and to-do lists hands-free. The launch extends Amazon's AI capabilities further into everyday hardware.",
+      "zh_hant": "亞馬遜於10月15日推出兩款Bee品牌AI裝置：可佩戴於手腕的Bee Frontier，以及可連接智能手機的卡片式配件Bee Eclipse。兩款產品主打對話摘要、重點資訊提取及任務管理，並與Alexa+整合，讓用戶可在免手持情境下存取摘要與待辦事項。Amazon正將AI能力進一步導入日常消費硬件。",
+      "zh_hans": "亚马逊于10月15日推出两款Bee品牌AI装置：可佩戴于手腕的Bee Frontier，以及可连接智能手机的卡片式配件Bee Eclipse。两款产品主打对话摘要、重点信息提取及任务管理，并与Alexa+整合，让用户可在免手持情境下存取摘要与待办事项。Amazon正将AI能力进一步导入日常消费硬件。"
+    },
+    "tags": {
+      "en": [
+        "Amazon",
+        "AI devices",
+        "Alexa"
+      ],
+      "zh_hant": [
+        "亞馬遜",
+        "AI裝置",
+        "Alexa"
+      ],
+      "zh_hans": [
+        "亚马逊",
+        "AI装置",
+        "Alexa"
+      ]
+    }
+  },
+  {
+    "id": "20261016-q3-smartphone-down",
+    "category": "tech",
+    "published_at": "2026-10-16T13:00:00+08:00",
+    "source": {
+      "name": "SayDigi",
+      "url": "https://www.saydigi.com/2026/10/1456062.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Global Q3 Smartphone Shipments Plunge 20% as Memory Shortage Bites",
+      "zh_hant": "記憶體短缺夾擊　全球Q3智能手機出貨年減20%",
+      "zh_hans": "记忆体短缺夹击　全球Q3智能手机出货年减20%"
+    },
+    "summary": {
+      "en": "Global smartphone shipments fell 20% year on year in the third quarter of 2026, the lowest third-quarter level since 2012, according to Counterpoint Research's preliminary data. The ongoing memory shortage pushed retail prices up 20% this year. Samsung led with 23% market share and Apple followed with 22%, while Xiaomi, OPPO and vivo all saw shipments drop more than 20%.",
+      "zh_hant": "Counterpoint Research初步統計顯示，2026年第三季全球智能手機出貨量同比減少20%，創下2012年以來第三季最低紀錄。記憶體供應短缺持續推高成本，今年全球手機零售價已上漲20%。三星以23%市占居首，蘋果達22%，小米、OPPO及vivo出貨均跌逾兩成。",
+      "zh_hans": "Counterpoint Research初步统计显示，2026年第三季全球智能手机出货量同比减少20%，创下2012年以来第三季最低纪录。记忆体供应短缺持续推高成本，今年全球手机零售价已上涨20%。三星以23%市占居首，苹果达22%，小米、OPPO及vivo出货均跌逾两成。"
+    },
+    "tags": {
+      "en": [
+        "smartphones",
+        "shipments",
+        "memory shortage"
+      ],
+      "zh_hant": [
+        "智能手機",
+        "出貨量",
+        "記憶體短缺"
+      ],
+      "zh_hans": [
+        "智能手机",
+        "出货量",
+        "记忆体短缺"
+      ]
+    }
+  },
+  {
+    "id": "20261016-openai-altman-device",
+    "category": "tech",
+    "published_at": "2026-10-16T09:13:00+08:00",
+    "source": {
+      "name": "商傳媒",
+      "url": "https://sunmedia.tw/news/technology/1792105032-OpenAI%E5%9F%B7%E8%A1%8C%E9%95%B7%E5%A5%A7%E7%89%B9%E6%9B%BC%E9%96%8B%E7%99%BAAI%E8%A3%9D%E7%BD%AE%E3%80%80%E6%AC%B2%E6%8C%91%E6%88%B0%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E9%9C%B8%E4%B8%BB%E5%9C%B0%E4%BD%8D"
+    },
+    "image_url": "",
+    "title": {
+      "en": "OpenAI's Altman Building Screenless AI Device to Challenge Smartphones",
+      "zh_hant": "OpenAI奧特曼開發AI裝置　挑戰智能手機霸主地位",
+      "zh_hans": "OpenAI奥特曼开发AI装置　挑战智能手机霸主地位"
+    },
+    "summary": {
+      "en": "OpenAI chief executive Sam Altman is developing a new AI hardware device that could one day replace the smartphone, according to reports. The secretive project, underway for more than a year with strong funding and well-known investors, will put generative AI at its core, prioritising voice commands and an intuitive interface over screens and apps. A fully functional prototype is still years away.",
+      "zh_hant": "據報導，OpenAI執行長奧特曼正開發一款全新AI硬件裝置，目標未來取代智能手機。這項秘密計劃已投入開發逾一年，獲雄厚資金及知名投資者支持，核心將運用生成式AI技術，以語音指令和直覺式介面為主，擺脫螢幕與App限制。不過完整功能的實體原型料仍需數年才問世。",
+      "zh_hans": "据报道，OpenAI执行长奥特曼正开发一款全新AI硬件装置，目标未来取代智能手机。这项秘密计划已投入开发逾一年，获雄厚资金及知名投资者支持，核心将运用生成式AI技术，以语音指令和直觉式介面为主，摆脱萤幕与App限制。不过完整功能的实体原型料仍需数年才问世。"
+    },
+    "tags": {
+      "en": [
+        "OpenAI",
+        "Sam Altman",
+        "AI hardware"
+      ],
+      "zh_hant": [
+        "OpenAI",
+        "奧特曼",
+        "AI裝置"
+      ],
+      "zh_hans": [
+        "OpenAI",
+        "奥特曼",
+        "AI装置"
+      ]
+    }
+  },
+  {
     "id": "20261016-huanggang-port-qrcode",
     "category": "society",
     "published_at": "2026-10-16T11:03:00+08:00",
