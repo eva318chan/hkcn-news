@@ -1,0 +1,76 @@
+[
+  {
+    "id": "20261017-us-stocks-friday-ai-selloff",
+    "category": "finance",
+    "published_at": "2026-10-17T01:30:36+08:00",
+    "source": {
+      "name": "Reuters（經 Devdiscourse 轉載）",
+      "url": "https://www.devdiscourse.com/article/international/3993844-us-stocks-sp-500-nasdaq-set-for-steep-weekly-losses-as-ai-jitters-rattle-investors"
+    },
+    "image_url": "",
+    "title": {
+      "en": "S&P 500, Nasdaq head for steep weekly losses as AI trade unravels",
+      "zh_hant": "AI 概念股拋售潮：標普 500 與納指周線料錄得重挫",
+      "zh_hans": "AI 概念股抛售潮：标普 500 与纳指周线料录得重挫"
+    },
+    "summary": {
+      "en": "US stocks fell on Friday as cracks in the AI trade deepened, leaving the S&P 500 and Nasdaq on track for their steepest weekly losses since June. Chipmakers bore the brunt: the semiconductor index dropped 1.8%, heading for its worst eight-session run since April 2025, while Nvidia-backed CoreWeave plunged 10.3% on debt worries. Investors rotated into defensive sectors, lifting the Dow to its highest in over a month, as hotter inflation data reinforced expectations the Federal Reserve will keep rates on hold.",
+      "zh_hant": "美股周五受 AI 概念股拋售拖累下跌，標普 500 指數與納斯達克指數料錄得六月以來最大單周跌幅。晶片股首當其衝，半導體指數跌 1.8%，料創 2025 年四月以來最差的連續八個交易日表現；Nvidia 參投的 CoreWeave 因債務憂慮急挫 10.3%。資金轉向防守性板塊，帶動道指升至逾一個月高位；通脹數據勝預期，市場預料聯儲局將維持利率不變。",
+      "zh_hans": "美股周五受 AI 概念股抛售拖累下跌，标普 500 指数与纳斯达克指数料录得六月以来最大单周跌幅。芯片股首当其冲，半导体指数跌 1.8%，料创 2025 年四月以来最差的连续八个交易日表现；Nvidia 参投的 CoreWeave 因债务忧虑急挫 10.3%。资金转向防守性板块，带动道指升至逾一个月高位；通胀数据胜预期，市场预料联储局将维持利率不变。"
+    },
+    "tags": {
+      "en": [
+        "US stocks",
+        "AI trade",
+        "Federal Reserve"
+      ],
+      "zh_hant": [
+        "美股",
+        "AI 概念股",
+        "聯儲局"
+      ],
+      "zh_hans": [
+        "美股",
+        "AI 概念股",
+        "联储局"
+      ]
+    }
+  },
+  {
+    "id": "20261017-trump-zacharia-press-secretary-out",
+    "category": "world",
+    "published_at": "2026-10-17T02:08:00+08:00",
+    "source": {
+      "name": "NPR",
+      "url": "https://kansaspublicradio.org/npr-news/2026-10-16/katie-zacharia-is-transitioning-out-as-press-secretary-white-house-says"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Trump's press secretary Katie Zacharia out after five days",
+      "zh_hant": "特朗普新聞秘書凱蒂·扎卡里亞上任僅五天即離職",
+      "zh_hans": "特朗普新闻秘书凯蒂·扎卡里亚上任仅五天即离职"
+    },
+    "summary": {
+      "en": "Katie Zacharia is leaving her post as White House press secretary just five days after starting, a White House official told NPR on Friday. Her brief tenure was marred by a halting debut briefing on Tuesday and questions over her legal credentials after she acknowledged not passing the bar exam. Earlier in the day, President Trump told reporters he had advised Zacharia to 'reconsider' staying in the job. Zacharia, a former communications adviser to Trump Media, had replaced Karoline Leavitt, who stepped down in August.",
+      "zh_hant": "白宮官員周五向 NPR 證實，新聞秘書凱蒂·扎卡里亞上任僅五天便離職。她周二的首場記者會表現生硬，加上承認未通過律師資格考試，履歷備受質疑。特朗普同日較早時向記者表示，已建議扎卡里亞「重新考慮」是否留任。扎卡里亞曾任特朗普媒體集團傳訊顧問，接替八月辭職的卡羅琳·萊維特。",
+      "zh_hans": "白宫官员周五向 NPR 证实，新闻秘书凯蒂·扎卡里亚上任仅五天便离职。她周二的首场记者会表现生硬，加上承认未通过律师资格考试，履历备受质疑。特朗普同日较早时向记者表示，已建议扎卡里亚「重新考虑」是否留任。扎卡里亚曾任特朗普媒体集团传讯顾问，接替八月辞职的卡罗琳·莱维特。"
+    },
+    "tags": {
+      "en": [
+        "White House",
+        "Trump administration",
+        "press secretary"
+      ],
+      "zh_hant": [
+        "白宮",
+        "特朗普政府",
+        "新聞秘書"
+      ],
+      "zh_hans": [
+        "白宫",
+        "特朗普政府",
+        "新闻秘书"
+      ]
+    }
+  }
+]
