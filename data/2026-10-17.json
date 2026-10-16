@@ -1,5 +1,223 @@
 [
   {
+    "id": "20261017-us-stocks-friday-close",
+    "category": "finance",
+    "published_at": "2026-10-17T04:45:00+08:00",
+    "source": {
+      "name": "AP (via WPTF)",
+      "url": "https://www.wptf.com/2026/10/16/18609/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Wall Street ends lower Friday as tech sell-off deepens; S&P 500 and Nasdaq post worst week since June",
+      "zh_hant": "美股周五收低　科技股拋售加劇　標指納指創6月以來最差單周",
+      "zh_hans": "美股周五收低　科技股抛售加剧　标指纳指创6月以来最差单周"
+    },
+    "summary": {
+      "en": "U.S. stocks closed lower on Friday as heavy selling in technology and chip shares weighed on the market. The S&P 500 fell 1.1% to 7,659.44 and the Nasdaq composite sank 2.1% to 26,140.03, with both indexes recording their worst week since June. The Dow Jones Industrial Average fared better, slipping 0.3% to 52,002.41, as gains in banks and energy shares cushioned the decline. Investors remained worried that AI-related firms may struggle to keep borrowing amid elevated bond yields, with the 10-year Treasury at 5.09%.",
+      "zh_hant": "美股周五收市下跌，科技股及晶片股遭大幅拋售拖累大市。標普500指數跌1.1%，收報7,659.44點；納斯達克綜合指數急挫2.1%，收報26,140.03點，兩者均錄得6月以來表現最差的一周。道瓊斯工業平均指數跌幅較溫和，跌0.3%收報52,002.41點，銀行股及能源股上升緩衝了跌勢。市場憂慮在債息高企下，與人工智能相關企業難以持續舉債擴張，10年期美債孳息報5.09%。",
+      "zh_hans": "美股周五收市下跌，科技股及芯片股遭大幅抛售拖累大市。标普500指数跌1.1%，收报7,659.44点；纳斯达克综合指数急挫2.1%，收报26,140.03点，两者均录得6月以来表现最差的一周。道琼斯工业平均指数跌幅较温和，跌0.3%收报52,002.41点，银行股及能源股上升缓冲了跌势。市场忧虑在债息高企下，与人工智能相关企业难以持续举债扩张，10年期美债孳息报5.09%。"
+    },
+    "tags": {
+      "en": [
+        "US stocks",
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones",
+        "tech sell-off",
+        "AI stocks"
+      ],
+      "zh_hant": [
+        "美股",
+        "標普500",
+        "納斯達克",
+        "道瓊斯",
+        "科技股拋售",
+        "AI概念股"
+      ],
+      "zh_hans": [
+        "美股",
+        "标普500",
+        "纳斯达克",
+        "道琼斯",
+        "科技股抛售",
+        "AI概念股"
+      ]
+    }
+  },
+  {
+    "id": "20261017-trump-dalton-rally",
+    "category": "world",
+    "published_at": "2026-10-17T05:45:00+08:00",
+    "source": {
+      "name": "AP (via KXL)",
+      "url": "https://www.kxl.com/trump-will-rally-georgia-republicans-despite-party-divisions-in-battleground-state/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Trump holds 90-minute Georgia rally, mocks Ossoff and rallies GOP ticket ahead of midterms",
+      "zh_hant": "特朗普喬治亞州集會演說逾90分鐘　嘲諷奧索夫並為共和黨候選人站台",
+      "zh_hans": "特朗普佐治亚州集会演说逾90分钟　嘲讽奥索夫并为共和党候选人站台"
+    },
+    "summary": {
+      "en": "President Donald Trump campaigned in Dalton, Georgia, on Friday, delivering a meandering speech of more than 90 minutes in support of Republican Senate candidate Mike Collins and gubernatorial nominee Rick Jackson. Trump repeatedly mocked Democratic Senator Jon Ossoff, calling him \"Pee-wee Herman,\" and restated his false claims about the 2020 election. He also defended the war in Iran and his border policies, while protesters decrying immigration enforcement briefly interrupted the rally.",
+      "zh_hant": "美國總統特朗普周五在喬治亞州道爾頓舉行競選集會，發表逾90分鐘演說，為共和黨參議員候選人科林斯及州長候選人傑克遜站台。特朗普多次嘲諷民主黨參議員奧索夫，稱呼對方為「Pee-wee Herman」，並重申有關2020年大選的不實說法。演說期間有反對移民執法政策的示威者打斷集會，特朗普亦為伊朗戰事及邊境政策辯護。",
+      "zh_hans": "美国总统特朗普周五在佐治亚州道尔顿举行竞选集会，发表逾90分钟演说，为共和党参议员候选人科林斯及州长候选人杰克逊站台。特朗普多次嘲讽民主党参议员奥索夫，称呼对方为「Pee-wee Herman」，并重申有关2020年大选的不实说法。演说期间有反对移民执法政策的示威者打断集会，特朗普亦为伊朗战事及边境政策辩护。"
+    },
+    "tags": {
+      "en": [
+        "Donald Trump",
+        "Georgia rally",
+        "US midterms",
+        "Jon Ossoff",
+        "Mike Collins"
+      ],
+      "zh_hant": [
+        "特朗普",
+        "喬治亞州集會",
+        "美國中期選舉",
+        "奧索夫",
+        "科林斯"
+      ],
+      "zh_hans": [
+        "特朗普",
+        "佐治亚州集会",
+        "美国中期选举",
+        "奥索夫",
+        "科林斯"
+      ]
+    }
+  },
+  {
+    "id": "20261017-brazil-amazon-deforestation-record-low",
+    "category": "world",
+    "published_at": "2026-10-17T02:04:00+08:00",
+    "source": {
+      "name": "Reuters (via 106.5 Jack FM)",
+      "url": "https://www.jack1065.com/2026/10/16/deforestation-in-brazils-amazon-falls-to-lowest-on-record-in-2025-26/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Brazil says Amazon deforestation fell to lowest level since records began in 1988",
+      "zh_hant": "巴西指亞馬遜毀林降至1988年有紀錄以來最低",
+      "zh_hans": "巴西指亚马逊毁林降至1988年有纪录以来最低"
+    },
+    "summary": {
+      "en": "Brazil's government announced Friday that annual deforestation in the Amazon fell to its lowest level since records began in 1988. Official satellite data showed 3,335 square kilometers of rainforest were lost between August 2025 and July 2026, a drop of about 42% from the previous period. The government credited renewed enforcement and environmental policies under President Luiz Inacio Lula da Silva, saying deforestation has fallen 71% since 2023.",
+      "zh_hant": "巴西政府周五宣布，亞馬遜雨林的年度毀林面積降至自1988年有紀錄以來的最低水平。官方衛星數據顯示，2025年8月至2026年7月期間，雨林損失3,335平方公里，較上一周期下降約42%。政府將成果歸功於總統盧拉治下重啟的執法及環保政策，指自2023年以來毀林已減少71%。",
+      "zh_hans": "巴西政府周五宣布，亚马逊雨林的年度毁林面积降至自1988年有纪录以来的最低水平。官方卫星数据显示，2025年8月至2026年7月期间，雨林损失3,335平方公里，较上一周期下降约42%。政府将成果归功于总统卢拉治下重启的执法及环保政策，指自2023年以来毁林已减少71%。"
+    },
+    "tags": {
+      "en": [
+        "Brazil",
+        "Amazon",
+        "deforestation",
+        "environment",
+        "Lula"
+      ],
+      "zh_hant": [
+        "巴西",
+        "亞馬遜",
+        "毀林",
+        "環境",
+        "盧拉"
+      ],
+      "zh_hans": [
+        "巴西",
+        "亚马逊",
+        "毁林",
+        "环境",
+        "卢拉"
+      ]
+    }
+  },
+  {
+    "id": "20261017-oregon-school-shooting-aftermath",
+    "category": "society",
+    "published_at": "2026-10-17T05:00:00+08:00",
+    "source": {
+      "name": "AFP (via Le Pays De France)",
+      "url": "https://www.lepaysdefrance.fr/en/Boulevard/749072-great-hero-praised-for-saving-lives-in-oregon-school-shooting.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Bystander who stopped Oregon school shooter identified as father of two; Trump hails \"great hero\"",
+      "zh_hant": "俄勒岡校園槍擊案　制服槍手的見義勇為者身份曝光　特朗普讚「大英雄」",
+      "zh_hans": "俄勒冈校园枪击案　制服枪手的见义勇为者身份曝光　特朗普赞「大英雄」"
+    },
+    "summary": {
+      "en": "The armed bystander who shot dead the teenage gunman during Thursday's elementary school shooting in Bend, Oregon, has been identified by his family as 36-year-old Kaylub Giamanco, a father of two pupils at Silver Rail Elementary. Police say Giamanco, who holds a concealed-carry permit, followed the 16-year-old suspect into the school and confronted him after the teen killed three children aged five, eight and 11, and a teacher. President Donald Trump praised Giamanco as a \"great hero.\" A seven-year-old child and a teacher remain in critical condition.",
+      "zh_hant": "在俄勒岡州本德市小學槍擊案中開槍制服槍手的持槍市民，經家人確認為36歲的凱盧布·賈曼科，其兩名子女均就讀涉事的錫爾弗雷爾小學。警方指，持有隱蔽持槍證的賈曼科尾隨16歲槍手進入校園並將其擊斃，槍手此前已殺害三名分別5歲、8歲及11歲的學童和一名教師。總統特朗普讚揚賈曼科是「大英雄」。一名7歲學童及一名教師仍然危殆。",
+      "zh_hans": "在俄勒冈州本德市小学枪击案中开枪制服枪手的持枪市民，经家人确认为36岁的凯卢布·贾曼科，其两名子女均就读涉事的锡尔弗雷尔小学。警方指，持有隐蔽持枪证的贾曼科尾随16岁枪手进入校园并将其击毙，枪手此前已杀害三名分别5岁、8岁及11岁的学童和一名教师。总统特朗普赞扬贾曼科是「大英雄」。一名7岁学童及一名教师仍然危殆。"
+    },
+    "tags": {
+      "en": [
+        "Oregon",
+        "school shooting",
+        "gun violence",
+        "Bend",
+        "Donald Trump"
+      ],
+      "zh_hant": [
+        "俄勒岡",
+        "校園槍擊",
+        "槍械暴力",
+        "本德市",
+        "特朗普"
+      ],
+      "zh_hans": [
+        "俄勒冈",
+        "校园枪击",
+        "枪械暴力",
+        "本德市",
+        "特朗普"
+      ]
+    }
+  },
+  {
+    "id": "20261017-faa-drone-ban-border",
+    "category": "others",
+    "published_at": "2026-10-17T02:55:00+08:00",
+    "source": {
+      "name": "DroneXL",
+      "url": "https://www.dronexl.co/2026/10/16/faa-bans-drones-us-mexico-border-october-2027/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "FAA bans all drones within one nautical mile of US-Mexico border for a year",
+      "zh_hant": "美聯邦航空局禁無人機在美墨邊境一海里範圍飛行一年",
+      "zh_hans": "美联邦航空局禁无人机在美墨边境一海里范围内飞行一年"
+    },
+    "summary": {
+      "en": "The Federal Aviation Administration has banned drones within one nautical mile of the entire US-Mexico border for one year, under three NOTAMs published Friday. The restriction covers altitudes from the ground to 400 feet and applies to all drones, including recreational models under 250 grams, with flights in the zone now requiring approval from US Customs and Border Protection. The temporary flight restriction takes effect on October 20, 2026 and runs through October 19, 2027.",
+      "zh_hant": "美國聯邦航空管理局周五發布三份飛航公告，禁止所有無人機在美墨邊境一海里範圍內飛行，為期一年。禁令涵蓋地面至400呎空域，適用於所有無人機，包括250克以下的娛樂用機型，日後須經美國海關及邊境保衛局批准方可進入該範圍飛行。臨時飛行限制將於2026年10月20日生效，至2027年10月19日屆滿。",
+      "zh_hans": "美国联邦航空管理局周五发布三份飞航公告，禁止所有无人机在美墨边境一海里范围内飞行，为期一年。禁令涵盖地面至400呎空域，适用于所有无人机，包括250克以下的娱乐用机型，日后须经美国海关及边境保卫局批准方可进入该范围飞行。临时飞行限制将于2026年10月20日生效，至2027年10月19日届满。"
+    },
+    "tags": {
+      "en": [
+        "FAA",
+        "drones",
+        "US-Mexico border",
+        "aviation",
+        "NOTAM"
+      ],
+      "zh_hant": [
+        "聯邦航空局",
+        "無人機",
+        "美墨邊境",
+        "航空",
+        "飛航公告"
+      ],
+      "zh_hans": [
+        "联邦航空局",
+        "无人机",
+        "美墨边境",
+        "航空",
+        "飞航公告"
+      ]
+    }
+  },
+  {
     "id": "20261017-us-stocks-friday-ai-selloff",
     "category": "finance",
     "published_at": "2026-10-17T01:30:36+08:00",
