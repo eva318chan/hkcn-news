@@ -593,5 +593,31 @@
    "短劇",
    "中期業績"
   ]
+ },
+ {
+  "id": "20261017-moonshot-hk-ipo-dispute",
+  "category": "finance",
+  "published_at": "2026-10-17T14:50:00+08:00",
+  "source": {
+   "name": "工商時報／路透社",
+   "url": "https://www.ctee.com.tw/news/20261012700934-430804"
+  },
+  "image_url": "https://hkcn-news.vercel.app/assets/img/20261017-moonshot-ipo.jpg",
+  "title": {
+   "en": "Kimi Maker Moonshot Said to File Confidentially for HK Listing at $50B Valuation Amid Equity Dispute",
+   "zh_hant": "Kimi母公司月之暗面傳秘密遞表赴港上市　估值500億美元　創辦人陷股權糾紛",
+   "zh_hans": "Kimi母公司月之暗面传秘密递表赴港上市　估值500亿美元　创办人陷股权纠纷"
+  },
+  "summary": {
+   "en": "Chinese AI unicorn Moonshot AI has confidentially filed for a Hong Kong listing, Reuters reported, in an IPO that could raise up to US$5 billion at a valuation of about US$50 billion, with a debut possible in Q1 2027. Meanwhile founders Yang Zhilin and Zhang Yutao face claims from their former venture Recurrent.ai and some investors over alleged misrepresentation and unauthorised transfer of AI resources; the dispute is in Hong Kong arbitration with settlement talks under way. Recurrent.ai seeks 10.5% of Moonshot's initial shares as compensation, worth over US$700 million at the June valuation. Yang denies wrongdoing, saying the spin-off had board consent.",
+   "zh_hant": "內地AI獨角獸月之暗面（Moonshot AI）據報已秘密向港交所遞交上市申請，市場估計最快2027年首季掛牌，集資額最高可達50億美元（約390億港元），估值約500億美元（約3,900億港元）。與此同時，路透社引述消息指，創辦人楊植麟及技術總監張宇韜被昔日共同創辦的循環智能及其部分投資者指控虛假陳述及未經授權轉移技術資源，相關爭議已進入香港仲裁程序，雙方正尋求和解。循環智能方面要求相當於月之暗面初始股份10.5%的賠償，按今年6月估值計算涉資超過7億美元（約55億港元）。楊植麟否認指控，強調成立新公司已獲循環智能董事會同意。",
+   "zh_hans": "内地AI独角兽月之暗面（Moonshot AI）据报已秘密向港交所递交上市申请，市场估计最快2027年首季挂牌，集资额最高可达50亿美元（约390亿港元），估值约500亿美元（约3,900亿港元）。与此同时，路透社引述消息指，创办人杨植麟及技术总监张宇韬被昔日共同创办的循环智能及其部分投资者指控虚假陈述及未经授权转移技术资源，相关争议已进入香港仲裁程序，双方正寻求和解。循环智能方面要求相当于月之暗面初始股份10.5%的赔偿，按今年6月估值计算涉资超过7亿美元（约55亿港元）。杨植麟否认指控，强调成立新公司已获循环智能董事会同意。"
+  },
+  "tags": [
+   "月之暗面",
+   "Kimi",
+   "港股IPO",
+   "楊植麟"
+  ]
  }
 ]
