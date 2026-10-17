@@ -1,5 +1,511 @@
 [
   {
+    "id": "20261017-hormuz-supertanker-mine-strike",
+    "category": "world",
+    "published_at": "2026-10-17T15:50:10+08:00",
+    "source": {
+      "name": "Sweden Herald",
+      "url": "https://swedenherald.com/article/iran-says-supertanker-hit-naval-mine-in-strait-of-hormuz-as-ships-come-under-fire-in-persian-gulf"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Iran says supertanker struck naval mine in Strait of Hormuz",
+      "zh_hant": "伊朗話有艘超級油輪喺霍爾木茲海峽撞到水雷",
+      "zh_hans": "伊朗称一艘超级油轮在霍尔木兹海峡触雷"
+    },
+    "summary": {
+      "en": "Iran's Revolutionary Guard said a supertanker carrying more than two million barrels of crude oil struck a naval mine in the Strait of Hormuz. The Iranian claim has not been independently confirmed by other parties. Separately, the British Navy's maritime watchdog UKMTO reported one or two vessels came under attack in the central Persian Gulf on Friday, with one ship apparently hit by rocket-propelled grenades fired from a small boat. No one was reported injured in the incidents.",
+      "zh_hant": "伊朗革命衛隊聲稱，有艘載住超過二百萬桶原油嘅超級油輪喺霍爾木茲海峽撞到水雷。不過呢個講法暫時未有獨立證實。另一方面，英國海軍嘅海事監察機構 UKMTO 話，星期五波斯灣中部有一至兩艘船遇襲，其中一艘疑似俾細艇發射嘅火箭推進榴彈打中。事件中暫時冇人受傷嘅報告。",
+      "zh_hans": "伊朗革命卫队声称，一艘载有超过二百万桶原油的超级油轮在霍尔木兹海峡触雷。不过这一说法暂未得到独立证实。另一方面，英国海军的海事监察机构 UKMTO 表示，周五波斯湾中部有一至两艘船只遇袭，其中一艘疑似被小艇发射的火箭推进榴弹击中。事件中暂无人员受伤的报告。"
+    },
+    "tags": {
+      "en": [
+        "Strait of Hormuz",
+        "Iran",
+        "supertanker",
+        "naval mine",
+        "UKMTO",
+        "energy security"
+      ],
+      "zh_hant": [
+        "霍爾木茲海峽",
+        "伊朗",
+        "超級油輪",
+        "水雷",
+        "UKMTO",
+        "能源安全"
+      ],
+      "zh_hans": [
+        "霍尔木兹海峡",
+        "伊朗",
+        "超级油轮",
+        "水雷",
+        "UKMTO",
+        "能源安全"
+      ]
+    }
+  },
+  {
+    "id": "20261017-huanggang-holiday-rush",
+    "category": "society",
+    "published_at": "2026-10-17T20:00:00+08:00",
+    "source": {
+      "name": "LivininHongKong.com",
+      "url": "https://livininhongkong.com/news/246/huanggang-braces-for-first-holiday-rush-with-over-100000-daily-crossings-expected/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Huanggang crossing braces for first holiday rush with over 100,000 daily crossings expected",
+      "zh_hant": "皇崗口岸迎首個假期人流高峰 預計每日過境超過十萬人次",
+      "zh_hans": "皇岗口岸迎首个假期人流高峰 预计每日过境超过十万人次"
+    },
+    "summary": {
+      "en": "The revamped Huanggang border crossing is preparing for its first holiday travel rush, with daily passenger journeys expected to exceed 100,000 over the Chung Yeung Festival long weekend. Security Secretary Chris Tang said the crossing handled about 92,000 passenger journeys on Friday, after around 80,000 a day from Monday to Thursday. He said operations had generally run smoothly, with clearance under the new co-location and joint-inspection arrangements usually taking less than five minutes. Authorities will open all automated and manual channels when needed and have deployed extra staff at the public transport interchange to manage passenger flow.",
+      "zh_hant": "完成改造嘅皇崗口岸準備迎接首個假期人流高峰，重陽節長假期預計每日過境人次超過十萬。保安局局長鄧炳強話，口岸星期五錄低約九萬二千人次出入，星期一至四每日就有約八萬人次。佢話新嘅「一地兩檢」安排下，過關一般唔使五分鐘，整體運作順暢。當局會喺有需要時開晒所有自動同人手通道，仲加派人手喺公共交通交匯處疏導人流。",
+      "zh_hans": "完成改造的皇岗口岸准备迎接首个假期人流高峰，重阳节长假期预计每日过境人次超过十万。保安局局长邓炳强表示，口岸周五录得约九万二千人次出入，周一至周四每日约八万人次。他说新的「一地两检」安排下，过关一般不用五分钟，整体运作顺畅。当局会在有需要时开完全部自动和人手通道，并加派人手在公共交通交汇处疏导人流。"
+    },
+    "tags": {
+      "en": [
+        "Huanggang",
+        "border crossing",
+        "Chung Yeung Festival",
+        "Chris Tang",
+        "Shenzhen",
+        "holiday rush"
+      ],
+      "zh_hant": [
+        "皇崗口岸",
+        "過境",
+        "重陽節",
+        "鄧炳強",
+        "深圳",
+        "假期人流"
+      ],
+      "zh_hans": [
+        "皇岗口岸",
+        "过境",
+        "重阳节",
+        "邓炳强",
+        "深圳",
+        "假期人流"
+      ]
+    }
+  },
+  {
+    "id": "20261017-kowloon-breakins-arrests",
+    "category": "hk",
+    "published_at": "2026-10-17T14:22:09+08:00",
+    "source": {
+      "name": "Dimsum Daily",
+      "url": "https://www.dimsumdaily.hk/hong-kong-police-arrest-two-men-over-hk1-7-million-in-kowloon-break-ins/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Hong Kong police arrest two men over HK$1.7 million in Kowloon break-ins",
+      "zh_hant": "警方拘兩漢涉九龍連環爆竊 損失總值約170萬元",
+      "zh_hans": "警方拘两男涉九龙连环爆窃 损失总值约170万港元"
+    },
+    "summary": {
+      "en": "Hong Kong police have arrested two men suspected of a series of night-time break-ins across Kowloon over the past three months, with reported losses of about HK$1.7 million. Officers moved in on Thursday, detaining a 54-year-old mainland Chinese man in Sham Shui Po and a 34-year-old Hong Kong resident in Tsim Sha Tsui. The arrests followed an investigation into a burglary in which four flats at a private residential block on Farm Road in Kowloon City were targeted, with more than HK$100,000 in cash, watches and credit cards taken. Police said the pair are being probed over at least six linked cases since July and further arrests have not been ruled out.",
+      "zh_hant": "警方拘捕咗兩名男子，涉嫌過去三個月喺九龍多區連環夜間爆竊，報稱損失總值約一百七十萬元。探員星期四收網，分別喺深水埗拘捕一名五十四歲內地男子，同喺尖沙咀拘捕一名三十四歲香港居民。案件起因係九龍城農圃道一個私人屋苑有四個單位被爆竊，損失超過十萬元現金、手錶同信用卡。警方話，兩人涉嫌同至少六宗自七月以嚟嘅連環爆竊案有關，唔排除再有人被捕。",
+      "zh_hans": "警方拘捕了两名男子，涉嫌过去三个月在九龙多区连环夜间爆窃，报称损失总值约一百七十万港元。探员周四收网，分别在深水埗拘捕一名五十四岁内地男子，以及在尖沙咀拘捕一名三十四岁香港居民。案件起因是九龙城农圃道一个私人屋苑有四个单位被爆窃，损失超过十万港元现金、手表和信用卡。警方表示，两人涉嫌与至少六宗自七月以来的连环爆窃案有关，不排除再有人被捕。"
+    },
+    "tags": {
+      "en": [
+        "burglary",
+        "Kowloon",
+        "Hong Kong police",
+        "arrest",
+        "Farm Road",
+        "crime"
+      ],
+      "zh_hant": [
+        "爆竊",
+        "九龍",
+        "香港警方",
+        "拘捕",
+        "農圃道",
+        "罪案"
+      ],
+      "zh_hans": [
+        "爆窃",
+        "九龙",
+        "香港警方",
+        "拘捕",
+        "农圃道",
+        "罪案"
+      ]
+    }
+  },
+  {
+    "id": "20261017-mainland-yachts-hk-southbound",
+    "category": "hk",
+    "published_at": "2026-10-17T14:15:24+08:00",
+    "source": {
+      "name": "大河网 Dahe.cn",
+      "url": "https://en.dahe.cn/2026/10-17/2141873.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "First mainland yachts arrive in Hong Kong under new southbound scheme",
+      "zh_hant": "首批廣東遊艇南下抵港 遊艇經濟新計劃啟動",
+      "zh_hans": "首批广东游艇南下抵港 游艇经济新计划启动"
+    },
+    "summary": {
+      "en": "The first batch of five yachts from Guangdong province has arrived in Hong Kong under a new cross-boundary southbound scheme launched on Friday, as the city positions itself as a premier yachting hub in Asia. Under the scheme, Guangdong yachts no longer need to secure a berth at a private yacht club or marina before entering Hong Kong and can instead use five designated anchorage areas. Acting Financial Secretary Michael Wong said Hong Kong is pushing ahead with four new yacht clubs at the airport, Lamma Island, Aberdeen and Hung Hom, providing over 1,100 new berths, about 30 percent more than current capacity. About 270 mainland yacht captains have completed the required training to operate in Hong Kong waters.",
+      "zh_hant": "首批五艘嚟自廣東省嘅遊艇，喺星期五啟動嘅新跨境南下計劃下抵達香港，標誌香港發展亞洲遊艇中心邁出新一步。新計劃下，廣東遊艇唔使事先喺私人遊艇會或碼頭訂位，可以直接使用五個指定碇泊區。署理財政司司長黃偉綸話，機場、南丫島、香港仔同紅磡四個新遊艇會正推進落實，提供超過一千一百個新泊位，比現有容量多約三成。約二百七十名內地遊艇船長已經完成喺香港水域駕駛所需嘅培訓同考試。",
+      "zh_hans": "首批五艘来自广东省的游艇，在周五启动的新跨境南下计划下抵达香港，标志着香港发展亚洲游艇中心迈出新一步。新计划下，广东游艇无需事先在私人游艇会或码头订位，可直接使用五个指定锚泊区。署理财政司司长黄伟纶表示，机场、南丫岛、香港仔和红磡四个新游艇会正推进落实，提供超过一千一百个新泊位，比现有容量多约三成。约二百七十名内地游艇船长已经完成在香港水域驾驶所需的培训和考试。"
+    },
+    "tags": {
+      "en": [
+        "yacht economy",
+        "Greater Bay Area",
+        "Guangdong",
+        "Michael Wong",
+        "maritime",
+        "tourism"
+      ],
+      "zh_hant": [
+        "遊艇經濟",
+        "大灣區",
+        "廣東",
+        "黃偉綸",
+        "海事",
+        "旅遊"
+      ],
+      "zh_hans": [
+        "游艇经济",
+        "大湾区",
+        "广东",
+        "黄伟纶",
+        "海事",
+        "旅游"
+      ]
+    }
+  },
+  {
+    "id": "20261017-hsi-friday-close-lenovo",
+    "category": "finance",
+    "published_at": "2026-10-17T12:00:00+08:00",
+    "source": {
+      "name": "Business Today Malaysia",
+      "url": "https://www.businesstoday.com.my/2026/10/17/lenovo-leaps-8-to-lead-hong-kong-stocks-higher/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Hang Seng Index closes up 124 points as Lenovo surges 8 percent",
+      "zh_hant": "恒指收升124點 聯想飆升8%帶領科技股向上",
+      "zh_hans": "恒指收升124点 联想飙升8%带领科技股向上"
+    },
+    "summary": {
+      "en": "Hong Kong shares ended higher on Friday, with the Hang Seng Index gaining 124.11 points, or 0.52 percent, to close at 24,186.83 as technology stocks led the advance. The Hang Seng TECH Index rose 1.16 percent to 4,108.24, while the biotech index climbed 1.19 percent. Lenovo Group was the standout mover, jumping 8.01 percent to HK$28.06. Alibaba gained 2.26 percent to HK$108.80, while Xiaomi slipped 1.55 percent to HK$26.66. Main Board turnover reached HK$178.2 billion, with southbound Stock Connect flows recording HK$42.31 billion through Shanghai Connect and HK$23.1 billion through Shenzhen Connect.",
+      "zh_hant": "港股星期五收市向上，恒指升一百二十四點，即係百分之零點五二，收報二萬四千一百八十六點，科技股帶頭造好。恒生科技指數升百分之一點一六，收報四千一百零八點；生物科技指數亦升近百分之一點二。聯想集團係全日焦點，飆升百分之八點零一，收報二十八個零六。阿里巴巴升百分之二點二六，小米就跌百分之一點五五。主板成交一千七百八十二億元，滬深港通南向成交分別錄得四百二十三億同二百三十一億元。",
+      "zh_hans": "港股周五收市向上，恒指升一百二十四点，即百分之零点五二，收报二万四千一百八十六点，科技股带头造好。恒生科技指数升百分之一点一六，收报四千一百零八点；生物科技指数亦升近百分之一点二。联想集团是全日焦点，飙升百分之八点零一，收报二十八点零六。阿里巴巴升百分之二点二六，小米则跌百分之一点五五。主板成交一千七百八十二亿港元，沪深港通南向成交分别录得四百二十三亿和二百三十一亿港元。"
+    },
+    "tags": {
+      "en": [
+        "Hang Seng Index",
+        "Hong Kong stocks",
+        "Lenovo",
+        "technology stocks",
+        "Stock Connect",
+        "market close"
+      ],
+      "zh_hant": [
+        "恒生指數",
+        "港股",
+        "聯想",
+        "科技股",
+        "港股通",
+        "收市"
+      ],
+      "zh_hans": [
+        "恒生指数",
+        "港股",
+        "联想",
+        "科技股",
+        "港股通",
+        "收市"
+      ]
+    }
+  },
+  {
+    "id": "20261017-citi-china-ai-supply-chain-ipos",
+    "category": "finance",
+    "published_at": "2026-10-17T15:25:47+08:00",
+    "source": {
+      "name": "Reuters（經 Northland News Radio 轉載）",
+      "url": "https://northlandnewsradio.com/2026/10/17/china-ai-supply-chain-ipos-hold-firm-despite-valuation-pullback-citi-says/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Citi banker: Chinese AI supply-chain IPOs will hold firm despite valuation pullback",
+      "zh_hant": "花旗銀行家：中資AI供應鏈IPO企得穩 頂得住估值回調",
+      "zh_hans": "花旗银行家：中资AI供应链IPO站得稳 顶得住估值回调"
+    },
+    "summary": {
+      "en": "Listings of Chinese AI supply-chain companies are expected to hold firm despite rising valuation concerns and sharper scrutiny, according to Simon Yuan, Citi's head of China investment banking, speaking to Reuters on the sidelines of the IMF meetings in Bangkok. He said future AI supply-chain listings would continue in Hong Kong, cushioned by a roughly even split between domestic Chinese and international demand and by rising southbound capital from the mainland. He warned, however, that if the AI cycle turns in the United States, the impact would be felt everywhere including Hong Kong. He added that Hong Kong's equity market focus is expected to shift next year from hardware toward Chinese AI models and application developers, but only those with proven business models, strong growth and profitability.",
+      "zh_hant": "花旗中國投資銀行主管袁沛龍喺曼谷 IMF 會議期間向路透社表示，中國 AI 供應鏈公司嘅上市活動預計企得穩，頂得住越嚟越高嘅估值憂慮同審查。佢話，未來 AI 供應鏈新股會繼續嚟香港上市，有內地同國際需求大致各半支撐，加上南向資金流入做後盾。不過佢警告，如果美國 AI 周期轉向，香港都無可避免受影響。佢又話，明年港股新股市場焦點預計由硬件轉向中國 AI 模型同應用開發商，但前提係要有經得起驗證嘅商業模式、同夠強嘅增長同盈利。",
+      "zh_hans": "花旗中国投资银行主管袁沛龙在曼谷 IMF 会议期间向路透社表示，中国 AI 供应链公司的上市活动预计站得稳，顶得住越来越高的估值忧虑和审查。他表示，未来 AI 供应链新股会继续来香港上市，有内地和国际需求大致各半支撑，加上南向资金流入作后盾。不过他警告，如果美国 AI 周期转向，香港也无可避免受影响。他还表示，明年港股新股市场焦点预计由硬件转向中国 AI 模型和应用开发商，但前提是有经得起验证的商业模式，以及足够强的增长和盈利。"
+    },
+    "tags": {
+      "en": [
+        "Citi",
+        "AI supply chain",
+        "Hong Kong IPOs",
+        "valuations",
+        "IMF",
+        "Reuters"
+      ],
+      "zh_hant": [
+        "花旗",
+        "AI供應鏈",
+        "港股IPO",
+        "估值",
+        "IMF",
+        "路透社"
+      ],
+      "zh_hans": [
+        "花旗",
+        "AI供应链",
+        "港股IPO",
+        "估值",
+        "IMF",
+        "路透社"
+      ]
+    }
+  },
+  {
+    "id": "20261017-taiwan-sanctions-influence-elections",
+    "category": "china",
+    "published_at": "2026-10-17T14:41:22+08:00",
+    "source": {
+      "name": "ANI（經 Indian Economic Observer 轉載）",
+      "url": "https://www.IndianEconomicObserver.com/news/taiwan-accuses-china-of-trying-to-influence-elections-through-sanctions20261017120906//"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Taiwan accuses China of trying to influence elections through sanctions",
+      "zh_hant": "台灣指中國藉制裁干預選舉 劍指沈伯洋父親公司",
+      "zh_hans": "台湾指中国借制裁干预选举 剑指沈伯洋父亲公司"
+    },
+    "summary": {
+      "en": "Taiwan has accused China of trying to influence its democratic elections by imposing sanctions on VWAY Co, a company owned by Shen Tu-cheng, the father of DPP legislator Puma Shen. Taiwan's Mainland Affairs Council said the sanctions were meant to pressure Taiwan and influence voters, alleging a pattern in which Hong Kong newspapers first publish reports targeting individuals or businesses, followed by official Chinese sanctions. Beijing's Taiwan Affairs Office said Shen Tu-cheng had continued doing business in China through VWAY despite earlier sanctions against another of his companies, and has now banned VWAY from operating there. Puma Shen, who is contesting the Taipei mayoral election, rejected the allegations and said Chinese authorities had hired people in Hong Kong to monitor him.",
+      "zh_hant": "台灣方面指控中國以制裁手段干預民主選舉，對象係民進黨立委沈伯洋父親沈土城旗下嘅 VWAY 公司。台灣陸委會話，制裁係要向台灣施壓、影響選民，批評中方一貫先由香港報紙點名針對個別人士或企業，再由官方出手制裁。北京國台辦就話，沈土城旗下另一間公司早被制裁，但佢繼續經 VWAY 同中國企業做生意，所以而家禁止 VWAY 喺中國營運。正參選台北市長嘅沈伯洋否認指控，仲話中方曾經喺香港搵人監視佢。",
+      "zh_hans": "台湾方面指控中国以制裁手段干预民主选举，对象是民进党立委沈伯洋父亲沈土城旗下的 VWAY 公司。台湾陆委会表示，制裁是要向台湾施压、影响选民，批评中方一贯先由香港报纸点名针对个别人士或企业，再由官方出手制裁。北京国台办则表示，沈土城旗下另一间公司早被制裁，但他继续经 VWAY 与中国企业做生意，因此现禁止 VWAY 在中国营运。正参选台北市长的沈伯洋否认指控，还表示中方曾在香港找人监视他。"
+    },
+    "tags": {
+      "en": [
+        "Taiwan",
+        "China sanctions",
+        "elections",
+        "Puma Shen",
+        "VWAY",
+        "Mainland Affairs Council"
+      ],
+      "zh_hant": [
+        "台灣",
+        "中國制裁",
+        "選舉",
+        "沈伯洋",
+        "VWAY",
+        "陸委會"
+      ],
+      "zh_hans": [
+        "台湾",
+        "中国制裁",
+        "选举",
+        "沈伯洋",
+        "VWAY",
+        "陆委会"
+      ]
+    }
+  },
+  {
+    "id": "20261017-china-tier3-trafficking-report",
+    "category": "china",
+    "published_at": "2026-10-17T15:12:00+08:00",
+    "source": {
+      "name": "ANI（經 LatestLY 轉載）",
+      "url": "https://www.latestly.com/agency-news/world-news-us-state-department-report-keeps-china-in-tier-3-over-forced-labour-trafficking-concerns-7647926.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "US keeps China in Tier 3 in 2026 trafficking report over forced labour concerns",
+      "zh_hant": "美國2026年人口販運報告 中國續留最低級別Tier 3",
+      "zh_hans": "美国2026年人口贩运报告 中国续留最低级别Tier 3"
+    },
+    "summary": {
+      "en": "China has remained in Tier 3, the lowest ranking, in the US State Department's 2026 Trafficking in Persons Report, which cited widespread forced labour concerns, arbitrary detention of ethnic and religious minorities, and insufficient anti-trafficking efforts. The report said Beijing did not fully meet minimum standards for eliminating trafficking and was not making significant efforts to do so. It highlighted alleged forced labour in Xinjiang involving Uyghurs, ethnic Kazakhs and other minorities under the stated goals of vocational training and deradicalisation. The report also accused Chinese officials of knowingly permitting forced labour of North Korean citizens in China and of coercive repatriation of ethnic minorities living abroad.",
+      "zh_hant": "美國國務院發表二〇二六年《人口販運問題報告》，中國繼續被列入最低級別嘅第三級（Tier 3）。報告指，中國存在廣泛強迫勞動問題，少數民族同宗教少數群體被任意拘留，打擊人口販運嘅力度亦唔夠。報告話，北京未達到消除人口販運嘅最低標準，仲冇作出顯著努力改善。報告特別提到新疆維吾爾族、哈薩克族等少數民族，喺所謂「職業培訓」同「去極端化」名義下被強迫勞動。報告又指，中方官員縱容北韓公民喺中國被強迫勞動，以及迫使身處海外嘅少數民族回國。",
+      "zh_hans": "美国国务院发表2026年《人口贩运问题报告》，中国继续被列入最低级别的第三级（Tier 3）。报告指出，中国存在广泛强迫劳动问题，少数民族和宗教少数群体被任意拘留，打击人口贩运的力度也不够。报告表示，北京未达到消除人口贩运的最低标准，也没有作出显著努力改善。报告特别提到新疆维吾尔族、哈萨克族等少数民族，在所谓「职业培训」和「去极端化」名义下被强迫劳动。报告还指，中方官员纵容朝鲜公民在中国被强迫劳动，以及迫使身处海外的少数民族回国。"
+    },
+    "tags": {
+      "en": [
+        "China",
+        "US State Department",
+        "human trafficking",
+        "Tier 3",
+        "forced labour",
+        "Xinjiang"
+      ],
+      "zh_hant": [
+        "中國",
+        "美國國務院",
+        "人口販運",
+        "Tier 3",
+        "強迫勞動",
+        "新疆"
+      ],
+      "zh_hans": [
+        "中国",
+        "美国国务院",
+        "人口贩运",
+        "Tier 3",
+        "强迫劳动",
+        "新疆"
+      ]
+    }
+  },
+  {
+    "id": "20261017-trump-denies-starlink-curbs",
+    "category": "world",
+    "published_at": "2026-10-17T12:47:56+08:00",
+    "source": {
+      "name": "Benzinga（經 TradingView）",
+      "url": "https://www.tradingview.com/news/benzinga:a2ca642b5094b:0-trump-denies-ordering-starlink-curbs-in-ukraine-says-it-wasn-t-me-and-i-don-t-think-it-was-elon-as-zelenskyy-warns-slower-speeds-put-lives-at-risk/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Trump denies ordering Starlink curbs in Ukraine as Zelenskyy warns of disrupted drone defences",
+      "zh_hant": "特朗普否認落令限制Starlink 澤連斯基話無人機防禦受拖累",
+      "zh_hans": "特朗普否认下令限制Starlink 泽连斯基称无人机防御受拖累"
+    },
+    "summary": {
+      "en": "US President Donald Trump has denied ordering restrictions on SpaceX's Starlink and Starshield satellite services in Ukraine, telling reporters on Friday that neither he nor Elon Musk was behind the disruption. Earlier in the week, Ukrainian officials said Starshield speeds were suddenly cut without warning, hampering military operations and drone interceptions. Zelenskyy said the system was not shut off but slowed down, leaving forces unable to intercept some jet-powered Russian drones targeting civilians. Conflicting reports have emerged over who ordered the slowdown: Reuters cited US officials saying the White House made the call, while The Telegraph reported Musk had proposed it to Trump.",
+      "zh_hant": "美國總統特朗普否認曾經落令限制烏克蘭用 SpaceX 嘅 Starlink 同 Starshield 衛星服務，星期五同記者講話，唔係佢亦唔係馬斯克搞出嚟。烏克蘭官員早前話，今個星期初 Starshield 速度突然被削，無事先通知，搞到軍事行動同無人機攔截受影響。澤連斯基話系統唔係完全停用，而係被減速，搞到前線攔截唔到一啲襲擊平民嘅俄軍噴射式無人機。究竟邊個落令眾說紛紜：路透社引述美方官員話係白宮拍板，《每日電訊報》就話係馬斯克主動向特朗普提出。",
+      "zh_hans": "美国总统特朗普否认曾下令限制乌克兰使用 SpaceX 的 Starlink 和 Starshield 卫星服务，周五对记者表示，既不是他也不是马斯克所为。乌克兰官员早前表示，本周初 Starshield 速度突然被削减，没有事先通知，导致军事行动和无人机拦截受影响。泽连斯基表示系统并非完全停用，而是被减速，导致前线无法拦截一些袭击平民的俄军喷射式无人机。究竟谁下令众说纷纭：路透社引述美方官员称是白宫拍板，《每日电讯报》则称是马斯克主动向特朗普提出。"
+    },
+    "tags": {
+      "en": [
+        "Trump",
+        "Starlink",
+        "Starshield",
+        "Ukraine",
+        "Musk",
+        "Zelenskyy"
+      ],
+      "zh_hant": [
+        "特朗普",
+        "Starlink",
+        "Starshield",
+        "烏克蘭",
+        "馬斯克",
+        "澤連斯基"
+      ],
+      "zh_hans": [
+        "特朗普",
+        "Starlink",
+        "Starshield",
+        "乌克兰",
+        "马斯克",
+        "泽连斯基"
+      ]
+    }
+  },
+  {
+    "id": "20261017-wang-yi-herzog-west-bank",
+    "category": "world",
+    "published_at": "2026-10-17T17:00:00+08:00",
+    "source": {
+      "name": "City News Service",
+      "url": "https://www.citynewsservice.cn/articles/china-biz-buzz/daily-buzz/weekend-buzz-17-18-october-2026-pk8v4den"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Wang Yi urges Israel to stop West Bank settlements in meeting with Herzog",
+      "zh_hant": "王毅會以色列總統 促停止西岸猶太定居點",
+      "zh_hans": "王毅会以色列总统 促停止西岸犹太定居点"
+    },
+    "summary": {
+      "en": "Chinese Foreign Minister Wang Yi told Israeli President Isaac Herzog that Israel should stop and reverse its settlement activity in the occupied West Bank, according to a foreign ministry statement cited in the report. The two met at a global forum in Azerbaijan. Wang said the Palestinian question is the greatest historical injustice of this century and that promoting peace in the region is the cornerstone of China's Middle East policy. China advocates the two-state solution and the immediate, full opening of the Gaza Strip to humanitarian aid. Separately, the BBC reported that Israeli settlers have been attacking Palestinian olive groves during the current harvest season, injuring 12 people.",
+      "zh_hant": "中國外長王毅喺阿塞拜疆一個國際論壇會見以色列總統赫爾佐格，據外交部聲明話，王毅促請以色列停止同逆轉喺被佔領約旦河西岸建立猶太定居點。王毅話，巴勒斯坦問題係今個世紀最大嘅歷史不公，促進中東和平係中國中東政策嘅基石。中國主張兩國方案，同要求加沙立即全面開放人道援助。另據 BBC 報道，以色列定居者喺今季橄欖收成期襲擊巴勒斯坦橄欖園，造成十二人受傷。",
+      "zh_hans": "中国外长王毅在阿塞拜疆一个国际论坛会见以色列总统赫尔佐格，据外交部声明称，王毅促请以色列停止并逆转在被占领约旦河西岸建立犹太定居点。王毅表示，巴勒斯坦问题是这个世纪最大的历史不公，促进中东和平是中国中东政策的基石。中国主张两国方案，并要求加沙立即全面开放人道援助。另据 BBC 报道，以色列定居者在今季橄榄收成期袭击巴勒斯坦橄榄园，造成十二人受伤。"
+    },
+    "tags": {
+      "en": [
+        "Wang Yi",
+        "Israel",
+        "West Bank",
+        "settlements",
+        "Herzog",
+        "two-state solution"
+      ],
+      "zh_hant": [
+        "王毅",
+        "以色列",
+        "約旦河西岸",
+        "定居點",
+        "赫爾佐格",
+        "兩國方案"
+      ],
+      "zh_hans": [
+        "王毅",
+        "以色列",
+        "约旦河西岸",
+        "定居点",
+        "赫尔佐格",
+        "两国方案"
+      ]
+    }
+  },
+  {
+    "id": "20261017-new-music-friday-oct-17",
+    "category": "entertainment",
+    "published_at": "2026-10-17T15:42:06+08:00",
+    "source": {
+      "name": "Power 106 (KPWR FM)",
+      "url": "https://www.power106.com/2026/10/17/olivia-rodrigo-tate-mcrae-and-zach-bryan-lead-a-packed-new-music-friday/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Olivia Rodrigo, Tate McRae and Zach Bryan lead a packed New Music Friday",
+      "zh_hant": "新歌星期五：Olivia Rodrigo、Tate McRae、Zach Bryan 齊齊出新歌",
+      "zh_hans": "新歌星期五：Olivia Rodrigo、Tate McRae、Zach Bryan 齐齐出新歌"
+    },
+    "summary": {
+      "en": "This week's New Music Friday brought together major names from pop, country and international music. Olivia Rodrigo teamed up with Chappell Roan for a remix of Expectations, while Tate McRae returned with Housewife, a single about financial independence and enjoying success. Country singer Zach Bryan expanded his catalogue with an eight-track EP featuring collaborations with Lana Del Rey and the Turnpike Troubadours. Belgian singer Angele also released her third studio album, adding an international pop entry to the week's lineup.",
+      "zh_hant": "今個星期嘅「新歌星期五」陣容鼎盛，流行、鄉村同國際音樂巨星齊齊出新歌。Olivia Rodrigo 搵嚟 Chappell Roan 合作，推出《Expectations》混音版；Tate McRae 就帶來新單曲《Housewife》，主題係財政獨立同享受成功。鄉村歌手 Zach Bryan 推出八首歌嘅 EP，仲有同 Lana Del Rey 同 Turnpike Troubadours 嘅合作。比利時歌手 Angèle 亦推出第三張錄音室專輯，令今個星期國際味十足。",
+      "zh_hans": "这个星期的「新歌星期五」阵容鼎盛，流行、乡村和国际音乐巨星齐齐出新歌。Olivia Rodrigo 找来 Chappell Roan 合作，推出《Expectations》混音版；Tate McRae 则带来新单曲《Housewife》，主题是财政独立和享受成功。乡村歌手 Zach Bryan 推出八首歌的 EP，还有与 Lana Del Rey 和 Turnpike Troubadours 的合作。比利时歌手 Angèle 亦推出第三张录音室专辑，令这个星期国际味十足。"
+    },
+    "tags": {
+      "en": [
+        "Olivia Rodrigo",
+        "Tate McRae",
+        "Zach Bryan",
+        "New Music Friday",
+        "Chappell Roan",
+        "pop music"
+      ],
+      "zh_hant": [
+        "Olivia Rodrigo",
+        "Tate McRae",
+        "Zach Bryan",
+        "新歌星期五",
+        "Chappell Roan",
+        "流行音樂"
+      ],
+      "zh_hans": [
+        "Olivia Rodrigo",
+        "Tate McRae",
+        "Zach Bryan",
+        "新歌星期五",
+        "Chappell Roan",
+        "流行音乐"
+      ]
+    }
+  },
+  {
     "id": "20261017-pope-leo-hospital-discharge",
     "category": "world",
     "published_at": "2026-10-17T17:49:00+08:00",
