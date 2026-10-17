@@ -1,5 +1,282 @@
 [
   {
+    "id": "20261017-china-export-curbs-ai-solar",
+    "category": "china",
+    "published_at": "2026-10-17T08:00:00+08:00",
+    "source": {
+      "name": "Caixin Global",
+      "url": "https://www.caixinglobal.com/2026-10-17/china-proposes-export-curbs-on-ai-and-solar-technology-102494151.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "China proposes export controls on AI and solar technology",
+      "zh_hant": "中國擬對人工智能及太陽能技術實施出口管制",
+      "zh_hans": "中国拟对人工智能及太阳能技术实施出口管制"
+    },
+    "summary": {
+      "en": "China's Commerce Ministry and Ministry of Science and Technology have proposed export controls covering 40 technologies in artificial intelligence, biomedicine and solar manufacturing, with 14 facing outright bans and the remaining 26 requiring export licences. The draft changes, published for public comment on October 16, would tighten oversight of technology transfers linked to Chinese firms' overseas expansion. The proposal preserves exemptions and streamlined approvals for much international AI collaboration.",
+      "zh_hant": "商務部與科技部周五就 40 項人工智能、生物醫藥及太陽能製造技術提出出口管制諮詢，當中 14 項建議全面禁止出口，其餘 26 項須申請出口許可。諮詢稿旨在加強監管中國企業海外擴張涉及的技術轉讓。諮詢亦保留大部分國際人工智能合作的豁免及簡化審批安排。",
+      "zh_hans": "商务部与科技部周五就 40 项人工智能、生物医药及太阳能制造技术提出出口管制咨询，当中 14 项建议全面禁止出口，其余 26 项须申请出口许可。咨询稿旨在加强监管中国企业海外扩张涉及的技术转让。咨询亦保留大部分国际人工智能合作的豁免及简化审批安排。"
+    },
+    "tags": {
+      "en": [
+        "China",
+        "Export controls",
+        "Artificial intelligence",
+        "Solar industry"
+      ],
+      "zh_hant": [
+        "中國",
+        "出口管制",
+        "人工智能",
+        "太陽能產業"
+      ],
+      "zh_hans": [
+        "中国",
+        "出口管制",
+        "人工智能",
+        "太阳能产业"
+      ]
+    }
+  },
+  {
+    "id": "20261017-china-tech-stocks-ai-selloff",
+    "category": "china",
+    "published_at": "2026-10-17T08:00:00+08:00",
+    "source": {
+      "name": "Business Today (Malaysia)",
+      "url": "https://www.businesstoday.com.my/2026/10/17/chinas-ai-ambitions-face-market-test-as-tech-stocks-plunge/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "China's AI ambitions face market test as tech stocks plunge",
+      "zh_hant": "AI 拋售潮下中資科技股急挫",
+      "zh_hans": "AI 抛售潮下中资科技股急挫"
+    },
+    "summary": {
+      "en": "Chinese technology stocks are under heavy selling pressure as a global artificial intelligence sell-off weighs on valuations. The Star 50 Index has plunged nearly 40% in the second half of 2026, making it the worst-performing major technology index globally over that period, while the ChiNext Index has fallen 36%. Foreign investors have also pulled back, with Stock Connect outflows reaching an estimated 90 billion yuan in the third quarter, the largest quarterly withdrawal in a year.",
+      "zh_hant": "環球人工智能股拋售潮拖累中資科技股估值，科創 50 指數 2026 年下半年累跌近四成，成為同期全球表現最差的主要科技指數，創業板指數亦跌 36%。外資同步撤退，第三季經滬深港通流出約 900 億元人民幣，創一年來最大單季流出。",
+      "zh_hans": "环球人工智能股抛售潮拖累中资科技股估值，科创 50 指数 2026 年下半年累跌近四成，成为同期全球表现最差的主要科技指数，创业板指数亦跌 36%。外资同步撤退，第三季经沪深港通流出约 900 亿元人民币，创一年来最大单季流出。"
+    },
+    "tags": {
+      "en": [
+        "Chinese stocks",
+        "AI sell-off",
+        "Star 50",
+        "Tech sector"
+      ],
+      "zh_hant": [
+        "中資股",
+        "AI 拋售",
+        "科創50",
+        "科技板塊"
+      ],
+      "zh_hans": [
+        "中资股",
+        "AI 抛售",
+        "科创50",
+        "科技板块"
+      ]
+    }
+  },
+  {
+    "id": "20261017-tsuen-wan-woman-collapse-dies",
+    "category": "hk",
+    "published_at": "2026-10-17T10:32:21+08:00",
+    "source": {
+      "name": "Dimsum Daily",
+      "url": "https://www.dimsumdaily.hk/41-year-old-indonesian-woman-collapses-at-home-in-tsuen-wan-and-dies-after-hospital-transfer/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "41-year-old woman collapses at Tsuen Wan home and dies after hospital transfer",
+      "zh_hant": "荃灣41歲女子寓所暈倒　送院不治",
+      "zh_hans": "荃湾41岁女子寓所晕倒　送院不治"
+    },
+    "summary": {
+      "en": "A 41-year-old woman collapsed in the bedroom of a residence on Ho Pui Street in Tsuen Wan at about 4pm on October 16. Paramedics found her unconscious and took her to Yan Chai Hospital, where she was later certified dead. Police said the cause of death will be determined by post-mortem; the woman was understood to be from Indonesia and held a Hong Kong Identity Card.",
+      "zh_hant": "一名 41 歲女子昨日下午約 4 時在荃灣河背街一單位睡房內暈倒，送院搶救後證實不治。救護員到場時女子已無知覺，隨即送往仁濟醫院。警方表示死因有待驗屍確定；據悉女事主為印尼籍、持香港身份證，警方正向家屬提供協助。",
+      "zh_hans": "一名 41 岁女子昨日下午约 4 时在荃湾河背街一单位睡房内晕倒，送院抢救后证实不治。救护员到场时女子已无知觉，随即送往仁济医院。警方表示死因有待验尸确定；据悉女事主为印尼籍、持香港身份证，警方正向家属提供协助。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong",
+        "Tsuen Wan",
+        "Sudden death"
+      ],
+      "zh_hant": [
+        "香港",
+        "荃灣",
+        "猝死"
+      ],
+      "zh_hans": [
+        "香港",
+        "荃湾",
+        "猝死"
+      ]
+    }
+  },
+  {
+    "id": "20261017-to-kwa-wan-flat-break-in",
+    "category": "hk",
+    "published_at": "2026-10-17T10:56:42+08:00",
+    "source": {
+      "name": "Dimsum Daily",
+      "url": "https://www.dimsumdaily.hk/six-suspects-storm-to-kwa-wan-flat-injure-woman-and-steal-hk3000-and-a-phone/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Six suspects storm To Kwa Wan flat, injure woman and steal HK$3,000",
+      "zh_hant": "六人凌晨闖土瓜灣唐樓　傷女住客搶三千元及手機",
+      "zh_hans": "六人凌晨闯土瓜湾唐楼　伤女住客抢三千元及手机"
+    },
+    "summary": {
+      "en": "A woman was assaulted during an early-morning break-in at a tenement flat on Wing Yiu Street in To Kwa Wan. At about 7.05am, six suspects — three men and three women — knocked on the door; one man struck the 43-year-old resident with a hammer before the group seized HK$3,000 in cash and a mobile phone and fled. Initial enquiries suggest the parties knew each other following an earlier dispute; the case is being handled by Kowloon City Police District's Crime Squad.",
+      "zh_hant": "土瓜灣永耀街一唐樓單位今晨約 7 時 05 分遭六名男女（各三人）敲門入屋，其中一名男子以鎚襲擊 43 歲姓郭女住客，同黨將她按倒在地，劫去 3,000 元現金及一部手機後逃去。女事主手腳擦傷，送往伊利沙伯醫院治理。初步調查顯示雙方疑因早前糾紛認識，案件由九龍城警區刑事調查隊第三隊跟進。",
+      "zh_hans": "土瓜湾永耀街一唐楼单位今晨约 7 时 05 分遭六名男女（各三人）敲门入屋，其中一名男子以锤袭击 43 岁姓郭女住客，同党将她按倒在地，劫去 3,000 元现金及一部手机后逃去。女事主手脚擦伤，送往伊利沙伯医院治理。初步调查显示双方疑因早前纠纷认识，案件由九龙城警区刑事调查队第三队跟进。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong",
+        "To Kwa Wan",
+        "Burglary",
+        "Crime"
+      ],
+      "zh_hant": [
+        "香港",
+        "土瓜灣",
+        "爆竊",
+        "罪案"
+      ],
+      "zh_hans": [
+        "香港",
+        "土瓜湾",
+        "爆窃",
+        "罪案"
+      ]
+    }
+  },
+  {
+    "id": "20261017-france-oct17-nationwide-protests",
+    "category": "world",
+    "published_at": "2026-10-16T20:00:00+08:00",
+    "source": {
+      "name": "EU Today",
+      "url": "https://eutoday.net/france-500-protest-actions-yellow-vests-students-october-17/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "France braces for nationwide protests as Yellow Vests join student unrest",
+      "zh_hant": "法國全國大示威今登場　黃背心加入學生抗議",
+      "zh_hans": "法国全国大示威今登场　黄背心加入学生抗议"
+    },
+    "summary": {
+      "en": "France is bracing for a nationwide wave of demonstrations on Saturday, October 17, with authorities preparing for hundreds of protest actions. The mobilisation brings together high-school and university students, trade unions, farmers and supporters of the Yellow Vest movement, amid anger over the cost of living, education conditions and government policy. Police estimate around 40,000 demonstrators could gather in Paris, with a further 150,000 expected elsewhere, and authorities have warned of possible road blockades and clashes.",
+      "zh_hant": "法國今日（10 月 17 日，星期六）將爆發全國性示威浪潮，官方預計有數百場抗議行動。今次動員匯集中學生、大學生、工會、農民及黃背心運動支持者，訴求涵蓋生活成本、校園條件及政府政策。警方估計巴黎或有約 4 萬人上街，全國其他地區另有約 15 萬人，並警告可能出現封路及衝突。",
+      "zh_hans": "法国今日（10 月 17 日，星期六）将爆发全国性示威浪潮，官方预计有数百场抗议行动。今次动员汇集中学生、大学生、工会、农民及黄背心运动支持者，诉求涵盖生活成本、校园条件及政府政策。警方估计巴黎或有约 4 万人上街，全国其他地区另有约 15 万人，并警告可能出现封路及冲突。"
+    },
+    "tags": {
+      "en": [
+        "France",
+        "Protests",
+        "Yellow Vests",
+        "Cost of living"
+      ],
+      "zh_hant": [
+        "法國",
+        "示威",
+        "黃背心",
+        "生活成本"
+      ],
+      "zh_hans": [
+        "法国",
+        "示威",
+        "黄背心",
+        "生活成本"
+      ]
+    }
+  },
+  {
+    "id": "20261017-beirut-airport-certification-us-flights",
+    "category": "world",
+    "published_at": "2026-10-16T22:00:00+08:00",
+    "source": {
+      "name": "Reuters",
+      "url": "https://wncy.com/2026/10/16/exclusive-trump-move-to-restart-direct-us-flights-with-lebanon-hits-roadblock/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Beirut airport lacks valid certification, hitting Trump's plan for direct US-Lebanon flights",
+      "zh_hant": "貝魯特機場未獲有效認證　特朗普重啟美黎直航遇阻",
+      "zh_hans": "贝鲁特机场未获有效认证　特朗普重启美黎直航遇阻"
+    },
+    "summary": {
+      "en": "A Reuters-exclusive report says the UN aviation agency found Lebanon's main airport lacks valid certification, in a setback to President Donald Trump's push to revive direct US-Beirut flights. The International Civil Aviation Organization identified shortcomings at Beirut's Rafic Hariri International Airport, including expired conditional certification, inadequate firefighting resources for long-haul jets and no emergency plan. Trump signed an order last month allowing direct flights, reversing a four-decade suspension dating back to the 1985 TWA Flight 847 hijacking.",
+      "zh_hant": "路透社獨家報道指，聯合國航空機構發現黎巴嫩主要機場未獲有效認證，令特朗普重啟美黎直航的計劃受挫。國際民航組織在貝魯特拉菲克·哈里里國際機場發現多項缺失，包括有條件認證已過期、消防資源不足以應付長途客機，以及欠缺應急預案。特朗普上月已簽署行政命令容許直航，推翻自 1985 年 TWA 847 班機劫機事件以來的 40 年禁令。",
+      "zh_hans": "路透社独家报道指，联合国航空机构发现黎巴嫩主要机场未获有效认证，令特朗普重启美黎直航的计划受挫。国际民航组织在贝鲁特拉菲克·哈里里国际机场发现多项缺失，包括有条件认证已过期、消防资源不足以应付长途客机，以及欠缺应急预案。特朗普上月已签署行政命令容许直航，推翻自 1985 年 TWA 847 班机劫机事件以来的 40 年禁令。"
+    },
+    "tags": {
+      "en": [
+        "Lebanon",
+        "Aviation",
+        "Donald Trump",
+        "ICAO"
+      ],
+      "zh_hant": [
+        "黎巴嫩",
+        "航空",
+        "特朗普",
+        "國際民航組織"
+      ],
+      "zh_hans": [
+        "黎巴嫩",
+        "航空",
+        "特朗普",
+        "国际民航组织"
+      ]
+    }
+  },
+  {
+    "id": "20261017-ellen-degeneres-graham-norton-tv-return",
+    "category": "entertainment",
+    "published_at": "2026-10-17T08:27:18+08:00",
+    "source": {
+      "name": "Just Jared",
+      "url": "https://www.justjared.com/2026/10/16/ellen-degeneres-says-she-really-misses-being-on-tv-considers-u-k-return/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Ellen DeGeneres says she misses TV and mulls UK return",
+      "zh_hant": "Ellen DeGeneres 坦言掛念幕前　考慮在英國復出",
+      "zh_hans": "Ellen DeGeneres 坦言挂念幕前　考虑在英国复出"
+    },
+    "summary": {
+      "en": "Ellen DeGeneres revealed she 'really misses' being on television during an appearance on The Graham Norton Show on October 16. The 68-year-old former talk show host, who moved to the United Kingdom with wife Portia de Rossi in 2024, said she was thinking about doing something on TV there. DeGeneres has largely stayed out of the spotlight since The Ellen DeGeneres Show ended in 2022 after 19 seasons.",
+      "zh_hant": "Ellen DeGeneres 周五（10 月 16 日）亮相《The Graham Norton Show》時坦言「非常掛念」幕前生活。68 歲的她 2024 年與妻子 Portia de Rossi 移居英國，笑言考慮在當地復出。DeGeneres 自 2022 年《Ellen DeGeneres Show》播畢 19 季後，一直淡出幕前。",
+      "zh_hans": "Ellen DeGeneres 周五（10 月 16 日）亮相《The Graham Norton Show》时坦言「非常挂念」幕前生活。68 岁的她 2024 年与妻子 Portia de Rossi 移居英国，笑言考虑在当地复出。DeGeneres 自 2022 年《Ellen DeGeneres Show》播毕 19 季后，一直淡出幕前。"
+    },
+    "tags": {
+      "en": [
+        "Ellen DeGeneres",
+        "Television",
+        "Graham Norton Show",
+        "Entertainment"
+      ],
+      "zh_hant": [
+        "Ellen DeGeneres",
+        "電視",
+        "Graham Norton Show",
+        "娛樂"
+      ],
+      "zh_hans": [
+        "Ellen DeGeneres",
+        "电视",
+        "Graham Norton Show",
+        "娱乐"
+      ]
+    }
+  },
+  {
     "id": "20261017-us-stocks-friday-close",
     "category": "finance",
     "published_at": "2026-10-17T04:45:00+08:00",
