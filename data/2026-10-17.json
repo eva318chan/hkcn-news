@@ -1,623 +1,881 @@
 [
- {
-  "id": "20261017-china-export-curbs-ai-solar",
-  "category": "china",
-  "published_at": "2026-10-17T08:00:00+08:00",
-  "source": {
-   "name": "Caixin Global",
-   "url": "https://www.caixinglobal.com/2026-10-17/china-proposes-export-curbs-on-ai-and-solar-technology-102494151.html"
+  {
+    "id": "20261017-trump-waives-russia-sanctions-graham-act",
+    "category": "world",
+    "published_at": "2026-10-17T08:41:38+08:00",
+    "source": {
+      "name": "Reuters（經 TradingView 轉載）",
+      "url": "https://in.tradingview.com/news/reuters.com,2026:newsml_FWN4622VQ:0-trump-waives-some-sanctions-restrictions-duties-on-russia-in-graham-act/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Trump waives some new Russia sanctions days before they take effect",
+      "zh_hant": "特朗普簽行政命令　暫緩執行針對俄羅斯新制裁法案部分條款",
+      "zh_hans": "特朗普签行政命令　暂缓执行针对俄罗斯新制裁法案部分条款"
+    },
+    "summary": {
+      "en": "US President Donald Trump has signed an executive order waiving the application of certain sanctions, restrictions and duties under the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, just days before the measures were due to take effect on 18 October. The law would have imposed tariffs of up to 100% on the largest importers of Russian oil and gas, including China and India, plus 500% duties on Russian goods. Trump certified to Congress that the waiver was in the national interest, drawing criticism from US lawmakers and Ukraine, who argue it relieves pressure on Moscow. The move follows his recent deal with Vladimir Putin to import Russian diesel in a bid to lower American fuel prices ahead of November's midterm elections.",
+      "zh_hant": "美國總統特朗普簽署行政命令，暫緩執行《2026年林賽·格雷厄姆制裁俄羅斯和伊朗法案》部分制裁、限制同關稅條款，距離原定10月18日生效只剩幾日。法案原本會對俄羅斯石油天然氣最大買家（包括中國同印度）徵收最高100%關稅，對俄羅斯貨品徵收500%關稅。特朗普向國會證明暫緩符合美國國家利益，惹嚟美國議員同烏克蘭批評，認為係放生莫斯科。此舉緊隨佢早前同普京達成進口俄羅斯柴油嘅協議，目的係喺11月中期選舉前壓低美國油價。",
+      "zh_hans": "美国总统特朗普签署行政命令，暂缓执行《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》部分制裁、限制和关税条款，距离原定10月18日生效仅剩数日。法案原本将对俄罗斯石油天然气最大买家（包括中国和印度）征收最高100%关税，对俄罗斯货物征收500%关税。特朗普向国会证明暂缓符合美国国家利益，引发美国议员和乌克兰批评，认为此举减轻了对莫斯科的压力。此举紧随他早前与普京达成的进口俄罗斯柴油协议，目的是在11月中期选举前压低美国油价。"
+    },
+    "tags": {
+      "en": [
+        "Trump",
+        "Russia sanctions",
+        "Graham Act",
+        "US politics",
+        "Ukraine war"
+      ],
+      "zh_hant": [
+        "特朗普",
+        "對俄制裁",
+        "格雷厄姆法案",
+        "美國政治",
+        "俄烏戰爭"
+      ],
+      "zh_hans": [
+        "特朗普",
+        "对俄制裁",
+        "格雷厄姆法案",
+        "美国政治",
+        "俄乌战争"
+      ]
+    }
   },
-  "image_url": "",
-  "title": {
-   "en": "China proposes export controls on AI and solar technology",
-   "zh_hant": "中國擬對人工智能及太陽能技術實施出口管制",
-   "zh_hans": "中国拟对人工智能及太阳能技术实施出口管制"
+  {
+    "id": "20261017-mexico-surfers-murder-sentencing",
+    "category": "world",
+    "published_at": "2026-10-17T12:00:00+08:00",
+    "source": {
+      "name": "Reuters（經 Devdiscourse 轉載）",
+      "url": "https://www.devdiscourse.com/article/international/3993942-three-sentenced-to-158-years-in-mexico-for-murder-of-australian-us-surfers"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Three men sentenced to 158 years each for murders of Australian and US surfers in Mexico",
+      "zh_hant": "墨西哥判三名男子各囚158年　謀殺澳洲兄弟同美國衝浪客",
+      "zh_hans": "墨西哥判三名男子各囚158年　谋杀澳洲兄弟和美国冲浪客"
+    },
+    "summary": {
+      "en": "A judge in Ensenada, Mexico, has sentenced three men to 158 years and nine months in prison each for the 2024 murders of Australian brothers Jake and Callum Robinson and their American friend Carter Rhoad. The trio were killed during a surfing trip to Baja California in what prosecutors described as a botched robbery of their truck; their bodies were later found dumped in a well with gunshot wounds to the head. The defendants were convicted a week earlier of homicide, aggravated robbery and vehicle theft with violence, and were also ordered to pay compensation to the victims' families. The case drew global attention and dented tourism in the popular surf region; the ringleader's girlfriend received a 20-year sentence last November.",
+      "zh_hant": "墨西哥恩塞納達一名法官判處三名男子每人入獄158年9個月，罪名係2024年謀殺澳洲兄弟 Jake 同 Callum Robinson，以及佢哋嘅美國朋友 Carter Rhoad。三人當年去下加利福尼亞衝浪旅行，檢方指兇徒企圖搶走佢哋架貨車不遂而殺人，屍體其後被發現棄置喺井底，頭部有槍傷。三名被告早一星期已被裁定謀殺、加重搶劫同暴力盜車罪成，法庭同時命令佢哋向死者家屬賠償。案件曾引起國際關注，重創當地旅遊業；主犯嘅女友舊年11月已另案判囚20年。",
+      "zh_hans": "墨西哥恩塞纳达一名法官判处三名男子每人入狱158年9个月，罪名是2024年谋杀澳洲兄弟 Jake 和 Callum Robinson，以及他们的美国朋友 Carter Rhoad。三人当年赴下加利福尼亚冲浪旅行，检方指凶徒企图抢走他们的货车未遂而杀人，尸体其后被发现弃置在井底，头部有枪伤。三名被告早一周已被裁定谋杀、加重抢劫和暴力盗车罪成，法庭同时命令他们向死者家属赔偿。案件曾引起国际关注，重创当地旅游业；主犯的女友去年11月已另案判囚20年。"
+    },
+    "tags": {
+      "en": [
+        "Mexico",
+        "murder sentencing",
+        "surfers",
+        "Baja California",
+        "crime"
+      ],
+      "zh_hant": [
+        "墨西哥",
+        "謀殺判刑",
+        "衝浪客",
+        "下加利福尼亞",
+        "罪案"
+      ],
+      "zh_hans": [
+        "墨西哥",
+        "谋杀判刑",
+        "冲浪客",
+        "下加利福尼亚",
+        "罪案"
+      ]
+    }
   },
-  "summary": {
-   "en": "China's Commerce Ministry and Ministry of Science and Technology have proposed export controls covering 40 technologies in artificial intelligence, biomedicine and solar manufacturing, with 14 facing outright bans and the remaining 26 requiring export licences. The draft changes, published for public comment on October 16, would tighten oversight of technology transfers linked to Chinese firms' overseas expansion. The proposal preserves exemptions and streamlined approvals for much international AI collaboration.",
-   "zh_hant": "商務部與科技部周五就 40 項人工智能、生物醫藥及太陽能製造技術提出出口管制諮詢，當中 14 項建議全面禁止出口，其餘 26 項須申請出口許可。諮詢稿旨在加強監管中國企業海外擴張涉及的技術轉讓。諮詢亦保留大部分國際人工智能合作的豁免及簡化審批安排。",
-   "zh_hans": "商务部与科技部周五就 40 项人工智能、生物医药及太阳能制造技术提出出口管制咨询，当中 14 项建议全面禁止出口，其余 26 项须申请出口许可。咨询稿旨在加强监管中国企业海外扩张涉及的技术转让。咨询亦保留大部分国际人工智能合作的豁免及简化审批安排。"
+  {
+    "id": "20261017-paul-chan-bangkok-visit",
+    "category": "finance",
+    "published_at": "2026-10-17T10:00:00+08:00",
+    "source": {
+      "name": "Hongkong Invest（政府新聞公報轉載）",
+      "url": "https://hongkong-invest.com/%e8%b2%a1%e6%94%bf%e5%8f%b8%e5%8f%b8%e9%95%b7%e5%9c%a8%e6%9b%bc%e8%b0%b7%e8%88%87%e6%b3%b0%e5%9c%8b%e5%89%af%e7%b8%bd%e7%90%86%e5%8f%8a%e8%b7%a8%e5%9c%8b%e9%87%91%e8%9e%8d%e6%a9%9f%e6%a7%8b%e9%ab%98/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Paul Chan wraps up Bangkok trip with Thai deputy PM and bankers, returns to Hong Kong",
+      "zh_hant": "陳茂波結束曼谷行程返港　晤泰國副總理及跨國金融機構高層",
+      "zh_hans": "陈茂波结束曼谷行程返港　晤泰国副总理及跨国金融机构高层"
+    },
+    "summary": {
+      "en": "Financial Secretary Paul Chan continued his Bangkok visit on the morning of 17 October, meeting Thai Deputy Prime Minister and Finance Minister Ekniti Nitithanprapas to discuss deeper economic and financial cooperation between the two places. The two sides explored linking Thai foreign investment with Hong Kong's capital markets, regulatory cooperation between the stock markets and encouraging dual listings. Chan also met the chief executive of a major French bank to discuss fixed income, green finance, tokenised products and wealth management, before returning to Hong Kong in the afternoon.",
+      "zh_hant": "財政司司長陳茂波10月17日上午繼續泰國曼谷訪問行程，同泰國副總理兼財政部長會面，就深化兩地經貿同金融合作交換意見。雙方探討點樣將泰國外來直接投資同香港資本市場對接、深化兩地證券市場規管合作，以及鼓勵企業雙重上市。陳茂波亦同法國一家主要銀行嘅行政總裁會面，傾咗固定收益、綠色金融、代幣化金融產品同資產財富管理，之後下午返抵香港。",
+      "zh_hans": "财政司司长陈茂波10月17日上午继续泰国曼谷访问行程，与泰国副总理兼财政部长会面，就深化两地经贸和金融合作交换意见。双方探讨如何将泰国的外来直接投资与香港资本市场对接、深化两地证券市场监管合作，以及鼓励企业双重上市。陈茂波亦与法国一家主要银行的行政总裁会面，讨论了固定收益、绿色金融、代币化金融产品和资产财富管理，随后于下午返抵香港。"
+    },
+    "tags": {
+      "en": [
+        "Paul Chan",
+        "Hong Kong",
+        "Thailand",
+        "finance",
+        "capital markets"
+      ],
+      "zh_hant": [
+        "陳茂波",
+        "香港",
+        "泰國",
+        "金融",
+        "資本市場"
+      ],
+      "zh_hans": [
+        "陈茂波",
+        "香港",
+        "泰国",
+        "金融",
+        "资本市场"
+      ]
+    }
   },
-  "tags": {
-   "en": [
-    "China",
-    "Export controls",
-    "Artificial intelligence",
-    "Solar industry"
-   ],
-   "zh_hant": [
-    "中國",
-    "出口管制",
-    "人工智能",
-    "太陽能產業"
-   ],
-   "zh_hans": [
-    "中国",
-    "出口管制",
-    "人工智能",
-    "太阳能产业"
-   ]
+  {
+    "id": "20261017-tang-ping-keung-scam-call",
+    "category": "society",
+    "published_at": "2026-10-17T12:59:10+08:00",
+    "source": {
+      "name": "新浪新聞",
+      "url": "https://news.sina.cn/gn/2026-10-17/detail-inivpfyf6473577.d.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Scam caller targets Hong Kong security chief Chris Tang — who tells him to come to the 10th floor",
+      "zh_hant": "騙徒冒充官員打畀鄧炳強　局長：我而家就喺10樓，你過嚟搵我",
+      "zh_hans": "骗徒冒充官员打给邓炳强　局长：我现在就在10楼，你过来找我"
+    },
+    "summary": {
+      "en": "Hong Kong's Secretary for Security Chris Tang has shared an encounter with a telephone scammer who called him posing as a security bureau officer, claiming he was suspected of breaking mainland law and demanding he report to the 10th floor of government headquarters. Tang, who was actually on the 10th floor at the time, asked the caller which unit he belonged to and invited him to come over in person, exposing the fraud on the spot. He reminded the public that the government would never demand payment by phone or ask citizens to report to an office for investigation, urging people to stay calm and verify suspicious calls.",
+      "zh_hant": "保安局局長鄧炳強喺社交平台分享一次遇騙經歷：有騙徒冒充保安局人員打電話畀佢，話佢涉嫌觸犯內地法律，叫佢去政府總部10樓協助調查。鄧炳強當時正正就喺10樓，於是反問對方屬於邊個組別，仲叫騙徒直接過嚟搵佢，當場識破騙局。佢提醒市民，政府絕對唔會用電話要求市民繳款，亦唔會通知市民去辦公室協助調查，呼籲大家遇到可疑來電要冷靜核實。",
+      "zh_hans": "保安局局长邓炳强在社交平台分享一次遇骗经历：有骗徒冒充保安局人员打电话给他，声称他涉嫌触犯内地法律，要求他到政府总部10楼协助调查。邓炳强当时正好就在10楼，于是反问对方属于哪个组别，还叫骗徒直接过来找他，当场识破骗局。他提醒市民，政府绝不会用电话要求市民缴款，也不会通知市民到办公室协助调查，呼吁大家遇到可疑来电要冷静核实。"
+    },
+    "tags": {
+      "en": [
+        "Chris Tang",
+        "phone scam",
+        "Hong Kong",
+        "fraud prevention",
+        "security bureau"
+      ],
+      "zh_hant": [
+        "鄧炳強",
+        "電話騙案",
+        "香港",
+        "防騙",
+        "保安局"
+      ],
+      "zh_hans": [
+        "邓炳强",
+        "电话骗案",
+        "香港",
+        "防骗",
+        "保安局"
+      ]
+    }
+  },
+  {
+    "id": "20261017-auo-peng-ai-bubble",
+    "category": "tech",
+    "published_at": "2026-10-17T13:00:00+08:00",
+    "source": {
+      "name": "科技新報",
+      "url": "https://finance.technews.tw/2026/10/17/ai-bubble-auo/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "AUO chairman says AI is no bubble but growth will slow as industry matures",
+      "zh_hant": "友達彭双浪：AI冇泡沫但成長會放緩　續押注AI供應鏈",
+      "zh_hans": "友达彭双浪：AI没有泡沫但增长会放缓　继续押注AI供应链"
+    },
+    "summary": {
+      "en": "AU Optronics chairman Paul Peng said at the company's 30th anniversary sports day on 17 October that artificial intelligence is an irreversible industry trend and he does not see a bubble, though growth will inevitably slow as the industry matures. He noted that AI-related investment has expanded rapidly in recent years and AUO will keep investing in the AI supply chain, while also developing AR/VR, low-orbit satellite communications and advanced semiconductor packaging. On the 2027 outlook, he said most research houses are cautiously optimistic and next year should be no worse than this year.",
+      "zh_hant": "友達光電董事長彭双浪喺10月17日舉行嘅集團30週年運動會上受訪表示，人工智能係不可逆嘅產業趨勢，佢唔認為AI存在泡沫，但隨著產業逐步成熟，成長幅度勢必放緩。佢話近年AI相關投資規模擴大得好快，友達會繼續投入AI供應鏈，同時布局AR／VR、低軌衛星通訊同半導體先進封裝。講到明年景氣，佢話多數研究機構審慎樂觀，研判明年表現唔會差過今年。",
+      "zh_hans": "友达光电董事长彭双浪在10月17日举行的集团30周年运动会上受访表示，人工智能是不可逆的产业趋势，他不认为AI存在泡沫，但随着产业逐步成熟，增长幅度势必放缓。他说近年AI相关投资规模扩大很快，友达会继续投入AI供应链，同时布局AR／VR、低轨卫星通信和半导体先进封装。谈到明年景气，他说多数研究机构审慎乐观，研判明年表现不会差过今年。"
+    },
+    "tags": {
+      "en": [
+        "AUO",
+        "AI",
+        "semiconductors",
+        "Taiwan",
+        "tech industry"
+      ],
+      "zh_hant": [
+        "友達",
+        "人工智能",
+        "半導體",
+        "台灣",
+        "科技業"
+      ],
+      "zh_hans": [
+        "友达",
+        "人工智能",
+        "半导体",
+        "台湾",
+        "科技业"
+      ]
+    }
+  },
+  {
+    "id": "20261017-apec-finance-ministers-hk-taiwan",
+    "category": "world",
+    "published_at": "2026-10-17T13:14:54+08:00",
+    "source": {
+      "name": "Asia Today",
+      "url": "https://asiatoday.id/read/taiwan-finance-chief-joins-apec-ministers-in-hong-kong-amid-beijing-pressure"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Taiwan finance chief to attend APEC finance ministers' meeting in Hong Kong",
+      "zh_hant": "APEC財長會下周在港舉行　台灣財長將以「中華台北」名義出席",
+      "zh_hans": "APEC财长会下周在港举行　台湾财长将以“中华台北”名义出席"
+    },
+    "summary": {
+      "en": "APEC finance ministers will meet in Hong Kong on 20-21 October, chaired by China's Finance Minister Lan Fo'an, with Taiwan's finance minister Chuang Tsui-yun set to attend under the name 'Chinese Taipei', according to Taiwan's finance ministry. Taiwan's presence is notable as APEC is one of the few international bodies the island belongs to, despite Beijing's sovereignty claims and its refusal to talk to President Lai Ching-te. The meeting is expected to yield a finance ministers' statement, a report on fiscal policy for livelihoods and a policy blueprint on digital infrastructure financing, paving the way for November's APEC leaders' summit in Shenzhen.",
+      "zh_hant": "APEC財長會將於10月20至21日在香港舉行，由中國財政部長藍佛安主持；據台灣財政部向路透社表示，台灣財長莊翠雲將以「中華台北」名義出席。台灣出席備受注目，因為APEC係少數台灣能夠參與嘅國際組織，儘管北京聲稱擁有台灣主權，又拒絕同賴清德總統對話。會議預計會發表財長聲明、支持民生嘅財政政策報告同數字基建融資政策藍圖，為11月深圳APEC領導人峰會鋪路。",
+      "zh_hans": "APEC财长会将于10月20至21日在香港举行，由中国财政部长蓝佛安主持；据台湾财政部向路透社表示，台湾财长庄翠云将以“中华台北”名义出席。台湾出席备受注目，因为APEC是少数台湾能够参与的国际组织，尽管北京声称拥有台湾主权，又拒绝与赖清德总统对话。会议预计将发表财长声明、支持民生的财政政策报告和数字基建融资政策蓝图，为11月深圳APEC领导人峰会铺路。"
+    },
+    "tags": {
+      "en": [
+        "APEC",
+        "Hong Kong",
+        "Taiwan",
+        "finance ministers",
+        "China"
+      ],
+      "zh_hant": [
+        "APEC",
+        "香港",
+        "台灣",
+        "財長會",
+        "中國"
+      ],
+      "zh_hans": [
+        "APEC",
+        "香港",
+        "台湾",
+        "财长会",
+        "中国"
+      ]
+    }
+  },
+  {
+    "id": "20261017-china-export-curbs-ai-solar",
+    "category": "china",
+    "published_at": "2026-10-17T08:00:00+08:00",
+    "source": {
+      "name": "Caixin Global",
+      "url": "https://www.caixinglobal.com/2026-10-17/china-proposes-export-curbs-on-ai-and-solar-technology-102494151.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "China proposes export controls on AI and solar technology",
+      "zh_hant": "中國擬對人工智能及太陽能技術實施出口管制",
+      "zh_hans": "中国拟对人工智能及太阳能技术实施出口管制"
+    },
+    "summary": {
+      "en": "China's Commerce Ministry and Ministry of Science and Technology have proposed export controls covering 40 technologies in artificial intelligence, biomedicine and solar manufacturing, with 14 facing outright bans and the remaining 26 requiring export licences. The draft changes, published for public comment on October 16, would tighten oversight of technology transfers linked to Chinese firms' overseas expansion. The proposal preserves exemptions and streamlined approvals for much international AI collaboration.",
+      "zh_hant": "商務部與科技部周五就 40 項人工智能、生物醫藥及太陽能製造技術提出出口管制諮詢，當中 14 項建議全面禁止出口，其餘 26 項須申請出口許可。諮詢稿旨在加強監管中國企業海外擴張涉及的技術轉讓。諮詢亦保留大部分國際人工智能合作的豁免及簡化審批安排。",
+      "zh_hans": "商务部与科技部周五就 40 项人工智能、生物医药及太阳能制造技术提出出口管制咨询，当中 14 项建议全面禁止出口，其余 26 项须申请出口许可。咨询稿旨在加强监管中国企业海外扩张涉及的技术转让。咨询亦保留大部分国际人工智能合作的豁免及简化审批安排。"
+    },
+    "tags": {
+      "en": [
+        "China",
+        "Export controls",
+        "Artificial intelligence",
+        "Solar industry"
+      ],
+      "zh_hant": [
+        "中國",
+        "出口管制",
+        "人工智能",
+        "太陽能產業"
+      ],
+      "zh_hans": [
+        "中国",
+        "出口管制",
+        "人工智能",
+        "太阳能产业"
+      ]
+    }
+  },
+  {
+    "id": "20261017-china-tech-stocks-ai-selloff",
+    "category": "china",
+    "published_at": "2026-10-17T08:00:00+08:00",
+    "source": {
+      "name": "Business Today (Malaysia)",
+      "url": "https://www.businesstoday.com.my/2026/10/17/chinas-ai-ambitions-face-market-test-as-tech-stocks-plunge/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "China's AI ambitions face market test as tech stocks plunge",
+      "zh_hant": "AI 拋售潮下中資科技股急挫",
+      "zh_hans": "AI 抛售潮下中资科技股急挫"
+    },
+    "summary": {
+      "en": "Chinese technology stocks are under heavy selling pressure as a global artificial intelligence sell-off weighs on valuations. The Star 50 Index has plunged nearly 40% in the second half of 2026, making it the worst-performing major technology index globally over that period, while the ChiNext Index has fallen 36%. Foreign investors have also pulled back, with Stock Connect outflows reaching an estimated 90 billion yuan in the third quarter, the largest quarterly withdrawal in a year.",
+      "zh_hant": "環球人工智能股拋售潮拖累中資科技股估值，科創 50 指數 2026 年下半年累跌近四成，成為同期全球表現最差的主要科技指數，創業板指數亦跌 36%。外資同步撤退，第三季經滬深港通流出約 900 億元人民幣，創一年來最大單季流出。",
+      "zh_hans": "环球人工智能股抛售潮拖累中资科技股估值，科创 50 指数 2026 年下半年累跌近四成，成为同期全球表现最差的主要科技指数，创业板指数亦跌 36%。外资同步撤退，第三季经沪深港通流出约 900 亿元人民币，创一年来最大单季流出。"
+    },
+    "tags": {
+      "en": [
+        "Chinese stocks",
+        "AI sell-off",
+        "Star 50",
+        "Tech sector"
+      ],
+      "zh_hant": [
+        "中資股",
+        "AI 拋售",
+        "科創50",
+        "科技板塊"
+      ],
+      "zh_hans": [
+        "中资股",
+        "AI 抛售",
+        "科创50",
+        "科技板块"
+      ]
+    }
+  },
+  {
+    "id": "20261017-tsuen-wan-woman-collapse-dies",
+    "category": "hk",
+    "published_at": "2026-10-17T10:32:21+08:00",
+    "source": {
+      "name": "Dimsum Daily",
+      "url": "https://www.dimsumdaily.hk/41-year-old-indonesian-woman-collapses-at-home-in-tsuen-wan-and-dies-after-hospital-transfer/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "41-year-old woman collapses at Tsuen Wan home and dies after hospital transfer",
+      "zh_hant": "荃灣41歲女子寓所暈倒　送院不治",
+      "zh_hans": "荃湾41岁女子寓所晕倒　送院不治"
+    },
+    "summary": {
+      "en": "A 41-year-old woman collapsed in the bedroom of a residence on Ho Pui Street in Tsuen Wan at about 4pm on October 16. Paramedics found her unconscious and took her to Yan Chai Hospital, where she was later certified dead. Police said the cause of death will be determined by post-mortem; the woman was understood to be from Indonesia and held a Hong Kong Identity Card.",
+      "zh_hant": "一名 41 歲女子昨日下午約 4 時在荃灣河背街一單位睡房內暈倒，送院搶救後證實不治。救護員到場時女子已無知覺，隨即送往仁濟醫院。警方表示死因有待驗屍確定；據悉女事主為印尼籍、持香港身份證，警方正向家屬提供協助。",
+      "zh_hans": "一名 41 岁女子昨日下午约 4 时在荃湾河背街一单位睡房内晕倒，送院抢救后证实不治。救护员到场时女子已无知觉，随即送往仁济医院。警方表示死因有待验尸确定；据悉女事主为印尼籍、持香港身份证，警方正向家属提供协助。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong",
+        "Tsuen Wan",
+        "Sudden death"
+      ],
+      "zh_hant": [
+        "香港",
+        "荃灣",
+        "猝死"
+      ],
+      "zh_hans": [
+        "香港",
+        "荃湾",
+        "猝死"
+      ]
+    }
+  },
+  {
+    "id": "20261017-to-kwa-wan-flat-break-in",
+    "category": "hk",
+    "published_at": "2026-10-17T10:56:42+08:00",
+    "source": {
+      "name": "Dimsum Daily",
+      "url": "https://www.dimsumdaily.hk/six-suspects-storm-to-kwa-wan-flat-injure-woman-and-steal-hk3000-and-a-phone/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Six suspects storm To Kwa Wan flat, injure woman and steal HK$3,000",
+      "zh_hant": "六人凌晨闖土瓜灣唐樓　傷女住客搶三千元及手機",
+      "zh_hans": "六人凌晨闯土瓜湾唐楼　伤女住客抢三千元及手机"
+    },
+    "summary": {
+      "en": "A woman was assaulted during an early-morning break-in at a tenement flat on Wing Yiu Street in To Kwa Wan. At about 7.05am, six suspects — three men and three women — knocked on the door; one man struck the 43-year-old resident with a hammer before the group seized HK$3,000 in cash and a mobile phone and fled. Initial enquiries suggest the parties knew each other following an earlier dispute; the case is being handled by Kowloon City Police District's Crime Squad.",
+      "zh_hant": "土瓜灣永耀街一唐樓單位今晨約 7 時 05 分遭六名男女（各三人）敲門入屋，其中一名男子以鎚襲擊 43 歲姓郭女住客，同黨將她按倒在地，劫去 3,000 元現金及一部手機後逃去。女事主手腳擦傷，送往伊利沙伯醫院治理。初步調查顯示雙方疑因早前糾紛認識，案件由九龍城警區刑事調查隊第三隊跟進。",
+      "zh_hans": "土瓜湾永耀街一唐楼单位今晨约 7 时 05 分遭六名男女（各三人）敲门入屋，其中一名男子以锤袭击 43 岁姓郭女住客，同党将她按倒在地，劫去 3,000 元现金及一部手机后逃去。女事主手脚擦伤，送往伊利沙伯医院治理。初步调查显示双方疑因早前纠纷认识，案件由九龙城警区刑事调查队第三队跟进。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong",
+        "To Kwa Wan",
+        "Burglary",
+        "Crime"
+      ],
+      "zh_hant": [
+        "香港",
+        "土瓜灣",
+        "爆竊",
+        "罪案"
+      ],
+      "zh_hans": [
+        "香港",
+        "土瓜湾",
+        "爆窃",
+        "罪案"
+      ]
+    }
+  },
+  {
+    "id": "20261017-france-oct17-nationwide-protests",
+    "category": "world",
+    "published_at": "2026-10-16T20:00:00+08:00",
+    "source": {
+      "name": "EU Today",
+      "url": "https://eutoday.net/france-500-protest-actions-yellow-vests-students-october-17/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "France braces for nationwide protests as Yellow Vests join student unrest",
+      "zh_hant": "法國全國大示威今登場　黃背心加入學生抗議",
+      "zh_hans": "法国全国大示威今登场　黄背心加入学生抗议"
+    },
+    "summary": {
+      "en": "France is bracing for a nationwide wave of demonstrations on Saturday, October 17, with authorities preparing for hundreds of protest actions. The mobilisation brings together high-school and university students, trade unions, farmers and supporters of the Yellow Vest movement, amid anger over the cost of living, education conditions and government policy. Police estimate around 40,000 demonstrators could gather in Paris, with a further 150,000 expected elsewhere, and authorities have warned of possible road blockades and clashes.",
+      "zh_hant": "法國今日（10 月 17 日，星期六）將爆發全國性示威浪潮，官方預計有數百場抗議行動。今次動員匯集中學生、大學生、工會、農民及黃背心運動支持者，訴求涵蓋生活成本、校園條件及政府政策。警方估計巴黎或有約 4 萬人上街，全國其他地區另有約 15 萬人，並警告可能出現封路及衝突。",
+      "zh_hans": "法国今日（10 月 17 日，星期六）将爆发全国性示威浪潮，官方预计有数百场抗议行动。今次动员汇集中学生、大学生、工会、农民及黄背心运动支持者，诉求涵盖生活成本、校园条件及政府政策。警方估计巴黎或有约 4 万人上街，全国其他地区另有约 15 万人，并警告可能出现封路及冲突。"
+    },
+    "tags": {
+      "en": [
+        "France",
+        "Protests",
+        "Yellow Vests",
+        "Cost of living"
+      ],
+      "zh_hant": [
+        "法國",
+        "示威",
+        "黃背心",
+        "生活成本"
+      ],
+      "zh_hans": [
+        "法国",
+        "示威",
+        "黄背心",
+        "生活成本"
+      ]
+    }
+  },
+  {
+    "id": "20261017-beirut-airport-certification-us-flights",
+    "category": "world",
+    "published_at": "2026-10-16T22:00:00+08:00",
+    "source": {
+      "name": "Reuters",
+      "url": "https://wncy.com/2026/10/16/exclusive-trump-move-to-restart-direct-us-flights-with-lebanon-hits-roadblock/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Beirut airport lacks valid certification, hitting Trump's plan for direct US-Lebanon flights",
+      "zh_hant": "貝魯特機場未獲有效認證　特朗普重啟美黎直航遇阻",
+      "zh_hans": "贝鲁特机场未获有效认证　特朗普重启美黎直航遇阻"
+    },
+    "summary": {
+      "en": "A Reuters-exclusive report says the UN aviation agency found Lebanon's main airport lacks valid certification, in a setback to President Donald Trump's push to revive direct US-Beirut flights. The International Civil Aviation Organization identified shortcomings at Beirut's Rafic Hariri International Airport, including expired conditional certification, inadequate firefighting resources for long-haul jets and no emergency plan. Trump signed an order last month allowing direct flights, reversing a four-decade suspension dating back to the 1985 TWA Flight 847 hijacking.",
+      "zh_hant": "路透社獨家報道指，聯合國航空機構發現黎巴嫩主要機場未獲有效認證，令特朗普重啟美黎直航的計劃受挫。國際民航組織在貝魯特拉菲克·哈里里國際機場發現多項缺失，包括有條件認證已過期、消防資源不足以應付長途客機，以及欠缺應急預案。特朗普上月已簽署行政命令容許直航，推翻自 1985 年 TWA 847 班機劫機事件以來的 40 年禁令。",
+      "zh_hans": "路透社独家报道指，联合国航空机构发现黎巴嫩主要机场未获有效认证，令特朗普重启美黎直航的计划受挫。国际民航组织在贝鲁特拉菲克·哈里里国际机场发现多项缺失，包括有条件认证已过期、消防资源不足以应付长途客机，以及欠缺应急预案。特朗普上月已签署行政命令容许直航，推翻自 1985 年 TWA 847 班机劫机事件以来的 40 年禁令。"
+    },
+    "tags": {
+      "en": [
+        "Lebanon",
+        "Aviation",
+        "Donald Trump",
+        "ICAO"
+      ],
+      "zh_hant": [
+        "黎巴嫩",
+        "航空",
+        "特朗普",
+        "國際民航組織"
+      ],
+      "zh_hans": [
+        "黎巴嫩",
+        "航空",
+        "特朗普",
+        "国际民航组织"
+      ]
+    }
+  },
+  {
+    "id": "20261017-ellen-degeneres-graham-norton-tv-return",
+    "category": "entertainment",
+    "published_at": "2026-10-17T08:27:18+08:00",
+    "source": {
+      "name": "Just Jared",
+      "url": "https://www.justjared.com/2026/10/16/ellen-degeneres-says-she-really-misses-being-on-tv-considers-u-k-return/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Ellen DeGeneres says she misses TV and mulls UK return",
+      "zh_hant": "Ellen DeGeneres 坦言掛念幕前　考慮在英國復出",
+      "zh_hans": "Ellen DeGeneres 坦言挂念幕前　考虑在英国复出"
+    },
+    "summary": {
+      "en": "Ellen DeGeneres revealed she 'really misses' being on television during an appearance on The Graham Norton Show on October 16. The 68-year-old former talk show host, who moved to the United Kingdom with wife Portia de Rossi in 2024, said she was thinking about doing something on TV there. DeGeneres has largely stayed out of the spotlight since The Ellen DeGeneres Show ended in 2022 after 19 seasons.",
+      "zh_hant": "Ellen DeGeneres 周五（10 月 16 日）亮相《The Graham Norton Show》時坦言「非常掛念」幕前生活。68 歲的她 2024 年與妻子 Portia de Rossi 移居英國，笑言考慮在當地復出。DeGeneres 自 2022 年《Ellen DeGeneres Show》播畢 19 季後，一直淡出幕前。",
+      "zh_hans": "Ellen DeGeneres 周五（10 月 16 日）亮相《The Graham Norton Show》时坦言「非常挂念」幕前生活。68 岁的她 2024 年与妻子 Portia de Rossi 移居英国，笑言考虑在当地复出。DeGeneres 自 2022 年《Ellen DeGeneres Show》播毕 19 季后，一直淡出幕前。"
+    },
+    "tags": {
+      "en": [
+        "Ellen DeGeneres",
+        "Television",
+        "Graham Norton Show",
+        "Entertainment"
+      ],
+      "zh_hant": [
+        "Ellen DeGeneres",
+        "電視",
+        "Graham Norton Show",
+        "娛樂"
+      ],
+      "zh_hans": [
+        "Ellen DeGeneres",
+        "电视",
+        "Graham Norton Show",
+        "娱乐"
+      ]
+    }
+  },
+  {
+    "id": "20261017-us-stocks-friday-close",
+    "category": "finance",
+    "published_at": "2026-10-17T04:45:00+08:00",
+    "source": {
+      "name": "AP (via WPTF)",
+      "url": "https://www.wptf.com/2026/10/16/18609/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Wall Street ends lower Friday as tech sell-off deepens; S&P 500 and Nasdaq post worst week since June",
+      "zh_hant": "美股周五收低　科技股拋售加劇　標指納指創6月以來最差單周",
+      "zh_hans": "美股周五收低　科技股抛售加剧　标指纳指创6月以来最差单周"
+    },
+    "summary": {
+      "en": "U.S. stocks closed lower on Friday as heavy selling in technology and chip shares weighed on the market. The S&P 500 fell 1.1% to 7,659.44 and the Nasdaq composite sank 2.1% to 26,140.03, with both indexes recording their worst week since June. The Dow Jones Industrial Average fared better, slipping 0.3% to 52,002.41, as gains in banks and energy shares cushioned the decline. Investors remained worried that AI-related firms may struggle to keep borrowing amid elevated bond yields, with the 10-year Treasury at 5.09%.",
+      "zh_hant": "美股周五收市下跌，科技股及晶片股遭大幅拋售拖累大市。標普500指數跌1.1%，收報7,659.44點；納斯達克綜合指數急挫2.1%，收報26,140.03點，兩者均錄得6月以來表現最差的一周。道瓊斯工業平均指數跌幅較溫和，跌0.3%收報52,002.41點，銀行股及能源股上升緩衝了跌勢。市場憂慮在債息高企下，與人工智能相關企業難以持續舉債擴張，10年期美債孳息報5.09%。",
+      "zh_hans": "美股周五收市下跌，科技股及芯片股遭大幅抛售拖累大市。标普500指数跌1.1%，收报7,659.44点；纳斯达克综合指数急挫2.1%，收报26,140.03点，两者均录得6月以来表现最差的一周。道琼斯工业平均指数跌幅较温和，跌0.3%收报52,002.41点，银行股及能源股上升缓冲了跌势。市场忧虑在债息高企下，与人工智能相关企业难以持续举债扩张，10年期美债孳息报5.09%。"
+    },
+    "tags": {
+      "en": [
+        "US stocks",
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones",
+        "tech sell-off",
+        "AI stocks"
+      ],
+      "zh_hant": [
+        "美股",
+        "標普500",
+        "納斯達克",
+        "道瓊斯",
+        "科技股拋售",
+        "AI概念股"
+      ],
+      "zh_hans": [
+        "美股",
+        "标普500",
+        "纳斯达克",
+        "道琼斯",
+        "科技股抛售",
+        "AI概念股"
+      ]
+    }
+  },
+  {
+    "id": "20261017-trump-dalton-rally",
+    "category": "world",
+    "published_at": "2026-10-17T05:45:00+08:00",
+    "source": {
+      "name": "AP (via KXL)",
+      "url": "https://www.kxl.com/trump-will-rally-georgia-republicans-despite-party-divisions-in-battleground-state/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Trump holds 90-minute Georgia rally, mocks Ossoff and rallies GOP ticket ahead of midterms",
+      "zh_hant": "特朗普喬治亞州集會演說逾90分鐘　嘲諷奧索夫並為共和黨候選人站台",
+      "zh_hans": "特朗普佐治亚州集会演说逾90分钟　嘲讽奥索夫并为共和党候选人站台"
+    },
+    "summary": {
+      "en": "President Donald Trump campaigned in Dalton, Georgia, on Friday, delivering a meandering speech of more than 90 minutes in support of Republican Senate candidate Mike Collins and gubernatorial nominee Rick Jackson. Trump repeatedly mocked Democratic Senator Jon Ossoff, calling him \"Pee-wee Herman,\" and restated his false claims about the 2020 election. He also defended the war in Iran and his border policies, while protesters decrying immigration enforcement briefly interrupted the rally.",
+      "zh_hant": "美國總統特朗普周五在喬治亞州道爾頓舉行競選集會，發表逾90分鐘演說，為共和黨參議員候選人科林斯及州長候選人傑克遜站台。特朗普多次嘲諷民主黨參議員奧索夫，稱呼對方為「Pee-wee Herman」，並重申有關2020年大選的不實說法。演說期間有反對移民執法政策的示威者打斷集會，特朗普亦為伊朗戰事及邊境政策辯護。",
+      "zh_hans": "美国总统特朗普周五在佐治亚州道尔顿举行竞选集会，发表逾90分钟演说，为共和党参议员候选人科林斯及州长候选人杰克逊站台。特朗普多次嘲讽民主党参议员奥索夫，称呼对方为「Pee-wee Herman」，并重申有关2020年大选的不实说法。演说期间有反对移民执法政策的示威者打断集会，特朗普亦为伊朗战事及边境政策辩护。"
+    },
+    "tags": {
+      "en": [
+        "Donald Trump",
+        "Georgia rally",
+        "US midterms",
+        "Jon Ossoff",
+        "Mike Collins"
+      ],
+      "zh_hant": [
+        "特朗普",
+        "喬治亞州集會",
+        "美國中期選舉",
+        "奧索夫",
+        "科林斯"
+      ],
+      "zh_hans": [
+        "特朗普",
+        "佐治亚州集会",
+        "美国中期选举",
+        "奥索夫",
+        "科林斯"
+      ]
+    }
+  },
+  {
+    "id": "20261017-brazil-amazon-deforestation-record-low",
+    "category": "world",
+    "published_at": "2026-10-17T02:04:00+08:00",
+    "source": {
+      "name": "Reuters (via 106.5 Jack FM)",
+      "url": "https://www.jack1065.com/2026/10/16/deforestation-in-brazils-amazon-falls-to-lowest-on-record-in-2025-26/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Brazil says Amazon deforestation fell to lowest level since records began in 1988",
+      "zh_hant": "巴西指亞馬遜毀林降至1988年有紀錄以來最低",
+      "zh_hans": "巴西指亚马逊毁林降至1988年有纪录以来最低"
+    },
+    "summary": {
+      "en": "Brazil's government announced Friday that annual deforestation in the Amazon fell to its lowest level since records began in 1988. Official satellite data showed 3,335 square kilometers of rainforest were lost between August 2025 and July 2026, a drop of about 42% from the previous period. The government credited renewed enforcement and environmental policies under President Luiz Inacio Lula da Silva, saying deforestation has fallen 71% since 2023.",
+      "zh_hant": "巴西政府周五宣布，亞馬遜雨林的年度毀林面積降至自1988年有紀錄以來的最低水平。官方衛星數據顯示，2025年8月至2026年7月期間，雨林損失3,335平方公里，較上一周期下降約42%。政府將成果歸功於總統盧拉治下重啟的執法及環保政策，指自2023年以來毀林已減少71%。",
+      "zh_hans": "巴西政府周五宣布，亚马逊雨林的年度毁林面积降至自1988年有纪录以来的最低水平。官方卫星数据显示，2025年8月至2026年7月期间，雨林损失3,335平方公里，较上一周期下降约42%。政府将成果归功于总统卢拉治下重启的执法及环保政策，指自2023年以来毁林已减少71%。"
+    },
+    "tags": {
+      "en": [
+        "Brazil",
+        "Amazon",
+        "deforestation",
+        "environment",
+        "Lula"
+      ],
+      "zh_hant": [
+        "巴西",
+        "亞馬遜",
+        "毀林",
+        "環境",
+        "盧拉"
+      ],
+      "zh_hans": [
+        "巴西",
+        "亚马逊",
+        "毁林",
+        "环境",
+        "卢拉"
+      ]
+    }
+  },
+  {
+    "id": "20261017-oregon-school-shooting-aftermath",
+    "category": "society",
+    "published_at": "2026-10-17T05:00:00+08:00",
+    "source": {
+      "name": "AFP (via Le Pays De France)",
+      "url": "https://www.lepaysdefrance.fr/en/Boulevard/749072-great-hero-praised-for-saving-lives-in-oregon-school-shooting.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Bystander who stopped Oregon school shooter identified as father of two; Trump hails \"great hero\"",
+      "zh_hant": "俄勒岡校園槍擊案　制服槍手的見義勇為者身份曝光　特朗普讚「大英雄」",
+      "zh_hans": "俄勒冈校园枪击案　制服枪手的见义勇为者身份曝光　特朗普赞「大英雄」"
+    },
+    "summary": {
+      "en": "The armed bystander who shot dead the teenage gunman during Thursday's elementary school shooting in Bend, Oregon, has been identified by his family as 36-year-old Kaylub Giamanco, a father of two pupils at Silver Rail Elementary. Police say Giamanco, who holds a concealed-carry permit, followed the 16-year-old suspect into the school and confronted him after the teen killed three children aged five, eight and 11, and a teacher. President Donald Trump praised Giamanco as a \"great hero.\" A seven-year-old child and a teacher remain in critical condition.",
+      "zh_hant": "在俄勒岡州本德市小學槍擊案中開槍制服槍手的持槍市民，經家人確認為36歲的凱盧布·賈曼科，其兩名子女均就讀涉事的錫爾弗雷爾小學。警方指，持有隱蔽持槍證的賈曼科尾隨16歲槍手進入校園並將其擊斃，槍手此前已殺害三名分別5歲、8歲及11歲的學童和一名教師。總統特朗普讚揚賈曼科是「大英雄」。一名7歲學童及一名教師仍然危殆。",
+      "zh_hans": "在俄勒冈州本德市小学枪击案中开枪制服枪手的持枪市民，经家人确认为36岁的凯卢布·贾曼科，其两名子女均就读涉事的锡尔弗雷尔小学。警方指，持有隐蔽持枪证的贾曼科尾随16岁枪手进入校园并将其击毙，枪手此前已杀害三名分别5岁、8岁及11岁的学童和一名教师。总统特朗普赞扬贾曼科是「大英雄」。一名7岁学童及一名教师仍然危殆。"
+    },
+    "tags": {
+      "en": [
+        "Oregon",
+        "school shooting",
+        "gun violence",
+        "Bend",
+        "Donald Trump"
+      ],
+      "zh_hant": [
+        "俄勒岡",
+        "校園槍擊",
+        "槍械暴力",
+        "本德市",
+        "特朗普"
+      ],
+      "zh_hans": [
+        "俄勒冈",
+        "校园枪击",
+        "枪械暴力",
+        "本德市",
+        "特朗普"
+      ]
+    }
+  },
+  {
+    "id": "20261017-faa-drone-ban-border",
+    "category": "others",
+    "published_at": "2026-10-17T02:55:00+08:00",
+    "source": {
+      "name": "DroneXL",
+      "url": "https://www.dronexl.co/2026/10/16/faa-bans-drones-us-mexico-border-october-2027/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "FAA bans all drones within one nautical mile of US-Mexico border for a year",
+      "zh_hant": "美聯邦航空局禁無人機在美墨邊境一海里範圍飛行一年",
+      "zh_hans": "美联邦航空局禁无人机在美墨边境一海里范围内飞行一年"
+    },
+    "summary": {
+      "en": "The Federal Aviation Administration has banned drones within one nautical mile of the entire US-Mexico border for one year, under three NOTAMs published Friday. The restriction covers altitudes from the ground to 400 feet and applies to all drones, including recreational models under 250 grams, with flights in the zone now requiring approval from US Customs and Border Protection. The temporary flight restriction takes effect on October 20, 2026 and runs through October 19, 2027.",
+      "zh_hant": "美國聯邦航空管理局周五發布三份飛航公告，禁止所有無人機在美墨邊境一海里範圍內飛行，為期一年。禁令涵蓋地面至400呎空域，適用於所有無人機，包括250克以下的娛樂用機型，日後須經美國海關及邊境保衛局批准方可進入該範圍飛行。臨時飛行限制將於2026年10月20日生效，至2027年10月19日屆滿。",
+      "zh_hans": "美国联邦航空管理局周五发布三份飞航公告，禁止所有无人机在美墨边境一海里范围内飞行，为期一年。禁令涵盖地面至400呎空域，适用于所有无人机，包括250克以下的娱乐用机型，日后须经美国海关及边境保卫局批准方可进入该范围飞行。临时飞行限制将于2026年10月20日生效，至2027年10月19日届满。"
+    },
+    "tags": {
+      "en": [
+        "FAA",
+        "drones",
+        "US-Mexico border",
+        "aviation",
+        "NOTAM"
+      ],
+      "zh_hant": [
+        "聯邦航空局",
+        "無人機",
+        "美墨邊境",
+        "航空",
+        "飛航公告"
+      ],
+      "zh_hans": [
+        "联邦航空局",
+        "无人机",
+        "美墨边境",
+        "航空",
+        "飞航公告"
+      ]
+    }
+  },
+  {
+    "id": "20261017-us-stocks-friday-ai-selloff",
+    "category": "finance",
+    "published_at": "2026-10-17T01:30:36+08:00",
+    "source": {
+      "name": "Reuters（經 Devdiscourse 轉載）",
+      "url": "https://www.devdiscourse.com/article/international/3993844-us-stocks-sp-500-nasdaq-set-for-steep-weekly-losses-as-ai-jitters-rattle-investors"
+    },
+    "image_url": "",
+    "title": {
+      "en": "S&P 500, Nasdaq head for steep weekly losses as AI trade unravels",
+      "zh_hant": "AI 概念股拋售潮：標普 500 與納指周線料錄得重挫",
+      "zh_hans": "AI 概念股抛售潮：标普 500 与纳指周线料录得重挫"
+    },
+    "summary": {
+      "en": "US stocks fell on Friday as cracks in the AI trade deepened, leaving the S&P 500 and Nasdaq on track for their steepest weekly losses since June. Chipmakers bore the brunt: the semiconductor index dropped 1.8%, heading for its worst eight-session run since April 2025, while Nvidia-backed CoreWeave plunged 10.3% on debt worries. Investors rotated into defensive sectors, lifting the Dow to its highest in over a month, as hotter inflation data reinforced expectations the Federal Reserve will keep rates on hold.",
+      "zh_hant": "美股周五受 AI 概念股拋售拖累下跌，標普 500 指數與納斯達克指數料錄得六月以來最大單周跌幅。晶片股首當其衝，半導體指數跌 1.8%，料創 2025 年四月以來最差的連續八個交易日表現；Nvidia 參投的 CoreWeave 因債務憂慮急挫 10.3%。資金轉向防守性板塊，帶動道指升至逾一個月高位；通脹數據勝預期，市場預料聯儲局將維持利率不變。",
+      "zh_hans": "美股周五受 AI 概念股抛售拖累下跌，标普 500 指数与纳斯达克指数料录得六月以来最大单周跌幅。芯片股首当其冲，半导体指数跌 1.8%，料创 2025 年四月以来最差的连续八个交易日表现；Nvidia 参投的 CoreWeave 因债务忧虑急挫 10.3%。资金转向防守性板块，带动道指升至逾一个月高位；通胀数据胜预期，市场预料联储局将维持利率不变。"
+    },
+    "tags": {
+      "en": [
+        "US stocks",
+        "AI trade",
+        "Federal Reserve"
+      ],
+      "zh_hant": [
+        "美股",
+        "AI 概念股",
+        "聯儲局"
+      ],
+      "zh_hans": [
+        "美股",
+        "AI 概念股",
+        "联储局"
+      ]
+    }
+  },
+  {
+    "id": "20261017-trump-zacharia-press-secretary-out",
+    "category": "world",
+    "published_at": "2026-10-17T02:08:00+08:00",
+    "source": {
+      "name": "NPR",
+      "url": "https://kansaspublicradio.org/npr-news/2026-10-16/katie-zacharia-is-transitioning-out-as-press-secretary-white-house-says"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Trump's press secretary Katie Zacharia out after five days",
+      "zh_hant": "特朗普新聞秘書凱蒂·扎卡里亞上任僅五天即離職",
+      "zh_hans": "特朗普新闻秘书凯蒂·扎卡里亚上任仅五天即离职"
+    },
+    "summary": {
+      "en": "Katie Zacharia is leaving her post as White House press secretary just five days after starting, a White House official told NPR on Friday. Her brief tenure was marred by a halting debut briefing on Tuesday and questions over her legal credentials after she acknowledged not passing the bar exam. Earlier in the day, President Trump told reporters he had advised Zacharia to 'reconsider' staying in the job. Zacharia, a former communications adviser to Trump Media, had replaced Karoline Leavitt, who stepped down in August.",
+      "zh_hant": "白宮官員周五向 NPR 證實，新聞秘書凱蒂·扎卡里亞上任僅五天便離職。她周二的首場記者會表現生硬，加上承認未通過律師資格考試，履歷備受質疑。特朗普同日較早時向記者表示，已建議扎卡里亞「重新考慮」是否留任。扎卡里亞曾任特朗普媒體集團傳訊顧問，接替八月辭職的卡羅琳·萊維特。",
+      "zh_hans": "白宫官员周五向 NPR 证实，新闻秘书凯蒂·扎卡里亚上任仅五天便离职。她周二的首场记者会表现生硬，加上承认未通过律师资格考试，履历备受质疑。特朗普同日较早时向记者表示，已建议扎卡里亚「重新考虑」是否留任。扎卡里亚曾任特朗普媒体集团传讯顾问，接替八月辞职的卡罗琳·莱维特。"
+    },
+    "tags": {
+      "en": [
+        "White House",
+        "Trump administration",
+        "press secretary"
+      ],
+      "zh_hant": [
+        "白宮",
+        "特朗普政府",
+        "新聞秘書"
+      ],
+      "zh_hans": [
+        "白宫",
+        "特朗普政府",
+        "新闻秘书"
+      ]
+    }
+  },
+  {
+    "id": "20261017-yuewen-ai-manhua-h1",
+    "category": "finance",
+    "published_at": "2026-10-17T14:35:00+08:00",
+    "source": {
+      "name": "閱文集團2026年中期業績公告",
+      "url": "https://www.prnewswire.com/apac/zh/news-releases/2026-302848209.html"
+    },
+    "image_url": "https://hkcn-news.vercel.app/assets/img/20261017-yuewen-ai-manhua.jpg",
+    "title": {
+      "en": "Yuewen Short Drama and AI Comic Drama Revenue Tops 430M Yuan in H1, Up 2.3x",
+      "zh_hant": "閱文短劇＋AI漫劇半年收入破4.3億元　按年勁增2.3倍",
+      "zh_hans": "阅文短剧＋AI漫剧半年收入破4.3亿元　按年劲增2.3倍"
+    },
+    "summary": {
+      "en": "China Literature reported its 2026 interim results, with short drama and AI comic drama revenue topping 430 million yuan, up 2.3 times year on year. More than 90 short dramas launched in the first half; AI comic drama \"San Qian Bi Hu\" passed 3 billion views, lifting its source novel into Qidian's top-10 bestsellers. The group launched the \"Qidian Theatre\" platform at home and \"ToonScroll\" overseas to visualise its IP library.",
+      "zh_hant": "閱文集團公布2026年中期業績，短劇與AI漫劇新賽道收入突破人民幣4.3億元，按年增長2.3倍。上半年共上線短劇超過90部，其中AI漫劇《三千庇護》全網播放量突破30億，更帶動原著小說打入起點平台暢銷榜前十。集團已在國內外分別推出「起點劇場」及「ToonScroll」漫劇平台，開拓IP視覺化新通道。",
+      "zh_hans": "阅文集团公布2026年中期业绩，短剧与AI漫剧新赛道收入突破人民币4.3亿元，按年增长2.3倍。上半年共上线短剧超过90部，其中AI漫剧《三千庇护》全网播放量突破30亿，更带动原著小说打入起点平台畅销榜前十。集团已在国内外分别推出「起点剧场」及「ToonScroll」漫剧平台，开拓IP视觉化新通道。"
+    },
+    "tags": [
+      "閱文集團",
+      "AI漫劇",
+      "短劇",
+      "中期業績"
+    ]
+  },
+  {
+    "id": "20261017-moonshot-hk-ipo-dispute",
+    "category": "finance",
+    "published_at": "2026-10-17T14:50:00+08:00",
+    "source": {
+      "name": "工商時報／路透社",
+      "url": "https://www.ctee.com.tw/news/20261012700934-430804"
+    },
+    "image_url": "https://hkcn-news.vercel.app/assets/img/20261017-moonshot-ipo.jpg",
+    "title": {
+      "en": "Kimi Maker Moonshot Said to File Confidentially for HK Listing at $50B Valuation Amid Equity Dispute",
+      "zh_hant": "Kimi母公司月之暗面傳秘密遞表赴港上市　估值500億美元　創辦人陷股權糾紛",
+      "zh_hans": "Kimi母公司月之暗面传秘密递表赴港上市　估值500亿美元　创办人陷股权纠纷"
+    },
+    "summary": {
+      "en": "Chinese AI unicorn Moonshot AI has confidentially filed for a Hong Kong listing, Reuters reported, in an IPO that could raise up to US$5 billion at a valuation of about US$50 billion, with a debut possible in Q1 2027. Meanwhile founders Yang Zhilin and Zhang Yutao face claims from their former venture Recurrent.ai and some investors over alleged misrepresentation and unauthorised transfer of AI resources; the dispute is in Hong Kong arbitration with settlement talks under way. Recurrent.ai seeks 10.5% of Moonshot's initial shares as compensation, worth over US$700 million at the June valuation. Yang denies wrongdoing, saying the spin-off had board consent.",
+      "zh_hant": "內地AI獨角獸月之暗面（Moonshot AI）據報已秘密向港交所遞交上市申請，市場估計最快2027年首季掛牌，集資額最高可達50億美元（約390億港元），估值約500億美元（約3,900億港元）。與此同時，路透社引述消息指，創辦人楊植麟及技術總監張宇韜被昔日共同創辦的循環智能及其部分投資者指控虛假陳述及未經授權轉移技術資源，相關爭議已進入香港仲裁程序，雙方正尋求和解。循環智能方面要求相當於月之暗面初始股份10.5%的賠償，按今年6月估值計算涉資超過7億美元（約55億港元）。楊植麟否認指控，強調成立新公司已獲循環智能董事會同意。",
+      "zh_hans": "内地AI独角兽月之暗面（Moonshot AI）据报已秘密向港交所递交上市申请，市场估计最快2027年首季挂牌，集资额最高可达50亿美元（约390亿港元），估值约500亿美元（约3,900亿港元）。与此同时，路透社引述消息指，创办人杨植麟及技术总监张宇韬被昔日共同创办的循环智能及其部分投资者指控虚假陈述及未经授权转移技术资源，相关争议已进入香港仲裁程序，双方正寻求和解。循环智能方面要求相当于月之暗面初始股份10.5%的赔偿，按今年6月估值计算涉资超过7亿美元（约55亿港元）。杨植麟否认指控，强调成立新公司已获循环智能董事会同意。"
+    },
+    "tags": [
+      "月之暗面",
+      "Kimi",
+      "港股IPO",
+      "楊植麟"
+    ]
   }
- },
- {
-  "id": "20261017-china-tech-stocks-ai-selloff",
-  "category": "china",
-  "published_at": "2026-10-17T08:00:00+08:00",
-  "source": {
-   "name": "Business Today (Malaysia)",
-   "url": "https://www.businesstoday.com.my/2026/10/17/chinas-ai-ambitions-face-market-test-as-tech-stocks-plunge/"
-  },
-  "image_url": "",
-  "title": {
-   "en": "China's AI ambitions face market test as tech stocks plunge",
-   "zh_hant": "AI 拋售潮下中資科技股急挫",
-   "zh_hans": "AI 抛售潮下中资科技股急挫"
-  },
-  "summary": {
-   "en": "Chinese technology stocks are under heavy selling pressure as a global artificial intelligence sell-off weighs on valuations. The Star 50 Index has plunged nearly 40% in the second half of 2026, making it the worst-performing major technology index globally over that period, while the ChiNext Index has fallen 36%. Foreign investors have also pulled back, with Stock Connect outflows reaching an estimated 90 billion yuan in the third quarter, the largest quarterly withdrawal in a year.",
-   "zh_hant": "環球人工智能股拋售潮拖累中資科技股估值，科創 50 指數 2026 年下半年累跌近四成，成為同期全球表現最差的主要科技指數，創業板指數亦跌 36%。外資同步撤退，第三季經滬深港通流出約 900 億元人民幣，創一年來最大單季流出。",
-   "zh_hans": "环球人工智能股抛售潮拖累中资科技股估值，科创 50 指数 2026 年下半年累跌近四成，成为同期全球表现最差的主要科技指数，创业板指数亦跌 36%。外资同步撤退，第三季经沪深港通流出约 900 亿元人民币，创一年来最大单季流出。"
-  },
-  "tags": {
-   "en": [
-    "Chinese stocks",
-    "AI sell-off",
-    "Star 50",
-    "Tech sector"
-   ],
-   "zh_hant": [
-    "中資股",
-    "AI 拋售",
-    "科創50",
-    "科技板塊"
-   ],
-   "zh_hans": [
-    "中资股",
-    "AI 抛售",
-    "科创50",
-    "科技板块"
-   ]
-  }
- },
- {
-  "id": "20261017-tsuen-wan-woman-collapse-dies",
-  "category": "hk",
-  "published_at": "2026-10-17T10:32:21+08:00",
-  "source": {
-   "name": "Dimsum Daily",
-   "url": "https://www.dimsumdaily.hk/41-year-old-indonesian-woman-collapses-at-home-in-tsuen-wan-and-dies-after-hospital-transfer/"
-  },
-  "image_url": "",
-  "title": {
-   "en": "41-year-old woman collapses at Tsuen Wan home and dies after hospital transfer",
-   "zh_hant": "荃灣41歲女子寓所暈倒　送院不治",
-   "zh_hans": "荃湾41岁女子寓所晕倒　送院不治"
-  },
-  "summary": {
-   "en": "A 41-year-old woman collapsed in the bedroom of a residence on Ho Pui Street in Tsuen Wan at about 4pm on October 16. Paramedics found her unconscious and took her to Yan Chai Hospital, where she was later certified dead. Police said the cause of death will be determined by post-mortem; the woman was understood to be from Indonesia and held a Hong Kong Identity Card.",
-   "zh_hant": "一名 41 歲女子昨日下午約 4 時在荃灣河背街一單位睡房內暈倒，送院搶救後證實不治。救護員到場時女子已無知覺，隨即送往仁濟醫院。警方表示死因有待驗屍確定；據悉女事主為印尼籍、持香港身份證，警方正向家屬提供協助。",
-   "zh_hans": "一名 41 岁女子昨日下午约 4 时在荃湾河背街一单位睡房内晕倒，送院抢救后证实不治。救护员到场时女子已无知觉，随即送往仁济医院。警方表示死因有待验尸确定；据悉女事主为印尼籍、持香港身份证，警方正向家属提供协助。"
-  },
-  "tags": {
-   "en": [
-    "Hong Kong",
-    "Tsuen Wan",
-    "Sudden death"
-   ],
-   "zh_hant": [
-    "香港",
-    "荃灣",
-    "猝死"
-   ],
-   "zh_hans": [
-    "香港",
-    "荃湾",
-    "猝死"
-   ]
-  }
- },
- {
-  "id": "20261017-to-kwa-wan-flat-break-in",
-  "category": "hk",
-  "published_at": "2026-10-17T10:56:42+08:00",
-  "source": {
-   "name": "Dimsum Daily",
-   "url": "https://www.dimsumdaily.hk/six-suspects-storm-to-kwa-wan-flat-injure-woman-and-steal-hk3000-and-a-phone/"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Six suspects storm To Kwa Wan flat, injure woman and steal HK$3,000",
-   "zh_hant": "六人凌晨闖土瓜灣唐樓　傷女住客搶三千元及手機",
-   "zh_hans": "六人凌晨闯土瓜湾唐楼　伤女住客抢三千元及手机"
-  },
-  "summary": {
-   "en": "A woman was assaulted during an early-morning break-in at a tenement flat on Wing Yiu Street in To Kwa Wan. At about 7.05am, six suspects — three men and three women — knocked on the door; one man struck the 43-year-old resident with a hammer before the group seized HK$3,000 in cash and a mobile phone and fled. Initial enquiries suggest the parties knew each other following an earlier dispute; the case is being handled by Kowloon City Police District's Crime Squad.",
-   "zh_hant": "土瓜灣永耀街一唐樓單位今晨約 7 時 05 分遭六名男女（各三人）敲門入屋，其中一名男子以鎚襲擊 43 歲姓郭女住客，同黨將她按倒在地，劫去 3,000 元現金及一部手機後逃去。女事主手腳擦傷，送往伊利沙伯醫院治理。初步調查顯示雙方疑因早前糾紛認識，案件由九龍城警區刑事調查隊第三隊跟進。",
-   "zh_hans": "土瓜湾永耀街一唐楼单位今晨约 7 时 05 分遭六名男女（各三人）敲门入屋，其中一名男子以锤袭击 43 岁姓郭女住客，同党将她按倒在地，劫去 3,000 元现金及一部手机后逃去。女事主手脚擦伤，送往伊利沙伯医院治理。初步调查显示双方疑因早前纠纷认识，案件由九龙城警区刑事调查队第三队跟进。"
-  },
-  "tags": {
-   "en": [
-    "Hong Kong",
-    "To Kwa Wan",
-    "Burglary",
-    "Crime"
-   ],
-   "zh_hant": [
-    "香港",
-    "土瓜灣",
-    "爆竊",
-    "罪案"
-   ],
-   "zh_hans": [
-    "香港",
-    "土瓜湾",
-    "爆窃",
-    "罪案"
-   ]
-  }
- },
- {
-  "id": "20261017-france-oct17-nationwide-protests",
-  "category": "world",
-  "published_at": "2026-10-16T20:00:00+08:00",
-  "source": {
-   "name": "EU Today",
-   "url": "https://eutoday.net/france-500-protest-actions-yellow-vests-students-october-17/"
-  },
-  "image_url": "",
-  "title": {
-   "en": "France braces for nationwide protests as Yellow Vests join student unrest",
-   "zh_hant": "法國全國大示威今登場　黃背心加入學生抗議",
-   "zh_hans": "法国全国大示威今登场　黄背心加入学生抗议"
-  },
-  "summary": {
-   "en": "France is bracing for a nationwide wave of demonstrations on Saturday, October 17, with authorities preparing for hundreds of protest actions. The mobilisation brings together high-school and university students, trade unions, farmers and supporters of the Yellow Vest movement, amid anger over the cost of living, education conditions and government policy. Police estimate around 40,000 demonstrators could gather in Paris, with a further 150,000 expected elsewhere, and authorities have warned of possible road blockades and clashes.",
-   "zh_hant": "法國今日（10 月 17 日，星期六）將爆發全國性示威浪潮，官方預計有數百場抗議行動。今次動員匯集中學生、大學生、工會、農民及黃背心運動支持者，訴求涵蓋生活成本、校園條件及政府政策。警方估計巴黎或有約 4 萬人上街，全國其他地區另有約 15 萬人，並警告可能出現封路及衝突。",
-   "zh_hans": "法国今日（10 月 17 日，星期六）将爆发全国性示威浪潮，官方预计有数百场抗议行动。今次动员汇集中学生、大学生、工会、农民及黄背心运动支持者，诉求涵盖生活成本、校园条件及政府政策。警方估计巴黎或有约 4 万人上街，全国其他地区另有约 15 万人，并警告可能出现封路及冲突。"
-  },
-  "tags": {
-   "en": [
-    "France",
-    "Protests",
-    "Yellow Vests",
-    "Cost of living"
-   ],
-   "zh_hant": [
-    "法國",
-    "示威",
-    "黃背心",
-    "生活成本"
-   ],
-   "zh_hans": [
-    "法国",
-    "示威",
-    "黄背心",
-    "生活成本"
-   ]
-  }
- },
- {
-  "id": "20261017-beirut-airport-certification-us-flights",
-  "category": "world",
-  "published_at": "2026-10-16T22:00:00+08:00",
-  "source": {
-   "name": "Reuters",
-   "url": "https://wncy.com/2026/10/16/exclusive-trump-move-to-restart-direct-us-flights-with-lebanon-hits-roadblock/"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Beirut airport lacks valid certification, hitting Trump's plan for direct US-Lebanon flights",
-   "zh_hant": "貝魯特機場未獲有效認證　特朗普重啟美黎直航遇阻",
-   "zh_hans": "贝鲁特机场未获有效认证　特朗普重启美黎直航遇阻"
-  },
-  "summary": {
-   "en": "A Reuters-exclusive report says the UN aviation agency found Lebanon's main airport lacks valid certification, in a setback to President Donald Trump's push to revive direct US-Beirut flights. The International Civil Aviation Organization identified shortcomings at Beirut's Rafic Hariri International Airport, including expired conditional certification, inadequate firefighting resources for long-haul jets and no emergency plan. Trump signed an order last month allowing direct flights, reversing a four-decade suspension dating back to the 1985 TWA Flight 847 hijacking.",
-   "zh_hant": "路透社獨家報道指，聯合國航空機構發現黎巴嫩主要機場未獲有效認證，令特朗普重啟美黎直航的計劃受挫。國際民航組織在貝魯特拉菲克·哈里里國際機場發現多項缺失，包括有條件認證已過期、消防資源不足以應付長途客機，以及欠缺應急預案。特朗普上月已簽署行政命令容許直航，推翻自 1985 年 TWA 847 班機劫機事件以來的 40 年禁令。",
-   "zh_hans": "路透社独家报道指，联合国航空机构发现黎巴嫩主要机场未获有效认证，令特朗普重启美黎直航的计划受挫。国际民航组织在贝鲁特拉菲克·哈里里国际机场发现多项缺失，包括有条件认证已过期、消防资源不足以应付长途客机，以及欠缺应急预案。特朗普上月已签署行政命令容许直航，推翻自 1985 年 TWA 847 班机劫机事件以来的 40 年禁令。"
-  },
-  "tags": {
-   "en": [
-    "Lebanon",
-    "Aviation",
-    "Donald Trump",
-    "ICAO"
-   ],
-   "zh_hant": [
-    "黎巴嫩",
-    "航空",
-    "特朗普",
-    "國際民航組織"
-   ],
-   "zh_hans": [
-    "黎巴嫩",
-    "航空",
-    "特朗普",
-    "国际民航组织"
-   ]
-  }
- },
- {
-  "id": "20261017-ellen-degeneres-graham-norton-tv-return",
-  "category": "entertainment",
-  "published_at": "2026-10-17T08:27:18+08:00",
-  "source": {
-   "name": "Just Jared",
-   "url": "https://www.justjared.com/2026/10/16/ellen-degeneres-says-she-really-misses-being-on-tv-considers-u-k-return/"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Ellen DeGeneres says she misses TV and mulls UK return",
-   "zh_hant": "Ellen DeGeneres 坦言掛念幕前　考慮在英國復出",
-   "zh_hans": "Ellen DeGeneres 坦言挂念幕前　考虑在英国复出"
-  },
-  "summary": {
-   "en": "Ellen DeGeneres revealed she 'really misses' being on television during an appearance on The Graham Norton Show on October 16. The 68-year-old former talk show host, who moved to the United Kingdom with wife Portia de Rossi in 2024, said she was thinking about doing something on TV there. DeGeneres has largely stayed out of the spotlight since The Ellen DeGeneres Show ended in 2022 after 19 seasons.",
-   "zh_hant": "Ellen DeGeneres 周五（10 月 16 日）亮相《The Graham Norton Show》時坦言「非常掛念」幕前生活。68 歲的她 2024 年與妻子 Portia de Rossi 移居英國，笑言考慮在當地復出。DeGeneres 自 2022 年《Ellen DeGeneres Show》播畢 19 季後，一直淡出幕前。",
-   "zh_hans": "Ellen DeGeneres 周五（10 月 16 日）亮相《The Graham Norton Show》时坦言「非常挂念」幕前生活。68 岁的她 2024 年与妻子 Portia de Rossi 移居英国，笑言考虑在当地复出。DeGeneres 自 2022 年《Ellen DeGeneres Show》播毕 19 季后，一直淡出幕前。"
-  },
-  "tags": {
-   "en": [
-    "Ellen DeGeneres",
-    "Television",
-    "Graham Norton Show",
-    "Entertainment"
-   ],
-   "zh_hant": [
-    "Ellen DeGeneres",
-    "電視",
-    "Graham Norton Show",
-    "娛樂"
-   ],
-   "zh_hans": [
-    "Ellen DeGeneres",
-    "电视",
-    "Graham Norton Show",
-    "娱乐"
-   ]
-  }
- },
- {
-  "id": "20261017-us-stocks-friday-close",
-  "category": "finance",
-  "published_at": "2026-10-17T04:45:00+08:00",
-  "source": {
-   "name": "AP (via WPTF)",
-   "url": "https://www.wptf.com/2026/10/16/18609/"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Wall Street ends lower Friday as tech sell-off deepens; S&P 500 and Nasdaq post worst week since June",
-   "zh_hant": "美股周五收低　科技股拋售加劇　標指納指創6月以來最差單周",
-   "zh_hans": "美股周五收低　科技股抛售加剧　标指纳指创6月以来最差单周"
-  },
-  "summary": {
-   "en": "U.S. stocks closed lower on Friday as heavy selling in technology and chip shares weighed on the market. The S&P 500 fell 1.1% to 7,659.44 and the Nasdaq composite sank 2.1% to 26,140.03, with both indexes recording their worst week since June. The Dow Jones Industrial Average fared better, slipping 0.3% to 52,002.41, as gains in banks and energy shares cushioned the decline. Investors remained worried that AI-related firms may struggle to keep borrowing amid elevated bond yields, with the 10-year Treasury at 5.09%.",
-   "zh_hant": "美股周五收市下跌，科技股及晶片股遭大幅拋售拖累大市。標普500指數跌1.1%，收報7,659.44點；納斯達克綜合指數急挫2.1%，收報26,140.03點，兩者均錄得6月以來表現最差的一周。道瓊斯工業平均指數跌幅較溫和，跌0.3%收報52,002.41點，銀行股及能源股上升緩衝了跌勢。市場憂慮在債息高企下，與人工智能相關企業難以持續舉債擴張，10年期美債孳息報5.09%。",
-   "zh_hans": "美股周五收市下跌，科技股及芯片股遭大幅抛售拖累大市。标普500指数跌1.1%，收报7,659.44点；纳斯达克综合指数急挫2.1%，收报26,140.03点，两者均录得6月以来表现最差的一周。道琼斯工业平均指数跌幅较温和，跌0.3%收报52,002.41点，银行股及能源股上升缓冲了跌势。市场忧虑在债息高企下，与人工智能相关企业难以持续举债扩张，10年期美债孳息报5.09%。"
-  },
-  "tags": {
-   "en": [
-    "US stocks",
-    "S&P 500",
-    "Nasdaq",
-    "Dow Jones",
-    "tech sell-off",
-    "AI stocks"
-   ],
-   "zh_hant": [
-    "美股",
-    "標普500",
-    "納斯達克",
-    "道瓊斯",
-    "科技股拋售",
-    "AI概念股"
-   ],
-   "zh_hans": [
-    "美股",
-    "标普500",
-    "纳斯达克",
-    "道琼斯",
-    "科技股抛售",
-    "AI概念股"
-   ]
-  }
- },
- {
-  "id": "20261017-trump-dalton-rally",
-  "category": "world",
-  "published_at": "2026-10-17T05:45:00+08:00",
-  "source": {
-   "name": "AP (via KXL)",
-   "url": "https://www.kxl.com/trump-will-rally-georgia-republicans-despite-party-divisions-in-battleground-state/"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Trump holds 90-minute Georgia rally, mocks Ossoff and rallies GOP ticket ahead of midterms",
-   "zh_hant": "特朗普喬治亞州集會演說逾90分鐘　嘲諷奧索夫並為共和黨候選人站台",
-   "zh_hans": "特朗普佐治亚州集会演说逾90分钟　嘲讽奥索夫并为共和党候选人站台"
-  },
-  "summary": {
-   "en": "President Donald Trump campaigned in Dalton, Georgia, on Friday, delivering a meandering speech of more than 90 minutes in support of Republican Senate candidate Mike Collins and gubernatorial nominee Rick Jackson. Trump repeatedly mocked Democratic Senator Jon Ossoff, calling him \"Pee-wee Herman,\" and restated his false claims about the 2020 election. He also defended the war in Iran and his border policies, while protesters decrying immigration enforcement briefly interrupted the rally.",
-   "zh_hant": "美國總統特朗普周五在喬治亞州道爾頓舉行競選集會，發表逾90分鐘演說，為共和黨參議員候選人科林斯及州長候選人傑克遜站台。特朗普多次嘲諷民主黨參議員奧索夫，稱呼對方為「Pee-wee Herman」，並重申有關2020年大選的不實說法。演說期間有反對移民執法政策的示威者打斷集會，特朗普亦為伊朗戰事及邊境政策辯護。",
-   "zh_hans": "美国总统特朗普周五在佐治亚州道尔顿举行竞选集会，发表逾90分钟演说，为共和党参议员候选人科林斯及州长候选人杰克逊站台。特朗普多次嘲讽民主党参议员奥索夫，称呼对方为「Pee-wee Herman」，并重申有关2020年大选的不实说法。演说期间有反对移民执法政策的示威者打断集会，特朗普亦为伊朗战事及边境政策辩护。"
-  },
-  "tags": {
-   "en": [
-    "Donald Trump",
-    "Georgia rally",
-    "US midterms",
-    "Jon Ossoff",
-    "Mike Collins"
-   ],
-   "zh_hant": [
-    "特朗普",
-    "喬治亞州集會",
-    "美國中期選舉",
-    "奧索夫",
-    "科林斯"
-   ],
-   "zh_hans": [
-    "特朗普",
-    "佐治亚州集会",
-    "美国中期选举",
-    "奥索夫",
-    "科林斯"
-   ]
-  }
- },
- {
-  "id": "20261017-brazil-amazon-deforestation-record-low",
-  "category": "world",
-  "published_at": "2026-10-17T02:04:00+08:00",
-  "source": {
-   "name": "Reuters (via 106.5 Jack FM)",
-   "url": "https://www.jack1065.com/2026/10/16/deforestation-in-brazils-amazon-falls-to-lowest-on-record-in-2025-26/"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Brazil says Amazon deforestation fell to lowest level since records began in 1988",
-   "zh_hant": "巴西指亞馬遜毀林降至1988年有紀錄以來最低",
-   "zh_hans": "巴西指亚马逊毁林降至1988年有纪录以来最低"
-  },
-  "summary": {
-   "en": "Brazil's government announced Friday that annual deforestation in the Amazon fell to its lowest level since records began in 1988. Official satellite data showed 3,335 square kilometers of rainforest were lost between August 2025 and July 2026, a drop of about 42% from the previous period. The government credited renewed enforcement and environmental policies under President Luiz Inacio Lula da Silva, saying deforestation has fallen 71% since 2023.",
-   "zh_hant": "巴西政府周五宣布，亞馬遜雨林的年度毀林面積降至自1988年有紀錄以來的最低水平。官方衛星數據顯示，2025年8月至2026年7月期間，雨林損失3,335平方公里，較上一周期下降約42%。政府將成果歸功於總統盧拉治下重啟的執法及環保政策，指自2023年以來毀林已減少71%。",
-   "zh_hans": "巴西政府周五宣布，亚马逊雨林的年度毁林面积降至自1988年有纪录以来的最低水平。官方卫星数据显示，2025年8月至2026年7月期间，雨林损失3,335平方公里，较上一周期下降约42%。政府将成果归功于总统卢拉治下重启的执法及环保政策，指自2023年以来毁林已减少71%。"
-  },
-  "tags": {
-   "en": [
-    "Brazil",
-    "Amazon",
-    "deforestation",
-    "environment",
-    "Lula"
-   ],
-   "zh_hant": [
-    "巴西",
-    "亞馬遜",
-    "毀林",
-    "環境",
-    "盧拉"
-   ],
-   "zh_hans": [
-    "巴西",
-    "亚马逊",
-    "毁林",
-    "环境",
-    "卢拉"
-   ]
-  }
- },
- {
-  "id": "20261017-oregon-school-shooting-aftermath",
-  "category": "society",
-  "published_at": "2026-10-17T05:00:00+08:00",
-  "source": {
-   "name": "AFP (via Le Pays De France)",
-   "url": "https://www.lepaysdefrance.fr/en/Boulevard/749072-great-hero-praised-for-saving-lives-in-oregon-school-shooting.html"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Bystander who stopped Oregon school shooter identified as father of two; Trump hails \"great hero\"",
-   "zh_hant": "俄勒岡校園槍擊案　制服槍手的見義勇為者身份曝光　特朗普讚「大英雄」",
-   "zh_hans": "俄勒冈校园枪击案　制服枪手的见义勇为者身份曝光　特朗普赞「大英雄」"
-  },
-  "summary": {
-   "en": "The armed bystander who shot dead the teenage gunman during Thursday's elementary school shooting in Bend, Oregon, has been identified by his family as 36-year-old Kaylub Giamanco, a father of two pupils at Silver Rail Elementary. Police say Giamanco, who holds a concealed-carry permit, followed the 16-year-old suspect into the school and confronted him after the teen killed three children aged five, eight and 11, and a teacher. President Donald Trump praised Giamanco as a \"great hero.\" A seven-year-old child and a teacher remain in critical condition.",
-   "zh_hant": "在俄勒岡州本德市小學槍擊案中開槍制服槍手的持槍市民，經家人確認為36歲的凱盧布·賈曼科，其兩名子女均就讀涉事的錫爾弗雷爾小學。警方指，持有隱蔽持槍證的賈曼科尾隨16歲槍手進入校園並將其擊斃，槍手此前已殺害三名分別5歲、8歲及11歲的學童和一名教師。總統特朗普讚揚賈曼科是「大英雄」。一名7歲學童及一名教師仍然危殆。",
-   "zh_hans": "在俄勒冈州本德市小学枪击案中开枪制服枪手的持枪市民，经家人确认为36岁的凯卢布·贾曼科，其两名子女均就读涉事的锡尔弗雷尔小学。警方指，持有隐蔽持枪证的贾曼科尾随16岁枪手进入校园并将其击毙，枪手此前已杀害三名分别5岁、8岁及11岁的学童和一名教师。总统特朗普赞扬贾曼科是「大英雄」。一名7岁学童及一名教师仍然危殆。"
-  },
-  "tags": {
-   "en": [
-    "Oregon",
-    "school shooting",
-    "gun violence",
-    "Bend",
-    "Donald Trump"
-   ],
-   "zh_hant": [
-    "俄勒岡",
-    "校園槍擊",
-    "槍械暴力",
-    "本德市",
-    "特朗普"
-   ],
-   "zh_hans": [
-    "俄勒冈",
-    "校园枪击",
-    "枪械暴力",
-    "本德市",
-    "特朗普"
-   ]
-  }
- },
- {
-  "id": "20261017-faa-drone-ban-border",
-  "category": "others",
-  "published_at": "2026-10-17T02:55:00+08:00",
-  "source": {
-   "name": "DroneXL",
-   "url": "https://www.dronexl.co/2026/10/16/faa-bans-drones-us-mexico-border-october-2027/"
-  },
-  "image_url": "",
-  "title": {
-   "en": "FAA bans all drones within one nautical mile of US-Mexico border for a year",
-   "zh_hant": "美聯邦航空局禁無人機在美墨邊境一海里範圍飛行一年",
-   "zh_hans": "美联邦航空局禁无人机在美墨边境一海里范围内飞行一年"
-  },
-  "summary": {
-   "en": "The Federal Aviation Administration has banned drones within one nautical mile of the entire US-Mexico border for one year, under three NOTAMs published Friday. The restriction covers altitudes from the ground to 400 feet and applies to all drones, including recreational models under 250 grams, with flights in the zone now requiring approval from US Customs and Border Protection. The temporary flight restriction takes effect on October 20, 2026 and runs through October 19, 2027.",
-   "zh_hant": "美國聯邦航空管理局周五發布三份飛航公告，禁止所有無人機在美墨邊境一海里範圍內飛行，為期一年。禁令涵蓋地面至400呎空域，適用於所有無人機，包括250克以下的娛樂用機型，日後須經美國海關及邊境保衛局批准方可進入該範圍飛行。臨時飛行限制將於2026年10月20日生效，至2027年10月19日屆滿。",
-   "zh_hans": "美国联邦航空管理局周五发布三份飞航公告，禁止所有无人机在美墨边境一海里范围内飞行，为期一年。禁令涵盖地面至400呎空域，适用于所有无人机，包括250克以下的娱乐用机型，日后须经美国海关及边境保卫局批准方可进入该范围飞行。临时飞行限制将于2026年10月20日生效，至2027年10月19日届满。"
-  },
-  "tags": {
-   "en": [
-    "FAA",
-    "drones",
-    "US-Mexico border",
-    "aviation",
-    "NOTAM"
-   ],
-   "zh_hant": [
-    "聯邦航空局",
-    "無人機",
-    "美墨邊境",
-    "航空",
-    "飛航公告"
-   ],
-   "zh_hans": [
-    "联邦航空局",
-    "无人机",
-    "美墨边境",
-    "航空",
-    "飞航公告"
-   ]
-  }
- },
- {
-  "id": "20261017-us-stocks-friday-ai-selloff",
-  "category": "finance",
-  "published_at": "2026-10-17T01:30:36+08:00",
-  "source": {
-   "name": "Reuters（經 Devdiscourse 轉載）",
-   "url": "https://www.devdiscourse.com/article/international/3993844-us-stocks-sp-500-nasdaq-set-for-steep-weekly-losses-as-ai-jitters-rattle-investors"
-  },
-  "image_url": "",
-  "title": {
-   "en": "S&P 500, Nasdaq head for steep weekly losses as AI trade unravels",
-   "zh_hant": "AI 概念股拋售潮：標普 500 與納指周線料錄得重挫",
-   "zh_hans": "AI 概念股抛售潮：标普 500 与纳指周线料录得重挫"
-  },
-  "summary": {
-   "en": "US stocks fell on Friday as cracks in the AI trade deepened, leaving the S&P 500 and Nasdaq on track for their steepest weekly losses since June. Chipmakers bore the brunt: the semiconductor index dropped 1.8%, heading for its worst eight-session run since April 2025, while Nvidia-backed CoreWeave plunged 10.3% on debt worries. Investors rotated into defensive sectors, lifting the Dow to its highest in over a month, as hotter inflation data reinforced expectations the Federal Reserve will keep rates on hold.",
-   "zh_hant": "美股周五受 AI 概念股拋售拖累下跌，標普 500 指數與納斯達克指數料錄得六月以來最大單周跌幅。晶片股首當其衝，半導體指數跌 1.8%，料創 2025 年四月以來最差的連續八個交易日表現；Nvidia 參投的 CoreWeave 因債務憂慮急挫 10.3%。資金轉向防守性板塊，帶動道指升至逾一個月高位；通脹數據勝預期，市場預料聯儲局將維持利率不變。",
-   "zh_hans": "美股周五受 AI 概念股抛售拖累下跌，标普 500 指数与纳斯达克指数料录得六月以来最大单周跌幅。芯片股首当其冲，半导体指数跌 1.8%，料创 2025 年四月以来最差的连续八个交易日表现；Nvidia 参投的 CoreWeave 因债务忧虑急挫 10.3%。资金转向防守性板块，带动道指升至逾一个月高位；通胀数据胜预期，市场预料联储局将维持利率不变。"
-  },
-  "tags": {
-   "en": [
-    "US stocks",
-    "AI trade",
-    "Federal Reserve"
-   ],
-   "zh_hant": [
-    "美股",
-    "AI 概念股",
-    "聯儲局"
-   ],
-   "zh_hans": [
-    "美股",
-    "AI 概念股",
-    "联储局"
-   ]
-  }
- },
- {
-  "id": "20261017-trump-zacharia-press-secretary-out",
-  "category": "world",
-  "published_at": "2026-10-17T02:08:00+08:00",
-  "source": {
-   "name": "NPR",
-   "url": "https://kansaspublicradio.org/npr-news/2026-10-16/katie-zacharia-is-transitioning-out-as-press-secretary-white-house-says"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Trump's press secretary Katie Zacharia out after five days",
-   "zh_hant": "特朗普新聞秘書凱蒂·扎卡里亞上任僅五天即離職",
-   "zh_hans": "特朗普新闻秘书凯蒂·扎卡里亚上任仅五天即离职"
-  },
-  "summary": {
-   "en": "Katie Zacharia is leaving her post as White House press secretary just five days after starting, a White House official told NPR on Friday. Her brief tenure was marred by a halting debut briefing on Tuesday and questions over her legal credentials after she acknowledged not passing the bar exam. Earlier in the day, President Trump told reporters he had advised Zacharia to 'reconsider' staying in the job. Zacharia, a former communications adviser to Trump Media, had replaced Karoline Leavitt, who stepped down in August.",
-   "zh_hant": "白宮官員周五向 NPR 證實，新聞秘書凱蒂·扎卡里亞上任僅五天便離職。她周二的首場記者會表現生硬，加上承認未通過律師資格考試，履歷備受質疑。特朗普同日較早時向記者表示，已建議扎卡里亞「重新考慮」是否留任。扎卡里亞曾任特朗普媒體集團傳訊顧問，接替八月辭職的卡羅琳·萊維特。",
-   "zh_hans": "白宫官员周五向 NPR 证实，新闻秘书凯蒂·扎卡里亚上任仅五天便离职。她周二的首场记者会表现生硬，加上承认未通过律师资格考试，履历备受质疑。特朗普同日较早时向记者表示，已建议扎卡里亚「重新考虑」是否留任。扎卡里亚曾任特朗普媒体集团传讯顾问，接替八月辞职的卡罗琳·莱维特。"
-  },
-  "tags": {
-   "en": [
-    "White House",
-    "Trump administration",
-    "press secretary"
-   ],
-   "zh_hant": [
-    "白宮",
-    "特朗普政府",
-    "新聞秘書"
-   ],
-   "zh_hans": [
-    "白宫",
-    "特朗普政府",
-    "新闻秘书"
-   ]
-  }
- },
- {
-  "id": "20261017-yuewen-ai-manhua-h1",
-  "category": "finance",
-  "published_at": "2026-10-17T14:35:00+08:00",
-  "source": {
-   "name": "閱文集團2026年中期業績公告",
-   "url": "https://www.prnewswire.com/apac/zh/news-releases/2026-302848209.html"
-  },
-  "image_url": "https://hkcn-news.vercel.app/assets/img/20261017-yuewen-ai-manhua.jpg",
-  "title": {
-   "en": "Yuewen Short Drama and AI Comic Drama Revenue Tops 430M Yuan in H1, Up 2.3x",
-   "zh_hant": "閱文短劇＋AI漫劇半年收入破4.3億元　按年勁增2.3倍",
-   "zh_hans": "阅文短剧＋AI漫剧半年收入破4.3亿元　按年劲增2.3倍"
-  },
-  "summary": {
-   "en": "China Literature reported its 2026 interim results, with short drama and AI comic drama revenue topping 430 million yuan, up 2.3 times year on year. More than 90 short dramas launched in the first half; AI comic drama \"San Qian Bi Hu\" passed 3 billion views, lifting its source novel into Qidian's top-10 bestsellers. The group launched the \"Qidian Theatre\" platform at home and \"ToonScroll\" overseas to visualise its IP library.",
-   "zh_hant": "閱文集團公布2026年中期業績，短劇與AI漫劇新賽道收入突破人民幣4.3億元，按年增長2.3倍。上半年共上線短劇超過90部，其中AI漫劇《三千庇護》全網播放量突破30億，更帶動原著小說打入起點平台暢銷榜前十。集團已在國內外分別推出「起點劇場」及「ToonScroll」漫劇平台，開拓IP視覺化新通道。",
-   "zh_hans": "阅文集团公布2026年中期业绩，短剧与AI漫剧新赛道收入突破人民币4.3亿元，按年增长2.3倍。上半年共上线短剧超过90部，其中AI漫剧《三千庇护》全网播放量突破30亿，更带动原著小说打入起点平台畅销榜前十。集团已在国内外分别推出「起点剧场」及「ToonScroll」漫剧平台，开拓IP视觉化新通道。"
-  },
-  "tags": [
-   "閱文集團",
-   "AI漫劇",
-   "短劇",
-   "中期業績"
-  ]
- },
- {
-  "id": "20261017-moonshot-hk-ipo-dispute",
-  "category": "finance",
-  "published_at": "2026-10-17T14:50:00+08:00",
-  "source": {
-   "name": "工商時報／路透社",
-   "url": "https://www.ctee.com.tw/news/20261012700934-430804"
-  },
-  "image_url": "https://hkcn-news.vercel.app/assets/img/20261017-moonshot-ipo.jpg",
-  "title": {
-   "en": "Kimi Maker Moonshot Said to File Confidentially for HK Listing at $50B Valuation Amid Equity Dispute",
-   "zh_hant": "Kimi母公司月之暗面傳秘密遞表赴港上市　估值500億美元　創辦人陷股權糾紛",
-   "zh_hans": "Kimi母公司月之暗面传秘密递表赴港上市　估值500亿美元　创办人陷股权纠纷"
-  },
-  "summary": {
-   "en": "Chinese AI unicorn Moonshot AI has confidentially filed for a Hong Kong listing, Reuters reported, in an IPO that could raise up to US$5 billion at a valuation of about US$50 billion, with a debut possible in Q1 2027. Meanwhile founders Yang Zhilin and Zhang Yutao face claims from their former venture Recurrent.ai and some investors over alleged misrepresentation and unauthorised transfer of AI resources; the dispute is in Hong Kong arbitration with settlement talks under way. Recurrent.ai seeks 10.5% of Moonshot's initial shares as compensation, worth over US$700 million at the June valuation. Yang denies wrongdoing, saying the spin-off had board consent.",
-   "zh_hant": "內地AI獨角獸月之暗面（Moonshot AI）據報已秘密向港交所遞交上市申請，市場估計最快2027年首季掛牌，集資額最高可達50億美元（約390億港元），估值約500億美元（約3,900億港元）。與此同時，路透社引述消息指，創辦人楊植麟及技術總監張宇韜被昔日共同創辦的循環智能及其部分投資者指控虛假陳述及未經授權轉移技術資源，相關爭議已進入香港仲裁程序，雙方正尋求和解。循環智能方面要求相當於月之暗面初始股份10.5%的賠償，按今年6月估值計算涉資超過7億美元（約55億港元）。楊植麟否認指控，強調成立新公司已獲循環智能董事會同意。",
-   "zh_hans": "内地AI独角兽月之暗面（Moonshot AI）据报已秘密向港交所递交上市申请，市场估计最快2027年首季挂牌，集资额最高可达50亿美元（约390亿港元），估值约500亿美元（约3,900亿港元）。与此同时，路透社引述消息指，创办人杨植麟及技术总监张宇韬被昔日共同创办的循环智能及其部分投资者指控虚假陈述及未经授权转移技术资源，相关争议已进入香港仲裁程序，双方正寻求和解。循环智能方面要求相当于月之暗面初始股份10.5%的赔偿，按今年6月估值计算涉资超过7亿美元（约55亿港元）。杨植麟否认指控，强调成立新公司已获循环智能董事会同意。"
-  },
-  "tags": [
-   "月之暗面",
-   "Kimi",
-   "港股IPO",
-   "楊植麟"
-  ]
- }
 ]
