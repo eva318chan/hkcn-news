@@ -342,5 +342,217 @@
         "演唱會"
       ]
     }
+  },
+  {
+    "id": "20261019-hko-yellow-fire-warning-hot-weather",
+    "category": "hk",
+    "published_at": "2026-10-19T07:31:00+08:00",
+    "source": {
+      "name": "e-zone",
+      "url": "https://ezone.hk/article/20047658/香港今日天氣預報-天文台未來九天香港天氣預報-香港各區氣溫一覽"
+    },
+    "image_url": "https://resource02.ulifestyle.com.hk/ulcms/content/article/thumbnail/1280x720/2024/11/20241108092737_0293c38136b66a315e8c7143d5fec8bdf05c6c82.jpg",
+    "title": {
+      "en": "HK Observatory: sunny and scorching 32°C today, Yellow fire danger warning in force",
+      "zh_hans": "天文台：今日天晴干燥炎热　市区最高32度　黄色火灾危险警告生效",
+      "zh_hant": "天文台：今日天晴乾燥炎熱　市區最高32度　黃色火災危險警告生效"
+    },
+    "summary": {
+      "en": "The Hong Kong Observatory forecasts a sunny, dry and hot Monday, with urban highs around 32°C and a couple of degrees higher in the New Territories, under light to moderate easterlies. The Yellow fire danger warning is currently in force, meaning fire risk is high. The coming days will stay mainly fine and dry, with Wednesday turning very hot up to 33°C; the path of Tropical Cyclone Qiangpi remains uncertain.",
+      "zh_hans": "天文台预测今日（星期一）天晴，日间干燥炎热，市区最高气温约32度，新界再高一两度，吹轻微至和缓偏东风。现时黄色火灾危险警告正生效，表示火灾危险性颇高。展望未来数日大致天晴干燥，星期三日间酷热，最高可达33度。热带气旋蔷琵路径仍存在变数，市民应留意天文台最新消息。",
+      "zh_hant": "天文台預測今日（星期一）天晴，日間乾燥炎熱，市區最高氣溫約32度，新界再高一兩度，吹輕微至和緩偏東風。現時黃色火災危險警告正生效，表示火災危險性頗高。展望未來數日大致天晴乾燥，星期三日間酷熱，最高可達33度。熱帶氣旋薔琵路徑仍然存在變數，市民應留意天文台最新消息。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong Observatory",
+        "weather",
+        "fire danger warning",
+        "hot weather",
+        "Typhoon Qiangpi"
+      ],
+      "zh_hans": [
+        "天文台",
+        "天气",
+        "火灾危险警告",
+        "炎热天气",
+        "台风蔷琵"
+      ],
+      "zh_hant": [
+        "天文台",
+        "天氣",
+        "火災危險警告",
+        "炎熱天氣",
+        "颱風薔琵"
+      ]
+    }
+  },
+  {
+    "id": "20261019-chp-pneumococcal-child-death",
+    "category": "hk",
+    "published_at": "2026-10-18T17:20:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202610/18/P2026101800336.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "CHP investigating death of 9-year-old boy from invasive pneumococcal disease",
+      "zh_hans": "卫生防护中心调查9岁男童侵入性肺炎球菌病死亡个案",
+      "zh_hant": "衞生防護中心調查9歲男童侵入性肺炎球菌病死亡個案"
+    },
+    "summary": {
+      "en": "The Centre for Health Protection is investigating the death of a previously healthy 9-year-old boy from invasive pneumococcal disease. He developed fever, runny nose and cough on October 10, was admitted via Tin Shui Wai Hospital A&E on October 14 and transferred to Tuen Mun Hospital's paediatric ICU, where he died on October 15. Lab tests confirmed pneumococcus; the clinical diagnosis was pneumonia complicated by empyema, septic shock and acute renal failure. The CHP urges parents to ensure children receive pneumococcal conjugate vaccines on schedule and to seek care early for fever and respiratory symptoms.",
+      "zh_hans": "卫生署卫生防护中心正调查一宗侵入性肺炎球菌病死亡个案。病人为一名9岁男童，过往健康良好，本月10日起出现发烧、流鼻水及咳嗽等病征，14日经天水围医院急症室转送屯门医院儿童深切治疗部，15日不治。化验证实对肺炎球菌呈阳性，临床诊断为肺炎并发脓胸、败血性休克及急性肾衰竭。中心呼吁家长确保子女按时接种肺炎球菌结合疫苗，幼童出现发烧及呼吸道病征应及早求医。",
+      "zh_hant": "衞生署衞生防護中心正調查一宗侵入性肺炎球菌病死亡個案。病人為一名9歲男童，過往健康良好，本月10日起出現發燒、流鼻水及咳嗽等病徵，14日經天水圍醫院急症室轉送屯門醫院兒童深切治療部，15日不治。化驗證實對肺炎球菌呈陽性，臨床診斷為肺炎併發膿胸、敗血性休克及急性腎衰竭。中心呼籲家長確保子女按時接種肺炎球菌結合疫苗，幼童出現發燒及呼吸道病徵應及早求醫。"
+    },
+    "tags": {
+      "en": [
+        "Centre for Health Protection",
+        "pneumococcal disease",
+        "vaccination",
+        "child health"
+      ],
+      "zh_hans": [
+        "卫生防护中心",
+        "肺炎球菌病",
+        "疫苗接种",
+        "儿童健康"
+      ],
+      "zh_hant": [
+        "衞生防護中心",
+        "肺炎球菌病",
+        "疫苗接種",
+        "兒童健康"
+      ]
+    }
+  },
+  {
+    "id": "20261019-customs-airport-drug-seizures",
+    "category": "hk",
+    "published_at": "2026-10-18T15:45:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202610/18/P2026101800379.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Customs busts two airport drug trafficking cases, seizes drugs worth about HK$6.8 million",
+      "zh_hans": "海关机场侦破两宗入境旅客贩毒案　检市值约680万港元毒品",
+      "zh_hant": "海關機場偵破兩宗入境旅客販毒案　檢市值約680萬港元毒品"
+    },
+    "summary": {
+      "en": "Hong Kong Customs cracked two inbound passenger drug trafficking cases at Hong Kong International Airport over October 17-18, seizing about 5.4kg of suspected cocaine, about 17kg of suspected cannabis buds and 15 suspected alprazolam pills, with an estimated total market value of about HK$6.8 million. In the first case, a 40-year-old mainland male passenger arriving from Sao Paulo via Istanbul was found with the suspected cocaine in his hand luggage. In the second, a 52-year-old mainland female passenger arriving from Bangkok was caught with suspected cannabis buds in checked luggage and the pills in her backpack. Both were arrested and investigations continue.",
+      "zh_hans": "香港海关一连两日（17日及18日）在香港国际机场侦破两宗入境旅客贩毒案件，共检获约5.4公斤怀疑可卡因、约17公斤怀疑大麻花及15粒怀疑阿普唑仑，估计市值共约680万港元。首宗案件中，一名40岁内地男旅客从巴西圣保罗经伊斯坦堡飞抵本港，海关在其手提行李内搜出怀疑可卡因；第二宗案件中，一名52岁内地女旅客从曼谷抵港，在其寄仓行李及随身背包内搜出怀疑大麻花及药丸。两人均已被捕，案件仍在调查中。",
+      "zh_hant": "香港海關一連兩日（17日及18日）在香港國際機場偵破兩宗入境旅客販毒案件，共檢獲約5.4公斤懷疑可卡因、約17公斤懷疑大麻花及15粒懷疑阿普唑侖，估計市值共約680萬港元。首宗案件中，一名40歲內地男旅客從巴西聖保羅經伊斯坦堡飛抵本港，海關在其手提行李內搜出懷疑可卡因；第二宗案件中，一名52歲內地女旅客從曼谷抵港，在其寄倉行李及隨身背包內搜出懷疑大麻花及藥丸。兩人均已被捕，案件仍在調查中。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong Customs",
+        "drug trafficking",
+        "airport",
+        "cocaine",
+        "cannabis"
+      ],
+      "zh_hans": [
+        "香港海关",
+        "贩毒",
+        "机场",
+        "可卡因",
+        "大麻"
+      ],
+      "zh_hant": [
+        "香港海關",
+        "販毒",
+        "機場",
+        "可卡因",
+        "大麻"
+      ]
+    }
+  },
+  {
+    "id": "20261019-france-protests-riots",
+    "category": "world",
+    "published_at": "2026-10-18T21:39:22+08:00",
+    "source": {
+      "name": "工商時報",
+      "url": "https://www.ctee.com.tw/news/20261018700713-430701"
+    },
+    "image_url": "",
+    "title": {
+      "en": "French nationwide protests turn violent: over 1,200 arrested, 143-year-old city hall torched",
+      "zh_hans": "法国全国示威演变成骚乱　逾1200人被捕　百年市政厅遭焚",
+      "zh_hant": "法國全國示威演變成騷亂　逾1200人被捕　百年市政廳遭焚"
+    },
+    "summary": {
+      "en": "Massive nationwide protests erupted across France on October 17 over soaring living costs and declining public services. The Interior Ministry put turnout at about 550,000, while unions claimed up to 800,000. Violence broke out in Paris, Marseille, Lyon and Limoges, where radicals set fires, vandalised public facilities and looted shops; more than 1,200 people were arrested and over 150 police officers injured. In Limoges, a 143-year-old city hall dating to 1883 was broken into and torched, suffering severe damage. President Emmanuel Macron condemned the violence and vowed to prosecute the attackers.",
+      "zh_hans": "法国17日爆发全国性大规模示威，抗议生活成本飙涨及公共服务质素下降。内政部统计全国约55万人参与，工会则估计达80万人。巴黎、马赛、里昂及利摩日等多地出现暴力冲突，部分激进分子纵火、破坏公共设施及洗劫商店，逾1200人被捕，超过150名警察受伤。利摩日一座建于1883年、有143年历史的市政厅遭人闯入纵火，严重受损。总统马克宏谴责暴力行为，誓言惩处施袭者。",
+      "zh_hant": "法國17日爆發全國性大規模示威，抗議生活成本飆漲及公共服務質素下降。內政部統計全國約55萬人參與，工會則估計達80萬人。巴黎、馬賽、里昂及利摩日等多地出現暴力衝突，部分激進分子縱火、破壞公共設施及洗劫商店，逾1200人被捕，超過150名警察受傷。利摩日一座建於1883年、有143年歷史的市政廳遭人闖入縱火，嚴重受損。總統馬克宏譴責暴力行為，誓言懲處施襲者。"
+    },
+    "tags": {
+      "en": [
+        "France",
+        "protests",
+        "riots",
+        "Macron",
+        "cost of living"
+      ],
+      "zh_hans": [
+        "法国",
+        "示威",
+        "骚乱",
+        "马克宏",
+        "生活成本"
+      ],
+      "zh_hant": [
+        "法國",
+        "示威",
+        "騷亂",
+        "馬克宏",
+        "生活成本"
+      ]
+    }
+  },
+  {
+    "id": "20261019-hk-market-closed-china-q3-gdp",
+    "category": "finance",
+    "published_at": "2026-10-17T09:27:49+08:00",
+    "source": {
+      "name": "Chris Wealth Lab",
+      "url": "https://chriswealthlab.com/weekly-market-review-2026-10-17/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "HK stock market closed for public holiday as China set to release Q3 economic data at 10am",
+      "zh_hans": "港股今日休市　国家统计局今早10时公布第三季经济数据",
+      "zh_hant": "港股今日休市　國家統計局今早10時公布第三季經濟數據"
+    },
+    "summary": {
+      "en": "Hong Kong's spot securities market is closed today (October 19), the day after the Chung Yeung Festival public holiday, and will reopen tomorrow. Market focus shifts to the mainland: the National Bureau of Statistics will release third-quarter and September national economic data at 10am today, covering GDP and monthly indicators. Last week the Hang Seng Index was almost flat, edging down 0.10% to 24,186.83 points, while the Philadelphia Semiconductor Index tumbled 11.41% and Korea's KOSPI plunged 14.46%.",
+      "zh_hans": "今日（10月19日）为重阳节翌日公众假期，香港现货证券市场休市一日，明日（20日）重开。市场焦点转向内地：国家统计局将于今早10时公布第三季及9月份国民经济运行情况，涵盖GDP及月度指标。上周恒指近乎持平，微跌0.10%，收报24186.83点；费城半导体指数一周急跌11.41%，韩国KOSPI更大跌14.46%。",
+      "zh_hant": "今日（10月19日）為重陽節翌日公眾假期，香港現貨證券市場休市一日，明日（20日）重開。市場焦點轉向內地：國家統計局將於今早10時公布第三季及9月份國民經濟運行情況，涵蓋GDP及月度指標。上週恒指近乎持平，微跌0.10%，收報24186.83點；費城半導體指數一週急跌11.41%，韓國KOSPI更大跌14.46%。"
+    },
+    "tags": {
+      "en": [
+        "Hang Seng",
+        "market holiday",
+        "China Q3 GDP",
+        "National Bureau of Statistics",
+        "global markets"
+      ],
+      "zh_hans": [
+        "恒指",
+        "休市",
+        "中国三季度GDP",
+        "国家统计局",
+        "环球市场"
+      ],
+      "zh_hant": [
+        "恒指",
+        "休市",
+        "中國三季度GDP",
+        "國家統計局",
+        "環球市場"
+      ]
+    }
   }
 ]
