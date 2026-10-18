@@ -1368,5 +1368,429 @@
         "美国经济"
       ]
     }
+  },
+  {
+    "id": "20261018-ng-hong-mun-passing",
+    "category": "hk",
+    "published_at": "2026-10-18T17:51:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "http://www.news.gov.hk/chi/2026/10/20261018/20261018_175139_183.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "John Lee mourns passing of former NPC deputy Ng Hong-mun",
+      "zh_hans": "吴康民辞世 李家超致哀",
+      "zh_hant": "吳康民辭世 李家超致哀"
+    },
+    "summary": {
+      "en": "Former Hong Kong deputy to the National People's Congress Ng Hong-mun has passed away, and Chief Executive John Lee today expressed his sorrow and extended his deepest condolences to his family. Lee said Ng served as an NPC deputy for over 30 years from the 1970s and held key roles including member of the Preparatory Committee of the HKSAR and Hong Kong Affairs Adviser, making important contributions to Hong Kong's smooth return to the motherland and its long-term stability and prosperity. Ng was also a veteran educator who served as Principal and Supervisor of Pui Kiu Middle School, and was awarded the Grand Bauhinia Medal in 1998.",
+      "zh_hans": "前港区全国人大代表吴康民辞世，行政长官李家超今日表示哀悼，并向其家人致以深切慰问。李家超形容，吴康民自上世纪70年代起担任全国人大代表超过30年，曾任香港特区筹委会委员及港事顾问，为香港顺利回归及长期繁荣稳定作出重要贡献。吴康民多年来担任培侨中学校长及校监，致力爱国教育事业，于1998年获颁大紫荆勋章。",
+      "zh_hant": "前港區全國人大代表吳康民辭世，行政長官李家超今日表示哀悼，並向其家人致以深切慰問。李家超形容，吳康民自上世紀70年代起擔任全國人大代表超過30年，曾任香港特區籌委會委員及港事顧問，為香港順利回歸及長期繁榮穩定作出重要貢獻。吳康民多年來擔任培僑中學校長及校監，致力愛國教育事業，於1998年獲頒大紫荊勳章。"
+    },
+    "tags": {
+      "en": [
+        "Ng Hong-mun",
+        "John Lee",
+        "NPC",
+        "Pui Kiu Middle School",
+        "Grand Bauhinia Medal"
+      ],
+      "zh_hans": [
+        "吴康民",
+        "李家超",
+        "全国人大",
+        "培侨中学",
+        "大紫荆勋章"
+      ],
+      "zh_hant": [
+        "吳康民",
+        "李家超",
+        "全國人大",
+        "培僑中學",
+        "大紫荊勳章"
+      ]
+    }
+  },
+  {
+    "id": "20261018-huanggang-port-outbound-peak",
+    "category": "hk",
+    "published_at": "2026-10-18T17:31:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "http://www.news.gov.hk/eng/2026/10/20261018/20261018_173129_174.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Huanggang Port sees 19,000 outbound passengers in two hours, up over 800%",
+      "zh_hans": "皇岗口岸今午出境逾1.9万人次 较旧口岸同期升逾8倍",
+      "zh_hant": "皇崗口岸今午出境逾1.9萬人次 較舊口岸同期升逾8倍"
+    },
+    "summary": {
+      "en": "The Security Bureau said outbound passenger flow at Huanggang Port surged from around 11am today, prompting the Immigration Department to open all clearance channels and counters at the L5 departure hall. Around 19,000 passengers departed for the Mainland via Huanggang Port between noon and 2pm, up 835% compared with the same period previously at Huanggang Port/Lok Ma Chau Control Point. The busiest hour between 1pm and 2pm alone recorded 9,728 outbound trips, a rise of 899%. Crowd diversion measures on L2 were lifted by 2.10pm, and the authorities advised the public to plan journeys in advance and consider using other boundary control points.",
+      "zh_hans": "保安局表示，皇岗口岸今日上午11时起出境人流急增，入境处随即开放离境大堂5楼全部通道及柜台疏导。中午12时至下午2时，约1.9万人次经皇岗口岸离境前往内地，较皇岗口岸及落马洲管制站旧年同期大增835%。其中下午1时至2时的繁忙一小时内，更录得9,728人次出境，升幅达899%。下午2时10分已解除2楼人潮管制措施，当局呼吁市民提早规划行程，考虑使用其他管制站离境。",
+      "zh_hant": "保安局表示，皇崗口岸今日上午11時起出境人流急增，入境處隨即開放離境大堂5樓全部通道及櫃枱疏導。中午12時至下午2時，約1.9萬人次經皇崗口岸離境前往內地，較皇崗口岸及落馬洲管制站舊年同期大增835%。其中下午1時至2時的繁忙一小時內，更錄得9,728人次出境，升幅達899%。下午2時10分已解除2樓人潮管制措施，當局呼籲市民提早規劃行程，考慮使用其他管制站離境。"
+    },
+    "tags": {
+      "en": [
+        "Huanggang Port",
+        "Security Bureau",
+        "Immigration Department",
+        "cross-border travel",
+        "Chung Yeung Festival"
+      ],
+      "zh_hans": [
+        "皇岗口岸",
+        "保安局",
+        "入境处",
+        "跨境出行",
+        "重阳节"
+      ],
+      "zh_hant": [
+        "皇崗口岸",
+        "保安局",
+        "入境處",
+        "跨境出行",
+        "重陽節"
+      ]
+    }
+  },
+  {
+    "id": "20261018-anita-mui-ashes-suspect",
+    "category": "entertainment",
+    "published_at": "2026-10-18T16:00:00+08:00",
+    "source": {
+      "name": "田木集作",
+      "url": "https://touchwoodtv.hk/%e6%a2%85%e8%89%b7%e8%8a%b3%e9%aa%a8%e7%81%b0%e8%a2%ab%e7%9b%9c%e8%ad%a6%e6%96%b9%e9%8e%96%e5%ae%9a%e5%af%ba%e5%bb%9f%e6%b8%85%e6%bd%94%e5%b7%a5%e7%82%ba%e7%96%91%e4%ba%ba/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Anita Mui ashes theft case may see breakthrough as Man Tsu-en claims suspect identified",
+      "zh_hans": "梅艳芳骨灰被盗案疑有突破 文隽引述消息指锁定寺庙清洁工“阿强”",
+      "zh_hant": "梅艷芳骨灰被盜案疑有突破 文雋引述消息指鎖定寺廟清潔工「阿強」"
+    },
+    "summary": {
+      "en": "Veteran filmmaker Man Tsu-en revealed on his online channel today that the theft of the late diva Anita Mui's ashes may have seen a breakthrough. Citing a message from Eva, chairwoman of the fan club \"Fong Sum Wui\", he said police enhanced blurry surveillance footage and, with the help of a tour coach's dashcam, spotted a man surnamed \"Ah Keung\" in a temple cleaner's uniform behaving suspiciously, and found that he had already left Hong Kong for Southeast Asia shortly after the incident. Police have not yet formally confirmed the development. Man Tsu-en speculated that the sudden death of Mui's mother Tam Mei-kam on August 30 this year may have disrupted the thief's plan to demand ransom.",
+      "zh_hans": "资深电影人文隽今日在其网上频道透露，已故天后梅艳芳骨灰被盗案疑出现新突破。据歌迷会“芳心荟”会长Eva提供的消息，警方透过影像修复技术，结合旅游巴行车记录仪片段，发现一名身穿寺庙清洁工制服、被称为“阿强”的男子形迹可疑，并发现他在案发后不久已离港前往东南亚。不过警方至今未正式公布案件进展，相关消息仍有待官方证实。文隽推测，梅艳芳母亲覃美金今年8月底离世，可能打乱了盗窃者勒索赎金的计划。",
+      "zh_hant": "資深電影人文雋今日在其網上頻道透露，已故天后梅艷芳的骨灰被盜案疑出現新突破。據歌迷會「芳心薈」會長Eva提供的消息，警方透過影像修復技術，結合旅遊巴行車記錄儀片段，發現一名身穿寺廟清潔工制服、被稱為「阿強」的男子形跡可疑，並發現他在案發後不久已離港前往東南亞。不過警方至今未正式公布案件進展，相關消息仍有待官方證實。文雋推測，梅艷芳母親覃美金今年8月底離世，可能打亂了盜竊者勒索贖金的計劃。"
+    },
+    "tags": {
+      "en": [
+        "Anita Mui",
+        "ashes theft",
+        "Man Tsu-en",
+        "Po Lin Monastery",
+        "fan club"
+      ],
+      "zh_hans": [
+        "梅艳芳",
+        "骨灰被盗",
+        "文隽",
+        "宝莲寺",
+        "歌迷会"
+      ],
+      "zh_hant": [
+        "梅艷芳",
+        "骨灰被盜",
+        "文雋",
+        "寶蓮寺",
+        "歌迷會"
+      ]
+    }
+  },
+  {
+    "id": "20261018-fehd-halloween-dog-dining",
+    "category": "society",
+    "published_at": "2026-10-18T12:00:00+08:00",
+    "source": {
+      "name": "食物環境衞生署",
+      "url": "https://www.fehd.gov.hk/tc_chi/news/details/20261018_12677.html"
+    },
+    "image_url": "https://www.fehd.gov.hk/english/press/images/P20261018_1.jpg",
+    "title": {
+      "en": "FEHD reminds public to follow rules when dining out with dogs during Halloween",
+      "zh_hans": "食环署提醒万圣节携狗外出用膳须守法依规",
+      "zh_hant": "食環署提醒萬聖節攜狗外出用膳須守法依規"
+    },
+    "summary": {
+      "en": "With Halloween approaching, the Food and Environmental Hygiene Department today reminded members of the public who plan to dine out with their dogs to first confirm whether the restaurant is licensed to allow dogs, and to comply with the relevant laws. More than 990 restaurants are currently permitted to admit dogs, and their operators must ensure the premises meet licence conditions and legal requirements. Since the measure took effect on July 9, the FEHD has mounted 20 prosecutions against non-permitted restaurants and seven against dog owners who took dogs into non-permitted premises, along with four prosecutions over dogs not being kept on leash properly at permitted restaurants.",
+      "zh_hans": "万圣节将至，食环署今日提醒市民，如计划携狗外出用膳，应预先确认该食肆是否获准容许狗只进入，并遵守相关法例。现时全港有超过990间食肆持有容许狗只进入的准许，相关食肆负责人须确保处所符合牌照条件及法例要求。署方透露，容许狗只进入获准食肆的措施自今年7月9日实施以来，已就违规食肆提出20宗检控，并就违规携狗进入非获准食肆的人士提出7宗检控，另有4宗涉及获准食肆内未妥善牵引狗带。",
+      "zh_hant": "萬聖節將至，食環署今日提醒市民，如計劃攜狗外出用膳，應預先確認該食肆是否獲准容許狗隻進入，並遵守相關法例。現時全港有超過990間食肆持有容許狗隻進入的准許，相關食肆負責人須確保處所符合牌照條件及法例要求。署方透露，容許狗隻進入獲准食肆的措施自今年7月9日實施以來，已就違規食肆提出20宗檢控，並就違規攜狗進入非獲准食肆的人士提出7宗檢控，另有4宗涉及獲准食肆內未妥善牽引狗帶。"
+    },
+    "tags": {
+      "en": [
+        "FEHD",
+        "Halloween",
+        "dog-friendly restaurants",
+        "pet dining",
+        "food safety"
+      ],
+      "zh_hans": [
+        "食环署",
+        "万圣节",
+        "携狗用膳",
+        "宠物友善食肆",
+        "食肆牌照"
+      ],
+      "zh_hant": [
+        "食環署",
+        "萬聖節",
+        "攜狗用膳",
+        "寵物友善食肆",
+        "食肆牌照"
+      ]
+    }
+  },
+  {
+    "id": "20261018-patrick-dunn-freemason",
+    "category": "entertainment",
+    "published_at": "2026-10-18T13:17:48+08:00",
+    "source": {
+      "name": "大娛樂家 - FanPiece",
+      "url": "https://ent.fanpiece.com/ent-short-news/%E9%84%A7%E6%A2%93%E5%B3%B0%E6%89%BF%E8%AA%8D%E5%8A%A0%E5%85%A5%E5%85%B1%E6%BF%9F%E6%9C%83-%E8%A6%AA%E8%A7%A3-%E7%A5%9E%E7%A7%98%E7%B5%84%E7%B9%94-%E5%85%A5%E6%9C%83%E6%A2%9D%E4%BB%B6-c1510969.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Patrick Dunn admits joining Freemasons and reveals two entry requirements",
+      "zh_hans": "邓梓峰亲认加入共济会 揭入会两大条件",
+      "zh_hant": "鄧梓峰親認加入共濟會 揭入會兩大條件"
+    },
+    "summary": {
+      "en": "Hong Kong artiste Patrick Dunn, 64, has openly admitted that he has joined the Knights Templar of the Freemasons. The news broke after writer Wan Hoi ran into Dunn, dressed in a white robe and a red cross cap, at a Knights Templar thanksgiving service at St John's Cathedral in Central yesterday, and shared their photo on social media. Wan Hoi later deleted the photo, saying he had received a request from senior Freemasons conveyed through a friend. When approached by the media, Dunn calmly confirmed his membership, describing himself as still a junior member, and revealed that the two basic entry requirements are genuine enthusiasm for the organisation and basic English communication skills.",
+      "zh_hans": "64岁艺人邓梓峰大方承认自己已加入共济会圣殿骑士团。事缘作家云海昨日在中环圣约翰座堂出席共济会圣殿骑士团感恩弥撒时，巧遇身穿白袍、头戴红十字礼帽的邓梓峰，并将合照上载社交平台；其后云海称收到共济会高层经朋友转达不满，随即删除照片。邓梓峰接受传媒查询时坦然承认身份，形容自己“仍然系好Junior”，并透露入会关键在于个人是否有热诚，以及具备基本英语沟通能力。",
+      "zh_hant": "64歲藝人鄧梓峰大方承認自己已加入共濟會聖殿騎士團。事緣作家雲海昨日在中環聖約翰座堂出席共濟會聖殿騎士團感恩彌撒時，巧遇身穿白袍、頭戴紅十字禮帽的鄧梓峰，並將合照上載社交平台；其後雲海稱收到共濟會高層經朋友轉達不滿，隨即刪除照片。鄧梓峰接受傳媒查詢時坦然承認身份，形容自己「仍然係好Junior」，並透露入會關鍵在於個人是否有熱誠，以及具備基本英語溝通能力。"
+    },
+    "tags": {
+      "en": [
+        "Patrick Dunn",
+        "Freemasons",
+        "Knights Templar",
+        "Wan Hoi",
+        "St John's Cathedral"
+      ],
+      "zh_hans": [
+        "邓梓峰",
+        "共济会",
+        "圣殿骑士团",
+        "云海",
+        "圣约翰座堂"
+      ],
+      "zh_hant": [
+        "鄧梓峰",
+        "共濟會",
+        "聖殿騎士團",
+        "雲海",
+        "聖約翰座堂"
+      ]
+    }
+  },
+  {
+    "id": "20261018-microsoft-nscale-uk-datacenter-exit",
+    "category": "tech",
+    "published_at": "2026-10-18T18:55:22+08:00",
+    "source": {
+      "name": "Reuters via LSE",
+      "url": "https://www.lse.co.uk/news/microsoft-pulls-out-of-uk-data-center-deal-with-nscale-telegraph-reports-4xc8263s209vvsi.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Microsoft pulls out of UK data centre deal with Nscale, Telegraph reports",
+      "zh_hans": "微软退出与 Nscale 的英国数据中心合作协议",
+      "zh_hant": "微軟退出與 Nscale 的英國數據中心合作協議"
+    },
+    "summary": {
+      "en": "Microsoft has terminated its agreement with British cloud provider Nscale for a data centre in Loughton, Essex, Britain's Telegraph newspaper reported on Sunday. Microsoft is one of Nscale's two largest customers, and the loss comes as the Nvidia-backed firm prepares a US listing. The report said the project had suffered repeated delays, with the national grid not expected to supply power to the site until the 2030s.",
+      "zh_hans": "《电讯报》报道，微软已终止与英国云端服务商 Nscale 就埃塞克斯劳顿数据中心的合作协议。微软是 Nscale 两大客户之一，这间获英伟达支持的公司上月刚申请在美国上市。报道指项目多次延期，电网方面告知要到 2030 年代才能接通供电。",
+      "zh_hant": "《電訊報》報道，微軟已終止與英國雲端服務商 Nscale 就埃塞克斯勞頓數據中心的合作協議。微軟是 Nscale 兩大客戶之一，這間獲英偉達支持的公司上月剛申請在美國上市。報道指項目多次延期，電網方面告知要到 2030 年代才能接通供電。"
+    },
+    "tags": {
+      "en": [
+        "Microsoft",
+        "Nscale",
+        "data centre",
+        "AI infrastructure",
+        "IPO"
+      ],
+      "zh_hans": [
+        "微软",
+        "Nscale",
+        "数据中心",
+        "AI 基建",
+        "IPO"
+      ],
+      "zh_hant": [
+        "微軟",
+        "Nscale",
+        "數據中心",
+        "AI 基建",
+        "IPO"
+      ]
+    }
+  },
+  {
+    "id": "20261018-deepseek-api-search-fetch-pricing",
+    "category": "tech",
+    "published_at": "2026-10-18T21:04:33+08:00",
+    "source": {
+      "name": "财联社 via 21经济网",
+      "url": "https://www.21jingji.com/article/20261018/herald/019ade3a3bf07d18065b907a3340bf67.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "DeepSeek announces pricing for API web search and fetch: 5 yuan per 1,000 successful calls",
+      "zh_hans": "DeepSeek 公布 API 网页搜索与抓取收费　每千次成功请求 5 元",
+      "zh_hant": "DeepSeek 公布 API 網頁搜索與抓取收費　每千次成功請求 5 元"
+    },
+    "summary": {
+      "en": "DeepSeek announced that its API now supports web search and page fetch, billed per request at 5 yuan per 1,000 successful calls. Calls made through server-side tools in DeepSeek Harness, Claude Code and Codex are currently free and will start being billed from 00:00 on 1 November 2026. The two endpoints use DeepSeek's own search engine to provide real-time web content for agents and retrieval applications.",
+      "zh_hans": "DeepSeek 发布公告，指其 API 现已支持网页搜索与抓取，按请求次数收费，单价为每 1000 次成功请求 5 元。目前用户在 DeepSeek Harness、Claude Code、Codex 通过 Server 端工具调用的 Search／Fetch 接口暂未计费，将于 2026 年 11 月 1 日零时起收费。两项接口均采用 DeepSeek 自研搜索引擎，为 Agent 与检索应用提供实时网页内容。",
+      "zh_hant": "DeepSeek 發布公告，指其 API 現已支持網頁搜索與抓取，按請求次數收費，單價為每 1000 次成功請求 5 元。目前用戶在 DeepSeek Harness、Claude Code、Codex 透過 Server 端工具調用的 Search／Fetch 接口暫未計費，將於 2026 年 11 月 1 日零時起收費。兩項接口均採用 DeepSeek 自研搜索引擎，為 Agent 與檢索應用提供實時網頁內容。"
+    },
+    "tags": {
+      "en": [
+        "DeepSeek",
+        "API",
+        "web search",
+        "AI pricing"
+      ],
+      "zh_hans": [
+        "DeepSeek",
+        "API",
+        "网页搜索",
+        "AI 收费"
+      ],
+      "zh_hant": [
+        "DeepSeek",
+        "API",
+        "網頁搜索",
+        "AI 收費"
+      ]
+    }
+  },
+  {
+    "id": "20261018-okxice-tokenized-stocks-objection",
+    "category": "finance",
+    "published_at": "2026-10-18T18:04:43+08:00",
+    "source": {
+      "name": "Newisty",
+      "url": "https://newisty.com/blog/major-tech-and-telecom-firms-object-to-tokenized-stock-trading-on-okxice"
+    },
+    "image_url": "https://newisty.com/uploads/images/blog/thumbnail/major-tech-and-telecom-firms-object-to-t-e70bb915.webp",
+    "title": {
+      "en": "Nine firms including Broadcom and Verizon block tokenized trading of their shares on OKXICE",
+      "zh_hans": "Broadcom、Verizon 等 9 间公司反对 OKXICE 代币化交易其股票",
+      "zh_hant": "Broadcom、Verizon 等 9 間公司反對 OKXICE 代幣化交易其股票"
+    },
+    "summary": {
+      "en": "Nine US-listed companies, including Broadcom, Verizon, CoreWeave and UnitedHealth Group, have filed formal objections to stop tokenized versions of their shares trading on OKXICE, a joint venture between OKX and Intercontinental Exchange. Nasdaq also said it would opt out of having its own shares tokenized on the venue. Under the SEC's five-year innovation exemption, a timely objection legally blocks the venue from offering the company's stock. Despite the objections, the market cap of tokenized stocks has grown from about $680 million at the start of the year to roughly $3.5 billion by mid-October.",
+      "zh_hans": "9 间美国上市公司，包括 Broadcom、Verizon、CoreWeave 及 UnitedHealth Group，已正式反对 OKXICE 将其股票代币化交易。OKXICE 是 OKX 与洲际交易所合资的交易平台；纳斯达克亦表明不会让自家股票在该平台被代币化。根据美国证监会的五年创新豁免机制，公司及时提出反对便可依法阻止平台上架其股票。尽管有反对声音，代币化股票总市值已由年初约 6.8 亿美元升至 10 月中旬约 35 亿美元。",
+      "zh_hant": "9 間美國上市公司，包括 Broadcom、Verizon、CoreWeave 及 UnitedHealth Group，已正式反對 OKXICE 將其股票代幣化交易。OKXICE 是 OKX 與洲際交易所合資的交易平台；納斯達克亦表明不會讓自家股票在該平台被代幣化。根據美國證監會的五年創新豁免機制，公司及時提出反對便可依法阻止平台上架其股票。儘管有反對聲音，代幣化股票總市值已由年初約 6.8 億美元升至 10 月中旬約 35 億美元。"
+    },
+    "tags": {
+      "en": [
+        "tokenized stocks",
+        "OKXICE",
+        "SEC",
+        "Broadcom",
+        "Verizon"
+      ],
+      "zh_hans": [
+        "代币化股票",
+        "OKXICE",
+        "美国证监会",
+        "Broadcom",
+        "Verizon"
+      ],
+      "zh_hant": [
+        "代幣化股票",
+        "OKXICE",
+        "美國證監會",
+        "Broadcom",
+        "Verizon"
+      ]
+    }
+  },
+  {
+    "id": "20261018-juewei-sitong-cap-removal",
+    "category": "finance",
+    "published_at": "2026-10-18T19:00:00+08:00",
+    "source": {
+      "name": "新浪财经",
+      "url": "http://finance.sina.com.cn/jjxw/2026-10-18/doc-inivrvpk1019850.shtml"
+    },
+    "image_url": "https://n.sinaimg.cn/finance/crawl/103/w550h353/20261018/61af-71c0c592a9e72f18e3d115bff49c8f64.png",
+    "title": {
+      "en": "ST Juewei and *ST Sitong to remove risk warning caps on 20 October",
+      "zh_hans": "ST 绝味、*ST 四通 10 月 20 日摘帽　明停牌一日",
+      "zh_hant": "ST 絕味、*ST 四通 10 月 20 日摘帽　明停牌一日"
+    },
+    "summary": {
+      "en": "Two A-share companies will have their risk warnings removed on 20 October. ST Juewei (603517) said its shares will be suspended for one day on 19 October and resume trading the next day without the 'other risk warning', changing its name back to Juewei Food. The company had been capped for over a year after failing to record franchise store renovation revenue from 2017 to 2021. Separately, *ST Sitong (603838) will also suspend trading on 19 October and resume on 20 October with its delisting risk warning removed, after the Shanghai Stock Exchange approved its application on 16 October.",
+      "zh_hans": "两间 A 股公司将于 10 月 20 日摘帽。ST 绝味（603517）公告，公司股票将于 10 月 19 日停牌一日，10 月 20 日起复牌并撤销其他风险警示，证券简称变更为绝味食品。公司曾因 2017 至 2021 年未确认加盟门店装修业务收入而被处罚，戴帽已超过一年。*ST 四通（603838）亦将于 10 月 19 日停牌，10 月 20 日复牌并撤销退市风险警示，上交所已于 10 月 16 日批准申请。",
+      "zh_hant": "兩間 A 股公司將於 10 月 20 日摘帽。ST 絕味（603517）公告，公司股票將於 10 月 19 日停牌一日，10 月 20 日起復牌並撤銷其他風險警示，證券簡稱變更為絕味食品。公司曾因 2017 至 2021 年未確認加盟門店裝修業務收入而被處罰，戴帽已超過一年。*ST 四通（603838）亦將於 10 月 19 日停牌，10 月 20 日復牌並撤銷退市風險警示，上交所已於 10 月 16 日批准申請。"
+    },
+    "tags": {
+      "en": [
+        "A-share",
+        "ST Juewei",
+        "risk warning",
+        "delisting cap"
+      ],
+      "zh_hans": [
+        "A 股",
+        "ST 绝味",
+        "风险警示",
+        "摘帽"
+      ],
+      "zh_hant": [
+        "A 股",
+        "ST 絕味",
+        "風險警示",
+        "摘帽"
+      ]
+    }
+  },
+  {
+    "id": "20261018-us-ai-stocks-selloff-coreweave",
+    "category": "finance",
+    "published_at": "2026-10-18T19:00:00+08:00",
+    "source": {
+      "name": "新浪财经（每日经济新闻）",
+      "url": "http://finance.sina.com.cn/roll/2026-10-18/doc-inivrvpp6576348.shtml"
+    },
+    "image_url": "https://n.sinaimg.cn/spider20261018/725/w1074h451/20261018/3a3b-4fec6b35b4775a0c6164b2d95f9f3f95.jpg",
+    "title": {
+      "en": "US AI stocks slump: CoreWeave down over 25% in a week as inflation fears weigh on tech",
+      "zh_hans": "美股 AI 股重挫　CoreWeave 一周大跌逾 25%",
+      "zh_hant": "美股 AI 股重挫　CoreWeave 一週大跌逾 25%"
+    },
+    "summary": {
+      "en": "US technology shares fell sharply on Friday, with the Nasdaq dropping 2.14%. A US diesel shortage pushed WTI crude futures above $99 a barrel, lifting inflation expectations and pressuring tech valuations. Cloud computing firm CoreWeave fell nearly 12% on Friday and more than 25% over the week. Separately, consultancy Gartner estimates that AI service providers could spend nearly $1 trillion on AI infrastructure in 2026 alone, with the industry facing over $3.5 trillion in impairment risk by 2030 if expected revenues fall short.",
+      "zh_hans": "美股科技股周五重挫，纳斯达克指数下跌 2.14%。美国柴油短缺刺激 WTI 原油期货升穿 99 美元，通胀预期升温压制科技股估值。云计算服务商 CoreWeave 周五大跌近 12%，一周累计跌幅逾 25%。另有咨询机构 Gartner 预测，AI 服务商仅 2026 年在 AI 基建上的支出便接近 1 万亿美元，若收入不及预期，到 2030 年行业或面临逾 3.5 万亿美元的减值风险。",
+      "zh_hant": "美股科技股週五重挫，納斯達克指數下跌 2.14%。美國柴油短缺刺激 WTI 原油期貨升穿 99 美元，通脹預期升溫壓制科技股估值。雲計算服務商 CoreWeave 週五大跌近 12%，一週累計跌幅逾 25%。另有諮詢機構 Gartner 預測，AI 服務商僅 2026 年在 AI 基建上的支出便接近 1 萬億美元，若收入不及預期，到 2030 年行業或面臨逾 3.5 萬億美元的減值風險。"
+    },
+    "tags": {
+      "en": [
+        "US stocks",
+        "Nasdaq",
+        "CoreWeave",
+        "AI infrastructure",
+        "Gartner"
+      ],
+      "zh_hans": [
+        "美股",
+        "纳斯达克",
+        "CoreWeave",
+        "AI 基建",
+        "Gartner"
+      ],
+      "zh_hant": [
+        "美股",
+        "納斯達克",
+        "CoreWeave",
+        "AI 基建",
+        "Gartner"
+      ]
+    }
   }
 ]
