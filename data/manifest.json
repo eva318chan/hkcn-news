@@ -1,7 +1,11 @@
 {
-  "updated_at": "2026-10-19T15:18:30Z",
+  "updated_at": "2026-10-19T19:13:17Z",
   "site_url": "https://hkcn-news.vercel.app",
   "dates": [
+    {
+      "date": "2026-10-20",
+      "count": 3
+    },
     {
       "date": "2026-10-19",
       "count": 38
