@@ -78,5 +78,79 @@
     "巴勒莫"
    ]
   }
+ },
+ {
+  "id": "20261021-very-hot-weather-warning",
+  "category": "society",
+  "published_at": "2026-10-21T06:46:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/21/P2026102100121.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Very Hot Weather Warning issued; DH urges precautions against heat illnesses",
+   "zh_hant": "天文台今晨發出酷熱天氣警告　衞生署籲提防中暑",
+   "zh_hans": "天文台今晨发出酷热天气警告　卫生署吁提防中暑"
+  },
+  "summary": {
+   "en": "The Hong Kong Observatory issued the Very Hot Weather Warning at 6:46am today, advising the public to avoid prolonged outdoor activities, wear wide-brimmed hats and light-coloured loose clothing, stay hydrated and avoid caffeine or alcohol. The Department of Health's Centre for Health Protection reminded the public to guard against heat illnesses such as heat stroke and heat exhaustion, noting over 200 heat-stroke hospital admissions each year in the past five years, with two to five fatal cases in summer months. Infants, the elderly, pregnant women, chronic-disease patients and outdoor workers are most at risk. The public is advised to check the Observatory's latest weather and UV index forecasts and schedule outdoor activities for mornings or late afternoons.",
+   "zh_hant": "天文台今晨6時46分發出酷熱天氣警告，呼籲市民避免長時間戶外活動，外出應戴闊邊帽、穿淺色鬆身衣，多補充水分，避免飲用含咖啡因或酒精飲品。衞生署衞生防護中心同日提醒公眾提防中暑、熱衰竭等熱病，指過去五年本港每年有逾200宗因中暑入院個案，夏日月份曾錄得二至五宗死亡個案；嬰幼兒、長者、孕婦、長期病患者及戶外工作者屬高危群組。署方呼籲市民留意天文台最新天氣及紫外線指數預報，戶外活動宜安排在早上或傍晚進行。",
+   "zh_hans": "天文台今晨6时46分发出酷热天气警告，呼吁市民避免长时间户外活动，外出应戴阔边帽、穿浅色松身衣，多补充水分，避免饮用含咖啡因或酒精饮品。卫生署卫生防护中心同日提醒公众提防中暑、热衰竭等热病，指过去五年本港每年有逾200宗因中暑入院个案，夏日月份曾录得二至五宗死亡个案；婴幼儿、长者、孕妇、长期病患者及户外工作者属高危群组。署方呼吁市民留意天文台最新天气及紫外线指数预报，户外活动宜安排在早上或傍晚进行。"
+  },
+  "tags": {
+   "en": [
+    "Very Hot Weather Warning",
+    "heat stroke",
+    "HKO"
+   ],
+   "zh_hant": [
+    "酷熱天氣警告",
+    "中暑",
+    "天文台"
+   ],
+   "zh_hans": [
+    "酷热天气警告",
+    "中暑",
+    "天文台"
+   ]
+  }
+ },
+ {
+  "id": "20261020-kmb-bus-crash-ngau-chi-wan",
+  "category": "hk",
+  "published_at": "2026-10-20T19:16:00+08:00",
+  "source": {
+   "name": "METROHK",
+   "url": "https://metrohk.com.hk/港聞/九龍巴士在牛池灣遭旅遊巴士追尾八人受傷-db4455"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Tourist coach rear-ends KMB bus in Ngau Chi Wan; 8 injured including 2 students",
+   "zh_hant": "牛池灣旅遊巴落斜撼九巴車尾　8人受傷包括兩名學童",
+   "zh_hans": "牛池湾旅游巴落斜撼九巴车尾　8人受伤包括两名学童"
+  },
+  "summary": {
+   "en": "A tourist coach carrying students rear-ended a KMB Route 290A double-decker at a bus stop on Clear Water Bay Road near Choi Wan Estate's Pak Hung House in Ngau Chi Wan at about 3pm yesterday (Oct 20). The coach's front was badly damaged with a shattered windscreen; four people aboard including two students were injured, along with four KMB passengers, all taken to United Christian Hospital. Five fire services ambulances attended; part of Clear Water Bay Road was closed and traffic was severely congested. Police are investigating the cause.",
+   "zh_hant": "昨午（20日）約3時，牛池灣新清水灣道近彩雲邨白虹樓發生交通意外，一輛載有學生的旅遊巴沿斜路駛至巴士站時，從後撞及一輛行走290A線的九巴雙層巴士。旅遊巴車頭嚴重損毀、擋風玻璃碎裂，車上4人受傷包括兩名學童，九巴亦有4名乘客受傷，全部送聯合醫院治理。消防處派出5輛救護車到場，意外令新清水灣道部分行車線一度封閉，現場交通嚴重擠塞；警方正調查意外原因。",
+   "zh_hans": "昨午（20日）约3时，牛池湾新清水湾道近彩云邨白虹楼发生交通意外，一辆载有学生的旅游巴沿斜路驶至巴士站时，从后撞及一辆行走290A线的九巴双层巴士。旅游巴车头严重损毁、挡风玻璃碎裂，车上4人受伤包括两名学童，九巴亦有4名乘客受伤，全部送联合医院治理。消防处派出5辆救护车到场，意外令新清水湾道部分行车线一度封闭，现场交通严重挤塞；警方正调查意外原因。"
+  },
+  "tags": {
+   "en": [
+    "bus accident",
+    "KMB",
+    "Ngau Chi Wan"
+   ],
+   "zh_hant": [
+    "交通意外",
+    "九巴",
+    "牛池灣"
+   ],
+   "zh_hans": [
+    "交通意外",
+    "九巴",
+    "牛池湾"
+   ]
+  }
  }
 ]
