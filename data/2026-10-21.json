@@ -394,7 +394,7 @@
     "香港"
    ]
   },
-  "image_url": ""
+  "image_url": "https://gia.info.gov.hk/general/202610/21/P2026102100550_photo_1341639.jpg"
  },
  {
   "id": "20261021-cedd-njust-mou-blasting-tech",
@@ -567,5 +567,220 @@
    ]
   },
   "image_url": ""
+ },
+ {
+  "id": "20261021-star-ferry-fare-increase-approved",
+  "category": "hk",
+  "published_at": "2026-10-21T17:00:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/21/P2026102100477.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Exco approves Star Ferry fare hike from January 2027, weekday trips up by up to HK$1",
+   "zh_hant": "行政會議批准天星小輪加價　明年1月25日起生效　平日每程最多加1元",
+   "zh_hans": "行政会议批准天星小轮加价　明年1月25日起生效　平日每程最多加1元"
+  },
+  "summary": {
+   "en": "The Chief Executive in Council has approved Star Ferry's application to raise fares on its two franchised routes, Central–Tsim Sha Tsui and Wan Chai–Tsim Sha Tsui, with the new fares taking effect on January 25, 2027. Weekday fares will rise by HK$0.6 to HK$1 per trip and weekend fares by HK$1 to HK$1.8, capping adult tickets at HK$6 on weekdays and HK$8.3 on weekends, while the HK$190 monthly ticket stays unchanged. Star Ferry had asked for increases of HK$0.8 to HK$2 per trip, but the government moderated the hike after reviewing its finances. The government said the company accumulated losses of over HK$100 million between 2018 and 2023 amid the pandemic, recorded only marginal profits in 2024 and 2025, and is expected to return to the red from 2026; even after the increase, Star Ferry remains the cheapest cross-harbour option, about 30 to 50 per cent cheaper than the MTR or franchised buses.",
+   "zh_hant": "行政長官會同行政會議批准天星小輪提高「中環—尖沙咀」及「灣仔—尖沙咀」兩條專營航線票價，新票價將於2027年1月25日起實施。平日每程加0.6至1元、周末每程加1至1.8元，成人票價上限分別為平日6元及周末8.3元，月票維持190元不變。天星小輪原申請每程加0.8至2元，政府審視其財政狀況後決定壓低加幅。政府表示，公司受疫情等因素影響，在2018至2023年間累計虧損超過1億元，2024及2025年僅錄得微利，預計2026年起將再次錄得虧損，有加價需要。加價後天星小輪仍是收費最相宜的過海公共交通工具，票價較港鐵或專營巴士低約三至五成。修訂將於10月28日提交立法會，進行先訂立後審議程序。",
+   "zh_hans": "行政长官会同行政会议批准天星小轮提高「中环—尖沙咀」及「湾仔—尖沙咀」两条专营航线票价，新票价将于2027年1月25日起实施。平日每程加0.6至1元、周末每程加1至1.8元，成人票价上限分别为平日6元及周末8.3元，月票维持190元不变。天星小轮原申请每程加0.8至2元，政府审视其财政状况后决定压低加幅。政府表示，公司受疫情等因素影响，在2018至2023年间累计亏损超过1亿元，2024及2025年仅录得微利，预计2026年起将再次录得亏损，有加价需要。加价后天星小轮仍是收费最相宜的过海公共交通工具，票价较港铁或专营巴士低约三至五成。修订将于10月28日提交立法会，进行先订立后审议程序。"
+  },
+  "tags": {
+   "en": [
+    "Star Ferry",
+    "fare increase",
+    "Executive Council",
+    "ferry",
+    "transport"
+   ],
+   "zh_hant": [
+    "天星小輪",
+    "加價",
+    "行政會議",
+    "渡輪",
+    "交通"
+   ],
+   "zh_hans": [
+    "天星小轮",
+    "加价",
+    "行政会议",
+    "渡轮",
+    "交通"
+   ]
+  }
+ },
+ {
+  "id": "20261021-customs-ocean-vessel-smuggling-236m",
+  "category": "hk",
+  "published_at": "2026-10-21T18:56:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/21/P2026102100698.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202610/21/P2026102100698_photo_1341646.jpg",
+  "title": {
+   "en": "Customs busts three ocean-vessel smuggling cases, seizes HK$23.6 million in goods",
+   "zh_hant": "海關破三宗遠洋船走私案　檢值2,360萬元貨物　包括逾萬件美髮電器",
+   "zh_hans": "海关破三宗远洋船走私案　检值2,360万元货物　包括逾万件美发电器"
+  },
+  "summary": {
+   "en": "Hong Kong Customs detected three suspected smuggling cases involving ocean-going vessels this month, seizing large batches of suspected smuggled goods with a total estimated market value of about HK$23.6 million. In the first case, three containers bound for Malaysia via ocean-going vessels were declared as carrying vacuum cleaner parts but were found to contain over 11,000 hair curlers, hair dryers, hair straighteners and hair brushes. In the other two cases, containers bound for Australia declared as plastic films, mattresses and storage racks were found to hold about 2.4 million suspected illicit cigarettes, along with electronic products, household goods and cosmetics. Customs said investigations are ongoing and arrests are not ruled out, reminding the public that smuggling carries a maximum penalty of HK$2 million in fines and seven years' imprisonment.",
+   "zh_hant": "香港海關於10月偵破三宗涉及遠洋船的懷疑走私案，檢獲大批懷疑走私貨物，總估計市值約2,360萬元。首宗案件中，三個原定經遠洋船由香港運往馬來西亞的貨櫃報稱載有吸塵機零件，經檢查發現逾1.1萬件捲髮器、風筒、直髮器及髮梳。另兩宗案件的兩個運往澳洲的貨櫃，報稱膠片、床褥及置物架等，實則藏有約240萬支懷疑私煙，以及電子產品、家居用品和化妝品。海關表示，經情報分析及風險評估後部署執法行動，案件調查仍在進行，不排除拘捕行動。海關提醒，走私屬嚴重罪行，最高可被判罰款200萬元及監禁7年，市民可致電182 8080舉報懷疑走私活動。",
+   "zh_hans": "香港海关于10月侦破三宗涉及远洋船的怀疑走私案，检获大批怀疑走私货物，总估计市值约2,360万元。首宗案件中，三个原定经远洋船由香港运往马来西亚的货柜报称载有吸尘机零件，经检查发现逾1.1万件卷发器、风筒、直发器及发梳。另两宗案件的两个运往澳洲的货柜，报称胶片、床褥及置物架等，实则藏有约240万支怀疑私烟，以及电子产品、家居用品和化妆品。海关表示，经情报分析及风险评估后部署执法行动，案件调查仍在进行，不排除拘捕行动。海关提醒，走私属严重罪行，最高可被判罚款200万元及监禁7年，市民可致电182 8080举报怀疑走私活动。"
+  },
+  "tags": {
+   "en": [
+    "Customs",
+    "smuggling",
+    "ocean vessel",
+    "illicit cigarettes",
+    "seizure"
+   ],
+   "zh_hant": [
+    "海關",
+    "走私",
+    "遠洋船",
+    "私煙",
+    "檢獲"
+   ],
+   "zh_hans": [
+    "海关",
+    "走私",
+    "远洋船",
+    "私烟",
+    "检获"
+   ]
+  }
+ },
+ {
+  "id": "20261021-putin-witkoff-st-petersburg-meeting",
+  "category": "world",
+  "published_at": "2026-10-21T17:17:00+08:00",
+  "source": {
+   "name": "新浪新聞",
+   "url": "https://news.sina.cn/gj/2026-10-21/detail-inivysyi5392422.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Putin meets US envoy Witkoff in St. Petersburg as Washington tables new Ukraine peace plan",
+   "zh_hant": "普京聖彼得堡晤美特使威特科夫　美方提交俄烏和平新方案",
+   "zh_hans": "普京圣彼得堡晤美特使威特科夫　美方提交俄乌和平新方案"
+  },
+  "summary": {
+   "en": "Russian President Vladimir Putin met US presidential envoy Steve Witkoff at the Konstantin Palace in St. Petersburg on October 21. Putin thanked US President Donald Trump for his attention to the Ukraine issue, asked about the outcome of the earlier Norway talks, and said Russia was willing to help resolve the Iran situation. Witkoff said a foundation now exists to push for a ceasefire in Ukraine, adding that he had brought a document outlining ideas for a settlement and hoped Putin would consider resuming Russia-US-Ukraine trilateral talks. Before heading to Russia, Witkoff held talks in Oslo on October 20 with Ukrainian President Volodymyr Zelensky, the Norwegian prime minister and the Finnish president to co-ordinate positions on the proposal to Moscow; Trump on the same day again pressed Zelensky to reach a deal with Russia, warning the situation would otherwise only get worse.",
+   "zh_hant": "俄羅斯總統普京21日在聖彼得堡康斯坦丁宮會見美國總統特使威特科夫。普京感謝美國總統特朗普對烏克蘭問題的關注，並詢問早前挪威會談的成果，又表示俄方願意為解決伊朗局勢提供協助。威特科夫表示，目前已具備一定基礎推動烏克蘭實現停火，並帶來一份闡述解決方案思路的文件，希望普京考慮恢復俄、美、烏三方談判。赴俄前，威特科夫20日曾在挪威奧斯陸與烏克蘭總統澤連斯基、挪威首相及芬蘭總統會談，協調向俄方提出的和平方案立場；特朗普同日再次敦促澤連斯基與俄方達成協議，警告否則局勢只會變得更糟。",
+   "zh_hans": "俄罗斯总统普京21日在圣彼得堡康斯坦丁宫会见美国总统特使威特科夫。普京感谢美国总统特朗普对乌克兰问题的关注，并询问早前挪威会谈的成果，又表示俄方愿意为解决伊朗局势提供协助。威特科夫表示，目前已具备一定基础推动乌克兰实现停火，并带来一份阐述解决方案思路的文件，希望普京考虑恢复俄、美、乌三方谈判。赴俄前，威特科夫20日曾在挪威奥斯陆与乌克兰总统泽连斯基、挪威首相及芬兰总统会谈，协调向俄方提出的和平方案立场；特朗普同日再次敦促泽连斯基与俄方达成协议，警告否则局势只会变得更糟。"
+  },
+  "tags": {
+   "en": [
+    "Putin",
+    "Witkoff",
+    "Russia-Ukraine",
+    "peace plan",
+    "Trump"
+   ],
+   "zh_hant": [
+    "普京",
+    "威特科夫",
+    "俄烏衝突",
+    "和平方案",
+    "特朗普"
+   ],
+   "zh_hans": [
+    "普京",
+    "威特科夫",
+    "俄乌冲突",
+    "和平方案",
+    "特朗普"
+   ]
+  }
+ },
+ {
+  "id": "20261021-hsi-closes-down-216-catl-slumps",
+  "category": "finance",
+  "published_at": "2026-10-21T16:25:00+08:00",
+  "source": {
+   "name": "METROHK",
+   "url": "https://metrohk.com.hk/財經/恒指全日跌0-9-寧德時代成交48-6億居第三-30b0b9"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Hang Seng closes down 216 points at 23,652 as CATL plunges 11%",
+   "zh_hant": "恒指全日跌215點收23,651　寧德時代瀉11%成交居第三",
+   "zh_hans": "恒指全日跌215点收23,651　宁德时代泻11%成交居第三"
+  },
+  "summary": {
+   "en": "Hong Kong stocks ended lower on Tuesday, with the Hang Seng Index falling 215.87 points, or 0.9%, to close at 23,651.87. Total turnover was HK$12.63 billion, down 8.6% from the previous session. Heavyweights were mostly under pressure: Tencent fell 4.04% with HK$14.88 billion in turnover to top the most-active list, while Alibaba lost 1.14%. CATL plunged 11.41% to HK$364.8 with HK$4.86 billion traded, the third most-active stock of the day. Among gainers, Cloudin Valley Technology surged 20.19%, and Lenovo bucked the trend with a 2.93% rise, the only gainer among the ten most-active stocks.",
+   "zh_hant": "港股今日走低，恒生指數全日跌215.87點、跌幅0.9%，收報23,651.87點；全日成交126.3億元，較上一個交易日縮減8.6%。重磅股普遍受壓，騰訊跌4.04%、成交148.8億元居全日之首，阿里巴巴跌1.14%；寧德時代瀉11.41%收報364.8元，成交48.6億元為全日第三活躍股份。上升股份方面，雲英谷科技全日升20.19%居升幅榜首，聯想逆市升2.93%，為十大活躍股份中唯一上升股份。",
+   "zh_hans": "港股今日走低，恒生指数全日跌215.87点、跌幅0.9%，收报23,651.87点；全日成交126.3亿元，较上一个交易日缩减8.6%。重磅股普遍受压，腾讯跌4.04%、成交148.8亿元居全日之首，阿里巴巴跌1.14%；宁德时代泻11.41%收报364.8元，成交48.6亿元为全日第三活跃股份。上升股份方面，云英谷科技全日升20.19%居升幅榜首，联想逆市升2.93%，为十大活跃股份中唯一上升股份。"
+  },
+  "tags": {
+   "en": [
+    "Hang Seng Index",
+    "HK stocks",
+    "Tencent",
+    "CATL",
+    "market close"
+   ],
+   "zh_hant": [
+    "恒生指數",
+    "港股",
+    "騰訊",
+    "寧德時代",
+    "收市"
+   ],
+   "zh_hans": [
+    "恒生指数",
+    "港股",
+    "腾讯",
+    "宁德时代",
+    "收市"
+   ]
+  }
+ },
+ {
+  "id": "20261021-cfs-cadmium-philippines-crab",
+  "category": "society",
+  "published_at": "2026-10-21T18:59:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/21/P2026102100722.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "CFS finds excessive cadmium in imported Philippine crab sample, orders sales halt",
+   "zh_hant": "食安中心驗出菲律賓進口蟹樣本鎘超標　勒令停售下架",
+   "zh_hans": "食安中心验出菲律宾进口蟹样本镉超标　勒令停售下架"
+  },
+  "summary": {
+   "en": "The Centre for Food Safety announced today that a sample of imported crab from the Philippines was found to contain cadmium, a metallic contaminant, at 4.12 parts per million — more than double the legal limit of 2 ppm. The sample was collected at the import level under the routine Food Surveillance Programme. The CFS has informed the importer concerned, instructed it to stop sales and remove the affected product from shelves, and is tracing the source and distribution of the product. It will also alert the Philippine authorities and the trade. The spokesman reminded the public that long-term excessive intake of cadmium may affect kidney function; selling food with metallic contamination above the legal limit carries a maximum penalty of HK$50,000 and six months' imprisonment.",
+   "zh_hant": "食物安全中心今日公布，在恆常食物監察計劃下於進口層面抽驗一個菲律賓進口蟹樣本，驗出金屬污染物鎘含量達百萬分之4.12，超出法定上限百萬分之2逾一倍。中心已通知涉事進口商停售及將受影響產品下架，並追查貨源及分銷情況，亦會通報菲律賓當局及業界，調查仍在進行。發言人提醒，長期過量攝入鎘可影響腎功能；根據《食物攙雜（金屬雜質含量）規例》，售賣金屬污染超標食物，一經定罪最高可罰款5萬元及監禁6個月。",
+   "zh_hans": "食物安全中心今日公布，在恒常食物监察计划下于进口层面抽验一个菲律宾进口蟹样本，验出金属污染物镉含量达百万分之4.12，超出法定上限百万分之2逾一倍。中心已通知涉事进口商停售及将受影响产品下架，并追查货源及分销情况，亦会通报菲律宾当局及业界，调查仍在进行。发言人提醒，长期过量摄入镉可影响肾功能；根据《食物搀杂（金属杂质含量）规例》，售卖金属污染超标食物，一经定罪最高可罚款5万元及监禁6个月。"
+  },
+  "tags": {
+   "en": [
+    "CFS",
+    "cadmium",
+    "imported crab",
+    "Philippines",
+    "food safety"
+   ],
+   "zh_hant": [
+    "食物安全中心",
+    "鎘超標",
+    "進口蟹",
+    "菲律賓",
+    "食物安全"
+   ],
+   "zh_hans": [
+    "食物安全中心",
+    "镉超标",
+    "进口蟹",
+    "菲律宾",
+    "食品安全"
+   ]
+  }
  }
 ]
