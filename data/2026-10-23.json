@@ -1,5 +1,156 @@
 [
   {
+    "id": "20261023-chinalco-treasury-centre-hk",
+    "category": "finance",
+    "published_at": "2026-10-23T07:00:00+08:00",
+    "source": {
+      "name": "政府新聞處新聞公報",
+      "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102100715.htm"
+    },
+    "image_url": "https://gia.info.gov.hk/general/202610/23/P2026102100715_photo_1341649.jpg",
+    "title": {
+      "en": "Chinalco sets up corporate treasury centre in Hong Kong",
+      "zh_hant": "中鋁在港設立企業財資中心 作集團境外資金管理平台",
+      "zh_hans": "中铝在港设立企业财资中心 作集团境外资金管理平台"
+    },
+    "summary": {
+      "en": "Invest Hong Kong announced on October 23 that Aluminum Corporation of China (Chinalco) has set up Chinalco Treasury Management Limited in Hong Kong as its offshore fund management platform, centralising overseas fund management and handling offshore financing, foreign exchange and interest rate risk management. InvestHK Director-General Alpha Lau said Hong Kong, as the world's largest offshore renminbi hub, offers cross-border renminbi settlement, multi-currency treasury management and risk hedging capabilities. Chinalco chief financial officer Wang Xin said the platform will help the group manage its global funds in an integrated way and improve capital efficiency as its overseas business expands.",
+      "zh_hant": "投資推廣署10月23日宣布，中國鋁業集團（中鋁）已在港設立「中鋁集團財資管理有限公司」，作為集團境外資金管理平台，集中管理境外資金，並處理境外融資、匯率及利率風險管理。投資推廣署署長劉凱旋表示，香港作為全球最大離岸人民幣樞紐，可提供跨境人民幣結算、多幣種資金管理及風險對沖能力。中鋁財務總監王欣表示，隨集團海外業務擴大，需要高效平台統籌境外資金管理，香港外匯市場規模全球第四，有助集團一體化管理全球資金，提升資金運營效率。",
+      "zh_hans": "投资推广署10月23日宣布，中国铝业集团（中铝）已在港设立「中铝集团财资管理有限公司」，作为集团境外资金管理平台，集中管理境外资金，并处理境外融资、汇率及利率风险管理。投资推广署署长刘凯旋表示，香港作为全球最大离岸人民币枢纽，可提供跨境人民币结算、多币种资金管理及风险对冲能力。中铝财务总监王欣表示，随集团海外业务扩大，需要高效平台统筹境外资金管理，香港外汇市场规模全球第四，有助集团一体化管理全球资金，提升资金运营效率。"
+    },
+    "tags": {
+      "en": [
+        "Chinalco",
+        "corporate treasury centre",
+        "InvestHK",
+        "offshore renminbi hub"
+      ],
+      "zh_hant": [
+        "中鋁",
+        "企業財資中心",
+        "投資推廣署",
+        "離岸人民幣樞紐"
+      ],
+      "zh_hans": [
+        "中铝",
+        "企业财资中心",
+        "投资推广署",
+        "离岸人民币枢纽"
+      ]
+    }
+  },
+  {
+    "id": "20261023-red-fire-danger-warning",
+    "category": "hk",
+    "published_at": "2026-10-23T06:01:00+08:00",
+    "source": {
+      "name": "政府新聞處新聞公報",
+      "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300119.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Red fire danger warning in force",
+      "zh_hant": "紅色火災危險警告生效",
+      "zh_hans": "红色火灾危险警告生效"
+    },
+    "summary": {
+      "en": "The Hong Kong Observatory issued the red fire danger warning at 6:01am on October 23. The fire danger situation is rated red, meaning the danger is extreme, and hillsides and the countryside are at very high risk of hill fires. Members of the public planning to go to the countryside are advised to bring cooked food for picnics and to take all measures to prevent hill fires. Lighting fires illegally in the countryside carries a maximum penalty of a HK$25,000 fine and one year's imprisonment.",
+      "zh_hant": "天文台今日（10月23日）早上6時01分發出紅色火災危險警告，火災危險情況屬紅色，火險極高，郊區極易發生山火。呼籲計劃到郊區的市民帶備已煮熟食物野餐，並採取一切措施防止山火。在郊區非法燃點山火，罰款25,000元及監禁一年。",
+      "zh_hans": "天文台今日（10月23日）早上6时01分发出红色火灾危险警告，火灾危险情况属红色，火险极高，郊区极易发生山火。呼吁计划到郊区的市民带备已煮熟食物野餐，并采取一切措施防止山火。在郊区非法燃点山火，罚款25,000元及监禁一年。"
+    },
+    "tags": {
+      "en": [
+        "fire danger warning",
+        "Hong Kong Observatory"
+      ],
+      "zh_hant": [
+        "火災危險警告",
+        "天文台"
+      ],
+      "zh_hans": [
+        "火灾危险警告",
+        "天文台"
+      ]
+    }
+  },
+  {
+    "id": "20261023-xiongan-global-governance-forum",
+    "category": "china",
+    "published_at": "2026-10-21T15:00:00+08:00",
+    "source": {
+      "name": "外交部",
+      "url": "https://www.fmprc.gov.cn/mfa_eng/xw/wsrc/202610/t20261021_12044253.html"
+    },
+    "image_url": "https://cdnpdcontent.aikan.pdnews.cn/pdbj-20261016/image/content/c53d9b55d0644a4984b696bca32d47f0.jpeg?v=76",
+    "title": {
+      "en": "Global Governance Forum opens in Xiong'an; Wang Yi to deliver keynote",
+      "zh_hant": "全球治理論壇今日雄安開幕 王毅發表主旨演講",
+      "zh_hans": "全球治理论坛今日雄安开幕 王毅发表主旨演讲"
+    },
+    "summary": {
+      "en": "The 2026 Global Governance Forum (Xiong'an) opens today (October 23) and runs for three days in Xiong'an New Area, Hebei, under the theme of rebuilding confidence and cooperation amid global governance reform. Hosted by the Chinese People's Institute of Foreign Affairs, the forum is expected to draw confirmed representatives from politics, academia, business, media and youth sectors from nearly 100 countries, covering UN reform, climate change, artificial intelligence and multilateral trade. China's foreign ministry announced on October 21 that Politburo member and foreign minister Wang Yi will attend today's opening ceremony and deliver the keynote speech.",
+      "zh_hant": "「2026全球治理論壇（雄安）」今日起一連三日（10月23至25日）在河北雄安新區舉行，主題圍繞重建信心與合作、變革世界中的全球治理改革與完善。論壇由中國人民外交學會主辦，主辦方表示已有來自近100個國家的政界、學界、商界、媒體及青年代表確認出席，議題涵蓋聯合國改革、氣候變化、人工智能及多邊貿易。外交部10月21日宣布，中共中央政治局委員、外交部長王毅將出席今日開幕式並發表主旨演講。",
+      "zh_hans": "「2026全球治理论坛（雄安）」今日起一连三日（10月23至25日）在河北雄安新区举行，主题围绕重建信心与合作、变革世界中的全球治理改革与完善。论坛由中国人民外交学会主办，主办方表示已有来自近100个国家的政界、学界、商界、媒体及青年代表确认出席，议题涵盖联合国改革、气候变化、人工智能及多边贸易。外交部10月21日宣布，中共中央政治局委员、外交部长王毅将出席今日开幕式并发表主旨演讲。"
+    },
+    "tags": {
+      "en": [
+        "Global Governance Forum",
+        "Xiong'an",
+        "Wang Yi",
+        "CPIFA"
+      ],
+      "zh_hant": [
+        "全球治理論壇",
+        "雄安",
+        "王毅",
+        "中國人民外交學會"
+      ],
+      "zh_hans": [
+        "全球治理论坛",
+        "雄安",
+        "王毅",
+        "中国人民外交学会"
+      ]
+    }
+  },
+  {
+    "id": "20261022-anthropic-ipo-stands-alone",
+    "category": "tech",
+    "published_at": "2026-10-22T21:05:58+08:00",
+    "source": {
+      "name": "Reuters",
+      "url": "https://wncy.com/2026/10/22/analysis-anthropic-ipo-stands-alone-as-ai-market-jitters-sideline-others/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Anthropic IPO stands alone as AI market jitters sideline others",
+      "zh_hant": "AI 市場動盪拖累同業押後上市 Anthropic 堅持下月 IPO",
+      "zh_hans": "AI 市场动荡拖累同业押后上市 Anthropic 坚持下月 IPO"
+    },
+    "summary": {
+      "en": "A Reuters analysis on October 22 says Anthropic is the only tech firm still pressing ahead with its fall IPO schedule, planning to go public in mid-November after making its prospectus public as early as late October, with institutional marketing expected in the week of November 9. Other AI infrastructure and data-centre companies have delayed their listings amid rising interest rates, a selloff in AI operators such as CoreWeave, and questions about the sustainability of AI capital spending. The analysis notes that other issuers are reluctant to compete with Anthropic for institutional investors' attention and capital, viewing the firm as one of the few exposures long-term investors cannot ignore.",
+      "zh_hant": "路透10月22日分析指，秋季科技IPO檔期只剩Anthropic一家按計劃推進，預計最快10月底公開招股書，11月9日當周開始向機構投資者路演，11月中旬上市，市場憧憬估值或達1.5萬億美元。其他AI基建及數據中心公司紛紛押後上市，面對利率上升、CoreWeave等AI運營商股債遭拋售，以及市場質疑AI資本開支可持續性，令估值受壓。分析指其他發行人都不想與Anthropic爭機構投資者注意力及資金，不少長線投資者仍看好Anthropic前景。",
+      "zh_hans": "路透10月22日分析指，秋季科技IPO档期只剩Anthropic一家按计划推进，预计最快10月底公开招股书，11月9日当周开始向机构投资者路演，11月中旬上市，市场憧憬估值或达1.5万亿美元。其他AI基建及数据中心公司纷纷押后上市，面对利率上升、CoreWeave等AI运营商股债遭抛售，以及市场质疑AI资本开支可持续性，令估值受压。分析指其他发行人都不想与Anthropic争机构投资者注意力及资金，不少长线投资者仍看好Anthropic前景。"
+    },
+    "tags": {
+      "en": [
+        "Anthropic",
+        "IPO",
+        "AI infrastructure"
+      ],
+      "zh_hant": [
+        "Anthropic",
+        "首次公開招股",
+        "AI 基建"
+      ],
+      "zh_hans": [
+        "Anthropic",
+        "首次公开招股",
+        "AI 基建"
+      ]
+    }
+  },
+  {
     "id": "20261023-hksar-condemns-uk-six-monthly-report",
     "category": "hk",
     "published_at": "2026-10-23T01:28:00+08:00",
