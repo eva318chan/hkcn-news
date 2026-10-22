@@ -984,5 +984,306 @@
         "监控"
       ]
     }
+  },
+  {
+    "id": "20261022-dpo-php-vulnerability-alert",
+    "category": "tech",
+    "published_at": "2026-10-22T22:44:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202610/22/P2026102200760.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Hong Kong's Digital Policy Office flags critical PHP flaws, urges immediate patching",
+      "zh_hant": "數字政策專員公署警告 PHP 嚴重漏洞　促各界即時修補",
+      "zh_hans": "数字政策专员公署警告 PHP 严重漏洞　促各界即时修补"
+    },
+    "summary": {
+      "en": "The Digital Policy Office said on October 22 that it attached great importance to critical security vulnerabilities in PHP, a web programming language widely used on the back end of websites worldwide. It has issued a security alert to all government bureaux, departments and public organisations, asking them to immediately review whether their systems are affected and finish patching as soon as possible, or temporarily take affected systems offline or isolate them. The Office said it has completed patching for the web hosting service that carries government homepages and has received no reports of related incidents so far; HKCERT has issued a security bulletin and the public is urged to apply patches at once.",
+      "zh_hant": "數字政策專員公署10月22日表示高度重視 PHP 網頁程式語言出現的嚴重保安漏洞，已向所有政府決策局、部門及公營機構發出保安警示，要求即時全面檢視資訊系統有否受影響，盡快完成修補，否則應暫時停用或隔離相關系統。公署稱已完成政府網頁寄存服務的修補工作，至今未接獲相關網絡安全事故報告；香港電腦保安事故協調中心（HKCERT）今日亦已發出保安公告，呼籲公眾及機構即時為受影響系統安裝修補程式。",
+      "zh_hans": "数字政策专员公署10月22日表示高度重视 PHP 网页程式语言出现的严重保安漏洞，已向所有政府决策局、部门及公营机构发出保安警示，要求即时全面检视资讯系统有否受影响，尽快完成修补，否则应暂时停用或隔离相关系统。公署称已完成政府网页寄存服务的修补工作，至今未接获相关网络安全事故报告；香港电脑保安事故协调中心（HKCERT）今日亦已发出保安公告，呼吁公众及机构即时为受影响系统安装修补程式。"
+    },
+    "tags": {
+      "en": [
+        "PHP vulnerability",
+        "cybersecurity",
+        "Digital Policy Office",
+        "HKCERT",
+        "security patch"
+      ],
+      "zh_hant": [
+        "PHP 漏洞",
+        "網絡安全",
+        "數字政策專員公署",
+        "HKCERT",
+        "保安修補"
+      ],
+      "zh_hans": [
+        "PHP 漏洞",
+        "网络安全",
+        "数字政策专员公署",
+        "HKCERT",
+        "保安修补"
+      ]
+    }
+  },
+  {
+    "id": "20261022-legco-black-point-power-station",
+    "category": "hk",
+    "published_at": "2026-10-22T21:08:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202610/22/P2026102200687.htm"
+    },
+    "image_url": "https://gia.info.gov.hk/general/202610/22/P2026102200687_photo_1341767.jpg",
+    "title": {
+      "en": "LegCo environmental affairs panel visits CLP's Black Point Power Station",
+      "zh_hant": "立法會環境事務委員會參觀中電青山發電廠",
+      "zh_hans": "立法会环境事务委员会参观中电青山发电厂"
+    },
+    "summary": {
+      "en": "The Legislative Council Panel on Environmental Affairs visited CLP's Black Point Power Station in Tuen Mun on October 22 to learn about progress in low-carbon energy technology. Members were briefed on the company's 'Climate Vision 2050' blueprint, including a trial to blend about 5 per cent hydrogen with natural gas for power generation, expected to finish in 2028. They also toured the power station gallery and the D1 gas-fired generation unit, and saw how welding robots are used at the plant; 12 members and non-members took part.",
+      "zh_hant": "立法會環境事務委員會10月22日參觀中華電力屯門青山發電廠，了解低碳能源技術應用進展。委員聽取中電介紹《氣候願景2050》藍圖，包括以天然氣混合約5%氫氣發電的試驗項目，預計2028年完成測試。委員亦參觀發電廠展覽館、D1燃氣發電機組及焊接機械人應用，共有12名委員及非委員參與是次訪問。",
+      "zh_hans": "立法会环境事务委员会10月22日参观中华电力屯门青山发电厂，了解低碳能源技术应用进展。委员听取中电介绍《气候愿景2050》蓝图，包括以天然气混合约5%氢气发电的试验项目，预计2028年完成测试。委员亦参观发电厂展览馆、D1燃气发电机组及焊接机器人应用，共有12名委员及非委员参与是次访问。"
+    },
+    "tags": {
+      "en": [
+        "LegCo",
+        "Black Point Power Station",
+        "CLP",
+        "hydrogen energy",
+        "carbon neutrality"
+      ],
+      "zh_hant": [
+        "立法會",
+        "青山發電廠",
+        "中電",
+        "氫能源",
+        "碳中和"
+      ],
+      "zh_hans": [
+        "立法会",
+        "青山发电厂",
+        "中电",
+        "氢能源",
+        "碳中和"
+      ]
+    }
+  },
+  {
+    "id": "20261022-hk-film-gala-jakarta-film-week",
+    "category": "entertainment",
+    "published_at": "2026-10-22T20:10:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202610/22/P2026102200550.htm"
+    },
+    "image_url": "https://gia.info.gov.hk/general/202610/22/P2026102200550_photo_1341741.jpg",
+    "title": {
+      "en": "Hong Kong films take centre stage at Jakarta Film Week",
+      "zh_hant": "港片登陸雅加達影展　開幕禮星光熠熠",
+      "zh_hans": "港片登陆雅加达影展　开幕礼星光熠熠"
+    },
+    "summary": {
+      "en": "The 'Hong Kong Film Gala Presentation – Jakarta' opened on October 22 at Jakarta Film Week with the support of Hong Kong's Jakarta ETO, the Cultural and Creative Industries Development Agency and the Film Development Fund. The programme features five Hong Kong films, including three Sammo Hung classics — 'Eastern Condors', 'Encounter of the Spooky Kind' and 'The Bodyguard' — alongside recent productions 'The Dating Menu' and 'Dead End'. A thematic exhibition, 'A Tale of Two Cities: Hong Kong x Jakarta', runs at FX Sudirman until October 31 with free admission.",
+      "zh_hant": "由香港駐雅加達經貿辦、文創產業發展處及電影發展基金支持的「香港電影節慶典 — 雅加達」10月22日在雅加達影展開幕，放映五部香港電影，包括洪金寶三部經典《東方禿鷹》、《鬼打鬼》、《特工爺爺》，以及近年新作 The Dating Menu 及 Dead End。同場舉辦主題展覽「雙城記：香港 x 雅加達」，在雅加達 FX Sudirman 展出至10月31日，免費入場。",
+      "zh_hans": "由香港驻雅加达经贸办、文创产业发展处及电影发展基金支持的「香港电影节庆典 — 雅加达」10月22日在雅加达影展开幕，放映五部香港电影，包括洪金宝三部经典《东方秃鹰》、《鬼打鬼》、《特工爷爷》，以及近年新作 The Dating Menu 及 Dead End。同场举办主题展览「双城记：香港 x 雅加达」，在雅加达 FX Sudirman 展出至10月31日，免费入场。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong cinema",
+        "Jakarta Film Week",
+        "Sammo Hung",
+        "film festival",
+        "cultural exchange"
+      ],
+      "zh_hant": [
+        "香港電影",
+        "雅加達影展",
+        "洪金寶",
+        "電影節",
+        "文化交流"
+      ],
+      "zh_hans": [
+        "香港电影",
+        "雅加达影展",
+        "洪金宝",
+        "电影节",
+        "文化交流"
+      ]
+    }
+  },
+  {
+    "id": "20261022-maker-in-china-hk-final",
+    "category": "tech",
+    "published_at": "2026-10-22T19:23:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202610/22/P2026102200268.htm"
+    },
+    "image_url": "https://gia.info.gov.hk/general/202610/22/P2026102200268_photo_1341753.jpg",
+    "title": {
+      "en": "Diamond wafer project wins Hong Kong chapter of Maker in China contest",
+      "zh_hant": "「創客中國」香港賽區總決賽　鑽石晶圓項目奪冠",
+      "zh_hans": "「创客中国」香港赛区总决赛　钻石晶圆项目夺冠"
+    },
+    "summary": {
+      "en": "The final of the 2026 Maker in China SME Innovation and Entrepreneurship Global Contest – Hong Kong Chapter was held at Cyberport on October 22. The champion prize went to DiamNEX's 'Industrialization of Flexible, Ultrathin Diamond Wafers', while NeuroHarbor's AI brain-disease diagnosis platform and Sharpsight's embodied AI neurorehabilitation platform took first and second runner-up. This year's contest drew a record 170 local innovation projects; the three winning teams will represent Hong Kong at the global final in Guangzhou at the end of the year.",
+      "zh_hant": "2026「創客中國」國際中小企業創新創業大賽香港分站總決賽10月22日在數碼港舉行，DiamNEX 的「柔性超薄鑽石晶圓產業化」項目奪得冠軍，NeuroHarbor 的腦疾病 AI 診療平台及 Sharpsight 的具身智能神經康復平台分別獲亞軍及季軍。今屆吸引170個本地創科項目參賽，創歷屆新高；三支優勝隊伍將於年底代表香港到廣州出戰全球總決賽。",
+      "zh_hans": "2026「创客中国」国际中小企业创新创业大赛香港分站总决赛10月22日在数码港举行，DiamNEX 的「柔性超薄钻石晶圆产业化」项目夺得冠军，NeuroHarbor 的脑疾病 AI 诊疗平台及 Sharpsight 的具身智能神经康复平台分别获亚军及季军。今届吸引170个本地创科项目参赛，创历届新高；三支优胜队伍将于年底代表香港到广州出战全球总决赛。"
+    },
+    "tags": {
+      "en": [
+        "Maker in China",
+        "startup",
+        "Cyberport",
+        "innovation",
+        "SME"
+      ],
+      "zh_hant": [
+        "創客中國",
+        "初創",
+        "數碼港",
+        "創科",
+        "中小企"
+      ],
+      "zh_hans": [
+        "创客中国",
+        "初创",
+        "数码港",
+        "创科",
+        "中小企"
+      ]
+    }
+  },
+  {
+    "id": "20261022-apec-fmm-wraps-up-hong-kong",
+    "category": "finance",
+    "published_at": "2026-10-22T20:45:00+08:00",
+    "source": {
+      "name": "Media OutReach Newswire（政府新聞處供稿）",
+      "url": "https://www.tradingview.com/news/eqs:b889cffb3094b:0-historic-apec-finance-ministers-meeting-2026-successfully-wraps-up-in-hong-kong/"
+    },
+    "image_url": "https://gia.info.gov.hk/general/202610/21/P2026102100550_photo_1341639.jpg",
+    "title": {
+      "en": "APEC Finance Ministers' Meeting 2026 concludes in Hong Kong, joint statement issued",
+      "zh_hant": "APEC 財長會議在港閉幕　發表聯合聲明",
+      "zh_hans": "APEC 财长会议在港闭幕　发表联合声明"
+    },
+    "summary": {
+      "en": "The APEC Finance Ministers' Meeting 2026, held in Hong Kong for the first time on October 20–21, concluded with the issuance of the 2026 APEC Finance Ministers' Joint Statement on October 21. The statement reaffirms the commitment to building an open, dynamic, resilient and peaceful Asia-Pacific community by 2040. Chaired by Finance Minister Lan Fo'an, the meeting saw Chief Executive John Lee welcome delegates and Financial Secretary Paul Chan urge economies to keep trade and investment channels open amid geopolitical tensions. Delegates also toured the Peak, the Hong Kong Palace Museum and Victoria Harbour.",
+      "zh_hant": "首次在香港舉行的2026年亞太經合組織財長會議（10月20至21日）圓滿閉幕，會議於10月21日發表《2026年APEC財長聯合聲明》，重申致力於2040年建成開放、活力、強韌、和平的亞太共同體。會議由財政部部長藍佛安主持，特首李家超歡迎各代表團，財政司司長陳茂波呼籲各經濟體在地緣政治緊張下保持貿易和投資渠道暢通。與會代表亦遊覽山頂、香港故宮文化博物館及維多利亞港。",
+      "zh_hans": "首次在香港举行的2026年亚太经合组织财长会议（10月20至21日）圆满闭幕，会议于10月21日发表《2026年APEC财长联合声明》，重申致力于2040年建成开放、活力、强韧、和平的亚太共同体。会议由财政部部长蓝佛安主持，特首李家超欢迎各代表团，财政司司长陈茂波呼吁各经济体在地缘政治紧张下保持贸易和投资渠道畅通。与会代表亦游览山顶、香港故宫文化博物馆及维多利亚港。"
+    },
+    "tags": {
+      "en": [
+        "APEC",
+        "Finance Ministers' Meeting",
+        "Hong Kong",
+        "joint statement",
+        "financial centre"
+      ],
+      "zh_hant": [
+        "APEC",
+        "財長會議",
+        "香港",
+        "聯合聲明",
+        "金融中心"
+      ],
+      "zh_hans": [
+        "APEC",
+        "财长会议",
+        "香港",
+        "联合声明",
+        "金融中心"
+      ]
+    }
+  },
+  {
+    "id": "20261022-typhoon-champi-flights-disrupted",
+    "category": "hk",
+    "published_at": "2026-10-22T17:20:00+08:00",
+    "source": {
+      "name": "Dimsum Daily",
+      "url": "https://www.dimsumdaily.hk/hong-kong-airlines-cancel-taiwan-flights-and-warn-of-possible-changes-to-japan-services-as-typhoon-champi-nears/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Typhoon Champi forces Hong Kong airlines to cancel Taiwan and Japan flights",
+      "zh_hant": "超強颱風薔琵逼近　本港航空公司取消台灣日本航班",
+      "zh_hans": "超强台风蔷琵逼近　本港航空公司取消台湾日本航班"
+    },
+    "summary": {
+      "en": "Super Typhoon Champi, tracking toward the waters east of Taiwan, has disrupted air travel between Hong Kong, Taiwan and Japan. HK Express has cancelled ten Taiwan services for Friday, October 23 — six between Hong Kong and Taipei — and postponed four Taichung and Kaohsiung flights to Saturday, offering free rebooking or refunds. Hong Kong Airlines scrubbed its October 22 Okinawa services, while Greater Bay Airlines said operations remain normal for now. The Hong Kong Observatory has issued no local tropical cyclone signal, with Champi centred about 1,120 km east of Hong Kong as a severe typhoon at 8pm.",
+      "zh_hant": "超強颱風薔琵逼近台灣以東海域，影響香港往返台灣及日本的航班。香港快運取消10月23日（周五）10班台灣航班，包括6班來往香港及台北，另將4班台中、高雄航班延至周六，並提供免費改期或退款。香港航空已取消10月22日來往沖繩的航班；大灣航空表示運作暫時正常。天文台未發出本地熱帶氣旋警告信號，薔琵晚上8時集結在香港以東約1,120公里，屬強颱風。",
+      "zh_hans": "超强台风蔷琵逼近台湾以东海域，影响香港往返台湾及日本的航班。香港快运取消10月23日（周五）10班台湾航班，包括6班来往香港及台北，另将4班台中、高雄航班延至周六，并提供免费改期或退款。香港航空已取消10月22日来往冲绳的航班；大湾航空表示运作暂时正常。天文台未发出本地热带气旋警告信号，蔷琵晚上8时集结在香港以东约1,120公里，属强台风。"
+    },
+    "tags": {
+      "en": [
+        "Typhoon Champi",
+        "flight cancellations",
+        "HK Express",
+        "Taiwan",
+        "aviation"
+      ],
+      "zh_hant": [
+        "颱風薔琵",
+        "航班取消",
+        "香港快運",
+        "台灣",
+        "航空"
+      ],
+      "zh_hans": [
+        "台风蔷琵",
+        "航班取消",
+        "香港快运",
+        "台湾",
+        "航空"
+      ]
+    }
+  },
+  {
+    "id": "20261022-china-outbound-investment-rules",
+    "category": "china",
+    "published_at": "2026-10-22T17:45:00+08:00",
+    "source": {
+      "name": "中國證券網（新華社稿）",
+      "url": "https://www.cs.com.cn/xwzx/01/2026/10/22/detail_2026102210046525.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "China issues new outbound investment rules, effective December 1",
+      "zh_hant": "發改委發布新版《對外投資管理辦法》　12月1日起施行",
+      "zh_hans": "发改委发布新版《对外投资管理办法》　12月1日起施行"
+    },
+    "summary": {
+      "en": "China's National Development and Reform Commission on October 22 published a new version of the Measures for the Administration of Outbound Investment, with 76 articles in six chapters covering guidance, supervision, protection and legal liabilities. The measures take effect on December 1, 2026, when the 2017 enterprise overseas investment rules will be repealed. The NDRC said the new framework is designed to better support the development of outbound investment while safeguarding national security.",
+      "zh_hant": "國家發展改革委10月22日公布新版《對外投資管理辦法》，共76條、分六章，涵蓋對外投資指導和服務、監管、保護及法律責任。辦法自2026年12月1日起施行，屆時2017年出台的《企業境外投資管理辦法》同步廢止。發改委表示，新辦法在制度上更好保障對外投資發展和安全。",
+      "zh_hans": "国家发展改革委10月22日公布新版《对外投资管理办法》，共76条、分六章，涵盖对外投资指导和服务、监管、保护及法律责任。办法自2026年12月1日起施行，届时2017年出台的《企业境外投资管理办法》同步废止。发改委表示，新办法在制度上更好保障对外投资发展和安全。"
+    },
+    "tags": {
+      "en": [
+        "outbound investment",
+        "NDRC",
+        "regulation",
+        "China economy",
+        "investment rules"
+      ],
+      "zh_hant": [
+        "對外投資",
+        "發改委",
+        "監管",
+        "中國經濟",
+        "投資新規"
+      ],
+      "zh_hans": [
+        "对外投资",
+        "发改委",
+        "监管",
+        "中国经济",
+        "投资新規"
+      ]
+    }
   }
 ]
