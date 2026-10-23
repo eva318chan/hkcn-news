@@ -1,912 +1,1208 @@
 [
- {
-  "id": "20261023-china-fta-network",
-  "category": "china",
-  "published_at": "2026-10-23T08:32:00+08:00",
-  "source": {
-   "name": "新華網（經中華網）",
-   "url": "https://news.china.com/socialgd/10000169/20261023/49812203.html"
+  {
+    "id": "20261023-legco-condemns-uk-report",
+    "category": "hk",
+    "published_at": "2026-10-23T12:50:00+08:00",
+    "source": {
+      "name": "政府新聞處新聞公報（立法會秘書處）",
+      "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300351.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "LegCo condemns UK's six-monthly report on Hong Kong, urges end to interference",
+      "zh_hant": "立法會強烈譴責英國半年報告　促停止干預香港事務",
+      "zh_hans": "立法会强烈谴责英国半年报告　促停止干预香港事务"
+    },
+    "summary": {
+      "en": "A Legislative Council spokesperson on October 23 expressed firm opposition and strong condemnation of the UK's so-called six-monthly report on Hong Kong, calling it fact-distorting, opportunistic and an interference in Hong Kong affairs. The spokesperson said the national security law and the Safeguarding National Security Ordinance are the institutional foundations of Hong Kong's return to stability and its freedoms, while the UK itself has at least 14 national security laws yet smears Hong Kong's law enforcement and judiciary — hypocritical double standards.",
+      "zh_hant": "立法會發言人10月23日就英國發表的所謂《香港半年報告》表示堅決反對並予以強烈譴責，指報告罔顧事實、藉機生事，干預香港事務。發言人指出，香港國安法及《維護國家安全條例》是香港止暴制亂、保障自由發展的制度基礎；英國自身至少有14部維護國家安全的法律，卻抹黑香港執法和司法，屬虛偽雙標。",
+      "zh_hans": "立法会发言人10月23日就英国发表的所谓《香港半年报告》表示坚决反对并予以强烈谴责，指报告罔顾事实、借机生事，干预香港事务。发言人指出，香港国安法及《维护国家安全条例》是香港止暴制乱、保障自由发展的制度基础；英国自身至少有14部维护国家安全的法律，却抹黑香港执法和司法，属虚伪双标。"
+    },
+    "tags": {
+      "en": [
+        "Legislative Council",
+        "UK six-monthly report",
+        "national security"
+      ],
+      "zh_hant": [
+        "立法會",
+        "英國半年報告",
+        "國家安全"
+      ],
+      "zh_hans": [
+        "立法会",
+        "英国半年报告",
+        "国家安全"
+      ]
+    }
   },
-  "image_url": "",
-  "title": {
-   "en": "China has signed 26 free trade agreements with 33 countries, commerce ministry says",
-   "zh_hant": "商務部：「十五五」時期中國自貿網絡初步成形 26協定覆蓋33國",
-   "zh_hans": "商务部：「十五五」时期中国自贸网络初步成形 26协定覆盖33国"
+  {
+    "id": "20261023-customs-seizes-live-turtles",
+    "category": "society",
+    "published_at": "2026-10-23T12:40:00+08:00",
+    "source": {
+      "name": "政府新聞處新聞公報",
+      "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300392.htm"
+    },
+    "image_url": "https://gia.info.gov.hk/general/202610/23/P2026102300392_photo_1341795.jpg",
+    "title": {
+      "en": "Customs seizes two suspected endangered live turtles at Lok Ma Chau Spur Line",
+      "zh_hant": "海關落馬洲檢獲兩隻懷疑瀕危活龜　市價約三千元",
+      "zh_hans": "海关落马洲检获两只怀疑濒危活龟　市价约三千元"
+    },
+    "summary": {
+      "en": "Hong Kong Customs on October 22 intercepted a 50-year-old male inbound passenger at the Lok Ma Chau Spur Line Control Point and seized two live turtles suspected to be scheduled species under the Convention on International Trade in Endangered Species of Wild Fauna and Flora, with an estimated market value of about HK$3,000. Officers of the Agriculture, Fisheries and Conservation Department conducted a preliminary identification on site and the case has been handed to the department for follow-up. Offenders face up to HK$10 million in fines and 10 years' imprisonment under the Protection of Endangered Species of Animals and Plants Ordinance.",
+      "zh_hant": "香港海關10月22日在落馬洲支線管制站截查一名50歲入境男乘客，於其膠袋內檢獲兩隻懷疑屬《瀕危野生動植物種國際貿易公約》附錄物種的活龜，估計市價約3,000元。漁農自然護理署人員到場初步鑑定，案件已轉交該署跟進。根據《保護瀕危動植物物種條例》，違者最高可被判罰款1,000萬元及監禁10年。",
+      "zh_hans": "香港海关10月22日在落马洲支线管制站截查一名50岁入境男乘客，于其胶袋内检获两只怀疑属《濒危野生动植物种国际贸易公约》附录物种的活龟，估计市价约3,000元。渔农自然护理署人员到场初步鉴定，案件已转交该署跟进。根据《保护濒危动植物物种条例》，违者最高可被判罚款1,000万元及监禁10年。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong Customs",
+        "endangered species",
+        "Lok Ma Chau"
+      ],
+      "zh_hant": [
+        "香港海關",
+        "瀕危物種",
+        "落馬洲"
+      ],
+      "zh_hans": [
+        "香港海关",
+        "濒危物种",
+        "落马洲"
+      ]
+    }
   },
-  "summary": {
-   "en": "At a State Council Information Office press conference on October 22 kicking off the \"15th Five-Year Plan\" series, Vice Commerce Minister Jiang Chenghua said China has signed 26 free trade agreements with 33 countries and regions since its first FTA with ASEAN in 2002. FTA partners, including Hong Kong, Macao and Taiwan, account for 45 per cent of China's total foreign trade and 70 per cent of foreign investment attracted, forming a preliminary global FTA network. Also announced: outbound investment stock reached nearly US$3.4 trillion by end-2025, ranking among the world's top three for nine consecutive years; outbound direct investment in the first three quarters of this year totalled US$128.62 billion.",
-   "zh_hant": "國務院新聞辦10月22日舉行「開局起步『十五五』」系列主題新聞發布會，商務部副部長蔣成華表示，自2002年與東盟達成首個自貿協定以來，中國已與33個國家和地區簽署26個自貿協定；自貿夥伴（包括港澳台）佔中國外貿總額45%、吸引外資70%，面向全球嘅自貿網絡已初步成形。同場公布，對外投資存量截至2025年底近3.4萬億美元，連續9年居世界前三；今年前三季對外直接投資1,286.2億美元。",
-   "zh_hans": "国务院新闻办10月22日举行「开局起步『十五五』」系列主题新闻发布会，商务部副部长蒋成华表示，自2002年与东盟达成首个自贸协定以来，中国已与33个国家和地区签署26个自贸协定；自贸伙伴（包括港澳台）占中国外贸总额45%、吸引外资70%，面向全球的自贸网络已初步成形。同场公布，对外投资存量截至2025年底近3.4万亿美元，连续9年居世界前三；今年前三季对外直接投资1,286.2亿美元。"
+  {
+    "id": "20261023-police-appeal-missing-man-kwun-tong",
+    "category": "society",
+    "published_at": "2026-10-23T13:52:00+08:00",
+    "source": {
+      "name": "政府新聞處新聞公報",
+      "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300453.htm"
+    },
+    "image_url": "https://gia.info.gov.hk/general/202610/23/P2026102300453_photo_1341798.jpg",
+    "title": {
+      "en": "Police appeal for information on 71-year-old missing man last seen in Kwun Tong",
+      "zh_hant": "警方呼籲提供觀塘71歲失蹤男子消息　最後於藍田邨露面",
+      "zh_hans": "警方呼吁提供观塘71岁失踪男子消息　最后于蓝田邨露面"
+    },
+    "summary": {
+      "en": "Police on October 23 appealed for public help to find 71-year-old missing man Cheng Kin-wah, last seen at Lam Tin Estate on the night of October 22, after a friend reported him missing the same day. He is about 1.6 metres tall, about 50 kilograms in weight and of medium build, with a long face, yellow complexion and short grey hair. He was last seen wearing a white-grey checkered short-sleeve shirt, black trousers and black shoes. Anyone with information is asked to call the Kowloon East Missing Persons Unit on 3661 0316.",
+      "zh_hant": "警方10月23日呼籲市民協助尋找一名71歲失蹤男子鄭建華。他於10月22日晚在藍田邨最後露面後失蹤，其朋友同日已報案。失蹤者身高約1.6米、體重約50公斤、中等身材、長面、黃皮膚、短灰髮；最後露面時穿白灰格仔短袖恤衫、黑褲及黑鞋。市民如有消息請致電九龍東失蹤人口組3661 0316。",
+      "zh_hans": "警方10月23日呼吁市民协助寻找一名71岁失踪男子郑建华。他于10月22日晚在蓝田邨最后露面后失踪，其朋友同日已报案。失踪者身高约1.6米、体重约50公斤、中等身材、长面、黄皮肤、短灰发；最后露面时穿白灰格仔短袖恤衫、黑裤及黑鞋。市民如有消息请致电九龙东失踪人口组3661 0316。"
+    },
+    "tags": {
+      "en": [
+        "missing person",
+        "Kwun Tong",
+        "police"
+      ],
+      "zh_hant": [
+        "失蹤人士",
+        "觀塘",
+        "警方"
+      ],
+      "zh_hans": [
+        "失踪人士",
+        "观塘",
+        "警方"
+      ]
+    }
   },
-  "tags": {
-   "en": [
-    "free trade agreements",
-    "Ministry of Commerce",
-    "15th Five-Year Plan",
-    "outbound investment"
-   ],
-   "zh_hant": [
-    "自貿協定",
-    "商務部",
-    "十五五",
-    "對外投資"
-   ],
-   "zh_hans": [
-    "自贸协定",
-    "商务部",
-    "十五五",
-    "对外投资"
-   ]
+  {
+    "id": "20261023-rthk-chengdu-tv-mou",
+    "category": "hk",
+    "published_at": "2026-10-23T14:30:00+08:00",
+    "source": {
+      "name": "政府新聞處新聞公報",
+      "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300283.htm"
+    },
+    "image_url": "https://gia.info.gov.hk/general/202610/23/P2026102300283_photo_1341793.jpg",
+    "title": {
+      "en": "RTHK signs MOU with Chengdu Radio and Television, plans joint event next year",
+      "zh_hant": "港台與成都廣播電視台簽署合作備忘錄　明年合辦「RTHK Vinyl Pop Up」",
+      "zh_hans": "港台与成都广播电视台签署合作备忘录　明年合办「RTHK Vinyl Pop Up」"
+    },
+    "summary": {
+      "en": "Director of Broadcasting Angelina Kwan led an RTHK delegation to Chengdu from October 21 to 23, during which RTHK signed a memorandum of understanding with Chengdu Radio and Television to prepare jointly organised events such as \"RTHK Vinyl Pop Up\" in Chengdu next year, fostering cultural ties between the two places. The two sides will expand cooperation in programme exchanges, talent development, new media platforms and events; the \"Vinyl Pop Up\" is expected to land in Chengdu in the second quarter of next year after previous editions in Hong Kong, Qianhai and Shanghai.",
+      "zh_hant": "廣播處長關婉儀率港台代表團於10月21至23日訪問成都，期間與成都廣播電視台簽署合作備忘錄，籌備明年在成都合辦「RTHK Vinyl Pop Up」等活動，促進兩地民心相通及文化連結。雙方將在節目內容交流、人才培養、新媒體平台合作及活動舉辦等多方面擴大合作；「Vinyl Pop Up」預計明年第二季登陸成都，此前曾在香港、前海及上海舉行。",
+      "zh_hans": "广播处长关婉仪率港台代表团于10月21至23日访问成都，期间与成都广播电视台签署合作备忘录，筹备明年在成都合办「RTHK Vinyl Pop Up」等活动，促进两地民心相通及文化连结。双方将在节目内容交流、人才培养、新媒体平台合作及活动举办等多方面扩大合作；「Vinyl Pop Up」预计明年第二季登陆成都，此前曾在香港、前海及上海举行。"
+    },
+    "tags": {
+      "en": [
+        "RTHK",
+        "Chengdu",
+        "MOU"
+      ],
+      "zh_hant": [
+        "香港電台",
+        "成都",
+        "合作備忘錄"
+      ],
+      "zh_hans": [
+        "香港电台",
+        "成都",
+        "合作备忘录"
+      ]
+    }
+  },
+  {
+    "id": "20261023-assad-brothers-farewell-concert",
+    "category": "entertainment",
+    "published_at": "2026-10-23T12:15:00+08:00",
+    "source": {
+      "name": "政府新聞處新聞公報（康文署）",
+      "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102200642.htm"
+    },
+    "image_url": "https://gia.info.gov.hk/general/202610/23/P2026102200642_photo_1341758.jpg",
+    "title": {
+      "en": "Legendary Brazilian guitar duo Assad Brothers bring farewell tour to Hong Kong on October 30",
+      "zh_hant": "巴西結他二重奏Assad兄弟告別巡演　10月30日香港大會堂獻技",
+      "zh_hans": "巴西结他二重奏Assad兄弟告别巡演　10月30日香港大会堂献技"
+    },
+    "summary": {
+      "en": "The fourth Asia+ Festival will present the \"Assad Brothers Guitar Duo Recital\" at 8pm on October 30 at the Hong Kong City Hall Concert Hall. The legendary Brazilian Assad brothers, Sérgio and Odair, have performed together for six decades, and the Hong Kong stop is part of their farewell tour. Local guzheng musician Wun Hang will share the stage in echo of the China-Brazil Year of Culture. Tickets are priced at HK$200, HK$300 and HK$420, now on sale at URBTIX.",
+      "zh_hant": "第四屆「亞藝無疆」亞洲文化節將於10月30日晚上8時在香港大會堂音樂廳呈獻「Assad兄弟結他二重奏音樂會」。縱橫樂壇逾半世紀的巴西Assad兄弟（Sérgio及Odair）今次香港演出，是他們60年音樂拍檔生涯告別巡演的其中一站；本地古箏演奏家萬幸將同台演出，以呼應中國—巴西文化年。門票$200、$300及$420，現於城市售票網發售。",
+      "zh_hans": "第四届「亚艺无疆」亚洲文化节将于10月30日晚上8时在香港大会堂音乐厅呈献「Assad兄弟结他二重奏音乐会」。纵横乐坛逾半世纪的巴西Assad兄弟（Sérgio及Odair）今次香港演出，是他们60年音乐拍档生涯告别巡演的其中一站；本地古筝演奏家万幸将同台演出，以呼应中国—巴西文化年。门票$200、$300及$420，现于城市售票网发售。"
+    },
+    "tags": {
+      "en": [
+        "Assad Brothers",
+        "Asia+ Festival",
+        "concert"
+      ],
+      "zh_hant": [
+        "Assad兄弟",
+        "亞藝無疆",
+        "音樂會"
+      ],
+      "zh_hans": [
+        "Assad兄弟",
+        "亚艺无疆",
+        "音乐会"
+      ]
+    }
+  },
+  {
+    "id": "20261023-red-paint-legco-offices-court",
+    "category": "hk",
+    "published_at": "2026-10-23T14:42:00+08:00",
+    "source": {
+      "name": "庭刊",
+      "url": "https://hkcourtnews.com/66%E6%AD%B2%E7%94%B7%E5%AD%90%E6%B6%89%E5%90%91%E9%84%A7%E5%AE%B6%E5%BD%AA%E9%84%A7%E6%B2%9B%E8%89%AF%E5%9C%B0%E5%8D%80%E8%BE%A6%E4%BA%8B%E8%99%95%E6%B7%8B%E7%B4%85%E6%B2%B9%E3%80%80%E5%87%86100/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "66-year-old charged over red-paint vandalism at lawmakers' offices, bailed at HK$100",
+      "zh_hant": "66歲漢涉向鄧家彪陳沛良辦事處淋紅油　$100保釋11月再訊",
+      "zh_hans": "66岁汉涉向邓家彪陈沛良办事处淋红油　$100保释11月再讯"
+    },
+    "summary": {
+      "en": "A 66-year-old man has been arrested after the joint Sau Mau Ping Estate offices of lawmakers Tang Ka-piu and Chan Pui-leung were splashed with red paint. The defendant, Ho Kai-sing, who is reportedly unemployed, faces four counts of criminal damage over incidents on October 8 involving the offices' iron gate and exterior wall, a nearby CCTV camera (valued at HK$30,100) and a Housing Department wooden door. At the first hearing at Kwun Tong Magistrates' Courts on October 23, he was not required to enter a plea; the case was adjourned to November 20, and he was granted bail at HK$100 with a requirement to report to a police station twice a week.",
+      "zh_hant": "立法會議員鄧家彪及陳沛良位於秀茂坪邨的聯合辦事處早前遭淋潑紅色油漆，警方拘捕一名66歲男子。被告何繼成（報稱無業）被控4項刑事損壞罪，案發日期均為今年10月8日，涉損毀辦事處鐵閘外牆、附近閉路電視攝影機（價值$30,100）及房署木門。案件10月23日在觀塘裁判法院首次提堂，被告暫毋須答辯，押後至11月20日再訊，獲准以100元保釋，每星期須到警署報到兩次。",
+      "zh_hans": "立法会议员邓家彪及陈沛良位于秀茂坪邨的联合办事处早前遭淋泼红色油漆，警方拘捕一名66岁男子。被告何继成（报称无业）被控4项刑事损坏罪，案发日期均为今年10月8日，涉损毁办事处铁闸外墙、附近闭路电视摄影机（价值$30,100）及房署木门。案件10月23日在观塘裁判法院首次提堂，被告暂毋须答辩，押后至11月20日再讯，获准以100元保释，每星期须到警署报到两次。"
+    },
+    "tags": {
+      "en": [
+        "criminal damage",
+        "lawmakers",
+        "Kwun Tong Magistrates' Courts"
+      ],
+      "zh_hant": [
+        "刑事損壞",
+        "立法會議員",
+        "觀塘裁判法院"
+      ],
+      "zh_hans": [
+        "刑事损坏",
+        "立法会议员",
+        "观塘裁判法院"
+      ]
+    }
+  },
+  {
+    "id": "20261023-mof-rmb-bonds-hk-issuance",
+    "category": "finance",
+    "published_at": "2026-10-23T11:11:00+08:00",
+    "source": {
+      "name": "新浪財經／每日經濟新聞",
+      "url": "https://finance.sina.cn/2026-10-23/detail-iniweqhr5626515.d.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Finance ministry issues 15.5 billion yuan of bonds in Hong Kong with 3.43x subscription",
+      "zh_hant": "財政部在港發行155億元人民幣國債　認購倍數3.43倍",
+      "zh_hans": "财政部在港发行155亿元人民币国债　认购倍数3.43倍"
+    },
+    "summary": {
+      "en": "The Ministry of Finance on October 23 issued the fifth batch of 2026 yuan-denominated treasury bonds worth 15.5 billion yuan in Hong Kong through tender to institutional investors, drawing broad investor interest with a subscription ratio of 3.43 times, reports said. The issuance comprised 4 billion yuan of 2-year notes at 1.24%, 5 billion of 3-year notes at 1.28%, 4 billion of 5-year notes at 1.38% and 2.5 billion of 10-year notes at 1.67%. The ministry plans six tranches totalling 84 billion yuan in Hong Kong this year, reaching 75 billion yuan cumulatively after this batch.",
+      "zh_hant": "據報道，財政部10月23日在香港面向機構投資者招標發行2026年第五期155億元人民幣國債，受到投資者廣泛歡迎，認購倍數達3.43倍。其中2年期40億元、發行利率1.24%；3年期50億元、1.28%；5年期40億元、1.38%；10年期25億元、1.67%。今年財政部計劃分六期在港發行共840億元人民幣國債，今期之後累計已達750億元。",
+      "zh_hans": "据报道，财政部10月23日在香港面向机构投资者招标发行2026年第五期155亿元人民币国债，受到投资者广泛欢迎，认购倍数达3.43倍。其中2年期40亿元、发行利率1.24%；3年期50亿元、1.28%；5年期40亿元、1.38%；10年期25亿元、1.67%。今年财政部计划分六期在港发行共840亿元人民币国债，今期之后累计已达750亿元。"
+    },
+    "tags": {
+      "en": [
+        "yuan bonds",
+        "Ministry of Finance",
+        "Hong Kong"
+      ],
+      "zh_hant": [
+        "人民幣國債",
+        "財政部",
+        "香港"
+      ],
+      "zh_hans": [
+        "人民币国债",
+        "财政部",
+        "香港"
+      ]
+    }
+  },
+  {
+    "id": "20261023-politburo-inspection-report-meeting",
+    "category": "china",
+    "published_at": "2026-10-23T13:18:00+08:00",
+    "source": {
+      "name": "新華社（經湖南學習平台）",
+      "url": "https://m.voc.com.cn/xhn/news/202610/34065583.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Politburo meets to review comprehensive report on seventh inspection round of 20th Central Committee",
+      "zh_hant": "中共中央政治局召開會議　審議二十屆中央第七輪巡視綜合報告",
+      "zh_hans": "中共中央政治局召开会议　审议二十届中央第七轮巡视综合报告"
+    },
+    "summary": {
+      "en": "The Political Bureau of the CPC Central Committee held a meeting on October 23 to review the comprehensive report on the seventh inspection round of the 20th Central Committee, chaired by General Secretary Xi Jinping, Xinhua reported. The meeting said the seventh round of inspections was thorough and effective, but some problems remain in central Party and state organs and must be taken seriously; it stressed consolidating rectification responsibilities, deepening reform, coordinating development and security, and maintaining a tough stance against corruption.",
+      "zh_hant": "據新華社報道，中共中央政治局10月23日召開會議，審議《關於二十屆中央第七輪巡視情況的綜合報告》，由中共中央總書記習近平主持。會議指出，第七輪巡視工作深入扎實、成效明顯，但中央和國家機關仍存在一些問題，必須高度重視、嚴肅認真解決；會議強調要壓實整改責任、持續深化改革攻堅、統籌發展和安全，保持懲治腐敗高壓態勢。",
+      "zh_hans": "据新华社报道，中共中央政治局10月23日召开会议，审议《关于二十届中央第七轮巡视情况的综合报告》，由中共中央总书记习近平主持。会议指出，第七轮巡视工作深入扎实、成效明显，但中央和国家机关仍存在一些问题，必须高度重视、严肃认真解决；会议强调要压实整改责任、持续深化改革攻坚、统筹发展和安全，保持惩治腐败高压态势。"
+    },
+    "tags": {
+      "en": [
+        "CPC Politburo",
+        "inspection",
+        "Xi Jinping"
+      ],
+      "zh_hant": [
+        "中共中央政治局",
+        "巡視",
+        "習近平"
+      ],
+      "zh_hans": [
+        "中共中央政治局",
+        "巡视",
+        "习近平"
+      ]
+    }
+  },
+  {
+    "id": "20261023-china-fta-network",
+    "category": "china",
+    "published_at": "2026-10-23T08:32:00+08:00",
+    "source": {
+      "name": "新華網（經中華網）",
+      "url": "https://news.china.com/socialgd/10000169/20261023/49812203.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "China has signed 26 free trade agreements with 33 countries, commerce ministry says",
+      "zh_hant": "商務部：「十五五」時期中國自貿網絡初步成形 26協定覆蓋33國",
+      "zh_hans": "商务部：「十五五」时期中国自贸网络初步成形 26协定覆盖33国"
+    },
+    "summary": {
+      "en": "At a State Council Information Office press conference on October 22 kicking off the \"15th Five-Year Plan\" series, Vice Commerce Minister Jiang Chenghua said China has signed 26 free trade agreements with 33 countries and regions since its first FTA with ASEAN in 2002. FTA partners, including Hong Kong, Macao and Taiwan, account for 45 per cent of China's total foreign trade and 70 per cent of foreign investment attracted, forming a preliminary global FTA network. Also announced: outbound investment stock reached nearly US$3.4 trillion by end-2025, ranking among the world's top three for nine consecutive years; outbound direct investment in the first three quarters of this year totalled US$128.62 billion.",
+      "zh_hant": "國務院新聞辦10月22日舉行「開局起步『十五五』」系列主題新聞發布會，商務部副部長蔣成華表示，自2002年與東盟達成首個自貿協定以來，中國已與33個國家和地區簽署26個自貿協定；自貿夥伴（包括港澳台）佔中國外貿總額45%、吸引外資70%，面向全球嘅自貿網絡已初步成形。同場公布，對外投資存量截至2025年底近3.4萬億美元，連續9年居世界前三；今年前三季對外直接投資1,286.2億美元。",
+      "zh_hans": "国务院新闻办10月22日举行「开局起步『十五五』」系列主题新闻发布会，商务部副部长蒋成华表示，自2002年与东盟达成首个自贸协定以来，中国已与33个国家和地区签署26个自贸协定；自贸伙伴（包括港澳台）占中国外贸总额45%、吸引外资70%，面向全球的自贸网络已初步成形。同场公布，对外投资存量截至2025年底近3.4万亿美元，连续9年居世界前三；今年前三季对外直接投资1,286.2亿美元。"
+    },
+    "tags": {
+      "en": [
+        "free trade agreements",
+        "Ministry of Commerce",
+        "15th Five-Year Plan",
+        "outbound investment"
+      ],
+      "zh_hant": [
+        "自貿協定",
+        "商務部",
+        "十五五",
+        "對外投資"
+      ],
+      "zh_hans": [
+        "自贸协定",
+        "商务部",
+        "十五五",
+        "对外投资"
+      ]
+    }
+  },
+  {
+    "id": "20261023-deepseek-100bn-funding",
+    "category": "tech",
+    "published_at": "2026-10-22T23:51:00+08:00",
+    "source": {
+      "name": "新浪科技",
+      "url": "https://finance.sina.cn/tech/2026-10-22/detail-iniwcnuz5158596.d.html?vt=4"
+    },
+    "image_url": "",
+    "title": {
+      "en": "DeepSeek said to close second funding round of about 100 billion yuan",
+      "zh_hant": "傳DeepSeek完成約千億元第二輪融資 騰訊寧德時代領投",
+      "zh_hans": "传DeepSeek完成约千亿元第二轮融资 腾讯宁德时代领投"
+    },
+    "summary": {
+      "en": "DeepSeek's second funding round is nearing completion, with the target raised from about 50 billion yuan to about 100 billion yuan and pre-money valuation held at about 500 billion yuan, according to media reports; Bloomberg reports the round has closed. The round is co-led by Tencent and CATL, with CATL set to add about 10 billion yuan on top of its first-round 5 billion yuan. New investors include Geely, China Fortune-Tech Capital's Zhongxin Juyuan, CPE and Legend Capital. DeepSeek's first external round closed at the end of June at about 51 billion yuan. If the second round lands, total fundraising within half a year would reach about 150 billion yuan. The company has hired CITIC Securities to prepare a STAR Market listing, aiming to file as early as the end of this year.",
+      "zh_hant": "據媒體報道，DeepSeek第二輪融資已臨近完成，金額由原計劃約500億元上調至約1,000億元人民幣，投前估值維持約5,000億元；彭博社引述消息指本輪融資已經完成。本輪由騰訊同寧德時代聯合領投，寧德時代擬再加碼約100億元，兩輪累計出資約150億元；新進投資方包括吉利、中芯聚源、君聯資本等。DeepSeek首輪外部融資今年6月底完成交割，規模約510億元。若本輪落地，半年內融資總額將達約1,500億元。公司已聘請中信證券籌備科創板上市，計劃最快今年底遞表、2027年掛牌。",
+      "zh_hans": "据媒体报道，DeepSeek第二轮融资已临近完成，金额由原计划约500亿元上调至约1,000亿元人民币，投前估值维持约5,000亿元；彭博社引述消息指本轮融资已经完成。本轮由腾讯和宁德时代联合领投，宁德时代拟再加码约100亿元，两轮累计出资约150亿元；新进投资方包括吉利、中芯聚源、君联资本等。DeepSeek首轮外部融资今年6月底完成交割，规模约510亿元。若本轮落地，半年内融资总额将达约1,500亿元。公司已聘请中信证券筹备科创板上市，计划最快今年底递表、2027年挂牌。"
+    },
+    "tags": {
+      "en": [
+        "DeepSeek",
+        "fundraising",
+        "artificial intelligence",
+        "Tencent",
+        "CATL"
+      ],
+      "zh_hant": [
+        "DeepSeek",
+        "融資",
+        "人工智能",
+        "騰訊",
+        "寧德時代"
+      ],
+      "zh_hans": [
+        "DeepSeek",
+        "融资",
+        "人工智能",
+        "腾讯",
+        "宁德时代"
+      ]
+    }
+  },
+  {
+    "id": "20261023-panel-judges-interception-ordinance",
+    "category": "hk",
+    "published_at": "2026-10-23T10:30:00+08:00",
+    "source": {
+      "name": "政府新聞處新聞公報",
+      "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102200569.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Government appoints panel judges under Interception of Communications and Surveillance Ordinance",
+      "zh_hant": "政府委任截取通訊及監察事務小組法官 潘兆童續任梁俊文新獲委任",
+      "zh_hans": "政府委任截取通讯及监察事务小组法官 潘兆童续任梁俊文新获委任"
+    },
+    "summary": {
+      "en": "The Chief Executive, on the recommendation of the Chief Justice of the Court of Final Appeal, has appointed two Judges of the Court of First Instance of the High Court as Panel Judges under the Interception of Communications and Surveillance Ordinance (Chapter 589). Mr Justice Poon Siu-tung is reappointed and Mr Justice Leung Chun-man is newly appointed, each for a three-year term from October 25, 2026 to October 24, 2029. Chief Executive John Lee praised Poon's dedication in handling law enforcement agencies' applications for interception authorisations during his past term, and said he is confident both judges will ensure the effective operation of the regulatory regime. Leung was called to the Bar in 1991, joined the Judiciary as a District Judge in 2007 and was appointed a Judge of the Court of First Instance in 2024.",
+      "zh_hant": "行政長官按終審法院首席法官推薦，委任兩名高等法院原訟法庭法官為《截取通訊及監察條例》（第589章）下嘅小組法官。潘兆童獲續任，梁俊文新獲委任，兩人任期均為2026年10月25日至2029年10月24日，為期三年。行政長官李家超讚揚潘兆童過去任期處理執法機關截取授權申請表現全心投入，有信心兩位法官會運用專業知識同經驗，確保條例下嘅規管機制有效運作。梁俊文1991年取得大律師資格，2007年加入司法機構任區域法院法官，2024年升任高等法院原訟法庭法官。",
+      "zh_hans": "行政长官按终审法院首席法官推荐，委任两名高等法院原讼法庭法官为《截取通讯及监察条例》（第589章）下的小组法官。潘兆童获续任，梁俊文新获委任，两人任期均为2026年10月25日至2029年10月24日，为期三年。行政长官李家超赞扬潘兆童过去任期处理执法机关截取授权申请表现全心投入，有信心两位法官会运用专业知识和经验，确保条例下的规管机制有效运作。梁俊文1991年取得大律师资格，2007年加入司法机构任区域法院法官，2024年升任高等法院原讼法庭法官。"
+    },
+    "tags": {
+      "en": [
+        "Interception of Communications and Surveillance Ordinance",
+        "Poon Siu-tung",
+        "Leung Chun-man",
+        "panel judges"
+      ],
+      "zh_hant": [
+        "截取通訊及監察條例",
+        "潘兆童",
+        "梁俊文",
+        "小組法官"
+      ],
+      "zh_hans": [
+        "截取通讯及监察条例",
+        "潘兆童",
+        "梁俊文",
+        "小组法官"
+      ]
+    }
+  },
+  {
+    "id": "20261023-prd-air-quality-2025-report",
+    "category": "hk",
+    "published_at": "2026-10-23T10:00:00+08:00",
+    "source": {
+      "name": "政府新聞處新聞公報",
+      "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102200350.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Guangdong-Hong Kong-Macao release 2025 Pearl River Delta air quality report",
+      "zh_hant": "粵港澳公布珠三角2025年空氣質素報告 污染物濃度20年降23%至86%",
+      "zh_hans": "粤港澳公布珠三角2025年空气质素报告 污染物浓度20年降23%至86%"
+    },
+    "summary": {
+      "en": "Guangdong, Hong Kong and Macao today jointly released the 2025 air quality report under the Pearl River Delta Regional Air Quality Monitoring Network. Concentrations of major air pollutants have trended down over the long term, falling 23 to 86 per cent compared with 20 years ago; fine suspended particulates dropped to an annual average of 19 micrograms per cubic metre, a leading level nationwide. As of end-September 2026, Hong Kong had about 185,600 electric vehicles, including about 180,300 electric private cars accounting for 27.6 per cent of all private cars, roughly six times the 2021 figure. Charging spaces exceeded 170,000, including around 18,090 public chargers. The government will cease new registrations of fuel-propelled private cars, including hybrids, in 2035 or earlier.",
+      "zh_hant": "粵港澳三地今日聯合公布2025年珠三角區域空氣監測網絡空氣質素報告。多種空氣污染物濃度呈長期下降趨勢，較20年前下降23%至86%，其中微細懸浮粒子年均濃度降至每立方米19微克，達全國領先水平。截至今年9月底，本港約有18.56萬輛電動車，包括約18.03萬輛電動私家車，佔私家車27.6%，為2021年約6倍；充電車位逾17萬個，公眾充電器約18,090個。港府將於2035年或之前停止新登記燃油私家車，包括混能車，並於2027年底前引入700輛電動巴士同3,000輛電動的士。",
+      "zh_hans": "粤港澳三地今日联合公布2025年珠三角区域空气监测网络空气质素报告。多种空气污染物浓度呈长期下降趋势，较20年前下降23%至86%，其中微细悬浮粒子年均浓度降至每立方米19微克，达全国领先水平。截至今年9月底，本港约有18.56万辆电动车，包括约18.03万辆电动私家车，占私家车27.6%，为2021年约6倍；充电车位逾17万个，公众充电器约18,090个。港府将于2035年或之前停止新登记燃油私家车，包括混能车，并于2027年底前引入700辆电动巴士和3,000辆电动的士。"
+    },
+    "tags": {
+      "en": [
+        "air quality",
+        "Pearl River Delta",
+        "electric vehicles",
+        "environment"
+      ],
+      "zh_hant": [
+        "空氣質素",
+        "珠三角",
+        "電動車",
+        "環境保護"
+      ],
+      "zh_hans": [
+        "空气质素",
+        "珠三角",
+        "电动车",
+        "环境保护"
+      ]
+    }
+  },
+  {
+    "id": "20261023-tibet-baqing-earthquake",
+    "category": "china",
+    "published_at": "2026-10-23T08:11:00+08:00",
+    "source": {
+      "name": "新華社（經華聲新聞）",
+      "url": "https://news.voc.com.cn/news/202610/34061973.html"
+    },
+    "image_url": "https://vod-hszx-xhncloud.voc.com.cn/214/2026/10/23/1bda321a1c7a7158c01663dc9988117cbd9c8f361792714245.jpg?pid=46410578",
+    "title": {
+      "en": "7.0-magnitude earthquake hits Baqing, Tibet; 16 dead as national response raised to level 3",
+      "zh_hant": "西藏那曲巴青縣7.0級地震 16死多傷 國家應急響應升至三級",
+      "zh_hans": "西藏那曲巴青县7.0级地震 16死多伤 国家应急响应升至三级"
+    },
+    "summary": {
+      "en": "A 7.0-magnitude earthquake struck Baqing County in Nagqu, Tibet at 10:33pm on October 22, at a depth of 10 kilometres. Preliminary figures as of the early hours of October 23 put the toll at 16 dead and dozens injured, with 339 households' homes collapsed. The Office of the State Council Earthquake Relief Headquarters and the Ministry of Emergency Management have raised the national earthquake disaster emergency response from level 4 to level 3 and dispatched a working group to the quake zone. Relief supplies allocated at central, regional, municipal and county levels have been arriving in the disaster area, while fire, police and Western Theatre Command forces rushed overnight to the epicentre.",
+      "zh_hant": "西藏那曲市巴青縣10月22日22時33分發生7.0級地震，震源深度10公里。截至23日凌晨初步統計，地震造成16人遇難、數十人受傷，339戶房屋倒塌。國務院抗震救災指揮部辦公室、應急管理部將國家地震災害應急響應由四級提升至三級，並派出工作組赴震區指導。截至23日清晨，中央、自治區、市、縣四級調配嘅救災物資已陸續運抵災區，包括板房、帳篷、棉被、取暖爐等；消防、公安、西部戰區等救援力量連夜趕赴震中核心區，國道317線那曲部分路段實施全封閉交通管制。",
+      "zh_hans": "西藏那曲市巴青县10月22日22时33分发生7.0级地震，震源深度10公里。截至23日凌晨初步统计，地震造成16人遇难、数十人受伤，339户房屋倒塌。国务院抗震救灾指挥部办公室、应急管理部将国家地震灾害应急响应由四级提升至三级，并派出工作组赴震区指导。截至23日清晨，中央、自治区、市、县四级调配的救灾物资已陆续运抵灾区，包括板房、帐篷、棉被、取暖炉等；消防、公安、西部战区等救援力量连夜赶赴震中核心区，国道317线那曲部分路段实施全封闭交通管制。"
+    },
+    "tags": {
+      "en": [
+        "Tibet earthquake",
+        "Baqing County",
+        "earthquake relief",
+        "emergency response"
+      ],
+      "zh_hant": [
+        "西藏地震",
+        "巴青縣",
+        "抗震救災",
+        "應急管理部"
+      ],
+      "zh_hans": [
+        "西藏地震",
+        "巴青县",
+        "抗震救灾",
+        "应急管理部"
+      ]
+    }
+  },
+  {
+    "id": "20261023-typhoon-champi-taiwan",
+    "category": "world",
+    "published_at": "2026-10-23T08:22:00+08:00",
+    "source": {
+      "name": "中央社（經工商時報）",
+      "url": "https://www.ctee.com.tw/news/20261023700324-431401"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Typhoon Champi nears Taiwan; Yilan mountains brace for torrential rain",
+      "zh_hant": "颱風薔琵逼近台灣 宜蘭山區慎防超大豪雨",
+      "zh_hans": "台风蔷琵逼近台湾 宜兰山区慎防超大豪雨"
+    },
+    "summary": {
+      "en": "Typhoon Champi is bearing down on Taiwan, with the Central Weather Administration maintaining sea and land typhoon warnings. At 6am today the storm's centre was about 330 kilometres east of Eluanbi, moving north-northwest then north at 20 slowing to 9 kilometres per hour, with a central pressure of 945 hectopascals and maximum sustained winds of 43 metres per second. Its storm circle has reached eastern Taiwan. The heaviest rain is expected from today through tomorrow morning, with heavy rain or worse in northern and northeastern mountain areas and possible isolated torrential rain in Yilan's mountains. Waves of about 10 metres have been observed in southeastern waters.",
+      "zh_hant": "中度颱風薔琵逼近台灣，中央氣象署持續發布海上陸上颱風警報。薔琵今晨6時中心位於鵝鑾鼻東方約330公里，以每小時20轉9公里速度向北北西轉北移動，中心氣壓945百帕，近中心最大風速每秒43公尺（14級風），暴風圈已接觸台灣東半部陸地。今日至明日清晨係降雨最明顯時段，北部、東北部山區或出現豪雨等級以上降雨，宜蘭山區慎防局部超大豪雨；東南部海面已觀測到約10公尺浪高。氣象署預計薔琵今晚深夜抵達東北部海面，明日清晨逐漸北上。",
+      "zh_hans": "中度台风蔷琵逼近台湾，中央气象署持续发布海上陆上台风警报。蔷琵今晨6时中心位于鹅銮鼻东方约330公里，以每小时20转9公里速度向北北西转北移动，中心气压945百帕，近中心最大风速每秒43公尺（14级风），暴风圈已接触台湾东半部陆地。今日至明日清晨是降雨最明显时段，北部、东北部山区或出现豪雨等级以上降雨，宜兰山区慎防局部超大豪雨；东南部海面已观测到约10公尺浪高。气象署预计蔷琵今晚深夜抵达东北部海面，明日清晨逐渐北上。"
+    },
+    "tags": {
+      "en": [
+        "Typhoon Champi",
+        "Taiwan weather",
+        "heavy rain",
+        "Central Weather Administration"
+      ],
+      "zh_hant": [
+        "颱風薔琵",
+        "台灣天氣",
+        "豪雨特報",
+        "中央氣象署"
+      ],
+      "zh_hans": [
+        "台风蔷琵",
+        "台湾天气",
+        "豪雨特报",
+        "中央气象署"
+      ]
+    }
+  },
+  {
+    "id": "20261023-chinalco-treasury-centre-hk",
+    "category": "finance",
+    "published_at": "2026-10-23T07:00:00+08:00",
+    "source": {
+      "name": "政府新聞處新聞公報",
+      "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102100715.htm"
+    },
+    "image_url": "https://gia.info.gov.hk/general/202610/23/P2026102100715_photo_1341649.jpg",
+    "title": {
+      "en": "Chinalco sets up corporate treasury centre in Hong Kong",
+      "zh_hant": "中鋁在港設立企業財資中心 作集團境外資金管理平台",
+      "zh_hans": "中铝在港设立企业财资中心 作集团境外资金管理平台"
+    },
+    "summary": {
+      "en": "Invest Hong Kong announced on October 23 that Aluminum Corporation of China (Chinalco) has set up Chinalco Treasury Management Limited in Hong Kong as its offshore fund management platform, centralising overseas fund management and handling offshore financing, foreign exchange and interest rate risk management. InvestHK Director-General Alpha Lau said Hong Kong, as the world's largest offshore renminbi hub, offers cross-border renminbi settlement, multi-currency treasury management and risk hedging capabilities. Chinalco chief financial officer Wang Xin said the platform will help the group manage its global funds in an integrated way and improve capital efficiency as its overseas business expands.",
+      "zh_hant": "投資推廣署10月23日宣布，中國鋁業集團（中鋁）已在港設立「中鋁集團財資管理有限公司」，作為集團境外資金管理平台，集中管理境外資金，並處理境外融資、匯率及利率風險管理。投資推廣署署長劉凱旋表示，香港作為全球最大離岸人民幣樞紐，可提供跨境人民幣結算、多幣種資金管理及風險對沖能力。中鋁財務總監王欣表示，隨集團海外業務擴大，需要高效平台統籌境外資金管理，香港外匯市場規模全球第四，有助集團一體化管理全球資金，提升資金運營效率。",
+      "zh_hans": "投资推广署10月23日宣布，中国铝业集团（中铝）已在港设立「中铝集团财资管理有限公司」，作为集团境外资金管理平台，集中管理境外资金，并处理境外融资、汇率及利率风险管理。投资推广署署长刘凯旋表示，香港作为全球最大离岸人民币枢纽，可提供跨境人民币结算、多币种资金管理及风险对冲能力。中铝财务总监王欣表示，随集团海外业务扩大，需要高效平台统筹境外资金管理，香港外汇市场规模全球第四，有助集团一体化管理全球资金，提升资金运营效率。"
+    },
+    "tags": {
+      "en": [
+        "Chinalco",
+        "corporate treasury centre",
+        "InvestHK",
+        "offshore renminbi hub"
+      ],
+      "zh_hant": [
+        "中鋁",
+        "企業財資中心",
+        "投資推廣署",
+        "離岸人民幣樞紐"
+      ],
+      "zh_hans": [
+        "中铝",
+        "企业财资中心",
+        "投资推广署",
+        "离岸人民币枢纽"
+      ]
+    }
+  },
+  {
+    "id": "20261023-red-fire-danger-warning",
+    "category": "hk",
+    "published_at": "2026-10-23T06:01:00+08:00",
+    "source": {
+      "name": "政府新聞處新聞公報",
+      "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300119.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Red fire danger warning in force",
+      "zh_hant": "紅色火災危險警告生效",
+      "zh_hans": "红色火灾危险警告生效"
+    },
+    "summary": {
+      "en": "The Hong Kong Observatory issued the red fire danger warning at 6:01am on October 23. The fire danger situation is rated red, meaning the danger is extreme, and hillsides and the countryside are at very high risk of hill fires. Members of the public planning to go to the countryside are advised to bring cooked food for picnics and to take all measures to prevent hill fires. Lighting fires illegally in the countryside carries a maximum penalty of a HK$25,000 fine and one year's imprisonment.",
+      "zh_hant": "天文台今日（10月23日）早上6時01分發出紅色火災危險警告，火災危險情況屬紅色，火險極高，郊區極易發生山火。呼籲計劃到郊區的市民帶備已煮熟食物野餐，並採取一切措施防止山火。在郊區非法燃點山火，罰款25,000元及監禁一年。",
+      "zh_hans": "天文台今日（10月23日）早上6时01分发出红色火灾危险警告，火灾危险情况属红色，火险极高，郊区极易发生山火。呼吁计划到郊区的市民带备已煮熟食物野餐，并采取一切措施防止山火。在郊区非法燃点山火，罚款25,000元及监禁一年。"
+    },
+    "tags": {
+      "en": [
+        "fire danger warning",
+        "Hong Kong Observatory"
+      ],
+      "zh_hant": [
+        "火災危險警告",
+        "天文台"
+      ],
+      "zh_hans": [
+        "火灾危险警告",
+        "天文台"
+      ]
+    }
+  },
+  {
+    "id": "20261023-xiongan-global-governance-forum",
+    "category": "china",
+    "published_at": "2026-10-21T15:00:00+08:00",
+    "source": {
+      "name": "外交部",
+      "url": "https://www.fmprc.gov.cn/mfa_eng/xw/wsrc/202610/t20261021_12044253.html"
+    },
+    "image_url": "https://cdnpdcontent.aikan.pdnews.cn/pdbj-20261016/image/content/c53d9b55d0644a4984b696bca32d47f0.jpeg?v=76",
+    "title": {
+      "en": "Global Governance Forum opens in Xiong'an; Wang Yi to deliver keynote",
+      "zh_hant": "全球治理論壇今日雄安開幕 王毅發表主旨演講",
+      "zh_hans": "全球治理论坛今日雄安开幕 王毅发表主旨演讲"
+    },
+    "summary": {
+      "en": "The 2026 Global Governance Forum (Xiong'an) opens today (October 23) and runs for three days in Xiong'an New Area, Hebei, under the theme of rebuilding confidence and cooperation amid global governance reform. Hosted by the Chinese People's Institute of Foreign Affairs, the forum is expected to draw confirmed representatives from politics, academia, business, media and youth sectors from nearly 100 countries, covering UN reform, climate change, artificial intelligence and multilateral trade. China's foreign ministry announced on October 21 that Politburo member and foreign minister Wang Yi will attend today's opening ceremony and deliver the keynote speech.",
+      "zh_hant": "「2026全球治理論壇（雄安）」今日起一連三日（10月23至25日）在河北雄安新區舉行，主題圍繞重建信心與合作、變革世界中的全球治理改革與完善。論壇由中國人民外交學會主辦，主辦方表示已有來自近100個國家的政界、學界、商界、媒體及青年代表確認出席，議題涵蓋聯合國改革、氣候變化、人工智能及多邊貿易。外交部10月21日宣布，中共中央政治局委員、外交部長王毅將出席今日開幕式並發表主旨演講。",
+      "zh_hans": "「2026全球治理论坛（雄安）」今日起一连三日（10月23至25日）在河北雄安新区举行，主题围绕重建信心与合作、变革世界中的全球治理改革与完善。论坛由中国人民外交学会主办，主办方表示已有来自近100个国家的政界、学界、商界、媒体及青年代表确认出席，议题涵盖联合国改革、气候变化、人工智能及多边贸易。外交部10月21日宣布，中共中央政治局委员、外交部长王毅将出席今日开幕式并发表主旨演讲。"
+    },
+    "tags": {
+      "en": [
+        "Global Governance Forum",
+        "Xiong'an",
+        "Wang Yi",
+        "CPIFA"
+      ],
+      "zh_hant": [
+        "全球治理論壇",
+        "雄安",
+        "王毅",
+        "中國人民外交學會"
+      ],
+      "zh_hans": [
+        "全球治理论坛",
+        "雄安",
+        "王毅",
+        "中国人民外交学会"
+      ]
+    }
+  },
+  {
+    "id": "20261022-anthropic-ipo-stands-alone",
+    "category": "tech",
+    "published_at": "2026-10-22T21:05:58+08:00",
+    "source": {
+      "name": "Reuters",
+      "url": "https://wncy.com/2026/10/22/analysis-anthropic-ipo-stands-alone-as-ai-market-jitters-sideline-others/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Anthropic IPO stands alone as AI market jitters sideline others",
+      "zh_hant": "AI 市場動盪拖累同業押後上市 Anthropic 堅持下月 IPO",
+      "zh_hans": "AI 市场动荡拖累同业押后上市 Anthropic 坚持下月 IPO"
+    },
+    "summary": {
+      "en": "A Reuters analysis on October 22 says Anthropic is the only tech firm still pressing ahead with its fall IPO schedule, planning to go public in mid-November after making its prospectus public as early as late October, with institutional marketing expected in the week of November 9. Other AI infrastructure and data-centre companies have delayed their listings amid rising interest rates, a selloff in AI operators such as CoreWeave, and questions about the sustainability of AI capital spending. The analysis notes that other issuers are reluctant to compete with Anthropic for institutional investors' attention and capital, viewing the firm as one of the few exposures long-term investors cannot ignore.",
+      "zh_hant": "路透10月22日分析指，秋季科技IPO檔期只剩Anthropic一家按計劃推進，預計最快10月底公開招股書，11月9日當周開始向機構投資者路演，11月中旬上市，市場憧憬估值或達1.5萬億美元。其他AI基建及數據中心公司紛紛押後上市，面對利率上升、CoreWeave等AI運營商股債遭拋售，以及市場質疑AI資本開支可持續性，令估值受壓。分析指其他發行人都不想與Anthropic爭機構投資者注意力及資金，不少長線投資者仍看好Anthropic前景。",
+      "zh_hans": "路透10月22日分析指，秋季科技IPO档期只剩Anthropic一家按计划推进，预计最快10月底公开招股书，11月9日当周开始向机构投资者路演，11月中旬上市，市场憧憬估值或达1.5万亿美元。其他AI基建及数据中心公司纷纷押后上市，面对利率上升、CoreWeave等AI运营商股债遭抛售，以及市场质疑AI资本开支可持续性，令估值受压。分析指其他发行人都不想与Anthropic争机构投资者注意力及资金，不少长线投资者仍看好Anthropic前景。"
+    },
+    "tags": {
+      "en": [
+        "Anthropic",
+        "IPO",
+        "AI infrastructure"
+      ],
+      "zh_hant": [
+        "Anthropic",
+        "首次公開招股",
+        "AI 基建"
+      ],
+      "zh_hans": [
+        "Anthropic",
+        "首次公开招股",
+        "AI 基建"
+      ]
+    }
+  },
+  {
+    "id": "20261023-hksar-condemns-uk-six-monthly-report",
+    "category": "hk",
+    "published_at": "2026-10-23T01:28:00+08:00",
+    "source": {
+      "name": "政府新聞處新聞公報",
+      "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300030.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "HKSAR government condemns UK's six-monthly report on Hong Kong",
+      "zh_hant": "特區政府強烈譴責英國所謂《香港半年報告》",
+      "zh_hans": "特区政府强烈谴责英国所谓《香港半年报告》"
+    },
+    "summary": {
+      "en": "The Hong Kong SAR government on October 23 strongly condemned and firmly rejected the United Kingdom's so-called 'Six-monthly Report on Hong Kong: January to June 2026', accusing it of untruthful remarks, slander and smears against the city. A spokesman stressed that the core of the Sino-British Joint Declaration is China's resumption of sovereignty over Hong Kong, and that Britain has no sovereignty, jurisdiction or right of supervision over the city after its return, urging London to stop long-arm jurisdiction at once. The statement rebutted allegations on national security laws, press freedom and the case of Lai Chee-ying — noting the court's 855-page reasons for verdict — and pointed out that Britain itself has at least 14 national security laws and arrested nearly 4,000 people under national security and counter-terrorism laws as of June 2026.",
+      "zh_hant": "特區政府10月23日發表聲明，強烈譴責並堅決反駁英國發表的所謂《香港半年報告：2026年1月至6月》，批評報告對香港作出不實言論、污衊和抹黑。發言人強調《中英聯合聲明》的核心是中國恢復對香港行使主權，英國在香港回歸後對港並無主權、治權和監督權，促請英方立即停止長臂管轄。聲明逐點回應有關國安法例、新聞自由及黎智英案的指控，指出法庭就黎智英案頒下855頁判詞理由；又反指英國自身至少有14部國安法律，截至2026年6月按國安及反恐法例拘捕近4,000人，斥責英方雙重標準。",
+      "zh_hans": "特区政府10月23日发表声明，强烈谴责并坚决反驳英国发表的所谓《香港半年报告：2026年1月至6月》，批评报告对香港作出不实言论、污蔑和抹黑。发言人强调《中英联合声明》的核心是中国恢复对香港行使主权，英国在香港回归后对港并无主权、治权和监督权，促请英方立即停止长臂管辖。声明逐点回应有关国安法例、新闻自由及黎智英案的指控，指出法庭就黎智英案颁下855页判词理由；又反指英国自身至少有14部国安法律，截至2026年6月按国安及反恐法例拘捕近4,000人，斥责英方双重标准。"
+    },
+    "tags": {
+      "en": [
+        "UK six-monthly report",
+        "HKSAR government",
+        "Sino-British Joint Declaration",
+        "national security",
+        "Lai Chee-ying case"
+      ],
+      "zh_hant": [
+        "英國半年報告",
+        "特區政府",
+        "中英聯合聲明",
+        "國安法",
+        "黎智英案"
+      ],
+      "zh_hans": [
+        "英国半年报告",
+        "特区政府",
+        "中英联合声明",
+        "国安法",
+        "黎智英案"
+      ]
+    }
+  },
+  {
+    "id": "20261023-chung-ying-st-customs-illicit-cigarettes",
+    "category": "hk",
+    "published_at": "2026-10-23T03:01:00+08:00",
+    "source": {
+      "name": "天神日報",
+      "url": "https://timsondaily.com/article/sha-tau-kok-chung-ying-st-illicit-cigs-counterfeit-46m-20261023"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Customs seizes HK$4.6 million of illicit cigarettes and counterfeit goods in Chung Ying Street raid",
+      "zh_hant": "海關中英街搗私煙冒牌貨倉　檢值460萬拘一女店員",
+      "zh_hans": "海关中英街捣私烟冒牌货仓　检值460万拘一女店员"
+    },
+    "summary": {
+      "en": "Hong Kong Customs on October 22 mounted a special operation in Chung Ying Street, Sha Tau Kok, seizing about 720,000 suspected illicit cigarettes and around 2,700 suspected counterfeit goods with an estimated market value of about HK$4.6 million. Officers found a retail shop selling suspected illicit cigarettes and uncovered the haul in the shop and three adjoining rooms, including suspected counterfeit perfume, beauty products, belts and handbags. The duty potential of the cigarettes was about HK$2.4 million. A 50-year-old local saleswoman was arrested and investigations are continuing, with further arrests not ruled out.",
+      "zh_hant": "香港海關10月22日在沙頭角中英街採取特別執法行動，檢獲約72萬支懷疑私煙及約2,700件懷疑冒牌物品，估計市值共約460萬元。關員發現一間零售店舖售賣懷疑私煙，入內調查後在店內及其三個相連房間檢獲上述物品，包括懷疑冒牌香水、美容產品、皮帶及手袋；懷疑私煙應課稅值約240萬元。海關拘捕一名50歲本地女售貨員，案件仍在調查，不排除有更多人被捕。",
+      "zh_hans": "香港海关10月22日在沙头角中英街采取特别执法行动，检获约72万支怀疑私烟及约2,700件怀疑冒牌物品，估计市值共约460万元。关员发现一间零售店铺售卖怀疑私烟，入内调查后在店内及其三个相连房间检获上述物品，包括怀疑冒牌香水、美容产品、皮带及手袋；怀疑私烟应课税值约240万元。海关拘捕一名50岁本地女售货员，案件仍在调查，不排除有更多人被捕。"
+    },
+    "tags": {
+      "en": [
+        "Chung Ying Street",
+        "illicit cigarettes",
+        "counterfeit goods",
+        "Hong Kong Customs",
+        "Sha Tau Kok"
+      ],
+      "zh_hant": [
+        "中英街",
+        "私煙",
+        "冒牌貨",
+        "香港海關",
+        "沙頭角"
+      ],
+      "zh_hans": [
+        "中英街",
+        "私烟",
+        "冒牌货",
+        "香港海关",
+        "沙头角"
+      ]
+    }
+  },
+  {
+    "id": "20261022-oilex-hns-marine-pollution-exercise",
+    "category": "hk",
+    "published_at": "2026-10-22T15:55:00+08:00",
+    "source": {
+      "name": "政府新聞處新聞公報",
+      "url": "https://www.info.gov.hk/gia/general/202610/22/P2026102200473.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Marine departments stage Oilex and HNS pollution response drills off Lamma Island",
+      "zh_hant": "海事處環保署南丫島海面舉行海上污染應變演習",
+      "zh_hans": "海事处环保署南丫岛海面举行海上污染应变演习"
+    },
+    "summary": {
+      "en": "Government departments on the morning of October 22 staged the annual marine pollution joint response exercises, codenamed 'Oilex 2026' and 'HNS 2026', in the waters off Mo Tat Wan on Lamma Island. The scenario involved an oil tanker colliding with a container vessel, spilling fuel oil, with five containers of Maleic anhydride falling overboard. An oil pollution combat team deployed floating barrier booms around the tanker, while pollution control vessels and a Government Flying Service helicopter sprayed dispersant and oil skimmers were put to work; a shoreline cleaning team drilled at the non-gazetted beach of Mo Tat Wan. The Fire Services Department and other units handled the hazardous containers. The exercises were coordinated by the Marine Department and the Environmental Protection Department, with the Police, the Government Laboratory, the Civil Aid Service and oil companies taking part.",
+      "zh_hant": "多個政府部門10月22日早上在南丫島模達灣對開海面，舉行年度海上污染聯合應變演習「Oilex 2026」及「HNS 2026」。演習假設一艘油輪與貨櫃船相撞，燃油洩漏，另有五個載有順丁烯二酸酐的貨櫃墮海。油污戰鬥隊在油輪四周佈放圍油欄，污染控制船隻及政府飛行服務隊直升機噴灑化油劑，並出動吸油機；岸線清潔隊在模達灣非刊憲泳灘演練清理工作。消防處等單位負責處理危險品貨櫃。演習由海事處及環境保護署統籌，警隊、政府化驗所、民安隊及多間油公司亦有參與。",
+      "zh_hans": "多个政府部门10月22日早上在南丫岛模达湾对开海面，举行年度海上污染联合应变演习「Oilex 2026」及「HNS 2026」。演习假设一艘油轮与货柜船相撞，燃油泄漏，另有五个载有顺丁烯二酸酐的货柜堕海。油污战斗队在油轮四周布放围油栏，污染控制船只及政府飞行服务队直升机喷洒化油剂，并出动吸油机；岸线清洁队在模达湾非刊宪泳滩演练清理工作。消防处等单位负责处理危险品货柜。演习由海事处及环境保护署统筹，警队、政府化验所、民安队及多间油公司亦有参与。"
+    },
+    "tags": {
+      "en": [
+        "Oilex 2026",
+        "marine pollution",
+        "emergency drill",
+        "Lamma Island",
+        "Marine Department"
+      ],
+      "zh_hant": [
+        "Oilex 2026",
+        "海上污染",
+        "應變演習",
+        "南丫島",
+        "海事處"
+      ],
+      "zh_hans": [
+        "Oilex 2026",
+        "海上污染",
+        "应变演习",
+        "南丫岛",
+        "海事处"
+      ]
+    }
+  },
+  {
+    "id": "20261022-cfs-malachite-green-bluefin-tuna",
+    "category": "society",
+    "published_at": "2026-10-22T20:00:00+08:00",
+    "source": {
+      "name": "政府新聞處新聞公報",
+      "url": "https://www.info.gov.hk/gia/general/202610/22/P2026102200579.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Food safety watchdog finds malachite green in bluefin tuna sample",
+      "zh_hant": "食安中心驗出藍鰭吞拿魚樣本含孔雀石綠",
+      "zh_hans": "食安中心验出蓝鳍吞拿鱼样本含孔雀石绿"
+    },
+    "summary": {
+      "en": "The Centre for Food Safety has detected malachite green at 1.74 parts per billion in a bluefin tuna sample taken at import level. Malachite green is an industrial dye once used to treat fish infections and has been banned for use in food animals in many countries. Hong Kong law prohibits any malachite green in food, with offenders liable to a HK$50,000 fine and six months' imprisonment. The CFS has notified the importer concerned and is tracing the source and distribution of the product as investigations continue.",
+      "zh_hant": "食物安全中心在入口層面抽驗一個藍鰭吞拿魚樣本，驗出含孔雀石綠，含量為十億分之1.74。孔雀石綠是一種工業染料，曾用作治療魚類感染，多國已禁止用於食用動物。本港法例不容許食物含有孔雀石綠，違者可被罰款5萬元及監禁6個月。食安中心已通知有關進口商，正追查有關產品的來源及分銷情況，調查仍然繼續。",
+      "zh_hans": "食物安全中心在入口层面抽验一个蓝鳍吞拿鱼样本，验出含孔雀石绿，含量为十亿分之1.74。孔雀石绿是一种工业染料，曾用作治疗鱼类感染，多国已禁止用于食用动物。本港法例不容许食物含有孔雀石绿，违者可被罚款5万元及监禁6个月。食安中心已通知有关进口商，正追查有关产品的来源及分销情况，调查仍然继续。"
+    },
+    "tags": {
+      "en": [
+        "malachite green",
+        "bluefin tuna",
+        "food safety",
+        "CFS",
+        "import inspection"
+      ],
+      "zh_hant": [
+        "孔雀石綠",
+        "藍鰭吞拿魚",
+        "食物安全",
+        "食安中心",
+        "入口檢驗"
+      ],
+      "zh_hans": [
+        "孔雀石绿",
+        "蓝鳍吞拿鱼",
+        "食物安全",
+        "食安中心",
+        "入口检验"
+      ]
+    }
+  },
+  {
+    "id": "20261022-japan-aquatic-products-radiation-test",
+    "category": "society",
+    "published_at": "2026-10-22T15:50:00+08:00",
+    "source": {
+      "name": "政府新聞處新聞公報",
+      "url": "https://www.info.gov.hk/gia/general/202610/22/P2026102200479.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "All 116 Japanese food samples pass radiation tests, government says",
+      "zh_hant": "116個日本進口食品樣本輻射檢測全數合格",
+      "zh_hans": "116个日本进口食品样本辐射检测全数合格"
+    },
+    "summary": {
+      "en": "All 116 samples of Japanese imported food tested between noon on October 21 and noon on October 22 passed radiation safety checks, the government announced. Following Japan's discharge of nuclear-contaminated water from Fukushima, the Director of Food and Environmental Hygiene issued a food safety order banning aquatic products, sea salt and seaweed from 10 prefectures — Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama. The Agriculture, Fisheries and Conservation Department also tested 50 samples of local catch, all satisfactory, and the Observatory found no abnormalities in stepped-up monitoring of local waters. Since August 24, 2023, a total of 269,461 Japanese import samples and 57,410 local catch samples have been tested, all passing.",
+      "zh_hant": "政府公布，10月21日中午至10月22日中午抽驗的116個日本進口食品樣本，輻射水平全部未超標準。因應日本排放福島核污染水，食物環境衞生署署長已發出食物安全命令，禁止10個都縣（東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野、埼玉）的水產、海鹽及海藻進口。漁農自然護理署亦抽驗50個本地漁獲樣本，全部合格；天文台加強本地水域監測，未發現異常。自2023年8月24日至今，當局累計抽驗日本進口食品269,461個樣本及本地漁獲57,410個樣本，全部合格。",
+      "zh_hans": "政府公布，10月21日中午至10月22日中午抽验的116个日本进口食品样本，辐射水平全部未超标准。因应日本排放福岛核污染水，食物环境卫生署署长已发出食物安全命令，禁止10个都县（东京、福岛、茨城、宫城、千叶、群马、栃木、新潟、长野、埼玉）的水产、海盐及海藻进口。渔农自然护理署亦抽验50个本地渔获样本，全部合格；天文台加强本地水域监测，未发现异常。自2023年8月24日至今，当局累计抽验日本进口食品269,461个样本及本地渔获57,410个样本，全部合格。"
+    },
+    "tags": {
+      "en": [
+        "Fukushima",
+        "radiation testing",
+        "Japanese imports",
+        "food safety",
+        "seafood"
+      ],
+      "zh_hant": [
+        "福島",
+        "輻射檢測",
+        "日本進口食品",
+        "食物安全",
+        "水產"
+      ],
+      "zh_hans": [
+        "福岛",
+        "辐射检测",
+        "日本进口食品",
+        "食物安全",
+        "水产"
+      ]
+    }
+  },
+  {
+    "id": "20261022-beaches-red-flags-wave-bay-closed",
+    "category": "hk",
+    "published_at": "2026-10-22T14:45:00+08:00",
+    "source": {
+      "name": "政府新聞處新聞公報",
+      "url": "https://www.info.gov.hk/gia/general/202610/22/P2026102200429.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Big Wave Bay Beach closed for shark net repairs as red flags fly over big waves",
+      "zh_hant": "大浪灣泳灘維修防鯊網暫封　多泳灘因大浪掛紅旗",
+      "zh_hans": "大浪湾泳滩维修防鲨网暂封　多泳滩因大浪挂红旗"
+    },
+    "summary": {
+      "en": "The Leisure and Cultural Services Department announced that Big Wave Bay Beach in Southern District, Hong Kong Island, is temporarily closed from October 22 until further notice for shark prevention net maintenance, and urged swimmers not to swim there. Earlier in the day, red flags were hoisted over Stanley Main Beach, Shek O Beach and Big Wave Bay Beach in Southern District, as well as Trio Beach, Hap Mun Bay Beach (Half Moon Bay), Silverstrand Beach and Clear Water Bay Second Beach in Sai Kung, due to big waves.",
+      "zh_hant": "康樂及文化事務署宣布，港島南區大浪灣泳灘由10月22日起暫時封閉，直至另行通告，以維修防鯊網，呼籲泳客切勿前往游泳。同日較早前，康文署因大浪，在港島南區赤柱正灘、石澳泳灘及大浪灣泳灘，以及西貢區三星灣泳灘、廈門灣泳灘（半月灣）、銀線灣泳灘及清水灣第二泳灘懸掛紅旗，呼籲泳客切勿游泳。",
+      "zh_hans": "康乐及文化事务署宣布，港岛南区大浪湾泳滩由10月22日起暂时封闭，直至另行通告，以维修防鲨网，呼吁泳客切勿前往游泳。同日较早前，康文署因大浪，在港岛南区赤柱正滩、石澳泳滩及大浪湾泳滩，以及西贡区三星湾泳滩、厦门湾泳滩（半月湾）、银线湾泳滩及清水湾第二泳滩悬挂红旗，呼吁泳客切勿游泳。"
+    },
+    "tags": {
+      "en": [
+        "Big Wave Bay",
+        "red flag",
+        "beach closure",
+        "shark net",
+        "LCSD"
+      ],
+      "zh_hant": [
+        "大浪灣",
+        "紅旗",
+        "泳灘封閉",
+        "防鯊網",
+        "康文署"
+      ],
+      "zh_hans": [
+        "大浪湾",
+        "红旗",
+        "泳滩封闭",
+        "防鲨网",
+        "康文署"
+      ]
+    }
+  },
+  {
+    "id": "20261022-xia-linmao-corruption-probe",
+    "category": "china",
+    "published_at": "2026-10-22T16:34:00+08:00",
+    "source": {
+      "name": "Caixin Global",
+      "url": "https://www.caixinglobal.com/2026-10-22/beijing-executive-vice-mayor-xia-linmao-falls-in-anticorruption-drive-102496096.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Beijing executive vice-mayor Xia Linmao placed under corruption probe",
+      "zh_hant": "北京市常務副市長夏林茂涉嚴重違紀違法受查",
+      "zh_hans": "北京市常务副市长夏林茂涉严重违纪违法受查"
+    },
+    "summary": {
+      "en": "China's top anti-graft bodies announced on October 22 that Xia Linmao, 56, a Standing Committee member of the Beijing municipal Communist Party committee and the city's executive vice-mayor, is under investigation for suspected serious violations of discipline and law. Xia, an alternate member of the 20th Communist Party Central Committee, oversees the municipal government's daily operations. Caixin reported he is the 56th centrally-administered cadre to come under investigation this year. The announcement comes just days before the 20th Central Committee's fifth plenary session opens on October 26.",
+      "zh_hant": "中央紀委國家監委10月22日宣布，北京市委常委、常務副市長夏林茂（56歲）涉嫌嚴重違紀違法，正接受紀律審查和監察調查。夏林茂是中共二十屆中央委員會候補委員，負責市政府日常運作。財新報道指，他是今年以來第56名被公開調查的中管幹部。通報時機正值中共二十屆五中全會10月26日召開前夕。",
+      "zh_hans": "中央纪委国家监委10月22日宣布，北京市委常委、常务副市长夏林茂（56岁）涉嫌严重违纪违法，正接受纪律审查和监察调查。夏林茂是中共二十届中央委员会候补委员，负责市政府日常运作。财新报道指，他是今年以来第56名被公开调查的中管干部。通报时机正值中共二十届五中全会10月26日召开前夕。"
+    },
+    "tags": {
+      "en": [
+        "Xia Linmao",
+        "corruption probe",
+        "Beijing",
+        "anti-graft",
+        "CCDI"
+      ],
+      "zh_hant": [
+        "夏林茂",
+        "反腐調查",
+        "北京",
+        "中紀委",
+        "中管幹部"
+      ],
+      "zh_hans": [
+        "夏林茂",
+        "反腐调查",
+        "北京",
+        "中纪委",
+        "中管干部"
+      ]
+    }
+  },
+  {
+    "id": "20261022-xi-long-march-90th-anniversary",
+    "category": "china",
+    "published_at": "2026-10-22T13:55:00+08:00",
+    "source": {
+      "name": "國務院港澳辦（新華社稿）",
+      "url": "https://www.hmo.gov.cn/2026/10/22/ARTI0BAMX77VyZPqSAklF5xl261022.shtml"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Xi hails Long March spirit at 90th anniversary ceremony in Beijing",
+      "zh_hant": "紀念紅軍長征勝利90周年大會北京舉行　習近平發表講話",
+      "zh_hans": "纪念红军长征胜利90周年大会北京举行　习近平发表讲话"
+    },
+    "summary": {
+      "en": "A ceremony marking the 90th anniversary of the victory of the Red Army's Long March was held at the Great Hall of the People in Beijing on the morning of October 22, with President Xi Jinping delivering a keynote speech. Xi said that 'only by remembering history can we open up the future', calling on the whole Party to carry forward the spirit of the Long March on the new Long March of the new era. All attendees stood in silent tribute to the martyrs of the Long March and the revolutionary struggle. Xi stressed that the Party's correct leadership and Mao Zedong's core position were key to victory. The 1934–1936 Long March crossed more than 10 provinces. About 3,000 people attended, including Li Qiang, Zhao Leji, Wang Huning, Cai Qi, Ding Xuexiang, Li Xi and Han Zheng.",
+      "zh_hant": "紀念中國工農紅軍長征勝利90周年大會10月22日上午在北京人民大會堂舉行，習近平出席並發表重要講話。習近平指出「只有銘記歷史，才能開創未來」，號召全黨大力弘揚偉大長征精神，走好新時代的長征路。全體與會者起立，為長征途中和革命鬥爭中犧牲的先烈默哀。習近平強調，黨的正確領導和毛澤東的核心地位是長征勝利的關鍵。1934年10月至1936年10月，紅軍長征轉戰10多個省。約3,000人出席大會，包括李強、趙樂際、王滬寧、蔡奇、丁薛祥、李希及韓正。",
+      "zh_hans": "纪念中国工农红军长征胜利90周年大会10月22日上午在北京人民大会堂举行，习近平出席并发表重要讲话。习近平指出「只有铭记历史，才能开创未来」，号召全党大力弘扬伟大长征精神，走好新时代的长征路。全体与会者起立，为长征途中和革命斗争中牺牲的先烈默哀。习近平强调，党的正确领导和毛泽东的核心地位是长征胜利的关键。1934年10月至1936年10月，红军长征转战10多个省。约3,000人出席大会，包括李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希及韩正。"
+    },
+    "tags": {
+      "en": [
+        "Long March",
+        "90th anniversary",
+        "Xi Jinping",
+        "Beijing",
+        "CPC"
+      ],
+      "zh_hant": [
+        "長征",
+        "90周年",
+        "習近平",
+        "北京",
+        "中共"
+      ],
+      "zh_hans": [
+        "长征",
+        "90周年",
+        "习近平",
+        "北京",
+        "中共"
+      ]
+    }
+  },
+  {
+    "id": "20261022-witkoff-calls-putin-humanitarian",
+    "category": "world",
+    "published_at": "2026-10-22T10:41:00+08:00",
+    "source": {
+      "name": "Times Now World",
+      "url": "https://www.timesnowworld.com/us-news/trump-envoy-calls-putin-quothumanitarianquot-sparks-backlash-article-156381885"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Trump envoy sparks backlash after calling Putin 'a humanitarian'",
+      "zh_hant": "美特使威特科夫讚普京「人道主義者」惹反彈",
+      "zh_hans": "美特使威特科夫赞普京「人道主义者」惹反弹"
+    },
+    "summary": {
+      "en": "US special envoy Steve Witkoff has sparked a political backlash after calling Russian President Vladimir Putin 'a humanitarian' during their meeting in St Petersburg, where he secured the release of American citizen Stephen Hubbard, detained in Ukraine for years. The Kremlin said Russia was ready in principle to return to Russia-US-Ukraine trilateral talks. Republican Senator Thom Tillis reacted on X with 'WTF, Steve?', while President Trump downplayed the remark and Vice-President JD Vance defended Witkoff, saying a diplomat's job is to get things done.",
+      "zh_hant": "美國特使威特科夫在聖彼得堡會晤俄羅斯總統普京期間，當面讚揚對方是「人道主義者」，言論惹起政壇反彈。是次會晤成功爭取釋放在烏克蘭被拘留多年的美國公民哈伯德；克里姆林宮表示，俄方原則上準備重返美俄烏三方談判。共和黨參議員蒂利斯在社交平台X貼文「WTF, Steve?」；特朗普淡化事件，副總統萬斯則為威特科夫辯護，稱「外交官的工作就是完成任務」。",
+      "zh_hans": "美国特使威特科夫在圣彼得堡会晤俄罗斯总统普京期间，当面赞扬对方是「人道主义者」，言论惹起政坛反弹。是次会晤成功争取释放在乌克兰被拘留多年的美国公民哈伯德；克里姆林宫表示，俄方原则上准备重返美俄乌三方谈判。共和党参议员蒂利斯在社交平台X贴文「WTF, Steve?」；特朗普淡化事件，副总统万斯则为威特科夫辩护，称「外交官的工作就是完成任务」。"
+    },
+    "tags": {
+      "en": [
+        "Steve Witkoff",
+        "Putin",
+        "Russia-Ukraine",
+        "US diplomacy",
+        "trilateral talks"
+      ],
+      "zh_hant": [
+        "威特科夫",
+        "普京",
+        "俄烏局勢",
+        "美國外交",
+        "三方談判"
+      ],
+      "zh_hans": [
+        "威特科夫",
+        "普京",
+        "俄乌局势",
+        "美国外交",
+        "三方谈判"
+      ]
+    }
+  },
+  {
+    "id": "20261022-tuen-mun-kmb-buses-collision",
+    "category": "society",
+    "published_at": "2026-10-22T13:34:00+08:00",
+    "source": {
+      "name": "香港都市報",
+      "url": "https://metrohk.com.hk/港聞/屯門雙層九巴相撞九人受傷-9a9b9f"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Nine hurt as two KMB double-deckers collide in Tuen Mun",
+      "zh_hant": "屯門兩部九巴相撞　九人受傷送院",
+      "zh_hans": "屯门两部九巴相撞　九人受伤送院"
+    },
+    "summary": {
+      "en": "Two KMB double-decker buses collided on Ming Kum Road near King Yip House of Shan King Estate in Tuen Mun at about 8:15am on October 22, leaving nine people injured. The injured — four men and five women, including the two bus drivers — all sustained minor injuries and were sent to Tuen Mun Hospital. Police are investigating the cause of the accident.",
+      "zh_hant": "10月22日早上約8時15分，兩部九巴雙層巴士在屯門鳴琴路近山景邨景業樓相撞，九人受傷。傷者包括四男五女，其中兩人為巴士車長，全部傷勢輕微，送往屯門醫院治理。警方正調查意外原因。",
+      "zh_hans": "10月22日早上约8时15分，两部九巴双层巴士在屯门鸣琴路近山景邨景业楼相撞，九人受伤。伤者包括四男五女，其中两人为巴士车长，全部伤势轻微，送往屯门医院治理。警方正调查意外原因。"
+    },
+    "tags": {
+      "en": [
+        "KMB",
+        "bus collision",
+        "Tuen Mun",
+        "traffic accident",
+        "Ming Kum Road"
+      ],
+      "zh_hant": [
+        "九巴",
+        "巴士相撞",
+        "屯門",
+        "交通意外",
+        "鳴琴路"
+      ],
+      "zh_hans": [
+        "九巴",
+        "巴士相撞",
+        "屯门",
+        "交通意外",
+        "鸣琴路"
+      ]
+    }
+  },
+  {
+    "id": "20261022-victoria-park-wild-boar",
+    "category": "society",
+    "published_at": "2026-10-22T10:34:00+08:00",
+    "source": {
+      "name": "香港都市報",
+      "url": "https://metrohk.com.hk/港聞/野豬闖入維園警員持盾戒備-642565"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Wild boar wanders into Victoria Park, startling morning exercisers",
+      "zh_hant": "野豬清晨闖維園踱步　警持盾戒備漁護署跟進",
+      "zh_hans": "野猪清晨闯维园踱步　警持盾戒备渔护署跟进"
+    },
+    "summary": {
+      "en": "A wild boar about one metre long wandered into Victoria Park in Causeway Bay at about 7:17am on October 22, startling morning exercisers. The boar strolled and basked in the sun near a small hill in the park before leaving in the direction of Tin Hau. Police officers arrived with shields, cordoned off the area and notified the Agriculture, Fisheries and Conservation Department to capture the animal. The department reminded the public not to feed wild animals.",
+      "zh_hant": "10月22日早上約7時17分，一頭約一米長的野豬闖入銅鑼灣維多利亞公園，在園內小山丘附近踱步曬太陽，嚇親晨運市民，其後向天后方向離去。警方持盾牌到場戒備並封鎖範圍，通知漁農自然護理署派員捕捉。漁護署呼籲市民切勿餵飼野生動物。",
+      "zh_hans": "10月22日早上约7时17分，一头约一米长的野猪闯入铜锣湾维多利亚公园，在园内小山丘附近踱步晒太阳，吓亲晨运市民，其后向天后方向离去。警方持盾牌到场戒备并封锁范围，通知渔农自然护理署派员捕捉。渔护署呼吁市民切勿喂饲野生动物。"
+    },
+    "tags": {
+      "en": [
+        "wild boar",
+        "Victoria Park",
+        "Causeway Bay",
+        "AFCD",
+        "wildlife"
+      ],
+      "zh_hant": [
+        "野豬",
+        "維多利亞公園",
+        "銅鑼灣",
+        "漁護署",
+        "野生動物"
+      ],
+      "zh_hans": [
+        "野猪",
+        "维多利亚公园",
+        "铜锣湾",
+        "渔护署",
+        "野生动物"
+      ]
+    }
+  },
+  {
+    "id": "20261022-jason-chan-canada-taxi-bag",
+    "category": "entertainment",
+    "published_at": "2026-10-22T16:31:00+08:00",
+    "source": {
+      "name": "明周娛樂",
+      "url": "https://www.mpweekly.com/entertainment/article/%e5%90%b3%e6%a5%ad%e5%9d%a4%e5%8a%a0%e5%9c%8b%e8%bf%94%e6%b8%af%e9%81%87%e5%a5%bd%e4%ba%ba%e5%a5%bd%e4%ba%8b%e3%80%80-%e7%b6%b2%e6%b0%91%e7%ac%91%e6%8c%87%ef%bc%9a%e9%a9%9a%e4%bd%a2%e9%80%a3%e6%84%9b"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Jason Chan's lost bag returned by kind-hearted taxi driver in Canada",
+      "zh_hant": "吳業坤加拿大漏低斜孭袋　好心的哥專程送回",
+      "zh_hans": "吴业坤加拿大漏低斜孭袋　好心的哥专程送回"
+    },
+    "summary": {
+      "en": "Singer Jason Chan has thanked a kind-hearted taxi driver in Canada who drove back specially to return a bag he left in the cab. Chan and fellow singer Cherie Kong had travelled to Canada for concerts, accompanied by Chan's wife Hamaguchi Aiko — October 20 was her 32nd birthday. When returning to Hong Kong on October 21, Chan left his black crossbody bag, containing his ID card, credit cards and passport, in a Canadian taxi. The driver returned it in person, and Chan shared the story on social media, with netizens joking he was lucky he didn't lose his wife too.",
+      "zh_hant": "吳業坤與譚嘉儀早前到加拿大登台開騷，太太濱口愛子同行，10月20日更是愛子32歲生日。兩人10月21日返港，坤哥在加拿大的士上漏低整個黑色斜孭袋，內有身份證、信用卡及護照，幸獲好心的哥專程駕車回來交還。坤哥在社交平台分享經歷，網民笑指「好彩冇連老婆都漏低」。",
+      "zh_hans": "吴业坤与谭嘉仪早前到加拿大登台开骚，太太滨口爱子同行，10月20日更是爱子32岁生日。两人10月21日返港，坤哥在加拿大的士上漏低整个黑色斜孭袋，内有身份证、信用卡及护照，幸获好心的哥专程驾车回来交还。坤哥在社交平台分享经历，网民笑指「好彩冇连老婆都漏低」。"
+    },
+    "tags": {
+      "en": [
+        "Jason Chan",
+        "Canada",
+        "taxi",
+        "entertainment",
+        "Hong Kong singer"
+      ],
+      "zh_hant": [
+        "吳業坤",
+        "加拿大",
+        "的士",
+        "娛樂",
+        "香港歌手"
+      ],
+      "zh_hans": [
+        "吴业坤",
+        "加拿大",
+        "的士",
+        "娱乐",
+        "香港歌手"
+      ]
+    }
   }
- },
- {
-  "id": "20261023-deepseek-100bn-funding",
-  "category": "tech",
-  "published_at": "2026-10-22T23:51:00+08:00",
-  "source": {
-   "name": "新浪科技",
-   "url": "https://finance.sina.cn/tech/2026-10-22/detail-iniwcnuz5158596.d.html?vt=4"
-  },
-  "image_url": "",
-  "title": {
-   "en": "DeepSeek said to close second funding round of about 100 billion yuan",
-   "zh_hant": "傳DeepSeek完成約千億元第二輪融資 騰訊寧德時代領投",
-   "zh_hans": "传DeepSeek完成约千亿元第二轮融资 腾讯宁德时代领投"
-  },
-  "summary": {
-   "en": "DeepSeek's second funding round is nearing completion, with the target raised from about 50 billion yuan to about 100 billion yuan and pre-money valuation held at about 500 billion yuan, according to media reports; Bloomberg reports the round has closed. The round is co-led by Tencent and CATL, with CATL set to add about 10 billion yuan on top of its first-round 5 billion yuan. New investors include Geely, China Fortune-Tech Capital's Zhongxin Juyuan, CPE and Legend Capital. DeepSeek's first external round closed at the end of June at about 51 billion yuan. If the second round lands, total fundraising within half a year would reach about 150 billion yuan. The company has hired CITIC Securities to prepare a STAR Market listing, aiming to file as early as the end of this year.",
-   "zh_hant": "據媒體報道，DeepSeek第二輪融資已臨近完成，金額由原計劃約500億元上調至約1,000億元人民幣，投前估值維持約5,000億元；彭博社引述消息指本輪融資已經完成。本輪由騰訊同寧德時代聯合領投，寧德時代擬再加碼約100億元，兩輪累計出資約150億元；新進投資方包括吉利、中芯聚源、君聯資本等。DeepSeek首輪外部融資今年6月底完成交割，規模約510億元。若本輪落地，半年內融資總額將達約1,500億元。公司已聘請中信證券籌備科創板上市，計劃最快今年底遞表、2027年掛牌。",
-   "zh_hans": "据媒体报道，DeepSeek第二轮融资已临近完成，金额由原计划约500亿元上调至约1,000亿元人民币，投前估值维持约5,000亿元；彭博社引述消息指本轮融资已经完成。本轮由腾讯和宁德时代联合领投，宁德时代拟再加码约100亿元，两轮累计出资约150亿元；新进投资方包括吉利、中芯聚源、君联资本等。DeepSeek首轮外部融资今年6月底完成交割，规模约510亿元。若本轮落地，半年内融资总额将达约1,500亿元。公司已聘请中信证券筹备科创板上市，计划最快今年底递表、2027年挂牌。"
-  },
-  "tags": {
-   "en": [
-    "DeepSeek",
-    "fundraising",
-    "artificial intelligence",
-    "Tencent",
-    "CATL"
-   ],
-   "zh_hant": [
-    "DeepSeek",
-    "融資",
-    "人工智能",
-    "騰訊",
-    "寧德時代"
-   ],
-   "zh_hans": [
-    "DeepSeek",
-    "融资",
-    "人工智能",
-    "腾讯",
-    "宁德时代"
-   ]
-  }
- },
- {
-  "id": "20261023-panel-judges-interception-ordinance",
-  "category": "hk",
-  "published_at": "2026-10-23T10:30:00+08:00",
-  "source": {
-   "name": "政府新聞處新聞公報",
-   "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102200569.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Government appoints panel judges under Interception of Communications and Surveillance Ordinance",
-   "zh_hant": "政府委任截取通訊及監察事務小組法官 潘兆童續任梁俊文新獲委任",
-   "zh_hans": "政府委任截取通讯及监察事务小组法官 潘兆童续任梁俊文新获委任"
-  },
-  "summary": {
-   "en": "The Chief Executive, on the recommendation of the Chief Justice of the Court of Final Appeal, has appointed two Judges of the Court of First Instance of the High Court as Panel Judges under the Interception of Communications and Surveillance Ordinance (Chapter 589). Mr Justice Poon Siu-tung is reappointed and Mr Justice Leung Chun-man is newly appointed, each for a three-year term from October 25, 2026 to October 24, 2029. Chief Executive John Lee praised Poon's dedication in handling law enforcement agencies' applications for interception authorisations during his past term, and said he is confident both judges will ensure the effective operation of the regulatory regime. Leung was called to the Bar in 1991, joined the Judiciary as a District Judge in 2007 and was appointed a Judge of the Court of First Instance in 2024.",
-   "zh_hant": "行政長官按終審法院首席法官推薦，委任兩名高等法院原訟法庭法官為《截取通訊及監察條例》（第589章）下嘅小組法官。潘兆童獲續任，梁俊文新獲委任，兩人任期均為2026年10月25日至2029年10月24日，為期三年。行政長官李家超讚揚潘兆童過去任期處理執法機關截取授權申請表現全心投入，有信心兩位法官會運用專業知識同經驗，確保條例下嘅規管機制有效運作。梁俊文1991年取得大律師資格，2007年加入司法機構任區域法院法官，2024年升任高等法院原訟法庭法官。",
-   "zh_hans": "行政长官按终审法院首席法官推荐，委任两名高等法院原讼法庭法官为《截取通讯及监察条例》（第589章）下的小组法官。潘兆童获续任，梁俊文新获委任，两人任期均为2026年10月25日至2029年10月24日，为期三年。行政长官李家超赞扬潘兆童过去任期处理执法机关截取授权申请表现全心投入，有信心两位法官会运用专业知识和经验，确保条例下的规管机制有效运作。梁俊文1991年取得大律师资格，2007年加入司法机构任区域法院法官，2024年升任高等法院原讼法庭法官。"
-  },
-  "tags": {
-   "en": [
-    "Interception of Communications and Surveillance Ordinance",
-    "Poon Siu-tung",
-    "Leung Chun-man",
-    "panel judges"
-   ],
-   "zh_hant": [
-    "截取通訊及監察條例",
-    "潘兆童",
-    "梁俊文",
-    "小組法官"
-   ],
-   "zh_hans": [
-    "截取通讯及监察条例",
-    "潘兆童",
-    "梁俊文",
-    "小组法官"
-   ]
-  }
- },
- {
-  "id": "20261023-prd-air-quality-2025-report",
-  "category": "hk",
-  "published_at": "2026-10-23T10:00:00+08:00",
-  "source": {
-   "name": "政府新聞處新聞公報",
-   "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102200350.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Guangdong-Hong Kong-Macao release 2025 Pearl River Delta air quality report",
-   "zh_hant": "粵港澳公布珠三角2025年空氣質素報告 污染物濃度20年降23%至86%",
-   "zh_hans": "粤港澳公布珠三角2025年空气质素报告 污染物浓度20年降23%至86%"
-  },
-  "summary": {
-   "en": "Guangdong, Hong Kong and Macao today jointly released the 2025 air quality report under the Pearl River Delta Regional Air Quality Monitoring Network. Concentrations of major air pollutants have trended down over the long term, falling 23 to 86 per cent compared with 20 years ago; fine suspended particulates dropped to an annual average of 19 micrograms per cubic metre, a leading level nationwide. As of end-September 2026, Hong Kong had about 185,600 electric vehicles, including about 180,300 electric private cars accounting for 27.6 per cent of all private cars, roughly six times the 2021 figure. Charging spaces exceeded 170,000, including around 18,090 public chargers. The government will cease new registrations of fuel-propelled private cars, including hybrids, in 2035 or earlier.",
-   "zh_hant": "粵港澳三地今日聯合公布2025年珠三角區域空氣監測網絡空氣質素報告。多種空氣污染物濃度呈長期下降趨勢，較20年前下降23%至86%，其中微細懸浮粒子年均濃度降至每立方米19微克，達全國領先水平。截至今年9月底，本港約有18.56萬輛電動車，包括約18.03萬輛電動私家車，佔私家車27.6%，為2021年約6倍；充電車位逾17萬個，公眾充電器約18,090個。港府將於2035年或之前停止新登記燃油私家車，包括混能車，並於2027年底前引入700輛電動巴士同3,000輛電動的士。",
-   "zh_hans": "粤港澳三地今日联合公布2025年珠三角区域空气监测网络空气质素报告。多种空气污染物浓度呈长期下降趋势，较20年前下降23%至86%，其中微细悬浮粒子年均浓度降至每立方米19微克，达全国领先水平。截至今年9月底，本港约有18.56万辆电动车，包括约18.03万辆电动私家车，占私家车27.6%，为2021年约6倍；充电车位逾17万个，公众充电器约18,090个。港府将于2035年或之前停止新登记燃油私家车，包括混能车，并于2027年底前引入700辆电动巴士和3,000辆电动的士。"
-  },
-  "tags": {
-   "en": [
-    "air quality",
-    "Pearl River Delta",
-    "electric vehicles",
-    "environment"
-   ],
-   "zh_hant": [
-    "空氣質素",
-    "珠三角",
-    "電動車",
-    "環境保護"
-   ],
-   "zh_hans": [
-    "空气质素",
-    "珠三角",
-    "电动车",
-    "环境保护"
-   ]
-  }
- },
- {
-  "id": "20261023-tibet-baqing-earthquake",
-  "category": "china",
-  "published_at": "2026-10-23T08:11:00+08:00",
-  "source": {
-   "name": "新華社（經華聲新聞）",
-   "url": "https://news.voc.com.cn/news/202610/34061973.html"
-  },
-  "image_url": "https://vod-hszx-xhncloud.voc.com.cn/214/2026/10/23/1bda321a1c7a7158c01663dc9988117cbd9c8f361792714245.jpg?pid=46410578",
-  "title": {
-   "en": "7.0-magnitude earthquake hits Baqing, Tibet; 16 dead as national response raised to level 3",
-   "zh_hant": "西藏那曲巴青縣7.0級地震 16死多傷 國家應急響應升至三級",
-   "zh_hans": "西藏那曲巴青县7.0级地震 16死多伤 国家应急响应升至三级"
-  },
-  "summary": {
-   "en": "A 7.0-magnitude earthquake struck Baqing County in Nagqu, Tibet at 10:33pm on October 22, at a depth of 10 kilometres. Preliminary figures as of the early hours of October 23 put the toll at 16 dead and dozens injured, with 339 households' homes collapsed. The Office of the State Council Earthquake Relief Headquarters and the Ministry of Emergency Management have raised the national earthquake disaster emergency response from level 4 to level 3 and dispatched a working group to the quake zone. Relief supplies allocated at central, regional, municipal and county levels have been arriving in the disaster area, while fire, police and Western Theatre Command forces rushed overnight to the epicentre.",
-   "zh_hant": "西藏那曲市巴青縣10月22日22時33分發生7.0級地震，震源深度10公里。截至23日凌晨初步統計，地震造成16人遇難、數十人受傷，339戶房屋倒塌。國務院抗震救災指揮部辦公室、應急管理部將國家地震災害應急響應由四級提升至三級，並派出工作組赴震區指導。截至23日清晨，中央、自治區、市、縣四級調配嘅救災物資已陸續運抵災區，包括板房、帳篷、棉被、取暖爐等；消防、公安、西部戰區等救援力量連夜趕赴震中核心區，國道317線那曲部分路段實施全封閉交通管制。",
-   "zh_hans": "西藏那曲市巴青县10月22日22时33分发生7.0级地震，震源深度10公里。截至23日凌晨初步统计，地震造成16人遇难、数十人受伤，339户房屋倒塌。国务院抗震救灾指挥部办公室、应急管理部将国家地震灾害应急响应由四级提升至三级，并派出工作组赴震区指导。截至23日清晨，中央、自治区、市、县四级调配的救灾物资已陆续运抵灾区，包括板房、帐篷、棉被、取暖炉等；消防、公安、西部战区等救援力量连夜赶赴震中核心区，国道317线那曲部分路段实施全封闭交通管制。"
-  },
-  "tags": {
-   "en": [
-    "Tibet earthquake",
-    "Baqing County",
-    "earthquake relief",
-    "emergency response"
-   ],
-   "zh_hant": [
-    "西藏地震",
-    "巴青縣",
-    "抗震救災",
-    "應急管理部"
-   ],
-   "zh_hans": [
-    "西藏地震",
-    "巴青县",
-    "抗震救灾",
-    "应急管理部"
-   ]
-  }
- },
- {
-  "id": "20261023-typhoon-champi-taiwan",
-  "category": "world",
-  "published_at": "2026-10-23T08:22:00+08:00",
-  "source": {
-   "name": "中央社（經工商時報）",
-   "url": "https://www.ctee.com.tw/news/20261023700324-431401"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Typhoon Champi nears Taiwan; Yilan mountains brace for torrential rain",
-   "zh_hant": "颱風薔琵逼近台灣 宜蘭山區慎防超大豪雨",
-   "zh_hans": "台风蔷琵逼近台湾 宜兰山区慎防超大豪雨"
-  },
-  "summary": {
-   "en": "Typhoon Champi is bearing down on Taiwan, with the Central Weather Administration maintaining sea and land typhoon warnings. At 6am today the storm's centre was about 330 kilometres east of Eluanbi, moving north-northwest then north at 20 slowing to 9 kilometres per hour, with a central pressure of 945 hectopascals and maximum sustained winds of 43 metres per second. Its storm circle has reached eastern Taiwan. The heaviest rain is expected from today through tomorrow morning, with heavy rain or worse in northern and northeastern mountain areas and possible isolated torrential rain in Yilan's mountains. Waves of about 10 metres have been observed in southeastern waters.",
-   "zh_hant": "中度颱風薔琵逼近台灣，中央氣象署持續發布海上陸上颱風警報。薔琵今晨6時中心位於鵝鑾鼻東方約330公里，以每小時20轉9公里速度向北北西轉北移動，中心氣壓945百帕，近中心最大風速每秒43公尺（14級風），暴風圈已接觸台灣東半部陸地。今日至明日清晨係降雨最明顯時段，北部、東北部山區或出現豪雨等級以上降雨，宜蘭山區慎防局部超大豪雨；東南部海面已觀測到約10公尺浪高。氣象署預計薔琵今晚深夜抵達東北部海面，明日清晨逐漸北上。",
-   "zh_hans": "中度台风蔷琵逼近台湾，中央气象署持续发布海上陆上台风警报。蔷琵今晨6时中心位于鹅銮鼻东方约330公里，以每小时20转9公里速度向北北西转北移动，中心气压945百帕，近中心最大风速每秒43公尺（14级风），暴风圈已接触台湾东半部陆地。今日至明日清晨是降雨最明显时段，北部、东北部山区或出现豪雨等级以上降雨，宜兰山区慎防局部超大豪雨；东南部海面已观测到约10公尺浪高。气象署预计蔷琵今晚深夜抵达东北部海面，明日清晨逐渐北上。"
-  },
-  "tags": {
-   "en": [
-    "Typhoon Champi",
-    "Taiwan weather",
-    "heavy rain",
-    "Central Weather Administration"
-   ],
-   "zh_hant": [
-    "颱風薔琵",
-    "台灣天氣",
-    "豪雨特報",
-    "中央氣象署"
-   ],
-   "zh_hans": [
-    "台风蔷琵",
-    "台湾天气",
-    "豪雨特报",
-    "中央气象署"
-   ]
-  }
- },
- {
-  "id": "20261023-chinalco-treasury-centre-hk",
-  "category": "finance",
-  "published_at": "2026-10-23T07:00:00+08:00",
-  "source": {
-   "name": "政府新聞處新聞公報",
-   "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102100715.htm"
-  },
-  "image_url": "https://gia.info.gov.hk/general/202610/23/P2026102100715_photo_1341649.jpg",
-  "title": {
-   "en": "Chinalco sets up corporate treasury centre in Hong Kong",
-   "zh_hant": "中鋁在港設立企業財資中心 作集團境外資金管理平台",
-   "zh_hans": "中铝在港设立企业财资中心 作集团境外资金管理平台"
-  },
-  "summary": {
-   "en": "Invest Hong Kong announced on October 23 that Aluminum Corporation of China (Chinalco) has set up Chinalco Treasury Management Limited in Hong Kong as its offshore fund management platform, centralising overseas fund management and handling offshore financing, foreign exchange and interest rate risk management. InvestHK Director-General Alpha Lau said Hong Kong, as the world's largest offshore renminbi hub, offers cross-border renminbi settlement, multi-currency treasury management and risk hedging capabilities. Chinalco chief financial officer Wang Xin said the platform will help the group manage its global funds in an integrated way and improve capital efficiency as its overseas business expands.",
-   "zh_hant": "投資推廣署10月23日宣布，中國鋁業集團（中鋁）已在港設立「中鋁集團財資管理有限公司」，作為集團境外資金管理平台，集中管理境外資金，並處理境外融資、匯率及利率風險管理。投資推廣署署長劉凱旋表示，香港作為全球最大離岸人民幣樞紐，可提供跨境人民幣結算、多幣種資金管理及風險對沖能力。中鋁財務總監王欣表示，隨集團海外業務擴大，需要高效平台統籌境外資金管理，香港外匯市場規模全球第四，有助集團一體化管理全球資金，提升資金運營效率。",
-   "zh_hans": "投资推广署10月23日宣布，中国铝业集团（中铝）已在港设立「中铝集团财资管理有限公司」，作为集团境外资金管理平台，集中管理境外资金，并处理境外融资、汇率及利率风险管理。投资推广署署长刘凯旋表示，香港作为全球最大离岸人民币枢纽，可提供跨境人民币结算、多币种资金管理及风险对冲能力。中铝财务总监王欣表示，随集团海外业务扩大，需要高效平台统筹境外资金管理，香港外汇市场规模全球第四，有助集团一体化管理全球资金，提升资金运营效率。"
-  },
-  "tags": {
-   "en": [
-    "Chinalco",
-    "corporate treasury centre",
-    "InvestHK",
-    "offshore renminbi hub"
-   ],
-   "zh_hant": [
-    "中鋁",
-    "企業財資中心",
-    "投資推廣署",
-    "離岸人民幣樞紐"
-   ],
-   "zh_hans": [
-    "中铝",
-    "企业财资中心",
-    "投资推广署",
-    "离岸人民币枢纽"
-   ]
-  }
- },
- {
-  "id": "20261023-red-fire-danger-warning",
-  "category": "hk",
-  "published_at": "2026-10-23T06:01:00+08:00",
-  "source": {
-   "name": "政府新聞處新聞公報",
-   "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300119.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Red fire danger warning in force",
-   "zh_hant": "紅色火災危險警告生效",
-   "zh_hans": "红色火灾危险警告生效"
-  },
-  "summary": {
-   "en": "The Hong Kong Observatory issued the red fire danger warning at 6:01am on October 23. The fire danger situation is rated red, meaning the danger is extreme, and hillsides and the countryside are at very high risk of hill fires. Members of the public planning to go to the countryside are advised to bring cooked food for picnics and to take all measures to prevent hill fires. Lighting fires illegally in the countryside carries a maximum penalty of a HK$25,000 fine and one year's imprisonment.",
-   "zh_hant": "天文台今日（10月23日）早上6時01分發出紅色火災危險警告，火災危險情況屬紅色，火險極高，郊區極易發生山火。呼籲計劃到郊區的市民帶備已煮熟食物野餐，並採取一切措施防止山火。在郊區非法燃點山火，罰款25,000元及監禁一年。",
-   "zh_hans": "天文台今日（10月23日）早上6时01分发出红色火灾危险警告，火灾危险情况属红色，火险极高，郊区极易发生山火。呼吁计划到郊区的市民带备已煮熟食物野餐，并采取一切措施防止山火。在郊区非法燃点山火，罚款25,000元及监禁一年。"
-  },
-  "tags": {
-   "en": [
-    "fire danger warning",
-    "Hong Kong Observatory"
-   ],
-   "zh_hant": [
-    "火災危險警告",
-    "天文台"
-   ],
-   "zh_hans": [
-    "火灾危险警告",
-    "天文台"
-   ]
-  }
- },
- {
-  "id": "20261023-xiongan-global-governance-forum",
-  "category": "china",
-  "published_at": "2026-10-21T15:00:00+08:00",
-  "source": {
-   "name": "外交部",
-   "url": "https://www.fmprc.gov.cn/mfa_eng/xw/wsrc/202610/t20261021_12044253.html"
-  },
-  "image_url": "https://cdnpdcontent.aikan.pdnews.cn/pdbj-20261016/image/content/c53d9b55d0644a4984b696bca32d47f0.jpeg?v=76",
-  "title": {
-   "en": "Global Governance Forum opens in Xiong'an; Wang Yi to deliver keynote",
-   "zh_hant": "全球治理論壇今日雄安開幕 王毅發表主旨演講",
-   "zh_hans": "全球治理论坛今日雄安开幕 王毅发表主旨演讲"
-  },
-  "summary": {
-   "en": "The 2026 Global Governance Forum (Xiong'an) opens today (October 23) and runs for three days in Xiong'an New Area, Hebei, under the theme of rebuilding confidence and cooperation amid global governance reform. Hosted by the Chinese People's Institute of Foreign Affairs, the forum is expected to draw confirmed representatives from politics, academia, business, media and youth sectors from nearly 100 countries, covering UN reform, climate change, artificial intelligence and multilateral trade. China's foreign ministry announced on October 21 that Politburo member and foreign minister Wang Yi will attend today's opening ceremony and deliver the keynote speech.",
-   "zh_hant": "「2026全球治理論壇（雄安）」今日起一連三日（10月23至25日）在河北雄安新區舉行，主題圍繞重建信心與合作、變革世界中的全球治理改革與完善。論壇由中國人民外交學會主辦，主辦方表示已有來自近100個國家的政界、學界、商界、媒體及青年代表確認出席，議題涵蓋聯合國改革、氣候變化、人工智能及多邊貿易。外交部10月21日宣布，中共中央政治局委員、外交部長王毅將出席今日開幕式並發表主旨演講。",
-   "zh_hans": "「2026全球治理论坛（雄安）」今日起一连三日（10月23至25日）在河北雄安新区举行，主题围绕重建信心与合作、变革世界中的全球治理改革与完善。论坛由中国人民外交学会主办，主办方表示已有来自近100个国家的政界、学界、商界、媒体及青年代表确认出席，议题涵盖联合国改革、气候变化、人工智能及多边贸易。外交部10月21日宣布，中共中央政治局委员、外交部长王毅将出席今日开幕式并发表主旨演讲。"
-  },
-  "tags": {
-   "en": [
-    "Global Governance Forum",
-    "Xiong'an",
-    "Wang Yi",
-    "CPIFA"
-   ],
-   "zh_hant": [
-    "全球治理論壇",
-    "雄安",
-    "王毅",
-    "中國人民外交學會"
-   ],
-   "zh_hans": [
-    "全球治理论坛",
-    "雄安",
-    "王毅",
-    "中国人民外交学会"
-   ]
-  }
- },
- {
-  "id": "20261022-anthropic-ipo-stands-alone",
-  "category": "tech",
-  "published_at": "2026-10-22T21:05:58+08:00",
-  "source": {
-   "name": "Reuters",
-   "url": "https://wncy.com/2026/10/22/analysis-anthropic-ipo-stands-alone-as-ai-market-jitters-sideline-others/"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Anthropic IPO stands alone as AI market jitters sideline others",
-   "zh_hant": "AI 市場動盪拖累同業押後上市 Anthropic 堅持下月 IPO",
-   "zh_hans": "AI 市场动荡拖累同业押后上市 Anthropic 坚持下月 IPO"
-  },
-  "summary": {
-   "en": "A Reuters analysis on October 22 says Anthropic is the only tech firm still pressing ahead with its fall IPO schedule, planning to go public in mid-November after making its prospectus public as early as late October, with institutional marketing expected in the week of November 9. Other AI infrastructure and data-centre companies have delayed their listings amid rising interest rates, a selloff in AI operators such as CoreWeave, and questions about the sustainability of AI capital spending. The analysis notes that other issuers are reluctant to compete with Anthropic for institutional investors' attention and capital, viewing the firm as one of the few exposures long-term investors cannot ignore.",
-   "zh_hant": "路透10月22日分析指，秋季科技IPO檔期只剩Anthropic一家按計劃推進，預計最快10月底公開招股書，11月9日當周開始向機構投資者路演，11月中旬上市，市場憧憬估值或達1.5萬億美元。其他AI基建及數據中心公司紛紛押後上市，面對利率上升、CoreWeave等AI運營商股債遭拋售，以及市場質疑AI資本開支可持續性，令估值受壓。分析指其他發行人都不想與Anthropic爭機構投資者注意力及資金，不少長線投資者仍看好Anthropic前景。",
-   "zh_hans": "路透10月22日分析指，秋季科技IPO档期只剩Anthropic一家按计划推进，预计最快10月底公开招股书，11月9日当周开始向机构投资者路演，11月中旬上市，市场憧憬估值或达1.5万亿美元。其他AI基建及数据中心公司纷纷押后上市，面对利率上升、CoreWeave等AI运营商股债遭抛售，以及市场质疑AI资本开支可持续性，令估值受压。分析指其他发行人都不想与Anthropic争机构投资者注意力及资金，不少长线投资者仍看好Anthropic前景。"
-  },
-  "tags": {
-   "en": [
-    "Anthropic",
-    "IPO",
-    "AI infrastructure"
-   ],
-   "zh_hant": [
-    "Anthropic",
-    "首次公開招股",
-    "AI 基建"
-   ],
-   "zh_hans": [
-    "Anthropic",
-    "首次公开招股",
-    "AI 基建"
-   ]
-  }
- },
- {
-  "id": "20261023-hksar-condemns-uk-six-monthly-report",
-  "category": "hk",
-  "published_at": "2026-10-23T01:28:00+08:00",
-  "source": {
-   "name": "政府新聞處新聞公報",
-   "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300030.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "HKSAR government condemns UK's six-monthly report on Hong Kong",
-   "zh_hant": "特區政府強烈譴責英國所謂《香港半年報告》",
-   "zh_hans": "特区政府强烈谴责英国所谓《香港半年报告》"
-  },
-  "summary": {
-   "en": "The Hong Kong SAR government on October 23 strongly condemned and firmly rejected the United Kingdom's so-called 'Six-monthly Report on Hong Kong: January to June 2026', accusing it of untruthful remarks, slander and smears against the city. A spokesman stressed that the core of the Sino-British Joint Declaration is China's resumption of sovereignty over Hong Kong, and that Britain has no sovereignty, jurisdiction or right of supervision over the city after its return, urging London to stop long-arm jurisdiction at once. The statement rebutted allegations on national security laws, press freedom and the case of Lai Chee-ying — noting the court's 855-page reasons for verdict — and pointed out that Britain itself has at least 14 national security laws and arrested nearly 4,000 people under national security and counter-terrorism laws as of June 2026.",
-   "zh_hant": "特區政府10月23日發表聲明，強烈譴責並堅決反駁英國發表的所謂《香港半年報告：2026年1月至6月》，批評報告對香港作出不實言論、污衊和抹黑。發言人強調《中英聯合聲明》的核心是中國恢復對香港行使主權，英國在香港回歸後對港並無主權、治權和監督權，促請英方立即停止長臂管轄。聲明逐點回應有關國安法例、新聞自由及黎智英案的指控，指出法庭就黎智英案頒下855頁判詞理由；又反指英國自身至少有14部國安法律，截至2026年6月按國安及反恐法例拘捕近4,000人，斥責英方雙重標準。",
-   "zh_hans": "特区政府10月23日发表声明，强烈谴责并坚决反驳英国发表的所谓《香港半年报告：2026年1月至6月》，批评报告对香港作出不实言论、污蔑和抹黑。发言人强调《中英联合声明》的核心是中国恢复对香港行使主权，英国在香港回归后对港并无主权、治权和监督权，促请英方立即停止长臂管辖。声明逐点回应有关国安法例、新闻自由及黎智英案的指控，指出法庭就黎智英案颁下855页判词理由；又反指英国自身至少有14部国安法律，截至2026年6月按国安及反恐法例拘捕近4,000人，斥责英方双重标准。"
-  },
-  "tags": {
-   "en": [
-    "UK six-monthly report",
-    "HKSAR government",
-    "Sino-British Joint Declaration",
-    "national security",
-    "Lai Chee-ying case"
-   ],
-   "zh_hant": [
-    "英國半年報告",
-    "特區政府",
-    "中英聯合聲明",
-    "國安法",
-    "黎智英案"
-   ],
-   "zh_hans": [
-    "英国半年报告",
-    "特区政府",
-    "中英联合声明",
-    "国安法",
-    "黎智英案"
-   ]
-  }
- },
- {
-  "id": "20261023-chung-ying-st-customs-illicit-cigarettes",
-  "category": "hk",
-  "published_at": "2026-10-23T03:01:00+08:00",
-  "source": {
-   "name": "天神日報",
-   "url": "https://timsondaily.com/article/sha-tau-kok-chung-ying-st-illicit-cigs-counterfeit-46m-20261023"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Customs seizes HK$4.6 million of illicit cigarettes and counterfeit goods in Chung Ying Street raid",
-   "zh_hant": "海關中英街搗私煙冒牌貨倉　檢值460萬拘一女店員",
-   "zh_hans": "海关中英街捣私烟冒牌货仓　检值460万拘一女店员"
-  },
-  "summary": {
-   "en": "Hong Kong Customs on October 22 mounted a special operation in Chung Ying Street, Sha Tau Kok, seizing about 720,000 suspected illicit cigarettes and around 2,700 suspected counterfeit goods with an estimated market value of about HK$4.6 million. Officers found a retail shop selling suspected illicit cigarettes and uncovered the haul in the shop and three adjoining rooms, including suspected counterfeit perfume, beauty products, belts and handbags. The duty potential of the cigarettes was about HK$2.4 million. A 50-year-old local saleswoman was arrested and investigations are continuing, with further arrests not ruled out.",
-   "zh_hant": "香港海關10月22日在沙頭角中英街採取特別執法行動，檢獲約72萬支懷疑私煙及約2,700件懷疑冒牌物品，估計市值共約460萬元。關員發現一間零售店舖售賣懷疑私煙，入內調查後在店內及其三個相連房間檢獲上述物品，包括懷疑冒牌香水、美容產品、皮帶及手袋；懷疑私煙應課稅值約240萬元。海關拘捕一名50歲本地女售貨員，案件仍在調查，不排除有更多人被捕。",
-   "zh_hans": "香港海关10月22日在沙头角中英街采取特别执法行动，检获约72万支怀疑私烟及约2,700件怀疑冒牌物品，估计市值共约460万元。关员发现一间零售店铺售卖怀疑私烟，入内调查后在店内及其三个相连房间检获上述物品，包括怀疑冒牌香水、美容产品、皮带及手袋；怀疑私烟应课税值约240万元。海关拘捕一名50岁本地女售货员，案件仍在调查，不排除有更多人被捕。"
-  },
-  "tags": {
-   "en": [
-    "Chung Ying Street",
-    "illicit cigarettes",
-    "counterfeit goods",
-    "Hong Kong Customs",
-    "Sha Tau Kok"
-   ],
-   "zh_hant": [
-    "中英街",
-    "私煙",
-    "冒牌貨",
-    "香港海關",
-    "沙頭角"
-   ],
-   "zh_hans": [
-    "中英街",
-    "私烟",
-    "冒牌货",
-    "香港海关",
-    "沙头角"
-   ]
-  }
- },
- {
-  "id": "20261022-oilex-hns-marine-pollution-exercise",
-  "category": "hk",
-  "published_at": "2026-10-22T15:55:00+08:00",
-  "source": {
-   "name": "政府新聞處新聞公報",
-   "url": "https://www.info.gov.hk/gia/general/202610/22/P2026102200473.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Marine departments stage Oilex and HNS pollution response drills off Lamma Island",
-   "zh_hant": "海事處環保署南丫島海面舉行海上污染應變演習",
-   "zh_hans": "海事处环保署南丫岛海面举行海上污染应变演习"
-  },
-  "summary": {
-   "en": "Government departments on the morning of October 22 staged the annual marine pollution joint response exercises, codenamed 'Oilex 2026' and 'HNS 2026', in the waters off Mo Tat Wan on Lamma Island. The scenario involved an oil tanker colliding with a container vessel, spilling fuel oil, with five containers of Maleic anhydride falling overboard. An oil pollution combat team deployed floating barrier booms around the tanker, while pollution control vessels and a Government Flying Service helicopter sprayed dispersant and oil skimmers were put to work; a shoreline cleaning team drilled at the non-gazetted beach of Mo Tat Wan. The Fire Services Department and other units handled the hazardous containers. The exercises were coordinated by the Marine Department and the Environmental Protection Department, with the Police, the Government Laboratory, the Civil Aid Service and oil companies taking part.",
-   "zh_hant": "多個政府部門10月22日早上在南丫島模達灣對開海面，舉行年度海上污染聯合應變演習「Oilex 2026」及「HNS 2026」。演習假設一艘油輪與貨櫃船相撞，燃油洩漏，另有五個載有順丁烯二酸酐的貨櫃墮海。油污戰鬥隊在油輪四周佈放圍油欄，污染控制船隻及政府飛行服務隊直升機噴灑化油劑，並出動吸油機；岸線清潔隊在模達灣非刊憲泳灘演練清理工作。消防處等單位負責處理危險品貨櫃。演習由海事處及環境保護署統籌，警隊、政府化驗所、民安隊及多間油公司亦有參與。",
-   "zh_hans": "多个政府部门10月22日早上在南丫岛模达湾对开海面，举行年度海上污染联合应变演习「Oilex 2026」及「HNS 2026」。演习假设一艘油轮与货柜船相撞，燃油泄漏，另有五个载有顺丁烯二酸酐的货柜堕海。油污战斗队在油轮四周布放围油栏，污染控制船只及政府飞行服务队直升机喷洒化油剂，并出动吸油机；岸线清洁队在模达湾非刊宪泳滩演练清理工作。消防处等单位负责处理危险品货柜。演习由海事处及环境保护署统筹，警队、政府化验所、民安队及多间油公司亦有参与。"
-  },
-  "tags": {
-   "en": [
-    "Oilex 2026",
-    "marine pollution",
-    "emergency drill",
-    "Lamma Island",
-    "Marine Department"
-   ],
-   "zh_hant": [
-    "Oilex 2026",
-    "海上污染",
-    "應變演習",
-    "南丫島",
-    "海事處"
-   ],
-   "zh_hans": [
-    "Oilex 2026",
-    "海上污染",
-    "应变演习",
-    "南丫岛",
-    "海事处"
-   ]
-  }
- },
- {
-  "id": "20261022-cfs-malachite-green-bluefin-tuna",
-  "category": "society",
-  "published_at": "2026-10-22T20:00:00+08:00",
-  "source": {
-   "name": "政府新聞處新聞公報",
-   "url": "https://www.info.gov.hk/gia/general/202610/22/P2026102200579.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Food safety watchdog finds malachite green in bluefin tuna sample",
-   "zh_hant": "食安中心驗出藍鰭吞拿魚樣本含孔雀石綠",
-   "zh_hans": "食安中心验出蓝鳍吞拿鱼样本含孔雀石绿"
-  },
-  "summary": {
-   "en": "The Centre for Food Safety has detected malachite green at 1.74 parts per billion in a bluefin tuna sample taken at import level. Malachite green is an industrial dye once used to treat fish infections and has been banned for use in food animals in many countries. Hong Kong law prohibits any malachite green in food, with offenders liable to a HK$50,000 fine and six months' imprisonment. The CFS has notified the importer concerned and is tracing the source and distribution of the product as investigations continue.",
-   "zh_hant": "食物安全中心在入口層面抽驗一個藍鰭吞拿魚樣本，驗出含孔雀石綠，含量為十億分之1.74。孔雀石綠是一種工業染料，曾用作治療魚類感染，多國已禁止用於食用動物。本港法例不容許食物含有孔雀石綠，違者可被罰款5萬元及監禁6個月。食安中心已通知有關進口商，正追查有關產品的來源及分銷情況，調查仍然繼續。",
-   "zh_hans": "食物安全中心在入口层面抽验一个蓝鳍吞拿鱼样本，验出含孔雀石绿，含量为十亿分之1.74。孔雀石绿是一种工业染料，曾用作治疗鱼类感染，多国已禁止用于食用动物。本港法例不容许食物含有孔雀石绿，违者可被罚款5万元及监禁6个月。食安中心已通知有关进口商，正追查有关产品的来源及分销情况，调查仍然继续。"
-  },
-  "tags": {
-   "en": [
-    "malachite green",
-    "bluefin tuna",
-    "food safety",
-    "CFS",
-    "import inspection"
-   ],
-   "zh_hant": [
-    "孔雀石綠",
-    "藍鰭吞拿魚",
-    "食物安全",
-    "食安中心",
-    "入口檢驗"
-   ],
-   "zh_hans": [
-    "孔雀石绿",
-    "蓝鳍吞拿鱼",
-    "食物安全",
-    "食安中心",
-    "入口检验"
-   ]
-  }
- },
- {
-  "id": "20261022-japan-aquatic-products-radiation-test",
-  "category": "society",
-  "published_at": "2026-10-22T15:50:00+08:00",
-  "source": {
-   "name": "政府新聞處新聞公報",
-   "url": "https://www.info.gov.hk/gia/general/202610/22/P2026102200479.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "All 116 Japanese food samples pass radiation tests, government says",
-   "zh_hant": "116個日本進口食品樣本輻射檢測全數合格",
-   "zh_hans": "116个日本进口食品样本辐射检测全数合格"
-  },
-  "summary": {
-   "en": "All 116 samples of Japanese imported food tested between noon on October 21 and noon on October 22 passed radiation safety checks, the government announced. Following Japan's discharge of nuclear-contaminated water from Fukushima, the Director of Food and Environmental Hygiene issued a food safety order banning aquatic products, sea salt and seaweed from 10 prefectures — Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama. The Agriculture, Fisheries and Conservation Department also tested 50 samples of local catch, all satisfactory, and the Observatory found no abnormalities in stepped-up monitoring of local waters. Since August 24, 2023, a total of 269,461 Japanese import samples and 57,410 local catch samples have been tested, all passing.",
-   "zh_hant": "政府公布，10月21日中午至10月22日中午抽驗的116個日本進口食品樣本，輻射水平全部未超標準。因應日本排放福島核污染水，食物環境衞生署署長已發出食物安全命令，禁止10個都縣（東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野、埼玉）的水產、海鹽及海藻進口。漁農自然護理署亦抽驗50個本地漁獲樣本，全部合格；天文台加強本地水域監測，未發現異常。自2023年8月24日至今，當局累計抽驗日本進口食品269,461個樣本及本地漁獲57,410個樣本，全部合格。",
-   "zh_hans": "政府公布，10月21日中午至10月22日中午抽验的116个日本进口食品样本，辐射水平全部未超标准。因应日本排放福岛核污染水，食物环境卫生署署长已发出食物安全命令，禁止10个都县（东京、福岛、茨城、宫城、千叶、群马、栃木、新潟、长野、埼玉）的水产、海盐及海藻进口。渔农自然护理署亦抽验50个本地渔获样本，全部合格；天文台加强本地水域监测，未发现异常。自2023年8月24日至今，当局累计抽验日本进口食品269,461个样本及本地渔获57,410个样本，全部合格。"
-  },
-  "tags": {
-   "en": [
-    "Fukushima",
-    "radiation testing",
-    "Japanese imports",
-    "food safety",
-    "seafood"
-   ],
-   "zh_hant": [
-    "福島",
-    "輻射檢測",
-    "日本進口食品",
-    "食物安全",
-    "水產"
-   ],
-   "zh_hans": [
-    "福岛",
-    "辐射检测",
-    "日本进口食品",
-    "食物安全",
-    "水产"
-   ]
-  }
- },
- {
-  "id": "20261022-beaches-red-flags-wave-bay-closed",
-  "category": "hk",
-  "published_at": "2026-10-22T14:45:00+08:00",
-  "source": {
-   "name": "政府新聞處新聞公報",
-   "url": "https://www.info.gov.hk/gia/general/202610/22/P2026102200429.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Big Wave Bay Beach closed for shark net repairs as red flags fly over big waves",
-   "zh_hant": "大浪灣泳灘維修防鯊網暫封　多泳灘因大浪掛紅旗",
-   "zh_hans": "大浪湾泳滩维修防鲨网暂封　多泳滩因大浪挂红旗"
-  },
-  "summary": {
-   "en": "The Leisure and Cultural Services Department announced that Big Wave Bay Beach in Southern District, Hong Kong Island, is temporarily closed from October 22 until further notice for shark prevention net maintenance, and urged swimmers not to swim there. Earlier in the day, red flags were hoisted over Stanley Main Beach, Shek O Beach and Big Wave Bay Beach in Southern District, as well as Trio Beach, Hap Mun Bay Beach (Half Moon Bay), Silverstrand Beach and Clear Water Bay Second Beach in Sai Kung, due to big waves.",
-   "zh_hant": "康樂及文化事務署宣布，港島南區大浪灣泳灘由10月22日起暫時封閉，直至另行通告，以維修防鯊網，呼籲泳客切勿前往游泳。同日較早前，康文署因大浪，在港島南區赤柱正灘、石澳泳灘及大浪灣泳灘，以及西貢區三星灣泳灘、廈門灣泳灘（半月灣）、銀線灣泳灘及清水灣第二泳灘懸掛紅旗，呼籲泳客切勿游泳。",
-   "zh_hans": "康乐及文化事务署宣布，港岛南区大浪湾泳滩由10月22日起暂时封闭，直至另行通告，以维修防鲨网，呼吁泳客切勿前往游泳。同日较早前，康文署因大浪，在港岛南区赤柱正滩、石澳泳滩及大浪湾泳滩，以及西贡区三星湾泳滩、厦门湾泳滩（半月湾）、银线湾泳滩及清水湾第二泳滩悬挂红旗，呼吁泳客切勿游泳。"
-  },
-  "tags": {
-   "en": [
-    "Big Wave Bay",
-    "red flag",
-    "beach closure",
-    "shark net",
-    "LCSD"
-   ],
-   "zh_hant": [
-    "大浪灣",
-    "紅旗",
-    "泳灘封閉",
-    "防鯊網",
-    "康文署"
-   ],
-   "zh_hans": [
-    "大浪湾",
-    "红旗",
-    "泳滩封闭",
-    "防鲨网",
-    "康文署"
-   ]
-  }
- },
- {
-  "id": "20261022-xia-linmao-corruption-probe",
-  "category": "china",
-  "published_at": "2026-10-22T16:34:00+08:00",
-  "source": {
-   "name": "Caixin Global",
-   "url": "https://www.caixinglobal.com/2026-10-22/beijing-executive-vice-mayor-xia-linmao-falls-in-anticorruption-drive-102496096.html"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Beijing executive vice-mayor Xia Linmao placed under corruption probe",
-   "zh_hant": "北京市常務副市長夏林茂涉嚴重違紀違法受查",
-   "zh_hans": "北京市常务副市长夏林茂涉严重违纪违法受查"
-  },
-  "summary": {
-   "en": "China's top anti-graft bodies announced on October 22 that Xia Linmao, 56, a Standing Committee member of the Beijing municipal Communist Party committee and the city's executive vice-mayor, is under investigation for suspected serious violations of discipline and law. Xia, an alternate member of the 20th Communist Party Central Committee, oversees the municipal government's daily operations. Caixin reported he is the 56th centrally-administered cadre to come under investigation this year. The announcement comes just days before the 20th Central Committee's fifth plenary session opens on October 26.",
-   "zh_hant": "中央紀委國家監委10月22日宣布，北京市委常委、常務副市長夏林茂（56歲）涉嫌嚴重違紀違法，正接受紀律審查和監察調查。夏林茂是中共二十屆中央委員會候補委員，負責市政府日常運作。財新報道指，他是今年以來第56名被公開調查的中管幹部。通報時機正值中共二十屆五中全會10月26日召開前夕。",
-   "zh_hans": "中央纪委国家监委10月22日宣布，北京市委常委、常务副市长夏林茂（56岁）涉嫌严重违纪违法，正接受纪律审查和监察调查。夏林茂是中共二十届中央委员会候补委员，负责市政府日常运作。财新报道指，他是今年以来第56名被公开调查的中管干部。通报时机正值中共二十届五中全会10月26日召开前夕。"
-  },
-  "tags": {
-   "en": [
-    "Xia Linmao",
-    "corruption probe",
-    "Beijing",
-    "anti-graft",
-    "CCDI"
-   ],
-   "zh_hant": [
-    "夏林茂",
-    "反腐調查",
-    "北京",
-    "中紀委",
-    "中管幹部"
-   ],
-   "zh_hans": [
-    "夏林茂",
-    "反腐调查",
-    "北京",
-    "中纪委",
-    "中管干部"
-   ]
-  }
- },
- {
-  "id": "20261022-xi-long-march-90th-anniversary",
-  "category": "china",
-  "published_at": "2026-10-22T13:55:00+08:00",
-  "source": {
-   "name": "國務院港澳辦（新華社稿）",
-   "url": "https://www.hmo.gov.cn/2026/10/22/ARTI0BAMX77VyZPqSAklF5xl261022.shtml"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Xi hails Long March spirit at 90th anniversary ceremony in Beijing",
-   "zh_hant": "紀念紅軍長征勝利90周年大會北京舉行　習近平發表講話",
-   "zh_hans": "纪念红军长征胜利90周年大会北京举行　习近平发表讲话"
-  },
-  "summary": {
-   "en": "A ceremony marking the 90th anniversary of the victory of the Red Army's Long March was held at the Great Hall of the People in Beijing on the morning of October 22, with President Xi Jinping delivering a keynote speech. Xi said that 'only by remembering history can we open up the future', calling on the whole Party to carry forward the spirit of the Long March on the new Long March of the new era. All attendees stood in silent tribute to the martyrs of the Long March and the revolutionary struggle. Xi stressed that the Party's correct leadership and Mao Zedong's core position were key to victory. The 1934–1936 Long March crossed more than 10 provinces. About 3,000 people attended, including Li Qiang, Zhao Leji, Wang Huning, Cai Qi, Ding Xuexiang, Li Xi and Han Zheng.",
-   "zh_hant": "紀念中國工農紅軍長征勝利90周年大會10月22日上午在北京人民大會堂舉行，習近平出席並發表重要講話。習近平指出「只有銘記歷史，才能開創未來」，號召全黨大力弘揚偉大長征精神，走好新時代的長征路。全體與會者起立，為長征途中和革命鬥爭中犧牲的先烈默哀。習近平強調，黨的正確領導和毛澤東的核心地位是長征勝利的關鍵。1934年10月至1936年10月，紅軍長征轉戰10多個省。約3,000人出席大會，包括李強、趙樂際、王滬寧、蔡奇、丁薛祥、李希及韓正。",
-   "zh_hans": "纪念中国工农红军长征胜利90周年大会10月22日上午在北京人民大会堂举行，习近平出席并发表重要讲话。习近平指出「只有铭记历史，才能开创未来」，号召全党大力弘扬伟大长征精神，走好新时代的长征路。全体与会者起立，为长征途中和革命斗争中牺牲的先烈默哀。习近平强调，党的正确领导和毛泽东的核心地位是长征胜利的关键。1934年10月至1936年10月，红军长征转战10多个省。约3,000人出席大会，包括李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希及韩正。"
-  },
-  "tags": {
-   "en": [
-    "Long March",
-    "90th anniversary",
-    "Xi Jinping",
-    "Beijing",
-    "CPC"
-   ],
-   "zh_hant": [
-    "長征",
-    "90周年",
-    "習近平",
-    "北京",
-    "中共"
-   ],
-   "zh_hans": [
-    "长征",
-    "90周年",
-    "习近平",
-    "北京",
-    "中共"
-   ]
-  }
- },
- {
-  "id": "20261022-witkoff-calls-putin-humanitarian",
-  "category": "world",
-  "published_at": "2026-10-22T10:41:00+08:00",
-  "source": {
-   "name": "Times Now World",
-   "url": "https://www.timesnowworld.com/us-news/trump-envoy-calls-putin-quothumanitarianquot-sparks-backlash-article-156381885"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Trump envoy sparks backlash after calling Putin 'a humanitarian'",
-   "zh_hant": "美特使威特科夫讚普京「人道主義者」惹反彈",
-   "zh_hans": "美特使威特科夫赞普京「人道主义者」惹反弹"
-  },
-  "summary": {
-   "en": "US special envoy Steve Witkoff has sparked a political backlash after calling Russian President Vladimir Putin 'a humanitarian' during their meeting in St Petersburg, where he secured the release of American citizen Stephen Hubbard, detained in Ukraine for years. The Kremlin said Russia was ready in principle to return to Russia-US-Ukraine trilateral talks. Republican Senator Thom Tillis reacted on X with 'WTF, Steve?', while President Trump downplayed the remark and Vice-President JD Vance defended Witkoff, saying a diplomat's job is to get things done.",
-   "zh_hant": "美國特使威特科夫在聖彼得堡會晤俄羅斯總統普京期間，當面讚揚對方是「人道主義者」，言論惹起政壇反彈。是次會晤成功爭取釋放在烏克蘭被拘留多年的美國公民哈伯德；克里姆林宮表示，俄方原則上準備重返美俄烏三方談判。共和黨參議員蒂利斯在社交平台X貼文「WTF, Steve?」；特朗普淡化事件，副總統萬斯則為威特科夫辯護，稱「外交官的工作就是完成任務」。",
-   "zh_hans": "美国特使威特科夫在圣彼得堡会晤俄罗斯总统普京期间，当面赞扬对方是「人道主义者」，言论惹起政坛反弹。是次会晤成功争取释放在乌克兰被拘留多年的美国公民哈伯德；克里姆林宫表示，俄方原则上准备重返美俄乌三方谈判。共和党参议员蒂利斯在社交平台X贴文「WTF, Steve?」；特朗普淡化事件，副总统万斯则为威特科夫辩护，称「外交官的工作就是完成任务」。"
-  },
-  "tags": {
-   "en": [
-    "Steve Witkoff",
-    "Putin",
-    "Russia-Ukraine",
-    "US diplomacy",
-    "trilateral talks"
-   ],
-   "zh_hant": [
-    "威特科夫",
-    "普京",
-    "俄烏局勢",
-    "美國外交",
-    "三方談判"
-   ],
-   "zh_hans": [
-    "威特科夫",
-    "普京",
-    "俄乌局势",
-    "美国外交",
-    "三方谈判"
-   ]
-  }
- },
- {
-  "id": "20261022-tuen-mun-kmb-buses-collision",
-  "category": "society",
-  "published_at": "2026-10-22T13:34:00+08:00",
-  "source": {
-   "name": "香港都市報",
-   "url": "https://metrohk.com.hk/港聞/屯門雙層九巴相撞九人受傷-9a9b9f"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Nine hurt as two KMB double-deckers collide in Tuen Mun",
-   "zh_hant": "屯門兩部九巴相撞　九人受傷送院",
-   "zh_hans": "屯门两部九巴相撞　九人受伤送院"
-  },
-  "summary": {
-   "en": "Two KMB double-decker buses collided on Ming Kum Road near King Yip House of Shan King Estate in Tuen Mun at about 8:15am on October 22, leaving nine people injured. The injured — four men and five women, including the two bus drivers — all sustained minor injuries and were sent to Tuen Mun Hospital. Police are investigating the cause of the accident.",
-   "zh_hant": "10月22日早上約8時15分，兩部九巴雙層巴士在屯門鳴琴路近山景邨景業樓相撞，九人受傷。傷者包括四男五女，其中兩人為巴士車長，全部傷勢輕微，送往屯門醫院治理。警方正調查意外原因。",
-   "zh_hans": "10月22日早上约8时15分，两部九巴双层巴士在屯门鸣琴路近山景邨景业楼相撞，九人受伤。伤者包括四男五女，其中两人为巴士车长，全部伤势轻微，送往屯门医院治理。警方正调查意外原因。"
-  },
-  "tags": {
-   "en": [
-    "KMB",
-    "bus collision",
-    "Tuen Mun",
-    "traffic accident",
-    "Ming Kum Road"
-   ],
-   "zh_hant": [
-    "九巴",
-    "巴士相撞",
-    "屯門",
-    "交通意外",
-    "鳴琴路"
-   ],
-   "zh_hans": [
-    "九巴",
-    "巴士相撞",
-    "屯门",
-    "交通意外",
-    "鸣琴路"
-   ]
-  }
- },
- {
-  "id": "20261022-victoria-park-wild-boar",
-  "category": "society",
-  "published_at": "2026-10-22T10:34:00+08:00",
-  "source": {
-   "name": "香港都市報",
-   "url": "https://metrohk.com.hk/港聞/野豬闖入維園警員持盾戒備-642565"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Wild boar wanders into Victoria Park, startling morning exercisers",
-   "zh_hant": "野豬清晨闖維園踱步　警持盾戒備漁護署跟進",
-   "zh_hans": "野猪清晨闯维园踱步　警持盾戒备渔护署跟进"
-  },
-  "summary": {
-   "en": "A wild boar about one metre long wandered into Victoria Park in Causeway Bay at about 7:17am on October 22, startling morning exercisers. The boar strolled and basked in the sun near a small hill in the park before leaving in the direction of Tin Hau. Police officers arrived with shields, cordoned off the area and notified the Agriculture, Fisheries and Conservation Department to capture the animal. The department reminded the public not to feed wild animals.",
-   "zh_hant": "10月22日早上約7時17分，一頭約一米長的野豬闖入銅鑼灣維多利亞公園，在園內小山丘附近踱步曬太陽，嚇親晨運市民，其後向天后方向離去。警方持盾牌到場戒備並封鎖範圍，通知漁農自然護理署派員捕捉。漁護署呼籲市民切勿餵飼野生動物。",
-   "zh_hans": "10月22日早上约7时17分，一头约一米长的野猪闯入铜锣湾维多利亚公园，在园内小山丘附近踱步晒太阳，吓亲晨运市民，其后向天后方向离去。警方持盾牌到场戒备并封锁范围，通知渔农自然护理署派员捕捉。渔护署呼吁市民切勿喂饲野生动物。"
-  },
-  "tags": {
-   "en": [
-    "wild boar",
-    "Victoria Park",
-    "Causeway Bay",
-    "AFCD",
-    "wildlife"
-   ],
-   "zh_hant": [
-    "野豬",
-    "維多利亞公園",
-    "銅鑼灣",
-    "漁護署",
-    "野生動物"
-   ],
-   "zh_hans": [
-    "野猪",
-    "维多利亚公园",
-    "铜锣湾",
-    "渔护署",
-    "野生动物"
-   ]
-  }
- },
- {
-  "id": "20261022-jason-chan-canada-taxi-bag",
-  "category": "entertainment",
-  "published_at": "2026-10-22T16:31:00+08:00",
-  "source": {
-   "name": "明周娛樂",
-   "url": "https://www.mpweekly.com/entertainment/article/%e5%90%b3%e6%a5%ad%e5%9d%a4%e5%8a%a0%e5%9c%8b%e8%bf%94%e6%b8%af%e9%81%87%e5%a5%bd%e4%ba%ba%e5%a5%bd%e4%ba%8b%e3%80%80-%e7%b6%b2%e6%b0%91%e7%ac%91%e6%8c%87%ef%bc%9a%e9%a9%9a%e4%bd%a2%e9%80%a3%e6%84%9b"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Jason Chan's lost bag returned by kind-hearted taxi driver in Canada",
-   "zh_hant": "吳業坤加拿大漏低斜孭袋　好心的哥專程送回",
-   "zh_hans": "吴业坤加拿大漏低斜孭袋　好心的哥专程送回"
-  },
-  "summary": {
-   "en": "Singer Jason Chan has thanked a kind-hearted taxi driver in Canada who drove back specially to return a bag he left in the cab. Chan and fellow singer Cherie Kong had travelled to Canada for concerts, accompanied by Chan's wife Hamaguchi Aiko — October 20 was her 32nd birthday. When returning to Hong Kong on October 21, Chan left his black crossbody bag, containing his ID card, credit cards and passport, in a Canadian taxi. The driver returned it in person, and Chan shared the story on social media, with netizens joking he was lucky he didn't lose his wife too.",
-   "zh_hant": "吳業坤與譚嘉儀早前到加拿大登台開騷，太太濱口愛子同行，10月20日更是愛子32歲生日。兩人10月21日返港，坤哥在加拿大的士上漏低整個黑色斜孭袋，內有身份證、信用卡及護照，幸獲好心的哥專程駕車回來交還。坤哥在社交平台分享經歷，網民笑指「好彩冇連老婆都漏低」。",
-   "zh_hans": "吴业坤与谭嘉仪早前到加拿大登台开骚，太太滨口爱子同行，10月20日更是爱子32岁生日。两人10月21日返港，坤哥在加拿大的士上漏低整个黑色斜孭袋，内有身份证、信用卡及护照，幸获好心的哥专程驾车回来交还。坤哥在社交平台分享经历，网民笑指「好彩冇连老婆都漏低」。"
-  },
-  "tags": {
-   "en": [
-    "Jason Chan",
-    "Canada",
-    "taxi",
-    "entertainment",
-    "Hong Kong singer"
-   ],
-   "zh_hant": [
-    "吳業坤",
-    "加拿大",
-    "的士",
-    "娛樂",
-    "香港歌手"
-   ],
-   "zh_hans": [
-    "吴业坤",
-    "加拿大",
-    "的士",
-    "娱乐",
-    "香港歌手"
-   ]
-  }
- }
 ]
