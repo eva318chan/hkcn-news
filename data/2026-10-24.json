@@ -204,5 +204,177 @@
     "屯门医院"
    ]
   }
+ },
+ {
+  "id": "20261024-fs-chan-beijing-visit-mous",
+  "category": "china",
+  "published_at": "2026-10-23T17:50:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300606.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202610/23/P2026102300606_photo_1341796.jpg",
+  "title": {
+   "en": "Paul Chan calls on CSRC and Commerce Ministry in Beijing, signs MOUs on economic and trade co-operation",
+   "zh_hant": "陳茂波訪京拜會中證監及商務部　簽兩份經貿合作諒解備忘錄",
+   "zh_hans": "陈茂波访京拜会中证监及商务部　签两份经贸合作谅解备忘录"
+  },
+  "summary": {
+   "en": "Financial Secretary Paul Chan began a visit to Beijing on October 23, calling on China Securities Regulatory Commission chairman Wu Qing in the morning to exchange views on securities market regulation and development and deepening connectivity, accompanied by SFC chief executive Julia Leung. In the afternoon he called on Assistant Minister of Commerce Yuan Xiaoming, accompanied by Secretary for Commerce and Economic Development Algernon Yau, with the two sides signing two memoranda of understanding on strengthening Mainland-Hong Kong economic and trade co-operation and exchanges with free-trade zones and the free-trade port. Chan also visited an artificial intelligence enterprise the same afternoon and returned to Hong Kong on the morning of October 24.",
+   "zh_hant": "財政司司長陳茂波10月23日展開訪京行程。上午拜會中國證券監督管理委員會主席吳清，就兩地證券市場監管及發展、深化互聯互通深入交換意見，證監會行政總裁梁鳳儀陪同。下午拜會商務部部長助理袁曉明，商務及經濟發展局局長邱應樺陪同，雙方簽署加強內地與香港經貿合作、以及與自貿試驗區及自貿港交流合作的兩份諒解備忘錄。同日下午陳茂波亦參訪一間人工智能企業，10月24日上午返港。",
+   "zh_hans": "财政司司长陈茂波10月23日展开访京行程。上午拜会中国证券监督管理委员会主席吴清，就两地证券市场监管及发展、深化互联互通深入交换意见，证监会行政总裁梁凤仪陪同。下午拜会商务部部长助理袁晓明，商务及经济发展局局长邱应桦陪同，双方签署加强内地与香港经贸合作、以及与自贸试验区及自贸港交流合作的两份谅解备忘录。同日下午陈茂波亦参访一间人工智能企业，10月24日上午返港。"
+  },
+  "tags": {
+   "en": [
+    "Paul Chan",
+    "Beijing",
+    "CSRC",
+    "MOU",
+    "trade"
+   ],
+   "zh_hant": [
+    "陳茂波",
+    "北京",
+    "中證監",
+    "諒解備忘錄",
+    "經貿"
+   ],
+   "zh_hans": [
+    "陈茂波",
+    "北京",
+    "中证监",
+    "谅解备忘录",
+    "经贸"
+   ]
+  }
+ },
+ {
+  "id": "20261024-php2shell-exploit-surge",
+  "category": "tech",
+  "published_at": "2026-10-23T09:01:21+08:00",
+  "source": {
+   "name": "BusinessWorld",
+   "url": "https://bworldonline.com/world/2026/10/23/788855/hacking-attempts-surge-as-companies-governments-rush-to-patch-php-flaws/"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Millions of exploit attempts hit critical PHP flaws as firms and governments rush to patch",
+   "zh_hant": "PHP嚴重漏洞遭數百萬次攻擊嘗試　多國政府企業預防性停網搶修",
+   "zh_hans": "PHP严重漏洞遭数百万次攻击尝试　多国政府企业预防性停网抢修"
+  },
+  "summary": {
+   "en": "Hackers have made millions of attempts to exploit two critical flaws in PHP, the programming language behind much of the web, since emergency patches were released on October 21. The flaws, tracked as CVE-2026-109618 and CVE-2026-109619 with a severity score of 9.2 out of 10, can allow an unauthenticated attacker to crash a server, expose data or run code, and affect all PHP versions from 5.4 — code dating back to 2012 — covering nearly 70% of websites. Cloudflare chief executive Matthew Prince said exploit attempts climbed from thousands before disclosure to tens of thousands within 45 minutes, hundreds of thousands within two hours, and millions since. Governments and companies from Tokyo to Helsinki have pre-emptively taken internet-facing services offline, while Censys counts more than 34.4 million PHP services still unpatched.",
+   "zh_hant": "PHP項目10月21日發布緊急補丁後，黑客已對兩個嚴重漏洞發動數百萬次攻擊嘗試。漏洞編號CVE-2026-109618及CVE-2026-109619，嚴重程度評分9.2（滿分10），可讓未經認證的攻擊者遠程執行代碼；問題源於2012年PHP 5.4的代碼，影響近七成網站（WordPress、Drupal等皆用PHP）。Cloudflare行政總裁Matthew Prince透露，公開披露前10小時已有數千次攻擊嘗試，披露後45分鐘增至數萬、2小時數十萬，現已達數百萬次。日韓歐多國政府及企業預防性暫停部分網上服務；Censys統計仍有超過3,440萬個PHP服務未修補。",
+   "zh_hans": "PHP项目10月21日发布紧急补丁后，黑客已对两个严重漏洞发动数百万次攻击尝试。漏洞编号CVE-2026-109618及CVE-2026-109619，严重程度评分9.2（满分10），可让未经认证的攻击者远程执行代码；问题源于2012年PHP 5.4的代码，影响近七成网站（WordPress、Drupal等皆用PHP）。Cloudflare行政总裁Matthew Prince透露，公开披露前10小时已有数千次攻击尝试，披露后45分钟增至数万、2小时数十万，现已达数百万次。日韩欧多国政府及企业预防性暂停部分网上服务；Censys统计仍有超过3,440万个PHP服务未修补。"
+  },
+  "tags": {
+   "en": [
+    "PHP",
+    "cybersecurity",
+    "PHP2Shell",
+    "Cloudflare",
+    "vulnerability"
+   ],
+   "zh_hant": [
+    "PHP",
+    "網絡安全",
+    "PHP2Shell",
+    "Cloudflare",
+    "漏洞"
+   ],
+   "zh_hans": [
+    "PHP",
+    "网络安全",
+    "PHP2Shell",
+    "Cloudflare",
+    "漏洞"
+   ]
+  }
+ },
+ {
+  "id": "20261024-jimmy-sham-japan-immigration-detention",
+  "category": "hk",
+  "published_at": "2026-10-24T08:18:01+08:00",
+  "source": {
+   "name": "共同通信 Kyodo News",
+   "url": "https://news.infoseek.co.jp/article/kyodo_1486519691576640388/"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Ex-lawmaker Jimmy Sham says he was held for 20 hours at Japanese immigration; urges review of political prisoner screening",
+   "zh_hant": "岑子杰：6月羽田入境被滯留約20小時　籲日方區分政治犯與普通罪犯",
+   "zh_hans": "岑子杰：6月羽田入境被滞留约20小时　吁日方区分政治犯与普通罪犯"
+  },
+  "summary": {
+   "en": "Former Hong Kong lawmaker Jimmy Sham told Kyodo News that he was held for about 20 hours during immigration screening when he arrived at Haneda Airport from Hong Kong in June, which he believes was prolonged because of his criminal record under Hong Kong's national security law. Sham, a former convenor of the Civil Human Rights Front, was convicted of conspiracy to commit subversion over the 2020 pro-democracy primaries case, sentenced to four years and three months, and released in May last year. He urged Japanese authorities to distinguish political prisoners from ordinary criminals in screening procedures. A Japanese expert said immigration authorities had to weigh the risk of the case developing into a diplomatic issue and considered the 20-hour detention appropriate.",
+   "zh_hant": "前立法會議員岑子杰接受共同通信訪問透露，今年6月由香港抵達羽田機場後，在入境審查中被滯留約20小時；因曾觸犯香港國安法而有定罪紀錄，相信令審查耗時。岑子杰曾任民間人權陣線召集人，因2020年民主派初選案被裁定串謀顛覆國家政權罪成，判囚4年3個月，去年5月出獄。他呼籲日方「政治犯與一般罪犯不同，希望改善審查方式」。有日本專家認為，入境當局須考慮事件演變成外交問題的可能性，20小時滯留屬妥當。",
+   "zh_hans": "前立法会议员岑子杰接受共同通信访问透露，今年6月由香港抵达羽田机场后，在入境审查中被滞留约20小时；因曾触犯香港国安法而有定罪纪录，相信令审查耗时。岑子杰曾任民间人权阵线召集人，因2020年民主派初选案被裁定串谋颠覆国家政权罪成，判囚4年3个月，去年5月出狱。他呼吁日方「政治犯与一般罪犯不同，希望改善审查方式」。有日本专家认为，入境当局须考虑事件演变成外交问题的可能性，20小时滞留属妥当。"
+  },
+  "tags": {
+   "en": [
+    "Jimmy Sham",
+    "Japan",
+    "immigration",
+    "Kyodo",
+    "national security"
+   ],
+   "zh_hant": [
+    "岑子杰",
+    "日本",
+    "入境審查",
+    "共同通信",
+    "國安法"
+   ],
+   "zh_hans": [
+    "岑子杰",
+    "日本",
+    "入境审查",
+    "共同通信",
+    "国安法"
+   ]
+  }
+ },
+ {
+  "id": "20261024-amy-winehouse-west-end-musical",
+  "category": "entertainment",
+  "published_at": "2026-10-23T02:52:21+08:00",
+  "source": {
+   "name": "WhatsOnStage",
+   "url": "https://www.whatsonstage.com/news/amy-winehouse-musical-in-development-for-the-west-end-according-to-reports_1735809/"
+  },
+  "image_url": "https://www.whatsonstage.com/wp-content/uploads/sites/3/2026/10/IMG_6742.jpeg?w=640",
+  "title": {
+   "en": "Amy Winehouse musical in development for London's West End, casting underway",
+   "zh_hant": "Amy Winehouse舞台音樂劇登陸倫敦西區開發中　選角已展開",
+   "zh_hans": "Amy Winehouse舞台音乐剧登陆伦敦西区开发中　选角已展开"
+  },
+  "summary": {
+   "en": "A stage musical built around Amy Winehouse's songs is in development for London's West End, first reported by Variety and confirmed by the Guardian, with casting already underway. Broadway producer Catherine Schreiber is attached to the project, and Amy's father and estate manager Mitch Winehouse is believed to be involved, opening the door to using her hits including Back to Black, Rehab and Valerie. The format has yet to be decided — a biography or an original story set to her songs in the style of Mamma Mia!. The project arrives as Back to Black marks its 20th anniversary: a tribute concert at London's Roundhouse on October 23 featured Mark Ronson and Jorja Smith.",
+   "zh_hant": "一齣以 Amy Winehouse 歌曲為基礎的舞台音樂劇正在倫敦西區開發中，由《Variety》率先報道並獲《衛報》確認，選角已展開。百老匯製作人 Catherine Schreiber 參與項目，Amy 父親兼遺產管理人 Mitch Winehouse 亦相信參與，意味劇作有望使用其名曲（《Back to Black》《Rehab》《Valerie》）。製作形式未定：傳記式或如《Mamma Mia!》般以原創故事配搭其歌曲。項目傳聞多年，今次成行適逢《Back to Black》發行20周年：10月23日在倫敦 Roundhouse 舉行致敬音樂會，Mark Ronson、Jorja Smith 等演出。",
+   "zh_hans": "一出以 Amy Winehouse 歌曲为基础的舞台音乐剧正在伦敦西区开发中，由《Variety》率先报道并获《卫报》确认，选角已展开。百老汇制作人 Catherine Schreiber 参与项目，Amy 父亲兼遗产管理人 Mitch Winehouse 亦相信参与，意味剧作有望使用其名曲（《Back to Black》《Rehab》《Valerie》）。制作形式未定：传记式或如《Mamma Mia!》般以原创故事配搭其歌曲。项目传闻多年，今次成行适逢《Back to Black》发行20周年：10月23日在伦敦 Roundhouse 举行致敬音乐会，Mark Ronson、Jorja Smith 等演出。"
+  },
+  "tags": {
+   "en": [
+    "Amy Winehouse",
+    "West End",
+    "musical",
+    "Variety",
+    "London"
+   ],
+   "zh_hant": [
+    "Amy Winehouse",
+    "西區",
+    "音樂劇",
+    "Variety",
+    "倫敦"
+   ],
+   "zh_hans": [
+    "Amy Winehouse",
+    "西区",
+    "音乐剧",
+    "Variety",
+    "伦敦"
+   ]
+  }
  }
 ]
