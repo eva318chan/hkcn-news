@@ -1,0 +1,79 @@
+[
+ {
+  "id": "20261025-halloween-lan-kwai-fong-crowds",
+  "category": "hk",
+  "published_at": "2026-10-25T01:00:19+08:00",
+  "source": {
+   "name": "Dim Sum Daily",
+   "url": "https://www.dimsumdaily.hk/hong-kong-halloween-crowds-pack-lan-kwai-fong-as-police-close-roads/"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Halloween crowds pack Lan Kwai Fong as police close roads",
+   "zh_hant": "萬聖節人潮迫爆蘭桂坊　警方封路疏導　食肆生意升兩成",
+   "zh_hans": "万圣节人潮迫爆兰桂坊　警方封路疏导　食肆生意升两成"
+  },
+  "summary": {
+   "en": "Hong Kong's Halloween build-up packed Lan Kwai Fong for a second consecutive Saturday, with the Tourism Board's first Hong Kong Halloween Month drawing costume crowds that left the main thoroughfare gridlocked. Police closed roads and redirected queues, with some partygoers waiting one to two hours to enter the area. Footfall at nearby eateries climbed from about 6pm and outpaced the same period last year, with some operators expecting takings up as much as 20% on the busiest nights. The programme runs over three consecutive weekends across Central, Kai Tak, Mong Kok and Tsim Sha Tsui East, culminating on Halloween.",
+   "zh_hant": "旅發局首辦「香港萬聖節月」，蘭桂坊連續第二個星期六迫滿化裝人潮，主街水洩不通，警方封路疏導，有市民要排一至兩小時才能進入。附近食肆傍晚6時起人流已超越去年同期，有食肆預計最旺晚上的生意可升兩成。活動橫跨三個周末，遍及中環、啟德、旺角及尖沙咀東，萬聖節當日壓軸。",
+   "zh_hans": "旅发局首办「香港万圣节月」，兰桂坊连续第二个星期六迫满化装人潮，主街水泄不通，警方封路疏导，有市民要排一至两小时才能进入。附近食肆傍晚6时起人流已超越去年同期，有食肆预计最旺晚上的生意可升两成。活动横跨三个周末，遍及中环、启德、旺角及尖沙咀东，万圣节当日压轴。"
+  },
+  "tags": {
+   "en": [
+    "Halloween",
+    "Lan Kwai Fong",
+    "Central"
+   ],
+   "zh_hant": [
+    "萬聖節",
+    "蘭桂坊",
+    "中環"
+   ],
+   "zh_hans": [
+    "万圣节",
+    "兰桂坊",
+    "中环"
+   ]
+  }
+ },
+ {
+  "id": "20261025-hsbc-redcoin-circulation",
+  "category": "finance",
+  "published_at": "2026-10-25T03:10:02+08:00",
+  "source": {
+   "name": "TokenPost",
+   "url": "https://www.tokenpost.com/news/business/40243"
+  },
+  "image_url": "",
+  "title": {
+   "en": "HSBC's RedCoin has HK$80.8m in circulation as PayMe rollout continues",
+   "zh_hant": "滙豐 RedCoin 流通量達8,080萬港元　PayMe 陸續開放錢包",
+   "zh_hans": "汇丰 RedCoin 流通量达8,080万港元　PayMe 陆续开放钱包"
+  },
+  "summary": {
+   "en": "HSBC's Hong Kong dollar stablecoin RedCoin (RCHKD) had HK$80,814,137.65 in circulation as of October 25, backed by HK$81,814,137.65 in cash reserves — HK$1 million more than the coins issued. The bank began rolling out RedCoin through PayMe on October 23 for transfers between users and payments at more than 100,000 merchants, with wallets reaching more than 3.3 million PayMe users in phases. RedCoin is issued under Hong Kong stablecoin issuer licence FRS02; it is not a protected deposit under the Deposit Protection Scheme, and HSBC expects its first independent reserve attestation after the fourth quarter of 2026.",
+   "zh_hant": "滙豐港元穩定幣 RedCoin（RCHKD）截至10月25日流通量達80,814,137.65港元，現金儲備81,814,137.65港元，較發行量多100萬港元。滙豐10月23日起透過 PayMe 分階段推出 RedCoin，逾330萬名 PayMe 用戶可轉帳及於逾10萬間商戶付款。RedCoin 持有香港穩定幣發行人牌照 FRS02，並非存款保障計劃下的受保障存款；滙豐預計2026年第四季後才發表首份獨立儲備鑒證報告。",
+   "zh_hans": "汇丰港元稳定币 RedCoin（RCHKD）截至10月25日流通量达80,814,137.65港元，现金储备81,814,137.65港元，较发行量多100万港元。汇丰10月23日起透过 PayMe 分阶段推出 RedCoin，逾330万名 PayMe 用户可转帐及於逾10万间商户付款。RedCoin 持有香港稳定币发行人牌照 FRS02，并非存款保障计划下的受保障存款；汇丰预计2026年第四季后才发表首份独立储备鉴证报告。"
+  },
+  "tags": {
+   "en": [
+    "HSBC",
+    "RedCoin",
+    "stablecoin",
+    "PayMe"
+   ],
+   "zh_hant": [
+    "滙豐",
+    "RedCoin",
+    "穩定幣",
+    "PayMe"
+   ],
+   "zh_hans": [
+    "汇丰",
+    "RedCoin",
+    "稳定币",
+    "PayMe"
+   ]
+  }
+ }
+]
