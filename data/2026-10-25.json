@@ -843,5 +843,48 @@
     "彭博"
    ]
   }
+ },
+ {
+  "id": "20261025-audi-georgia-plant-trump",
+  "category": "world",
+  "published_at": "2026-10-25T04:31:00+08:00",
+  "source": {
+   "name": "Reuters",
+   "url": "https://935thelloyd.com/2026/10/24/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says/"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Trump announces Audi will build $4 billion US factory in Georgia, its first American plant",
+   "zh_hant": "特朗普宣布奧迪將在美國佐治亞州建廠　投資約40億美元　首間美國組裝廠",
+   "zh_hans": "特朗普宣布奥迪将在美国佐治亚州建厂　投资约40亿美元　首间美国组装厂"
+  },
+  "summary": {
+   "en": "US President Donald Trump announced on Saturday that Audi plans to build a $4 billion assembly plant in Georgia that will produce 200,000 SUVs a year, the German premium carmaker's first assembly plant in the United States. Trump made the announcement at a rally in Perry, near Macon in central Georgia, where the plant will be built, as he campaigns for Republicans ahead of the November 3 midterm elections. Audi chief executive Gernot Döllner said the company will build its biggest and most premium SUVs, the Q7, Q8 and Q9, in Macon, calling it a long-term investment in the American market. Audi said the plant will create about 4,500 jobs, with construction starting next year and production beginning in the early 2030s. Audi currently imports all the cars it sells in the US from Europe or Mexico, and tariffs cost it 1.2 billion euros last year.",
+   "zh_hant": "美國總統特朗普星期六宣布，奧迪計劃在佐治亞州興建一間造價約40億美元的組裝廠，每年生產20萬輛越野車，是這間德國高級車廠在美國的首間組裝廠。特朗普在佐治亞州中部佩里市的造勢集會上公布消息，廠址位於鄰近梅肯市，他正為11月3日中期選舉爭取選民支持共和黨。奧迪行政總裁杜爾納表示，公司將在梅肯生產最大型、最頂級的越野車，包括Q7、Q8及Q9，形容是對美國市場的長遠投資。奧迪表示，新廠將創造約4,500個職位，明年動工，2030年代初投產。奧迪目前在美國銷售的汽車全部由歐洲或墨西哥進口，去年關稅令公司損失12億歐元。",
+   "zh_hans": "美国总统特朗普星期六宣布，奥迪计划在佐治亚州兴建一间造价约40亿美元的组装厂，每年生产20万辆越野车，是这间德国高级车厂在美国的首间组装厂。特朗普在佐治亚州中部佩里市的造势集会上公布消息，厂址位于邻近梅肯市，他正为11月3日中期选举争取选民支持共和党。奥迪行政总裁杜尔纳表示，公司将在梅肯生产最大型、最顶级的越野车，包括Q7、Q8及Q9，形容是对美国市场的长远投资。奥迪表示，新厂将创造约4,500个职位，明年动工，2030年代初投产。奥迪目前在美国销售的汽车全部由欧洲或墨西哥进口，去年关税令公司损失12亿欧元。"
+  },
+  "tags": {
+   "en": [
+    "Audi",
+    "Georgia",
+    "Donald Trump",
+    "tariffs",
+    "midterm elections"
+   ],
+   "zh_hant": [
+    "奧迪",
+    "佐治亞州",
+    "特朗普",
+    "關稅",
+    "中期選舉"
+   ],
+   "zh_hans": [
+    "奥迪",
+    "佐治亚州",
+    "特朗普",
+    "关税",
+    "中期选举"
+   ]
+  }
  }
 ]
