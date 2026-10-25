@@ -75,5 +75,128 @@
     "PayMe"
    ]
   }
+ },
+ {
+  "id": "20261025-ccp-fifth-plenum-opens-monday",
+  "category": "china",
+  "published_at": "2026-10-25T11:00:00+08:00",
+  "source": {
+   "name": "SRN News",
+   "url": "https://srnnews.com/factbox-how-chinas-october-26-to-29-communist-party-plenum-works/"
+  },
+  "image_url": "",
+  "title": {
+   "en": "China's Communist Party opens fifth plenum on Monday to set tone before 2027 congress",
+   "zh_hant": "中共二十屆五中全會明日召開　定調2027年黨大會前政治方向",
+   "zh_hans": "中共二十届五中全会明日召开　定调2027年党大会前政治方向"
+  },
+  "summary": {
+   "en": "The Central Committee of China's ruling Communist Party opens its fifth plenary session in Beijing on Monday, running until Thursday, in a closed-door meeting that will set the political tone ahead of the party congress in late 2027. About 300 full and alternate members are expected to attend, with the official agenda focused on tightening party discipline and self-governance, though personnel moves and the handling of disgraced former officials may also feature. Attendees are traditionally confined to the venue and little is made public until the meeting closes, when Xinhua is expected to issue a dispatch on what was agreed.",
+   "zh_hant": "中共中央委員會第五次全體會議星期一至星期四在北京閉門舉行，將為2027年底的黨代表大會定調。預計約300名中央委員及候補委員出席，官方議程集中於加強黨內紀律及自我管治，人事調動及違紀前官員的處理亦可能成為議題。與會者按慣例須留在會場內，直至會議結束，新華社屆時會發布公報交代會議決定。",
+   "zh_hans": "中共中央委员会第五次全体会议星期一至星期四在北京闭门举行，将为2027年底的党代表大会定调。预计约300名中央委员及候补委员出席，官方议程集中于加强党内纪律及自我管治，人事调动及违纪前官员的处理亦可能成为议题。与会者按惯例须留在会场内，直至会议结束，新华社届时会发布公报交代会议决定。"
+  },
+  "tags": {
+   "en": [
+    "China",
+    "Communist Party",
+    "fifth plenum",
+    "Beijing"
+   ],
+   "zh_hant": [
+    "中國",
+    "中共",
+    "五中全會",
+    "北京"
+   ],
+   "zh_hans": [
+    "中国",
+    "中共",
+    "五中全会",
+    "北京"
+   ]
+  }
+ },
+ {
+  "id": "20261025-trump-oleshky-ceasefire-oct27",
+  "category": "world",
+  "published_at": "2026-10-25T08:38:00+08:00",
+  "source": {
+   "name": "LatestLY",
+   "url": "https://www.latestly.com/agency-news/world-news-us-will-do-business-with-ukraine-and-russia-after-war-ends-trump-7656030.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Oleshky ceasefire brought forward to October 27 as Trump says US will do business with Russia and Ukraine after war",
+   "zh_hant": "奧列什基停火提前至10月27日　特朗普：戰後美國將與俄烏兩國做生意",
+   "zh_hans": "奥列什基停火提前至10月27日　特朗普：战后美国将与俄乌两国做生意"
+  },
+  "summary": {
+   "en": "US President Donald Trump said the United States would do business with both Russia and Ukraine once the war ends, after casting his vote in Palm Beach, Florida, alongside First Lady Melania Trump. Melania Trump said the local ceasefire in the Russian-held city of Oleshky would begin on October 27, earlier than the October 29 date first announced by the White House, with Russian forces to halt fire from 4am Moscow time so aid can be delivered and civilians evacuated. She said the Vatican had offered its support for the effort. Ukrainian President Volodymyr Zelenskyy said negotiators from Ukraine, Russia and the United States had agreed to technical-level talks in Abu Dhabi in the first half of November.",
+   "zh_hant": "美國總統特朗普與第一夫人梅拉尼婭在佛羅里達州棕櫚灘投票後表示，俄烏戰爭結束後，美國將與俄羅斯及烏克蘭兩國做生意。梅拉尼婭表示，俄軍控制的奧列什基局部停火將於10月27日開始，較白宮最初公布的10月29日提前，俄軍將於莫斯科時間凌晨4時起停火，以便運送救援物資及撤走平民；她又說梵蒂岡已表態支持有關安排。烏克蘭總統澤連斯基表示，烏、俄、美三方談判代表已同意11月上半月在阿布扎比舉行技術層級會談。",
+   "zh_hans": "美国总统特朗普与第一夫人梅拉尼娅在佛罗里达州棕榈滩投票后表示，俄乌战争结束后，美国将与俄罗斯及乌克兰两国做生意。梅拉尼娅表示，俄军控制的奥列什基局部停火将于10月27日开始，较白宫最初公布的10月29日提前，俄军将于莫斯科时间凌晨4时起停火，以便运送救援物资及撤走平民；她又说梵蒂冈已表态支持有关安排。乌克兰总统泽连斯基表示，乌、俄、美三方谈判代表已同意11月上半月在阿布扎比举行技术层级会谈。"
+  },
+  "tags": {
+   "en": [
+    "Oleshky",
+    "Russia-Ukraine war",
+    "Donald Trump",
+    "Melania Trump",
+    "ceasefire"
+   ],
+   "zh_hant": [
+    "奧列什基",
+    "俄烏戰爭",
+    "特朗普",
+    "梅拉尼婭·特朗普",
+    "停火"
+   ],
+   "zh_hans": [
+    "奥列什基",
+    "俄乌战争",
+    "特朗普",
+    "梅拉尼娅·特朗普",
+    "停火"
+   ]
+  }
+ },
+ {
+  "id": "20261025-riyadh-airport-resumes-terminals",
+  "category": "world",
+  "published_at": "2026-10-25T08:44:00+08:00",
+  "source": {
+   "name": "LatestLY",
+   "url": "https://www.latestly.com/agency-news/world-news-saudi-arabia-riyadh-airport-announces-resumption-of-operations-at-t1-t2-following-closure-after-houthi-attacks-7656034.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Riyadh airport resumes operations at terminals 1 and 2 after Houthi attack claims",
+   "zh_hant": "胡塞武裝聲稱襲擊後　利雅得機場恢復一號及二號客運大樓運作",
+   "zh_hans": "胡塞武装声称袭击后　利雅得机场恢复一号及二号客运大楼运作"
+  },
+  "summary": {
+   "en": "King Khalid International Airport in Riyadh will resume flight operations from terminals 1 and 2 on Sunday, after Yemen's Houthi rebels claimed to have targeted the airport and other sites across Saudi Arabia. Terminal 1 will handle domestic flights and terminal 2 international flights operated by national carriers. The airport urged passengers to confirm their flight details with their airlines before travelling.",
+   "zh_hant": "利雅得哈立德國王國際機場將於星期日恢復一號及二號客運大樓的航班運作，此前也門胡塞武裝聲稱襲擊機場及沙特境內多個地點。一號大樓將處理國內航班，二號大樓處理本國航空公司的國際航班。機場呼籲旅客出發前先向航空公司確認航班狀況。",
+   "zh_hans": "利雅得哈立德国王国际机场将于星期日恢复一号及二号客运大楼的航班运作，此前也门胡塞武装声称袭击机场及沙特境内多个地点。一号大楼将处理国内航班，二号大楼处理本国航空公司的国际航班。机场呼吁旅客出发前先向航空公司确认航班状况。"
+  },
+  "tags": {
+   "en": [
+    "Riyadh",
+    "Saudi Arabia",
+    "airport",
+    "Houthi"
+   ],
+   "zh_hant": [
+    "利雅得",
+    "沙特阿拉伯",
+    "機場",
+    "胡塞武裝"
+   ],
+   "zh_hans": [
+    "利雅得",
+    "沙特阿拉伯",
+    "机场",
+    "胡塞武装"
+   ]
+  }
  }
 ]
