@@ -1407,5 +1407,82 @@
     "小鹏"
    ]
   }
+ },
+ {
+  "id": "20261024-vanuatu-earthquake-tsunami-warning-lifted",
+  "category": "world",
+  "published_at": "2026-10-24T23:38:00+08:00",
+  "source": {
+   "name": "Harava News",
+   "url": "https://harava.news/en/articles/2026/10/24/vanuatu-earthquakes-tsunami-warning"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Magnitude 6.9 quake strikes off Vanuatu; tsunami warning lifted with no damage reported",
+   "zh_hant": "瓦努阿圖外海6.9級地震　海嘯警報解除　暫無傷亡報告",
+   "zh_hans": "瓦努阿图外海6.9级地震　海啸警报解除　暂无伤亡报告"
+  },
+  "summary": {
+   "en": "A magnitude 6.9 earthquake struck about 197 kilometres west-northwest of Port-Olry, Vanuatu, on Saturday at a depth of 10 kilometres, the US Geological Survey said. The Pacific Tsunami Warning Center first warned of hazardous waves within 300 kilometres after an initial reading of 7.2, then revised the magnitude down and lifted the threat. A second quake of magnitude 6.3 followed nearby. There were no immediate reports of casualties or significant damage, and Vanuatu's authorities urged coastal residents to stay alert for aftershocks.",
+   "zh_hant": "美國地質調查局表示，星期六瓦努阿圖奧爾里港西北偏西約197公里外海發生6.9級地震，震源深度10公里。太平洋海嘯預警中心最初錄得7.2級，警告震央300公里內海岸可能出現危險海浪，其後下調震級並解除警報；附近隨後再發生6.3級地震。暫時未有傷亡或嚴重損毀報告，當局呼籲沿岸居民提防餘震。",
+   "zh_hans": "美国地质调查局表示，星期六瓦努阿图奥尔里港西北偏西约197公里外海发生6.9级地震，震源深度10公里。太平洋海啸预警中心最初录得7.2级，警告震央300公里内海岸可能出现危险海浪，其后下调震级并解除警报；附近随后再次发生6.3级地震。暂时未有伤亡或严重损毁报告，当局呼吁沿岸居民提防余震。"
+  },
+  "tags": {
+   "en": [
+    "Vanuatu",
+    "earthquake",
+    "tsunami warning"
+   ],
+   "zh_hant": [
+    "瓦努阿圖",
+    "地震",
+    "海嘯警報"
+   ],
+   "zh_hans": [
+    "瓦努阿图",
+    "地震",
+    "海啸警报"
+   ]
+  }
+ },
+ {
+  "id": "20261024-eagles-nest-fire-suspect-arrested",
+  "category": "world",
+  "published_at": "2026-10-24T03:15:00+08:00",
+  "source": {
+   "name": "Chelmsford City News",
+   "url": "https://www.chelmsfordcitynews.co.uk/news/national/26666878.fire-devastates-eagles-nest-alpine-retreat-built-hitler/"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Fire guts Hitler's Eagle's Nest retreat in Bavaria; 33-year-old suspect arrested",
+   "zh_hant": "希特拉「鷹巢」別墅大火幾乎燒毀　33歲德國男子涉縱火被捕",
+   "zh_hans": "希特拉「鹰巢」别墅大火几乎烧毁　33岁德国男子涉纵火被捕"
+  },
+  "summary": {
+   "en": "A fire swept through the Kehlsteinhaus, the mountaintop retreat built for Adolf Hitler and known as the Eagle's Nest, near Berchtesgaden in Bavaria on Friday night, leaving the historic building severely damaged. Firefighters were alerted by an alarm at about 9.15pm local time and found the building engulfed in flames; rain, snow and strong wind hampered the operation on the narrow mountain road. Police arrested a 33-year-old German man riding a motorcycle away from the scene. Prosecutors said he showed signs of mental illness and was sent to a psychiatric facility, while a possible political motive is also being investigated. No one was injured, and the building has operated as a restaurant since the 1950s.",
+   "zh_hant": "德國巴伐利亞貝希特斯加登附近、海拔1,834米的希特拉山頂別墅「鷹巢」星期五晚發生大火，歷史建築嚴重損毀。當地星期五晚上約9時15分火警鐘響起，消防到場時建築已陷入火海；雨雪及強風令狹窄山路上的滅火工作更加困難。警方在現場附近截停一名騎電單車離開的33歲德國男子並將其拘捕。檢方指疑犯有精神疾病跡象，已送往精神科設施，同時亦會調查是否涉及政治動機。事件中無人受傷，該建築自1950年代起一直用作餐廳。",
+   "zh_hans": "德国巴伐利亚贝希特斯加登附近、海拔1,834米的希特拉山顶别墅「鹰巢」星期五晚发生大火，历史建筑严重损毁。当地星期五晚上约9时15分火警钟响起，消防到场时建筑已陷入火海；雨雪及强风令狭窄山路上的灭火工作更加困难。警方在现场附近截停一名骑电单车离开的33岁德国男子并将其拘捕。检方指疑犯有精神疾病迹象，已送往精神科设施，同时亦会调查是否涉及政治动机。事件中无人受伤，该建筑自1950年代起一直用作餐厅。"
+  },
+  "tags": {
+   "en": [
+    "Eagle's Nest",
+    "Germany",
+    "arson",
+    "Berchtesgaden"
+   ],
+   "zh_hant": [
+    "鷹巢",
+    "德國",
+    "縱火",
+    "貝希特斯加登"
+   ],
+   "zh_hans": [
+    "鹰巢",
+    "德国",
+    "纵火",
+    "贝希特斯加登"
+   ]
+  }
  }
 ]
