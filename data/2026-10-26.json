@@ -1253,5 +1253,165 @@
    "zh_hans": "气旋阿尔纳布将增强为强烈气旋　10月28日登陆安得拉邦",
    "zh_hant": "氣旋阿爾納布將增強為強烈氣旋　10月28日登陸安得拉邦"
   }
+ },
+ {
+  "category": "hk",
+  "id": "20261026-hkstp-merck-hong-kong-centre",
+  "image_url": "https://images.media-outreach.com/Thumb/1600x1067/829194/829194-P1-JPG-1600x1067.jpeg",
+  "published_at": "2026-10-26T10:00:00+08:00",
+  "source": {
+   "name": "South African Business News",
+   "url": "https://www.southafricanbusinessnews.co.za/2026/10/26/hkstp-partners-with-leading-science-and-technology-company-merck-to-open-a-new-chapter-in-it-collaboration/"
+  },
+  "summary": {
+   "en": "Hong Kong Science and Technology Parks Corporation and Merck have signed a collaboration agreement to establish the Merck Hong Kong Centre at Hong Kong Science Park. The centre will give park startups and researchers access to advanced scientific products, live technology demonstrations and expert consultation, alongside technical training, clinical advisory sessions and an innovation scouting programme. The two sides will also co-host an annual flagship event, Merck Innovation Day, as they look to connect local innovators with Merck's global networks and accelerate the commercialisation of research in life science, healthcare and electronics across the Greater Bay Area.",
+   "zh_hans": "香港科技园公司与科技公司默克签署合作协议，于香港科学园设立「默克香港中心」。中心将为园区初创及研究人员提供先进科研产品、技术现场示范及专家咨询服务，并透过技术培训、临床咨询及创新发掘计划，协助本地创科人才对接默克的全球网络。双方亦会合办年度旗舰活动「默克创新日」，推动生命科学、医疗健康及电子领域的研发成果商品化，把握大湾区及国际市场机遇。",
+   "zh_hant": "香港科技園公司與科技公司默克簽署合作協議，於香港科學園設立「默克香港中心」。中心將為園區初創及研究人員提供先進科研產品、技術現場示範及專家諮詢服務，並透過技術培訓、臨床諮詢及創新發掘計劃，協助本地創科人才對接默克的全球網絡。雙方亦會合辦年度旗艦活動「默克創新日」，推動生命科學、醫療健康及電子領域的研發成果商品化，把握大灣區及國際市場機遇。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Science and Technology Parks Corporation",
+    "Merck",
+    "Hong Kong Science Park",
+    "innovation and technology"
+   ],
+   "zh_hans": [
+    "香港科技园公司",
+    "默克",
+    "香港科学园",
+    "创新科技"
+   ],
+   "zh_hant": [
+    "香港科技園公司",
+    "默克",
+    "香港科學園",
+    "創新科技"
+   ]
+  },
+  "title": {
+   "en": "HKSTP and Merck to open Merck Hong Kong Centre at Science Park",
+   "zh_hans": "科技园与默克合作　科学园设「默克香港中心」　助初创研发成果商品化",
+   "zh_hant": "科技園與默克合作　科學園設「默克香港中心」　助初創研發成果商品化"
+  }
+ },
+ {
+  "category": "china",
+  "id": "20261026-ccp-fifth-plenum-opens",
+  "image_url": "",
+  "published_at": "2026-10-26T09:03:00+08:00",
+  "source": {
+   "name": "SRN News",
+   "url": "https://srnnews.com/chinas-communist-party-opens-fifth-plenum/"
+  },
+  "summary": {
+   "en": "China's Communist Party has opened a four-day meeting of its Central Committee in Beijing, with President Xi Jinping briefing senior cadres on a draft document centred on 'full and rigorous party self-governance'. State news agency Xinhua said the document addresses the challenges facing the party, including strengthening its governing capacity, guarding against complacency and combating corruption. The meeting runs until Thursday and is the fifth plenum since the current Central Committee was formed in 2022. Analysts say it is likely the last major party gathering before a leadership reshuffle in 2027, when Xi is expected to seek a fourth term.",
+   "zh_hans": "中共中央委员会星期一在北京召开为期四日的五中全会，国家主席习近平向高层干部介绍一份以「全面从严治党」为中心的文件草案。据新华社报道，文件针对党面临的挑战，包括提升管治能力、防止自满松懈及打击贪腐。会议将举行至星期四，是本届中央委员会自2022年组成以来第五次全会。分析认为，这可能是2027年领导层换届前最后一次重要党内会议，习近平预料将寻求第四个任期。",
+   "zh_hant": "中共中央委員會星期一在北京召開為期四日的五中全會，國家主席習近平向高層幹部介紹一份以「全面從嚴治黨」為中心的文件草案。據新華社報道，文件針對黨面臨的挑戰，包括提升管治能力、防止自滿鬆懈及打擊貪腐。會議將舉行至星期四，是本屆中央委員會自2022年組成以來第五次全會。分析認為，這可能是2027年領導層換屆前最後一次重要黨內會議，習近平預料將尋求第四個任期。"
+  },
+  "tags": {
+   "en": [
+    "Communist Party of China",
+    "fifth plenum",
+    "Xi Jinping",
+    "Central Committee"
+   ],
+   "zh_hans": [
+    "中共",
+    "五中全会",
+    "习近平",
+    "中央委员会"
+   ],
+   "zh_hant": [
+    "中共",
+    "五中全會",
+    "習近平",
+    "中央委員會"
+   ]
+  },
+  "title": {
+   "en": "China's Communist Party opens fifth plenum, with Xi briefing cadres on tighter party discipline",
+   "zh_hans": "中共二十届五中全会开幕　习近平部署全面从严治党　聚焦2027年人事布局",
+   "zh_hant": "中共二十屆五中全會開幕　習近平部署全面從嚴治黨　聚焦2027年人事佈局"
+  }
+ },
+ {
+  "category": "world",
+  "id": "20261026-cyclone-arnab-evacuation-570k",
+  "image_url": "",
+  "published_at": "2026-10-26T17:43:00+08:00",
+  "source": {
+   "name": "The Daily Jagran",
+   "url": "https://www.thedailyjagran.com/india/news/cyclone-arnab-alert-andhra-odisha-brace-for-stormy-weather-as-landfall-expected-on-oct-28-electric-poles-stocked-teams-deployed-10333981"
+  },
+  "summary": {
+   "en": "Authorities in Andhra Pradesh have identified about 570,000 people in high-risk coastal and low-lying areas for evacuation as Cyclone Arnab approaches the eastern coast of India, with the evacuation due to begin on Monday evening. The cyclone is expected to strengthen into a very severe cyclonic storm on Tuesday before making landfall between Bapatla and Visakhapatnam on Wednesday morning, bringing sustained winds of 115 to 125 kilometres per hour. Power utilities in the state are on high alert and have stockpiled 25,000 electricity poles and other materials to restore supply quickly after any disruption. In neighbouring Odisha, about 20 disaster response teams have been deployed, with a three-phase plan to field 60 teams, and schools in five vulnerable districts will close on Wednesday and Thursday.",
+   "zh_hans": "气旋阿尔纳布逼近印度东岸，安得拉邦当局已确定约57万名居于高危沿岸及低洼地区的居民需要撤离，撤离工作于星期一傍晚展开。气旋预料星期二增强为特强气旋风暴，星期三上午在巴帕特拉至维沙卡帕特南之间登陆，最高持续风速每小时115至125公里。邦内电力公司已进入高度戒备，预先储备2.5万支电线杆及其他物资，以便停电后尽快恢复供电。邻邦奥迪沙邦已派出约20支救灾队，并制定三阶段计划共派出60支队伍，受影响五个县的学校将于星期三及星期四停课。",
+   "zh_hant": "氣旋阿爾納布逼近印度東岸，安得拉邦當局已確定約57萬名居於高危沿岸及低窪地區的居民需要撤離，撤離工作於星期一傍晚展開。氣旋預料星期二增強為特強氣旋風暴，星期三上午在巴帕特拉至維沙卡帕特南之間登陸，最高持續風速每小時115至125公里。邦內電力公司已進入高度戒備，預先儲備2.5萬支電線桿及其他物資，以便停電後盡快恢復供電。鄰邦奧迪沙邦已派出約20支救災隊，並制定三階段計劃共派出60支隊伍，受影響五個縣的學校將於星期三及星期四停課。"
+  },
+  "tags": {
+   "en": [
+    "Cyclone Arnab",
+    "Andhra Pradesh",
+    "Odisha",
+    "India"
+   ],
+   "zh_hans": [
+    "气旋阿尔纳布",
+    "安得拉邦",
+    "奥迪沙邦",
+    "印度"
+   ],
+   "zh_hant": [
+    "氣旋阿爾納布",
+    "安得拉邦",
+    "奧迪沙邦",
+    "印度"
+   ]
+  },
+  "title": {
+   "en": "Cyclone Arnab nears India: 570,000 people to be evacuated in Andhra Pradesh as landfall nears",
+   "zh_hans": "气旋阿尔纳布逼近印度　安得拉邦57万人撤离　电力部门戒备防停电",
+   "zh_hant": "氣旋阿爾納布逼近印度　安得拉邦57萬人撤離　電力部門戒備防停電"
+  }
+ },
+ {
+  "category": "entertainment",
+  "id": "20261026-charli-xcx-scorsese-film",
+  "image_url": "",
+  "published_at": "2026-10-26T15:06:00+08:00",
+  "source": {
+   "name": "Z96",
+   "url": "https://www.z96.com/2026/10/26/from-pop-star-to-screen-star-charli-xcx-cast-in-upcoming-martin-scorsese-film/"
+  },
+  "summary": {
+   "en": "Singer Charli XCX is adding another film role to her acting career, joining the cast of Martin Scorsese's upcoming gothic psychological drama 'What Happens at Night'. She will make a cameo appearance in the film, which stars Leonardo DiCaprio and Jennifer Lawrence as an American couple who travel to a snowy European town to adopt a baby, only for their visit to take an unsettling turn. The cast also includes Mads Mikkelsen, Patricia Clarkson and Jared Harris. No release date has been announced.",
+   "zh_hans": "歌手 Charli XCX 再添电影演出机会，将参演马田史高西斯执导的新片《What Happens at Night》，在片中客串演出。这部哥德式心理剧情片由里安纳度狄卡比奥及珍妮花罗伦丝主演，讲述一对美国夫妇前往欧洲一个雪山小镇领养婴儿，旅程却出现令人不安的转折。其他演员包括麦斯米基辛、柏翠茜亚克拉逊及谢拉特夏里斯，电影上映日期尚未公布。",
+   "zh_hant": "歌手 Charli XCX 再添電影演出機會，將參演馬田史高西斯執導的新片《What Happens at Night》，在片中客串演出。這部哥德式心理劇情片由里安納度狄卡比奧及珍妮花羅倫絲主演，講述一對美國夫婦前往歐洲一個雪山小鎮領養嬰兒，旅程卻出現令人不安的轉折。其他演員包括麥斯米基辛、柏翠茜亞克拉遜及謝拉特夏里斯，電影上映日期尚未公布。"
+  },
+  "tags": {
+   "en": [
+    "Charli XCX",
+    "Martin Scorsese",
+    "What Happens at Night",
+    "film"
+   ],
+   "zh_hans": [
+    "Charli XCX",
+    "马田史高西斯",
+    "电影",
+    "里安纳度狄卡比奥"
+   ],
+   "zh_hant": [
+    "Charli XCX",
+    "馬田史高西斯",
+    "電影",
+    "里安納度狄卡比奧"
+   ]
+  },
+  "title": {
+   "en": "Charli XCX joins Martin Scorsese's new film 'What Happens at Night'",
+   "zh_hans": "Charli XCX 参演史高西斯新片《What Happens at Night》　与里安纳度及珍妮花罗伦丝同场",
+   "zh_hant": "Charli XCX 參演史高西斯新片《What Happens at Night》　與里安納度及珍妮花羅倫絲同場"
+  }
  }
 ]
