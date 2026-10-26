@@ -721,5 +721,325 @@
    "zh_hans": "「谭盾 WE-音乐节」12月上演　两大国家级艺术团体首次联袂来港",
    "zh_hant": "「譚盾 WE-音樂節」12月上演　兩大國家級藝術團體首次聯袂來港"
   }
+ },
+ {
+  "category": "society",
+  "id": "20261026-shek-kwu-chau-fire-epd-followup",
+  "image_url": "",
+  "published_at": "2026-10-26T22:12:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/26/P2026102600730.htm"
+  },
+  "summary": {
+   "en": "The fire at the I.PARK1 waste incinerator on an artificial island off Shek Kwu Chau was largely put out at about 4.45pm on Monday, the Environmental Protection Department said in a follow-up statement. Preliminary findings point to the roof of the main incinerator building's third incineration module as the fire's origin; about 970 construction workers and operational staff were evacuated in an orderly manner and one staff member felt unwell and was sent to hospital. The department has instructed the contractor to submit a report within seven days, suspended waste reception at the facility, and arranged extended operating hours at the West New Territories Landfill Extension to keep the city's waste system running.",
+   "zh_hans": "环保署晚上发出跟进稿，指石鼓洲人工岛 I.PARK1 焚化设施火警于今日下午约4时45分大致救熄，初步资料显示火警源于主焚化炉大楼第三焚化模组范围的天台。约970名建筑工人及运作人员有序疏散，一名职员感到不适送院。环保署已指示承办商七日内提交火警报告，并暂停设施接收废物，同时安排新界西堆填区扩展部分延长运作时间，维持全港废物管理系统正常运作。",
+   "zh_hant": "環保署晚上發出跟進稿，指石鼓洲人工島 I.PARK1 焚化設施火警於今日下午約4時45分大致救熄，初步資料顯示火警源於主焚化爐大樓第三焚化模組範圍的天台。約970名建築工人及運作人員有序疏散，一名職員感到不適送院。環保署已指示承辦商七日內提交火警報告，並暫停設施接收廢物，同時安排新界西堆填區擴展部份延長運作時間，維持全港廢物管理系統正常運作。"
+  },
+  "tags": {
+   "en": [
+    "Shek Kwu Chau",
+    "I.PARK1",
+    "fire",
+    "Environmental Protection Department"
+   ],
+   "zh_hans": [
+    "石鼓洲",
+    "I.PARK1",
+    "火警",
+    "环保署"
+   ],
+   "zh_hant": [
+    "石鼓洲",
+    "I.PARK1",
+    "火警",
+    "環保署"
+   ]
+  },
+  "title": {
+   "en": "Shek Kwu Chau incinerator fire largely out; EPD orders report within seven days",
+   "zh_hans": "石鼓洲焚化炉火警大致救熄　环保署要求承办商七日内交报告",
+   "zh_hant": "石鼓洲焚化爐火警大致救熄　環保署要求承辦商七日內交報告"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261026-hkma-ehkd-fraud-loan-scheme",
+  "image_url": "",
+  "published_at": "2026-10-26T19:05:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/26/P2026102600637.htm"
+  },
+  "summary": {
+   "en": "The Hong Kong Monetary Authority has warned the public about a fraudulent loan scheme that falsely claims to be related to its e-HKD project, after receiving a large number of public enquiries. The scheme tricks people into signing agreements and claims the loans will be converted into digital Hong Kong dollar assets; the authority stressed it has no connection with the scheme and will never contact members of the public about personal financial matters or ask for fund transfers. Firms in the e-HKD pilot programme and other HKMA sandbox programmes will not solicit funding from the public, and the cases have been reported to police.",
+   "zh_hans": "金管局表示接获大量市民查询，指有骗徒冒认与电子港元有关推出贷款计划，诱使市民签署协议，讹称贷款会转换为数码港元资产。金管局澄清有关协议及贷款计划与金管局完全无关，强调金管局不会就个人财务事宜联络市民或要求转账。电子港元先导计划及其他沙盒计划的参与机构亦不会向公众集资或推销相关财富及投资产品，案件已交警方跟进。",
+   "zh_hant": "金管局表示接獲大量市民查詢，指有騙徒冒認與電子港元有關推出貸款計劃，誘使市民簽署協議，訛稱貸款會轉換為數碼港元資產。金管局澄清有關協議及貸款計劃與金管局完全無關，強調金管局不會就個人財務事宜聯絡市民或要求轉帳。電子港元先導計劃及其他沙盒計劃的參與機構亦不會向公眾集資或推銷相關財富及投資產品，案件已交警方跟進。"
+  },
+  "tags": {
+   "en": [
+    "e-HKD",
+    "HKMA",
+    "fraud",
+    "scam alert"
+   ],
+   "zh_hans": [
+    "电子港元",
+    "金管局",
+    "诈骗",
+    "防骗警示"
+   ],
+   "zh_hant": [
+    "電子港元",
+    "金管局",
+    "詐騙",
+    "防騙警示"
+   ]
+  },
+  "title": {
+   "en": "HKMA warns of fraudulent e-HKD loan scheme falsely claiming links to the authority",
+   "zh_hans": "金管局澄清　冒认电子港元贷款计划属诈骗　与金管局无关",
+   "zh_hant": "金管局澄清　冒認電子港元貸款計劃屬詐騙　與金管局無關"
+  }
+ },
+ {
+  "category": "society",
+  "id": "20261026-afcd-dog-bite-yuen-long",
+  "image_url": "",
+  "published_at": "2026-10-26T21:40:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/26/P2026102600716.htm"
+  },
+  "summary": {
+   "en": "The Agriculture, Fisheries and Conservation Department took away a dog from a warehouse on Kam Pok Road in Yuen Long on Monday morning after police referred a suspected dog bite case, and sent the animal to an animal management centre for detention and observation. The dog is a microchipped mongrel with a valid licence; the department is investigating and will prosecute if there is sufficient evidence. The department reminded keepers that dogs in public places must be held on a leash or otherwise kept under proper control, with fines of up to $10,000, and up to $25,000 and three months' jail for large dogs not properly leashed.",
+   "zh_hans": "渔护署今早接获警方转介一宗怀疑狗咬人个案，派员到元朗锦壆路一间货仓带走涉事狗只，送往动物管理中心扣留观察。涉事狗只为已植入芯片及领有有效牌照的唐狗，署方正跟进调查，如有足够证据会提出检控。渔护署提醒狗主，狗只在公众地方必须以狗带牵引或以其他方式妥善控制，违者最高罚款一万元；大型狗只未以不超过两米的狗带妥善牵引，最高可罚款二万五千元及监禁三个月。",
+   "zh_hant": "漁護署今早接獲警方轉介一宗懷疑狗咬人個案，派員到元朗錦壆路一間貨倉帶走涉事狗隻，送往動物管理中心扣留觀察。涉事狗隻為已植入晶片及領有有效牌照的唐狗，署方正跟進調查，如有足夠證據會提出檢控。漁護署提醒狗主，狗隻在公眾地方必須以狗帶牽引或以其他方式妥善控制，違者最高罰款一萬元；大型狗隻未以不超過兩米的狗帶妥善牽引，最高可罰款二萬五千元及監禁三個月。"
+  },
+  "tags": {
+   "en": [
+    "AFCD",
+    "dog bite",
+    "Yuen Long",
+    "pet owners"
+   ],
+   "zh_hans": [
+    "渔护署",
+    "狗咬人",
+    "元朗",
+    "狗主"
+   ],
+   "zh_hant": [
+    "漁護署",
+    "狗咬人",
+    "元朗",
+    "狗主"
+   ]
+  },
+  "title": {
+   "en": "AFCD reminds dog keepers to keep dogs on a leash after suspected bite in Yuen Long",
+   "zh_hans": "元朗疑狗咬人　渔护署带走涉事狗只　提醒狗主要妥善控制犬只",
+   "zh_hant": "元朗疑狗咬人　漁護署帶走涉事狗隻　提醒狗主要妥善控制犬隻"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261026-legco-policy-pulse-medical-hub",
+  "image_url": "",
+  "published_at": "2026-10-26T19:05:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/26/P2026102600620.htm"
+  },
+  "summary": {
+   "en": "The Legislative Council Secretariat has released the latest issue of its Policy Pulse on developing Hong Kong into an international health and medical innovation hub, covering reform of the drug and medical device regulatory regime and the promotion of Chinese medicine. The paper notes Hong Kong is the largest biotechnology fundraising platform in Asia-Pacific and the second largest globally, that around one-third of the strategic enterprises attracted by the Office for Attracting Strategic Enterprises are in life and health technology, and that the Government plans to submit a bill by the end of the year to set up the Hong Kong Centre for Medical Products Regulation. Members urged the Government to speed up the 'primary evaluation' mechanism for new drugs and to make Hong Kong one of the world's first-launch markets for new medicines.",
+   "zh_hans": "立法会秘书处今日发表新一期《政策脉搏》，主题为发展国际健康及医疗创新枢纽，介绍香港改革药械监管制度及推动中医药传承创新的措施和最新进展，并综述议员的讨论和建议。文件指出，香港是亚太区最大、全球第二大的生物科技集资平台，驻港引进重点企业办公室引进的重点企业中约三分之一来自生命健康科技；政府计划年底前向立法会提交条例草案，成立香港药物及医疗器械监督管理中心。议员促请政府加快落实新药「第一层审批」机制，让香港成为全球新药首发市场之一。",
+   "zh_hant": "立法會秘書處今日發表新一期《政策脈搏》，主題為發展國際健康及醫療創新樞紐，介紹香港改革藥械監管制度及推動中醫藥傳承創新的措施和最新進展，並綜述議員的討論和建議。文件指出，香港是亞太區最大、全球第二大的生物科技集資平台，駐港引進重點企業辦公室引進的重點企業中約三分之一來自生命健康科技；政府計劃年底前向立法會提交條例草案，成立香港藥物及醫療器械監督管理中心。議員促請政府加快落實新藥「第一層審批」機制，讓香港成為全球新藥首發市場之一。"
+  },
+  "tags": {
+   "en": [
+    "LegCo",
+    "Policy Pulse",
+    "medical innovation",
+    "Chinese medicine"
+   ],
+   "zh_hans": [
+    "立法会",
+    "政策脉搏",
+    "医疗创新",
+    "中医药"
+   ],
+   "zh_hant": [
+    "立法會",
+    "政策脈搏",
+    "醫療創新",
+    "中醫藥"
+   ]
+  },
+  "title": {
+   "en": "LegCo Policy Pulse sets out Hong Kong's bid to become a global health and medical innovation hub",
+   "zh_hans": "立法会《政策脉搏》　介绍香港发展国际健康及医疗创新枢纽",
+   "zh_hant": "立法會《政策脈搏》　介紹香港發展國際健康及醫療創新樞紐"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261026-new-medical-school-hkust-progress",
+  "image_url": "https://gia.info.gov.hk/general/202610/26/P2026102600307_photo_1342166.jpg",
+  "published_at": "2026-10-26T17:52:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/26/P2026102600307.htm"
+  },
+  "summary": {
+   "en": "The Task Group on New Medical School held its fifth meeting on Monday to hear a progress report from the Hong Kong University of Science and Technology on preparations for the city's third medical school. HKUST has put forward a staffing plan for 2026 to 2030, proposed the framework for a four-year graduate-entry medical programme, and will use Kai Tak Hospital as its interim teaching hospital; its Medical Education and Research Complex on the Clear Water Bay campus is expected to be completed by 2028. The Government and HKUST have signed a memorandum of understanding covering funding, accreditation, teaching and capital works, with the first cohort of 50 students due to be admitted in the 2028/29 academic year.",
+   "zh_hans": "新医学院专责小组今日举行第五次会议，听取香港科技大学汇报筹建本港第三所医学院的进度。科大已提出2026至2030年学术及行政人员编制计划，并建议四年制研究生医学课程的整体框架及科目大纲，将以启德医院作为临时教学医院；清水湾校园的医学教育及研究大楼预计2028年落成。政府与科大已签署谅解备忘录，涵盖财政安排、课程认证、临床教学及基建工程，目标2028/29学年招收首届50名学生。",
+   "zh_hant": "新醫學院專責小組今日舉行第五次會議，聽取香港科技大學匯報籌建本港第三所醫學院的進度。科大已提出2026至2030年學術及行政人員編制計劃，並建議四年制研究生醫學課程的整體框架及科目大綱，將以啟德醫院作為臨時教學醫院；清水灣校園的醫學教育及研究大樓預計2028年落成。政府與科大已簽署諒解備忘錄，涵蓋財政安排、課程認證、臨床教學及基建工程，目標2028/29學年招收首屆50名學生。"
+  },
+  "tags": {
+   "en": [
+    "HKUST",
+    "medical school",
+    "third medical school",
+    "medical education"
+   ],
+   "zh_hans": [
+    "科大",
+    "医学院",
+    "第三所医学院",
+    "医学教育"
+   ],
+   "zh_hant": [
+    "科大",
+    "醫學院",
+    "第三所醫學院",
+    "醫學教育"
+   ]
+  },
+  "title": {
+   "en": "Third medical school on track for first intake in 2028 as task group reviews HKUST progress",
+   "zh_hans": "第三所医学院筹建进展顺利　专责小组：目标2028年首届收生",
+   "zh_hant": "第三所醫學院籌建進展順利　專責小組：目標2028年首屆收生"
+  }
+ },
+ {
+  "category": "world",
+  "id": "20261026-serbia-student-list-wins-election",
+  "image_url": "https://eutoday.net/wp-content/uploads/2026/10/Protests_in_Serbia_regarding_the_fall_of_a_concrete_canopy_54296458373.jpg",
+  "published_at": "2026-10-26T07:40:00+08:00",
+  "source": {
+   "name": "EU Today",
+   "url": "https://eutoday.net/serbia-student-list-wins-election-vucic-concedes/"
+  },
+  "summary": {
+   "en": "Serbia's student-backed opposition has won Sunday's snap parliamentary election, with President Aleksandar Vucic conceding defeat on election night after preliminary projections gave the Student List a majority in the 250-seat National Assembly. Projections put the Student List at 135 to 140 seats against about 105 for Vucic's Serbian Progressive Party-led bloc, and a preliminary count of 96.9 per cent of polling stations gave the students 53.3 per cent of the vote. Turnout reached 68.8 per cent, about ten points higher than in 2023, in an election that followed nearly two years of student-led anti-corruption protests after the 2024 Novi Sad station canopy collapse that killed 16 people.",
+   "zh_hans": "塞尔维亚学生支持的反对派在星期日的提前国会选举中胜出，总统武契奇在选举之夜承认落败。初步预测显示，学生名单将在250席的国民议会中取得135至140席，对手进步党联盟约105席；已点算96.9%票站的初步结果显示，学生名单得票53.3%。今次投票率达68.8%，较2023年高约十个百分点。选举源于2024年诺维萨德车站天篷倒塌致16人死亡后、持续近两年的学生反贪抗议运动。",
+   "zh_hant": "塞爾維亞學生支持的反對派在星期日的提前國會選舉中勝出，總統武契奇在選舉之夜承認落敗。初步預測顯示，學生名單將在250席的國民議會中取得135至140席，對手進步黨聯盟約105席；已點算96.9%票站的初步結果顯示，學生名單得票53.3%。今次投票率達68.8%，較2023年高約十個百分點。選舉源於2024年諾維薩德車站天篷倒塌致16人死亡後、持續近兩年的學生反貪抗議運動。"
+  },
+  "tags": {
+   "en": [
+    "Serbia",
+    "election",
+    "Student List",
+    "Vucic"
+   ],
+   "zh_hans": [
+    "塞尔维亚",
+    "国会选举",
+    "学生名单",
+    "武契奇"
+   ],
+   "zh_hant": [
+    "塞爾維亞",
+    "國會選舉",
+    "學生名單",
+    "武契奇"
+   ]
+  },
+  "title": {
+   "en": "Serbia's student-backed opposition wins parliamentary election as Vucic concedes defeat",
+   "zh_hans": "塞尔维亚国会选举　学生名单胜出　武契奇承认落败",
+   "zh_hant": "塞爾維亞國會選舉　學生名單勝出　武契奇承認落敗"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261026-sfc-tokenized-funds-secondary-trading",
+  "image_url": "",
+  "published_at": "2026-10-26T15:32:00+08:00",
+  "source": {
+   "name": "HK Businesswire",
+   "url": "https://hkbusinesswire.com/hk-gets-world-first-secondary-tokenised-funds-trading/"
+  },
+  "summary": {
+   "en": "The Securities and Futures Commission has approved the world's first secondary trading of tokenised public funds on a licensed virtual asset trading platform, with round-the-clock trading of two tokenised money market funds beginning on Monday. The approval builds on a regulatory framework introduced in April covering trading operations, fair pricing, liquidity provision and disclosure, and applies to two existing SFC-authorised tokenised money market funds from ChinaAMC. The SFC said tokenised public funds could in future connect with tokenised deposit capabilities under Project Ensemble with the HKMA, and that it will monitor trading closely and consider widening the product range over time.",
+   "zh_hans": "证监会批准全球首宗代币化公募基金在持牌虚拟资产交易平台进行二手交易，两只代币化货币市场基金由今日起可24小时买卖。是次批准建基于今年4月推出的监管框架，涵盖交易运作、公平定价、流动性提供及披露要求，首批产品为华夏基金两只已获认可的代币化货币市场基金。证监会表示，代币化公募基金日后可与金管局「Ensemble 项目」下的代币化存款功能接轨，并会密切监察交易情况，适时考虑扩大产品范围。",
+   "zh_hant": "證監會批准全球首宗代幣化公募基金在持牌虛擬資產交易平台進行二手交易，兩隻代幣化貨幣市場基金由今日起可24小時買賣。是次批准建基於今年4月推出的監管框架，涵蓋交易運作、公平定價、流動性提供及披露要求，首批產品為華夏基金兩隻已獲認可的代幣化貨幣市場基金。證監會表示，代幣化公募基金日後可與金管局「Ensemble 項目」下的代幣化存款功能接軌，並會密切監察交易情況，適時考慮擴大產品範圍。"
+  },
+  "tags": {
+   "en": [
+    "SFC",
+    "tokenised funds",
+    "virtual assets",
+    "ChinaAMC"
+   ],
+   "zh_hans": [
+    "证监会",
+    "代币化基金",
+    "虚拟资产",
+    "华夏基金"
+   ],
+   "zh_hant": [
+    "證監會",
+    "代幣化基金",
+    "虛擬資產",
+    "華夏基金"
+   ]
+  },
+  "title": {
+   "en": "SFC approves world's first secondary trading of tokenised public funds, with 24/7 trading from Monday",
+   "zh_hans": "证监会批准全球首宗代币化公募基金二手交易　今起24小时买卖",
+   "zh_hant": "證監會批准全球首宗代幣化公募基金二手交易　今起24小時買賣"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261026-hkex-ai-semiconductor-indices",
+  "image_url": "",
+  "published_at": "2026-10-26T06:10:00+08:00",
+  "source": {
+   "name": "ChinaTechNews",
+   "url": "https://www.chinatechnews.com/2026/10/26/131349-hong-kong-exchange-launches-ai-and-semiconductor-indices-with-mainland-etf-deal"
+  },
+  "summary": {
+   "en": "Hong Kong Exchanges and Clearing has launched two new thematic indices covering artificial intelligence and semiconductors, expanding its proprietary index series for institutional and retail investors. As part of the rollout, HKEX signed a licensing agreement with China Southern Asset Management to issue a mainland-listed exchange-traded fund tracking the new AI index. HKEX said artificial intelligence and semiconductors have become primary drivers of global growth, and the partnership will broaden investment options while boosting liquidity and market depth across Hong Kong and the mainland.",
+   "zh_hans": "香港交易所推出两只新主题指数，分别涵盖人工智能及半导体，扩大其自有指数系列，为机构及散户投资者提供追踪区内科技板块的基准工具。港交所同时与南方基金签署授权协议，将在内地发行追踪新AI指数的交易所买卖基金。港交所表示，人工智能及半导体已成为全球增长的主要动力，合作有助扩阔投资选择，并提升香港及内地市场的流动性及深度。",
+   "zh_hant": "香港交易所推出兩隻新主題指數，分別涵蓋人工智能及半導體，擴大其自有指數系列，為機構及散戶投資者提供追蹤區內科技板塊的基準工具。港交所同時與南方基金簽署授權協議，將在內地發行追蹤新AI指數的交易所買賣基金。港交所表示，人工智能及半導體已成為全球增長的主要動力，合作有助擴闊投資選擇，並提升香港及內地市場的流動性及深度。"
+  },
+  "tags": {
+   "en": [
+    "HKEX",
+    "AI index",
+    "semiconductor",
+    "ETF"
+   ],
+   "zh_hans": [
+    "港交所",
+    "人工智能指数",
+    "半导体",
+    "ETF"
+   ],
+   "zh_hant": [
+    "港交所",
+    "人工智能指數",
+    "半導體",
+    "ETF"
+   ]
+  },
+  "title": {
+   "en": "HKEX launches AI and semiconductor indices, with mainland ETF tracking the AI benchmark",
+   "zh_hans": "港交所推出人工智能及半导体指数　内地ETF将追踪AI指数",
+   "zh_hant": "港交所推出人工智能及半導體指數　內地ETF將追蹤AI指數"
+  }
  }
 ]
