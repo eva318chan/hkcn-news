@@ -1041,5 +1041,217 @@
    "zh_hans": "港交所推出人工智能及半导体指数　内地ETF将追踪AI指数",
    "zh_hant": "港交所推出人工智能及半導體指數　內地ETF將追蹤AI指數"
   }
+ },
+ {
+  "category": "society",
+  "id": "20261026-cfs-poultry-import-denmark-suspended",
+  "image_url": "",
+  "published_at": "2026-10-26T18:22:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/26/P2026102600485.htm"
+  },
+  "summary": {
+   "en": "The Centre for Food Safety has suspended imports of poultry meat and products, including eggs, from Slagelse Municipality in Denmark with immediate effect, after the World Organisation for Animal Health reported an outbreak of highly pathogenic H5N1 avian influenza there. Hong Kong imported about 390 tonnes of frozen poultry meat from Denmark in the first six months of this year. The centre said it has contacted the Danish authorities and will monitor the situation closely.",
+   "zh_hans": "食物环境卫生署食物安全中心宣布，因应世界动物卫生组织通报丹麦斯拉格尔瑟市爆发高致病性H5N1禽流感，即时暂停进口当地禽肉及禽类产品，包括禽蛋，以保障香港公众健康。据政府统计处资料，本港今年首六个月从丹麦进口约390公吨冷藏禽肉。食安中心表示已联络丹麦当局，会密切监察禽流感疫情发展，并采取适当行动。",
+   "zh_hant": "食物環境衞生署食物安全中心宣布，因應世界動物衞生組織通報丹麥斯拉格爾瑟市爆發高致病性H5N1禽流感，即時暫停進口當地禽肉及禽類產品，包括禽蛋，以保障香港公眾健康。據政府統計處資料，本港今年首六個月從丹麥進口約390公噸冷藏禽肉。食安中心表示已聯絡丹麥當局，會密切監察禽流感疫情發展，並採取適當行動。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong",
+    "poultry",
+    "avian influenza",
+    "Denmark",
+    "food safety"
+   ],
+   "zh_hans": [
+    "禽流感",
+    "丹麦",
+    "食物安全",
+    "进口",
+    "食安中心"
+   ],
+   "zh_hant": [
+    "禽流感",
+    "丹麥",
+    "食物安全",
+    "進口",
+    "食安中心"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong suspends poultry imports from Danish municipality after H5N1 outbreak",
+   "zh_hans": "丹麦斯拉格尔瑟爆发禽流感　香港即时暂停进口当地禽肉产品",
+   "zh_hant": "丹麥斯拉格爾瑟爆發禽流感　香港即時暫停進口當地禽肉產品"
+  }
+ },
+ {
+  "category": "society",
+  "id": "20261026-legionnaires-disease-update-oct26",
+  "image_url": "",
+  "published_at": "2026-10-26T17:20:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/26/P2026102600589.htm"
+  },
+  "summary": {
+   "en": "The Centre for Health Protection recorded three community-acquired Legionnaires' disease cases between October 18 and 24, involving men aged 36 to 83 living in Yuen Long, Kwai Tsing and Tuen Mun. Initial investigations found the cases were sporadic, with no epidemiological links to other confirmed cases. As of October 24, 163 cases had been recorded this year, compared with 167 in 2025 and 135 in 2024. The department reminded the public to maintain water systems properly and urged susceptible groups to take precautions.",
+   "zh_hans": "卫生署卫生防护中心公布，10月18日至24日录得三宗社区感染退伍军人病个案，涉及三名36至83岁男子，分别居于元朗、葵青及屯门。初步调查显示三宗个案均属散发性质，与本港其他确诊个案没有流行病学关连。截至10月24日，今年累计录得163宗，2025年及2024年全年分别为167宗及135宗。卫生署提醒市民妥善使用及保养人工供水系统，易受感染人士应严格遵从预防措施。",
+   "zh_hant": "衞生署衞生防護中心公布，10月18日至24日錄得三宗社區感染退伍軍人病個案，涉及三名36至83歲男子，分別居於元朗、葵青及屯門。初步調查顯示三宗個案均屬散發性質，與本港其他確診個案沒有流行病學關連。截至10月24日，今年累計錄得163宗，2025年及2024年全年分別為167宗及135宗。衞生署提醒市民妥善使用及保養人工供水系統，易受感染人士應嚴格遵從預防措施。"
+  },
+  "tags": {
+   "en": [
+    "Legionnaires' disease",
+    "Hong Kong",
+    "public health",
+    "Centre for Health Protection"
+   ],
+   "zh_hans": [
+    "退伍军人病",
+    "卫生防护中心",
+    "公共卫生",
+    "元朗"
+   ],
+   "zh_hant": [
+    "退伍軍人病",
+    "衞生防護中心",
+    "公共衞生",
+    "元朗"
+   ]
+  },
+  "title": {
+   "en": "Three new Legionnaires' disease cases in a week; 163 recorded in Hong Kong this year",
+   "zh_hans": "退伍军人病一周新增三宗　今年累计163宗",
+   "zh_hant": "退伍軍人病一周新增三宗　今年累計163宗"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261026-hk-ride-hailing-licences-first",
+  "image_url": "",
+  "published_at": "2026-10-26T08:00:00+08:00",
+  "source": {
+   "name": "Caixin Global",
+   "url": "https://www.caixinglobal.com/2026-10-26/hong-kong-prepares-to-issue-first-ride-hailing-platform-licenses-102497613.html"
+  },
+  "summary": {
+   "en": "Hong Kong is preparing to issue its first ride-hailing platform licences as early as late November, bringing an industry that has operated in a legal grey area for years under formal regulation. About 16,000 people have registered for the city's new combined taxi and ride-hailing written test, with a pass rate of more than 60 per cent, Transport and Logistics Secretary Mable Chan said. The government plans to cap the initial number of ride-hailing vehicle permits at 10,000.",
+   "zh_hans": "香港正准备最快11月底发出首批网约车平台牌照，将多年来处于法律灰色地带的行业纳入正式规管。运输及物流局局长陈美宝表示，约16,000人已报考新的士及网约车合并笔试，合格率超过六成。当局计划首批网约车车辆许可证上限为10,000个。",
+   "zh_hant": "香港正準備最快11月底發出首批網約車平台牌照，將多年來處於法律灰色地帶的行業納入正式規管。運輸及物流局局長陳美寶表示，約16,000人已報考新的士及網約車合併筆試，合格率超過六成。當局計劃首批網約車車輛許可證上限為10,000個。"
+  },
+  "tags": {
+   "en": [
+    "ride-hailing",
+    "Hong Kong",
+    "licences",
+    "transport",
+    "Mable Chan"
+   ],
+   "zh_hans": [
+    "网约车",
+    "牌照",
+    "运输",
+    "陈美宝",
+    "香港"
+   ],
+   "zh_hant": [
+    "網約車",
+    "牌照",
+    "運輸",
+    "陳美寶",
+    "香港"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong to issue first ride-hailing platform licences as early as late November",
+   "zh_hans": "香港最快11月底发出首批网约车平台牌照",
+   "zh_hant": "香港最快11月底發出首批網約車平台牌照"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261026-midland-property-outlook-double-digit",
+  "image_url": "",
+  "published_at": "2026-10-26T13:59:00+08:00",
+  "source": {
+   "name": "Longbridge",
+   "url": "https://longbridge.com/en/news/303032460"
+  },
+  "summary": {
+   "en": "Midland Holdings' Hong Kong Property unit expects the city's home prices to record double-digit gains for the full year, citing population growth, strong rental demand and favourable policies. Its third-quarter survey found 86.8 per cent of respondents expect rents to keep rising steadily, while 41.8 per cent expect prices to stay stable and 32.9 per cent are bullish. Residential transactions in the fourth quarter are expected to rise by more than 10 per cent quarter on quarter to over 16,000 units, as buying power flows back into the secondary market.",
+   "zh_hans": "美联集团旗下香港置业公布第三季置业意向调查，预期受惠于人口增长、租务需求强劲及政策利好，全年楼价升幅有望达双位数。调查显示86.8%受访者看好未来一年租金稳步上升，41.8%预期楼价平稳，32.9%看升。美联预期第四季一二手住宅成交将同步回升，按季增加逾一成至超过16,000宗，一手交楼带动购买力逐步回流二手市场。",
+   "zh_hant": "美聯集團旗下香港置業公布第三季置業意向調查，預期受惠於人口增長、租務需求強勁及政策利好，全年樓價升幅有望達雙位數。調查顯示86.8%受訪者看好未來一年租金穩步上升，41.8%預期樓價平穩，32.9%看升。美聯預期第四季一二手住宅成交將同步回升，按季增加逾一成至超過16,000宗，一手交樓帶動購買力逐步回流二手市場。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong property",
+    "Midland",
+    "home prices",
+    "survey",
+    "Northern Metropolis"
+   ],
+   "zh_hans": [
+    "楼市",
+    "美联",
+    "楼价",
+    "置业意向",
+    "北部都会区"
+   ],
+   "zh_hant": [
+    "樓市",
+    "美聯",
+    "樓價",
+    "置業意向",
+    "北部都會區"
+   ]
+  },
+  "title": {
+   "en": "Midland forecasts double-digit Hong Kong home price gains for the full year",
+   "zh_hans": "美联料全年楼价升幅达双位数　第四季成交有望回升",
+   "zh_hant": "美聯料全年樓價升幅達雙位數　第四季成交有望回升"
+  }
+ },
+ {
+  "category": "world",
+  "id": "20261026-cyclone-arnab-very-severe-red-alert",
+  "image_url": "",
+  "published_at": "2026-10-26T20:07:00+08:00",
+  "source": {
+   "name": "Hyderabad Mail",
+   "url": "https://hyderabadmail.com/cyclone-arnab-red-alert-andhra-pradesh-coast-landfall-october-28/"
+  },
+  "summary": {
+   "en": "India's weather department has issued a red-message cyclone warning for the Andhra Pradesh and adjoining south Odisha coasts as Cyclone Arnab is expected to strengthen into a very severe cyclonic storm on October 27. The storm is forecast to cross the Andhra Pradesh and Yanam coasts between Bapatla and Visakhapatnam by the morning of October 28, with maximum sustained winds of 115 to 125 kilometres per hour and gusts up to 140. Odisha has closed schools in vulnerable districts on October 28 and 29, banned sea fishing and deployed disaster response teams as part of a zero-casualty plan.",
+   "zh_hans": "印度气象部门向安得拉邦及奥迪沙邦南部沿岸发出气旋红色警报，气旋阿尔纳布预计10月27日增强为特强气旋风暴。气旋预料10月28日上午在巴帕特拉至维沙卡帕特南之间、近亚南一带登陆，最高持续风速每小时115至125公里，阵风高达140公里。奥迪沙邦已宣布受影响地区学校10月28及29日停课、禁止出海捕鱼，并部署救灾队伍，目标零伤亡。",
+   "zh_hant": "印度氣象部門向安得拉邦及奧迪沙邦南部沿岸發出氣旋紅色警報，氣旋阿爾納布預計10月27日增強為特強氣旋風暴。氣旋預料10月28日上午在巴帕特拉至維沙卡帕特南之間、近亞南一帶登陸，最高持續風速每小時115至125公里，陣風高達140公里。奧迪沙邦已宣布受影響地區學校10月28及29日停課、禁止出海捕魚，並部署救災隊伍，目標零傷亡。"
+  },
+  "tags": {
+   "en": [
+    "Cyclone Arnab",
+    "India",
+    "Andhra Pradesh",
+    "Odisha",
+    "IMD"
+   ],
+   "zh_hans": [
+    "气旋阿尔纳布",
+    "印度",
+    "安得拉邦",
+    "奥迪沙邦",
+    "气旋"
+   ],
+   "zh_hant": [
+    "氣旋阿爾納布",
+    "印度",
+    "安得拉邦",
+    "奧迪沙邦",
+    "氣旋"
+   ]
+  },
+  "title": {
+   "en": "Cyclone Arnab set to become a very severe storm before October 28 landfall in Andhra Pradesh",
+   "zh_hans": "气旋阿尔纳布将增强为强烈气旋　10月28日登陆安得拉邦",
+   "zh_hant": "氣旋阿爾納布將增強為強烈氣旋　10月28日登陸安得拉邦"
+  }
  }
 ]
