@@ -244,5 +244,217 @@
     "东北季候风"
    ]
   }
+ },
+ {
+  "category": "finance",
+  "id": "20261028-us-stocks-close-oct27-nasdaq-leads",
+  "image_url": "https://cdncache.nyc3.digitaloceanspaces.com/images/digest/2026-10-27__indices-compare.png",
+  "published_at": "2026-10-28T04:00:00+08:00",
+  "source": {
+   "name": "StockMarketWatch",
+   "url": "https://stockmarketwatch.com/digest/2026-10-27"
+  },
+  "summary": {
+   "en": "US stocks ended higher on Tuesday, with the Nasdaq Composite climbing 1.18% to 26,477.81 as semiconductor shares extended their rally ahead of a heavy week of Big Tech earnings. The S&P 500 rose 0.60% to 7,722.60 and the Dow Jones Industrial Average edged up 0.03% to 52,377.57, while the small-cap Russell 2000 gained 1.16%. Chip stocks led the advance after Anthropic's IPO filing revived AI optimism, while Boeing fell 10.7% after reporting a quarterly loss; investors now await the Federal Reserve's rate decision and earnings from Alphabet and Microsoft on Wednesday.",
+   "zh_hans": "美股星期二收市做好，纳斯达克指数升 1.18%，收报 26,477.81 点，芯片股延续升势，市场静候大型科技股业绩。标普 500 指数升 0.60%，收报 7,722.60 点；道琼斯工业平均指数微升 0.03%，收报 52,377.57 点；小型股罗素 2000 指数升 1.16%。Anthropic 提交上市申请，带动人工智能相关股份造好；波音公布季度亏损后跌 10.7%。市场焦点转向星期三联储局议息结果，以及 Alphabet 和微软的业绩。",
+   "zh_hant": "美股星期二收市做好，納斯達克指數升 1.18%，收報 26,477.81 點，晶片股延續升勢，市場靜候大型科技股業績。標普 500 指數升 0.60%，收報 7,722.60 點；道瓊斯工業平均指數微升 0.03%，收報 52,377.57 點；小型股羅素 2000 指數升 1.16%。Anthropic 提交上市申請，帶動人工智能相關股份造好；波音公布季度虧損後跌 10.7%。市場焦點轉向星期三聯儲局議息結果，以及 Alphabet 和微軟的業績。"
+  },
+  "tags": {
+   "en": [
+    "US stocks",
+    "Nasdaq",
+    "S&P 500",
+    "Dow Jones",
+    "semiconductors"
+   ],
+   "zh_hans": [
+    "美股",
+    "纳斯达克",
+    "标普500",
+    "道琼斯",
+    "芯片股"
+   ],
+   "zh_hant": [
+    "美股",
+    "納斯達克",
+    "標普500",
+    "道瓊斯",
+    "晶片股"
+   ]
+  },
+  "title": {
+   "en": "US stocks close higher as Nasdaq jumps 1.2% on chip rally",
+   "zh_hans": "美股收市做好　纳指升 1.2% 芯片股领涨",
+   "zh_hant": "美股收市做好　納指升 1.2% 晶片股領漲"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261028-korea-gdp-q3-beats-kospi-jumps",
+  "image_url": "",
+  "published_at": "2026-10-27T09:58:00+08:00",
+  "source": {
+   "name": "InvestingLive",
+   "url": "https://investinglive.com/stock-market-update/south-korea-q3-gdp-grows-1-0-beating-forecasts-as-ai-chip-boom-lifts-exports/"
+  },
+  "summary": {
+   "en": "South Korea's economy grew 1.0% in the third quarter from the previous quarter, beating market forecasts of 0.7% and marking the third consecutive quarter in which growth topped the central bank's projections. Exports rose 2.4% and facility investment jumped 4.1%, driven by booming semiconductor demand, while private consumption fell 0.2%, its first decline in nearly four years. Exports topped $800 billion in the first nine months of the year, putting the country on track to become only the fourth economy to pass $1 trillion in annual exports. The KOSPI surged 2.9% to 5,626 on the day, with Samsung Electronics up 4.2% and SK hynix up 5.2%.",
+   "zh_hans": "韩国第三季经济按季增长 1%，胜过市场预期的 0.7%，连续第三季跑赢央行预测。受惠人工智能芯片需求强劲，出口按季升 2.4%，设备投资大增 4.1%；私人消费则跌 0.2%，为近四年来首次下跌。韩国首九个月出口已突破 8,000 亿美元，有望成为历来第四个全年出口破万亿美元的经济体。韩国综合股价指数（KOSPI）当日升 2.9%，收报 5,626 点，三星电子升 4.2%，SK 海力士升 5.2%。",
+   "zh_hant": "韓國第三季經濟按季增長 1%，勝過市場預期的 0.7%，連續第三季跑贏央行預測。受惠人工智能晶片需求強勁，出口按季升 2.4%，設備投資大增 4.1%；私人消費則跌 0.2%，為近四年來首次下跌。韓國首九個月出口已突破 8,000 億美元，有望成為歷來第四個全年出口破萬億美元的經濟體。韓國綜合股價指數（KOSPI）當日升 2.9%，收報 5,626 點，三星電子升 4.2%，SK 海力士升 5.2%。"
+  },
+  "tags": {
+   "en": [
+    "South Korea",
+    "GDP",
+    "KOSPI",
+    "semiconductors",
+    "exports"
+   ],
+   "zh_hans": [
+    "韩国",
+    "GDP",
+    "KOSPI",
+    "半导体",
+    "出口"
+   ],
+   "zh_hant": [
+    "韓國",
+    "GDP",
+    "KOSPI",
+    "半導體",
+    "出口"
+   ]
+  },
+  "title": {
+   "en": "South Korea's economy grows 1.0% in Q3 as AI chip boom lifts exports",
+   "zh_hans": "韩国第三季经济增长 1% 胜预期　AI 芯片热潮带动出口",
+   "zh_hant": "韓國第三季經濟增長 1% 勝預期　AI 晶片熱潮帶動出口"
+  }
+ },
+ {
+  "category": "world",
+  "id": "20261028-oil-iran-talks-houthi-attacks",
+  "image_url": "",
+  "published_at": "2026-10-27T15:18:00+08:00",
+  "source": {
+   "name": "路透社",
+   "url": "https://985theriver.com/2026/10/26/oil-eases-on-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive/"
+  },
+  "summary": {
+   "en": "Oil prices steadied on Tuesday as hopes of talks in Tehran eased fears of a broader Middle East supply shock, even as renewed Houthi attacks on Saudi Arabia kept risks in focus. Brent crude traded around $116 a barrel and US crude around $102, after both had fallen about 1% earlier in the session. Saudi Arabia, Turkey and Pakistan held talks with Iranian officials in Tehran on Monday and agreed to keep talking on peace and security, days after Brent surged above $117, its highest since April, following attacks on tankers near the Strait of Hormuz.",
+   "zh_hans": "油价星期二靠稳，市场憧憬德黑兰会谈有望缓和中东局势，抵销胡塞武装再度袭击沙特阿拉伯带来的供应忧虑。布兰特期油徘徊在每桶 116 美元附近，美国期油约 102 美元，两者早段曾跌约 1%。沙特阿拉伯、土耳其和巴基斯坦星期一在德黑兰与伊朗官员会谈，同意继续就和平与安全对话；上星期布兰特油价曾升穿 117 美元，创 4 月以来新高，原因是伊朗袭击霍尔木兹海峡附近油轮。",
+   "zh_hant": "油價星期二靠穩，市場憧憬德黑蘭會談有望緩和中東局勢，抵銷胡塞武裝再度襲擊沙特阿拉伯帶來的供應憂慮。布蘭特期油徘徊在每桶 116 美元附近，美國期油約 102 美元，兩者早段曾跌約 1%。沙特阿拉伯、土耳其和巴基斯坦星期一在德黑蘭與伊朗官員會談，同意繼續就和平與安全對話；上星期布蘭特油價曾升穿 117 美元，創 4 月以來新高，原因是伊朗襲擊霍爾木茲海峽附近油輪。"
+  },
+  "tags": {
+   "en": [
+    "oil",
+    "Iran",
+    "Brent crude",
+    "Middle East",
+    "Houthis"
+   ],
+   "zh_hans": [
+    "油价",
+    "伊朗",
+    "布兰特期油",
+    "中东",
+    "胡塞武装"
+   ],
+   "zh_hant": [
+    "油價",
+    "伊朗",
+    "布蘭特期油",
+    "中東",
+    "胡塞武裝"
+   ]
+  },
+  "title": {
+   "en": "Oil steadies as Iran diplomacy hopes offset renewed Houthi attacks",
+   "zh_hans": "油价靠稳　伊朗外交现曙光抵销胡塞袭击忧虑",
+   "zh_hant": "油價靠穩　伊朗外交現曙光抵銷胡塞襲擊憂慮"
+  }
+ },
+ {
+  "category": "entertainment",
+  "id": "20261028-christies-hk-li-keran-zhang-daqian",
+  "image_url": "https://imgprivate2.artprice.com/imgs/news/75417/1600",
+  "published_at": "2026-10-27T08:00:00+08:00",
+  "source": {
+   "name": "Artprice",
+   "url": "https://news.artprice.com/en/17180/christie-s-hong-kong-li-keran-and-zhang-daqian-headline-the-october-28-sale"
+  },
+  "summary": {
+   "en": "Christie's Hong Kong holds its Fine Chinese Modern and Contemporary Ink Paintings sale today, October 28, at The Henderson in Central, with works by Li Keran and Zhang Daqian leading the auction. Li's 1972 landscape 'Sailing in River Li', a 112 by 145 cm ink and colour work, carries an estimate of HK$6.5 million to HK$8.5 million, while Zhang's 1969 'Hidden Lagoon' is estimated at HK$3 million to HK$5 million. Zhang was the leading Chinese artist by auction turnover in 2025, generating $97 million, and Li ranks among the world's top 500 artists by turnover this year.",
+   "zh_hans": "佳士得香港今日在中环 The Henderson 举行「中国近现代及当代水墨画」专场拍卖，李可染和张大千的作品领衔。李可染 1972 年水墨设色作品《Sailing in River Li》，112 乘 145 厘米，估价 650 万至 850 万港元；张大千 1969 年作品《Hidden Lagoon》估价 300 万至 500 万港元。张大千 2025 年拍卖成交总额达 9,700 万美元，是成交额最高的中国艺术家；李可染今年成交额亦跻身全球 500 大艺术家之列。",
+   "zh_hant": "佳士得香港今日在中環 The Henderson 舉行「中國近現代及當代水墨畫」專場拍賣，李可染和張大千的作品領銜。李可染 1972 年水墨設色作品《Sailing in River Li》，112 乘 145 厘米，估價 650 萬至 850 萬港元；張大千 1969 年作品《Hidden Lagoon》估價 300 萬至 500 萬港元。張大千 2025 年拍賣成交總額達 9,700 萬美元，是成交額最高的中國藝術家；李可染今年成交額亦躋身全球 500 大藝術家之列。"
+  },
+  "tags": {
+   "en": [
+    "Christie's",
+    "Li Keran",
+    "Zhang Daqian",
+    "auction",
+    "Hong Kong"
+   ],
+   "zh_hans": [
+    "佳士得",
+    "李可染",
+    "张大千",
+    "拍卖",
+    "香港"
+   ],
+   "zh_hant": [
+    "佳士得",
+    "李可染",
+    "張大千",
+    "拍賣",
+    "香港"
+   ]
+  },
+  "title": {
+   "en": "Li Keran and Zhang Daqian lead Christie's Hong Kong ink painting sale",
+   "zh_hans": "佳士得香港水墨画专场今日举行　李可染、张大千领衔",
+   "zh_hant": "佳士得香港水墨畫專場今日舉行　李可染、張大千領銜"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261028-hk-wine-spirits-fair-620-exhibitors",
+  "image_url": "",
+  "published_at": "2026-10-27T12:00:00+08:00",
+  "source": {
+   "name": "BusinessFortnight",
+   "url": "https://businessfortnight.com/hong-kong-international-wine-spirits-fair-to-host-over-620-exhibitors-from-25-countries/"
+  },
+  "summary": {
+   "en": "The 18th Hong Kong International Wine & Spirits Fair will run from November 5 to 7 at the Hong Kong Convention and Exhibition Centre, with more than 620 exhibitors from over 25 countries and regions, the Hong Kong Trade Development Council said. The fair will showcase wines, spirits, sake, beer and low- and no-alcohol drinks from more than 40 places of origin, with an expanded World of Spirits zone featuring exhibitors from 16 countries and regions, including first-time participants from Mexico, Portugal, Slovakia and the United Kingdom. A public zone, Saturday Fiesta, will open to visitors aged 18 and above on November 7.",
+   "zh_hans": "第 18 届香港国际美酒展将于 11 月 5 至 7 日在香港会议展览中心举行，贸发局表示，今届有逾 620 家来自 25 个以上国家及地区的参展商。展会汇聚来自 40 多个产地的葡萄酒、烈酒、清酒、啤酒及低酒精和无酒精饮品；「世界烈酒」专区扩大规模，云集 16 个国家及地区的展商，包括首次参展的墨西哥、葡萄牙、斯洛伐克和英国。11 月 7 日的公众专区「Saturday Fiesta」将开放予 18 岁或以上人士入场。",
+   "zh_hant": "第 18 屆香港國際美酒展將於 11 月 5 至 7 日在香港會議展覽中心舉行，貿發局表示，今屆有逾 620 家來自 25 個以上國家及地區的參展商。展會匯聚來自 40 多個產地的葡萄酒、烈酒、清酒、啤酒及低酒精和無酒精飲品；「世界烈酒」專區擴大規模，雲集 16 個國家及地區的展商，包括首次參展的墨西哥、葡萄牙、斯洛伐克和英國。11 月 7 日的公眾專區「Saturday Fiesta」將開放予 18 歲或以上人士入場。"
+  },
+  "tags": {
+   "en": [
+    "Wine & Spirits Fair",
+    "HKTDC",
+    "Hong Kong",
+    "exhibition"
+   ],
+   "zh_hans": [
+    "美酒展",
+    "贸发局",
+    "香港",
+    "展览"
+   ],
+   "zh_hant": [
+    "美酒展",
+    "貿發局",
+    "香港",
+    "展覽"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong Wine & Spirits Fair to host over 620 exhibitors next week",
+   "zh_hans": "香港国际美酒展下周举行　逾 620 家参展商来自 25 个国家及地区",
+   "zh_hant": "香港國際美酒展下周舉行　逾 620 家參展商來自 25 個國家及地區"
+  }
  }
 ]
