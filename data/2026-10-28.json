@@ -927,5 +927,322 @@
     "新股"
    ]
   }
+ },
+ {
+  "category": "finance",
+  "id": "20261028-hk-trade-september-surge",
+  "image_url": "",
+  "published_at": "2026-10-28T16:30:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/28/P2026102800328.htm"
+  },
+  "summary": {
+   "en": "Hong Kong's total exports of goods jumped 64.9 per cent year on year to HK$762.6 billion in September, while imports rose 57.8 per cent to HK$808.9 billion, leaving a visible trade deficit of HK$46.3 billion. The Census and Statistics Department said the surge, driven by sustained strong exports of AI-related electronic products, marked the twentieth consecutive month of double-digit export growth and the fastest monthly year-on-year increase in over four decades. Exports to Taiwan soared 159.3 per cent, while shipments to Malaysia, Thailand, Singapore and the mainland rose by between 68.1 and 131.5 per cent.",
+   "zh_hans": "本港 9 月商品整体出口货值按年急升 64.9% 至 7,626 亿港元，进口货值亦升 57.8% 至 8,089 亿港元，有形贸易逆差 463 亿港元。政府统计处表示，在人工智能相关电子产品出口持续强劲带动下，出口连续第二十个月录得双位数增长，单月按年升幅更是逾四十年来最快。输往台湾的出口飙升 159.3%，输往马来西亚、泰国、新加坡及内地的出口亦升 68.1% 至 131.5% 不等。",
+   "zh_hant": "本港 9 月商品整體出口貨值按年急升 64.9% 至 7,626 億港元，進口貨值亦升 57.8% 至 8,089 億港元，有形貿易逆差 463 億港元。政府統計處表示，在人工智能相關電子產品出口持續強勁帶動下，出口連續第二十個月錄得雙位數增長，單月按年升幅更是逾四十年來最快。輸往台灣的出口飆升 159.3%，輸往馬來西亞、泰國、新加坡及內地的出口亦升 68.1% 至 131.5% 不等。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong trade",
+    "exports",
+    "Census and Statistics Department",
+    "AI products"
+   ],
+   "zh_hans": [
+    "对外贸易",
+    "出口",
+    "政府统计处",
+    "人工智能产品"
+   ],
+   "zh_hant": [
+    "對外貿易",
+    "出口",
+    "政府統計處",
+    "人工智能產品"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong exports surge 64.9% in September, fastest in over four decades",
+   "zh_hans": "本港 9 月出口按年急升 64.9%　逾四十年来最快",
+   "zh_hant": "本港 9 月出口按年急升 64.9%　逾四十年來最快"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261028-hang-seng-closes-higher",
+  "image_url": "",
+  "published_at": "2026-10-28T16:00:00+08:00",
+  "source": {
+   "name": "NewTimeSpace",
+   "url": "https://www.newtimespace.com/en/research/1456813.html"
+  },
+  "summary": {
+   "en": "The Hang Seng Index closed at 23,094.83 on Wednesday, up 0.23 per cent or 53.51 points, holding above the 23,000 level as AI hardware stocks rebounded. The Hang Seng China Enterprises Index added 0.32 per cent to 7,791.63 and the Hang Seng Tech Index jumped 1.40 per cent to 3,853.72, with main-board turnover of HK$181.4 billion. Brain-computer interface stocks led the gains, with BRAINAURORA-B surging 52.30 per cent after completing a 700 million yuan Series B funding round, while southbound capital recorded net selling of HK$804 million.",
+   "zh_hans": "恒生指数今日收报 23,094.83 点，升 0.23%（53.51 点），企稳 23,000 点之上，人工智能硬件股反弹带动大市。国企指数升 0.32% 至 7,791.63 点，恒生科技指数升 1.40% 至 3,853.72 点，主板成交额 1,814 亿港元。脑机接口股领涨，BRAINAURORA-B 完成 7 亿元人民币 B 轮融资后飙升 52.30%；南向资金全日净卖出 8.04 亿港元。",
+   "zh_hant": "恒生指數今日收報 23,094.83 點，升 0.23%（53.51 點），企穩 23,000 點之上，人工智能硬件股反彈帶動大市。國企指數升 0.32% 至 7,791.63 點，恒生科技指數升 1.40% 至 3,853.72 點，主板成交額 1,814 億港元。腦機接口股領漲，BRAINAURORA-B 完成 7 億元人民幣 B 輪融資後飆升 52.30%；南向資金全日淨賣出 8.04 億港元。"
+  },
+  "tags": {
+   "en": [
+    "Hang Seng Index",
+    "Hong Kong stocks",
+    "AI hardware",
+    "Stock Connect"
+   ],
+   "zh_hans": [
+    "恒生指数",
+    "港股",
+    "人工智能硬件",
+    "港股通"
+   ],
+   "zh_hant": [
+    "恒生指數",
+    "港股",
+    "人工智能硬件",
+    "港股通"
+   ]
+  },
+  "title": {
+   "en": "Hang Seng ends higher at 23,095 as AI hardware stocks rebound",
+   "zh_hans": "恒指收报 23,095 点升 0.23%　AI 硬件股反弹",
+   "zh_hant": "恒指收報 23,095 點升 0.23%　AI 硬件股反彈"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261028-psiti-one-earth-summit-ai-low-carbon",
+  "image_url": "https://gia.info.gov.hk/general/202610/28/P2026102800367_photo_1342376.jpg",
+  "published_at": "2026-10-28T16:28:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/28/P2026102800367.htm"
+  },
+  "summary": {
+   "en": "Hong Kong's computing capacity has reached 5,000 PFLOPS and the Sandy Ridge Data Facility Cluster in the Northern Metropolis will add a further 180,000 PFLOPS by 2032, the Permanent Secretary for Innovation, Technology and Industry, Kevin Choi, said at the One Earth Summit. He said the government will inject an additional HK$1 billion into the Artificial Intelligence Subsidy Scheme and commission a study on long-term computing power demand, due in the third quarter of 2027. Data centres must now undergo mandatory energy audits every five years, while the Science Park's GreenTech Hub has brought together more than 250 green technology enterprises.",
+   "zh_hans": "创新科技及工业局常任秘书长 Kevin Choi 在「同一个地球」峰会上表示，本港算力已达 5,000 PFLOPS，北都沙岭数据设施群组到 2032 年将再增加 180,000 PFLOPS。他表示政府将向人工智能资助计划再注资 10 亿港元，并委托研究本港长远算力需求，预计 2027 年第三季完成。数据中心现时须每五年接受强制能源审核；科学园绿色科技中心已汇聚逾 250 间绿色科技企业。",
+   "zh_hant": "創新科技及工業局常任秘書長 Kevin Choi 在「同一個地球」峰會上表示，本港算力已達 5,000 PFLOPS，北都沙嶺數據設施群組到 2032 年將再增加 180,000 PFLOPS。他表示政府將向人工智能資助計劃再注資 10 億港元，並委託研究本港長遠算力需求，預計 2027 年第三季完成。數據中心現時須每五年接受強制能源審核；科學園綠色科技中心已匯聚逾 250 間綠色科技企業。"
+  },
+  "tags": {
+   "en": [
+    "One Earth Summit",
+    "artificial intelligence",
+    "computing power",
+    "low-carbon"
+   ],
+   "zh_hans": [
+    "同一个地球峰会",
+    "人工智能",
+    "算力",
+    "低碳转型"
+   ],
+   "zh_hant": [
+    "同一個地球峰會",
+    "人工智能",
+    "算力",
+    "低碳轉型"
+   ]
+  },
+  "title": {
+   "en": "Top innovation official touts AI for low-carbon future as computing power hits 5,000 PFLOPS",
+   "zh_hans": "创科局常任秘书长：AI 助推低碳转型　本港算力达 5,000 PFLOPS",
+   "zh_hant": "創科局常任秘書長：AI 助推低碳轉型　本港算力達 5,000 PFLOPS"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261028-cs-northern-metropolis-consular-corps",
+  "image_url": "https://gia.info.gov.hk/general/202610/28/P2026102800304_photo_1342261.jpg",
+  "published_at": "2026-10-28T11:28:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/28/P2026102800304.htm"
+  },
+  "summary": {
+   "en": "Chief Secretary Chan Kwok-ki led members of the consular corps on a visit to the Northern Metropolis, telling them the 30,000-hectare development has already begun delivering real results and is no longer just a plan on paper. The project, which covers about one-third of Hong Kong's total area, has been written into the national 15th Five-Year Plan, Hong Kong's first Five-Year Plan and the Chief Executive's 2026 Policy Address. Full development is expected to take 10 to 20 years, providing about 650,000 jobs and homes for about 2.5 million residents, with a focus on a university town, innovation and technology and industry.",
+   "zh_hans": "政务司司长陈国基今日率领驻港领事团考察北部都会区，向各国代表介绍北都最新发展，强调北都占地约 30,000 公顷，已开始见到实效，并非只停留于纸上规划。北都占全港面积约三分之一，已写入国家十五五规划、香港首份五年计划及行政长官 2026 年施政报告。北都全面发展需时约 10 至 20 年，预计可提供约 65 万个就业机会，容纳约 250 万人口，重点发展大学城、创新科技及产业。",
+   "zh_hant": "政務司司長陳國基今日率領駐港領事團考察北部都會區，向各國代表介紹北都最新發展，強調北都佔地約 30,000 公頃，已開始見到實效，並非只停留於紙上規劃。北都佔全港面積約三分之一，已寫入國家十五五規劃、香港首份五年計劃及行政長官 2026 年施政報告。北都全面發展需時約 10 至 20 年，預計可提供約 65 萬個就業機會，容納約 250 萬人口，重點發展大學城、創新科技及產業。"
+  },
+  "tags": {
+   "en": [
+    "Northern Metropolis",
+    "Chan Kwok-ki",
+    "consular corps"
+   ],
+   "zh_hans": [
+    "北部都会区",
+    "陈国基",
+    "领事团"
+   ],
+   "zh_hant": [
+    "北部都會區",
+    "陳國基",
+    "領事團"
+   ]
+  },
+  "title": {
+   "en": "Chief Secretary shows consular corps Northern Metropolis progress",
+   "zh_hans": "政务司司长率领事团考察北都　强调已见实效非纸上谈兵",
+   "zh_hant": "政務司司長率領事團考察北都　強調已見實效非紙上談兵"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261028-sfst-hkex-integrated-fund-platform",
+  "image_url": "",
+  "published_at": "2026-10-28T17:18:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/28/P2026102800538.htm"
+  },
+  "summary": {
+   "en": "Hong Kong's assets under management reached a record HK$42.2 trillion at the end of last year, up 20 per cent year on year, with net fund inflows almost tripling to HK$2.1 trillion, the Secretary for Financial Services and the Treasury, Christopher Hui, said at the launch of HKEX's Integrated Fund Platform services. The platform's fund repository already covers more than 2,000 SFC-authorised funds, and the newly launched platform and nominee services complete an end-to-end digitalised fund distribution workflow. More than 790 open-ended fund companies have been registered since July 2018 and more than 2,000 limited partnership funds since August 2020.",
+   "zh_hans": "财经事务及库务局局长许正宇在港交所综合基金平台服务启动仪式上表示，本港管理资产去年底达 42.2 万亿港元创新高，按年升 20%，基金净流入近三倍至 2.1 万亿港元。平台的基金资料库已涵盖逾 2,000 只证监会认可基金，新推出的平台及代名人服务令基金分销流程全面数码化。自 2018 年 7 月以来已注册逾 790 间开放式基金型公司，2020 年 8 月以来亦已注册逾 2,000 只有限合伙基金。",
+   "zh_hant": "財經事務及庫務局局長許正宇在港交所綜合基金平台服務啟動儀式上表示，本港管理資產去年底達 42.2 萬億港元創新高，按年升 20%，基金淨流入近三倍至 2.1 萬億港元。平台的基金資料庫已涵蓋逾 2,000 隻證監會認可基金，新推出的平台及代名人服務令基金分銷流程全面數碼化。自 2018 年 7 月以來已註冊逾 790 間開放式基金型公司，2020 年 8 月以來亦已註冊逾 2,000 隻有限合夥基金。"
+  },
+  "tags": {
+   "en": [
+    "HKEX",
+    "fund platform",
+    "asset management",
+    "Christopher Hui"
+   ],
+   "zh_hans": [
+    "港交所",
+    "基金平台",
+    "资产管理",
+    "许正宇"
+   ],
+   "zh_hant": [
+    "港交所",
+    "基金平台",
+    "資產管理",
+    "許正宇"
+   ]
+  },
+  "title": {
+   "en": "HKEX completes fund platform as assets under management hit record HK$42.2 trillion",
+   "zh_hans": "港交所基金平台服务全面推出　本港管理资产达 42.2 万亿创新高",
+   "zh_hant": "港交所基金平台服務全面推出　本港管理資產達 42.2 萬億創新高"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261028-customs-crack-cocaine-airport-seizure",
+  "image_url": "https://gia.info.gov.hk/general/202610/28/P2026102800568_photo_1342375.jpg",
+  "published_at": "2026-10-28T18:05:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/28/P2026102800568.htm"
+  },
+  "summary": {
+   "en": "Hong Kong Customs seized about 5.5 kilograms of suspected crack cocaine, with an estimated market value of about HK$6 million, from an incoming passenger at Hong Kong International Airport. The 33-year-old mainland man arrived from Sao Paulo, Brazil, via Addis Ababa, Ethiopia, on October 27, and officers found the drugs inside his baggage during clearance. He has been charged with trafficking in a dangerous drug and will appear at West Kowloon Magistrates' Courts on October 29; the offence carries a maximum penalty of a HK$5 million fine and life imprisonment.",
+   "zh_hans": "香港海关昨日在香港国际机场截获一名入境旅客，检获约 5.5 公斤怀疑霹雳可卡因，市值约 600 万港元。该名 33 岁内地男子由巴西圣保罗经埃塞俄比亚亚的斯亚贝巴抵港，海关人员在其行李内搜出该批怀疑毒品。男子已被控一项贩运危险药物罪，明日（10 月 29 日）在西九龙裁判法院提堂；贩运危险药物罪最高可判罚款 500 万元及终身监禁。",
+   "zh_hant": "香港海關昨日在香港國際機場截獲一名入境旅客，檢獲約 5.5 公斤懷疑霹靂可卡因，市值約 600 萬港元。該名 33 歲內地男子由巴西聖保羅經埃塞俄比亞亞的斯亞貝巴抵港，海關人員在其行李內搜出該批懷疑毒品。男子已被控一項販運危險藥物罪，明日（10 月 29 日）在西九龍裁判法院提堂；販運危險藥物罪最高可判罰款 500 萬元及終身監禁。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Customs",
+    "drug trafficking",
+    "airport",
+    "crack cocaine"
+   ],
+   "zh_hans": [
+    "香港海关",
+    "贩毒",
+    "机场",
+    "霹雳可卡因"
+   ],
+   "zh_hant": [
+    "香港海關",
+    "販毒",
+    "機場",
+    "霹靂可卡因"
+   ]
+  },
+  "title": {
+   "en": "Customs seizes 5.5kg of crack cocaine worth HK$6 million at airport",
+   "zh_hans": "海关机场检获 5.5 公斤怀疑霹雳可卡因　市值约 600 万元",
+   "zh_hant": "海關機場檢獲 5.5 公斤懷疑霹靂可卡因　市值約 600 萬元"
+  }
+ },
+ {
+  "category": "world",
+  "id": "20261028-trump-xi-nuclear-disarmament-meeting",
+  "image_url": "",
+  "published_at": "2026-10-28T16:18:00+08:00",
+  "source": {
+   "name": "AzerNews",
+   "url": "https://www.azernews.az/region/266349.html"
+  },
+  "summary": {
+   "en": "US President Donald Trump said he has a meeting planned with Chinese President Xi Jinping that will cover bilateral relations as well as nuclear disarmament, describing it as a very important meeting, perhaps the most important. Trump made the remarks to reporters at Joint Base Andrews after returning from Texas. He last met Xi at the White House in Washington on September 24.",
+   "zh_hans": "美国总统特朗普表示，已安排与中国国家主席习近平会面，议题包括双边关系及核裁军，形容会面非常重要，或许是最重要的一次。特朗普在德州返程后，于安德鲁斯联合基地向记者作出上述表示。他上一次与习近平会面是 9 月 24 日在华盛顿白宫。",
+   "zh_hant": "美國總統特朗普表示，已安排與中國國家主席習近平會面，議題包括雙邊關係及核裁軍，形容會面非常重要，或許是最重要的一次。特朗普在德州返程後，於安德魯斯聯合基地向記者作出上述表示。他上一次與習近平會面是 9 月 24 日在華盛頓白宮。"
+  },
+  "tags": {
+   "en": [
+    "Donald Trump",
+    "Xi Jinping",
+    "nuclear disarmament",
+    "US-China"
+   ],
+   "zh_hans": [
+    "特朗普",
+    "习近平",
+    "核裁军",
+    "中美关系"
+   ],
+   "zh_hant": [
+    "特朗普",
+    "習近平",
+    "核裁軍",
+    "中美關係"
+   ]
+  },
+  "title": {
+   "en": "Trump says planned Xi meeting will cover nuclear disarmament",
+   "zh_hans": "特朗普称与习近平会面将讨论核裁军",
+   "zh_hant": "特朗普稱與習近平會面將討論核裁軍"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261028-rbnz-holds-ocr-2-75",
+  "image_url": "",
+  "published_at": "2026-10-28T14:42:00+08:00",
+  "source": {
+   "name": "XTB",
+   "url": "https://www.xtb.com/en/market-analysis/morning-wrap-28-10-2026"
+  },
+  "summary": {
+   "en": "The Reserve Bank of New Zealand unexpectedly held its official cash rate at 2.75 per cent in a closely contested 4-3 vote, despite markets pricing in around a 90 per cent probability of a rate hike. The majority of policymakers pointed to lower-than-expected inflation, weak wage growth and fragile domestic demand, and the surprise decision triggered a sharp depreciation of the New Zealand dollar. Governor Breman cautioned against reading the decision as overly dovish, noting further hikes remain likely. Meanwhile, Australia's trimmed mean inflation rose to 3.7 per cent year on year in the third quarter, above expectations, lifting the probability of a rate rise at the Reserve Bank of Australia's November 3 meeting to around 75 per cent.",
+   "zh_hans": "新西兰储备银行意外维持官方现金利率于 2.75 厘，决议以 4 比 3 险胜通过，尽管市场原本预期加息机会高达九成。多数委员认为通胀低于预期、工资增长疲弱及内需脆弱，消息令纽元急跌。行长 Breman 提醒市场不应将决定解读为过度鸽派，强调未来仍可能加息。另一方面，澳洲第三季截尾均值通胀按年升至 3.7%，高于预期，市场预期澳洲储备银行 11 月 3 日会议加息 25 基点的机会升至约 75%。",
+   "zh_hant": "紐西蘭儲備銀行意外維持官方現金利率於 2.75 厘，決議以 4 比 3 險勝通過，儘管市場原本預期加息機會高達九成。多數委員認為通脹低於預期、工資增長疲弱及內需脆弱，消息令紐元急跌。行長 Breman 提醒市場不應將決定解讀為過度鴿派，強調未來仍可能加息。另一方面，澳洲第三季截尾均值通脹按年升至 3.7%，高於預期，市場預期澳洲儲備銀行 11 月 3 日會議加息 25 基點的機會升至約 75%。"
+  },
+  "tags": {
+   "en": [
+    "Reserve Bank of New Zealand",
+    "interest rates",
+    "Australia inflation",
+    "RBA"
+   ],
+   "zh_hans": [
+    "新西兰储备银行",
+    "利率",
+    "澳洲通胀",
+    "澳洲储备银行"
+   ],
+   "zh_hant": [
+    "紐西蘭儲備銀行",
+    "利率",
+    "澳洲通脹",
+    "澳洲儲備銀行"
+   ]
+  },
+  "title": {
+   "en": "New Zealand central bank unexpectedly holds rate at 2.75% as Australia inflation heats up",
+   "zh_hans": "新西兰央行意外维持利率 2.75 厘　澳洲通胀升温加息机会增",
+   "zh_hant": "紐西蘭央行意外維持利率 2.75 厘　澳洲通脹升溫加息機會增"
+  }
  }
 ]
