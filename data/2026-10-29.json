@@ -158,5 +158,168 @@
    "zh_hans": "HKT 河套创新科技中心及 AI 交易所正式开幕",
    "zh_hant": "HKT 河套創新科技中心及 AI 交易所正式開幕"
   }
+ },
+ {
+  "category": "finance",
+  "id": "20261029-microsoft-alphabet-earnings-diverge",
+  "image_url": "",
+  "published_at": "2026-10-29T04:22+08:00",
+  "source": {
+   "name": "Market Flux",
+   "url": "https://news.marketflux.io/news/microsoft-and-alphabet-earnings-loom-as-ai-spending-tests-and-sk-4f9d27c1c058cf3cfb20fb9a4f91248a.html"
+  },
+  "summary": {
+   "en": "Microsoft's fiscal first-quarter revenue of $92.3 billion beat expectations, with Azure revenue up 48% year on year and total cloud revenue up 30% to $63.9 billion, while capital spending of $39.4 billion came in below consensus. Alphabet's third-quarter revenue of $127.6 billion slightly missed estimates, EPS fell to $2.12 after an $8.7 billion loss on equity securities, free cash flow turned negative at $9.1 billion, and its shares dropped about 7% after the bell. Google Cloud was Alphabet's bright spot, more than doubling to $30.7 billion, up 103% year on year.",
+   "zh_hans": "微软首财季收入 923 亿美元胜预期，Azure 收入按年升 48%，云业务总收入升 30% 至 639 亿美元；资本开支 394 亿美元低于预期，市场反应正面。Alphabet 第三季收入 1,276 亿美元略低于预期，每股盈利 2.12 美元，证券投资录得 87 亿美元亏损拖累，自由现金流转负 91 亿美元，股价盘后跌约 7%。不过 Google Cloud 收入倍增至 307 亿美元，升幅达 103%，成为 Alphabet 业绩中少数亮点。",
+   "zh_hant": "微軟首財季收入 923 億美元勝預期，Azure 收入按年升 48%，雲業務總收入升 30% 至 639 億美元；資本開支 394 億美元低過預期，市場反應正面。Alphabet 第三季收入 1,276 億美元略低預期，每股盈利 2.12 美元，證券投資錄得 87 億美元虧損拖累，自由現金流轉負 91 億美元，股價盤後跌約 7%。不過 Google Cloud 收入倍增至 307 億美元，升幅達 103%，成為 Alphabet 業績中少數亮點。"
+  },
+  "tags": {
+   "en": [
+    "Microsoft",
+    "Alphabet",
+    "earnings",
+    "cloud computing",
+    "AI"
+   ],
+   "zh_hans": [
+    "微软",
+    "Alphabet",
+    "业绩",
+    "云计算",
+    "人工智能"
+   ],
+   "zh_hant": [
+    "微軟",
+    "Alphabet",
+    "業績",
+    "雲計算",
+    "人工智能"
+   ]
+  },
+  "title": {
+   "en": "Microsoft cloud surges as Alphabet earnings disappoint",
+   "zh_hans": "微软云业务劲增　Alphabet 业绩失色股价急跌",
+   "zh_hant": "微軟雲業務勁增　Alphabet 業績失色股價急跌"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261029-bank-of-canada-hikes-rate-2-5",
+  "image_url": "",
+  "published_at": "2026-10-28T21:45+08:00",
+  "source": {
+   "name": "MoneySense",
+   "url": "https://www.moneysense.ca/news/bank-of-canada-interest-rate-decision-announcement-october-28/"
+  },
+  "summary": {
+   "en": "The Bank of Canada raised its policy rate by a quarter of a percentage point to 2.5%, its first increase since July 2023 and the end of a run of seven meetings with no change. The bank said the outlook for inflation had deteriorated markedly on high energy prices, with September inflation at 3.2%, above its 1% to 3% target range, and it needed to act pre-emptively to stop energy costs spreading to broader prices. Governor Tiff Macklem said further increases might be needed but the bank would proceed carefully, and it expects inflation to stay around 3% for most of next year before returning close to 2% by mid-2028.",
+   "zh_hans": "加拿大央行将政策利率上调四分之一厘至 2.5%，是 2023 年 7 月以来首次加息，亦结束连续七次会议维持利率不变。央行指能源价格高企令通胀前景明显恶化，9 月通胀率达 3.2%，高于 1 至 3% 的目标区间，必须先发制人防止能源成本扩散至整体物价。行长麦克勒姆表示未来可能需要进一步加息，但会审慎行事；央行预期通胀在明年大部分时间维持约 3%，到 2028 年中才回落至接近 2%。",
+   "zh_hant": "加拿大央行將政策利率上調四分一厘至 2.5%，是 2023 年 7 月以來首次加息，亦結束連續七次會議維持利率不變。央行指能源價格高企令通脹前景明顯惡化，9 月通脹率達 3.2%，高於 1 至 3% 的目標區間，必須先發制人防止能源成本擴散至整體物價。行長麥克勒姆表示未來可能需要進一步加息，但會審慎行事；央行預期通脹在明年大部分時間維持約 3%，到 2028 年中才回落至接近 2%。"
+  },
+  "tags": {
+   "en": [
+    "Bank of Canada",
+    "interest rates",
+    "inflation",
+    "Canada"
+   ],
+   "zh_hans": [
+    "加拿大央行",
+    "加息",
+    "通胀",
+    "加拿大"
+   ],
+   "zh_hant": [
+    "加拿大央行",
+    "加息",
+    "通脹",
+    "加拿大"
+   ]
+  },
+  "title": {
+   "en": "Bank of Canada raises rate to 2.5% in first hike in over three years",
+   "zh_hans": "加拿大央行加息至 2.5%　三年多以来首次加息",
+   "zh_hant": "加拿大央行加息至 2.5 厘　三年多以來首次加息"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261029-wine-dine-festival-opens",
+  "image_url": "",
+  "published_at": "2026-10-28T14:54+08:00",
+  "source": {
+   "name": "Time Out Hong Kong",
+   "url": "https://www.timeout.hk/things-to-do/the-hong-kong-wine-dine-festival-2026-is-back-to-feed-us-good"
+  },
+  "summary": {
+   "en": "The Hong Kong Wine & Dine Festival runs for four days from today until 1 November at the Central Harbourfront Event Space and Tamar Park. It features more than 340 booths with food and wine from 31 countries and regions, and for the first time stays open until 1am on Friday and Saturday. Zones include the Grand Wine Pavilion, the Amex Gourmet Club and Hotel Boulevard, plus first-time expert-led guided tours and tasting experiences. Admission is $40, with tasting tokens sold separately.",
+   "zh_hans": "香港美酒佳肴巡礼由今日起一连四日，在中环海滨活动空间及添马公园举行，直至 11 月 1 日。活动设逾 340 个摊位，汇聚来自 31 个国家及地区的美酒佳肴，星期五及星期六更首度延长开放至凌晨 1 时。场内设有 Grand Wine Pavilion、Amex Gourmet Club 及酒店大道等多个主题区，并首设专家导赏及品酒体验；入场费 40 元，另须购买品酒券。",
+   "zh_hant": "香港美酒佳餚巡禮由今日起一連四日，在中環海濱活動空間及添馬公園舉行，直至 11 月 1 日。活動設逾 340 個攤位，匯聚來自 31 個國家及地區的美酒佳餚，星期五及星期六更首度延長開放至凌晨 1 時。場內設有 Grand Wine Pavilion、Amex Gourmet Club 及酒店大道等多個主題區，並首設專家導賞及品酒體驗；入場費 40 元，另須購買品酒券。"
+  },
+  "tags": {
+   "en": [
+    "Wine & Dine Festival",
+    "HKTB",
+    "Central Harbourfront",
+    "food festival"
+   ],
+   "zh_hans": [
+    "美酒佳肴巡礼",
+    "旅发局",
+    "中环海滨",
+    "美食节"
+   ],
+   "zh_hant": [
+    "美酒佳餚巡禮",
+    "旅發局",
+    "中環海濱",
+    "美食節"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong Wine & Dine Festival opens on Central Harbourfront",
+   "zh_hans": "香港美酒佳肴巡礼今日开锣　中环海滨连续四日举行",
+   "zh_hant": "香港美酒佳餚巡禮今日開鑼　中環海濱連續四日舉行"
+  }
+ },
+ {
+  "category": "world",
+  "id": "20261029-un-rights-chief-civilians-protection",
+  "image_url": "",
+  "published_at": "2026-10-29T04:24+08:00",
+  "source": {
+   "name": "UN News",
+   "url": "https://news.un.org/en/story/2026/10/1168695"
+  },
+  "summary": {
+   "en": "UN human rights chief Volker Türk said youth-led protests against corruption and inequality in Serbia, Bangladesh, Nepal and Madagascar reflect a growing demand for human rights to be reinforced. He voiced particular concern over Gaza, where Palestinians are now confined to around 30% of the territory and face severe shortages of food and essential services, and urged Israel's next government to change the course of warfare and respect international humanitarian law. He also stressed the UN has repeatedly condemned the 7 October attacks and voiced concern over reported extrajudicial executions by Hamas militants.",
+   "zh_hans": "联合国人权事务高级专员图尔克表示，全球多地青年因不满贪腐及不平等走上街头，反映大众渴望人权得到保障。他特别关注加沙局势，指当地巴勒斯坦人现时被局限于约三成土地范围，面对粮食及基本服务严重短缺，并促请以色列下届政府改变战争方针、尊重国际人道法。他同时重申联合国多次谴责哈马斯 10 月 7 日袭击，并关注有关哈马斯武装分子法外处决的报道。",
+   "zh_hant": "聯合國人權事務高級專員圖爾克表示，全球多地青年因不滿貪腐及不平等走上街頭，反映大眾渴望人權得到保障。他特別關注加沙局勢，指當地巴勒斯坦人現時被局限於約三成土地範圍，面對糧食及基本服務嚴重短缺，並促請以色列下屆政府改變戰爭方針、尊重國際人道法。他同時重申聯合國多次譴責哈馬斯 10 月 7 日襲擊，並關注有關哈馬斯武裝分子法外處決的報道。"
+  },
+  "tags": {
+   "en": [
+    "United Nations",
+    "human rights",
+    "Gaza",
+    "civilians"
+   ],
+   "zh_hans": [
+    "联合国",
+    "人权",
+    "加沙",
+    "平民保护"
+   ],
+   "zh_hant": [
+    "聯合國",
+    "人權",
+    "加沙",
+    "平民保護"
+   ]
+  },
+  "title": {
+   "en": "UN rights chief urges better protection of civilians in conflicts",
+   "zh_hans": "联合国人权事务高级专员促各方更好保护冲突地区平民",
+   "zh_hant": "聯合國人權事務高級專員促各方更好保護衝突地區平民"
+  }
  }
 ]
