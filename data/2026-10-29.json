@@ -777,5 +777,264 @@
    "zh_hans": "中共二十届五中全会闭幕　通过从严治党决定、确认 34 名高官处分",
    "zh_hant": "中共二十屆五中全會閉幕　通過從嚴治黨決定、確認 34 名高官處分"
   }
+ },
+ {
+  "id": "20261029-ecb-holds-lagarde-to-step-down",
+  "category": "finance",
+  "published_at": "2026-10-29T21:15:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "歐洲央行",
+   "url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html"
+  },
+  "title": {
+   "en": "ECB holds rates at 2.5% as Lagarde announces early departure in February 2027",
+   "zh_hant": "歐洲央行維持利率 2.5% 不變　拉加德宣布明年 2 月提前卸任",
+   "zh_hans": "欧洲央行维持利率 2.5% 不变　拉加德宣布明年 2 月提前卸任"
+  },
+  "summary": {
+   "en": "The European Central Bank kept its three key interest rates unchanged, leaving the deposit rate at 2.50 per cent. President Christine Lagarde said rising energy prices posed upside risks to inflation and downside risks to growth, adding the bank would stay data-dependent and would not pre-commit to a rate path. In a separate announcement on Thursday, Lagarde told the Governing Council and European Council President António Costa she will step down on 7 February 2027, about nine months before her eight-year term was due to end in October 2027. Costa said the process to appoint her successor would begin immediately.",
+   "zh_hant": "歐洲央行議息後決定維持三項主要利率不變，存款機制利率維持 2.5 厘。行長拉加德表示，能源價格持續上升，通脹面臨上行風險、增長則面臨下行風險，央行將繼續按數據逐次會議決定利率路徑，不會預先承諾。同日拉加德另行宣布，將於 2027 年 2 月 7 日卸任歐洲央行行長一職，較原定 2027 年 10 月任期屆滿提早約九個月。歐洲理事會主席科斯塔表示，接任人選的遴選程序將即時展開。",
+   "zh_hans": "欧洲央行议息后决定维持三项主要利率不变，存款机制利率维持 2.5 厘。行长拉加德表示，能源价格持续上升，通胀面临上行风险、增长则面临下行风险，央行将继续按数据逐次会议决定利率路径，不会预先承诺。同日拉加德另行宣布，将于 2027 年 2 月 7 日卸任欧洲央行行长一职，较原定 2027 年 10 月任期届满提早约九个月。欧洲理事会主席科斯塔表示，接任人选的遴选程序将即时展开。"
+  },
+  "tags": {
+   "en": [
+    "ECB",
+    "Christine Lagarde",
+    "interest rates"
+   ],
+   "zh_hant": [
+    "歐洲央行",
+    "拉加德",
+    "利率"
+   ],
+   "zh_hans": [
+    "欧洲央行",
+    "拉加德",
+    "利率"
+   ]
+  }
+ },
+ {
+  "id": "20261029-us-q3-gdp-pce-september",
+  "category": "finance",
+  "published_at": "2026-10-29T20:30:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "MBA",
+   "url": "https://www.mba.org/news-and-research/newsroom/news/2026/10/29/q3-gdp-commentary-from-mba's-mike-fratantoni"
+  },
+  "title": {
+   "en": "US economy grows 3.4% in Q3, beating forecasts, as September PCE inflation climbs to 3.6%",
+   "zh_hant": "美國第三季經濟增長 3.4% 超預期　9 月 PCE 通脹升至 3.6%",
+   "zh_hans": "美国第三季经济增长 3.4% 超预期　9 月 PCE 通胀升至 3.6%"
+  },
+  "summary": {
+   "en": "The US economy expanded at an annualised 3.4 per cent in the third quarter, the Bureau of Economic Analysis said in its advance estimate, beating the 3.2 per cent consensus and accelerating from 2.2 per cent in the second quarter. Growth was driven by solid consumer spending and strong business investment linked to the AI buildout, while net exports weighed on the headline figure. Separately, the September PCE price index — the Fed's preferred inflation gauge — rose 0.5 per cent on the month, lifting the annual rate to 3.6 per cent from 3.4 per cent; core PCE edged up to 3.1 per cent, still well above the Fed's 2 per cent target.",
+   "zh_hant": "美國商務部經濟分析局公布，第三季國內生產總值初值按年率增長 3.4%，高於市場預期的 3.2%，較第二季的 2.2% 明顯加快。增長主要由穩健的消費開支和與人工智能基建相關的企業投資帶動，淨出口則拖低整體數字。同日公布的 9 月個人消費開支物價指數按月升 0.5%，按年升幅由 8 月的 3.4% 擴大至 3.6%；扣除食品和能源的核心指數按年升 3.1%，仍遠高於聯儲局 2% 的目標。",
+   "zh_hans": "美国商务部经济分析局公布，第三季国内生产总值初值按年率增长 3.4%，高于市场预期的 3.2%，较第二季的 2.2% 明显加快。增长主要由稳健的消费开支和与人工智能基建相关的企业投资带动，净出口则拖低整体数字。同日公布的 9 月个人消费开支物价指数按月升 0.5%，按年升幅由 8 月的 3.4% 扩大至 3.6%；扣除食品和能源的核心指数按年升 3.1%，仍远高于联储局 2% 的目标。"
+  },
+  "tags": {
+   "en": [
+    "US economy",
+    "GDP",
+    "PCE inflation"
+   ],
+   "zh_hant": [
+    "美國經濟",
+    "GDP",
+    "通脹"
+   ],
+   "zh_hans": [
+    "美国经济",
+    "GDP",
+    "通胀"
+   ]
+  }
+ },
+ {
+  "id": "20261029-ce-press-conference-wang-fuk",
+  "category": "hk",
+  "published_at": "2026-10-29T20:44:00+08:00",
+  "image_url": "https://gia.info.gov.hk/general/202610/29/P2026102900723_photo_1342424.jpg",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/29/P2026102900723.htm"
+  },
+  "title": {
+   "en": "John Lee leads seven top officials at press conference, sets out five follow-ups to Wang Fuk Court fire report",
+   "zh_hant": "李家超率七司局長見記者　闡述宏福苑報告五大跟進：圍標刑事化",
+   "zh_hans": "李家超率七司局长见记者　阐述宏福苑报告五大跟进：围标刑事化"
+  },
+  "summary": {
+   "en": "Chief Executive John Lee, joined by seven principal officials including Chief Secretary Chan Kwok-ki and Financial Secretary Paul Chan, held a press conference on the Independent Committee's report into the Wang Fuk Court fire, which killed 168 people including a firefighter. Lee said the fire fell within the Housing Bureau's purview, which was why the Secretary for Housing took political accountability, and set out five priorities: pursuing criminal liability, political accountability, administrative accountability through a Public Service Commission investigation team, long-term care for affected families, and comprehensive system reform. He pledged to make bid-rigging in building renovation works a criminal offence and announced two further press briefings on Friday.",
+   "zh_hant": "行政長官李家超聯同政務司司長陳國基、財政司司長陳茂波等七位司局長，就宏福苑火災獨立委員會報告舉行記者會。火災造成 168 人死亡，包括一名殉職消防員。李家超解釋，由於事件屬房屋局職權範圍，故由房屋局局長承擔政治責任；他提出五大跟進：追究刑事責任、政治問責、經公務員敍用委員會調查組追究行政責任、長遠照顧受影響家庭，以及全面改革制度。他承諾將樓宇維修工程圍標列為刑事罪行，並宣布明日會再舉行兩場專題記者會交代詳情。",
+   "zh_hans": "行政长官李家超联同政务司司长陈国基、财政司司长陈茂波等七位司局长，就宏福苑火灾独立委员会报告举行记者会。火灾造成 168 人死亡，包括一名殉职消防员。李家超解释，由于事件属房屋局职权范围，故由房屋局局长承担政治责任；他提出五大跟进：追究刑事责任、政治问责、经公务员叙用委员会调查组追究行政责任、长远照顾受影响家庭，以及全面改革制度。他承诺将楼宇维修工程围标列为刑事罪行，并宣布明日会再举行两场专题记者会交代详情。"
+  },
+  "tags": {
+   "en": [
+    "Wang Fuk Court",
+    "John Lee",
+    "building safety"
+   ],
+   "zh_hant": [
+    "宏福苑",
+    "李家超",
+    "樓宇安全"
+   ],
+   "zh_hans": [
+    "宏福苑",
+    "李家超",
+    "楼宇安全"
+   ]
+  }
+ },
+ {
+  "id": "20261029-psc-investigation-team-wang-fuk",
+  "category": "hk",
+  "published_at": "2026-10-29T19:30:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/29/P2026102900644.htm"
+  },
+  "title": {
+   "en": "Public Service Commission forms investigation team to probe civil servants' roles in Wang Fuk Court fire, report due in three months",
+   "zh_hant": "公務員敍用委員會成立調查組　三個月內查宏福苑涉事公務員責任",
+   "zh_hans": "公务员叙用委员会成立调查组　三个月内查宏福苑涉事公务员责任"
+  },
+  "summary": {
+   "en": "The Public Service Commission has formed a three-member Investigation Team chaired by Commission chairman Maisie Cheng Mei-sze, with members Ann Kung Yeung Yun-chi and Adrian Wong Koon-man, to investigate alleged deficiencies by civil servants in overseeing the fire risks associated with the works at Wang Fuk Court. The team will examine whether officers of the Independent Checking Unit, Buildings Department, Fire Services Department and Labour Department failed their duties or breached guidelines, and advise the government on disciplinary or administrative action. It must complete its investigation within three months.",
+   "zh_hant": "公務員敍用委員會宣布成立三人調查組，由委員會主席鄭美施領導，成員包括鞏楊蘊芝及黃冠文，調查公務員在監督宏福苑工程消防風險方面的失職指控。調查組會查明獨立審查組、屋宇署、消防處及勞工處相關人員有否失職或違反指引，並就紀律或行政處分向政府提出建議，須於三個月內完成調查。",
+   "zh_hans": "公务员叙用委员会宣布成立三人调查组，由委员会主席郑美施领导，成员包括巩杨蕴芝及黄冠文，调查公务员在监督宏福苑工程消防风险方面的失职指控。调查组会查明独立审查组、屋宇署、消防处及劳工处相关人员有否失职或违反指引，并就纪律或行政处分向政府提出建议，须于三个月内完成调查。"
+  },
+  "tags": {
+   "en": [
+    "Public Service Commission",
+    "Wang Fuk Court",
+    "civil service"
+   ],
+   "zh_hant": [
+    "公務員敍用委員會",
+    "宏福苑",
+    "公務員"
+   ],
+   "zh_hans": [
+    "公务员叙用委员会",
+    "宏福苑",
+    "公务员"
+   ]
+  }
+ },
+ {
+  "id": "20261029-ce-congratulates-fifth-plenum",
+  "category": "hk",
+  "published_at": "2026-10-29T21:22:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/29/P2026102900746.htm"
+  },
+  "title": {
+   "en": "Chief Executive congratulates successful conclusion of CPC's Fifth Plenary Session",
+   "zh_hant": "特首祝賀中共二十屆五中全會勝利閉幕　稱將結合香港實際貫徹精神",
+   "zh_hans": "特首祝贺中共二十届五中全会胜利闭幕　称将结合香港实际贯彻精神"
+  },
+  "summary": {
+   "en": "Chief Executive John Lee expressed warm congratulations on the successful conclusion of the Fifth Plenary Session of the 20th CPC Central Committee in Beijing, which adopted a resolution on full and rigorous Party self-governance. Lee said the spirit of the plenum carried important guiding significance for Hong Kong's governance, and the government would integrate it with local circumstances, keep improving governance efficiency and press ahead with Hong Kong's First Five-Year Plan while fully and faithfully implementing “one country, two systems”.",
+   "zh_hant": "行政長官李家超對中共二十屆五中全會在北京勝利閉幕表示熱烈祝賀。全會審議通過關於持之以恆推進全面從嚴治黨的決議。李家超表示，全會精神對香港管治有重要指導意義，政府會將其與香港實際情況結合，持續提升管治效能，落實香港首個五年規劃，並全面準確貫徹「一國兩制」。",
+   "zh_hans": "行政长官李家超对中共二十届五中全会胜利闭幕表示热烈祝贺。全会审议通过关于持之以恒推进全面从严治党的决议。李家超表示，全会精神对香港管治有重要指导意义，政府会将其与香港实际情况结合，持续提升管治效能，落实香港首个五年规划，并全面准确贯彻「一国两制」。"
+  },
+  "tags": {
+   "en": [
+    "John Lee",
+    "Fifth Plenary Session",
+    "HKSAR"
+   ],
+   "zh_hant": [
+    "李家超",
+    "五中全會",
+    "特區政府"
+   ],
+   "zh_hans": [
+    "李家超",
+    "五中全会",
+    "特区政府"
+   ]
+  }
+ },
+ {
+  "id": "20261029-fehd-operation-skynet",
+  "category": "hk",
+  "published_at": "2026-10-29T21:30:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/29/P2026102900761.htm"
+  },
+  "title": {
+   "en": "FEHD's 'Operation Skynet' inspects 1,900 food premises in a month, brings over 100 prosecutions",
+   "zh_hant": "食環署「天網行動」一個月巡查逾 1900 間次　食肆超市逾百宗檢控",
+   "zh_hans": "食环署「天网行动」一个月巡查逾 1900 间次　食肆超市逾百宗检控"
+  },
+  "summary": {
+   "en": "The Food and Environmental Hygiene Department said its “Operation Skynet”, launched on September 30, had conducted 1,177 inspections at supermarkets, 432 at restaurants and 321 at other food premises over the past month, issuing hundreds of statutory notices and bringing more than 100 prosecutions over pest and hygiene problems. Separately, the department carried out a targeted late-night anti-rodent operation on October 25 at a private lane in Hung Hom's Baker Circle following rodent infestation reports. The operation will continue, with follow-up inspections to ensure improvements are sustained rather than one-off.",
+   "zh_hant": "食環署表示，9 月 30 日展開的「天網行動」過去一個月巡查超市 1177 間次、食肆 432 間次及其他食物業處所 321 間次，發出數百張法定通知，並就蟲鼠及衞生問題提出逾百宗檢控。另外，署方於 10 月 25 日深夜在紅磡必嘉坊一條私人後巷展開針對性滅鼠行動，回應鼠患報告。行動會繼續，並會跟進巡查，確保改善措施持續落實而非一次性。",
+   "zh_hans": "食环署表示，9 月 30 日展开的「天网行动」过去一个月巡查超市 1177 间次、食肆 432 间次及其他食物业处所 321 间次，发出数百张法定通知，并就虫鼠及卫生问题提出逾百宗检控。另外，署方于 10 月 25 日深夜在红磡必嘉坊一条私人后巷展开针对性灭鼠行动，回应鼠患报告。行动会继续，并会跟进巡查，确保改善措施持续落实而非一次性。"
+  },
+  "tags": {
+   "en": [
+    "FEHD",
+    "food safety",
+    "pest control"
+   ],
+   "zh_hant": [
+    "食環署",
+    "食物安全",
+    "滅鼠"
+   ],
+   "zh_hans": [
+    "食环署",
+    "食品安全",
+    "灭鼠"
+   ]
+  }
+ },
+ {
+  "id": "20261029-halloween-weekend-cross-boundary",
+  "category": "society",
+  "published_at": "2026-10-29T19:30:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/29/P2026102900663.htm"
+  },
+  "title": {
+   "en": "Shenzhen Bay checkpoint to stay open until 2am on Halloween weekend nights",
+   "zh_hant": "萬聖節周末深宵過關安排　深圳灣口岸 10 月 30、31 日延至凌晨 2 時",
+   "zh_hans": "万圣节周末深宵过关安排　深圳湾口岸 10 月 30、31 日延至凌晨 2 时"
+  },
+  "summary": {
+   "en": "The government announced that passenger and vehicle clearance at the Shenzhen Bay Control Point will be extended by two hours, from midnight to 2am, on the nights of October 30 and 31 to cope with expected late-night cross-boundary crowds over the Halloween weekend. Franchised bus operators will run two special overnight routes, NB2 and NB3, linking the checkpoint with Yuen Long, Tin Shui Wai and Tuen Mun, while cross-boundary coach services departing from Causeway Bay, Wan Chai, Central, Tsim Sha Tsui and Mong Kok will also extend their hours. Officials expect the busiest period to be from about 11pm to 2am each night.",
+   "zh_hant": "政府宣布，為應付萬聖節周末深夜過境人流，深圳灣管制站 10 月 30 日及 31 日兩晚的旅客及車輛通關服務，將由午夜延長兩小時至凌晨 2 時。專營巴士會加開 NB2 及 NB3 兩條特別通宵線，往來管制站與元朗、天水圍及屯門；由銅鑼灣、灣仔、中環、尖沙咀及旺角開出的跨境巴士亦會延長服務時間。當局預計每晚約 11 時至凌晨 2 時為最繁忙時段，呼籲市民及旅客預早計劃行程。",
+   "zh_hans": "政府宣布，为应付万圣节周末深夜过境人流，深圳湾管制站 10 月 30 日及 31 日两晚的旅客及车辆通关服务，将由午夜延长两小时至凌晨 2 时。专营巴士会加开 NB2 及 NB3 两条特别通宵线，往来管制站与元朗、天水围及屯门；由铜锣湾、湾仔、中环、尖沙咀及旺角开出的跨境巴士亦会延长服务时间。当局预计每晚约 11 时至凌晨 2 时为最繁忙时段，呼吁市民及旅客预早计划行程。"
+  },
+  "tags": {
+   "en": [
+    "Halloween",
+    "Shenzhen Bay",
+    "cross-boundary travel"
+   ],
+   "zh_hant": [
+    "萬聖節",
+    "深圳灣",
+    "過境"
+   ],
+   "zh_hans": [
+    "万圣节",
+    "深圳湾",
+    "过境"
+   ]
+  }
  }
 ]
