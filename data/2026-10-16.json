@@ -1,1460 +1,1460 @@
 [
-  {
-    "id": "20261016-midea-buyback",
-    "category": "finance",
-    "published_at": "2026-10-16T19:30:00+08:00",
-    "source": {
-      "name": "新浪財經",
-      "url": "http://finance.sina.com.cn/stock/aigc/hkgg/2026-10-16/doc-inivmiin1685378.shtml"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Midea Has Bought Back 133 Million Shares for 10.73 Billion Yuan",
-      "zh_hant": "美的集團累計回購1.33億股　耗資107.31億元",
-      "zh_hans": "美的集团累计回购1.33亿股　耗资107.31亿元"
-    },
-    "summary": {
-      "en": "Midea Group said it has repurchased 133 million A-shares through centralised bidding as of today, representing 1.74% of its total share capital, at a total cost of 10.731 billion yuan. Prices ranged from 73.66 to 87.71 yuan per share. The buyback programme totals 6.5 to 13 billion yuan with a cap of 100 yuan per share, and the repurchased shares will now be cancelled to reduce registered capital rather than used for equity incentives.",
-      "zh_hant": "美的集團公布，截至今日累計以集中競價方式回購A股股份1.33億股，佔總股本1.74%，累計支付總金額107.31億元。回購最高成交價每股87.71元、最低73.66元。回購方案總額65億至130億元、上限每股100元，用途已由股權激勵改為依法註銷以減少註冊資本。",
-      "zh_hans": "美的集团公布，截至今日累计以集中竞价方式回购A股股份1.33亿股，占总股本1.74%，累计支付总金额107.31亿元。回购最高成交价每股87.71元、最低73.66元。回购方案总额65亿至130亿元、上限每股100元，用途已由股权激励改为依法注销以减少注册资本。"
-    },
-    "tags": {
-      "en": [
-        "Midea",
-        "share buyback",
-        "A-shares"
-      ],
-      "zh_hant": [
-        "美的集團",
-        "股份回購",
-        "A股"
-      ],
-      "zh_hans": [
-        "美的集团",
-        "股份回购",
-        "A股"
-      ]
-    }
+ {
+  "id": "20261016-midea-buyback",
+  "category": "finance",
+  "published_at": "2026-10-16T19:30:00+08:00",
+  "source": {
+   "name": "新浪財經",
+   "url": "http://finance.sina.com.cn/stock/aigc/hkgg/2026-10-16/doc-inivmiin1685378.shtml"
   },
-  {
-    "id": "20261016-yacht-southbound-maiden",
-    "category": "hk",
-    "published_at": "2026-10-16T18:45:00+08:00",
-    "source": {
-      "name": "香港政府新聞網",
-      "url": "http://www.news.gov.hk/chi/2026/10/20261016/20261016_184550_545.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "First Five “Yachts Southbound” Vessels Arrive in Hong Kong for Maiden Voyage Ceremony",
-      "zh_hant": "「粵艇南下」首批5艘遊艇抵港　舉行首航儀式",
-      "zh_hans": "「粤艇南下」首批5艘游艇抵港　举行首航仪式"
-    },
-    "summary": {
-      "en": "The “Yachts Southbound” scheme officially took effect as the first five yachts from Shenzhen, Zhuhai and Guangzhou’s Nansha arrived in Hong Kong for a maiden voyage ceremony. Acting Financial Secretary Michael Wong said Hong Kong is positioning itself as Asia’s yacht hub, with the superyacht industry projected to be worth HK$350 billion by 2032. The government is advancing four new yacht clubs — at the airport, Lamma Island, Aberdeen and Hung Hom — offering over 1,100 berths in total.",
-      "zh_hant": "「粵艇南下」政策正式實施，首批5艘來自深圳、珠海及廣州南沙的遊艇今日抵港，並舉行首航儀式。署理財政司司長黃偉綸表示，香港正積極發展成為亞洲遊艇樞紐，預計2032年超級遊艇產業市值達3,500億港元。政府正推動機場、南丫島、香港仔及紅磡4個全新遊艇會，提供逾1,100個泊位。",
-      "zh_hans": "「粤艇南下」政策正式实施，首批5艘来自深圳、珠海及广州南沙的游艇今日抵港，并举行首航仪式。署理财政司司长黄伟纶表示，香港正积极发展成为亚洲游艇枢纽，预计2032年超级游艇产业市值达3,500亿港元。政府正推动机场、南丫岛、香港仔及红磡4个全新游艇会，提供逾1,100个泊位。"
-    },
-    "tags": {
-      "en": [
-        "Yachts Southbound",
-        "yacht economy",
-        "Greater Bay Area",
-        "maritime"
-      ],
-      "zh_hant": [
-        "粵艇南下",
-        "遊艇經濟",
-        "大灣區",
-        "海事"
-      ],
-      "zh_hans": [
-        "粤艇南下",
-        "游艇经济",
-        "大湾区",
-        "海事"
-      ]
-    }
+  "image_url": "",
+  "title": {
+   "en": "Midea Has Bought Back 133 Million Shares for 10.73 Billion Yuan",
+   "zh_hant": "美的集團累計回購1.33億股　耗資107.31億元",
+   "zh_hans": "美的集团累计回购1.33亿股　耗资107.31亿元"
   },
-  {
-    "id": "20261016-hos-flat-selection",
-    "category": "hk",
-    "published_at": "2026-10-16T18:00:00+08:00",
-    "source": {
-      "name": "TVB無綫新聞",
-      "url": "https://www.youtube.com/watch?v=GvPdJyciKaA"
-    },
-    "image_url": "",
-    "title": {
-      "en": "New HOS Flats Go on Sale Next Wednesday; Nearly 7,000 Units, Kai Tak Project Over HK$10,000 per sq ft",
-      "zh_hant": "新一期居屋下周三揀樓　近7000伙啟陽苑呎價逾萬",
-      "zh_hans": "新一期居屋下周三拣楼　近7000伙启阳苑呎价逾万"
-    },
-    "summary": {
-      "en": "The latest Home Ownership Scheme sale begins next Wednesday, with five projects offering nearly 7,000 flats priced from HK$1.5 million to HK$4.8 million. Kai Yeung Court in Kai Tak, next to the MTR station, commands over HK$10,000 per square foot as the priciest project. A Housing Authority member questioned whether high-value land should be used for subsidised housing.",
-      "zh_hant": "新一期居屋下周三開始揀樓，五個項目合共提供近7,000個單位，售價由150萬元至480萬元。其中啟德啟陽苑鄰近港鐵站，呎價逾萬元成「樓王」。有房委會委員認為，不應用市值高的地皮興建資助房屋。",
-      "zh_hans": "新一期居屋下周三开始拣楼，五个项目合共提供近7,000个单位，售价由150万元至480万元。其中启德启阳苑邻近港铁站，呎价逾万元成「楼王」。有房委会委员认为，不应用市值高的地皮兴建资助房屋。"
-    },
-    "tags": {
-      "en": [
-        "HOS",
-        "Kai Yeung Court",
-        "flat selection",
-        "subsidised housing"
-      ],
-      "zh_hant": [
-        "居屋",
-        "啟陽苑",
-        "揀樓",
-        "資助房屋"
-      ],
-      "zh_hans": [
-        "居屋",
-        "启阳苑",
-        "拣楼",
-        "资助房屋"
-      ]
-    }
+  "summary": {
+   "en": "Midea Group said it has repurchased 133 million A-shares through centralised bidding as of today, representing 1.74% of its total share capital, at a total cost of 10.731 billion yuan. Prices ranged from 73.66 to 87.71 yuan per share. The buyback programme totals 6.5 to 13 billion yuan with a cap of 100 yuan per share, and the repurchased shares will now be cancelled to reduce registered capital rather than used for equity incentives.",
+   "zh_hant": "美的集團公布，截至今日累計以集中競價方式回購A股股份1.33億股，佔總股本1.74%，累計支付總金額107.31億元。回購最高成交價每股87.71元、最低73.66元。回購方案總額65億至130億元、上限每股100元，用途已由股權激勵改為依法註銷以減少註冊資本。",
+   "zh_hans": "美的集团公布，截至今日累计以集中竞价方式回购A股股份1.33亿股，占总股本1.74%，累计支付总金额107.31亿元。回购最高成交价每股87.71元、最低73.66元。回购方案总额65亿至130亿元、上限每股100元，用途已由股权激励改为依法注销以减少注册资本。"
   },
-  {
-    "id": "20261016-tech-export-control-list",
-    "category": "tech",
-    "published_at": "2026-10-16T16:06:39+08:00",
-    "source": {
-      "name": "京報網（新華社）",
-      "url": "https://news.bjd.com.cn/2026/10/16/11997479.shtml"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Commerce Ministry Proposes Revising Tech Export Control List, Seeking Views on 40 AI and Photovoltaic Items",
-      "zh_hant": "商務部擬修訂技術出口管制目錄　AI光伏等40項技術徵意見",
-      "zh_hans": "商务部拟修订技术出口管制目录　AI光伏等40项技术征意见"
-    },
-    "summary": {
-      "en": "The commerce and science ministries have proposed revising China’s catalogue of technologies banned or restricted from export, covering 40 items across AI, biomedicine and photovoltaics. AI accounts for 23 items, including large models, AI agents and computing clusters; 14 items would be banned from export and 26 restricted. Public consultation runs from today until November 15, with officials stressing the revision is routine management and not aimed at any specific country.",
-      "zh_hant": "商務部與科技部發布公告，擬修訂《中國禁止出口限制出口技術目錄》，涉及人工智能、生物醫藥及光伏三個領域共40項技術。其中AI佔23項，包括大模型、智能體及算力集群；14項擬列為禁止出口，26項擬列為限制出口。公開徵求意見期由今日起至11月15日，官方強調修訂屬常態化管理，不針對任何特定國家。",
-      "zh_hans": "商务部与科技部发布公告，拟修订《中国禁止出口限制出口技术目录》，涉及人工智能、生物医药及光伏三个领域共40项技术。其中AI占23项，包括大模型、智能体及算力集群；14项拟列为禁止出口，26项拟列为限制出口。公开征求意见期由今日起至11月15日，官方强调修订属常态化管理，不针对任何特定国家。"
-    },
-    "tags": {
-      "en": [
-        "tech export control",
-        "AI",
-        "photovoltaics",
-        "commerce ministry"
-      ],
-      "zh_hant": [
-        "技術出口管制",
-        "人工智能",
-        "光伏",
-        "商務部"
-      ],
-      "zh_hans": [
-        "技术出口管制",
-        "人工智能",
-        "光伏",
-        "商务部"
-      ]
-    }
-  },
-  {
-    "id": "20261016-wang-fuk-court-sale",
-    "category": "society",
-    "published_at": "2026-10-16T15:38:00+08:00",
-    "source": {
-      "name": "香港政府新聞網",
-      "url": "http://www.news.gov.hk/chi/2026/10/20261016/20261016_153854_340.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Over 93% of Wang Fuk Court Owners Sign Sale Agreements; Remaining Cases Handled with Discretion",
-      "zh_hant": "宏福苑逾九成三業主簽買賣協議　餘下個案酌情處理",
-      "zh_hans": "宏福苑逾九成三业主签买卖协议　余下个案酌情处理"
-    },
-    "summary": {
-      "en": "The deadline for Wang Fuk Court owners in Tai Po to sign sale agreements expired yesterday, with 1,850 households across Blocks A to H — 93.2% of all units — having signed. The Housing Bureau said most unsigned cases involve title issues such as probate, bankruptcy, ownership disputes, or owners living overseas. Authorities will handle each case with discretion under a “compassion, reason and law, with compassion first” approach while pressing ahead with conveyancing.",
-      "zh_hant": "大埔宏福苑出售單位買賣協議簽署限期昨日屆滿，A至H八座共1,850戶業主已簽署，佔單位總數93.2%。房屋局表示，未簽署個案多因需釐清業權，例如遺囑認證、破產、業權爭議或業主身處境外。當局將以「情、理、法兼備，以情為先」原則，按個別情況酌情處理，並繼續跟進契約轉讓手續。",
-      "zh_hans": "大埔宏福苑出售单位买卖协议签署限期昨日届满，A至H八座共1,850户业主已签署，占单位总数93.2%。房屋局表示，未签署个案多因需厘清业权，例如遗嘱认证、破产、业权争议或业主身处境外。当局将以「情、理、法兼备，以情为先」原则，按个别情况酌情处理，并继续跟进契约转让手续。"
-    },
-    "tags": {
-      "en": [
-        "Wang Fuk Court",
-        "Housing Bureau",
-        "acquisition",
-        "title transfer"
-      ],
-      "zh_hant": [
-        "宏福苑",
-        "房屋局",
-        "收購",
-        "業權轉讓"
-      ],
-      "zh_hans": [
-        "宏福苑",
-        "房屋局",
-        "收购",
-        "业权转让"
-      ]
-    }
-  },
-  {
-    "id": "20261016-elderly-care-pricing",
-    "category": "society",
-    "published_at": "2026-10-16T15:10:00+08:00",
-    "source": {
-      "name": "新浪財經（中國青年報客戶端）",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivmpqz6900665.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Three Agencies Issue Inclusive Elderly-Care Guidelines; All Fees Must Be Listed",
-      "zh_hant": "三部門印發普惠養老指導意見　所有收費須列入清單",
-      "zh_hans": "三部门印发普惠养老指导意见　所有收费须列入清单"
-    },
-    "summary": {
-      "en": "Three central agencies — the NDRC, the Ministry of Civil Affairs and the National Health Commission — today issued guidelines to improve pricing mechanisms for inclusive elderly-care services. Care homes will be classified as basic-guarantee, inclusive-support or fully market-based, with differentiated fee management; basic service fees at basic-guarantee homes will follow government-guided prices. All charges must appear on an official list — anything off the list cannot be charged.",
-      "zh_hant": "國家發改委、民政部及國家衛健委今日聯合印發指導意見，進一步完善普惠養老服務價格形成機制。養老機構按功能劃分為兜底保障型、普惠支持型及完全市場型三類，實行差異化收費管理；兜底保障型機構基本服務費實行政府指導價。所有收費項目須納入清單管理，清單之外一律不得收費。",
-      "zh_hans": "国家发改委、民政部及国家卫健委今日联合印发指导意见，进一步完善普惠养老服务价格形成机制。养老机构按功能划分为兜底保障型、普惠支持型及完全市场型三类，实行差异化收费管理；兜底保障型机构基本服务费实行政府指导价。所有收费项目须纳入清单管理，清单之外一律不得收费。"
-    },
-    "tags": {
-      "en": [
-        "inclusive elderly care",
-        "elderly-care services",
-        "fee list"
-      ],
-      "zh_hant": [
-        "普惠養老",
-        "養老服務",
-        "收費清單"
-      ],
-      "zh_hans": [
-        "普惠养老",
-        "养老服务",
-        "收费清单"
-      ]
-    }
-  },
-  {
-    "id": "20261016-a-shares-close",
-    "category": "finance",
-    "published_at": "2026-10-16T15:00:00+08:00",
-    "source": {
-      "name": "新浪財經",
-      "url": "http://city.sina.cn/finance/2026-10-16/detail-inivmazi7722091.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "A-Shares Mixed at Close; Shanghai Index Up 0.24% as Defence and Low-Altitude Stocks Lead",
-      "zh_hant": "A股漲跌互現　滬指收升0.24%軍工低空經濟領漲",
-      "zh_hans": "A股涨跌互现　沪指收升0.24%军工低空经济领涨"
-    },
-    "summary": {
-      "en": "Mainland A-shares closed mixed, with the Shanghai Composite up 0.24% at 3,716.28, the Shenzhen Component down 0.12% and the ChiNext off 0.39%. Combined turnover was about 1.57 trillion yuan, with more than 3,300 stocks advancing. Defence shares led the gains with several hitting the daily limit, while low-altitude economy and flying-car concepts also rose; gaming and PCB stocks retreated.",
-      "zh_hant": "A股三大指數今日漲跌互現，滬指升0.24%報3,716.28點，深成指跌0.12%，創業板指跌0.39%。滬深兩市成交約1.57萬億元，全市場逾3,300隻個股上漲。軍工板塊領漲，多隻股份漲停；低空經濟及飛行汽車概念亦走強，房地產板塊拉升，遊戲及PCB概念則回調。",
-      "zh_hans": "A股三大指数今日涨跌互现，沪指升0.24%报3,716.28点，深成指跌0.12%，创业板指跌0.39%。沪深两市成交约1.57万亿元，全市场逾3,300只个股上涨。军工板块领涨，多只股份涨停；低空经济及飞行汽车概念亦走强，房地产板块拉升，游戏及PCB概念则回调。"
-    },
-    "tags": {
-      "en": [
-        "A-shares",
-        "Shanghai index",
-        "defence stocks",
-        "low-altitude economy"
-      ],
-      "zh_hant": [
-        "A股",
-        "滬指",
-        "軍工",
-        "低空經濟"
-      ],
-      "zh_hans": [
-        "A股",
-        "沪指",
-        "军工",
-        "低空经济"
-      ]
-    }
-  },
-  {
-    "id": "20261016-hang-seng-close",
-    "category": "finance",
-    "published_at": "2026-10-16T16:08:00+08:00",
-    "source": {
-      "name": "新浪港股",
-      "url": "http://city.sina.cn/finance/2026-10-16/detail-inivmazi7774326.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Hang Seng Index Closes Up 0.52% at 24,186; Tech Index Gains 1.16%",
-      "zh_hant": "恒指收漲0.52%報24186點　恒生科指升1.16%",
-      "zh_hans": "恒指收涨0.52%报24186点　恒生科指升1.16%"
-    },
-    "summary": {
-      "en": "Hong Kong stocks retreated in the afternoon but still closed higher. The Hang Seng Index ended up 0.52% at 24,186.83, while the Hang Seng Tech Index rose 1.16% and the state-owned enterprises index gained 0.31%. Tech shares led the advance, with Lenovo surging over 8% and Kuaishou and Alibaba up more than 2%, while defence stocks and gold miners also strengthened.",
-      "zh_hant": "港股三大指數午后回落，收市仍錄得升幅。恒生指數收報24186.83點，升0.52%；恒生科技指數升1.16%，國企指數升0.31%。盤面上科網股普漲，聯想漲超8%，快手、阿里漲超2%；軍工股及黃金股亦走強。",
-      "zh_hans": "港股三大指数午后回落，收市仍录得升幅。恒生指数收报24186.83点，升0.52%；恒生科技指数升1.16%，国企指数升0.31%。盘面上科网股普涨，联想涨超8%，快手、阿里涨超2%；军工股及黄金股亦走强。"
-    },
-    "tags": {
-      "en": [
-        "Hang Seng",
-        "Hong Kong stocks",
-        "tech shares"
-      ],
-      "zh_hant": [
-        "恒指",
-        "港股",
-        "科網股"
-      ],
-      "zh_hans": [
-        "恒指",
-        "港股",
-        "科网股"
-      ]
-    }
-  },
-  {
-    "id": "20261016-chung-yeung-transport",
-    "category": "hk",
-    "published_at": "2026-10-16T14:30:00+08:00",
-    "source": {
-      "name": "Hongkong Invest",
-      "url": "https://hongkong-invest.com/%E9%81%8B%E8%BC%B8%E7%BD%B2%E5%91%BC%E7%B1%B2%E9%87%8D%E9%99%BD%E7%AF%80%E5%81%87%E6%9C%9F%E5%89%8D%E5%BE%8C%E5%B8%82%E6%B0%91%E5%92%8C%E6%97%85%E5%AE%A2%E6%87%89%E9%A0%90%E6%97%A9%E8%A8%88%E5%8A%83/"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Transport Dept Urges Early Planning for Cross-Border Travel Over Chung Yeung Holiday",
-      "zh_hant": "運輸署籲重陽節假期前後　預早計劃跨境行程",
-      "zh_hans": "运输署吁重阳节假期前后　预早计划跨境行程"
-    },
-    "summary": {
-      "en": "The Transport Department warned that cross-boundary traffic will surge between October 16 and 19 over the Chung Yeung Festival holiday, with the return peak expected on Monday afternoon and evening. The MTR East Rail line, the high-speed rail, the Hong Kong-Zhuhai-Macao Bridge shuttle buses and cross-boundary coaches will all add services. Passengers are advised to travel outside peak hours and allow ample time.",
-      "zh_hant": "運輸署表示，重陽節假期前後（十月十六至十九日），各陸路口岸人流及車流將顯著增加，星期一下午至傍晚預計為回港高峰。港鐵東鐵綫、高鐵香港段、港珠澳大橋穿梭巴士及跨境直通巴士均會加強服務。署方呼籲市民預早計劃行程，盡量避開繁忙時間，並預留充裕交通時間。",
-      "zh_hans": "运输署表示，重阳节假期前后（十月十六至十九日），各陆路口岸人流及车流将显著增加，星期一下午至傍晚预计为回港高峰。港铁东铁线、高铁香港段、港珠澳大桥穿梭巴士及跨境直通巴士均会加强服务。署方呼吁市民预早计划行程，尽量避开繁忙时间，并预留充裕交通时间。"
-    },
-    "tags": {
-      "en": [
-        "Chung Yeung Festival",
-        "Transport Department",
-        "cross-border"
-      ],
-      "zh_hant": [
-        "重陽節",
-        "運輸署",
-        "跨境交通"
-      ],
-      "zh_hans": [
-        "重阳节",
-        "运输署",
-        "跨境交通"
-      ]
-    }
-  },
-  {
-    "id": "20261016-interpol-assembly-hk",
-    "category": "hk",
-    "published_at": "2026-10-16T11:27:00+08:00",
-    "source": {
-      "name": "政府新聞網",
-      "url": "http://www.news.gov.hk/chi/2026/10/20261016/20261016_112730_080.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Hong Kong to Host INTERPOL General Assembly Next Month; Privileges Order Gazetted",
-      "zh_hant": "國際刑警第94屆全體大會下月在港舉行　相關命令刊憲",
-      "zh_hans": "国际刑警第94届全体大会下月在港举行　相关命令刊宪"
-    },
-    "summary": {
-      "en": "The 94th INTERPOL General Assembly will be held in Hong Kong from November 30 to December 3, alongside the 231st Executive Committee meeting on November 29. To give effect to the privileges and immunities agreement signed between the central government and INTERPOL, the government today gazetted the relevant order. The order will be tabled in the Legislative Council next Wednesday and take effect the same day.",
-      "zh_hant": "由國家主辦、香港承辦的國際刑警組織第231次執委會會議及第94屆全體大會下月底在港舉行，日期分別為11月29日及11月30日至12月3日。特區政府今日將相關特權及豁免權命令刊憲，下周三提交立法會審議，同日生效。特區政府表示會全力辦好會議，向世界展現「一國兩制」成果。",
-      "zh_hans": "由国家主办、香港承办的国际刑警组织第231次执委会会议及第94届全体大会下月底在港举行，日期分别为11月29日及11月30日至12月3日。特区政府今日将相关特权及豁免权命令刊宪，下周三提交立法会审议，同日生效。特区政府表示会全力办好会议，向世界展现「一国两制」成果。"
-    },
-    "tags": {
-      "en": [
-        "INTERPOL",
-        "General Assembly",
-        "Hong Kong"
-      ],
-      "zh_hant": [
-        "國際刑警組織",
-        "全體大會",
-        "香港"
-      ],
-      "zh_hans": [
-        "国际刑警组织",
-        "全体大会",
-        "香港"
-      ]
-    }
-  },
-  {
-    "id": "20261016-wang-yi-herzog",
-    "category": "china",
-    "published_at": "2026-10-16T16:00:00+08:00",
-    "source": {
-      "name": "路透社",
-      "url": "https://businessintelligence.mo/2026/10/14/%e4%b8%ad%e5%9c%8b9%e6%9c%88%e6%96%b0%e5%a2%9e%e8%b2%b8%e6%ac%be%e5%8f%8a%e7%a4%be%e8%9e%8d%e7%95%a5%e8%b6%85%e9%a0%90%e6%9c%9f%ef%bc%8c%e8%b2%a8%e5%b9%a3%e6%94%bf%e7%ad%96%e6%88%96%e9%80%b2%e5%85%a5/"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Wang Yi Meets Israeli President: Urges Open Gaza Corridors, Halt to Settlements",
-      "zh_hant": "王毅會見以色列總統　促全面打開加沙通道、停止定居點",
-      "zh_hans": "王毅会见以色列总统　促全面打开加沙通道、停止定居点"
-    },
-    "summary": {
-      "en": "Chinese Foreign Minister Wang Yi met Israeli President Isaac Herzog on Thursday, saying the immediate priority is to fully open humanitarian corridors into Gaza and stop the humanitarian disaster from spreading. He also said Israel should halt and reverse the establishment of settlements in the West Bank. The meeting came as tensions in the Middle East remain high.",
-      "zh_hant": "中國外交部長王毅周四會見以色列總統赫爾佐格時表示，當務之急是全面打開進入加沙地區的通道，不能允許人道主義災難持續蔓延；以色列亦應停止並撤銷在約旦河西岸強行設立定居點的行徑。會晤之際，中東地區局勢持續緊張。",
-      "zh_hans": "中国外交部长王毅周四会见以色列总统赫尔佐格时表示，当务之急是全面打开进入加沙地区的通道，不能允许人道主义灾难持续蔓延；以色列亦应停止并撤销在约旦河西岸强行设立定居点的行径。会晤之际，中东地区局势持续紧张。"
-    },
-    "tags": {
-      "en": [
-        "Wang Yi",
-        "Israel",
-        "Gaza"
-      ],
-      "zh_hant": [
-        "王毅",
-        "以色列",
-        "加沙"
-      ],
-      "zh_hans": [
-        "王毅",
-        "以色列",
-        "加沙"
-      ]
-    }
-  },
-  {
-    "id": "20261016-us-ppi-sept",
-    "category": "finance",
-    "published_at": "2026-10-16T15:00:00+08:00",
-    "source": {
-      "name": "WEEX",
-      "url": "https://www.weex.com/news/detail/stocks-and-crypto-rebound-after-hot-ppi-weex-tradfi-daily-brief-october-16-2026-kz1k8ln2dcpp5u7bcevkcfsw"
-    },
-    "image_url": "",
-    "title": {
-      "en": "US September PPI Jumps 6.3% to Four-Year High; Stocks Rebound After Selloff",
-      "zh_hant": "美國9月PPI同比漲6.3%創逾四年新高　美股先跌後回升",
-      "zh_hans": "美国9月PPI同比涨6.3%创逾四年新高　美股先跌后回升"
-    },
-    "summary": {
-      "en": "US producer price inflation rose 6.3% year on year in September, the highest in more than four years, briefly lifting bets on further rate hikes. Risk assets sold off on the hot print before rebounding, with the three major indexes closing higher. Bitcoin briefly broke below $80,000 before recovering to the $82,000–$83,000 range.",
-      "zh_hant": "美國9月份生產者物價指數同比上漲6.3%，為逾四年來最高，一度推高市場對加息的押注。風險資產在數據公布後先跌後反彈，三大股指收市向上。比特幣曾短暫跌穿8萬美元，其後回升至8.2萬至8.3萬美元水平。",
-      "zh_hans": "美国9月份生产者物价指数同比上涨6.3%，为逾四年来最高，一度推高市场对加息的押注。风险资产在数据公布后先跌后反弹，三大股指收市向上。比特币曾短暂跌穿8万美元，其后回升至8.2万至8.3万美元水平。"
-    },
-    "tags": {
-      "en": [
-        "US PPI",
-        "inflation",
-        "US stocks"
-      ],
-      "zh_hant": [
-        "美國PPI",
-        "通脹",
-        "美股"
-      ],
-      "zh_hans": [
-        "美国PPI",
-        "通胀",
-        "美股"
-      ]
-    }
-  },
-  {
-    "id": "20261016-italy-aviation-strike",
-    "category": "world",
-    "published_at": "2026-10-16T14:28:00+08:00",
-    "source": {
-      "name": "The Orbit Post",
-      "url": "https://theorbitpostnews.us/italy-easyjet-strike-october-16-flights/"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Italy Aviation Chaos: easyJet 24-Hour Strike Grounds Hundreds of Flights",
-      "zh_hant": "意大利航空大罷工　易捷停飛24小時、約200英航班取消",
-      "zh_hans": "意大利航空大罢工　易捷停飞24小时、约200英航班取消"
-    },
-    "summary": {
-      "en": "A 24-hour strike by easyJet's Italian crews, called by the USB Lavoro Privato union, ran from midnight to midnight on Friday, coinciding with walkouts by airport workers in Pisa, Florence and Venice. Around 200 easyJet flights between the UK and Italy were cancelled. Under Italian law, flights departing between 7am–10am and 6pm–9pm are protected and must operate; all others face cancellation or delay.",
-      "zh_hant": "意大利易捷航空機組人員周五展開24小時全國大罷工，同日比薩、佛羅倫斯及威尼斯機場員工亦有罷工行動。約200班往返英國與意大利的易捷航班取消。按意大利法例，上午7至10時及晚上6至9時為受保障時段，航班必須飛行；其餘時段航班面臨取消或延誤風險。",
-      "zh_hans": "意大利易捷航空机组人员周五展开24小时全国大罢工，同日比萨、佛罗伦萨及威尼斯机场员工亦有罢工行动。约200班往返英国与意大利的易捷航班取消。按意大利法例，上午7至10时及晚上6至9时为受保障时段，航班必须飞行；其余时段航班面临取消或延误风险。"
-    },
-    "tags": {
-      "en": [
-        "Italy",
-        "aviation strike",
-        "easyJet"
-      ],
-      "zh_hant": [
-        "意大利",
-        "航空罷工",
-        "易捷航空"
-      ],
-      "zh_hans": [
-        "意大利",
-        "航空罢工",
-        "易捷航空"
-      ]
-    }
-  },
-  {
-    "id": "20261016-amazon-bee",
-    "category": "tech",
-    "published_at": "2026-10-16T10:15:00+08:00",
-    "source": {
-      "name": "MoneyDJ理財網",
-      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=ba43a5c8-b25a-4d79-9c9b-7069a6c8280c"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Amazon Launches Two Bee AI Wearables, Deepens Alexa+ Integration",
-      "zh_hant": "亞馬遜推兩款Bee AI裝置　串接Alexa+主攻日常應用",
-      "zh_hans": "亚马逊推两款Bee AI装置　串接Alexa+主攻日常应用"
-    },
-    "summary": {
-      "en": "Amazon on October 15 unveiled two Bee-branded AI devices: the wrist-worn Bee Frontier and Bee Eclipse, a card-sized accessory that pairs with smartphones. Both focus on conversation summaries, information extraction and task management, and integrate with Alexa+ so users can access summaries and to-do lists hands-free. The launch extends Amazon's AI capabilities further into everyday hardware.",
-      "zh_hant": "亞馬遜於10月15日推出兩款Bee品牌AI裝置：可佩戴於手腕的Bee Frontier，以及可連接智能手機的卡片式配件Bee Eclipse。兩款產品主打對話摘要、重點資訊提取及任務管理，並與Alexa+整合，讓用戶可在免手持情境下存取摘要與待辦事項。Amazon正將AI能力進一步導入日常消費硬件。",
-      "zh_hans": "亚马逊于10月15日推出两款Bee品牌AI装置：可佩戴于手腕的Bee Frontier，以及可连接智能手机的卡片式配件Bee Eclipse。两款产品主打对话摘要、重点信息提取及任务管理，并与Alexa+整合，让用户可在免手持情境下存取摘要与待办事项。Amazon正将AI能力进一步导入日常消费硬件。"
-    },
-    "tags": {
-      "en": [
-        "Amazon",
-        "AI devices",
-        "Alexa"
-      ],
-      "zh_hant": [
-        "亞馬遜",
-        "AI裝置",
-        "Alexa"
-      ],
-      "zh_hans": [
-        "亚马逊",
-        "AI装置",
-        "Alexa"
-      ]
-    }
-  },
-  {
-    "id": "20261016-q3-smartphone-down",
-    "category": "tech",
-    "published_at": "2026-10-16T13:00:00+08:00",
-    "source": {
-      "name": "SayDigi",
-      "url": "https://www.saydigi.com/2026/10/1456062.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Global Q3 Smartphone Shipments Plunge 20% as Memory Shortage Bites",
-      "zh_hant": "記憶體短缺夾擊　全球Q3智能手機出貨年減20%",
-      "zh_hans": "记忆体短缺夹击　全球Q3智能手机出货年减20%"
-    },
-    "summary": {
-      "en": "Global smartphone shipments fell 20% year on year in the third quarter of 2026, the lowest third-quarter level since 2012, according to Counterpoint Research's preliminary data. The ongoing memory shortage pushed retail prices up 20% this year. Samsung led with 23% market share and Apple followed with 22%, while Xiaomi, OPPO and vivo all saw shipments drop more than 20%.",
-      "zh_hant": "Counterpoint Research初步統計顯示，2026年第三季全球智能手機出貨量同比減少20%，創下2012年以來第三季最低紀錄。記憶體供應短缺持續推高成本，今年全球手機零售價已上漲20%。三星以23%市占居首，蘋果達22%，小米、OPPO及vivo出貨均跌逾兩成。",
-      "zh_hans": "Counterpoint Research初步统计显示，2026年第三季全球智能手机出货量同比减少20%，创下2012年以来第三季最低纪录。记忆体供应短缺持续推高成本，今年全球手机零售价已上涨20%。三星以23%市占居首，苹果达22%，小米、OPPO及vivo出货均跌逾两成。"
-    },
-    "tags": {
-      "en": [
-        "smartphones",
-        "shipments",
-        "memory shortage"
-      ],
-      "zh_hant": [
-        "智能手機",
-        "出貨量",
-        "記憶體短缺"
-      ],
-      "zh_hans": [
-        "智能手机",
-        "出货量",
-        "记忆体短缺"
-      ]
-    }
-  },
-  {
-    "id": "20261016-openai-altman-device",
-    "category": "tech",
-    "published_at": "2026-10-16T09:13:00+08:00",
-    "source": {
-      "name": "商傳媒",
-      "url": "https://sunmedia.tw/news/technology/1792105032-OpenAI%E5%9F%B7%E8%A1%8C%E9%95%B7%E5%A5%A7%E7%89%B9%E6%9B%BC%E9%96%8B%E7%99%BAAI%E8%A3%9D%E7%BD%AE%E3%80%80%E6%AC%B2%E6%8C%91%E6%88%B0%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E9%9C%B8%E4%B8%BB%E5%9C%B0%E4%BD%8D"
-    },
-    "image_url": "",
-    "title": {
-      "en": "OpenAI's Altman Building Screenless AI Device to Challenge Smartphones",
-      "zh_hant": "OpenAI奧特曼開發AI裝置　挑戰智能手機霸主地位",
-      "zh_hans": "OpenAI奥特曼开发AI装置　挑战智能手机霸主地位"
-    },
-    "summary": {
-      "en": "OpenAI chief executive Sam Altman is developing a new AI hardware device that could one day replace the smartphone, according to reports. The secretive project, underway for more than a year with strong funding and well-known investors, will put generative AI at its core, prioritising voice commands and an intuitive interface over screens and apps. A fully functional prototype is still years away.",
-      "zh_hant": "據報導，OpenAI執行長奧特曼正開發一款全新AI硬件裝置，目標未來取代智能手機。這項秘密計劃已投入開發逾一年，獲雄厚資金及知名投資者支持，核心將運用生成式AI技術，以語音指令和直覺式介面為主，擺脫螢幕與App限制。不過完整功能的實體原型料仍需數年才問世。",
-      "zh_hans": "据报道，OpenAI执行长奥特曼正开发一款全新AI硬件装置，目标未来取代智能手机。这项秘密计划已投入开发逾一年，获雄厚资金及知名投资者支持，核心将运用生成式AI技术，以语音指令和直觉式介面为主，摆脱萤幕与App限制。不过完整功能的实体原型料仍需数年才问世。"
-    },
-    "tags": {
-      "en": [
-        "OpenAI",
-        "Sam Altman",
-        "AI hardware"
-      ],
-      "zh_hant": [
-        "OpenAI",
-        "奧特曼",
-        "AI裝置"
-      ],
-      "zh_hans": [
-        "OpenAI",
-        "奥特曼",
-        "AI装置"
-      ]
-    }
-  },
-  {
-    "id": "20261016-huanggang-port-qrcode",
-    "category": "society",
-    "published_at": "2026-10-16T11:03:00+08:00",
-    "source": {
-      "name": "香港文匯報",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivksmu1563945.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "New Huanggang Port Trips Up Commuters as QR Codes and Facial Scans Fail",
-      "zh_hant": "新皇崗口岸過關大混亂　二維碼刷臉齊失靈",
-      "zh_hans": "新皇岗口岸过关大混乱　二维码刷脸齐失灵"
-    },
-    "summary": {
-      "en": "Commuters using the newly relocated Huanggang port were caught off guard as QR codes failed at immigration and facial recognition repeatedly malfunctioned. The disruption frustrated large numbers of cross-border travellers during the morning rush.",
-      "zh_hant": "換咗新址嘅皇崗口岸令通勤族措手不及，二維碼未能過關、刷臉亦屢次失敗。繁忙時間大批跨境旅客受阻，怨聲四起。",
-      "zh_hans": "换了新址的皇岗口岸令通勤族措手不及，二维码未能过关、刷脸亦屡次失败。繁忙时间大批跨境旅客受阻，怨声四起。"
-    },
-    "tags": {
-      "en": [
-        "Huanggang port",
-        "border crossing",
-        "commuters"
-      ],
-      "zh_hant": [
-        "皇崗口岸",
-        "過關",
-        "通勤族"
-      ],
-      "zh_hans": [
-        "皇岗口岸",
-        "过关",
-        "通勤族"
-      ]
-    }
-  },
-  {
-    "id": "20261016-embodied-ai-report-2026",
-    "category": "tech",
-    "published_at": "2026-10-16T13:24:00+08:00",
-    "source": {
-      "name": "界面新聞",
-      "url": "https://finance.sina.cn/stock/jdts/2026-10-16/detail-inivkwti7059009.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "China Releases 2026 Embodied Intelligence Development Report",
-      "zh_hant": "中國信通院發布《具身智能發展報告2026》",
-      "zh_hans": "中国信通院发布《具身智能发展报告2026》"
-    },
-    "summary": {
-      "en": "The AI institute of the China Academy of Information and Communications Technology has jointly released the Embodied Intelligence Development Report 2026. The report maps out the sector's trajectory as humanoid robots and intelligent hardware draw growing investment.",
-      "zh_hant": "中國信通院人工智能研究所聯合發布《具身智能發展報告（2026年）》。報告梳理行業發展路徑，隨住人形機械人同智能硬件吸納愈來愈多投資，具身智能成為科技界焦點。",
-      "zh_hans": "中国信通院人工智能研究所联合发布《具身智能发展报告（2026年）》。报告梳理行业发展路径，随着人形机器人和智能硬件吸纳越来越多投资，具身智能成为科技界焦点。"
-    },
-    "tags": {
-      "en": [
-        "embodied AI",
-        "robotics",
-        "CAICT"
-      ],
-      "zh_hant": [
-        "具身智能",
-        "機械人",
-        "信通院"
-      ],
-      "zh_hans": [
-        "具身智能",
-        "机器人",
-        "信通院"
-      ]
-    }
-  },
-  {
-    "id": "20261016-mofcom-import-facilitation",
-    "category": "china",
-    "published_at": "2026-10-16T12:24:00+08:00",
-    "source": {
-      "name": "格隆匯",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivkwtt8301199.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Commerce Ministry Vows Better Import Facilitation for Trade Partners",
-      "zh_hant": "商務部：積極回應貿易夥伴訴求　優化進口便利化",
-      "zh_hans": "商务部：积极回应贸易伙伴诉求　优化进口便利化"
-    },
-    "summary": {
-      "en": "China's commerce ministry says it will actively respond to trade partners' concerns and keep improving import facilitation measures. The remarks signal Beijing's push to stabilise foreign trade ties.",
-      "zh_hant": "商務部表示，將積極回應貿易夥伴訴求，持續優化進口便利化舉措。言論顯示北京正致力穩定對外貿易關係。",
-      "zh_hans": "商务部表示，将积极回应贸易伙伴诉求，持续优化进口便利化举措。言论显示北京正致力稳定对外贸易关系。"
-    },
-    "tags": {
-      "en": [
-        "Mofcom",
-        "imports",
-        "trade"
-      ],
-      "zh_hant": [
-        "商務部",
-        "進口",
-        "貿易"
-      ],
-      "zh_hans": [
-        "商务部",
-        "进口",
-        "贸易"
-      ]
-    }
-  },
-  {
-    "id": "20261016-mof-rmb-bonds-hk",
-    "category": "finance",
-    "published_at": "2026-10-16T13:22:00+08:00",
-    "source": {
-      "name": "中國新聞網",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivkwtt8363575.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Finance Ministry to Issue 15.5B Yuan of Bonds in Hong Kong",
-      "zh_hant": "財政部10月在港發行155億人民幣國債",
-      "zh_hans": "财政部10月在港发行155亿人民币国债"
-    },
-    "summary": {
-      "en": "China's finance ministry will issue 15.5 billion yuan of sovereign bonds in Hong Kong in October. The issuance underscores Hong Kong's role as an offshore renminbi hub.",
-      "zh_hant": "財政部將於10月在香港發行155億元人民幣國債。發債安排突顯香港作為離岸人民幣中心嘅角色。",
-      "zh_hans": "财政部将于10月在香港发行155亿元人民币国债。发债安排突显香港作为离岸人民币中心的角色。"
-    },
-    "tags": {
-      "en": [
-        "RMB bonds",
-        "MOF",
-        "Hong Kong"
-      ],
-      "zh_hant": [
-        "人民幣國債",
-        "財政部",
-        "香港"
-      ],
-      "zh_hans": [
-        "人民币国债",
-        "财政部",
-        "香港"
-      ]
-    }
-  },
-  {
-    "id": "20261016-ciie-export-china",
-    "category": "china",
-    "published_at": "2026-10-16T13:13:00+08:00",
-    "source": {
-      "name": "環球網",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivkwts1584038.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "CIIE Preparations Linked With 'Export China' Brand Drive",
-      "zh_hant": "進博會籌備與「出口中國」品牌活動聯動",
-      "zh_hans": "进博会筹备与「出口中国」品牌活动联动"
-    },
-    "summary": {
-      "en": "Preparations for the China International Import Expo are being closely coordinated with the 'Export China' branding campaign, the commerce ministry said. The linkage aims to raise the profile of Chinese brands overseas.",
-      "zh_hant": "商務部指，進博會籌備工作正與「出口中國」品牌活動深度聯動，冀提升中國品牌喺海外嘅知名度。",
-      "zh_hans": "商务部指，进博会筹备工作正与「出口中国」品牌活动深度联动，冀提升中国品牌在海外的知名度。"
-    },
-    "tags": {
-      "en": [
-        "CIIE",
-        "exports",
-        "Chinese brands"
-      ],
-      "zh_hant": [
-        "進博會",
-        "出口",
-        "中國品牌"
-      ],
-      "zh_hans": [
-        "进博会",
-        "出口",
-        "中国品牌"
-      ]
-    }
-  },
-  {
-    "id": "20261016-tourism-hotspots-4-projects",
-    "category": "hk",
-    "published_at": "2026-10-16T10:00:00+08:00",
-    "source": {
-      "name": "香城公民媒體",
-      "url": "https://hkcitizenmedia.com/2026/10/16/%e6%97%85%e9%81%8a%e7%86%b1%e9%bb%9e%e5%b7%a5%e4%bd%9c%e7%b5%84%e6%8e%a8%e4%b8%8b%e9%9a%8e%e6%ae%b54%e9%a0%85%e7%9b%ae%e3%80%80%e5%b7%a5%e6%a5%ad%e5%93%81%e7%89%8c%e9%81%8a%e5%a2%9e%e4%b9%9d%e5%b7%b4/"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Tourism Hotspot Drive Adds Bus Depot, MTR Exhibition to Line-up",
-      "zh_hant": "旅遊熱點工作組推4項目　九巴車廠港鐵展入列",
-      "zh_hans": "旅游热点工作组推4项目　九巴车厂港铁展入列"
-    },
-    "summary": {
-      "en": "The working group on tourism hotspots has unveiled four new projects, including industrial brand tours adding a KMB depot and an MTR exhibition, plus micro-art, religious culture and Yuen Long-themed offerings. Officials hope the mix will draw more visitors to explore a different side of Hong Kong.",
-      "zh_hant": "旅遊熱點工作組推出下階段4個項目，包括工業品牌遊新增九巴車廠及港鐵展覽，以及微型藝術、宗教文化同元朗風貌主題。官方期望新組合吸引旅客探索不一樣嘅香港。",
-      "zh_hans": "旅游热点工作组推出下阶段4个项目，包括工业品牌游新增九巴车厂及港铁展览，以及微型艺术、宗教文化和元朗风貌主题。官方期望新组合吸引旅客探索不一样的香港。"
-    },
-    "tags": {
-      "en": [
-        "tourism",
-        "Hong Kong",
-        "hotspots"
-      ],
-      "zh_hant": [
-        "旅遊",
-        "香港",
-        "旅遊熱點"
-      ],
-      "zh_hans": [
-        "旅游",
-        "香港",
-        "旅游热点"
-      ]
-    }
-  },
-  {
-    "id": "20261016-sun-yat-sen-160",
-    "category": "hk",
-    "published_at": "2026-10-16T10:00:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://hongkong-invest.com/%E6%94%BF%E5%BA%9C%E8%88%89%E8%BE%A6%E5%AD%AB%E4%B8%AD%E5%B1%B1%E5%85%88%E7%94%9F%E8%AA%95%E8%BE%B0160%E5%91%A8%E5%B9%B4%E5%AE%98%E6%96%B9%E7%B4%80%E5%BF%B5%E5%84%80%E5%BC%8F/"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Official Ceremony Planned for Sun Yat-sen's 160th Birth Anniversary",
-      "zh_hant": "政府11月舉辦孫中山誕辰160周年官方紀念儀式",
-      "zh_hans": "政府11月举办孙中山诞辰160周年官方纪念仪式"
-    },
-    "summary": {
-      "en": "The government will hold an official ceremony marking the 160th anniversary of Dr Sun Yat-sen's birth at Sun Yat Sen Memorial Park on November 12. The event honours the revolutionary leader's legacy.",
-      "zh_hant": "政府將於11月12日在中山紀念公園舉辦孫中山先生誕辰160周年官方紀念儀式，向呢位革命先行者致敬。",
-      "zh_hans": "政府将于11月12日在中山纪念公园举办孙中山先生诞辰160周年官方纪念仪式，向这位革命先行者致敬。"
-    },
-    "tags": {
-      "en": [
-        "Sun Yat-sen",
-        "anniversary",
-        "ceremony"
-      ],
-      "zh_hant": [
-        "孫中山",
-        "誕辰",
-        "紀念儀式"
-      ],
-      "zh_hans": [
-        "孙中山",
-        "诞辰",
-        "纪念仪式"
-      ]
-    }
-  },
-  {
-    "id": "20261016-eason-chan-26-shows",
-    "category": "entertainment",
-    "published_at": "2026-10-16T08:00:00+08:00",
-    "source": {
-      "name": "Sundaykiss",
-      "url": "https://www.sundaykiss.com/%e5%a8%9b%e6%a8%82/%e9%99%b3%e5%a5%95%e8%bf%85-%e8%88%87%e6%88%91%e5%b8%b8%e5%9c%a8-%e6%bc%94%e5%94%b1%e6%9c%83-2446058/?utm_term=Autofeed&utm_format=Photo"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Eason Chan Announces 26 Shows for 30th Anniversary, Bans Applause",
-      "zh_hant": "陳奕迅出道30年連開26場　禁拍攝禁拍手惹熱議",
-      "zh_hans": "陈奕迅出道30年连开26场　禁拍摄禁拍手惹热议"
-    },
-    "summary": {
-      "en": "Eason Chan has announced 26 concerts marking 30 years in the industry, under the banner 'Recording Sessions with Mr. Eason Chan'. A ban on photography, filming and even applause at the shows has sparked heated discussion among fans.",
-      "zh_hant": "陳奕迅宣布出道30年將連開26場《Recording Sessions with Mr. Eason Chan》。演唱會現場禁拍攝兼禁拍手歡呼，惹來歌迷熱議。",
-      "zh_hans": "陈奕迅宣布出道30年将连开26场《Recording Sessions with Mr. Eason Chan》。演唱会现场禁拍摄兼禁拍手欢呼，惹来歌迷热议。"
-    },
-    "tags": {
-      "en": [
-        "Eason Chan",
-        "concert",
-        "Cantopop"
-      ],
-      "zh_hant": [
-        "陳奕迅",
-        "演唱會",
-        "廣東歌"
-      ],
-      "zh_hans": [
-        "陈奕迅",
-        "演唱会",
-        "粤语歌"
-      ]
-    }
-  },
-  {
-    "id": "20261016-houthi-aden-attack",
-    "category": "world",
-    "published_at": "2026-10-16T11:00:00+08:00",
-    "source": {
-      "name": "2CR澳洲中文廣播電台",
-      "url": "https://www.2cr.com.au/胡塞武裝襲擊亞丁政府建築群-2/"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Houthi Attack on Aden Palace Complex Kills 5, Injures 16",
-      "zh_hant": "胡塞襲擊也門亞丁馬希克宮　5死16傷",
-      "zh_hans": "胡塞袭击也门亚丁马希克宫　5死16伤"
-    },
-    "summary": {
-      "en": "Houthi forces attacked the Maashiq Palace complex in Aden, Yemen, killing five people and injuring 16. The strike marks a sharp escalation in the country's conflict.",
-      "zh_hant": "胡塞武裝襲擊也門亞丁馬希克宮建築群，造成5死16傷，令當地衝突急劇升溫。",
-      "zh_hans": "胡塞武装袭击也门亚丁马希克宫建筑群，造成5死16伤，令当地冲突急剧升温。"
-    },
-    "tags": {
-      "en": [
-        "Yemen",
-        "Houthis",
-        "Aden"
-      ],
-      "zh_hant": [
-        "也門",
-        "胡塞武裝",
-        "亞丁"
-      ],
-      "zh_hans": [
-        "也门",
-        "胡塞武装",
-        "亚丁"
-      ]
-    }
-  },
-  {
-    "id": "20261016-unsc-houthi-saudi",
-    "category": "world",
-    "published_at": "2026-10-16T09:11:00+08:00",
-    "source": {
-      "name": "央視新聞",
-      "url": "https://news.hebccw.cn/system/2026/10/16/102233570.shtml"
-    },
-    "image_url": "",
-    "title": {
-      "en": "UN Security Council Condemns Houthi Attacks on Saudi Civilian Sites",
-      "zh_hant": "安理會譴責胡塞武裝襲擊沙特民用設施",
-      "zh_hans": "安理会谴责胡塞武装袭击沙特民用设施"
-    },
-    "summary": {
-      "en": "The UN Security Council has condemned cross-border attacks by Houthi forces on civilian facilities in Saudi Arabia. The statement follows a series of strikes that have drawn international concern.",
-      "zh_hant": "聯合國安理會譴責胡塞武裝跨境襲擊沙特民用設施。一連串襲擊引起國際關注，安理會發表聲明譴責。",
-      "zh_hans": "联合国安理会谴责胡塞武装跨境袭击沙特民用设施。一连串袭击引起国际关注，安理会发表声明谴责。"
-    },
-    "tags": {
-      "en": [
-        "UN",
-        "Houthis",
-        "Saudi Arabia"
-      ],
-      "zh_hant": [
-        "聯合國",
-        "胡塞武裝",
-        "沙特"
-      ],
-      "zh_hans": [
-        "联合国",
-        "胡塞武装",
-        "沙特"
-      ]
-    }
-  },
-  {
-    "id": "20261016-li-qiang-central-asia",
-    "category": "china",
-    "published_at": "2026-10-16T09:00:00+08:00",
-    "source": {
-      "name": "新浪財經",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Premier Li Qiang to Visit Uzbekistan, Tajikistan and Russia",
-      "zh_hant": "李強將出訪烏茲別克等三國　出席上合會議",
-      "zh_hans": "李强将出访乌兹别克等三国　出席上合会议"
-    },
-    "summary": {
-      "en": "The Foreign Ministry announced Premier Li Qiang will visit Uzbekistan and Tajikistan from October 17 to 20, attend the SCO prime ministers' meeting, then travel to Russia for the regular China-Russia premiers' meeting through October 22.",
-      "zh_hant": "外交部宣布，國務院總理李強將於10月17日至22日先後對烏茲別克斯坦、塔吉克斯坦進行正式訪問並出席上合組織總理會議，再赴俄羅斯舉行中俄總理定期會晤。",
-      "zh_hans": "外交部宣布，国务院总理李强将于10月17日至22日先后对乌兹别克斯坦、塔吉克斯坦进行正式访问并出席上合组织总理会议，再赴俄罗斯举行中俄总理定期会晤。"
-    },
-    "tags": {
-      "en": [
-        "Li Qiang",
-        "diplomacy",
-        "SCO"
-      ],
-      "zh_hant": [
-        "李強",
-        "出訪",
-        "上合組織"
-      ],
-      "zh_hans": [
-        "李强",
-        "出访",
-        "上合组织"
-      ]
-    }
-  },
-  {
-    "id": "20261016-pboc-easing",
-    "category": "finance",
-    "published_at": "2026-10-16T09:30:00+08:00",
-    "source": {
-      "name": "新浪財經",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "PBOC to Continue 'Moderately Loose' Monetary Policy, Governor Says",
-      "zh_hant": "人行：繼續實施適度寬鬆貨幣政策",
-      "zh_hans": "人行：继续实施适度宽松货币政策"
-    },
-    "summary": {
-      "en": "PBOC Governor Pan Gongsheng told the G20 finance ministers and central bank governors meeting that the central bank will continue its moderately loose monetary policy to support stable economic growth and steady financial markets.",
-      "zh_hant": "人民銀行行長潘功勝在G20財長和央行行長會議上表示，人行將繼續實施適度寬鬆的貨幣政策，為經濟穩定增長和金融市場平穩運行營造良好環境。",
-      "zh_hans": "人民银行行长潘功胜在G20财长和央行行长会议上表示，人行将继续实施适度宽松的货币政策，为经济稳定增长和金融市场平稳运行营造良好环境。"
-    },
-    "tags": {
-      "en": [
-        "PBOC",
-        "monetary policy",
-        "G20"
-      ],
-      "zh_hant": [
-        "人行",
-        "貨幣政策",
-        "G20"
-      ],
-      "zh_hans": [
-        "人行",
-        "货币政策",
-        "G20"
-      ]
-    }
-  },
-  {
-    "id": "20261016-lan-foan-fiscal",
-    "category": "finance",
-    "published_at": "2026-10-16T10:00:00+08:00",
-    "source": {
-      "name": "新浪財經",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Finance Minister Lan Fo'an Pledges More Proactive Fiscal Policy at G20",
-      "zh_hant": "藍佛安：精準實施更積極財政政策",
-      "zh_hans": "蓝佛安：精准实施更积极财政政策"
-    },
-    "summary": {
-      "en": "Finance Minister Lan Fo'an told the G20 meeting China will implement a more proactive fiscal policy with precision to keep the economy improving and inject confidence and certainty into the world economy.",
-      "zh_hant": "財政部部長藍佛安出席G20會議時表示，將精準有效實施更加積極的財政政策，推動經濟持續向好發展，為世界經濟注入信心和確定性。",
-      "zh_hans": "财政部部长蓝佛安出席G20会议时表示，将精准有效实施更加积极的财政政策，推动经济持续向好发展，为世界经济注入信心和确定性。"
-    },
-    "tags": {
-      "en": [
-        "fiscal policy",
-        "G20",
-        "Lan Fo'an"
-      ],
-      "zh_hant": [
-        "財政政策",
-        "G20",
-        "藍佛安"
-      ],
-      "zh_hans": [
-        "财政政策",
-        "G20",
-        "蓝佛安"
-      ]
-    }
-  },
-  {
-    "id": "20261016-zunjie-brake-probe",
-    "category": "society",
-    "published_at": "2026-10-16T10:30:00+08:00",
-    "source": {
-      "name": "新浪財經",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Joint Probe Launched into Zunjie V800 Brake Pedal Issue",
-      "zh_hant": "尊界V800剎車問題　三部門成立聯合調查組",
-      "zh_hans": "尊界V800刹车问题　三部门成立联合调查组"
-    },
-    "summary": {
-      "en": "A joint investigation team has been formed by the industry ministry, cyberspace administration and market regulator to look into online reports of a broken brake pedal bracket on the Zunjie V800 car, with findings to be published in due course.",
-      "zh_hant": "針對網上反映的尊界V800汽車剎車踏板支架斷裂問題，工信部、中央網信辦、市場監管總局成立聯合調查組開展核查，將依法依規處理並及時公布情況。",
-      "zh_hans": "针对网上反映的尊界V800汽车刹车踏板支架断裂问题，工信部、中央网信办、市场监管总局成立联合调查组开展核查，将依法依规处理并及时公布情况。"
-    },
-    "tags": {
-      "en": [
-        "Zunjie",
-        "auto safety",
-        "probe"
-      ],
-      "zh_hant": [
-        "尊界",
-        "汽車安全",
-        "調查"
-      ],
-      "zh_hans": [
-        "尊界",
-        "汽车安全",
-        "调查"
-      ]
-    }
-  },
-  {
-    "id": "20261016-tsmc-q3",
-    "category": "tech",
-    "published_at": "2026-10-16T11:00:00+08:00",
-    "source": {
-      "name": "新浪財經",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "TSMC Beats Q3 Expectations as AI Demand Far Outstrips Supply",
-      "zh_hant": "台積電Q3業績勝預期　AI需求遠超供應",
-      "zh_hans": "台积电Q3业绩胜预期　AI需求远超供应"
-    },
-    "summary": {
-      "en": "TSMC reported third-quarter results and told analysts it expects fourth-quarter revenue of US$52.3-54.3 billion, adding that AI-driven CPU demand keeps growing and still far exceeds supply capacity.",
-      "zh_hant": "台積電公布第三季業績並召開分析師會議，預計第四季銷售額523億至543億美元。公司指AI相關的CPU需求持續增長，需求仍遠超目前供應能力。",
-      "zh_hans": "台积电公布第三季业绩并召开分析师会议，预计第四季销售额523亿至543亿美元。公司指AI相关的CPU需求持续增长，需求仍远超目前供应能力。"
-    },
-    "tags": {
-      "en": [
-        "TSMC",
-        "semiconductors",
-        "AI"
-      ],
-      "zh_hant": [
-        "台積電",
-        "半導體",
-        "AI"
-      ],
-      "zh_hans": [
-        "台积电",
-        "半导体",
-        "AI"
-      ]
-    }
-  },
-  {
-    "id": "20261016-deepseek-outage",
-    "category": "tech",
-    "published_at": "2026-10-16T11:30:00+08:00",
-    "source": {
-      "name": "新浪財經",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "DeepSeek Compensates Users in Full After 5-Hour Service Outage",
-      "zh_hant": "DeepSeek服務故障5小時　承諾全額補償",
-      "zh_hans": "DeepSeek服务故障5小时　承诺全额补偿"
-    },
-    "summary": {
-      "en": "DeepSeek's open platform suffered a service outage from 8:11am to 1:04pm on the 15th, leaving its API unusable. The company promised full compensation in the form of credits based on each account's past seven days of usage, credited automatically.",
-      "zh_hant": "DeepSeek開放平台15日上午8時至下午1時出現服務故障，API無法正常使用。官方承諾按帳號7日內消耗金額以贈金形式全額返還，贈金自動到帳。",
-      "zh_hans": "DeepSeek开放平台15日上午8时至下午1时出现服务故障，API无法正常使用。官方承诺按账号7日内消耗金额以赠金形式全额返还，赠金自动到账。"
-    },
-    "tags": {
-      "en": [
-        "DeepSeek",
-        "AI",
-        "outage"
-      ],
-      "zh_hant": [
-        "DeepSeek",
-        "AI",
-        "服務故障"
-      ],
-      "zh_hans": [
-        "DeepSeek",
-        "AI",
-        "服务故障"
-      ]
-    }
-  },
-  {
-    "id": "20261016-iphone18-double11",
-    "category": "tech",
-    "published_at": "2026-10-16T12:00:00+08:00",
-    "source": {
-      "name": "新浪財經",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Apple's Double 11 Sale Starts Oct 20 with iPhone 18 Pro Discounts",
-      "zh_hant": "蘋果雙11今月20日開鑼　iPhone 18 Pro有優惠",
-      "zh_hans": "苹果双11今月20日开锣　iPhone 18 Pro有优惠"
-    },
-    "summary": {
-      "en": "Apple's Tmall flagship store announced its Double 11 shopping festival sale starts October 20, with this fall's iPhone 18 Pro series eligible for a 300-yuan coupon plus an extra 500-yuan trade-in government subsidy.",
-      "zh_hant": "蘋果天貓官方旗艦店公布，雙11活動10月20日開始，今年秋季推出的iPhone 18 Pro系列可用300元優惠券，並可疊加500元以舊換新政府補貼。",
-      "zh_hans": "苹果天猫官方旗舰店公布，双11活动10月20日开始，今年秋季推出的iPhone 18 Pro系列可用300元优惠券，并可叠加500元以旧换新政府补贴。"
-    },
-    "tags": {
-      "en": [
-        "Apple",
-        "iPhone",
-        "Double 11"
-      ],
-      "zh_hant": [
-        "蘋果",
-        "iPhone",
-        "雙11"
-      ],
-      "zh_hans": [
-        "苹果",
-        "iPhone",
-        "双11"
-      ]
-    }
-  },
-  {
-    "id": "20261016-tesla-kids-bike",
-    "category": "tech",
-    "published_at": "2026-10-16T12:30:00+08:00",
-    "source": {
-      "name": "新浪財經",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Tesla Launches Kids' Balance Bike in China at 1,399 Yuan",
-      "zh_hant": "特斯拉推兒童平衡車　售1399元人民幣",
-      "zh_hans": "特斯拉推儿童平衡车　售1399元人民币"
-    },
-    "summary": {
-      "en": "Tesla's China online store has listed a balance bike designed for children aged 2 to 6, priced at 1,399 yuan, expanding its lifestyle product line-up.",
-      "zh_hant": "特斯拉中國官網上架一款專為2至6歲兒童設計的平衡車，售價1399元人民幣，進一步拓展其生活周邊產品線。",
-      "zh_hans": "特斯拉中国官网商店上架一款专为2至6岁儿童设计的平衡车，售价1399元人民币，进一步拓展其生活周边产品线。"
-    },
-    "tags": {
-      "en": [
-        "Tesla",
-        "kids",
-        "new product"
-      ],
-      "zh_hant": [
-        "特斯拉",
-        "兒童",
-        "新產品"
-      ],
-      "zh_hans": [
-        "特斯拉",
-        "儿童",
-        "新产品"
-      ]
-    }
-  },
-  {
-    "id": "20261016-yingde-suspension",
-    "category": "finance",
-    "published_at": "2026-10-16T09:15:00+08:00",
-    "source": {
-      "name": "新浪財經",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivkncx8265458.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Yingde Holdings Suspends Trading Pending Inside-Information Announcement",
-      "zh_hant": "熒德控股短暫停牌　待發內幕消息公告",
-      "zh_hans": "荧德控股短暂停牌　待发内幕消息公告"
-    },
-    "summary": {
-      "en": "Yingde Holdings said trading in its shares was halted from 9am on October 16 pending an announcement constituting inside information related to takeover and merger rules.",
-      "zh_hant": "熒德控股公布，應公司要求，股份自10月16日上午9時起短暫停牌，以待刊發一則構成內幕消息的公告，涉及公司收購及合併守則事宜。",
-      "zh_hans": "荧德控股公布，应公司要求，股份自10月16日上午9时起短暂停牌，以待刊发一则构成内幕消息的公告，涉及公司收购及合并守则事宜。"
-    },
-    "tags": {
-      "en": [
-        "Yingde",
-        "suspension",
-        "HK stocks"
-      ],
-      "zh_hant": [
-        "熒德控股",
-        "停牌",
-        "港股"
-      ],
-      "zh_hans": [
-        "荧德控股",
-        "停牌",
-        "港股"
-      ]
-    }
-  },
-  {
-    "id": "20261016-eu-trade-measures",
-    "category": "world",
-    "published_at": "2026-10-16T13:00:00+08:00",
-    "source": {
-      "name": "新浪",
-      "url": "https://news.sina.cn/2026-10-16/detail-inivkncp7074047.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "EU Eyes Wider China Trade Curbs; Beijing May 'Draw Red Line'",
-      "zh_hant": "歐盟擬擴大對華貿易限制　中方或劃紅線",
-      "zh_hans": "欧盟拟扩大对华贸易限制　中方或划红线"
-    },
-    "summary": {
-      "en": "The EU is considering extending the hybrid-car trade arrangement model to chemicals, pharmaceuticals and machinery, drawing Beijing's attention. Analysts say China may not accept similar curbs across more sectors, adding uncertainty to the next phase of trade ties.",
-      "zh_hant": "歐盟考慮將混能汽車貿易安排的模式擴大至化工、製藥及機械等行業，引起中方關注。分析指中方未必接受類似安排擴大至更多行業，雙方下階段經貿關係添不確定性。",
-      "zh_hans": "欧盟考虑将混能汽车贸易安排的模式扩大至化工、制药及机械等行业，引起中方关注。分析指中方未必接受类似安排扩大至更多行业，双方下阶段经贸关系添不确定性。"
-    },
-    "tags": {
-      "en": [
-        "EU",
-        "trade",
-        "China"
-      ],
-      "zh_hant": [
-        "歐盟",
-        "貿易",
-        "中國"
-      ],
-      "zh_hans": [
-        "欧盟",
-        "贸易",
-        "中国"
-      ]
-    }
-  },
-  {
-    "id": "20261016-zhilai-tech-drop",
-    "category": "finance",
-    "published_at": "2026-10-16T10:23:00+08:00",
-    "source": {
-      "name": "新浪財經",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivksmv8262412.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Zhilai Technology Falls Over 2% as Main Funds See Net Outflow",
-      "zh_hant": "智萊科技跌逾2%　主力資金淨流出518萬",
-      "zh_hans": "智莱科技跌逾2%　主力资金净流出518万"
-    },
-    "summary": {
-      "en": "Zhilai Technology fell 2.05% intraday on the 16th to 11.49 yuan, with turnover of 75.16 million yuan and a net outflow of 5.18 million yuan in main funds. The firm makes intelligent storage and delivery equipment.",
-      "zh_hant": "智萊科技16日盤中下跌2.05%，報11.49元人民幣，成交7515萬元。資金流向顯示主力資金淨流出518萬元，公司主要從事智能保管與交付設備業務。",
-      "zh_hans": "智莱科技16日盘中下跌2.05%，报11.49元人民币，成交7515万元。资金流向显示主力资金净流出518万元，公司主要从事智能保管与交付设备业务。"
-    },
-    "tags": {
-      "en": [
-        "Zhilai",
-        "stock",
-        "fund flow"
-      ],
-      "zh_hant": [
-        "智萊科技",
-        "股價",
-        "資金流"
-      ],
-      "zh_hans": [
-        "智莱科技",
-        "股价",
-        "资金流"
-      ]
-    }
-  },
-  {
-    "id": "20261016-xiamen-gymnastics",
-    "category": "society",
-    "published_at": "2026-10-16T08:00:00+08:00",
-    "source": {
-      "name": "工人日報",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivizpv7877964.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "National Workers' Workplace Exercise Contest Held in Xiamen with 728 Participants",
-      "zh_hant": "全國職工工間操大賽廈門舉行　38隊728人參加",
-      "zh_hans": "全国职工工间操大赛厦门举行　38队728人参加"
-    },
-    "summary": {
-      "en": "The 2026 'Chinese Dream, Beauty of Labour' national workers' workplace exercise contest was held in Xiamen on October 13-14, with 728 workers from 38 teams taking part. The event blended sports with cultural and consumer activities.",
-      "zh_hant": "2026年「中國夢·勞動美」全國職工工間操大賽13至14日在廈門舉行，38支代表隊共728名職工參加。賽事結合文體旅消費，推動職工文體活動多元發展。",
-      "zh_hans": "2026年「中国梦·劳动美」全国职工工间操大赛13至14日在厦门举行，38支代表队共728名职工参加。赛事结合文体旅消费，推动职工文体活动多元发展。"
-    },
-    "tags": {
-      "en": [
-        "workplace exercise",
-        "workers",
-        "Xiamen"
-      ],
-      "zh_hant": [
-        "工間操",
-        "職工",
-        "廈門"
-      ],
-      "zh_hans": [
-        "工间操",
-        "职工",
-        "厦门"
-      ]
-    }
-  },
-  {
-    "id": "20261016-us-stocks-coke",
-    "category": "finance",
-    "published_at": "2026-10-16T08:30:00+08:00",
-    "source": {
-      "name": "新浪財經",
-      "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Wall Street Rises Across the Board; Coca-Cola Hits Record High",
-      "zh_hant": "美股三大指數齊升　可口可樂創新高",
-      "zh_hans": "美股三大指数齐升　可口可乐创新高"
-    },
-    "summary": {
-      "en": "All three major US indexes closed higher on the 15th, with the Dow up 1.08%, the Nasdaq up 0.08% and the S&P 500 up 0.33%. Coca-Cola hit intraday and closing record highs, while the Philadelphia Semiconductor Index fell for a seventh straight day.",
-      "zh_hant": "美股三大指數15日集體收漲，道指升1.08%，納指升0.08%，標普500升0.33%。可口可樂盤中及收市均創歷史新高，費城半導體指數則連跌七日。",
-      "zh_hans": "美股三大指数15日集体收涨，道指涨1.08%，纳指涨0.08%，标普500涨0.33%。可口可乐盘中及收市均创历史新高，费城半导体指数则连跌七日。"
-    },
-    "tags": {
-      "en": [
-        "US stocks",
-        "Coca-Cola",
-        "semiconductors"
-      ],
-      "zh_hant": [
-        "美股",
-        "可口可樂",
-        "半導體"
-      ],
-      "zh_hans": [
-        "美股",
-        "可口可乐",
-        "半导体"
-      ]
-    }
+  "tags": {
+   "en": [
+    "Midea",
+    "share buyback",
+    "A-shares"
+   ],
+   "zh_hant": [
+    "美的集團",
+    "股份回購",
+    "A股"
+   ],
+   "zh_hans": [
+    "美的集团",
+    "股份回购",
+    "A股"
+   ]
   }
+ },
+ {
+  "id": "20261016-yacht-southbound-maiden",
+  "category": "hk",
+  "published_at": "2026-10-16T18:45:00+08:00",
+  "source": {
+   "name": "香港政府新聞網",
+   "url": "http://www.news.gov.hk/chi/2026/10/20261016/20261016_184550_545.html"
+  },
+  "image_url": "http://www.news.gov.hk/chi/2026/10/20261016/20261016_184550_545/images/20261016203155039.jpg",
+  "title": {
+   "en": "First Five “Yachts Southbound” Vessels Arrive in Hong Kong for Maiden Voyage Ceremony",
+   "zh_hant": "「粵艇南下」首批5艘遊艇抵港　舉行首航儀式",
+   "zh_hans": "「粤艇南下」首批5艘游艇抵港　举行首航仪式"
+  },
+  "summary": {
+   "en": "The “Yachts Southbound” scheme officially took effect as the first five yachts from Shenzhen, Zhuhai and Guangzhou’s Nansha arrived in Hong Kong for a maiden voyage ceremony. Acting Financial Secretary Michael Wong said Hong Kong is positioning itself as Asia’s yacht hub, with the superyacht industry projected to be worth HK$350 billion by 2032. The government is advancing four new yacht clubs — at the airport, Lamma Island, Aberdeen and Hung Hom — offering over 1,100 berths in total.",
+   "zh_hant": "「粵艇南下」政策正式實施，首批5艘來自深圳、珠海及廣州南沙的遊艇今日抵港，並舉行首航儀式。署理財政司司長黃偉綸表示，香港正積極發展成為亞洲遊艇樞紐，預計2032年超級遊艇產業市值達3,500億港元。政府正推動機場、南丫島、香港仔及紅磡4個全新遊艇會，提供逾1,100個泊位。",
+   "zh_hans": "「粤艇南下」政策正式实施，首批5艘来自深圳、珠海及广州南沙的游艇今日抵港，并举行首航仪式。署理财政司司长黄伟纶表示，香港正积极发展成为亚洲游艇枢纽，预计2032年超级游艇产业市值达3,500亿港元。政府正推动机场、南丫岛、香港仔及红磡4个全新游艇会，提供逾1,100个泊位。"
+  },
+  "tags": {
+   "en": [
+    "Yachts Southbound",
+    "yacht economy",
+    "Greater Bay Area",
+    "maritime"
+   ],
+   "zh_hant": [
+    "粵艇南下",
+    "遊艇經濟",
+    "大灣區",
+    "海事"
+   ],
+   "zh_hans": [
+    "粤艇南下",
+    "游艇经济",
+    "大湾区",
+    "海事"
+   ]
+  }
+ },
+ {
+  "id": "20261016-hos-flat-selection",
+  "category": "hk",
+  "published_at": "2026-10-16T18:00:00+08:00",
+  "source": {
+   "name": "TVB無綫新聞",
+   "url": "https://www.youtube.com/watch?v=GvPdJyciKaA"
+  },
+  "image_url": "",
+  "title": {
+   "en": "New HOS Flats Go on Sale Next Wednesday; Nearly 7,000 Units, Kai Tak Project Over HK$10,000 per sq ft",
+   "zh_hant": "新一期居屋下周三揀樓　近7000伙啟陽苑呎價逾萬",
+   "zh_hans": "新一期居屋下周三拣楼　近7000伙启阳苑呎价逾万"
+  },
+  "summary": {
+   "en": "The latest Home Ownership Scheme sale begins next Wednesday, with five projects offering nearly 7,000 flats priced from HK$1.5 million to HK$4.8 million. Kai Yeung Court in Kai Tak, next to the MTR station, commands over HK$10,000 per square foot as the priciest project. A Housing Authority member questioned whether high-value land should be used for subsidised housing.",
+   "zh_hant": "新一期居屋下周三開始揀樓，五個項目合共提供近7,000個單位，售價由150萬元至480萬元。其中啟德啟陽苑鄰近港鐵站，呎價逾萬元成「樓王」。有房委會委員認為，不應用市值高的地皮興建資助房屋。",
+   "zh_hans": "新一期居屋下周三开始拣楼，五个项目合共提供近7,000个单位，售价由150万元至480万元。其中启德启阳苑邻近港铁站，呎价逾万元成「楼王」。有房委会委员认为，不应用市值高的地皮兴建资助房屋。"
+  },
+  "tags": {
+   "en": [
+    "HOS",
+    "Kai Yeung Court",
+    "flat selection",
+    "subsidised housing"
+   ],
+   "zh_hant": [
+    "居屋",
+    "啟陽苑",
+    "揀樓",
+    "資助房屋"
+   ],
+   "zh_hans": [
+    "居屋",
+    "启阳苑",
+    "拣楼",
+    "资助房屋"
+   ]
+  }
+ },
+ {
+  "id": "20261016-tech-export-control-list",
+  "category": "tech",
+  "published_at": "2026-10-16T16:06:39+08:00",
+  "source": {
+   "name": "京報網（新華社）",
+   "url": "https://news.bjd.com.cn/2026/10/16/11997479.shtml"
+  },
+  "image_url": "https://img1.bjd.com.cn/2026/10/16/d8e5818bdde3140037ae2a45dc7d526556b19394.jpeg",
+  "title": {
+   "en": "Commerce Ministry Proposes Revising Tech Export Control List, Seeking Views on 40 AI and Photovoltaic Items",
+   "zh_hant": "商務部擬修訂技術出口管制目錄　AI光伏等40項技術徵意見",
+   "zh_hans": "商务部拟修订技术出口管制目录　AI光伏等40项技术征意见"
+  },
+  "summary": {
+   "en": "The commerce and science ministries have proposed revising China’s catalogue of technologies banned or restricted from export, covering 40 items across AI, biomedicine and photovoltaics. AI accounts for 23 items, including large models, AI agents and computing clusters; 14 items would be banned from export and 26 restricted. Public consultation runs from today until November 15, with officials stressing the revision is routine management and not aimed at any specific country.",
+   "zh_hant": "商務部與科技部發布公告，擬修訂《中國禁止出口限制出口技術目錄》，涉及人工智能、生物醫藥及光伏三個領域共40項技術。其中AI佔23項，包括大模型、智能體及算力集群；14項擬列為禁止出口，26項擬列為限制出口。公開徵求意見期由今日起至11月15日，官方強調修訂屬常態化管理，不針對任何特定國家。",
+   "zh_hans": "商务部与科技部发布公告，拟修订《中国禁止出口限制出口技术目录》，涉及人工智能、生物医药及光伏三个领域共40项技术。其中AI占23项，包括大模型、智能体及算力集群；14项拟列为禁止出口，26项拟列为限制出口。公开征求意见期由今日起至11月15日，官方强调修订属常态化管理，不针对任何特定国家。"
+  },
+  "tags": {
+   "en": [
+    "tech export control",
+    "AI",
+    "photovoltaics",
+    "commerce ministry"
+   ],
+   "zh_hant": [
+    "技術出口管制",
+    "人工智能",
+    "光伏",
+    "商務部"
+   ],
+   "zh_hans": [
+    "技术出口管制",
+    "人工智能",
+    "光伏",
+    "商务部"
+   ]
+  }
+ },
+ {
+  "id": "20261016-wang-fuk-court-sale",
+  "category": "society",
+  "published_at": "2026-10-16T15:38:00+08:00",
+  "source": {
+   "name": "香港政府新聞網",
+   "url": "http://www.news.gov.hk/chi/2026/10/20261016/20261016_153854_340.html"
+  },
+  "image_url": "http://www.news.gov.hk/chi/2026/10/20261016/20261016_153854_340/images/20261016163434887.jpg",
+  "title": {
+   "en": "Over 93% of Wang Fuk Court Owners Sign Sale Agreements; Remaining Cases Handled with Discretion",
+   "zh_hant": "宏福苑逾九成三業主簽買賣協議　餘下個案酌情處理",
+   "zh_hans": "宏福苑逾九成三业主签买卖协议　余下个案酌情处理"
+  },
+  "summary": {
+   "en": "The deadline for Wang Fuk Court owners in Tai Po to sign sale agreements expired yesterday, with 1,850 households across Blocks A to H — 93.2% of all units — having signed. The Housing Bureau said most unsigned cases involve title issues such as probate, bankruptcy, ownership disputes, or owners living overseas. Authorities will handle each case with discretion under a “compassion, reason and law, with compassion first” approach while pressing ahead with conveyancing.",
+   "zh_hant": "大埔宏福苑出售單位買賣協議簽署限期昨日屆滿，A至H八座共1,850戶業主已簽署，佔單位總數93.2%。房屋局表示，未簽署個案多因需釐清業權，例如遺囑認證、破產、業權爭議或業主身處境外。當局將以「情、理、法兼備，以情為先」原則，按個別情況酌情處理，並繼續跟進契約轉讓手續。",
+   "zh_hans": "大埔宏福苑出售单位买卖协议签署限期昨日届满，A至H八座共1,850户业主已签署，占单位总数93.2%。房屋局表示，未签署个案多因需厘清业权，例如遗嘱认证、破产、业权争议或业主身处境外。当局将以「情、理、法兼备，以情为先」原则，按个别情况酌情处理，并继续跟进契约转让手续。"
+  },
+  "tags": {
+   "en": [
+    "Wang Fuk Court",
+    "Housing Bureau",
+    "acquisition",
+    "title transfer"
+   ],
+   "zh_hant": [
+    "宏福苑",
+    "房屋局",
+    "收購",
+    "業權轉讓"
+   ],
+   "zh_hans": [
+    "宏福苑",
+    "房屋局",
+    "收购",
+    "业权转让"
+   ]
+  }
+ },
+ {
+  "id": "20261016-elderly-care-pricing",
+  "category": "society",
+  "published_at": "2026-10-16T15:10:00+08:00",
+  "source": {
+   "name": "新浪財經（中國青年報客戶端）",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivmpqz6900665.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Three Agencies Issue Inclusive Elderly-Care Guidelines; All Fees Must Be Listed",
+   "zh_hant": "三部門印發普惠養老指導意見　所有收費須列入清單",
+   "zh_hans": "三部门印发普惠养老指导意见　所有收费须列入清单"
+  },
+  "summary": {
+   "en": "Three central agencies — the NDRC, the Ministry of Civil Affairs and the National Health Commission — today issued guidelines to improve pricing mechanisms for inclusive elderly-care services. Care homes will be classified as basic-guarantee, inclusive-support or fully market-based, with differentiated fee management; basic service fees at basic-guarantee homes will follow government-guided prices. All charges must appear on an official list — anything off the list cannot be charged.",
+   "zh_hant": "國家發改委、民政部及國家衛健委今日聯合印發指導意見，進一步完善普惠養老服務價格形成機制。養老機構按功能劃分為兜底保障型、普惠支持型及完全市場型三類，實行差異化收費管理；兜底保障型機構基本服務費實行政府指導價。所有收費項目須納入清單管理，清單之外一律不得收費。",
+   "zh_hans": "国家发改委、民政部及国家卫健委今日联合印发指导意见，进一步完善普惠养老服务价格形成机制。养老机构按功能划分为兜底保障型、普惠支持型及完全市场型三类，实行差异化收费管理；兜底保障型机构基本服务费实行政府指导价。所有收费项目须纳入清单管理，清单之外一律不得收费。"
+  },
+  "tags": {
+   "en": [
+    "inclusive elderly care",
+    "elderly-care services",
+    "fee list"
+   ],
+   "zh_hant": [
+    "普惠養老",
+    "養老服務",
+    "收費清單"
+   ],
+   "zh_hans": [
+    "普惠养老",
+    "养老服务",
+    "收费清单"
+   ]
+  }
+ },
+ {
+  "id": "20261016-a-shares-close",
+  "category": "finance",
+  "published_at": "2026-10-16T15:00:00+08:00",
+  "source": {
+   "name": "新浪財經",
+   "url": "http://city.sina.cn/finance/2026-10-16/detail-inivmazi7722091.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "A-Shares Mixed at Close; Shanghai Index Up 0.24% as Defence and Low-Altitude Stocks Lead",
+   "zh_hant": "A股漲跌互現　滬指收升0.24%軍工低空經濟領漲",
+   "zh_hans": "A股涨跌互现　沪指收升0.24%军工低空经济领涨"
+  },
+  "summary": {
+   "en": "Mainland A-shares closed mixed, with the Shanghai Composite up 0.24% at 3,716.28, the Shenzhen Component down 0.12% and the ChiNext off 0.39%. Combined turnover was about 1.57 trillion yuan, with more than 3,300 stocks advancing. Defence shares led the gains with several hitting the daily limit, while low-altitude economy and flying-car concepts also rose; gaming and PCB stocks retreated.",
+   "zh_hant": "A股三大指數今日漲跌互現，滬指升0.24%報3,716.28點，深成指跌0.12%，創業板指跌0.39%。滬深兩市成交約1.57萬億元，全市場逾3,300隻個股上漲。軍工板塊領漲，多隻股份漲停；低空經濟及飛行汽車概念亦走強，房地產板塊拉升，遊戲及PCB概念則回調。",
+   "zh_hans": "A股三大指数今日涨跌互现，沪指升0.24%报3,716.28点，深成指跌0.12%，创业板指跌0.39%。沪深两市成交约1.57万亿元，全市场逾3,300只个股上涨。军工板块领涨，多只股份涨停；低空经济及飞行汽车概念亦走强，房地产板块拉升，游戏及PCB概念则回调。"
+  },
+  "tags": {
+   "en": [
+    "A-shares",
+    "Shanghai index",
+    "defence stocks",
+    "low-altitude economy"
+   ],
+   "zh_hant": [
+    "A股",
+    "滬指",
+    "軍工",
+    "低空經濟"
+   ],
+   "zh_hans": [
+    "A股",
+    "沪指",
+    "军工",
+    "低空经济"
+   ]
+  }
+ },
+ {
+  "id": "20261016-hang-seng-close",
+  "category": "finance",
+  "published_at": "2026-10-16T16:08:00+08:00",
+  "source": {
+   "name": "新浪港股",
+   "url": "http://city.sina.cn/finance/2026-10-16/detail-inivmazi7774326.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Hang Seng Index Closes Up 0.52% at 24,186; Tech Index Gains 1.16%",
+   "zh_hant": "恒指收漲0.52%報24186點　恒生科指升1.16%",
+   "zh_hans": "恒指收涨0.52%报24186点　恒生科指升1.16%"
+  },
+  "summary": {
+   "en": "Hong Kong stocks retreated in the afternoon but still closed higher. The Hang Seng Index ended up 0.52% at 24,186.83, while the Hang Seng Tech Index rose 1.16% and the state-owned enterprises index gained 0.31%. Tech shares led the advance, with Lenovo surging over 8% and Kuaishou and Alibaba up more than 2%, while defence stocks and gold miners also strengthened.",
+   "zh_hant": "港股三大指數午后回落，收市仍錄得升幅。恒生指數收報24186.83點，升0.52%；恒生科技指數升1.16%，國企指數升0.31%。盤面上科網股普漲，聯想漲超8%，快手、阿里漲超2%；軍工股及黃金股亦走強。",
+   "zh_hans": "港股三大指数午后回落，收市仍录得升幅。恒生指数收报24186.83点，升0.52%；恒生科技指数升1.16%，国企指数升0.31%。盘面上科网股普涨，联想涨超8%，快手、阿里涨超2%；军工股及黄金股亦走强。"
+  },
+  "tags": {
+   "en": [
+    "Hang Seng",
+    "Hong Kong stocks",
+    "tech shares"
+   ],
+   "zh_hant": [
+    "恒指",
+    "港股",
+    "科網股"
+   ],
+   "zh_hans": [
+    "恒指",
+    "港股",
+    "科网股"
+   ]
+  }
+ },
+ {
+  "id": "20261016-chung-yeung-transport",
+  "category": "hk",
+  "published_at": "2026-10-16T14:30:00+08:00",
+  "source": {
+   "name": "Hongkong Invest",
+   "url": "https://hongkong-invest.com/%E9%81%8B%E8%BC%B8%E7%BD%B2%E5%91%BC%E7%B1%B2%E9%87%8D%E9%99%BD%E7%AF%80%E5%81%87%E6%9C%9F%E5%89%8D%E5%BE%8C%E5%B8%82%E6%B0%91%E5%92%8C%E6%97%85%E5%AE%A2%E6%87%89%E9%A0%90%E6%97%A9%E8%A8%88%E5%8A%83/"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Transport Dept Urges Early Planning for Cross-Border Travel Over Chung Yeung Holiday",
+   "zh_hant": "運輸署籲重陽節假期前後　預早計劃跨境行程",
+   "zh_hans": "运输署吁重阳节假期前后　预早计划跨境行程"
+  },
+  "summary": {
+   "en": "The Transport Department warned that cross-boundary traffic will surge between October 16 and 19 over the Chung Yeung Festival holiday, with the return peak expected on Monday afternoon and evening. The MTR East Rail line, the high-speed rail, the Hong Kong-Zhuhai-Macao Bridge shuttle buses and cross-boundary coaches will all add services. Passengers are advised to travel outside peak hours and allow ample time.",
+   "zh_hant": "運輸署表示，重陽節假期前後（十月十六至十九日），各陸路口岸人流及車流將顯著增加，星期一下午至傍晚預計為回港高峰。港鐵東鐵綫、高鐵香港段、港珠澳大橋穿梭巴士及跨境直通巴士均會加強服務。署方呼籲市民預早計劃行程，盡量避開繁忙時間，並預留充裕交通時間。",
+   "zh_hans": "运输署表示，重阳节假期前后（十月十六至十九日），各陆路口岸人流及车流将显著增加，星期一下午至傍晚预计为回港高峰。港铁东铁线、高铁香港段、港珠澳大桥穿梭巴士及跨境直通巴士均会加强服务。署方呼吁市民预早计划行程，尽量避开繁忙时间，并预留充裕交通时间。"
+  },
+  "tags": {
+   "en": [
+    "Chung Yeung Festival",
+    "Transport Department",
+    "cross-border"
+   ],
+   "zh_hant": [
+    "重陽節",
+    "運輸署",
+    "跨境交通"
+   ],
+   "zh_hans": [
+    "重阳节",
+    "运输署",
+    "跨境交通"
+   ]
+  }
+ },
+ {
+  "id": "20261016-interpol-assembly-hk",
+  "category": "hk",
+  "published_at": "2026-10-16T11:27:00+08:00",
+  "source": {
+   "name": "政府新聞網",
+   "url": "http://www.news.gov.hk/chi/2026/10/20261016/20261016_112730_080.html"
+  },
+  "image_url": "http://www.news.gov.hk/chi/2026/10/20261016/20261016_112730_080/images/20261016122329527.jpg",
+  "title": {
+   "en": "Hong Kong to Host INTERPOL General Assembly Next Month; Privileges Order Gazetted",
+   "zh_hant": "國際刑警第94屆全體大會下月在港舉行　相關命令刊憲",
+   "zh_hans": "国际刑警第94届全体大会下月在港举行　相关命令刊宪"
+  },
+  "summary": {
+   "en": "The 94th INTERPOL General Assembly will be held in Hong Kong from November 30 to December 3, alongside the 231st Executive Committee meeting on November 29. To give effect to the privileges and immunities agreement signed between the central government and INTERPOL, the government today gazetted the relevant order. The order will be tabled in the Legislative Council next Wednesday and take effect the same day.",
+   "zh_hant": "由國家主辦、香港承辦的國際刑警組織第231次執委會會議及第94屆全體大會下月底在港舉行，日期分別為11月29日及11月30日至12月3日。特區政府今日將相關特權及豁免權命令刊憲，下周三提交立法會審議，同日生效。特區政府表示會全力辦好會議，向世界展現「一國兩制」成果。",
+   "zh_hans": "由国家主办、香港承办的国际刑警组织第231次执委会会议及第94届全体大会下月底在港举行，日期分别为11月29日及11月30日至12月3日。特区政府今日将相关特权及豁免权命令刊宪，下周三提交立法会审议，同日生效。特区政府表示会全力办好会议，向世界展现「一国两制」成果。"
+  },
+  "tags": {
+   "en": [
+    "INTERPOL",
+    "General Assembly",
+    "Hong Kong"
+   ],
+   "zh_hant": [
+    "國際刑警組織",
+    "全體大會",
+    "香港"
+   ],
+   "zh_hans": [
+    "国际刑警组织",
+    "全体大会",
+    "香港"
+   ]
+  }
+ },
+ {
+  "id": "20261016-wang-yi-herzog",
+  "category": "china",
+  "published_at": "2026-10-16T16:00:00+08:00",
+  "source": {
+   "name": "路透社",
+   "url": "https://businessintelligence.mo/2026/10/14/%e4%b8%ad%e5%9c%8b9%e6%9c%88%e6%96%b0%e5%a2%9e%e8%b2%b8%e6%ac%be%e5%8f%8a%e7%a4%be%e8%9e%8d%e7%95%a5%e8%b6%85%e9%a0%90%e6%9c%9f%ef%bc%8c%e8%b2%a8%e5%b9%a3%e6%94%bf%e7%ad%96%e6%88%96%e9%80%b2%e5%85%a5/"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Wang Yi Meets Israeli President: Urges Open Gaza Corridors, Halt to Settlements",
+   "zh_hant": "王毅會見以色列總統　促全面打開加沙通道、停止定居點",
+   "zh_hans": "王毅会见以色列总统　促全面打开加沙通道、停止定居点"
+  },
+  "summary": {
+   "en": "Chinese Foreign Minister Wang Yi met Israeli President Isaac Herzog on Thursday, saying the immediate priority is to fully open humanitarian corridors into Gaza and stop the humanitarian disaster from spreading. He also said Israel should halt and reverse the establishment of settlements in the West Bank. The meeting came as tensions in the Middle East remain high.",
+   "zh_hant": "中國外交部長王毅周四會見以色列總統赫爾佐格時表示，當務之急是全面打開進入加沙地區的通道，不能允許人道主義災難持續蔓延；以色列亦應停止並撤銷在約旦河西岸強行設立定居點的行徑。會晤之際，中東地區局勢持續緊張。",
+   "zh_hans": "中国外交部长王毅周四会见以色列总统赫尔佐格时表示，当务之急是全面打开进入加沙地区的通道，不能允许人道主义灾难持续蔓延；以色列亦应停止并撤销在约旦河西岸强行设立定居点的行径。会晤之际，中东地区局势持续紧张。"
+  },
+  "tags": {
+   "en": [
+    "Wang Yi",
+    "Israel",
+    "Gaza"
+   ],
+   "zh_hant": [
+    "王毅",
+    "以色列",
+    "加沙"
+   ],
+   "zh_hans": [
+    "王毅",
+    "以色列",
+    "加沙"
+   ]
+  }
+ },
+ {
+  "id": "20261016-us-ppi-sept",
+  "category": "finance",
+  "published_at": "2026-10-16T15:00:00+08:00",
+  "source": {
+   "name": "WEEX",
+   "url": "https://www.weex.com/news/detail/stocks-and-crypto-rebound-after-hot-ppi-weex-tradfi-daily-brief-october-16-2026-kz1k8ln2dcpp5u7bcevkcfsw"
+  },
+  "image_url": "",
+  "title": {
+   "en": "US September PPI Jumps 6.3% to Four-Year High; Stocks Rebound After Selloff",
+   "zh_hant": "美國9月PPI同比漲6.3%創逾四年新高　美股先跌後回升",
+   "zh_hans": "美国9月PPI同比涨6.3%创逾四年新高　美股先跌后回升"
+  },
+  "summary": {
+   "en": "US producer price inflation rose 6.3% year on year in September, the highest in more than four years, briefly lifting bets on further rate hikes. Risk assets sold off on the hot print before rebounding, with the three major indexes closing higher. Bitcoin briefly broke below $80,000 before recovering to the $82,000–$83,000 range.",
+   "zh_hant": "美國9月份生產者物價指數同比上漲6.3%，為逾四年來最高，一度推高市場對加息的押注。風險資產在數據公布後先跌後反彈，三大股指收市向上。比特幣曾短暫跌穿8萬美元，其後回升至8.2萬至8.3萬美元水平。",
+   "zh_hans": "美国9月份生产者物价指数同比上涨6.3%，为逾四年来最高，一度推高市场对加息的押注。风险资产在数据公布后先跌后反弹，三大股指收市向上。比特币曾短暂跌穿8万美元，其后回升至8.2万至8.3万美元水平。"
+  },
+  "tags": {
+   "en": [
+    "US PPI",
+    "inflation",
+    "US stocks"
+   ],
+   "zh_hant": [
+    "美國PPI",
+    "通脹",
+    "美股"
+   ],
+   "zh_hans": [
+    "美国PPI",
+    "通胀",
+    "美股"
+   ]
+  }
+ },
+ {
+  "id": "20261016-italy-aviation-strike",
+  "category": "world",
+  "published_at": "2026-10-16T14:28:00+08:00",
+  "source": {
+   "name": "The Orbit Post",
+   "url": "https://theorbitpostnews.us/italy-easyjet-strike-october-16-flights/"
+  },
+  "image_url": "https://theorbitpostnews.us/assets/img/italy-easyjet-strike-october-16-flights.jpg",
+  "title": {
+   "en": "Italy Aviation Chaos: easyJet 24-Hour Strike Grounds Hundreds of Flights",
+   "zh_hant": "意大利航空大罷工　易捷停飛24小時、約200英航班取消",
+   "zh_hans": "意大利航空大罢工　易捷停飞24小时、约200英航班取消"
+  },
+  "summary": {
+   "en": "A 24-hour strike by easyJet's Italian crews, called by the USB Lavoro Privato union, ran from midnight to midnight on Friday, coinciding with walkouts by airport workers in Pisa, Florence and Venice. Around 200 easyJet flights between the UK and Italy were cancelled. Under Italian law, flights departing between 7am–10am and 6pm–9pm are protected and must operate; all others face cancellation or delay.",
+   "zh_hant": "意大利易捷航空機組人員周五展開24小時全國大罷工，同日比薩、佛羅倫斯及威尼斯機場員工亦有罷工行動。約200班往返英國與意大利的易捷航班取消。按意大利法例，上午7至10時及晚上6至9時為受保障時段，航班必須飛行；其餘時段航班面臨取消或延誤風險。",
+   "zh_hans": "意大利易捷航空机组人员周五展开24小时全国大罢工，同日比萨、佛罗伦萨及威尼斯机场员工亦有罢工行动。约200班往返英国与意大利的易捷航班取消。按意大利法例，上午7至10时及晚上6至9时为受保障时段，航班必须飞行；其余时段航班面临取消或延误风险。"
+  },
+  "tags": {
+   "en": [
+    "Italy",
+    "aviation strike",
+    "easyJet"
+   ],
+   "zh_hant": [
+    "意大利",
+    "航空罷工",
+    "易捷航空"
+   ],
+   "zh_hans": [
+    "意大利",
+    "航空罢工",
+    "易捷航空"
+   ]
+  }
+ },
+ {
+  "id": "20261016-amazon-bee",
+  "category": "tech",
+  "published_at": "2026-10-16T10:15:00+08:00",
+  "source": {
+   "name": "MoneyDJ理財網",
+   "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=ba43a5c8-b25a-4d79-9c9b-7069a6c8280c"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Amazon Launches Two Bee AI Wearables, Deepens Alexa+ Integration",
+   "zh_hant": "亞馬遜推兩款Bee AI裝置　串接Alexa+主攻日常應用",
+   "zh_hans": "亚马逊推两款Bee AI装置　串接Alexa+主攻日常应用"
+  },
+  "summary": {
+   "en": "Amazon on October 15 unveiled two Bee-branded AI devices: the wrist-worn Bee Frontier and Bee Eclipse, a card-sized accessory that pairs with smartphones. Both focus on conversation summaries, information extraction and task management, and integrate with Alexa+ so users can access summaries and to-do lists hands-free. The launch extends Amazon's AI capabilities further into everyday hardware.",
+   "zh_hant": "亞馬遜於10月15日推出兩款Bee品牌AI裝置：可佩戴於手腕的Bee Frontier，以及可連接智能手機的卡片式配件Bee Eclipse。兩款產品主打對話摘要、重點資訊提取及任務管理，並與Alexa+整合，讓用戶可在免手持情境下存取摘要與待辦事項。Amazon正將AI能力進一步導入日常消費硬件。",
+   "zh_hans": "亚马逊于10月15日推出两款Bee品牌AI装置：可佩戴于手腕的Bee Frontier，以及可连接智能手机的卡片式配件Bee Eclipse。两款产品主打对话摘要、重点信息提取及任务管理，并与Alexa+整合，让用户可在免手持情境下存取摘要与待办事项。Amazon正将AI能力进一步导入日常消费硬件。"
+  },
+  "tags": {
+   "en": [
+    "Amazon",
+    "AI devices",
+    "Alexa"
+   ],
+   "zh_hant": [
+    "亞馬遜",
+    "AI裝置",
+    "Alexa"
+   ],
+   "zh_hans": [
+    "亚马逊",
+    "AI装置",
+    "Alexa"
+   ]
+  }
+ },
+ {
+  "id": "20261016-q3-smartphone-down",
+  "category": "tech",
+  "published_at": "2026-10-16T13:00:00+08:00",
+  "source": {
+   "name": "SayDigi",
+   "url": "https://www.saydigi.com/2026/10/1456062.html"
+  },
+  "image_url": "https://www.saydigi.com/wp-content/uploads/2026/10/84b275ce3fc6a9336ddaa4f2dec2b01f.jpg",
+  "title": {
+   "en": "Global Q3 Smartphone Shipments Plunge 20% as Memory Shortage Bites",
+   "zh_hant": "記憶體短缺夾擊　全球Q3智能手機出貨年減20%",
+   "zh_hans": "记忆体短缺夹击　全球Q3智能手机出货年减20%"
+  },
+  "summary": {
+   "en": "Global smartphone shipments fell 20% year on year in the third quarter of 2026, the lowest third-quarter level since 2012, according to Counterpoint Research's preliminary data. The ongoing memory shortage pushed retail prices up 20% this year. Samsung led with 23% market share and Apple followed with 22%, while Xiaomi, OPPO and vivo all saw shipments drop more than 20%.",
+   "zh_hant": "Counterpoint Research初步統計顯示，2026年第三季全球智能手機出貨量同比減少20%，創下2012年以來第三季最低紀錄。記憶體供應短缺持續推高成本，今年全球手機零售價已上漲20%。三星以23%市占居首，蘋果達22%，小米、OPPO及vivo出貨均跌逾兩成。",
+   "zh_hans": "Counterpoint Research初步统计显示，2026年第三季全球智能手机出货量同比减少20%，创下2012年以来第三季最低纪录。记忆体供应短缺持续推高成本，今年全球手机零售价已上涨20%。三星以23%市占居首，苹果达22%，小米、OPPO及vivo出货均跌逾两成。"
+  },
+  "tags": {
+   "en": [
+    "smartphones",
+    "shipments",
+    "memory shortage"
+   ],
+   "zh_hant": [
+    "智能手機",
+    "出貨量",
+    "記憶體短缺"
+   ],
+   "zh_hans": [
+    "智能手机",
+    "出货量",
+    "记忆体短缺"
+   ]
+  }
+ },
+ {
+  "id": "20261016-openai-altman-device",
+  "category": "tech",
+  "published_at": "2026-10-16T09:13:00+08:00",
+  "source": {
+   "name": "商傳媒",
+   "url": "https://sunmedia.tw/news/technology/1792105032-OpenAI%E5%9F%B7%E8%A1%8C%E9%95%B7%E5%A5%A7%E7%89%B9%E6%9B%BC%E9%96%8B%E7%99%BAAI%E8%A3%9D%E7%BD%AE%E3%80%80%E6%AC%B2%E6%8C%91%E6%88%B0%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E9%9C%B8%E4%B8%BB%E5%9C%B0%E4%BD%8D"
+  },
+  "image_url": "",
+  "title": {
+   "en": "OpenAI's Altman Building Screenless AI Device to Challenge Smartphones",
+   "zh_hant": "OpenAI奧特曼開發AI裝置　挑戰智能手機霸主地位",
+   "zh_hans": "OpenAI奥特曼开发AI装置　挑战智能手机霸主地位"
+  },
+  "summary": {
+   "en": "OpenAI chief executive Sam Altman is developing a new AI hardware device that could one day replace the smartphone, according to reports. The secretive project, underway for more than a year with strong funding and well-known investors, will put generative AI at its core, prioritising voice commands and an intuitive interface over screens and apps. A fully functional prototype is still years away.",
+   "zh_hant": "據報導，OpenAI執行長奧特曼正開發一款全新AI硬件裝置，目標未來取代智能手機。這項秘密計劃已投入開發逾一年，獲雄厚資金及知名投資者支持，核心將運用生成式AI技術，以語音指令和直覺式介面為主，擺脫螢幕與App限制。不過完整功能的實體原型料仍需數年才問世。",
+   "zh_hans": "据报道，OpenAI执行长奥特曼正开发一款全新AI硬件装置，目标未来取代智能手机。这项秘密计划已投入开发逾一年，获雄厚资金及知名投资者支持，核心将运用生成式AI技术，以语音指令和直觉式介面为主，摆脱萤幕与App限制。不过完整功能的实体原型料仍需数年才问世。"
+  },
+  "tags": {
+   "en": [
+    "OpenAI",
+    "Sam Altman",
+    "AI hardware"
+   ],
+   "zh_hant": [
+    "OpenAI",
+    "奧特曼",
+    "AI裝置"
+   ],
+   "zh_hans": [
+    "OpenAI",
+    "奥特曼",
+    "AI装置"
+   ]
+  }
+ },
+ {
+  "id": "20261016-huanggang-port-qrcode",
+  "category": "society",
+  "published_at": "2026-10-16T11:03:00+08:00",
+  "source": {
+   "name": "香港文匯報",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivksmu1563945.d.html"
+  },
+  "image_url": "https://n.sinaimg.cn/sinakd20261016s/787/w907h680/20261016/5b02-82ad0cba24a4ea3fab0f5b48e2b65a2c.png",
+  "title": {
+   "en": "New Huanggang Port Trips Up Commuters as QR Codes and Facial Scans Fail",
+   "zh_hant": "新皇崗口岸過關大混亂　二維碼刷臉齊失靈",
+   "zh_hans": "新皇岗口岸过关大混乱　二维码刷脸齐失灵"
+  },
+  "summary": {
+   "en": "Commuters using the newly relocated Huanggang port were caught off guard as QR codes failed at immigration and facial recognition repeatedly malfunctioned. The disruption frustrated large numbers of cross-border travellers during the morning rush.",
+   "zh_hant": "換咗新址嘅皇崗口岸令通勤族措手不及，二維碼未能過關、刷臉亦屢次失敗。繁忙時間大批跨境旅客受阻，怨聲四起。",
+   "zh_hans": "换了新址的皇岗口岸令通勤族措手不及，二维码未能过关、刷脸亦屡次失败。繁忙时间大批跨境旅客受阻，怨声四起。"
+  },
+  "tags": {
+   "en": [
+    "Huanggang port",
+    "border crossing",
+    "commuters"
+   ],
+   "zh_hant": [
+    "皇崗口岸",
+    "過關",
+    "通勤族"
+   ],
+   "zh_hans": [
+    "皇岗口岸",
+    "过关",
+    "通勤族"
+   ]
+  }
+ },
+ {
+  "id": "20261016-embodied-ai-report-2026",
+  "category": "tech",
+  "published_at": "2026-10-16T13:24:00+08:00",
+  "source": {
+   "name": "界面新聞",
+   "url": "https://finance.sina.cn/stock/jdts/2026-10-16/detail-inivkwti7059009.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "China Releases 2026 Embodied Intelligence Development Report",
+   "zh_hant": "中國信通院發布《具身智能發展報告2026》",
+   "zh_hans": "中国信通院发布《具身智能发展报告2026》"
+  },
+  "summary": {
+   "en": "The AI institute of the China Academy of Information and Communications Technology has jointly released the Embodied Intelligence Development Report 2026. The report maps out the sector's trajectory as humanoid robots and intelligent hardware draw growing investment.",
+   "zh_hant": "中國信通院人工智能研究所聯合發布《具身智能發展報告（2026年）》。報告梳理行業發展路徑，隨住人形機械人同智能硬件吸納愈來愈多投資，具身智能成為科技界焦點。",
+   "zh_hans": "中国信通院人工智能研究所联合发布《具身智能发展报告（2026年）》。报告梳理行业发展路径，随着人形机器人和智能硬件吸纳越来越多投资，具身智能成为科技界焦点。"
+  },
+  "tags": {
+   "en": [
+    "embodied AI",
+    "robotics",
+    "CAICT"
+   ],
+   "zh_hant": [
+    "具身智能",
+    "機械人",
+    "信通院"
+   ],
+   "zh_hans": [
+    "具身智能",
+    "机器人",
+    "信通院"
+   ]
+  }
+ },
+ {
+  "id": "20261016-mofcom-import-facilitation",
+  "category": "china",
+  "published_at": "2026-10-16T12:24:00+08:00",
+  "source": {
+   "name": "格隆匯",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivkwtt8301199.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Commerce Ministry Vows Better Import Facilitation for Trade Partners",
+   "zh_hant": "商務部：積極回應貿易夥伴訴求　優化進口便利化",
+   "zh_hans": "商务部：积极回应贸易伙伴诉求　优化进口便利化"
+  },
+  "summary": {
+   "en": "China's commerce ministry says it will actively respond to trade partners' concerns and keep improving import facilitation measures. The remarks signal Beijing's push to stabilise foreign trade ties.",
+   "zh_hant": "商務部表示，將積極回應貿易夥伴訴求，持續優化進口便利化舉措。言論顯示北京正致力穩定對外貿易關係。",
+   "zh_hans": "商务部表示，将积极回应贸易伙伴诉求，持续优化进口便利化举措。言论显示北京正致力稳定对外贸易关系。"
+  },
+  "tags": {
+   "en": [
+    "Mofcom",
+    "imports",
+    "trade"
+   ],
+   "zh_hant": [
+    "商務部",
+    "進口",
+    "貿易"
+   ],
+   "zh_hans": [
+    "商务部",
+    "进口",
+    "贸易"
+   ]
+  }
+ },
+ {
+  "id": "20261016-mof-rmb-bonds-hk",
+  "category": "finance",
+  "published_at": "2026-10-16T13:22:00+08:00",
+  "source": {
+   "name": "中國新聞網",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivkwtt8363575.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Finance Ministry to Issue 15.5B Yuan of Bonds in Hong Kong",
+   "zh_hant": "財政部10月在港發行155億人民幣國債",
+   "zh_hans": "财政部10月在港发行155亿人民币国债"
+  },
+  "summary": {
+   "en": "China's finance ministry will issue 15.5 billion yuan of sovereign bonds in Hong Kong in October. The issuance underscores Hong Kong's role as an offshore renminbi hub.",
+   "zh_hant": "財政部將於10月在香港發行155億元人民幣國債。發債安排突顯香港作為離岸人民幣中心嘅角色。",
+   "zh_hans": "财政部将于10月在香港发行155亿元人民币国债。发债安排突显香港作为离岸人民币中心的角色。"
+  },
+  "tags": {
+   "en": [
+    "RMB bonds",
+    "MOF",
+    "Hong Kong"
+   ],
+   "zh_hant": [
+    "人民幣國債",
+    "財政部",
+    "香港"
+   ],
+   "zh_hans": [
+    "人民币国债",
+    "财政部",
+    "香港"
+   ]
+  }
+ },
+ {
+  "id": "20261016-ciie-export-china",
+  "category": "china",
+  "published_at": "2026-10-16T13:13:00+08:00",
+  "source": {
+   "name": "環球網",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivkwts1584038.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "CIIE Preparations Linked With 'Export China' Brand Drive",
+   "zh_hant": "進博會籌備與「出口中國」品牌活動聯動",
+   "zh_hans": "进博会筹备与「出口中国」品牌活动联动"
+  },
+  "summary": {
+   "en": "Preparations for the China International Import Expo are being closely coordinated with the 'Export China' branding campaign, the commerce ministry said. The linkage aims to raise the profile of Chinese brands overseas.",
+   "zh_hant": "商務部指，進博會籌備工作正與「出口中國」品牌活動深度聯動，冀提升中國品牌喺海外嘅知名度。",
+   "zh_hans": "商务部指，进博会筹备工作正与「出口中国」品牌活动深度联动，冀提升中国品牌在海外的知名度。"
+  },
+  "tags": {
+   "en": [
+    "CIIE",
+    "exports",
+    "Chinese brands"
+   ],
+   "zh_hant": [
+    "進博會",
+    "出口",
+    "中國品牌"
+   ],
+   "zh_hans": [
+    "进博会",
+    "出口",
+    "中国品牌"
+   ]
+  }
+ },
+ {
+  "id": "20261016-tourism-hotspots-4-projects",
+  "category": "hk",
+  "published_at": "2026-10-16T10:00:00+08:00",
+  "source": {
+   "name": "香城公民媒體",
+   "url": "https://hkcitizenmedia.com/2026/10/16/%e6%97%85%e9%81%8a%e7%86%b1%e9%bb%9e%e5%b7%a5%e4%bd%9c%e7%b5%84%e6%8e%a8%e4%b8%8b%e9%9a%8e%e6%ae%b54%e9%a0%85%e7%9b%ae%e3%80%80%e5%b7%a5%e6%a5%ad%e5%93%81%e7%89%8c%e9%81%8a%e5%a2%9e%e4%b9%9d%e5%b7%b4/"
+  },
+  "image_url": "https://hkcitizenmedia.com/wp-content/uploads/2026/10/4c4cc935.jpg",
+  "title": {
+   "en": "Tourism Hotspot Drive Adds Bus Depot, MTR Exhibition to Line-up",
+   "zh_hant": "旅遊熱點工作組推4項目　九巴車廠港鐵展入列",
+   "zh_hans": "旅游热点工作组推4项目　九巴车厂港铁展入列"
+  },
+  "summary": {
+   "en": "The working group on tourism hotspots has unveiled four new projects, including industrial brand tours adding a KMB depot and an MTR exhibition, plus micro-art, religious culture and Yuen Long-themed offerings. Officials hope the mix will draw more visitors to explore a different side of Hong Kong.",
+   "zh_hant": "旅遊熱點工作組推出下階段4個項目，包括工業品牌遊新增九巴車廠及港鐵展覽，以及微型藝術、宗教文化同元朗風貌主題。官方期望新組合吸引旅客探索不一樣嘅香港。",
+   "zh_hans": "旅游热点工作组推出下阶段4个项目，包括工业品牌游新增九巴车厂及港铁展览，以及微型艺术、宗教文化和元朗风貌主题。官方期望新组合吸引旅客探索不一样的香港。"
+  },
+  "tags": {
+   "en": [
+    "tourism",
+    "Hong Kong",
+    "hotspots"
+   ],
+   "zh_hant": [
+    "旅遊",
+    "香港",
+    "旅遊熱點"
+   ],
+   "zh_hans": [
+    "旅游",
+    "香港",
+    "旅游热点"
+   ]
+  }
+ },
+ {
+  "id": "20261016-sun-yat-sen-160",
+  "category": "hk",
+  "published_at": "2026-10-16T10:00:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://hongkong-invest.com/%E6%94%BF%E5%BA%9C%E8%88%89%E8%BE%A6%E5%AD%AB%E4%B8%AD%E5%B1%B1%E5%85%88%E7%94%9F%E8%AA%95%E8%BE%B0160%E5%91%A8%E5%B9%B4%E5%AE%98%E6%96%B9%E7%B4%80%E5%BF%B5%E5%84%80%E5%BC%8F/"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Official Ceremony Planned for Sun Yat-sen's 160th Birth Anniversary",
+   "zh_hant": "政府11月舉辦孫中山誕辰160周年官方紀念儀式",
+   "zh_hans": "政府11月举办孙中山诞辰160周年官方纪念仪式"
+  },
+  "summary": {
+   "en": "The government will hold an official ceremony marking the 160th anniversary of Dr Sun Yat-sen's birth at Sun Yat Sen Memorial Park on November 12. The event honours the revolutionary leader's legacy.",
+   "zh_hant": "政府將於11月12日在中山紀念公園舉辦孫中山先生誕辰160周年官方紀念儀式，向呢位革命先行者致敬。",
+   "zh_hans": "政府将于11月12日在中山纪念公园举办孙中山先生诞辰160周年官方纪念仪式，向这位革命先行者致敬。"
+  },
+  "tags": {
+   "en": [
+    "Sun Yat-sen",
+    "anniversary",
+    "ceremony"
+   ],
+   "zh_hant": [
+    "孫中山",
+    "誕辰",
+    "紀念儀式"
+   ],
+   "zh_hans": [
+    "孙中山",
+    "诞辰",
+    "纪念仪式"
+   ]
+  }
+ },
+ {
+  "id": "20261016-eason-chan-26-shows",
+  "category": "entertainment",
+  "published_at": "2026-10-16T08:00:00+08:00",
+  "source": {
+   "name": "Sundaykiss",
+   "url": "https://www.sundaykiss.com/%e5%a8%9b%e6%a8%82/%e9%99%b3%e5%a5%95%e8%bf%85-%e8%88%87%e6%88%91%e5%b8%b8%e5%9c%a8-%e6%bc%94%e5%94%b1%e6%9c%83-2446058/?utm_term=Autofeed&utm_format=Photo"
+  },
+  "image_url": "https://imgs.sundaykiss.com/wp-content/uploads/2026/10/179212584892419092_14904865296ad1ab99b6f03_16237422506ad1bb01d4ee4.jpg",
+  "title": {
+   "en": "Eason Chan Announces 26 Shows for 30th Anniversary, Bans Applause",
+   "zh_hant": "陳奕迅出道30年連開26場　禁拍攝禁拍手惹熱議",
+   "zh_hans": "陈奕迅出道30年连开26场　禁拍摄禁拍手惹热议"
+  },
+  "summary": {
+   "en": "Eason Chan has announced 26 concerts marking 30 years in the industry, under the banner 'Recording Sessions with Mr. Eason Chan'. A ban on photography, filming and even applause at the shows has sparked heated discussion among fans.",
+   "zh_hant": "陳奕迅宣布出道30年將連開26場《Recording Sessions with Mr. Eason Chan》。演唱會現場禁拍攝兼禁拍手歡呼，惹來歌迷熱議。",
+   "zh_hans": "陈奕迅宣布出道30年将连开26场《Recording Sessions with Mr. Eason Chan》。演唱会现场禁拍摄兼禁拍手欢呼，惹来歌迷热议。"
+  },
+  "tags": {
+   "en": [
+    "Eason Chan",
+    "concert",
+    "Cantopop"
+   ],
+   "zh_hant": [
+    "陳奕迅",
+    "演唱會",
+    "廣東歌"
+   ],
+   "zh_hans": [
+    "陈奕迅",
+    "演唱会",
+    "粤语歌"
+   ]
+  }
+ },
+ {
+  "id": "20261016-houthi-aden-attack",
+  "category": "world",
+  "published_at": "2026-10-16T11:00:00+08:00",
+  "source": {
+   "name": "2CR澳洲中文廣播電台",
+   "url": "https://www.2cr.com.au/胡塞武裝襲擊亞丁政府建築群-2/"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Houthi Attack on Aden Palace Complex Kills 5, Injures 16",
+   "zh_hant": "胡塞襲擊也門亞丁馬希克宮　5死16傷",
+   "zh_hans": "胡塞袭击也门亚丁马希克宫　5死16伤"
+  },
+  "summary": {
+   "en": "Houthi forces attacked the Maashiq Palace complex in Aden, Yemen, killing five people and injuring 16. The strike marks a sharp escalation in the country's conflict.",
+   "zh_hant": "胡塞武裝襲擊也門亞丁馬希克宮建築群，造成5死16傷，令當地衝突急劇升溫。",
+   "zh_hans": "胡塞武装袭击也门亚丁马希克宫建筑群，造成5死16伤，令当地冲突急剧升温。"
+  },
+  "tags": {
+   "en": [
+    "Yemen",
+    "Houthis",
+    "Aden"
+   ],
+   "zh_hant": [
+    "也門",
+    "胡塞武裝",
+    "亞丁"
+   ],
+   "zh_hans": [
+    "也门",
+    "胡塞武装",
+    "亚丁"
+   ]
+  }
+ },
+ {
+  "id": "20261016-unsc-houthi-saudi",
+  "category": "world",
+  "published_at": "2026-10-16T09:11:00+08:00",
+  "source": {
+   "name": "央視新聞",
+   "url": "https://news.hebccw.cn/system/2026/10/16/102233570.shtml"
+  },
+  "image_url": "",
+  "title": {
+   "en": "UN Security Council Condemns Houthi Attacks on Saudi Civilian Sites",
+   "zh_hant": "安理會譴責胡塞武裝襲擊沙特民用設施",
+   "zh_hans": "安理会谴责胡塞武装袭击沙特民用设施"
+  },
+  "summary": {
+   "en": "The UN Security Council has condemned cross-border attacks by Houthi forces on civilian facilities in Saudi Arabia. The statement follows a series of strikes that have drawn international concern.",
+   "zh_hant": "聯合國安理會譴責胡塞武裝跨境襲擊沙特民用設施。一連串襲擊引起國際關注，安理會發表聲明譴責。",
+   "zh_hans": "联合国安理会谴责胡塞武装跨境袭击沙特民用设施。一连串袭击引起国际关注，安理会发表声明谴责。"
+  },
+  "tags": {
+   "en": [
+    "UN",
+    "Houthis",
+    "Saudi Arabia"
+   ],
+   "zh_hant": [
+    "聯合國",
+    "胡塞武裝",
+    "沙特"
+   ],
+   "zh_hans": [
+    "联合国",
+    "胡塞武装",
+    "沙特"
+   ]
+  }
+ },
+ {
+  "id": "20261016-li-qiang-central-asia",
+  "category": "china",
+  "published_at": "2026-10-16T09:00:00+08:00",
+  "source": {
+   "name": "新浪財經",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Premier Li Qiang to Visit Uzbekistan, Tajikistan and Russia",
+   "zh_hant": "李強將出訪烏茲別克等三國　出席上合會議",
+   "zh_hans": "李强将出访乌兹别克等三国　出席上合会议"
+  },
+  "summary": {
+   "en": "The Foreign Ministry announced Premier Li Qiang will visit Uzbekistan and Tajikistan from October 17 to 20, attend the SCO prime ministers' meeting, then travel to Russia for the regular China-Russia premiers' meeting through October 22.",
+   "zh_hant": "外交部宣布，國務院總理李強將於10月17日至22日先後對烏茲別克斯坦、塔吉克斯坦進行正式訪問並出席上合組織總理會議，再赴俄羅斯舉行中俄總理定期會晤。",
+   "zh_hans": "外交部宣布，国务院总理李强将于10月17日至22日先后对乌兹别克斯坦、塔吉克斯坦进行正式访问并出席上合组织总理会议，再赴俄罗斯举行中俄总理定期会晤。"
+  },
+  "tags": {
+   "en": [
+    "Li Qiang",
+    "diplomacy",
+    "SCO"
+   ],
+   "zh_hant": [
+    "李強",
+    "出訪",
+    "上合組織"
+   ],
+   "zh_hans": [
+    "李强",
+    "出访",
+    "上合组织"
+   ]
+  }
+ },
+ {
+  "id": "20261016-pboc-easing",
+  "category": "finance",
+  "published_at": "2026-10-16T09:30:00+08:00",
+  "source": {
+   "name": "新浪財經",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "PBOC to Continue 'Moderately Loose' Monetary Policy, Governor Says",
+   "zh_hant": "人行：繼續實施適度寬鬆貨幣政策",
+   "zh_hans": "人行：继续实施适度宽松货币政策"
+  },
+  "summary": {
+   "en": "PBOC Governor Pan Gongsheng told the G20 finance ministers and central bank governors meeting that the central bank will continue its moderately loose monetary policy to support stable economic growth and steady financial markets.",
+   "zh_hant": "人民銀行行長潘功勝在G20財長和央行行長會議上表示，人行將繼續實施適度寬鬆的貨幣政策，為經濟穩定增長和金融市場平穩運行營造良好環境。",
+   "zh_hans": "人民银行行长潘功胜在G20财长和央行行长会议上表示，人行将继续实施适度宽松的货币政策，为经济稳定增长和金融市场平稳运行营造良好环境。"
+  },
+  "tags": {
+   "en": [
+    "PBOC",
+    "monetary policy",
+    "G20"
+   ],
+   "zh_hant": [
+    "人行",
+    "貨幣政策",
+    "G20"
+   ],
+   "zh_hans": [
+    "人行",
+    "货币政策",
+    "G20"
+   ]
+  }
+ },
+ {
+  "id": "20261016-lan-foan-fiscal",
+  "category": "finance",
+  "published_at": "2026-10-16T10:00:00+08:00",
+  "source": {
+   "name": "新浪財經",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Finance Minister Lan Fo'an Pledges More Proactive Fiscal Policy at G20",
+   "zh_hant": "藍佛安：精準實施更積極財政政策",
+   "zh_hans": "蓝佛安：精准实施更积极财政政策"
+  },
+  "summary": {
+   "en": "Finance Minister Lan Fo'an told the G20 meeting China will implement a more proactive fiscal policy with precision to keep the economy improving and inject confidence and certainty into the world economy.",
+   "zh_hant": "財政部部長藍佛安出席G20會議時表示，將精準有效實施更加積極的財政政策，推動經濟持續向好發展，為世界經濟注入信心和確定性。",
+   "zh_hans": "财政部部长蓝佛安出席G20会议时表示，将精准有效实施更加积极的财政政策，推动经济持续向好发展，为世界经济注入信心和确定性。"
+  },
+  "tags": {
+   "en": [
+    "fiscal policy",
+    "G20",
+    "Lan Fo'an"
+   ],
+   "zh_hant": [
+    "財政政策",
+    "G20",
+    "藍佛安"
+   ],
+   "zh_hans": [
+    "财政政策",
+    "G20",
+    "蓝佛安"
+   ]
+  }
+ },
+ {
+  "id": "20261016-zunjie-brake-probe",
+  "category": "society",
+  "published_at": "2026-10-16T10:30:00+08:00",
+  "source": {
+   "name": "新浪財經",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Joint Probe Launched into Zunjie V800 Brake Pedal Issue",
+   "zh_hant": "尊界V800剎車問題　三部門成立聯合調查組",
+   "zh_hans": "尊界V800刹车问题　三部门成立联合调查组"
+  },
+  "summary": {
+   "en": "A joint investigation team has been formed by the industry ministry, cyberspace administration and market regulator to look into online reports of a broken brake pedal bracket on the Zunjie V800 car, with findings to be published in due course.",
+   "zh_hant": "針對網上反映的尊界V800汽車剎車踏板支架斷裂問題，工信部、中央網信辦、市場監管總局成立聯合調查組開展核查，將依法依規處理並及時公布情況。",
+   "zh_hans": "针对网上反映的尊界V800汽车刹车踏板支架断裂问题，工信部、中央网信办、市场监管总局成立联合调查组开展核查，将依法依规处理并及时公布情况。"
+  },
+  "tags": {
+   "en": [
+    "Zunjie",
+    "auto safety",
+    "probe"
+   ],
+   "zh_hant": [
+    "尊界",
+    "汽車安全",
+    "調查"
+   ],
+   "zh_hans": [
+    "尊界",
+    "汽车安全",
+    "调查"
+   ]
+  }
+ },
+ {
+  "id": "20261016-tsmc-q3",
+  "category": "tech",
+  "published_at": "2026-10-16T11:00:00+08:00",
+  "source": {
+   "name": "新浪財經",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "TSMC Beats Q3 Expectations as AI Demand Far Outstrips Supply",
+   "zh_hant": "台積電Q3業績勝預期　AI需求遠超供應",
+   "zh_hans": "台积电Q3业绩胜预期　AI需求远超供应"
+  },
+  "summary": {
+   "en": "TSMC reported third-quarter results and told analysts it expects fourth-quarter revenue of US$52.3-54.3 billion, adding that AI-driven CPU demand keeps growing and still far exceeds supply capacity.",
+   "zh_hant": "台積電公布第三季業績並召開分析師會議，預計第四季銷售額523億至543億美元。公司指AI相關的CPU需求持續增長，需求仍遠超目前供應能力。",
+   "zh_hans": "台积电公布第三季业绩并召开分析师会议，预计第四季销售额523亿至543亿美元。公司指AI相关的CPU需求持续增长，需求仍远超目前供应能力。"
+  },
+  "tags": {
+   "en": [
+    "TSMC",
+    "semiconductors",
+    "AI"
+   ],
+   "zh_hant": [
+    "台積電",
+    "半導體",
+    "AI"
+   ],
+   "zh_hans": [
+    "台积电",
+    "半导体",
+    "AI"
+   ]
+  }
+ },
+ {
+  "id": "20261016-deepseek-outage",
+  "category": "tech",
+  "published_at": "2026-10-16T11:30:00+08:00",
+  "source": {
+   "name": "新浪財經",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "DeepSeek Compensates Users in Full After 5-Hour Service Outage",
+   "zh_hant": "DeepSeek服務故障5小時　承諾全額補償",
+   "zh_hans": "DeepSeek服务故障5小时　承诺全额补偿"
+  },
+  "summary": {
+   "en": "DeepSeek's open platform suffered a service outage from 8:11am to 1:04pm on the 15th, leaving its API unusable. The company promised full compensation in the form of credits based on each account's past seven days of usage, credited automatically.",
+   "zh_hant": "DeepSeek開放平台15日上午8時至下午1時出現服務故障，API無法正常使用。官方承諾按帳號7日內消耗金額以贈金形式全額返還，贈金自動到帳。",
+   "zh_hans": "DeepSeek开放平台15日上午8时至下午1时出现服务故障，API无法正常使用。官方承诺按账号7日内消耗金额以赠金形式全额返还，赠金自动到账。"
+  },
+  "tags": {
+   "en": [
+    "DeepSeek",
+    "AI",
+    "outage"
+   ],
+   "zh_hant": [
+    "DeepSeek",
+    "AI",
+    "服務故障"
+   ],
+   "zh_hans": [
+    "DeepSeek",
+    "AI",
+    "服务故障"
+   ]
+  }
+ },
+ {
+  "id": "20261016-iphone18-double11",
+  "category": "tech",
+  "published_at": "2026-10-16T12:00:00+08:00",
+  "source": {
+   "name": "新浪財經",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Apple's Double 11 Sale Starts Oct 20 with iPhone 18 Pro Discounts",
+   "zh_hant": "蘋果雙11今月20日開鑼　iPhone 18 Pro有優惠",
+   "zh_hans": "苹果双11今月20日开锣　iPhone 18 Pro有优惠"
+  },
+  "summary": {
+   "en": "Apple's Tmall flagship store announced its Double 11 shopping festival sale starts October 20, with this fall's iPhone 18 Pro series eligible for a 300-yuan coupon plus an extra 500-yuan trade-in government subsidy.",
+   "zh_hant": "蘋果天貓官方旗艦店公布，雙11活動10月20日開始，今年秋季推出的iPhone 18 Pro系列可用300元優惠券，並可疊加500元以舊換新政府補貼。",
+   "zh_hans": "苹果天猫官方旗舰店公布，双11活动10月20日开始，今年秋季推出的iPhone 18 Pro系列可用300元优惠券，并可叠加500元以旧换新政府补贴。"
+  },
+  "tags": {
+   "en": [
+    "Apple",
+    "iPhone",
+    "Double 11"
+   ],
+   "zh_hant": [
+    "蘋果",
+    "iPhone",
+    "雙11"
+   ],
+   "zh_hans": [
+    "苹果",
+    "iPhone",
+    "双11"
+   ]
+  }
+ },
+ {
+  "id": "20261016-tesla-kids-bike",
+  "category": "tech",
+  "published_at": "2026-10-16T12:30:00+08:00",
+  "source": {
+   "name": "新浪財經",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Tesla Launches Kids' Balance Bike in China at 1,399 Yuan",
+   "zh_hant": "特斯拉推兒童平衡車　售1399元人民幣",
+   "zh_hans": "特斯拉推儿童平衡车　售1399元人民币"
+  },
+  "summary": {
+   "en": "Tesla's China online store has listed a balance bike designed for children aged 2 to 6, priced at 1,399 yuan, expanding its lifestyle product line-up.",
+   "zh_hant": "特斯拉中國官網上架一款專為2至6歲兒童設計的平衡車，售價1399元人民幣，進一步拓展其生活周邊產品線。",
+   "zh_hans": "特斯拉中国官网商店上架一款专为2至6岁儿童设计的平衡车，售价1399元人民币，进一步拓展其生活周边产品线。"
+  },
+  "tags": {
+   "en": [
+    "Tesla",
+    "kids",
+    "new product"
+   ],
+   "zh_hant": [
+    "特斯拉",
+    "兒童",
+    "新產品"
+   ],
+   "zh_hans": [
+    "特斯拉",
+    "儿童",
+    "新产品"
+   ]
+  }
+ },
+ {
+  "id": "20261016-yingde-suspension",
+  "category": "finance",
+  "published_at": "2026-10-16T09:15:00+08:00",
+  "source": {
+   "name": "新浪財經",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivkncx8265458.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Yingde Holdings Suspends Trading Pending Inside-Information Announcement",
+   "zh_hant": "熒德控股短暫停牌　待發內幕消息公告",
+   "zh_hans": "荧德控股短暂停牌　待发内幕消息公告"
+  },
+  "summary": {
+   "en": "Yingde Holdings said trading in its shares was halted from 9am on October 16 pending an announcement constituting inside information related to takeover and merger rules.",
+   "zh_hant": "熒德控股公布，應公司要求，股份自10月16日上午9時起短暫停牌，以待刊發一則構成內幕消息的公告，涉及公司收購及合併守則事宜。",
+   "zh_hans": "荧德控股公布，应公司要求，股份自10月16日上午9时起短暂停牌，以待刊发一则构成内幕消息的公告，涉及公司收购及合并守则事宜。"
+  },
+  "tags": {
+   "en": [
+    "Yingde",
+    "suspension",
+    "HK stocks"
+   ],
+   "zh_hant": [
+    "熒德控股",
+    "停牌",
+    "港股"
+   ],
+   "zh_hans": [
+    "荧德控股",
+    "停牌",
+    "港股"
+   ]
+  }
+ },
+ {
+  "id": "20261016-eu-trade-measures",
+  "category": "world",
+  "published_at": "2026-10-16T13:00:00+08:00",
+  "source": {
+   "name": "新浪",
+   "url": "https://news.sina.cn/2026-10-16/detail-inivkncp7074047.d.html"
+  },
+  "image_url": "https://n.sinaimg.cn/news/crawl/117/w550h367/20261016/cc24-4cca29b3cdb22206f079a3ed6a7954df.png",
+  "title": {
+   "en": "EU Eyes Wider China Trade Curbs; Beijing May 'Draw Red Line'",
+   "zh_hant": "歐盟擬擴大對華貿易限制　中方或劃紅線",
+   "zh_hans": "欧盟拟扩大对华贸易限制　中方或划红线"
+  },
+  "summary": {
+   "en": "The EU is considering extending the hybrid-car trade arrangement model to chemicals, pharmaceuticals and machinery, drawing Beijing's attention. Analysts say China may not accept similar curbs across more sectors, adding uncertainty to the next phase of trade ties.",
+   "zh_hant": "歐盟考慮將混能汽車貿易安排的模式擴大至化工、製藥及機械等行業，引起中方關注。分析指中方未必接受類似安排擴大至更多行業，雙方下階段經貿關係添不確定性。",
+   "zh_hans": "欧盟考虑将混能汽车贸易安排的模式扩大至化工、制药及机械等行业，引起中方关注。分析指中方未必接受类似安排扩大至更多行业，双方下阶段经贸关系添不确定性。"
+  },
+  "tags": {
+   "en": [
+    "EU",
+    "trade",
+    "China"
+   ],
+   "zh_hant": [
+    "歐盟",
+    "貿易",
+    "中國"
+   ],
+   "zh_hans": [
+    "欧盟",
+    "贸易",
+    "中国"
+   ]
+  }
+ },
+ {
+  "id": "20261016-zhilai-tech-drop",
+  "category": "finance",
+  "published_at": "2026-10-16T10:23:00+08:00",
+  "source": {
+   "name": "新浪財經",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivksmv8262412.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Zhilai Technology Falls Over 2% as Main Funds See Net Outflow",
+   "zh_hant": "智萊科技跌逾2%　主力資金淨流出518萬",
+   "zh_hans": "智莱科技跌逾2%　主力资金净流出518万"
+  },
+  "summary": {
+   "en": "Zhilai Technology fell 2.05% intraday on the 16th to 11.49 yuan, with turnover of 75.16 million yuan and a net outflow of 5.18 million yuan in main funds. The firm makes intelligent storage and delivery equipment.",
+   "zh_hant": "智萊科技16日盤中下跌2.05%，報11.49元人民幣，成交7515萬元。資金流向顯示主力資金淨流出518萬元，公司主要從事智能保管與交付設備業務。",
+   "zh_hans": "智莱科技16日盘中下跌2.05%，报11.49元人民币，成交7515万元。资金流向显示主力资金净流出518万元，公司主要从事智能保管与交付设备业务。"
+  },
+  "tags": {
+   "en": [
+    "Zhilai",
+    "stock",
+    "fund flow"
+   ],
+   "zh_hant": [
+    "智萊科技",
+    "股價",
+    "資金流"
+   ],
+   "zh_hans": [
+    "智莱科技",
+    "股价",
+    "资金流"
+   ]
+  }
+ },
+ {
+  "id": "20261016-xiamen-gymnastics",
+  "category": "society",
+  "published_at": "2026-10-16T08:00:00+08:00",
+  "source": {
+   "name": "工人日報",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivizpv7877964.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "National Workers' Workplace Exercise Contest Held in Xiamen with 728 Participants",
+   "zh_hant": "全國職工工間操大賽廈門舉行　38隊728人參加",
+   "zh_hans": "全国职工工间操大赛厦门举行　38队728人参加"
+  },
+  "summary": {
+   "en": "The 2026 'Chinese Dream, Beauty of Labour' national workers' workplace exercise contest was held in Xiamen on October 13-14, with 728 workers from 38 teams taking part. The event blended sports with cultural and consumer activities.",
+   "zh_hant": "2026年「中國夢·勞動美」全國職工工間操大賽13至14日在廈門舉行，38支代表隊共728名職工參加。賽事結合文體旅消費，推動職工文體活動多元發展。",
+   "zh_hans": "2026年「中国梦·劳动美」全国职工工间操大赛13至14日在厦门举行，38支代表队共728名职工参加。赛事结合文体旅消费，推动职工文体活动多元发展。"
+  },
+  "tags": {
+   "en": [
+    "workplace exercise",
+    "workers",
+    "Xiamen"
+   ],
+   "zh_hant": [
+    "工間操",
+    "職工",
+    "廈門"
+   ],
+   "zh_hans": [
+    "工间操",
+    "职工",
+    "厦门"
+   ]
+  }
+ },
+ {
+  "id": "20261016-us-stocks-coke",
+  "category": "finance",
+  "published_at": "2026-10-16T08:30:00+08:00",
+  "source": {
+   "name": "新浪財經",
+   "url": "https://finance.sina.cn/2026-10-16/detail-inivkncr7794975.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Wall Street Rises Across the Board; Coca-Cola Hits Record High",
+   "zh_hant": "美股三大指數齊升　可口可樂創新高",
+   "zh_hans": "美股三大指数齐升　可口可乐创新高"
+  },
+  "summary": {
+   "en": "All three major US indexes closed higher on the 15th, with the Dow up 1.08%, the Nasdaq up 0.08% and the S&P 500 up 0.33%. Coca-Cola hit intraday and closing record highs, while the Philadelphia Semiconductor Index fell for a seventh straight day.",
+   "zh_hant": "美股三大指數15日集體收漲，道指升1.08%，納指升0.08%，標普500升0.33%。可口可樂盤中及收市均創歷史新高，費城半導體指數則連跌七日。",
+   "zh_hans": "美股三大指数15日集体收涨，道指涨1.08%，纳指涨0.08%，标普500涨0.33%。可口可乐盘中及收市均创历史新高，费城半导体指数则连跌七日。"
+  },
+  "tags": {
+   "en": [
+    "US stocks",
+    "Coca-Cola",
+    "semiconductors"
+   ],
+   "zh_hant": [
+    "美股",
+    "可口可樂",
+    "半導體"
+   ],
+   "zh_hans": [
+    "美股",
+    "可口可乐",
+    "半导体"
+   ]
+  }
+ }
 ]
