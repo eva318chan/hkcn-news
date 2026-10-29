@@ -321,5 +321,125 @@
    "zh_hans": "联合国人权事务高级专员促各方更好保护冲突地区平民",
    "zh_hant": "聯合國人權事務高級專員促各方更好保護衝突地區平民"
   }
+ },
+ {
+  "category": "finance",
+  "id": "20261029-hkma-response-fed-hold",
+  "image_url": "",
+  "published_at": "2026-10-29T10:30+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/29/P2026102900258.htm"
+  },
+  "summary": {
+   "en": "The US Federal Reserve kept its target range unchanged at 3.75–4%, a decision the Hong Kong Monetary Authority said was in line with market expectations, noting economic activity was expanding at a strong pace, the labour market was stable, but inflation remained elevated. The HKMA said Hong Kong's monetary and financial markets continued to operate in an orderly manner, while warning that a persistent HKD-USD interest rate differential could see carry trade activity gradually ease the Hong Kong dollar. It urged the public to carefully manage interest rate risks when making property, investment or borrowing decisions, and said it will continue to monitor developments and maintain monetary and financial stability.",
+   "zh_hans": "美国美联储维持联邦基金利率目标区间于 3.75 至 4 厘不变，金管局表示决定符合市场预期，并指美国经济活动以强劲步伐扩张、劳工市场稳定，但通胀仍然高企。金管局指香港货币及金融市场继续有序运作，不过港元与美元息差持续，套息交易可能令港元逐步转弱。金管局提醒市民在置业、投资或借贷时要小心管理利率风险，并表示会继续密切监察市况，维持货币及金融稳定。",
+   "zh_hant": "美國聯儲局維持聯邦基金利率目標區間於 3.75 至 4 厘不變，金管局表示決定符合市場預期，並指美國經濟活動以強勁步伐擴張、勞工市場穩定，但通脹仍然高企。金管局指香港貨幣及金融市場繼續有序運作，不過港元與美元息差持續，套息交易可能令港元逐步轉弱。金管局提醒市民在置業、投資或借貸時要小心管理利率風險，並表示會繼續密切監察市況，維持貨幣及金融穩定。"
+  },
+  "tags": {
+   "en": [
+    "HKMA",
+    "Federal Reserve",
+    "interest rates",
+    "Hong Kong dollar"
+   ],
+   "zh_hans": [
+    "金管局",
+    "美联储",
+    "利率",
+    "港元"
+   ],
+   "zh_hant": [
+    "金管局",
+    "聯儲局",
+    "利率",
+    "港元"
+   ]
+  },
+  "title": {
+   "en": "HKMA responds as Fed holds rates at 3.75–4%",
+   "zh_hans": "金管局回应美联储维持利率不变　提醒市民管理利率风险",
+   "zh_hant": "金管局回應聯儲局維持利率不變　提醒市民管理利率風險"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261029-samsung-record-q3-profit",
+  "image_url": "",
+  "published_at": "2026-10-29T08:59+08:00",
+  "source": {
+   "name": "101 WIXX",
+   "url": "https://wixx.com/2026/10/28/samsung-posts-record-profit-in-q3-on-ai-chip-boom/"
+  },
+  "summary": {
+   "en": "Samsung Electronics said its third-quarter operating profit rose nearly ninefold to a record 107.4 trillion won, up from 12.2 trillion won a year earlier and in line with its estimate, driven by robust demand for AI chips. Investors remained wary about how durable AI spending will prove, but a strong earnings report and upbeat outlook from rival SK Hynix on Wednesday helped ease concerns that AI-driven chip earnings could lose momentum. Samsung said the chip supply shortage would deepen next year.",
+   "zh_hans": "三星电子公布第三季营业利润按年劲升近九倍，达到创纪录的 107,400 亿韩圜，较去年同期的 12,200 亿韩圜大幅上升，并符合公司早前预测，主要受惠于 AI 芯片需求强劲。投资者仍然担心 AI 开支能否持续，不过对手 SK 海力士星期三公布强劲业绩及乐观展望，有助纾缓市场对 AI 芯片盈利见顶的忧虑。三星预期，明年芯片供应短缺情况将会加剧。",
+   "zh_hant": "三星電子公布第三季營業利潤按年勁升近九倍，達到創紀錄的 107,400 億韓圜，較去年同期的 12,200 億韓圜大幅上升，並符合公司早前預測，主要受惠於 AI 晶片需求強勁。投資者仍然擔心 AI 開支能否持續，不過對手 SK 海力士星期三公布強勁業績及樂觀展望，有助紓緩市場對 AI 晶片盈利見頂的憂慮。三星預期，明年晶片供應短缺情況將會加劇。"
+  },
+  "tags": {
+   "en": [
+    "Samsung",
+    "semiconductors",
+    "AI chips",
+    "earnings"
+   ],
+   "zh_hans": [
+    "三星",
+    "半导体",
+    "AI 芯片",
+    "业绩"
+   ],
+   "zh_hant": [
+    "三星",
+    "半導體",
+    "AI 晶片",
+    "業績"
+   ]
+  },
+  "title": {
+   "en": "Samsung posts record third-quarter profit on AI chip boom",
+   "zh_hans": "三星第三季营业利润劲升近九倍破纪录　AI 芯片需求强劲",
+   "zh_hant": "三星第三季營業利潤勁升近九倍破紀錄　AI 晶片需求強勁"
+  }
+ },
+ {
+  "category": "entertainment",
+  "id": "20261029-ozzy-black-sabbath-back-to-beginning",
+  "image_url": "https://www.antimusic.com/news/photos/26/10/28/ozzy-osbourne.jpg",
+  "published_at": "2026-10-28T12:00+08:00",
+  "source": {
+   "name": "antiMusic",
+   "url": "https://www.antimusic.com/p/26/r1028ozzy_osbourne___black_sabbath_back_to_the_beginning_soundtrack_and_film_set_for_release.shtml"
+  },
+  "summary": {
+   "en": "The concert film 'Ozzy & Black Sabbath Back to the Beginning' and its accompanying soundtrack will be released on Blu-ray, CD, vinyl and digitally on December 11, 2026, following the film's limited worldwide theatrical run that began on October 28. The three-and-a-half-hour film captures the historic July 5, 2025 concert at Birmingham's Villa Park, Ozzy Osbourne's final performance and Black Sabbath's first show together in more than 20 years, alongside sets from Metallica, Guns N' Roses, Tool, Slayer, Pantera and more. A deluxe box set with all 35 songs performed by Ozzy, Black Sabbath and special guests will follow in April 2027.",
+   "zh_hans": "演唱会电影《Ozzy & Black Sabbath Back to the Beginning》连同原声大碟，将于 2026 年 12 月 11 日推出 Blu-ray、CD、黑胶及数码版本；电影已于 10 月 28 日起在全球戏院有限上映。电影全长三个半小时，记录 2025 年 7 月 5 日在伯明翰维拉公园举行的历史性演唱会——奥齐·奥斯本最后一次演出，以及 Black Sabbath 相隔 20 多年再度同台，另有 Metallica、Guns N' Roses、Tool、Slayer、Pantera 等乐队演出。收录全部 35 首歌曲的豪华套装将于 2027 年 4 月推出。",
+   "zh_hant": "演唱會電影《Ozzy & Black Sabbath Back to the Beginning》連同原聲大碟，將於 2026 年 12 月 11 日推出 Blu-ray、CD、黑膠及數碼版本；電影已於 10 月 28 日起在全球戲院有限上映。電影全長三個半小時，記錄 2025 年 7 月 5 日在伯明翰維拉公園舉行的歷史性演唱會——奧齊·奧斯本最後一次演出，以及 Black Sabbath 相隔 20 多年再度同台，另有 Metallica、Guns N' Roses、Tool、Slayer、Pantera 等樂隊演出。收錄全部 35 首歌曲的豪華套裝將於 2027 年 4 月推出。"
+  },
+  "tags": {
+   "en": [
+    "Ozzy Osbourne",
+    "Black Sabbath",
+    "concert film",
+    "rock"
+   ],
+   "zh_hans": [
+    "奥齐·奥斯本",
+    "Black Sabbath",
+    "演唱会电影",
+    "摇滚"
+   ],
+   "zh_hant": [
+    "奧齊·奧斯本",
+    "Black Sabbath",
+    "演唱會電影",
+    "搖滾"
+   ]
+  },
+  "title": {
+   "en": "Ozzy & Black Sabbath 'Back to the Beginning' film and soundtrack set for December release",
+   "zh_hans": "奥齐与 Black Sabbath 告别演唱会电影及原声大碟　12 月推出",
+   "zh_hant": "奧齊與 Black Sabbath 告別演唱會電影及原聲大碟　12 月推出"
+  }
  }
 ]
