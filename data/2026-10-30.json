@@ -35,5 +35,79 @@
     "收购"
    ]
   }
+ },
+ {
+  "id": "20261030-amazon-intel-earnings-selloff",
+  "category": "finance",
+  "published_at": "2026-10-30T06:11:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "TipRanks",
+   "url": "https://www.tipranks.com/news/stock-futures-slip-after-disappointing-earnings-from-amazon-amzn"
+  },
+  "title": {
+   "en": "Amazon, Intel tumble after earnings as AI spending worries investors",
+   "zh_hant": "Amazon 及 Intel 業績後急挫　市場憂慮 AI 開支燒錢",
+   "zh_hans": "Amazon 及 Intel 业绩后急挫　市场忧虑 AI 开支烧钱"
+  },
+  "summary": {
+   "en": "Amazon shares fell more than 6% in after-hours trading on Thursday after the e-commerce giant's third-quarter results missed Wall Street expectations, with revenue of $201.9 billion up 12% and earnings per share of $1.89. Its cloud arm AWS grew 39% to $46 billion, the fastest pace in nearly five years, but investors balked at negative free cash flow of $42.4 billion as the company reaffirmed plans to spend about $220 billion this year, mostly on AI infrastructure. Intel fared worse: third-quarter revenue rose 21% to $16.5 billion, but weak fourth-quarter guidance of $15 billion to $16 billion sent the stock down as much as 20% after hours. The selloff, which also dragged Nasdaq futures lower, capped a bruising week for tech after Alphabet's own spending-fuelled slide.",
+   "zh_hant": "Amazon 星期四收市後公布第三季業績，收入 2019 億美元、按年增長 12%，每股盈利 1.89 美元，雙雙遜於華爾街預期，股價盤後急跌逾 6%。雲業務 AWS 收入大增 39% 至 460 億美元，創近五年最快增速，但公司維持全年約 2200 億美元資本開支（主要投向 AI 基建），過去 12 個月自由現金流轉為負 424 億美元，令投資者卻步。Intel 更慘：第三季收入按年升 21% 至 165 億美元，但第四季指引僅 150 至 160 億美元，遠遜預期，股價盤後最多跌兩成。連同早前 Alphabet 的急跌，科技股迎來難熬一週，納指期貨亦受壓。",
+   "zh_hans": "Amazon 星期四收市后公布第三季业绩，收入 2019 亿美元、按年增长 12%，每股盈利 1.89 美元，双双逊于华尔街预期，股价盘后急跌逾 6%。云业务 AWS 收入大增 39% 至 460 亿美元，创近五年最快增速，但公司维持全年约 2200 亿美元资本开支（主要投向 AI 基建），过去 12 个月自由现金流转为负 424 亿美元，令投资者却步。Intel 更惨：第三季收入按年升 21% 至 165 亿美元，但第四季指引仅 150 至 160 亿美元，远逊预期，股价盘后最多跌两成。连同早前 Alphabet 的急跌，科技股迎来难熬一周，纳指期货亦受压。"
+  },
+  "tags": {
+   "en": [
+    "Amazon",
+    "Intel",
+    "Earnings"
+   ],
+   "zh_hant": [
+    "Amazon",
+    "Intel",
+    "業績"
+   ],
+   "zh_hans": [
+    "Amazon",
+    "Intel",
+    "业绩"
+   ]
+  }
+ },
+ {
+  "id": "20261030-dnipro-drone-strike",
+  "category": "world",
+  "published_at": "2026-10-29T17:30:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "Brussels Reporter",
+   "url": "https://brusselsreporter.com/news/2026/russian-drone-strike-dnipro-train/"
+  },
+  "title": {
+   "en": "Russian drone strike on Dnipro train station kills at least 14",
+   "zh_hant": "俄羅斯無人機襲擊第聶伯羅火車站　至少 14 人死亡",
+   "zh_hans": "俄罗斯无人机袭击第聂伯罗火车站　至少 14 人死亡"
+  },
+  "summary": {
+   "en": "A Russian jet-powered drone struck a crowded platform at the main railway station in Dnipro, Ukraine, on Thursday, killing at least 14 people as a commuter train prepared to depart for Zaporizhzhia, Ukrainian officials said. At least 14 more were wounded, including an 11-year-old boy, in what authorities called one of the deadliest single strikes on Ukrainian passenger rail this year. Five more people were killed in daytime strikes elsewhere — two teenage girls in Chernihiv and three in an apartment building in Kremenchuk. President Volodymyr Zelensky posted images of the aftermath and called on the United States, Europe and the G7 to tighten sanctions, while a fragile six-day humanitarian truce in the Kherson region held elsewhere.",
+   "zh_hant": "烏克蘭官員表示，俄羅斯一架噴射式無人機星期四擊中第聶伯羅中央火車站一個擠滿乘客的月台，當時一班開往扎波羅熱的通勤列車正準備出發，至少 14 人死亡。另有至少 14 人受傷，包括一名 11 歲男童，是今年針對烏克蘭客運鐵路最致命的單一襲擊之一。同日其他地區的日間襲擊再造成 5 人死亡，包括車尼希夫兩名十幾歲少女及克列緬丘格一幢住宅大樓 3 人。總統澤連斯基公開現場相片，呼籲美國、歐洲及七國集團收緊對俄制裁；與此同時，赫爾松地區為期六天的人道主義停火仍在維持。",
+   "zh_hans": "乌克兰官员表示，俄罗斯一架喷射式无人机星期四击中第聂伯罗中央火车站一个挤满乘客的月台，当时一班开往扎波罗热的通勤列车正准备出发，至少 14 人死亡。另有至少 14 人受伤，包括一名 11 岁男童，是今年针对乌克兰客运铁路最致命的单一袭击之一。同日其他地区的日间袭击再造成 5 人死亡，包括切尔尼戈夫两名十几岁少女及克列缅丘格一幢住宅大楼 3 人。总统泽连斯基公开现场相片，呼吁美国、欧洲及七国集团收紧对俄制裁；与此同时，赫尔松地区为期六天的人道主义停火仍在维持。"
+  },
+  "tags": {
+   "en": [
+    "Ukraine",
+    "Dnipro",
+    "Russia"
+   ],
+   "zh_hant": [
+    "烏克蘭",
+    "第聶伯羅",
+    "俄羅斯"
+   ],
+   "zh_hans": [
+    "乌克兰",
+    "第聂伯罗",
+    "俄罗斯"
+   ]
+  }
  }
 ]
