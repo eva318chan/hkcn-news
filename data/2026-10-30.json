@@ -1,187 +1,409 @@
 [
-  {
-    "id": "20261030-doordash-acquires-instacart-17b",
-    "category": "finance",
-    "published_at": "2026-10-29T21:40:00+08:00",
-    "image_url": "",
-    "source": {
-      "name": "DoorDash／Instacart（聯合聲明）",
-      "url": "https://www.businesswire.com/news/home/20261029560802/en/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win"
-    },
-    "title": {
-      "en": "DoorDash to acquire Instacart for $17 billion in cash-and-stock deal",
-      "zh_hant": "DoorDash 斥資 170 億美元收購 Instacart　每股作價 65 美元",
-      "zh_hans": "DoorDash 斥资 170 亿美元收购 Instacart　每股作价 65 美元"
-    },
-    "summary": {
-      "en": "DoorDash announced on Thursday that it has agreed to acquire grocery delivery rival Instacart for $65 per share, an equity value of about $17 billion, in a definitive agreement approved by both companies' boards. At least 75 per cent of the consideration will be paid in cash, with DoorDash stock capped at 25 per cent; the price represents a 26 per cent premium to Instacart's October 22 closing price. DoorDash said it will keep the Instacart brand, app and enterprise technology products, and the two companies will continue to operate separately until the deal closes, expected toward the end of 2027 or in the first half of 2028. The combination pairs DoorDash's restaurant-delivery network with Instacart's grocery platform as delivery consolidation accelerates against rivals such as Uber, Amazon and Walmart.",
-      "zh_hant": "DoorDash 於星期四宣布，已同意以每股 65 美元、總值約 170 億美元收購雜貨外送對手 Instacart，交易已獲兩間公司董事會批准。代價至少七成半以現金支付，DoorDash 股票佔比上限為四分一；作價較 Instacart 於 10 月 22 日的收市價溢價 26%。DoorDash 表示會保留 Instacart 品牌、應用程式及企業技術產品，交易完成前兩間公司會繼續獨立營運，預計於 2027 年底或 2028 年上半年完成交割。這宗合併將 DoorDash 的餐飲外送網絡與 Instacart 的雜貨平台結合，應對 Uber、Amazon 及 Walmart 等對手的競爭。",
-      "zh_hans": "DoorDash 于星期四宣布，已同意以每股 65 美元、总值约 170 亿美元收购杂货外送对手 Instacart，交易已获两间公司董事会批准。代价至少七成半以现金支付，DoorDash 股票占比上限为四分之一；作价较 Instacart 于 10 月 22 日的收市价溢价 26%。DoorDash 表示会保留 Instacart 品牌、应用程序及企业技术产品，交易完成前两间公司会继续独立营运，预计于 2027 年底或 2028 年上半年完成交割。这宗合并将 DoorDash 的餐饮外送网络与 Instacart 的杂货平台结合，应对 Uber、Amazon 及 Walmart 等对手的竞争。"
-    },
-    "tags": {
-      "en": [
-        "DoorDash",
-        "Instacart",
-        "M&A"
-      ],
-      "zh_hant": [
-        "DoorDash",
-        "Instacart",
-        "收購"
-      ],
-      "zh_hans": [
-        "DoorDash",
-        "Instacart",
-        "收购"
-      ]
-    }
+ {
+  "id": "20261030-doordash-acquires-instacart-17b",
+  "category": "finance",
+  "published_at": "2026-10-29T21:40:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "DoorDash／Instacart（聯合聲明）",
+   "url": "https://www.businesswire.com/news/home/20261029560802/en/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win"
   },
-  {
-    "id": "20261030-amazon-intel-earnings-selloff",
-    "category": "finance",
-    "published_at": "2026-10-30T06:11:00+08:00",
-    "image_url": "",
-    "source": {
-      "name": "TipRanks",
-      "url": "https://www.tipranks.com/news/stock-futures-slip-after-disappointing-earnings-from-amazon-amzn"
-    },
-    "title": {
-      "en": "Amazon, Intel tumble after earnings as AI spending worries investors",
-      "zh_hant": "Amazon 及 Intel 業績後急挫　市場憂慮 AI 開支燒錢",
-      "zh_hans": "Amazon 及 Intel 业绩后急挫　市场忧虑 AI 开支烧钱"
-    },
-    "summary": {
-      "en": "Amazon shares fell more than 6% in after-hours trading on Thursday after the e-commerce giant's third-quarter results missed Wall Street expectations, with revenue of $201.9 billion up 12% and earnings per share of $1.89. Its cloud arm AWS grew 39% to $46 billion, the fastest pace in nearly five years, but investors balked at negative free cash flow of $42.4 billion as the company reaffirmed plans to spend about $220 billion this year, mostly on AI infrastructure. Intel fared worse: third-quarter revenue rose 21% to $16.5 billion, but weak fourth-quarter guidance of $15 billion to $16 billion sent the stock down as much as 20% after hours. The selloff, which also dragged Nasdaq futures lower, capped a bruising week for tech after Alphabet's own spending-fuelled slide.",
-      "zh_hant": "Amazon 星期四收市後公布第三季業績，收入 2019 億美元、按年增長 12%，每股盈利 1.89 美元，雙雙遜於華爾街預期，股價盤後急跌逾 6%。雲業務 AWS 收入大增 39% 至 460 億美元，創近五年最快增速，但公司維持全年約 2200 億美元資本開支（主要投向 AI 基建），過去 12 個月自由現金流轉為負 424 億美元，令投資者卻步。Intel 更慘：第三季收入按年升 21% 至 165 億美元，但第四季指引僅 150 至 160 億美元，遠遜預期，股價盤後最多跌兩成。連同早前 Alphabet 的急跌，科技股迎來難熬一週，納指期貨亦受壓。",
-      "zh_hans": "Amazon 星期四收市后公布第三季业绩，收入 2019 亿美元、按年增长 12%，每股盈利 1.89 美元，双双逊于华尔街预期，股价盘后急跌逾 6%。云业务 AWS 收入大增 39% 至 460 亿美元，创近五年最快增速，但公司维持全年约 2200 亿美元资本开支（主要投向 AI 基建），过去 12 个月自由现金流转为负 424 亿美元，令投资者却步。Intel 更惨：第三季收入按年升 21% 至 165 亿美元，但第四季指引仅 150 至 160 亿美元，远逊预期，股价盘后最多跌两成。连同早前 Alphabet 的急跌，科技股迎来难熬一周，纳指期货亦受压。"
-    },
-    "tags": {
-      "en": [
-        "Amazon",
-        "Intel",
-        "Earnings"
-      ],
-      "zh_hant": [
-        "Amazon",
-        "Intel",
-        "業績"
-      ],
-      "zh_hans": [
-        "Amazon",
-        "Intel",
-        "业绩"
-      ]
-    }
+  "title": {
+   "en": "DoorDash to acquire Instacart for $17 billion in cash-and-stock deal",
+   "zh_hant": "DoorDash 斥資 170 億美元收購 Instacart　每股作價 65 美元",
+   "zh_hans": "DoorDash 斥资 170 亿美元收购 Instacart　每股作价 65 美元"
   },
-  {
-    "id": "20261030-dnipro-drone-strike",
-    "category": "world",
-    "published_at": "2026-10-29T17:30:00+08:00",
-    "image_url": "",
-    "source": {
-      "name": "Brussels Reporter",
-      "url": "https://brusselsreporter.com/news/2026/russian-drone-strike-dnipro-train/"
-    },
-    "title": {
-      "en": "Russian drone strike on Dnipro train station kills at least 14",
-      "zh_hant": "俄羅斯無人機襲擊第聶伯羅火車站　至少 14 人死亡",
-      "zh_hans": "俄罗斯无人机袭击第聂伯罗火车站　至少 14 人死亡"
-    },
-    "summary": {
-      "en": "A Russian jet-powered drone struck a crowded platform at the main railway station in Dnipro, Ukraine, on Thursday, killing at least 14 people as a commuter train prepared to depart for Zaporizhzhia, Ukrainian officials said. At least 14 more were wounded, including an 11-year-old boy, in what authorities called one of the deadliest single strikes on Ukrainian passenger rail this year. Five more people were killed in daytime strikes elsewhere — two teenage girls in Chernihiv and three in an apartment building in Kremenchuk. President Volodymyr Zelensky posted images of the aftermath and called on the United States, Europe and the G7 to tighten sanctions, while a fragile six-day humanitarian truce in the Kherson region held elsewhere.",
-      "zh_hant": "烏克蘭官員表示，俄羅斯一架噴射式無人機星期四擊中第聶伯羅中央火車站一個擠滿乘客的月台，當時一班開往扎波羅熱的通勤列車正準備出發，至少 14 人死亡。另有至少 14 人受傷，包括一名 11 歲男童，是今年針對烏克蘭客運鐵路最致命的單一襲擊之一。同日其他地區的日間襲擊再造成 5 人死亡，包括車尼希夫兩名十幾歲少女及克列緬丘格一幢住宅大樓 3 人。總統澤連斯基公開現場相片，呼籲美國、歐洲及七國集團收緊對俄制裁；與此同時，赫爾松地區為期六天的人道主義停火仍在維持。",
-      "zh_hans": "乌克兰官员表示，俄罗斯一架喷射式无人机星期四击中第聂伯罗中央火车站一个挤满乘客的月台，当时一班开往扎波罗热的通勤列车正准备出发，至少 14 人死亡。另有至少 14 人受伤，包括一名 11 岁男童，是今年针对乌克兰客运铁路最致命的单一袭击之一。同日其他地区的日间袭击再造成 5 人死亡，包括切尔尼戈夫两名十几岁少女及克列缅丘格一幢住宅大楼 3 人。总统泽连斯基公开现场相片，呼吁美国、欧洲及七国集团收紧对俄制裁；与此同时，赫尔松地区为期六天的人道主义停火仍在维持。"
-    },
-    "tags": {
-      "en": [
-        "Ukraine",
-        "Dnipro",
-        "Russia"
-      ],
-      "zh_hant": [
-        "烏克蘭",
-        "第聶伯羅",
-        "俄羅斯"
-      ],
-      "zh_hans": [
-        "乌克兰",
-        "第聂伯罗",
-        "俄罗斯"
-      ]
-    }
+  "summary": {
+   "en": "DoorDash announced on Thursday that it has agreed to acquire grocery delivery rival Instacart for $65 per share, an equity value of about $17 billion, in a definitive agreement approved by both companies' boards. At least 75 per cent of the consideration will be paid in cash, with DoorDash stock capped at 25 per cent; the price represents a 26 per cent premium to Instacart's October 22 closing price. DoorDash said it will keep the Instacart brand, app and enterprise technology products, and the two companies will continue to operate separately until the deal closes, expected toward the end of 2027 or in the first half of 2028. The combination pairs DoorDash's restaurant-delivery network with Instacart's grocery platform as delivery consolidation accelerates against rivals such as Uber, Amazon and Walmart.",
+   "zh_hant": "DoorDash 於星期四宣布，已同意以每股 65 美元、總值約 170 億美元收購雜貨外送對手 Instacart，交易已獲兩間公司董事會批准。代價至少七成半以現金支付，DoorDash 股票佔比上限為四分一；作價較 Instacart 於 10 月 22 日的收市價溢價 26%。DoorDash 表示會保留 Instacart 品牌、應用程式及企業技術產品，交易完成前兩間公司會繼續獨立營運，預計於 2027 年底或 2028 年上半年完成交割。這宗合併將 DoorDash 的餐飲外送網絡與 Instacart 的雜貨平台結合，應對 Uber、Amazon 及 Walmart 等對手的競爭。",
+   "zh_hans": "DoorDash 于星期四宣布，已同意以每股 65 美元、总值约 170 亿美元收购杂货外送对手 Instacart，交易已获两间公司董事会批准。代价至少七成半以现金支付，DoorDash 股票占比上限为四分之一；作价较 Instacart 于 10 月 22 日的收市价溢价 26%。DoorDash 表示会保留 Instacart 品牌、应用程序及企业技术产品，交易完成前两间公司会继续独立营运，预计于 2027 年底或 2028 年上半年完成交割。这宗合并将 DoorDash 的餐饮外送网络与 Instacart 的杂货平台结合，应对 Uber、Amazon 及 Walmart 等对手的竞争。"
   },
-  {
-    "id": "20261030-pag-evergrande-property-stake",
-    "category": "finance",
-    "published_at": "2026-10-30T09:10:00+08:00",
-    "image_url": "https://metrohk.com.hk/static/img/news/prop-news-finance-hkcentralconnaught-1200.jpg",
-    "source": {
-      "name": "都市日報 MetroHK（引述香港電台）",
-      "url": "https://metrohk.com.hk/財經/PAG擬收購恒大物業51-股權-涉資逾40億-326798"
-    },
-    "title": {
-      "en": "PAG to buy 51% stake in Evergrande Property Services for HK$4.03 billion",
-      "zh_hant": "PAG 擬 40.26 億元收購恒大物業 51% 股權　成新控股股東",
-      "zh_hans": "PAG 拟 40.26 亿元收购恒大物业 51% 股权　成新控股股东"
-    },
-    "summary": {
-      "en": "China Evergrande plans to sell a roughly 51% stake in Evergrande Property Services to alternative investment firm PAG for HK$4.026 billion, making PAG the new controlling shareholder. PAG will also make a general offer to other shareholders at HK$0.8359 per share, about 29.5% below Wednesday's closing price. The company says it will stay listed with no major changes to its operations, subject to regulatory approval.",
-      "zh_hant": "中國恒大公布，計劃向另類投資公司 PAG 出售恒大物業約 51% 股權，總代價 40.26 億港元，PAG 將成為恒大物業新控股股東。PAG 同時向其他股東提出全面收購，每股作價 0.8359 元，較周三收市價折讓近三成。恒大物業表示交易完成後會維持上市地位，業務營運暫無重大變動；交易仍待監管機構批准。",
-      "zh_hans": "中国恒大公布，计划向另类投资公司 PAG 出售恒大物业约 51% 股权，总代价 40.26 亿港元，PAG 将成为恒大物业新控股股东。PAG 同时向其他股东提出全面收购，每股作价 0.8359 元，较周三收市价折让近三成。恒大物业表示交易完成后会维持上市地位，业务营运暂无重大变动；交易仍待监管机构批准。"
-    },
-    "tags": {
-      "en": [
-        "PAG",
-        "Evergrande Property",
-        "acquisition"
-      ],
-      "zh_hant": [
-        "PAG",
-        "恒大物業",
-        "收購"
-      ],
-      "zh_hans": [
-        "PAG",
-        "恒大物业",
-        "收购"
-      ]
-    }
-  },
-  {
-    "id": "20261030-north-korea-missiles-wonsan",
-    "category": "world",
-    "published_at": "2026-10-30T05:16:00+08:00",
-    "image_url": "",
-    "source": {
-      "name": "AnewZ",
-      "url": "https://anewz.tv/world/world-news/26051/north-korea-fires-around-10-ballistic-missiles/news"
-    },
-    "title": {
-      "en": "North Korea fires around 10 ballistic missiles off east coast, Seoul says",
-      "zh_hant": "北韓向東部海域發射約 10 枚彈道導彈　首爾稱射程約 250 公里",
-      "zh_hans": "北韩向东部海域发射约 10 枚弹道导弹　首尔称射程约 250 公里"
-    },
-    "summary": {
-      "en": "South Korea's Joint Chiefs of Staff said North Korea fired around 10 short-range ballistic missiles from near Wonsan on its east coast at about 12:30pm Thursday, each flying roughly 250km into the eastern waters. Japan's defence ministry also detected the suspected launches, saying the projectiles fell outside Japan's exclusive economic zone. Seoul's presidential National Security Office held an emergency meeting; it was Pyongyang's first ballistic missile test since October 12 and its more than 10th weapons test this year.",
-      "zh_hant": "韓國聯合參謀本部表示，北韓於星期四中午約 12 時半，從東岸元山一帶向東部海域發射約 10 枚短程彈道導彈，每枚飛行約 250 公里。日本防衛省亦偵測到疑似彈道導彈發射，指物體落在日本專屬經濟區之外。韓國總統府國家安全室召開緊急會議評估局勢；這是北韓自 10 月 12 日以來再次試射導彈，今年已超過 10 次。",
-      "zh_hans": "韩国联合参谋本部表示，北韩于星期四中午约 12 时半，从东岸元山一带向东部海域发射约 10 枚短程弹道导弹，每枚飞行约 250 公里。日本防卫省亦侦测到疑似弹道导弹发射，指物体落在日本专属经济区之外。韩国总统府国家安全室召开紧急会议评估局势；这是北韩自 10 月 12 日以来再次试射导弹，今年已超过 10 次。"
-    },
-    "tags": {
-      "en": [
-        "North Korea",
-        "ballistic missiles",
-        "Korean Peninsula"
-      ],
-      "zh_hant": [
-        "北韓",
-        "彈道導彈",
-        "朝鮮半島"
-      ],
-      "zh_hans": [
-        "北韩",
-        "弹道导弹",
-        "朝鲜半岛"
-      ]
-    }
+  "tags": {
+   "en": [
+    "DoorDash",
+    "Instacart",
+    "M&A"
+   ],
+   "zh_hant": [
+    "DoorDash",
+    "Instacart",
+    "收購"
+   ],
+   "zh_hans": [
+    "DoorDash",
+    "Instacart",
+    "收购"
+   ]
   }
+ },
+ {
+  "id": "20261030-amazon-intel-earnings-selloff",
+  "category": "finance",
+  "published_at": "2026-10-30T06:11:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "TipRanks",
+   "url": "https://www.tipranks.com/news/stock-futures-slip-after-disappointing-earnings-from-amazon-amzn"
+  },
+  "title": {
+   "en": "Amazon, Intel tumble after earnings as AI spending worries investors",
+   "zh_hant": "Amazon 及 Intel 業績後急挫　市場憂慮 AI 開支燒錢",
+   "zh_hans": "Amazon 及 Intel 业绩后急挫　市场忧虑 AI 开支烧钱"
+  },
+  "summary": {
+   "en": "Amazon shares fell more than 6% in after-hours trading on Thursday after the e-commerce giant's third-quarter results missed Wall Street expectations, with revenue of $201.9 billion up 12% and earnings per share of $1.89. Its cloud arm AWS grew 39% to $46 billion, the fastest pace in nearly five years, but investors balked at negative free cash flow of $42.4 billion as the company reaffirmed plans to spend about $220 billion this year, mostly on AI infrastructure. Intel fared worse: third-quarter revenue rose 21% to $16.5 billion, but weak fourth-quarter guidance of $15 billion to $16 billion sent the stock down as much as 20% after hours. The selloff, which also dragged Nasdaq futures lower, capped a bruising week for tech after Alphabet's own spending-fuelled slide.",
+   "zh_hant": "Amazon 星期四收市後公布第三季業績，收入 2019 億美元、按年增長 12%，每股盈利 1.89 美元，雙雙遜於華爾街預期，股價盤後急跌逾 6%。雲業務 AWS 收入大增 39% 至 460 億美元，創近五年最快增速，但公司維持全年約 2200 億美元資本開支（主要投向 AI 基建），過去 12 個月自由現金流轉為負 424 億美元，令投資者卻步。Intel 更慘：第三季收入按年升 21% 至 165 億美元，但第四季指引僅 150 至 160 億美元，遠遜預期，股價盤後最多跌兩成。連同早前 Alphabet 的急跌，科技股迎來難熬一週，納指期貨亦受壓。",
+   "zh_hans": "Amazon 星期四收市后公布第三季业绩，收入 2019 亿美元、按年增长 12%，每股盈利 1.89 美元，双双逊于华尔街预期，股价盘后急跌逾 6%。云业务 AWS 收入大增 39% 至 460 亿美元，创近五年最快增速，但公司维持全年约 2200 亿美元资本开支（主要投向 AI 基建），过去 12 个月自由现金流转为负 424 亿美元，令投资者却步。Intel 更惨：第三季收入按年升 21% 至 165 亿美元，但第四季指引仅 150 至 160 亿美元，远逊预期，股价盘后最多跌两成。连同早前 Alphabet 的急跌，科技股迎来难熬一周，纳指期货亦受压。"
+  },
+  "tags": {
+   "en": [
+    "Amazon",
+    "Intel",
+    "Earnings"
+   ],
+   "zh_hant": [
+    "Amazon",
+    "Intel",
+    "業績"
+   ],
+   "zh_hans": [
+    "Amazon",
+    "Intel",
+    "业绩"
+   ]
+  }
+ },
+ {
+  "id": "20261030-dnipro-drone-strike",
+  "category": "world",
+  "published_at": "2026-10-29T17:30:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "Brussels Reporter",
+   "url": "https://brusselsreporter.com/news/2026/russian-drone-strike-dnipro-train/"
+  },
+  "title": {
+   "en": "Russian drone strike on Dnipro train station kills at least 14",
+   "zh_hant": "俄羅斯無人機襲擊第聶伯羅火車站　至少 14 人死亡",
+   "zh_hans": "俄罗斯无人机袭击第聂伯罗火车站　至少 14 人死亡"
+  },
+  "summary": {
+   "en": "A Russian jet-powered drone struck a crowded platform at the main railway station in Dnipro, Ukraine, on Thursday, killing at least 14 people as a commuter train prepared to depart for Zaporizhzhia, Ukrainian officials said. At least 14 more were wounded, including an 11-year-old boy, in what authorities called one of the deadliest single strikes on Ukrainian passenger rail this year. Five more people were killed in daytime strikes elsewhere — two teenage girls in Chernihiv and three in an apartment building in Kremenchuk. President Volodymyr Zelensky posted images of the aftermath and called on the United States, Europe and the G7 to tighten sanctions, while a fragile six-day humanitarian truce in the Kherson region held elsewhere.",
+   "zh_hant": "烏克蘭官員表示，俄羅斯一架噴射式無人機星期四擊中第聶伯羅中央火車站一個擠滿乘客的月台，當時一班開往扎波羅熱的通勤列車正準備出發，至少 14 人死亡。另有至少 14 人受傷，包括一名 11 歲男童，是今年針對烏克蘭客運鐵路最致命的單一襲擊之一。同日其他地區的日間襲擊再造成 5 人死亡，包括車尼希夫兩名十幾歲少女及克列緬丘格一幢住宅大樓 3 人。總統澤連斯基公開現場相片，呼籲美國、歐洲及七國集團收緊對俄制裁；與此同時，赫爾松地區為期六天的人道主義停火仍在維持。",
+   "zh_hans": "乌克兰官员表示，俄罗斯一架喷射式无人机星期四击中第聂伯罗中央火车站一个挤满乘客的月台，当时一班开往扎波罗热的通勤列车正准备出发，至少 14 人死亡。另有至少 14 人受伤，包括一名 11 岁男童，是今年针对乌克兰客运铁路最致命的单一袭击之一。同日其他地区的日间袭击再造成 5 人死亡，包括切尔尼戈夫两名十几岁少女及克列缅丘格一幢住宅大楼 3 人。总统泽连斯基公开现场相片，呼吁美国、欧洲及七国集团收紧对俄制裁；与此同时，赫尔松地区为期六天的人道主义停火仍在维持。"
+  },
+  "tags": {
+   "en": [
+    "Ukraine",
+    "Dnipro",
+    "Russia"
+   ],
+   "zh_hant": [
+    "烏克蘭",
+    "第聶伯羅",
+    "俄羅斯"
+   ],
+   "zh_hans": [
+    "乌克兰",
+    "第聂伯罗",
+    "俄罗斯"
+   ]
+  }
+ },
+ {
+  "id": "20261030-pag-evergrande-property-stake",
+  "category": "finance",
+  "published_at": "2026-10-30T09:10:00+08:00",
+  "image_url": "https://metrohk.com.hk/static/img/news/prop-news-finance-hkcentralconnaught-1200.jpg",
+  "source": {
+   "name": "都市日報 MetroHK（引述香港電台）",
+   "url": "https://metrohk.com.hk/財經/PAG擬收購恒大物業51-股權-涉資逾40億-326798"
+  },
+  "title": {
+   "en": "PAG to buy 51% stake in Evergrande Property Services for HK$4.03 billion",
+   "zh_hant": "PAG 擬 40.26 億元收購恒大物業 51% 股權　成新控股股東",
+   "zh_hans": "PAG 拟 40.26 亿元收购恒大物业 51% 股权　成新控股股东"
+  },
+  "summary": {
+   "en": "China Evergrande plans to sell a roughly 51% stake in Evergrande Property Services to alternative investment firm PAG for HK$4.026 billion, making PAG the new controlling shareholder. PAG will also make a general offer to other shareholders at HK$0.8359 per share, about 29.5% below Wednesday's closing price. The company says it will stay listed with no major changes to its operations, subject to regulatory approval.",
+   "zh_hant": "中國恒大公布，計劃向另類投資公司 PAG 出售恒大物業約 51% 股權，總代價 40.26 億港元，PAG 將成為恒大物業新控股股東。PAG 同時向其他股東提出全面收購，每股作價 0.8359 元，較周三收市價折讓近三成。恒大物業表示交易完成後會維持上市地位，業務營運暫無重大變動；交易仍待監管機構批准。",
+   "zh_hans": "中国恒大公布，计划向另类投资公司 PAG 出售恒大物业约 51% 股权，总代价 40.26 亿港元，PAG 将成为恒大物业新控股股东。PAG 同时向其他股东提出全面收购，每股作价 0.8359 元，较周三收市价折让近三成。恒大物业表示交易完成后会维持上市地位，业务营运暂无重大变动；交易仍待监管机构批准。"
+  },
+  "tags": {
+   "en": [
+    "PAG",
+    "Evergrande Property",
+    "acquisition"
+   ],
+   "zh_hant": [
+    "PAG",
+    "恒大物業",
+    "收購"
+   ],
+   "zh_hans": [
+    "PAG",
+    "恒大物业",
+    "收购"
+   ]
+  }
+ },
+ {
+  "id": "20261030-north-korea-missiles-wonsan",
+  "category": "world",
+  "published_at": "2026-10-30T05:16:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "AnewZ",
+   "url": "https://anewz.tv/world/world-news/26051/north-korea-fires-around-10-ballistic-missiles/news"
+  },
+  "title": {
+   "en": "North Korea fires around 10 ballistic missiles off east coast, Seoul says",
+   "zh_hant": "北韓向東部海域發射約 10 枚彈道導彈　首爾稱射程約 250 公里",
+   "zh_hans": "北韩向东部海域发射约 10 枚弹道导弹　首尔称射程约 250 公里"
+  },
+  "summary": {
+   "en": "South Korea's Joint Chiefs of Staff said North Korea fired around 10 short-range ballistic missiles from near Wonsan on its east coast at about 12:30pm Thursday, each flying roughly 250km into the eastern waters. Japan's defence ministry also detected the suspected launches, saying the projectiles fell outside Japan's exclusive economic zone. Seoul's presidential National Security Office held an emergency meeting; it was Pyongyang's first ballistic missile test since October 12 and its more than 10th weapons test this year.",
+   "zh_hant": "韓國聯合參謀本部表示，北韓於星期四中午約 12 時半，從東岸元山一帶向東部海域發射約 10 枚短程彈道導彈，每枚飛行約 250 公里。日本防衛省亦偵測到疑似彈道導彈發射，指物體落在日本專屬經濟區之外。韓國總統府國家安全室召開緊急會議評估局勢；這是北韓自 10 月 12 日以來再次試射導彈，今年已超過 10 次。",
+   "zh_hans": "韩国联合参谋本部表示，北韩于星期四中午约 12 时半，从东岸元山一带向东部海域发射约 10 枚短程弹道导弹，每枚飞行约 250 公里。日本防卫省亦侦测到疑似弹道导弹发射，指物体落在日本专属经济区之外。韩国总统府国家安全室召开紧急会议评估局势；这是北韩自 10 月 12 日以来再次试射导弹，今年已超过 10 次。"
+  },
+  "tags": {
+   "en": [
+    "North Korea",
+    "ballistic missiles",
+    "Korean Peninsula"
+   ],
+   "zh_hant": [
+    "北韓",
+    "彈道導彈",
+    "朝鮮半島"
+   ],
+   "zh_hans": [
+    "北韩",
+    "弹道导弹",
+    "朝鲜半岛"
+   ]
+  }
+ },
+ {
+  "id": "20261030-customs-cigarette-smuggling-jail",
+  "category": "society",
+  "published_at": "2026-10-30T15:00:00+08:00",
+  "image_url": "https://gia.info.gov.hk/general/202610/30/P2026103000465_photo_1342493.jpg",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/30/P2026103000465.htm"
+  },
+  "title": {
+   "en": "Mainland woman jailed 9 months for smuggling 71,000 duty-not-paid cigarettes",
+   "zh_hant": "內地女旅客走私 7.1 萬支未完稅香煙　判監 9 個月罰款 2,000 元",
+   "zh_hans": "内地女旅客走私 7.1 万支未完税香烟　判监 9 个月罚款 2,000 元"
+  },
+  "summary": {
+   "en": "A 27-year-old Mainland woman who flew into Hong Kong from Bangkok was intercepted at Hong Kong International Airport yesterday, with about 71,000 duty-not-paid cigarettes found in her personal baggage. The haul had an estimated market value of $320,000 and a duty potential of about $240,000. She was sentenced today at the West Kowloon Magistrates' Courts to nine months' imprisonment and fined $2,000. Customs said the custodial sentence carries a strong deterrent effect, and reminded the public that importing, possessing or dealing in duty-not-paid cigarettes carries a maximum penalty of a $2 million fine and seven years' imprisonment.",
+   "zh_hant": "一名 27 歲內地女旅客昨日由泰國曼谷飛抵香港，在香港國際機場被海關截查，行李內搜出約 7.1 萬支未完稅香煙，市值約 32 萬元，應課稅款約 24 萬元。她今日在西九龍裁判法院被判監 9 個月及罰款 2,000 元。海關表示判刑具相當阻嚇作用，反映罪行嚴重性；並提醒市民，進口、管有、處理、售賣或購買未完稅香煙均屬違法，最高可罰款 200 萬元及監禁 7 年。",
+   "zh_hans": "一名 27 岁内地女旅客昨日由泰国曼谷飞抵香港，在香港国际机场被海关截查，行李内搜出约 7.1 万支未完税香烟，市值约 32 万元，应课税款约 24 万元。她今日在西九龙裁判法院被判监 9 个月及罚款 2,000 元。海关表示判刑具相当阻吓作用，反映罪行严重性；并提醒市民，进口、管有、处理、售卖或购买未完税香烟均属违法，最高可罚款 200 万元及监禁 7 年。"
+  },
+  "tags": {
+   "en": [
+    "Customs",
+    "cigarette smuggling",
+    "court"
+   ],
+   "zh_hant": [
+    "海關",
+    "走私香煙",
+    "法庭"
+   ],
+   "zh_hans": [
+    "海关",
+    "走私香烟",
+    "法庭"
+   ]
+  }
+ },
+ {
+  "id": "20261030-hk-shanghai-finance-meeting",
+  "category": "finance",
+  "published_at": "2026-10-30T13:10:00+08:00",
+  "image_url": "https://gia.info.gov.hk/general/202610/30/P2026103000265_photo_1342481.jpg",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/30/P2026103000265.htm"
+  },
+  "title": {
+   "en": "10th Hong Kong-Shanghai financial co-operation meeting held in Shanghai; MOU signed on dispute resolution",
+   "zh_hant": "滬港金融合作第十次工作會議上海舉行　簽備忘錄加強金融糾紛調解合作",
+   "zh_hans": "沪港金融合作第十次工作会议上海举行　签备忘录加强金融纠纷调解合作"
+  },
+  "summary": {
+   "en": "The 10th Working Meeting of Hong Kong-Shanghai Financial Co-operation was held in Shanghai today. Secretary for Financial Services and the Treasury Christopher Hui led Hong Kong's financial regulators in talks with Shanghai counterparts, led by Li Junjie of the Shanghai Office for Advancing International Financial Center Development, on market connectivity, cross-boundary Renminbi business, commodities, gold and futures markets, insurance and talent exchanges. Hui witnessed the signing of an MOU between Hong Kong's Financial Dispute Resolution Centre and its Shanghai counterpart to promote alternative dispute resolution for financial disputes. Hui also met the new chairman of the Shanghai Gold Exchange, Guo Dayong, during the visit.",
+   "zh_hant": "第十屆滬港金融合作工作會議今日在上海舉行。財經事務及庫務局局長許正宇率領本港金融監管機構代表，與上海市推進國際金融中心建設辦公室主任李俊傑等上海方面代表，商討加強兩地金融市場互聯互通、跨境人民幣業務、商品黃金期貨市場、保險合作及人才交流。許正宇見證香港金融糾紛調解中心與上海金融消費糾紛調解中心簽署合作備忘錄，推動金融糾紛替代性爭議解決機制。訪滬期間，許正宇亦會晤上海黃金交易所新任理事長郭大勇。",
+   "zh_hans": "第十届沪港金融合作工作会议今日在上海举行。财经事务及库务局局长许正宇率领本港金融监管机构代表，与上海市推进国际金融中心建设办公室主任李俊杰等上海方面代表，商讨加强两地金融市场互联互通、跨境人民币业务、商品黄金期货市场、保险合作及人才交流。许正宇见证香港金融纠纷调解中心与上海金融消费纠纷调解中心签署合作备忘录，推动金融纠纷替代性争议解决机制。访沪期间，许正宇亦会晤上海黄金交易所新任理事长郭大勇。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong",
+    "Shanghai",
+    "financial co-operation"
+   ],
+   "zh_hant": [
+    "香港",
+    "上海",
+    "金融合作"
+   ],
+   "zh_hans": [
+    "香港",
+    "上海",
+    "金融合作"
+   ]
+  }
+ },
+ {
+  "id": "20261030-hong-kong-2025-yearbook",
+  "category": "hk",
+  "published_at": "2026-10-30T12:30:00+08:00",
+  "image_url": "https://gia.info.gov.hk/general/202610/30/P2026103000293_photo_1342478.jpg",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/30/P2026103000293.htm"
+  },
+  "title": {
+   "en": "New yearbook \"Hong Kong 2025\" goes on sale, priced at $440, featuring Kai Tak Sports Park on cover",
+   "zh_hant": "新年刊《香港 2025》今日開售　封面主打啟德體育園　定價 440 元",
+   "zh_hans": "新年刊《香港 2025》今日开售　封面主打启德体育园　定价 440 元"
+  },
+  "summary": {
+   "en": "The government's latest yearbook, \"Hong Kong 2025\", went on sale today at $440, with the online version available on yearbook.gov.hk. The publication reviews life in Hong Kong in 2025 across the administration, legislature, economy and society. The cover illustration features Kai Tak Sports Park, the largest sports infrastructure project ever commissioned in Hong Kong, which also headlines \"Home of Mega Events\", one of the yearbook's 10 photo sections. Copies are available at the online Government Bookstore and the Information Services Department's Publications Sales Unit in North Point.",
+   "zh_hant": "政府新年刊《香港 2025》今日開售，售價 440 元，網上版同步上載至 yearbook.gov.hk。年刊綜述 2025 年香港在行政、立法、經濟及社會各方面的面貌。封面插圖為香港歷來最大型體育基建項目啟德體育園；全書 10 個圖片專輯之一「盛事之都」亦以體育園為主題。讀者可經網上政府書店或新聞處位於北角的刊物銷售組購買。",
+   "zh_hans": "政府新年刊《香港 2025》今日开售，售价 440 元，网上版同步上载至 yearbook.gov.hk。年刊综述 2025 年香港在行政、立法、经济及社会各方面的面貌。封面插图为香港历来最大型体育基建项目启德体育园；全书 10 个图片专辑之一「盛事之都」亦以体育园为主题。读者可经网上政府书店或新闻处位于北角的刊物销售组购买。"
+  },
+  "tags": {
+   "en": [
+    "yearbook",
+    "Hong Kong 2025",
+    "Kai Tak Sports Park"
+   ],
+   "zh_hant": [
+    "年刊",
+    "香港2025",
+    "啟德體育園"
+   ],
+   "zh_hans": [
+    "年刊",
+    "香港2025",
+    "启德体育园"
+   ]
+  }
+ },
+ {
+  "id": "20261030-strive-and-rise-fifth-cohort",
+  "category": "society",
+  "published_at": "2026-10-30T12:00:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/30/P2026103000242.htm"
+  },
+  "title": {
+   "en": "Strive and Rise Programme opens fifth-cohort recruitment: 4,000 places, $5,000 start-up grant each",
+   "zh_hant": "「共創明『Teen』計劃」第五期今起招募　4,000 名額每人 5,000 元啟動資金",
+   "zh_hans": "「共创明『Teen』计划」第五期今起招募　4,000 名额每人 5,000 元启动资金"
+  },
+  "summary": {
+   "en": "The Strive and Rise Programme today began recruiting 4,000 mentees for its fifth cohort. Led by an interdepartmental task force under the Chief Secretary for Administration, the programme pairs underprivileged junior secondary students with volunteer mentors through a tripartite government-business-community collaboration, offering a one-year intensive foundation training. Each mentee receives $5,000 in start-up financial support, and graduates automatically join the programme's alumni association. Eligible students may apply through their schools or the NGOs assisting the programme.",
+   "zh_hant": "「共創明『Teen』計劃」今日起招募第五期 4,000 名學員。計劃由政務司司長領導的跨部門專責小組制定推行，透過政、商、民三方協作，為基層初中生配對義務友師，提供為期一年密集式基礎培訓。每名學員可獲 5,000 元啟動資金，完成培訓後自動成為校友會會員。合資格學生可經學校或協助推行計劃的非政府機構報名。",
+   "zh_hans": "「共创明『Teen』计划」今日起招募第五期 4,000 名学员。计划由政务司司长领导的跨部门专责小组制定推行，透过政、商、民三方协作，为基层初中生配对义务友师，提供为期一年密集式基础培训。每名学员可获 5,000 元启动资金，完成培训后自动成为校友会会员。合资格学生可经学校或协助推行计划的非政府机构报名。"
+  },
+  "tags": {
+   "en": [
+    "Strive and Rise",
+    "youth",
+    "mentorship"
+   ],
+   "zh_hant": [
+    "共創明Teen計劃",
+    "青年",
+    "友師"
+   ],
+   "zh_hans": [
+    "共创明Teen计划",
+    "青年",
+    "友师"
+   ]
+  }
+ },
+ {
+  "id": "20261030-heated-pools-november",
+  "category": "hk",
+  "published_at": "2026-10-30T15:00:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/30/P2026103000427.htm"
+  },
+  "title": {
+   "en": "Heated water at 30 public swimming pools from November 8",
+   "zh_hant": "康文署 30 個公眾泳池 11 月 8 日起供應暖水",
+   "zh_hans": "康文署 30 个公众泳池 11 月 8 日起供应暖水"
+  },
+  "summary": {
+   "en": "The Leisure and Cultural Services Department announced today that 30 public swimming pools under its management will provide heated water from November 8, so swimmers can keep swimming through the winter. Details of opening arrangements and weekly cleaning schedules are available on the department's website.",
+   "zh_hant": "康樂及文化事務署今日宣布，轄下 30 個公眾游泳池將於 11 月 8 日起供應暖水，方便市民在冬季繼續游泳。各泳池開放安排及每周清潔時間詳情，可查閱康文署網頁。",
+   "zh_hans": "康乐及文化事务署今日宣布，辖下 30 个公众游泳池将于 11 月 8 日起供应暖水，方便市民在冬季继续游泳。各泳池开放安排及每周清洁时间详情，可查阅康文署网页。"
+  },
+  "tags": {
+   "en": [
+    "swimming pools",
+    "LCSD",
+    "winter"
+   ],
+   "zh_hant": [
+    "公眾泳池",
+    "康文署",
+    "冬季"
+   ],
+   "zh_hans": [
+    "公众泳池",
+    "康文署",
+    "冬季"
+   ]
+  }
+ },
+ {
+  "id": "20261030-hkmao-wang-fuk-court-article",
+  "category": "china",
+  "published_at": "2026-10-30T11:48:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "港人講地",
+   "url": "https://www.speakout.hk/焦點新聞/104892/-宏福苑善後-港澳辦發表署名文章-肯定特區政府嚴肅追責問責充分體現擔當和勇氣"
+  },
+  "title": {
+   "en": "HKMAO commentary hails Hong Kong government's accountability over Wang Fuk Court fire",
+   "zh_hant": "港澳辦「港澳平」發文　肯定特區政府嚴肅追責問責　展現擔當勇氣",
+   "zh_hans": "港澳办「港澳平」发文　肯定特区政府严肃追责问责　展现担当勇气"
+  },
+  "summary": {
+   "en": "The Hong Kong and Macao Affairs Office published a commentary under the byline \"Gang Ao Ping\" today, endorsing the Hong Kong government's handling of the Wang Fuk Court fire. It said the government's public apology, criminal prosecutions, administrative accountability and the political responsibility taken by officials were serious, fair and proportionate, fully demonstrating a responsible government's courage. The article noted 99.3% of affected owners have accepted the government's buyout offer, and said the building-maintenance loopholes exposed by the fire are deep-rooted institutional problems accumulated over years that can only be fixed through thorough systemic reform.",
+   "zh_hant": "中央港澳辦、國務院港澳辦今日發表署名「港澳平」文章，肯定特區政府就大埔宏福苑火災向公眾道歉，並按獨立委員會報告作出刑事追責、行政問責及政治責任承擔。文章形容三個層面的追責問責嚴肅認真、實事求是、責罰相適，充分體現負責任政府的擔當和勇氣。文章又指，已有 99.3% 宏福苑業主接受政府收購方案；火災暴露的樓宇維修制度漏洞及監管權責不清，屬長期積累的體制深層次問題，必須「刮骨療傷」深化系統性改革才能根治。",
+   "zh_hans": "中央港澳办、国务院港澳办今日发表署名「港澳平」文章，肯定特区政府就大埔宏福苑火灾向公众道歉，并按独立委员会报告作出刑事追责、行政问责及政治责任承担。文章形容三个层面的追责问责严肃认真、实事求是、责罚相适，充分体现负责任政府的担当和勇气。文章又指，已有 99.3% 宏福苑业主接受政府收购方案；火灾暴露的楼宇维修制度漏洞及监管权责不清，属长期积累的体制深层次问题，必须「刮骨疗伤」深化系统性改革才能根治。"
+  },
+  "tags": {
+   "en": [
+    "HKMAO",
+    "Wang Fuk Court",
+    "accountability"
+   ],
+   "zh_hant": [
+    "港澳辦",
+    "宏福苑",
+    "問責"
+   ],
+   "zh_hans": [
+    "港澳办",
+    "宏福苑",
+    "问责"
+   ]
+  }
+ }
 ]
