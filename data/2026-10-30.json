@@ -775,5 +775,190 @@
     "托莱多"
    ]
   }
+ },
+ {
+  "id": "20261030-cathay-amadeus-data-breach",
+  "category": "tech",
+  "published_at": "2026-10-30T18:30:00+08:00",
+  "image_url": "https://cdn.pcmarket.com.hk/wp-content/uploads/2026/10/30173015/PCM_Banner_1080_20261030_cathy_pacific.jpg",
+  "source": {
+   "name": "PC Market",
+   "url": "https://www.pcmarket.com.hk/cathay-pacific-amadeus-data-breach-2026/"
+  },
+  "title": {
+   "en": "Cathay Pacific says 53,000 bookings affected as travel tech supplier Amadeus is breached",
+   "zh_hant": "國泰第三方系統商 Amadeus 疑遭入侵　5.3 萬宗預訂資料或外洩",
+   "zh_hans": "国泰第三方系统商 Amadeus 疑遭入侵　5.3 万宗预订资料或外泄"
+  },
+  "summary": {
+   "en": "Cathay Pacific said on Thursday that its travel technology supplier Amadeus had reported unauthorised access to its systems between August 2023 and September 2026, affecting about 53,000 Cathay-related bookings. The data accessed mainly comprised booking reference numbers, passenger names and flight details, with a smaller number of cases also involving contact emails, phone numbers, travel document details and frequent flyer numbers. Cathay stressed its own systems and operations were unaffected, that there is currently no evidence of financial data being accessed or of misuse, and that it has notified the privacy regulator and will contact affected customers individually. Japan Airlines reported about 92,000 affected records and ANA about 37,800; Korean Air and Asiana were also hit. IT experts warned the incident is a supply-chain risk and urged travellers to watch out for phishing scams.",
+   "zh_hant": "國泰航空今日（30 日）表示，接獲全球旅遊科技供應商 Amadeus 通報，指其系統於 2023 年 8 月至 2026 年 9 月期間，遭未獲授權人士利用系統帳戶的登入憑證存取旅遊訂位紀錄，約 5.3 萬宗與國泰相關的預訂資料受影響。資料主要包括預訂參考編號、乘客姓名及航班資料，小部分個案另涉電郵、電話、旅遊證件及飛行常客計劃號碼。國泰強調自身系統及營運未受影響，暫無證據顯示財務資料外洩或資料被濫用，已通報私隱專員公署並會個別通知受影響客戶。日航約 9.2 萬宗、全日空約 3.78 萬宗資料亦受影響，大韓航空及韓亞航空同告中招。資訊科技界人士提醒，事件屬典型供應鏈風險，市民須提防釣魚詐騙。",
+   "zh_hans": "国泰航空今日（30 日）表示，接获全球旅游科技供应商 Amadeus 通报，指其系统于 2023 年 8 月至 2026 年 9 月期间，遭未获授权人士利用系统账户的登录凭证存取旅游订位纪录，约 5.3 万宗与国泰相关的预订资料受影响。资料主要包括预订参考编号、乘客姓名及航班资料，小部分个案另涉电邮、电话、旅游证件及飞行常客计划号码。国泰强调自身系统及营运未受影响，暂无证据显示财务资料外泄或资料被滥用，已通报隐私专员公署并会个别通知受影响客户。日航约 9.2 万宗、全日空约 3.78 万宗资料亦受影响，大韩航空及韩亚航空同告中招。资讯科技界人士提醒，事件属典型供应链风险，市民须提防钓鱼诈骗。"
+  },
+  "tags": {
+   "en": [
+    "Cathay Pacific",
+    "Amadeus",
+    "data breach"
+   ],
+   "zh_hant": [
+    "國泰航空",
+    "Amadeus",
+    "資料外洩"
+   ],
+   "zh_hans": [
+    "国泰航空",
+    "Amadeus",
+    "资料外泄"
+   ]
+  }
+ },
+ {
+  "id": "20261030-binance-hack-63b",
+  "category": "finance",
+  "published_at": "2026-10-30T14:24:00+08:00",
+  "image_url": "https://whaleagent.io/_emdash/api/media/file/01M65QSER2Z8Y38ZHYJXP8Q71K.jpg?v=1793341587",
+  "source": {
+   "name": "Whale Agent",
+   "url": "https://whaleagent.io/posts/binance-hack-north-korea-tradertraitor"
+  },
+  "title": {
+   "en": "Binance confirms about US$6.3 billion stolen in hack, analysts point to North Korea",
+   "zh_hant": "幣安約 63 億美元加密貨幣被盜　分析公司指向北韓黑客",
+   "zh_hans": "币安约 63 亿美元加密货币被盗　分析公司指向北韩黑客"
+  },
+  "summary": {
+   "en": "Binance has confirmed that about US$6.3 billion of crypto assets were affected in its latest security incident, potentially the largest cryptocurrency heist on record, with around US$3 billion already frozen on-chain. Several blockchain analytics firms told CNN and CNBC they attribute the theft to North Korea's state-backed TraderTraitor group with \"high confidence\"; Binance did not comment directly on the link and said it is working with law enforcement. Its preliminary investigation suggests the attack began with a compromised engineer's laptop that let the attacker reach a service container and submit unauthorised withdrawal transactions; no evidence of private key leaks has been found. Binance pledged to cover all losses with its SAFU fund and company funds, suspended deposits and withdrawals during the security review, and expects withdrawals to resume in about 45 hours.",
+   "zh_hant": "全球最大加密貨幣交易所幣安確認，今次安全事件影響約 63 億美元資產，或成歷來最大宗加密貨幣盜竊案，約 30 億美元已在鏈上凍結。多間區塊鏈分析公司向 CNN 及 CNBC 表示，以「高度信心」把案件歸咎於北韓國家支持的黑客組織 TraderTraitor；幣安未有直接評論，只稱正與執法部門合作。初步調查指攻擊始於一名工程師被入侵的筆記型電腦，黑客藉此進入服務容器提交未經授權的提款交易；幣安稱未發現錢包私鑰外洩證據，承諾以 SAFU 基金及公司資金承擔全部損失。平台在安全檢查期間一度暫停存提款，幣安預計約 45 小時後恢復提款。",
+   "zh_hans": "全球最大加密货币交易所币安确认，今次安全事件影响约 63 亿美元资产，或成历来最大宗加密货币盗窃案，约 30 亿美元已在链上冻结。多间区块链分析公司向 CNN 及 CNBC 表示，以「高度信心」把案件归咎于北韩国家支持的黑客组织 TraderTraitor；币安未有直接评论，只称正与执法部门合作。初步调查指攻击始于一名工程师被入侵的笔记型电脑，黑客藉此进入服务容器提交未经授权的提款交易；币安称未发现钱包私钥外泄证据，承诺以 SAFU 基金及公司资金承担全部损失。平台在安全检查期间一度暂停存提款，币安预计约 45 小时后恢复提款。"
+  },
+  "tags": {
+   "en": [
+    "Binance",
+    "hack",
+    "cryptocurrency"
+   ],
+   "zh_hant": [
+    "幣安",
+    "黑客攻擊",
+    "加密貨幣"
+   ],
+   "zh_hans": [
+    "币安",
+    "黑客攻击",
+    "加密货币"
+   ]
+  }
+ },
+ {
+  "id": "20261030-japan-data-breaches",
+  "category": "tech",
+  "published_at": "2026-10-30T18:18:00+08:00",
+  "image_url": "https://n.sinaimg.cn/spider20261030/300/w660h440/20261030/e338-01d8360ec055da310582c248ee66a3ef.jpg",
+  "source": {
+   "name": "新浪財經（IT之家）",
+   "url": "https://finance.sina.cn/stock/jdts/2026-10-30/detail-iniwzazs2263969.d.html"
+  },
+  "title": {
+   "en": "MUJI app breach may expose 27.26 million customer records as Japanese firms report hacks",
+   "zh_hant": "無印良品 App 疑外洩 2,726 萬條客戶資料　日本多間企業同日通報遭黑客入侵",
+   "zh_hans": "无印良品 App 疑外泄 2,726 万条客户资料　日本多间企业同日通报遭黑客入侵"
+  },
+  "summary": {
+   "en": "Ryohin Keikaku, the operator of MUJI, said on Thursday that its official MUJI app had been illegally accessed, potentially exposing up to about 27.26 million customer records, including email addresses, dates of birth and gender, with former members also affected; credit card information, names, addresses and phone numbers were not involved. The company said no misuse had been confirmed so far and warned customers to watch out for spoof emails; the disclosure came during the \"MUJI Week\" sale period. On the same day, beef-bowl chain Matsuya said its app management system had been breached, potentially exposing up to 2.38 million customer records. Japan's NICT noted that at least some of the recent wave of breaches are linked to \"A2B\" (app-to-backend) attack techniques targeting servers behind Android apps.",
+   "zh_hant": "營運無印良品的日本良品計劃今日（30 日）公布，官方 MUJI App 遭外部非法存取，最多約 2,726 萬條客戶資料可能外洩，包括電郵地址、出生日期及性別，已退會用戶亦受影響；信用卡資料、姓名、地址及電話則不在其列，公司暫未發現資料被濫用，呼籲提防冒名電郵。公布正值「無印良品週間」促銷期。同日牛丼連鎖店松屋亦公布，其 App 管理系統遭入侵，最多約 238 萬人資料外洩。日本情報通信研究機構（NICT）指出，近期一連串事件至少部分與針對 Android App 後端系統的「A2B」攻擊手法有關。",
+   "zh_hans": "营运无印良品的日本良品计划今日（30 日）公布，官方 MUJI App 遭外部非法存取，最多约 2,726 万条客户资料可能外泄，包括电邮地址、出生日期及性别，已退会用户亦受影响；信用卡资料、姓名、地址及电话则不在其列，公司暂未发现资料被滥用，呼吁提防冒名电邮。公布正值「无印良品周」促销期。同日牛丼连锁店松屋亦公布，其 App 管理系统遭入侵，最多约 238 万人资料外泄。日本情报通信研究机构（NICT）指出，近期一连串事件至少部分与针对 Android App 后端系统的「A2B」攻击手法有关。"
+  },
+  "tags": {
+   "en": [
+    "MUJI",
+    "data breach",
+    "Japan"
+   ],
+   "zh_hant": [
+    "無印良品",
+    "資料外洩",
+    "日本"
+   ],
+   "zh_hans": [
+    "无印良品",
+    "资料外泄",
+    "日本"
+   ]
+  }
+ },
+ {
+  "id": "20261030-patrick-stewart-dies",
+  "category": "entertainment",
+  "published_at": "2026-10-30T16:47:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "NPR（KNKX）",
+   "url": "https://www.knkx.org/2026-10-30/patrick-stewart-star-trek-and-x-men-star-dies-at-86"
+  },
+  "title": {
+   "en": "Patrick Stewart, Star Trek's Captain Picard and X-Men's Professor X, dies at 86",
+   "zh_hant": "「畢凱艦長」派崔克·史都華逝世　終年 86 歲",
+   "zh_hans": "「毕凯舰长」派崔克·史都华逝世　终年 86 岁"
+  },
+  "summary": {
+   "en": "British actor Patrick Stewart died at his home in Los Angeles on Wednesday at the age of 86. His family announced the news on Thursday via his official social media accounts, saying he had been on a \"brief and poignant journey\" with Alzheimer's disease and Lewy body dementia, with his wife Sunny Ozell by his side; his longtime spokesperson Kelly Bush Novak confirmed his illnesses had not previously been disclosed. Born in 1940 into a working-class family in Mirfield, Yorkshire, Stewart became a celebrated Shakespearean stage actor before finding global fame in middle age as Captain Jean-Luc Picard in \"Star Trek: The Next Generation\" and Professor Charles Xavier in the \"X-Men\" films. He was knighted in 2010, and tributes poured in on social media, including from the Academy of Motion Picture Arts and Sciences. He is reported to have completed filming on the upcoming \"Avengers: Doomsday\".",
+   "zh_hant": "英國傳奇演員派崔克·史都華（Patrick Stewart）於美國時間星期三（28 日）在洛杉磯家中逝世，終年 86 歲。家屬昨日透過其官方社交帳號公布消息，指他經歷「短暫而令人心痛的」阿茲海默症及路易氏體失智症病程，離世時妻子 Sunny Ozell 陪伴在側；長期發言人 Kelly Bush Novak 證實，他生前並未公開病情。史都華 1940 年生於約克郡米爾菲爾德的工人家庭，以莎劇舞台成名，中年憑《星空奇遇記：銀河飛龍》的畢凱艦長及《變種特攻》系列的 X 教授紅遍全球，2010 年獲英女王封爵。美國影藝學院等在社交平台致哀；據報他生前已拍畢將於今秋上映的《復仇者聯盟：末日之戰》。",
+   "zh_hans": "英国传奇演员派崔克·史都华（Patrick Stewart）于美国时间星期三（28 日）在洛杉矶家中逝世，终年 86 岁。家属昨日透过其官方社交账号公布消息，指他经历「短暂而令人心痛的」阿兹海默症及路易氏体失智症病程，离世时妻子 Sunny Ozell 陪伴在侧；长期发言人 Kelly Bush Novak 证实，他生前并未公开病情。史都华 1940 年生于约克郡米尔菲尔德的工人家庭，以莎剧舞台成名，中年凭《星空奇遇记：银河飞龙》的毕凯舰长及《变种特攻》系列的 X 教授红遍全球，2010 年获英女王封爵。美国影艺学院等在社交平台致哀；据报他生前已拍毕将于今秋上映的《复仇者联盟：末日之战》。"
+  },
+  "tags": {
+   "en": [
+    "Patrick Stewart",
+    "Star Trek",
+    "obituary"
+   ],
+   "zh_hant": [
+    "派崔克·史都華",
+    "星空奇遇記",
+    "逝世"
+   ],
+   "zh_hans": [
+    "派崔克·史都华",
+    "星空奇遇记",
+    "逝世"
+   ]
+  }
+ },
+ {
+  "id": "20261030-abby-choi-trial-day27",
+  "category": "society",
+  "published_at": "2026-10-30T11:00:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "庭刊",
+   "url": "https://hkcourtnews.com/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88%EF%BD%9C%E9%84%BA%E7%90%83%E6%94%B9%E8%AA%8D%E3%80%8C%E9%98%BB%E6%AD%A2%E5%90%88%E6%B3%95%E5%9F%8B%E8%91%AC%E5%B1%8D%E9%AB%94%E3%80%8D%E7%BD%AA%E3%80%80%E9%84%BA/"
+  },
+  "title": {
+   "en": "Abby Choi murder trial day 27: Kwong Kau pleads guilty to preventing lawful burial",
+   "zh_hant": "蔡天鳳案第 27 日審訊　鄺球改認阻止合法埋葬屍體罪",
+   "zh_hans": "蔡天凤案第 27 日审讯　邝球改认阻止合法埋葬尸体罪"
+  },
+  "summary": {
+   "en": "The High Court trial over the murder of Abby Choi reached its 27th day on Friday with a turn: Kwong Kau, the victim's former father-in-law, changed his plea to guilty on the charge of preventing the lawful burial of a body, while continuing to deny murder. Kwong Chi (the ex-husband) and Kwong Kong-kit (the ex-brother-in-law) had already pleaded guilty to the same count; the murder charges against all three continue to be tried. After the judge gave directions to the jury, the prosecution continued playing CCTV footage showing that Kwong Kong-kit and Kwong Kau had bought large quantities of items — including plastic boxes, a meat grinder, knives, ropes, an electric saw and soup pots — in the two weeks before the killing. The trial continues on Monday.",
+   "zh_hant": "蔡天鳳遇害案今日（30 日）在高等法院踏入第 27 日審訊出現轉折：死者前家翁鄺球就被控的「阻止合法埋葬屍體」罪改為認罪，但繼續否認謀殺罪。死者前夫鄺港智及前大伯鄺港傑早前已承認同一控罪，三人否認的謀殺罪繼續受審。法官向陪審團作出指引後，控方續播放多段閉路電視片段，顯示案發前約兩周，鄺港傑及鄺球分別購入膠箱、絞肉機、刀、麻繩、電鋸、湯煲等大量物品。案件下周一續審。",
+   "zh_hans": "蔡天凤遇害案今日（30 日）在高等法院踏入第 27 日审讯出现转折：死者前家翁邝球就被控的「阻止合法埋葬尸体」罪改为认罪，但继续否认谋杀罪。死者前夫邝港智及前大伯邝港杰早前已承认同一控罪，三人否认的谋杀罪继续受审。法官向陪审团作出指引后，控方续播放多段闭路电视片段，显示案发前约两周，邝港杰及邝球分别购入胶箱、绞肉机、刀、麻绳、电锯、汤煲等大量物品。案件下周一续审。"
+  },
+  "tags": {
+   "en": [
+    "Abby Choi",
+    "murder trial",
+    "court"
+   ],
+   "zh_hant": [
+    "蔡天鳳",
+    "謀殺案審訊",
+    "法庭"
+   ],
+   "zh_hans": [
+    "蔡天凤",
+    "谋杀案审讯",
+    "法庭"
+   ]
+  }
  }
 ]
