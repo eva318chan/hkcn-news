@@ -1,594 +1,816 @@
 [
-  {
-    "id": "20261031-nvidia-megaspeed-spy-probe",
-    "category": "tech",
-    "published_at": "2026-10-30T11:18:00+08:00",
-    "source": {
-      "name": "工商時報",
-      "url": "https://www.ctee.com.tw/news/20261030700810-430704"
-    },
-    "image_url": "",
-    "title": {
-      "en": "NYT: ex-Megaspeed executive probed as Chinese intel asset; Huang says dealings normal",
-      "zh_hant": "紐時：新加坡 Megaspeed 前高層涉為北京蒐集情報　黃仁勳稱往來完全正常",
-      "zh_hans": "纽时：新加坡 Megaspeed 前高层涉为北京搜集情报　黄仁勋称往来完全正常"
-    },
-    "summary": {
-      "en": "The New York Times reported exclusively on Oct 29 that US intelligence is investigating Alice Huang, a former senior executive of Singapore data-centre firm Megaspeed International, whom US officials believe to be a Chinese intelligence asset helping Beijing evade US advanced AI chip export controls and divert Nvidia chips to China. Huang was photographed multiple times with Nvidia CEO Jensen Huang, including at a Taipei bar in June 2024 and a business dinner in May 2025. Jensen Huang responded on the 29th that Nvidia's dealings with Megaspeed were 'completely normal, nothing out of the ordinary,' saying the company had audited every GPU deployment and found no illegal diversion, and that the US government never alerted him to suspicions. The report added that Donald Trump was briefed a year ago but took no action over concerns about the economy and markets; Megaspeed said it has hired outside counsel and is cooperating, while the Commerce Department's probe moved to the Justice Department this year.",
-      "zh_hant": "《紐約時報》10 月 29 日獨家報道，美國情報機構正調查新加坡資料中心公司 Megaspeed 前高層黃樂（Alice Huang），美方認定她是替北京蒐集情報的情報資產，涉嫌協助中國規避美國先進 AI 晶片出口管制、把輝達晶片轉運至中國。黃樂曾多次與輝達行政總裁黃仁勳同框，包括 2024 年 6 月台北科技展後酒吧合照及 2025 年 5 月商務晚餐。黃仁勳 29 日回應指，輝達與 Megaspeed 往來完全正常、毫無異常，已逐一核查對方所有 GPU 部署情況，確認無非法轉運；美國政府事前從未向他通報相關懷疑。報道又指特朗普早於一年前已聽取相關情報簡報，但因擔心影響經濟及股市而未採取行動；Megaspeed 稱已聘請外部法律顧問全面調查並配合美方，商務部的調查今年已移交司法部。",
-      "zh_hans": "《纽约时报》10 月 29 日独家报道，美国情报机构正调查新加坡资料中心公司 Megaspeed 前高层黄乐（Alice Huang），美方认定她是替北京搜集情报的情报资产，涉嫌协助中国规避美国先进 AI 芯片出口管制、把辉达芯片转运至中国。黄乐曾多次与辉达行政总裁黄仁勋同框，包括 2024 年 6 月台北科技展后酒吧合照及 2025 年 5 月商务晚餐。黄仁勋 29 日回应指，辉达与 Megaspeed 往来完全正常、毫无异常，已逐一核查对方所有 GPU 部署情况，确认无非法转运；美国政府事前从未向他通报相关怀疑。报道又指特朗普早于一年前已听取相关情报简报，但因担心影响经济及股市而未采取行动；Megaspeed 称已聘请外部法律顾问全面调查并配合美方，商务部的调查今年已移交司法部。"
-    },
-    "tags": {
-      "en": [
-        "NVIDIA",
-        "Jensen Huang",
-        "chip export controls"
-      ],
-      "zh_hant": [
-        "輝達",
-        "黃仁勳",
-        "晶片出口管制"
-      ],
-      "zh_hans": [
-        "辉达",
-        "黄仁勋",
-        "芯片出口管制"
-      ]
-    }
+ {
+  "id": "20261031-nvidia-megaspeed-spy-probe",
+  "category": "tech",
+  "published_at": "2026-10-30T11:18:00+08:00",
+  "source": {
+   "name": "工商時報",
+   "url": "https://www.ctee.com.tw/news/20261030700810-430704"
   },
-  {
-    "id": "20261031-hegseth-fires-lt-gen-sylvia",
-    "category": "world",
-    "published_at": "2026-10-30T16:07:53+08:00",
-    "source": {
-      "name": "中華網",
-      "url": "https://military.china.com/news/13004177/20261030/49829394.html"
-    },
-    "image_url": "https://img1.utuku.imgcdc.com/650x0/news/20261030/395cbd28-c5de-448d-ac42-7e5f3c419180.jpg",
-    "title": {
-      "en": "Hegseth fires three-star general accused of leaking Iran and Ukraine secrets",
-      "zh_hant": "赫格塞思解僱三星中將西爾維亞　涉洩露伊朗及俄烏機密情報",
-      "zh_hans": "赫格塞思解雇三星中将西尔维亚　涉泄露伊朗及俄乌机密情报"
-    },
-    "summary": {
-      "en": "US news site Axios exclusively published on Oct 29 an internal investigation report alleging that Army Lt Gen Brett Sylvia, director of the Joint Staff's strategy, plans and policy directorate (J5), leaked classified information on the Iran war and the Russia-Ukraine conflict to two journalists over about a year, and admitted it after failing three to four polygraph examinations. Defence Secretary Pete Hegseth removed him for serious misconduct and referred the case to the Justice Department; Pentagon spokesman Sean Parnell stressed 'zero tolerance' for unauthorised disclosures. Two other Pentagon sources told CBS the firing was linked to the polygraph results but disputed the underlying accusations. Sylvia previously commanded the 101st Airborne Division and served in Afghanistan and Iraq; at least 26 senior generals have left since Hegseth took office.",
-      "zh_hant": "美國新聞網站 Axios 10 月 29 日獨家披露內部調查報告，指參謀長聯席會議戰略、計劃與政策局（J5）局長、陸軍中將布雷特·西爾維亞，在約一年時間內向兩間媒體的兩名記者洩露伊朗戰爭及俄烏衝突的機密情報，並在三至四次測謊中未能通過後承認。國防部長赫格塞思以嚴重失當行為為由解除其職務，案件已移交司法部；五角大樓首席發言人帕內爾強調對故意洩露機密「零容忍」。另有兩名五角大樓消息人士向 CBS 表示，解職與測謊結果有關，但質疑相關指控。西爾維亞曾任第 101 空降師師長，多次派駐阿富汗及伊拉克；據統計，赫格塞思上任以來已有至少 26 名高級將領離職。",
-      "zh_hans": "美国新闻网站 Axios 10 月 29 日独家披露内部调查报告，指参谋长联席会议战略、计划与政策局（J5）局长、陆军中将布雷特·西尔维亚，在约一年时间内向两间媒体的两名记者泄露伊朗战争及俄乌冲突的机密情报，并在三至四次测谎中未能通过后承认。国防部长赫格塞思以严重失当行为为由解除其职务，案件已移交司法部；五角大楼首席发言人帕内尔强调对故意泄露机密「零容忍」。另有两名五角大楼消息人士向 CBS 表示，解职与测谎结果有关，但质疑相关指控。西尔维亚曾任第 101 空降师师长，多次派驻阿富汗及伊拉克；据统计，赫格塞思上任以来已有至少 26 名高级将领离职。"
-    },
-    "tags": {
-      "en": [
-        "Pete Hegseth",
-        "Pentagon",
-        "classified leaks"
-      ],
-      "zh_hant": [
-        "赫格塞思",
-        "五角大樓",
-        "洩密"
-      ],
-      "zh_hans": [
-        "赫格塞思",
-        "五角大楼",
-        "泄密"
-      ]
-    }
+  "image_url": "",
+  "title": {
+   "en": "NYT: ex-Megaspeed executive probed as Chinese intel asset; Huang says dealings normal",
+   "zh_hant": "紐時：新加坡 Megaspeed 前高層涉為北京蒐集情報　黃仁勳稱往來完全正常",
+   "zh_hans": "纽时：新加坡 Megaspeed 前高层涉为北京搜集情报　黄仁勋称往来完全正常"
   },
-  {
-    "id": "20261031-mark-six-halloween-snowball",
-    "category": "society",
-    "published_at": "2026-10-29T14:31:08+08:00",
-    "source": {
-      "name": "香港財經時報",
-      "url": "https://www.businesstimes.com.hk/articles/352167/%E5%85%AD%E5%90%88%E5%BD%A9-%E8%90%AC%E8%81%96%E7%AF%80-%E9%A0%AD%E7%8D%8E8%E5%8D%83%E8%90%AC-%E9%87%91%E5%A4%9A%E5%AF%B6-%E4%B8%80%E5%80%8B%E8%99%9F%E7%A2%BC%E5%87%BA%E7%8F%BE5%E6%AC%A1/"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Halloween Mark Six snowball draw tonight, jackpot estimated at HK$80 million",
-      "zh_hant": "萬聖節金多寶今晚 9:30 攪珠　頭獎估計 8,000 萬港元",
-      "zh_hans": "万圣节金多宝今晚 9:30 搅珠　头奖估计 8,000 万港元"
-    },
-    "summary": {
-      "en": "The Hong Kong Jockey Club's Halloween Mark Six snowball draw takes place tonight (Oct 31) at 9:30pm, with a HK$60 million snowball added; a single HK$10 winning ticket could take home an estimated HK$80 million jackpot. Ticket sales close at 9:15pm and the draw airs live on TVB Plus channel 82. The regular Oct 29 draw was suspended to allow more time for ticket sales. Of nine snowball draws held so far in 2026, eight produced jackpot winners, including a single HK$78.19 million payout; statistics show six numbers appeared at least three times, with number 28 the hottest at five appearances.",
-      "zh_hant": "香港賽馬會萬聖節金多寶將於今晚（10 月 31 日）9 時 30 分攪珠，特設 6,000 萬港元金多寶；以 10 港元一注獨中計算，估計頭獎基金高達 8,000 萬港元，截止售票時間為晚上 9 時 15 分，攪珠於 TVB Plus 82 台直播。為預留更多時間供市民投注，原定 10 月 29 日的六合彩攪珠暫停舉行。據統計，2026 年至今舉行 9 次金多寶，其中 8 次頭獎有人中，幸運二金多寶頭獎曾一注獨得逾 7,819 萬港元；當中 6 個號碼至少出現 3 次，「28」號出現 5 次最為當旺。",
-      "zh_hans": "香港赛马会万圣节金多宝将于今晚（10 月 31 日）9 时 30 分搅珠，特设 6,000 万港元金多宝；以 10 港元一注独中计算，估计头奖基金高达 8,000 万港元，截止售票时间为晚上 9 时 15 分，搅珠于 TVB Plus 82 台直播。为预留更多时间供市民投注，原定 10 月 29 日的六合彩搅珠暂停举行。据统计，2026 年至今举行 9 次金多宝，其中 8 次头奖有人中，幸运二金多宝头奖曾一注独得逾 7,819 万港元；当中 6 个号码至少出现 3 次，「28」号出现 5 次最为当旺。"
-    },
-    "tags": {
-      "en": [
-        "Mark Six",
-        "Halloween snowball",
-        "HKJC"
-      ],
-      "zh_hant": [
-        "六合彩",
-        "萬聖節金多寶",
-        "馬會"
-      ],
-      "zh_hans": [
-        "六合彩",
-        "万圣节金多宝",
-        "马会"
-      ]
-    }
+  "summary": {
+   "en": "The New York Times reported exclusively on Oct 29 that US intelligence is investigating Alice Huang, a former senior executive of Singapore data-centre firm Megaspeed International, whom US officials believe to be a Chinese intelligence asset helping Beijing evade US advanced AI chip export controls and divert Nvidia chips to China. Huang was photographed multiple times with Nvidia CEO Jensen Huang, including at a Taipei bar in June 2024 and a business dinner in May 2025. Jensen Huang responded on the 29th that Nvidia's dealings with Megaspeed were 'completely normal, nothing out of the ordinary,' saying the company had audited every GPU deployment and found no illegal diversion, and that the US government never alerted him to suspicions. The report added that Donald Trump was briefed a year ago but took no action over concerns about the economy and markets; Megaspeed said it has hired outside counsel and is cooperating, while the Commerce Department's probe moved to the Justice Department this year.",
+   "zh_hant": "《紐約時報》10 月 29 日獨家報道，美國情報機構正調查新加坡資料中心公司 Megaspeed 前高層黃樂（Alice Huang），美方認定她是替北京蒐集情報的情報資產，涉嫌協助中國規避美國先進 AI 晶片出口管制、把輝達晶片轉運至中國。黃樂曾多次與輝達行政總裁黃仁勳同框，包括 2024 年 6 月台北科技展後酒吧合照及 2025 年 5 月商務晚餐。黃仁勳 29 日回應指，輝達與 Megaspeed 往來完全正常、毫無異常，已逐一核查對方所有 GPU 部署情況，確認無非法轉運；美國政府事前從未向他通報相關懷疑。報道又指特朗普早於一年前已聽取相關情報簡報，但因擔心影響經濟及股市而未採取行動；Megaspeed 稱已聘請外部法律顧問全面調查並配合美方，商務部的調查今年已移交司法部。",
+   "zh_hans": "《纽约时报》10 月 29 日独家报道，美国情报机构正调查新加坡资料中心公司 Megaspeed 前高层黄乐（Alice Huang），美方认定她是替北京搜集情报的情报资产，涉嫌协助中国规避美国先进 AI 芯片出口管制、把辉达芯片转运至中国。黄乐曾多次与辉达行政总裁黄仁勋同框，包括 2024 年 6 月台北科技展后酒吧合照及 2025 年 5 月商务晚餐。黄仁勋 29 日回应指，辉达与 Megaspeed 往来完全正常、毫无异常，已逐一核查对方所有 GPU 部署情况，确认无非法转运；美国政府事前从未向他通报相关怀疑。报道又指特朗普早于一年前已听取相关情报简报，但因担心影响经济及股市而未采取行动；Megaspeed 称已聘请外部法律顾问全面调查并配合美方，商务部的调查今年已移交司法部。"
   },
-  {
-    "id": "20261031-qatar-mediators-tehran-us-iran",
-    "category": "world",
-    "published_at": "2026-10-30T21:48:37+08:00",
-    "source": {
-      "name": "新浪新聞",
-      "url": "https://news.sina.cn/gj/2026-10-31/detail-iniwzprp8041528.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Qatari mediators arrive in Tehran to broker resumption of US-Iran talks",
-      "zh_hant": "卡塔爾調解團抵德黑蘭　斡旋美伊重啟停火談判",
-      "zh_hans": "卡塔尔调解团抵德黑兰　斡旋美伊重启停火谈判"
-    },
-    "summary": {
-      "en": "Iran's IRNA and Al Jazeera report that a Qatari mediation delegation arrived in Tehran on the morning of Oct 30, led by a senior adviser to Qatar's prime minister and foreign minister, to receive Iran's reply to US Vice President JD Vance's letter and to refine a new diplomatic path. Sources say talks could be arranged within a week in Doha or Istanbul. The trip follows Vance's Oct 25 letter to Iran's Supreme National Security Council secretary Mohsen Rezaei proposing a resumption of peace talks; Foreign Minister Araghchi said Tehran still gives diplomacy a chance but insists on its seven conditions and 'seven-day plan'. Meanwhile Trump has warned Gulf allies to prepare for a short, intense military operation after next week's midterm elections.",
-      "zh_hant": "據伊朗伊斯蘭共和國通訊社及半島電視台報道，卡塔爾調解代表團於當地時間 10 月 30 日上午抵達德黑蘭，由卡塔爾首相兼外交大臣穆罕默德的高級顧問帶隊，目的是接收伊朗對美國副總統萬斯信件的答覆，並進一步細化新的外交路徑。消息指雙方可能於一週內安排會談，地點或為多哈或伊斯坦布爾。背景是萬斯 10 月 25 日致信伊朗最高國家安全委員會秘書雷扎伊，提議重啟和平談判；伊朗外長阿拉格齊稱德黑蘭仍願給外交一線機會，但堅持七項條件及「七日方案」。與此同時，特朗普已告誡海灣盟友，為下周中期選舉後一場短促、高強度的軍事行動做好準備。",
-      "zh_hans": "据伊朗伊斯兰共和国通讯社及半岛电视台报道，卡塔尔调解代表团于当地时间 10 月 30 日上午抵达德黑兰，由卡塔尔首相兼外交大臣穆罕默德的高级顾问带队，目的是接收伊朗对美国副总统万斯信件的答复，并进一步细化新的外交路径。消息指双方可能于一周内安排会谈，地点或为多哈或伊斯坦布尔。背景是万斯 10 月 25 日致信伊朗最高国家安全委员会秘书雷扎伊，提议重启和平谈判；伊朗外长阿拉格齐称德黑兰仍愿给外交一线机会，但坚持七项条件及「七日方案」。与此同时，特朗普已告诫海湾盟友，为下周中期选举后一场短促、高强度的军事行动做好准备。"
-    },
-    "tags": {
-      "en": [
-        "US-Iran",
-        "Qatar",
-        "ceasefire talks"
-      ],
-      "zh_hant": [
-        "美伊",
-        "卡塔爾",
-        "停火談判"
-      ],
-      "zh_hans": [
-        "美伊",
-        "卡塔尔",
-        "停火谈判"
-      ]
-    }
-  },
-  {
-    "id": "20261031-china-commerce-ministry-fcc-response",
-    "category": "china",
-    "published_at": "2026-10-30T23:01:18+08:00",
-    "source": {
-      "name": "新浪新聞",
-      "url": "https://news.sina.cn/2026-10-30/detail-iniwzprk5403613.d.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Beijing warns of further countermeasures over FCC's China lab restrictions",
-      "zh_hant": "商務部回應 FCC 檢測實驗室限制措施：如美方一意孤行將進一步反制",
-      "zh_hans": "商务部回应 FCC 检测实验室限制措施：如美方一意孤行将进一步反制"
-    },
-    "summary": {
-      "en": "A Commerce Ministry spokesperson responded to the US Federal Communications Commission's Oct 29 vote to adopt testing-lab restrictions, voicing strong dissatisfaction and firm opposition and noting China has already taken countermeasures. The measure, effective Dec 1 2028, bars authorisation of testing labs, telecom certification bodies and lab accreditation bodies located in China and other so-called 'non-reciprocal economies'. The spokesperson accused the US of ignoring repeated Chinese representations and violating the consensus reached by the two heads of state, seriously harming Chinese and other trading partners' interests and disrupting China-US economic stability and global supply chains; forced 'testing reshoring' will raise compliance costs and lengthen delivery cycles, ultimately hurting US firms and consumers. Beijing urged Washington to immediately revoke the measures, warning it will 'take further necessary measures' if the US persists.",
-      "zh_hant": "商務部發言人就美國聯邦通信委員會（FCC）10 月 29 日投票通過檢測實驗室限制措施答記者問，表示中方強烈不滿、堅決反對，前期已採取反制措施予以回應。該措施自 2028 年 12 月 1 日起，禁止授權位於中國等所謂「非互惠經濟體」的檢測實驗室、電信認證機構及實驗室認可機構。發言人指美方罔顧中方反覆交涉、違背兩國元首達成的重要共識，嚴重損害中方及其他貿易夥伴利益，破壞中美經貿穩定及全球產供鏈；美方強推「檢測回流」將抬高企業檢測成本、拉長交付周期，最終損害美國企業及消費者利益。中方敦促美方立即撤銷有關措施，「如美方一意孤行，中方將進一步採取必要措施」。",
-      "zh_hans": "商务部发言人就美国联邦通信委员会（FCC）10 月 29 日投票通过检测实验室限制措施答记者问，表示中方强烈不满、坚决反对，前期已采取反制措施予以回应。该措施自 2028 年 12 月 1 日起，禁止授权位于中国等所谓「非互惠经济体」的检测实验室、电信认证机构及实验室认可机构。发言人指美方罔顾中方反复交涉、违背两国元首达成的重要共识，严重损害中方及其他贸易伙伴利益，破坏中美经贸稳定及全球产供链；美方强推「检测回流」将抬高企业检测成本、拉长交付周期，最终损害美国企业及消费者利益。中方敦促美方立即撤销有关措施，「如美方一意孤行，中方将进一步采取必要措施」。"
-    },
-    "tags": {
-      "en": [
-        "Commerce Ministry",
-        "FCC",
-        "China-US trade"
-      ],
-      "zh_hant": [
-        "商務部",
-        "FCC",
-        "中美經貿"
-      ],
-      "zh_hans": [
-        "商务部",
-        "FCC",
-        "中美经贸"
-      ]
-    }
-  },
-  {
-    "id": "20261031-turkey-cappadocia-rock-collapse",
-    "category": "world",
-    "published_at": "2026-10-29T23:05:00+08:00",
-    "source": {
-      "name": "新華社",
-      "url": "https://k.sina.cn/article_1699432410_654b47da02001xhm2.html?from=news&subch=onews"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Rock column collapse in Turkey's Cappadocia kills 2, injures 5",
-      "zh_hant": "土耳其卡帕多奇亞石柱坍塌　2 死 5 傷",
-      "zh_hans": "土耳其卡帕多奇亚石柱坍塌　2 死 5 伤"
-    },
-    "summary": {
-      "en": "A natural rock column collapsed on Oct 29 at Cappadocia, Turkey's famous tourist region, killing 2 people and injuring 5, the Turkish justice minister said. The chimney-shaped pillar near the Goreme Open Air Museum broke off and fell into a crowded area shortly after heavy rain hit the region. Authorities have assigned prosecutors to investigate while search and rescue continues; the victims' nationalities have not been disclosed. Balloon tours in Cappadocia have been suspended due to rain, snow and strong winds.",
-      "zh_hant": "土耳其著名旅遊區卡帕多奇亞一處天然石柱10月29日發生坍塌，土耳其司法部長表示事故造成2人死亡、5人受傷。事發地點位於格雷梅露天博物館附近，一處煙囪狀石柱脫落崩塌，跌入人群聚集區域；當地此前剛經歷暴雨。當局已指派檢察機關調查，搜救仍在進行，傷者國籍尚未公布；受雨雪及大風影響，卡帕多奇亞熱氣球項目已暫停營運。",
-      "zh_hans": "土耳其著名旅游区卡帕多奇亚一处天然石柱10月29日发生坍塌，土耳其司法部长表示事故造成2人死亡、5人受伤。事发地点位于格雷梅露天博物馆附近，一处烟囱状石柱脱落崩塌，跌入人群聚集区域；当地此前刚经历暴雨。当局已指派检察机关调查，搜救仍在进行，伤者国籍尚未公布；受雨雪及大风影响，卡帕多奇亚热气球项目已暂停运营。"
-    },
-    "tags": {
-      "en": [
-        "Turkey",
-        "Cappadocia",
-        "rock collapse"
-      ],
-      "zh_hant": [
-        "土耳其",
-        "卡帕多奇亞",
-        "石柱坍塌"
-      ],
-      "zh_hans": [
-        "土耳其",
-        "卡帕多奇亚",
-        "石柱坍塌"
-      ]
-    }
-  },
-  {
-    "id": "20261031-alaska-senate-namesake-controversy",
-    "category": "world",
-    "published_at": "2026-10-29T13:35:00+08:00",
-    "source": {
-      "name": "世界新聞網／自由時報（萬維讀者網）",
-      "url": "https://news.creaders.net/us/2026/10/29/3063476.html"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Alaska Senate race rocked by namesake-candidate row as Trump cries election fraud",
-      "zh_hant": "美中期選舉阿拉斯加州爆「同名」風波　特朗普斥選舉舞弊",
-      "zh_hans": "美中期选举阿拉斯加州爆「同名」风波　特朗普斥选举舞弊"
-    },
-    "summary": {
-      "en": "A New York Times investigation published Oct 28 revealed that people linked to Democrat Mary Peltola's campaign secretly recruited a retired teacher named Daniel J. Sullivan Jr. — the same name as Republican incumbent Senator Dan S. Sullivan — to run in Alaska's Senate race in a bid to siphon votes from the incumbent. Donald Trump called the episode 'election fraud at the highest level' on social media, demanding Peltola be prosecuted and removed from the ballot; her campaign denied recruiting any spoiler candidates. Alaska officials said candidate eligibility is a state matter beyond federal reach, and the state supreme court ruled in June that the namesake candidate may stay on the ballot. With the Nov 3 midterms days away, the row adds uncertainty to a race that could decide Senate control.",
-      "zh_hant": "《紐約時報》10月28日披露，民主黨陣營去年夏天起秘密策劃「選票組成計劃」，找來與爭取連任的共和黨聯邦參議員丹恩·蘇利文（Dan S. Sullivan）同名同姓的退休教師丹恩·小蘇利文（Daniel J. Sullivan Jr.）參選阿拉斯加州參議員，意圖分薄現任議員票源。特朗普28日在社交平台斥責事件是「最高級別的選舉舞弊」，要求起訴民主黨候選人佩爾托拉並將其除名；佩爾托拉陣營否認招募「攪局者」。阿拉斯加州政府回應指候選人資格屬州法事務，聯邦政府無權干預；州最高法院今年6月已裁定小蘇利文可留名選票。11月3日中期選舉在即，事件為可能左右參議院控制權的選戰添上變數。",
-      "zh_hans": "《纽约时报》10月28日披露，民主党阵营去年夏天起秘密策划「选票组成计划」，找来与争取连任的共和党联邦参议员丹恩·苏利文（Dan S. Sullivan）同名同姓的退休教师丹恩·小苏利文（Daniel J. Sullivan Jr.）参选阿拉斯加州参议员，意图分薄现任议员票源。特朗普28日在社交平台斥责事件是「最高级别的选举舞弊」，要求起诉民主党候选人佩尔托拉并将其除名；佩尔托拉阵营否认招募「搅局者」。阿拉斯加州政府回应指候选人资格属州法事务，联邦政府无权干预；州最高法院今年6月已裁定小苏利文可留名选票。11月3日中期选举在即，事件为可能左右参议院控制权的选战添上变数。"
-    },
-    "tags": {
-      "en": [
-        "US midterms",
-        "Alaska",
-        "Donald Trump"
-      ],
-      "zh_hant": [
-        "美國中期選舉",
-        "阿拉斯加",
-        "特朗普"
-      ],
-      "zh_hans": [
-        "美国中期选举",
-        "阿拉斯加",
-        "特朗普"
-      ]
-    }
-  },
-  {
-    "id": "20261031-halloween-weekend-border-transport",
-    "category": "hk",
-    "published_at": "2026-10-30T22:34:00+08:00",
-    "source": {
-      "name": "MetroHK",
-      "url": "https://metrohk.com.hk/港聞/港府擴充萬聖節周末通宵交通及口岸服務-fce185"
-    },
-    "image_url": "https://metrohk.com.hk/static/img/news/prop-news-border-skylineofshenzhenb-1200.jpg",
-    "title": {
-      "en": "Halloween weekend: Shenzhen Bay extends clearance to 2am, Citybus runs overnight B13S",
-      "zh_hant": "萬聖節周末料深宵北上人潮湧現　深圳灣延長通關城巴開通宵線",
-      "zh_hans": "万圣节周末料深宵北上人潮涌现　深圳湾延长通关城巴开通宵线"
-    },
-    "summary": {
-      "en": "Hong Kong authorities and transport operators have rolled out a combined plan to handle crowds over the Halloween weekend, when Lan Kwai Fong street parties, the Wine & Dine Festival and a major concert at Kai Tak are expected to draw large crowds. Shenzhen Bay Port will extend passenger clearance to 2am for two consecutive nights, while cross-border bus operators extend last departures from major urban districts. Citybus will run overnight special route B13S from Central to the 24-hour Huanggang Port on Saturday and Sunday early mornings. Transport chief Mable Chan inspected interchange hubs and pledged extra buses and drivers on standby; officials expect the busiest northbound window at Huanggang to be 11pm-2am from Oct 30 to Nov 1.",
-      "zh_hant": "因應萬聖節周末中環蘭桂坊街頭派對、美酒佳餚巡禮及啟德大型演唱會等活動，港府與公共交通營運商推出綜合疏導方案。深圳灣口岸旅客清關時間連續兩晚延長至凌晨2時，跨境巴士延長由銅鑼灣、灣仔、中環、尖沙咀及旺角等主要市區出發的尾班車時間；城巴於周六及周日凌晨開辦通宵特別路線B13S，由中環直達24小時通關的皇崗口岸。運輸署署長程詠怡視察多個轉乘樞紐，承諾安排後備車輛及司機加密班次；當局預計10月30日至11月1日每晚11時至凌晨2時，為皇崗口岸北行出境最繁忙時段。",
-      "zh_hans": "因应万圣节周末中环兰桂坊街头派对、美酒佳肴巡礼及启德大型演唱会等活动，港府与公共交通营运商推出综合疏导方案。深圳湾口岸旅客清关时间连续两晚延长至凌晨2时，跨境巴士延长由铜锣湾、湾仔、中环、尖沙咀及旺角等主要市区出发的尾班车时间；城巴于周六及周日凌晨开办通宵特别路线B13S，由中环直达24小时通关的皇岗口岸。运输署署长程咏怡视察多个转乘枢纽，承诺安排后备车辆及司机加密班次；当局预计10月30日至11月1日每晚11时至凌晨2时，为皇岗口岸北行出境最繁忙时段。"
-    },
-    "tags": {
-      "en": [
-        "Halloween",
-        "Huanggang Port",
-        "Shenzhen Bay Port"
-      ],
-      "zh_hant": [
-        "萬聖節",
-        "皇崗口岸",
-        "深圳灣口岸"
-      ],
-      "zh_hans": [
-        "万圣节",
-        "皇岗口岸",
-        "深圳湾口岸"
-      ]
-    }
-  },
-  {
-    "id": "20261031-guangming-daily-evening-edition-final",
-    "category": "society",
-    "published_at": "2026-10-29T13:15:00+08:00",
-    "source": {
-      "name": "南洋商報（KLSE Screener）",
-      "url": "https://www.klsescreener.com/v2/news/view/1817965/顺应市场与阅读习惯转变_光明日报_晚报退场_31日最后一期"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Malaysia's last print evening paper bows out as Guangming Daily prints final edition today",
-      "zh_hant": "馬來西亞最後一份紙本晚報　《光明日報》晚報今出最後一期",
-      "zh_hans": "马来西亚最后一份纸本晚报　《光明日報》晚报今出最后一期"
-    },
-    "summary": {
-      "en": "Malaysia's Guangming Daily will print the final edition of its evening paper on Oct 31, ending distribution in northern Malaysia from Nov 1 and closing the chapter on the country's last print evening newspaper. The paper said the move follows changes in market conditions and reading habits, as readers migrate from print to mobile and digital platforms. The Guangming e-paper will continue to publish evening news at 6pm daily, and the paper is urging long-time subscribers to switch to its daily edition.",
-      "zh_hant": "馬來西亞《光明日報》晚報於10月31日出版最後一期，11月1日起停止在北馬地區發行，全國最後一份紙本晚報正式退場。報社表示，決定是順應市場環境與讀者閱讀習慣的轉變，讀者由等報紙送到手上，變成拿起手機即掌握消息。紙本晚報停發後，《光明電子報》將繼續每日下午6時發布晚間新聞，報社亦呼籲長期訂戶轉為支持日報。",
-      "zh_hans": "马来西亚《光明日報》晚报于10月31日出版最后一期，11月1日起停止在北马地区发行，全国最后一份纸本晚报正式退场。报社表示，决定是顺应市场环境与读者阅读习惯的转变，读者由等报纸送到手上，变成拿起手机即掌握消息。纸本晚报停发后，《光明电子报》将继续每日下午6时发布晚间新闻，报社亦呼吁长期订户转为支持日报。"
-    },
-    "tags": {
-      "en": [
-        "Guangming Daily",
-        "evening paper",
-        "Malaysia"
-      ],
-      "zh_hant": [
-        "光明日報",
-        "晚報",
-        "馬來西亞"
-      ],
-      "zh_hans": [
-        "光明日報",
-        "晚报",
-        "马来西亚"
-      ]
-    }
-  },
-  {
-    "id": "20261031-china-pmi-october",
-    "category": "finance",
-    "published_at": "2026-10-31T09:30:17+08:00",
-    "source": {
-      "name": "新浪財經",
-      "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixaray1738624.d.html"
-    },
-    "image_url": "https://n.sinaimg.cn/zhibo/735/w451h284/20261031/9265-b4d0e65c29f126cc96586d0ca1c97bb9.png",
-    "title": {
-      "zh_hant": "10月中國製造業PMI回落至49.3%　重回收縮區間",
-      "zh_hans": "10月中国制造业PMI回落至49.3%　重回收缩区间",
-      "en": "China's October manufacturing PMI falls to 49.3%, back in contraction"
-    },
-    "summary": {
-      "zh_hant": "國家統計局今早公布，10月中國製造業採購經理指數（PMI）為49.3%，較上月下降0.8個百分點，重回榮枯線以下。非製造業商務活動指數和綜合PMI產出指數同為49.7%，企業生產經營活動總體放緩。不過裝備製造、高技術製造等新動能行業延續擴張，對沖整體回落壓力。",
-      "zh_hans": "国家统计局今早公布，10月中国制造业采购经理指数（PMI）为49.3%，较上月下降0.8个百分点，重回荣枯线以下。非制造业商务活动指数和综合PMI产出指数同为49.7%，企业生产经营活动总体放缓。不过装备制造、高技术制造等新动能行业延续扩张，对冲整体回落压力。",
-      "en": "China's National Bureau of Statistics said October manufacturing PMI came in at 49.3%, down 0.8 points from September and back below the 50 expansion-contraction line. The non-manufacturing index and composite output index both stood at 49.7%, signalling a broad slowdown, though equipment and high-tech manufacturing kept expanding and cushioned the decline."
-    },
-    "tags": {
-      "zh_hant": [
-        "採購經理指數",
-        "製造業",
-        "中國經濟"
-      ],
-      "zh_hans": [
-        "采购经理指数",
-        "制造业",
-        "中国经济"
-      ],
-      "en": [
-        "PMI",
-        "manufacturing",
-        "China economy"
-      ]
-    }
-  },
-  {
-    "id": "20261031-china-rare-earth-suspension",
-    "category": "finance",
-    "published_at": "2026-10-31T10:33:48+08:00",
-    "source": {
-      "name": "中華網",
-      "url": "https://3g.china.com/act/news/10000169/20261031/49830230.html"
-    },
-    "image_url": "https://img1.utuku.imgcdc.com/578x0/news/20261030/37b12408-b2a6-4b53-97d0-e106778e2be5.jpg",
-    "title": {
-      "zh_hant": "中國稀土11月2日起停牌　籌劃重大資產重組",
-      "zh_hans": "中国稀土11月2日起停牌　筹划重大资产重组",
-      "en": "China Rare Earth to suspend trading from Nov 2 for major restructuring"
-    },
-    "summary": {
-      "zh_hant": "中國稀土昨晚公告，收到中國稀土集團通知，計劃以發行股份方式購買中稀（涼山）稀土股權並募集配套資金。公司股票自11月2日起停牌，預計不超過10個交易日、即11月16日前披露交易方案。交易構成重大資產重組和關聯交易，但不構成重組上市。",
-      "zh_hans": "中国稀土昨晚公告，收到中国稀土集团通知，计划以发行股份方式购买中稀（凉山）稀土股权并募集配套资金。公司股票自11月2日起停牌，预计不超过10个交易日、即11月16日前披露交易方案。交易构成重大资产重组和关联交易，但不构成重组上市。",
-      "en": "China Rare Earth announced it will suspend trading from November 2 after receiving notice from China Rare Earth Group of a plan to acquire Zhongxi (Liangshan) Rare Earth equity via a share issue plus a fundraising placement. A deal outline is expected within 10 trading days, by November 16. The transaction would be a major asset restructuring and related-party deal, but not a backdoor listing."
-    },
-    "tags": {
-      "zh_hant": [
-        "中國稀土",
-        "停牌",
-        "資產重組"
-      ],
-      "zh_hans": [
-        "中国稀土",
-        "停牌",
-        "资产重组"
-      ],
-      "en": [
-        "China Rare Earth",
-        "trading suspension",
-        "restructuring"
-      ]
-    }
-  },
-  {
-    "id": "20261031-foxconn-openai-cooperation",
-    "category": "tech",
-    "published_at": "2026-10-31T10:31:58+08:00",
-    "source": {
-      "name": "中華網（據路透社報道）",
-      "url": "https://3g.china.com/act/news/10000169/20261031/49830227.html"
-    },
-    "image_url": "",
-    "title": {
-      "zh_hant": "富士康董事長會晤OpenAI奧特曼　洽談新合作",
-      "zh_hans": "富士康董事长会晤OpenAI奥特曼　洽谈新合作",
-      "en": "Foxconn chairman meets OpenAI's Altman to discuss new partnership"
-    },
-    "summary": {
-      "zh_hant": "據路透社報道，富士康董事長劉揚偉透露，已與OpenAI行政總裁奧特曼會面，雙方正推進新合作，細節確認後正式公布。劉揚偉明言AI行業並無泡沫，預計公司明年保持雙位數增長。AI伺服器已成富士康最重要增長引擎，雲計算與網絡產品業務佔第二季營收突破五成。",
-      "zh_hans": "据路透社报道，富士康董事长刘扬伟透露，已与OpenAI行政总裁奥特曼会面，双方正推进新合作，细节确认后正式公布。刘扬伟明言AI行业并无泡沫，预计公司明年保持双位数增长。AI服务器已成富士康最重要增长引擎，云计算与网络产品业务占第二季营收突破五成。",
-      "en": "Reuters reports Foxconn chairman Young Liu met OpenAI CEO Sam Altman, with the two sides advancing a new partnership to be announced once details are confirmed. Liu said the AI industry is not in a bubble and forecast double-digit growth next year. AI servers are now Foxconn's key growth engine, with cloud and networking products topping 50% of second-quarter revenue."
-    },
-    "tags": {
-      "zh_hant": [
-        "富士康",
-        "OpenAI",
-        "AI伺服器"
-      ],
-      "zh_hans": [
-        "富士康",
-        "OpenAI",
-        "AI服务器"
-      ],
-      "en": [
-        "Foxconn",
-        "OpenAI",
-        "AI servers"
-      ]
-    }
-  },
-  {
-    "id": "20261031-eason-chan-recording-ballot",
-    "category": "entertainment",
-    "published_at": "2026-10-30T12:00:00+08:00",
-    "source": {
-      "name": "新假期 WeekendHK",
-      "url": "https://www.weekendhk.com/entertainment/%e9%99%b3%e5%a5%95%e8%bf%85-%e6%bc%94%e5%94%b1%e6%9c%83-%e9%bb%83%e7%89%9b-3532518/"
-    },
-    "image_url": "https://imgs.weekendhk.com/wp-content/uploads/2026/10/179333222025032104_15038560266ae413fcbde4c.jpg",
-    "title": {
-      "zh_hant": "陳奕迅26場錄音騷近500萬人登記　官方報警打擊黃牛",
-      "zh_hans": "陈奕迅26场录音骚近500万人登记　官方报警打击黄牛",
-      "en": "Eason Chan's 26 recording sessions draw nearly 5m ballot entries; organisers report scalpers to police"
-    },
-    "summary": {
-      "zh_hant": "陳奕迅《McDonald's Presents: Recording Sessions with Mr. Eason Chan》26場實體錄音騷，於10月28至29日開放抽籤登記，截至30日深夜錄得逾495萬個登記申請。網上湧現「必中攻略」及黃牛暗盤，主辦單位已報警備案並展開大規模核查，嚴打重複登記及可疑帳戶。大會承諾九成門票作公開發售，首輪中籤結果11月2日公布。",
-      "zh_hans": "陈奕迅《McDonald's Presents: Recording Sessions with Mr. Eason Chan》26场实体录音骚，于10月28至29日开放抽签登记，截至30日深夜录得逾495万个登记申请。网上涌现「必中攻略」及黄牛暗盘，主办单位已报警备案并展开大规模核查，严打重复登记及可疑账户。大会承诺九成门票作公开发售，首轮中签结果11月2日公布。",
-      "en": "Eason Chan's 26 'Recording Sessions' live shows opened ballot registration on October 28-29 and had received over 4.95 million entries by late October 30. With scalpers and bogus 'guaranteed win' guides spreading online, organisers have filed a police report and launched large-scale screening against duplicate and suspicious registrations. Ninety percent of tickets are reserved for public sale, with first-round results out on November 2."
-    },
-    "tags": {
-      "zh_hant": [
-        "陳奕迅",
-        "演唱會",
-        "黃牛"
-      ],
-      "zh_hans": [
-        "陈奕迅",
-        "演唱会",
-        "黄牛"
-      ],
-      "en": [
-        "Eason Chan",
-        "concert",
-        "scalpers"
-      ]
-    }
-  },
-  {
-    "id": "20261031-vinexpo-asia-hong-kong",
-    "category": "hk",
-    "published_at": "2026-10-30T15:02:55+08:00",
-    "source": {
-      "name": "香港政府新聞網",
-      "url": "https://www.news.gov.hk/chi/2026/10/20261030/20261030_150255_290.html"
-    },
-    "image_url": "http://www.news.gov.hk/chi/2026/10/20261030/20261030_150255_290/images/20261030172417137.jpg",
-    "title": {
-      "zh_hant": "Vinexpo Asia連續五年獨家在港舉行　首場明年6月會展上演",
-      "zh_hans": "Vinexpo Asia连续五年独家在港举行　首场明年6月会展上演",
-      "en": "Vinexpo Asia to be held exclusively in Hong Kong for five straight years from 2027"
-    },
-    "summary": {
-      "zh_hant": "旅發局與全球葡萄酒和烈酒展覽主辦機構Vinexposium簽署諒解備忘錄，建立五年策略夥伴關係。國際葡萄酒和烈酒商貿展Vinexpo Asia由明年起至2031年連續五年每年獨家在香港舉行，首場明年6月8至10日在香港會議展覽中心舉行。簽約儀式在文體旅局局長羅淑佩和旅發局主席林建岳見證下完成。",
-      "zh_hans": "旅发局与全球葡萄酒和烈酒展览主办机构Vinexposium签署谅解备忘录，建立五年策略伙伴关系。国际葡萄酒和烈酒商贸展Vinexpo Asia由明年起至2031年连续五年每年独家在香港举行，首场明年6月8至10日在香港会议展览中心举行。签约仪式在文体旅局局长罗淑佩和旅发局主席林建岳见证下完成。",
-      "en": "The Hong Kong Tourism Board and global wine and spirits fair organiser Vinexposium signed an MOU establishing a five-year strategic partnership. Vinexpo Asia will be held exclusively in Hong Kong every year from 2027 to 2031, with the first edition on June 8-10 next year at the Hong Kong Convention and Exhibition Centre. The signing was witnessed by culture, sports and tourism secretary Rosanna Law and HKTB chairman Peter Lam."
-    },
-    "tags": {
-      "zh_hant": [
-        "Vinexpo Asia",
-        "旅發局",
-        "會展"
-      ],
-      "zh_hans": [
-        "Vinexpo Asia",
-        "旅发局",
-        "会展"
-      ],
-      "en": [
-        "Vinexpo Asia",
-        "HKTB",
-        "exhibitions"
-      ]
-    }
-  },
-  {
-    "id": "20261031-hkma-halloween-anti-fraud",
-    "category": "hk",
-    "published_at": "2026-10-29T13:45:46+08:00",
-    "source": {
-      "name": "觀點網",
-      "url": "https://my.guandian.hk/article/20261029/10045733.html"
-    },
-    "image_url": "",
-    "title": {
-      "zh_hant": "金管局萬聖節中環推防騙街頭活動　教跳「絕蕉舞」",
-      "zh_hans": "金管局万圣节中环推防骗街头活动　教跳「绝蕉舞」",
-      "en": "HKMA brings anti-scam street event to Central on Halloween with 'anti-scam dance'"
-    },
-    "summary": {
-      "zh_hant": "金管局今日下午5時至晚上11時在中環皇后大道中（中環街市外）舉辦萬聖節街頭互動體驗活動，即場教授「絕蕉舞」防騙招式，對抗假客服、假公安、假速遞員及交友騙局。警方統計今年首8個月本港錄得近3萬宗騙案，損失逾52億港元，平均每分鐘損失超過15,000港元。",
-      "zh_hans": "金管局今日下午5时至晚上11时在中环皇后大道中（中环街市外）举办万圣节街头互动体验活动，即场教授「绝蕉舞」防骗招式，对抗假客服、假公安、假速递员及交友骗局。警方统计今年首8个月本港录得近3万宗骗案，损失逾52亿港元，平均每分钟损失超过15,000港元。",
-      "en": "The HKMA is staging a Halloween street event outside Central Market on Queen's Road Central from 5pm to 11pm today, teaching an 'anti-scam dance' to fight fake customer-service, fake police, fake courier and romance scams. Police figures show nearly 30,000 scam cases in the first eight months of this year, with losses topping HK$5.2 billion — over HK$15,000 lost every minute."
-    },
-    "tags": {
-      "zh_hant": [
-        "金管局",
-        "防騙",
-        "萬聖節"
-      ],
-      "zh_hans": [
-        "金管局",
-        "防骗",
-        "万圣节"
-      ],
-      "en": [
-        "HKMA",
-        "anti-scam",
-        "Halloween"
-      ]
-    }
-  },
-  {
-    "id": "20261031-kindergarten-halloween-notice",
-    "category": "society",
-    "published_at": "2026-10-30T17:49:04+08:00",
-    "source": {
-      "name": "門徒媒體",
-      "url": "https://apostlesmedia.com/2026/10/30/1030/"
-    },
-    "image_url": "http://apostlesmedia.com/wp-content/uploads/2026/10/IMG_20261028_232255_611.jpg",
-    "title": {
-      "zh_hant": "幼稚園通告籲勿慶祝萬聖節　稱「供奉死神」惹網民熱議",
-      "zh_hans": "幼稚园通告吁勿庆祝万圣节　称「供奉死神」惹网民热议",
-      "en": "Kindergarten notice urging parents to shun Halloween as 'worshipping death' sparks online debate"
-    },
-    "summary": {
-      "zh_hant": "有教會幼稚園發通告呼籲家長「切勿慶祝萬聖節」，聲稱萬聖節源於供奉死神、召喚邪靈的「死節」，「不給糖就搗蛋」實為古代詛咒儀式。有家長將通告上載至Threads，引發近五千人點讚、逾千留言，網民幾乎一面倒批評校方說法極端，反問「聖誕節本是太陽神誕，教會是否也應反對慶祝」。",
-      "zh_hans": "有教会幼稚园发通告呼吁家长「切勿庆祝万圣节」，声称万圣节源于供奉死神、召唤邪灵的「死节」，「不给糖就捣蛋」实为古代诅咒仪式。有家长将通告上载至Threads，引发近五千人点赞、逾千留言，网民几乎一面倒批评校方说法极端，反问「圣诞节本是太阳神诞，教会是否也应反对庆祝」。",
-      "en": "A church-run kindergarten issued a notice urging parents not to celebrate Halloween, claiming the festival originated as a 'festival of death' worshipping the god of death and summoning evil spirits, with trick-or-treating rooted in ancient curses. A parent posted the notice on Threads, drawing nearly 5,000 likes and over 1,000 comments, with netizens overwhelmingly criticising the school as extreme — one asking whether churches should then also oppose Christmas, since December 25 was once a sun-god festival."
-    },
-    "tags": {
-      "zh_hant": [
-        "幼稚園",
-        "萬聖節",
-        "Threads"
-      ],
-      "zh_hans": [
-        "幼稚园",
-        "万圣节",
-        "Threads"
-      ],
-      "en": [
-        "kindergarten",
-        "Halloween",
-        "Threads"
-      ]
-    }
+  "tags": {
+   "en": [
+    "NVIDIA",
+    "Jensen Huang",
+    "chip export controls"
+   ],
+   "zh_hant": [
+    "輝達",
+    "黃仁勳",
+    "晶片出口管制"
+   ],
+   "zh_hans": [
+    "辉达",
+    "黄仁勋",
+    "芯片出口管制"
+   ]
   }
+ },
+ {
+  "id": "20261031-hegseth-fires-lt-gen-sylvia",
+  "category": "world",
+  "published_at": "2026-10-30T16:07:53+08:00",
+  "source": {
+   "name": "中華網",
+   "url": "https://military.china.com/news/13004177/20261030/49829394.html"
+  },
+  "image_url": "https://img1.utuku.imgcdc.com/650x0/news/20261030/395cbd28-c5de-448d-ac42-7e5f3c419180.jpg",
+  "title": {
+   "en": "Hegseth fires three-star general accused of leaking Iran and Ukraine secrets",
+   "zh_hant": "赫格塞思解僱三星中將西爾維亞　涉洩露伊朗及俄烏機密情報",
+   "zh_hans": "赫格塞思解雇三星中将西尔维亚　涉泄露伊朗及俄乌机密情报"
+  },
+  "summary": {
+   "en": "US news site Axios exclusively published on Oct 29 an internal investigation report alleging that Army Lt Gen Brett Sylvia, director of the Joint Staff's strategy, plans and policy directorate (J5), leaked classified information on the Iran war and the Russia-Ukraine conflict to two journalists over about a year, and admitted it after failing three to four polygraph examinations. Defence Secretary Pete Hegseth removed him for serious misconduct and referred the case to the Justice Department; Pentagon spokesman Sean Parnell stressed 'zero tolerance' for unauthorised disclosures. Two other Pentagon sources told CBS the firing was linked to the polygraph results but disputed the underlying accusations. Sylvia previously commanded the 101st Airborne Division and served in Afghanistan and Iraq; at least 26 senior generals have left since Hegseth took office.",
+   "zh_hant": "美國新聞網站 Axios 10 月 29 日獨家披露內部調查報告，指參謀長聯席會議戰略、計劃與政策局（J5）局長、陸軍中將布雷特·西爾維亞，在約一年時間內向兩間媒體的兩名記者洩露伊朗戰爭及俄烏衝突的機密情報，並在三至四次測謊中未能通過後承認。國防部長赫格塞思以嚴重失當行為為由解除其職務，案件已移交司法部；五角大樓首席發言人帕內爾強調對故意洩露機密「零容忍」。另有兩名五角大樓消息人士向 CBS 表示，解職與測謊結果有關，但質疑相關指控。西爾維亞曾任第 101 空降師師長，多次派駐阿富汗及伊拉克；據統計，赫格塞思上任以來已有至少 26 名高級將領離職。",
+   "zh_hans": "美国新闻网站 Axios 10 月 29 日独家披露内部调查报告，指参谋长联席会议战略、计划与政策局（J5）局长、陆军中将布雷特·西尔维亚，在约一年时间内向两间媒体的两名记者泄露伊朗战争及俄乌冲突的机密情报，并在三至四次测谎中未能通过后承认。国防部长赫格塞思以严重失当行为为由解除其职务，案件已移交司法部；五角大楼首席发言人帕内尔强调对故意泄露机密「零容忍」。另有两名五角大楼消息人士向 CBS 表示，解职与测谎结果有关，但质疑相关指控。西尔维亚曾任第 101 空降师师长，多次派驻阿富汗及伊拉克；据统计，赫格塞思上任以来已有至少 26 名高级将领离职。"
+  },
+  "tags": {
+   "en": [
+    "Pete Hegseth",
+    "Pentagon",
+    "classified leaks"
+   ],
+   "zh_hant": [
+    "赫格塞思",
+    "五角大樓",
+    "洩密"
+   ],
+   "zh_hans": [
+    "赫格塞思",
+    "五角大楼",
+    "泄密"
+   ]
+  }
+ },
+ {
+  "id": "20261031-mark-six-halloween-snowball",
+  "category": "society",
+  "published_at": "2026-10-29T14:31:08+08:00",
+  "source": {
+   "name": "香港財經時報",
+   "url": "https://www.businesstimes.com.hk/articles/352167/%E5%85%AD%E5%90%88%E5%BD%A9-%E8%90%AC%E8%81%96%E7%AF%80-%E9%A0%AD%E7%8D%8E8%E5%8D%83%E8%90%AC-%E9%87%91%E5%A4%9A%E5%AF%B6-%E4%B8%80%E5%80%8B%E8%99%9F%E7%A2%BC%E5%87%BA%E7%8F%BE5%E6%AC%A1/"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Halloween Mark Six snowball draw tonight, jackpot estimated at HK$80 million",
+   "zh_hant": "萬聖節金多寶今晚 9:30 攪珠　頭獎估計 8,000 萬港元",
+   "zh_hans": "万圣节金多宝今晚 9:30 搅珠　头奖估计 8,000 万港元"
+  },
+  "summary": {
+   "en": "The Hong Kong Jockey Club's Halloween Mark Six snowball draw takes place tonight (Oct 31) at 9:30pm, with a HK$60 million snowball added; a single HK$10 winning ticket could take home an estimated HK$80 million jackpot. Ticket sales close at 9:15pm and the draw airs live on TVB Plus channel 82. The regular Oct 29 draw was suspended to allow more time for ticket sales. Of nine snowball draws held so far in 2026, eight produced jackpot winners, including a single HK$78.19 million payout; statistics show six numbers appeared at least three times, with number 28 the hottest at five appearances.",
+   "zh_hant": "香港賽馬會萬聖節金多寶將於今晚（10 月 31 日）9 時 30 分攪珠，特設 6,000 萬港元金多寶；以 10 港元一注獨中計算，估計頭獎基金高達 8,000 萬港元，截止售票時間為晚上 9 時 15 分，攪珠於 TVB Plus 82 台直播。為預留更多時間供市民投注，原定 10 月 29 日的六合彩攪珠暫停舉行。據統計，2026 年至今舉行 9 次金多寶，其中 8 次頭獎有人中，幸運二金多寶頭獎曾一注獨得逾 7,819 萬港元；當中 6 個號碼至少出現 3 次，「28」號出現 5 次最為當旺。",
+   "zh_hans": "香港赛马会万圣节金多宝将于今晚（10 月 31 日）9 时 30 分搅珠，特设 6,000 万港元金多宝；以 10 港元一注独中计算，估计头奖基金高达 8,000 万港元，截止售票时间为晚上 9 时 15 分，搅珠于 TVB Plus 82 台直播。为预留更多时间供市民投注，原定 10 月 29 日的六合彩搅珠暂停举行。据统计，2026 年至今举行 9 次金多宝，其中 8 次头奖有人中，幸运二金多宝头奖曾一注独得逾 7,819 万港元；当中 6 个号码至少出现 3 次，「28」号出现 5 次最为当旺。"
+  },
+  "tags": {
+   "en": [
+    "Mark Six",
+    "Halloween snowball",
+    "HKJC"
+   ],
+   "zh_hant": [
+    "六合彩",
+    "萬聖節金多寶",
+    "馬會"
+   ],
+   "zh_hans": [
+    "六合彩",
+    "万圣节金多宝",
+    "马会"
+   ]
+  }
+ },
+ {
+  "id": "20261031-qatar-mediators-tehran-us-iran",
+  "category": "world",
+  "published_at": "2026-10-30T21:48:37+08:00",
+  "source": {
+   "name": "新浪新聞",
+   "url": "https://news.sina.cn/gj/2026-10-31/detail-iniwzprp8041528.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Qatari mediators arrive in Tehran to broker resumption of US-Iran talks",
+   "zh_hant": "卡塔爾調解團抵德黑蘭　斡旋美伊重啟停火談判",
+   "zh_hans": "卡塔尔调解团抵德黑兰　斡旋美伊重启停火谈判"
+  },
+  "summary": {
+   "en": "Iran's IRNA and Al Jazeera report that a Qatari mediation delegation arrived in Tehran on the morning of Oct 30, led by a senior adviser to Qatar's prime minister and foreign minister, to receive Iran's reply to US Vice President JD Vance's letter and to refine a new diplomatic path. Sources say talks could be arranged within a week in Doha or Istanbul. The trip follows Vance's Oct 25 letter to Iran's Supreme National Security Council secretary Mohsen Rezaei proposing a resumption of peace talks; Foreign Minister Araghchi said Tehran still gives diplomacy a chance but insists on its seven conditions and 'seven-day plan'. Meanwhile Trump has warned Gulf allies to prepare for a short, intense military operation after next week's midterm elections.",
+   "zh_hant": "據伊朗伊斯蘭共和國通訊社及半島電視台報道，卡塔爾調解代表團於當地時間 10 月 30 日上午抵達德黑蘭，由卡塔爾首相兼外交大臣穆罕默德的高級顧問帶隊，目的是接收伊朗對美國副總統萬斯信件的答覆，並進一步細化新的外交路徑。消息指雙方可能於一週內安排會談，地點或為多哈或伊斯坦布爾。背景是萬斯 10 月 25 日致信伊朗最高國家安全委員會秘書雷扎伊，提議重啟和平談判；伊朗外長阿拉格齊稱德黑蘭仍願給外交一線機會，但堅持七項條件及「七日方案」。與此同時，特朗普已告誡海灣盟友，為下周中期選舉後一場短促、高強度的軍事行動做好準備。",
+   "zh_hans": "据伊朗伊斯兰共和国通讯社及半岛电视台报道，卡塔尔调解代表团于当地时间 10 月 30 日上午抵达德黑兰，由卡塔尔首相兼外交大臣穆罕默德的高级顾问带队，目的是接收伊朗对美国副总统万斯信件的答复，并进一步细化新的外交路径。消息指双方可能于一周内安排会谈，地点或为多哈或伊斯坦布尔。背景是万斯 10 月 25 日致信伊朗最高国家安全委员会秘书雷扎伊，提议重启和平谈判；伊朗外长阿拉格齐称德黑兰仍愿给外交一线机会，但坚持七项条件及「七日方案」。与此同时，特朗普已告诫海湾盟友，为下周中期选举后一场短促、高强度的军事行动做好准备。"
+  },
+  "tags": {
+   "en": [
+    "US-Iran",
+    "Qatar",
+    "ceasefire talks"
+   ],
+   "zh_hant": [
+    "美伊",
+    "卡塔爾",
+    "停火談判"
+   ],
+   "zh_hans": [
+    "美伊",
+    "卡塔尔",
+    "停火谈判"
+   ]
+  }
+ },
+ {
+  "id": "20261031-china-commerce-ministry-fcc-response",
+  "category": "china",
+  "published_at": "2026-10-30T23:01:18+08:00",
+  "source": {
+   "name": "新浪新聞",
+   "url": "https://news.sina.cn/2026-10-30/detail-iniwzprk5403613.d.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Beijing warns of further countermeasures over FCC's China lab restrictions",
+   "zh_hant": "商務部回應 FCC 檢測實驗室限制措施：如美方一意孤行將進一步反制",
+   "zh_hans": "商务部回应 FCC 检测实验室限制措施：如美方一意孤行将进一步反制"
+  },
+  "summary": {
+   "en": "A Commerce Ministry spokesperson responded to the US Federal Communications Commission's Oct 29 vote to adopt testing-lab restrictions, voicing strong dissatisfaction and firm opposition and noting China has already taken countermeasures. The measure, effective Dec 1 2028, bars authorisation of testing labs, telecom certification bodies and lab accreditation bodies located in China and other so-called 'non-reciprocal economies'. The spokesperson accused the US of ignoring repeated Chinese representations and violating the consensus reached by the two heads of state, seriously harming Chinese and other trading partners' interests and disrupting China-US economic stability and global supply chains; forced 'testing reshoring' will raise compliance costs and lengthen delivery cycles, ultimately hurting US firms and consumers. Beijing urged Washington to immediately revoke the measures, warning it will 'take further necessary measures' if the US persists.",
+   "zh_hant": "商務部發言人就美國聯邦通信委員會（FCC）10 月 29 日投票通過檢測實驗室限制措施答記者問，表示中方強烈不滿、堅決反對，前期已採取反制措施予以回應。該措施自 2028 年 12 月 1 日起，禁止授權位於中國等所謂「非互惠經濟體」的檢測實驗室、電信認證機構及實驗室認可機構。發言人指美方罔顧中方反覆交涉、違背兩國元首達成的重要共識，嚴重損害中方及其他貿易夥伴利益，破壞中美經貿穩定及全球產供鏈；美方強推「檢測回流」將抬高企業檢測成本、拉長交付周期，最終損害美國企業及消費者利益。中方敦促美方立即撤銷有關措施，「如美方一意孤行，中方將進一步採取必要措施」。",
+   "zh_hans": "商务部发言人就美国联邦通信委员会（FCC）10 月 29 日投票通过检测实验室限制措施答记者问，表示中方强烈不满、坚决反对，前期已采取反制措施予以回应。该措施自 2028 年 12 月 1 日起，禁止授权位于中国等所谓「非互惠经济体」的检测实验室、电信认证机构及实验室认可机构。发言人指美方罔顾中方反复交涉、违背两国元首达成的重要共识，严重损害中方及其他贸易伙伴利益，破坏中美经贸稳定及全球产供链；美方强推「检测回流」将抬高企业检测成本、拉长交付周期，最终损害美国企业及消费者利益。中方敦促美方立即撤销有关措施，「如美方一意孤行，中方将进一步采取必要措施」。"
+  },
+  "tags": {
+   "en": [
+    "Commerce Ministry",
+    "FCC",
+    "China-US trade"
+   ],
+   "zh_hant": [
+    "商務部",
+    "FCC",
+    "中美經貿"
+   ],
+   "zh_hans": [
+    "商务部",
+    "FCC",
+    "中美经贸"
+   ]
+  }
+ },
+ {
+  "id": "20261031-turkey-cappadocia-rock-collapse",
+  "category": "world",
+  "published_at": "2026-10-29T23:05:00+08:00",
+  "source": {
+   "name": "新華社",
+   "url": "https://k.sina.cn/article_1699432410_654b47da02001xhm2.html?from=news&subch=onews"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Rock column collapse in Turkey's Cappadocia kills 2, injures 5",
+   "zh_hant": "土耳其卡帕多奇亞石柱坍塌　2 死 5 傷",
+   "zh_hans": "土耳其卡帕多奇亚石柱坍塌　2 死 5 伤"
+  },
+  "summary": {
+   "en": "A natural rock column collapsed on Oct 29 at Cappadocia, Turkey's famous tourist region, killing 2 people and injuring 5, the Turkish justice minister said. The chimney-shaped pillar near the Goreme Open Air Museum broke off and fell into a crowded area shortly after heavy rain hit the region. Authorities have assigned prosecutors to investigate while search and rescue continues; the victims' nationalities have not been disclosed. Balloon tours in Cappadocia have been suspended due to rain, snow and strong winds.",
+   "zh_hant": "土耳其著名旅遊區卡帕多奇亞一處天然石柱10月29日發生坍塌，土耳其司法部長表示事故造成2人死亡、5人受傷。事發地點位於格雷梅露天博物館附近，一處煙囪狀石柱脫落崩塌，跌入人群聚集區域；當地此前剛經歷暴雨。當局已指派檢察機關調查，搜救仍在進行，傷者國籍尚未公布；受雨雪及大風影響，卡帕多奇亞熱氣球項目已暫停營運。",
+   "zh_hans": "土耳其著名旅游区卡帕多奇亚一处天然石柱10月29日发生坍塌，土耳其司法部长表示事故造成2人死亡、5人受伤。事发地点位于格雷梅露天博物馆附近，一处烟囱状石柱脱落崩塌，跌入人群聚集区域；当地此前刚经历暴雨。当局已指派检察机关调查，搜救仍在进行，伤者国籍尚未公布；受雨雪及大风影响，卡帕多奇亚热气球项目已暂停运营。"
+  },
+  "tags": {
+   "en": [
+    "Turkey",
+    "Cappadocia",
+    "rock collapse"
+   ],
+   "zh_hant": [
+    "土耳其",
+    "卡帕多奇亞",
+    "石柱坍塌"
+   ],
+   "zh_hans": [
+    "土耳其",
+    "卡帕多奇亚",
+    "石柱坍塌"
+   ]
+  }
+ },
+ {
+  "id": "20261031-alaska-senate-namesake-controversy",
+  "category": "world",
+  "published_at": "2026-10-29T13:35:00+08:00",
+  "source": {
+   "name": "世界新聞網／自由時報（萬維讀者網）",
+   "url": "https://news.creaders.net/us/2026/10/29/3063476.html"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Alaska Senate race rocked by namesake-candidate row as Trump cries election fraud",
+   "zh_hant": "美中期選舉阿拉斯加州爆「同名」風波　特朗普斥選舉舞弊",
+   "zh_hans": "美中期选举阿拉斯加州爆「同名」风波　特朗普斥选举舞弊"
+  },
+  "summary": {
+   "en": "A New York Times investigation published Oct 28 revealed that people linked to Democrat Mary Peltola's campaign secretly recruited a retired teacher named Daniel J. Sullivan Jr. — the same name as Republican incumbent Senator Dan S. Sullivan — to run in Alaska's Senate race in a bid to siphon votes from the incumbent. Donald Trump called the episode 'election fraud at the highest level' on social media, demanding Peltola be prosecuted and removed from the ballot; her campaign denied recruiting any spoiler candidates. Alaska officials said candidate eligibility is a state matter beyond federal reach, and the state supreme court ruled in June that the namesake candidate may stay on the ballot. With the Nov 3 midterms days away, the row adds uncertainty to a race that could decide Senate control.",
+   "zh_hant": "《紐約時報》10月28日披露，民主黨陣營去年夏天起秘密策劃「選票組成計劃」，找來與爭取連任的共和黨聯邦參議員丹恩·蘇利文（Dan S. Sullivan）同名同姓的退休教師丹恩·小蘇利文（Daniel J. Sullivan Jr.）參選阿拉斯加州參議員，意圖分薄現任議員票源。特朗普28日在社交平台斥責事件是「最高級別的選舉舞弊」，要求起訴民主黨候選人佩爾托拉並將其除名；佩爾托拉陣營否認招募「攪局者」。阿拉斯加州政府回應指候選人資格屬州法事務，聯邦政府無權干預；州最高法院今年6月已裁定小蘇利文可留名選票。11月3日中期選舉在即，事件為可能左右參議院控制權的選戰添上變數。",
+   "zh_hans": "《纽约时报》10月28日披露，民主党阵营去年夏天起秘密策划「选票组成计划」，找来与争取连任的共和党联邦参议员丹恩·苏利文（Dan S. Sullivan）同名同姓的退休教师丹恩·小苏利文（Daniel J. Sullivan Jr.）参选阿拉斯加州参议员，意图分薄现任议员票源。特朗普28日在社交平台斥责事件是「最高级别的选举舞弊」，要求起诉民主党候选人佩尔托拉并将其除名；佩尔托拉阵营否认招募「搅局者」。阿拉斯加州政府回应指候选人资格属州法事务，联邦政府无权干预；州最高法院今年6月已裁定小苏利文可留名选票。11月3日中期选举在即，事件为可能左右参议院控制权的选战添上变数。"
+  },
+  "tags": {
+   "en": [
+    "US midterms",
+    "Alaska",
+    "Donald Trump"
+   ],
+   "zh_hant": [
+    "美國中期選舉",
+    "阿拉斯加",
+    "特朗普"
+   ],
+   "zh_hans": [
+    "美国中期选举",
+    "阿拉斯加",
+    "特朗普"
+   ]
+  }
+ },
+ {
+  "id": "20261031-halloween-weekend-border-transport",
+  "category": "hk",
+  "published_at": "2026-10-30T22:34:00+08:00",
+  "source": {
+   "name": "MetroHK",
+   "url": "https://metrohk.com.hk/港聞/港府擴充萬聖節周末通宵交通及口岸服務-fce185"
+  },
+  "image_url": "https://metrohk.com.hk/static/img/news/prop-news-border-skylineofshenzhenb-1200.jpg",
+  "title": {
+   "en": "Halloween weekend: Shenzhen Bay extends clearance to 2am, Citybus runs overnight B13S",
+   "zh_hant": "萬聖節周末料深宵北上人潮湧現　深圳灣延長通關城巴開通宵線",
+   "zh_hans": "万圣节周末料深宵北上人潮涌现　深圳湾延长通关城巴开通宵线"
+  },
+  "summary": {
+   "en": "Hong Kong authorities and transport operators have rolled out a combined plan to handle crowds over the Halloween weekend, when Lan Kwai Fong street parties, the Wine & Dine Festival and a major concert at Kai Tak are expected to draw large crowds. Shenzhen Bay Port will extend passenger clearance to 2am for two consecutive nights, while cross-border bus operators extend last departures from major urban districts. Citybus will run overnight special route B13S from Central to the 24-hour Huanggang Port on Saturday and Sunday early mornings. Transport chief Mable Chan inspected interchange hubs and pledged extra buses and drivers on standby; officials expect the busiest northbound window at Huanggang to be 11pm-2am from Oct 30 to Nov 1.",
+   "zh_hant": "因應萬聖節周末中環蘭桂坊街頭派對、美酒佳餚巡禮及啟德大型演唱會等活動，港府與公共交通營運商推出綜合疏導方案。深圳灣口岸旅客清關時間連續兩晚延長至凌晨2時，跨境巴士延長由銅鑼灣、灣仔、中環、尖沙咀及旺角等主要市區出發的尾班車時間；城巴於周六及周日凌晨開辦通宵特別路線B13S，由中環直達24小時通關的皇崗口岸。運輸署署長程詠怡視察多個轉乘樞紐，承諾安排後備車輛及司機加密班次；當局預計10月30日至11月1日每晚11時至凌晨2時，為皇崗口岸北行出境最繁忙時段。",
+   "zh_hans": "因应万圣节周末中环兰桂坊街头派对、美酒佳肴巡礼及启德大型演唱会等活动，港府与公共交通营运商推出综合疏导方案。深圳湾口岸旅客清关时间连续两晚延长至凌晨2时，跨境巴士延长由铜锣湾、湾仔、中环、尖沙咀及旺角等主要市区出发的尾班车时间；城巴于周六及周日凌晨开办通宵特别路线B13S，由中环直达24小时通关的皇岗口岸。运输署署长程咏怡视察多个转乘枢纽，承诺安排后备车辆及司机加密班次；当局预计10月30日至11月1日每晚11时至凌晨2时，为皇岗口岸北行出境最繁忙时段。"
+  },
+  "tags": {
+   "en": [
+    "Halloween",
+    "Huanggang Port",
+    "Shenzhen Bay Port"
+   ],
+   "zh_hant": [
+    "萬聖節",
+    "皇崗口岸",
+    "深圳灣口岸"
+   ],
+   "zh_hans": [
+    "万圣节",
+    "皇岗口岸",
+    "深圳湾口岸"
+   ]
+  }
+ },
+ {
+  "id": "20261031-guangming-daily-evening-edition-final",
+  "category": "society",
+  "published_at": "2026-10-29T13:15:00+08:00",
+  "source": {
+   "name": "南洋商報（KLSE Screener）",
+   "url": "https://www.klsescreener.com/v2/news/view/1817965/顺应市场与阅读习惯转变_光明日报_晚报退场_31日最后一期"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Malaysia's last print evening paper bows out as Guangming Daily prints final edition today",
+   "zh_hant": "馬來西亞最後一份紙本晚報　《光明日報》晚報今出最後一期",
+   "zh_hans": "马来西亚最后一份纸本晚报　《光明日報》晚报今出最后一期"
+  },
+  "summary": {
+   "en": "Malaysia's Guangming Daily will print the final edition of its evening paper on Oct 31, ending distribution in northern Malaysia from Nov 1 and closing the chapter on the country's last print evening newspaper. The paper said the move follows changes in market conditions and reading habits, as readers migrate from print to mobile and digital platforms. The Guangming e-paper will continue to publish evening news at 6pm daily, and the paper is urging long-time subscribers to switch to its daily edition.",
+   "zh_hant": "馬來西亞《光明日報》晚報於10月31日出版最後一期，11月1日起停止在北馬地區發行，全國最後一份紙本晚報正式退場。報社表示，決定是順應市場環境與讀者閱讀習慣的轉變，讀者由等報紙送到手上，變成拿起手機即掌握消息。紙本晚報停發後，《光明電子報》將繼續每日下午6時發布晚間新聞，報社亦呼籲長期訂戶轉為支持日報。",
+   "zh_hans": "马来西亚《光明日報》晚报于10月31日出版最后一期，11月1日起停止在北马地区发行，全国最后一份纸本晚报正式退场。报社表示，决定是顺应市场环境与读者阅读习惯的转变，读者由等报纸送到手上，变成拿起手机即掌握消息。纸本晚报停发后，《光明电子报》将继续每日下午6时发布晚间新闻，报社亦呼吁长期订户转为支持日报。"
+  },
+  "tags": {
+   "en": [
+    "Guangming Daily",
+    "evening paper",
+    "Malaysia"
+   ],
+   "zh_hant": [
+    "光明日報",
+    "晚報",
+    "馬來西亞"
+   ],
+   "zh_hans": [
+    "光明日報",
+    "晚报",
+    "马来西亚"
+   ]
+  }
+ },
+ {
+  "id": "20261031-china-pmi-october",
+  "category": "finance",
+  "published_at": "2026-10-31T09:30:17+08:00",
+  "source": {
+   "name": "新浪財經",
+   "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixaray1738624.d.html"
+  },
+  "image_url": "https://n.sinaimg.cn/zhibo/735/w451h284/20261031/9265-b4d0e65c29f126cc96586d0ca1c97bb9.png",
+  "title": {
+   "zh_hant": "10月中國製造業PMI回落至49.3%　重回收縮區間",
+   "zh_hans": "10月中国制造业PMI回落至49.3%　重回收缩区间",
+   "en": "China's October manufacturing PMI falls to 49.3%, back in contraction"
+  },
+  "summary": {
+   "zh_hant": "國家統計局今早公布，10月中國製造業採購經理指數（PMI）為49.3%，較上月下降0.8個百分點，重回榮枯線以下。非製造業商務活動指數和綜合PMI產出指數同為49.7%，企業生產經營活動總體放緩。不過裝備製造、高技術製造等新動能行業延續擴張，對沖整體回落壓力。",
+   "zh_hans": "国家统计局今早公布，10月中国制造业采购经理指数（PMI）为49.3%，较上月下降0.8个百分点，重回荣枯线以下。非制造业商务活动指数和综合PMI产出指数同为49.7%，企业生产经营活动总体放缓。不过装备制造、高技术制造等新动能行业延续扩张，对冲整体回落压力。",
+   "en": "China's National Bureau of Statistics said October manufacturing PMI came in at 49.3%, down 0.8 points from September and back below the 50 expansion-contraction line. The non-manufacturing index and composite output index both stood at 49.7%, signalling a broad slowdown, though equipment and high-tech manufacturing kept expanding and cushioned the decline."
+  },
+  "tags": {
+   "zh_hant": [
+    "採購經理指數",
+    "製造業",
+    "中國經濟"
+   ],
+   "zh_hans": [
+    "采购经理指数",
+    "制造业",
+    "中国经济"
+   ],
+   "en": [
+    "PMI",
+    "manufacturing",
+    "China economy"
+   ]
+  }
+ },
+ {
+  "id": "20261031-china-rare-earth-suspension",
+  "category": "finance",
+  "published_at": "2026-10-31T10:33:48+08:00",
+  "source": {
+   "name": "中華網",
+   "url": "https://3g.china.com/act/news/10000169/20261031/49830230.html"
+  },
+  "image_url": "https://img1.utuku.imgcdc.com/578x0/news/20261030/37b12408-b2a6-4b53-97d0-e106778e2be5.jpg",
+  "title": {
+   "zh_hant": "中國稀土11月2日起停牌　籌劃重大資產重組",
+   "zh_hans": "中国稀土11月2日起停牌　筹划重大资产重组",
+   "en": "China Rare Earth to suspend trading from Nov 2 for major restructuring"
+  },
+  "summary": {
+   "zh_hant": "中國稀土昨晚公告，收到中國稀土集團通知，計劃以發行股份方式購買中稀（涼山）稀土股權並募集配套資金。公司股票自11月2日起停牌，預計不超過10個交易日、即11月16日前披露交易方案。交易構成重大資產重組和關聯交易，但不構成重組上市。",
+   "zh_hans": "中国稀土昨晚公告，收到中国稀土集团通知，计划以发行股份方式购买中稀（凉山）稀土股权并募集配套资金。公司股票自11月2日起停牌，预计不超过10个交易日、即11月16日前披露交易方案。交易构成重大资产重组和关联交易，但不构成重组上市。",
+   "en": "China Rare Earth announced it will suspend trading from November 2 after receiving notice from China Rare Earth Group of a plan to acquire Zhongxi (Liangshan) Rare Earth equity via a share issue plus a fundraising placement. A deal outline is expected within 10 trading days, by November 16. The transaction would be a major asset restructuring and related-party deal, but not a backdoor listing."
+  },
+  "tags": {
+   "zh_hant": [
+    "中國稀土",
+    "停牌",
+    "資產重組"
+   ],
+   "zh_hans": [
+    "中国稀土",
+    "停牌",
+    "资产重组"
+   ],
+   "en": [
+    "China Rare Earth",
+    "trading suspension",
+    "restructuring"
+   ]
+  }
+ },
+ {
+  "id": "20261031-foxconn-openai-cooperation",
+  "category": "tech",
+  "published_at": "2026-10-31T10:31:58+08:00",
+  "source": {
+   "name": "中華網（據路透社報道）",
+   "url": "https://3g.china.com/act/news/10000169/20261031/49830227.html"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "富士康董事長會晤OpenAI奧特曼　洽談新合作",
+   "zh_hans": "富士康董事长会晤OpenAI奥特曼　洽谈新合作",
+   "en": "Foxconn chairman meets OpenAI's Altman to discuss new partnership"
+  },
+  "summary": {
+   "zh_hant": "據路透社報道，富士康董事長劉揚偉透露，已與OpenAI行政總裁奧特曼會面，雙方正推進新合作，細節確認後正式公布。劉揚偉明言AI行業並無泡沫，預計公司明年保持雙位數增長。AI伺服器已成富士康最重要增長引擎，雲計算與網絡產品業務佔第二季營收突破五成。",
+   "zh_hans": "据路透社报道，富士康董事长刘扬伟透露，已与OpenAI行政总裁奥特曼会面，双方正推进新合作，细节确认后正式公布。刘扬伟明言AI行业并无泡沫，预计公司明年保持双位数增长。AI服务器已成富士康最重要增长引擎，云计算与网络产品业务占第二季营收突破五成。",
+   "en": "Reuters reports Foxconn chairman Young Liu met OpenAI CEO Sam Altman, with the two sides advancing a new partnership to be announced once details are confirmed. Liu said the AI industry is not in a bubble and forecast double-digit growth next year. AI servers are now Foxconn's key growth engine, with cloud and networking products topping 50% of second-quarter revenue."
+  },
+  "tags": {
+   "zh_hant": [
+    "富士康",
+    "OpenAI",
+    "AI伺服器"
+   ],
+   "zh_hans": [
+    "富士康",
+    "OpenAI",
+    "AI服务器"
+   ],
+   "en": [
+    "Foxconn",
+    "OpenAI",
+    "AI servers"
+   ]
+  }
+ },
+ {
+  "id": "20261031-eason-chan-recording-ballot",
+  "category": "entertainment",
+  "published_at": "2026-10-30T12:00:00+08:00",
+  "source": {
+   "name": "新假期 WeekendHK",
+   "url": "https://www.weekendhk.com/entertainment/%e9%99%b3%e5%a5%95%e8%bf%85-%e6%bc%94%e5%94%b1%e6%9c%83-%e9%bb%83%e7%89%9b-3532518/"
+  },
+  "image_url": "https://imgs.weekendhk.com/wp-content/uploads/2026/10/179333222025032104_15038560266ae413fcbde4c.jpg",
+  "title": {
+   "zh_hant": "陳奕迅26場錄音騷近500萬人登記　官方報警打擊黃牛",
+   "zh_hans": "陈奕迅26场录音骚近500万人登记　官方报警打击黄牛",
+   "en": "Eason Chan's 26 recording sessions draw nearly 5m ballot entries; organisers report scalpers to police"
+  },
+  "summary": {
+   "zh_hant": "陳奕迅《McDonald's Presents: Recording Sessions with Mr. Eason Chan》26場實體錄音騷，於10月28至29日開放抽籤登記，截至30日深夜錄得逾495萬個登記申請。網上湧現「必中攻略」及黃牛暗盤，主辦單位已報警備案並展開大規模核查，嚴打重複登記及可疑帳戶。大會承諾九成門票作公開發售，首輪中籤結果11月2日公布。",
+   "zh_hans": "陈奕迅《McDonald's Presents: Recording Sessions with Mr. Eason Chan》26场实体录音骚，于10月28至29日开放抽签登记，截至30日深夜录得逾495万个登记申请。网上涌现「必中攻略」及黄牛暗盘，主办单位已报警备案并展开大规模核查，严打重复登记及可疑账户。大会承诺九成门票作公开发售，首轮中签结果11月2日公布。",
+   "en": "Eason Chan's 26 'Recording Sessions' live shows opened ballot registration on October 28-29 and had received over 4.95 million entries by late October 30. With scalpers and bogus 'guaranteed win' guides spreading online, organisers have filed a police report and launched large-scale screening against duplicate and suspicious registrations. Ninety percent of tickets are reserved for public sale, with first-round results out on November 2."
+  },
+  "tags": {
+   "zh_hant": [
+    "陳奕迅",
+    "演唱會",
+    "黃牛"
+   ],
+   "zh_hans": [
+    "陈奕迅",
+    "演唱会",
+    "黄牛"
+   ],
+   "en": [
+    "Eason Chan",
+    "concert",
+    "scalpers"
+   ]
+  }
+ },
+ {
+  "id": "20261031-vinexpo-asia-hong-kong",
+  "category": "hk",
+  "published_at": "2026-10-30T15:02:55+08:00",
+  "source": {
+   "name": "香港政府新聞網",
+   "url": "https://www.news.gov.hk/chi/2026/10/20261030/20261030_150255_290.html"
+  },
+  "image_url": "http://www.news.gov.hk/chi/2026/10/20261030/20261030_150255_290/images/20261030172417137.jpg",
+  "title": {
+   "zh_hant": "Vinexpo Asia連續五年獨家在港舉行　首場明年6月會展上演",
+   "zh_hans": "Vinexpo Asia连续五年独家在港举行　首场明年6月会展上演",
+   "en": "Vinexpo Asia to be held exclusively in Hong Kong for five straight years from 2027"
+  },
+  "summary": {
+   "zh_hant": "旅發局與全球葡萄酒和烈酒展覽主辦機構Vinexposium簽署諒解備忘錄，建立五年策略夥伴關係。國際葡萄酒和烈酒商貿展Vinexpo Asia由明年起至2031年連續五年每年獨家在香港舉行，首場明年6月8至10日在香港會議展覽中心舉行。簽約儀式在文體旅局局長羅淑佩和旅發局主席林建岳見證下完成。",
+   "zh_hans": "旅发局与全球葡萄酒和烈酒展览主办机构Vinexposium签署谅解备忘录，建立五年策略伙伴关系。国际葡萄酒和烈酒商贸展Vinexpo Asia由明年起至2031年连续五年每年独家在香港举行，首场明年6月8至10日在香港会议展览中心举行。签约仪式在文体旅局局长罗淑佩和旅发局主席林建岳见证下完成。",
+   "en": "The Hong Kong Tourism Board and global wine and spirits fair organiser Vinexposium signed an MOU establishing a five-year strategic partnership. Vinexpo Asia will be held exclusively in Hong Kong every year from 2027 to 2031, with the first edition on June 8-10 next year at the Hong Kong Convention and Exhibition Centre. The signing was witnessed by culture, sports and tourism secretary Rosanna Law and HKTB chairman Peter Lam."
+  },
+  "tags": {
+   "zh_hant": [
+    "Vinexpo Asia",
+    "旅發局",
+    "會展"
+   ],
+   "zh_hans": [
+    "Vinexpo Asia",
+    "旅发局",
+    "会展"
+   ],
+   "en": [
+    "Vinexpo Asia",
+    "HKTB",
+    "exhibitions"
+   ]
+  }
+ },
+ {
+  "id": "20261031-hkma-halloween-anti-fraud",
+  "category": "hk",
+  "published_at": "2026-10-29T13:45:46+08:00",
+  "source": {
+   "name": "觀點網",
+   "url": "https://my.guandian.hk/article/20261029/10045733.html"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "金管局萬聖節中環推防騙街頭活動　教跳「絕蕉舞」",
+   "zh_hans": "金管局万圣节中环推防骗街头活动　教跳「绝蕉舞」",
+   "en": "HKMA brings anti-scam street event to Central on Halloween with 'anti-scam dance'"
+  },
+  "summary": {
+   "zh_hant": "金管局今日下午5時至晚上11時在中環皇后大道中（中環街市外）舉辦萬聖節街頭互動體驗活動，即場教授「絕蕉舞」防騙招式，對抗假客服、假公安、假速遞員及交友騙局。警方統計今年首8個月本港錄得近3萬宗騙案，損失逾52億港元，平均每分鐘損失超過15,000港元。",
+   "zh_hans": "金管局今日下午5时至晚上11时在中环皇后大道中（中环街市外）举办万圣节街头互动体验活动，即场教授「绝蕉舞」防骗招式，对抗假客服、假公安、假速递员及交友骗局。警方统计今年首8个月本港录得近3万宗骗案，损失逾52亿港元，平均每分钟损失超过15,000港元。",
+   "en": "The HKMA is staging a Halloween street event outside Central Market on Queen's Road Central from 5pm to 11pm today, teaching an 'anti-scam dance' to fight fake customer-service, fake police, fake courier and romance scams. Police figures show nearly 30,000 scam cases in the first eight months of this year, with losses topping HK$5.2 billion — over HK$15,000 lost every minute."
+  },
+  "tags": {
+   "zh_hant": [
+    "金管局",
+    "防騙",
+    "萬聖節"
+   ],
+   "zh_hans": [
+    "金管局",
+    "防骗",
+    "万圣节"
+   ],
+   "en": [
+    "HKMA",
+    "anti-scam",
+    "Halloween"
+   ]
+  }
+ },
+ {
+  "id": "20261031-kindergarten-halloween-notice",
+  "category": "society",
+  "published_at": "2026-10-30T17:49:04+08:00",
+  "source": {
+   "name": "門徒媒體",
+   "url": "https://apostlesmedia.com/2026/10/30/1030/"
+  },
+  "image_url": "http://apostlesmedia.com/wp-content/uploads/2026/10/IMG_20261028_232255_611.jpg",
+  "title": {
+   "zh_hant": "幼稚園通告籲勿慶祝萬聖節　稱「供奉死神」惹網民熱議",
+   "zh_hans": "幼稚园通告吁勿庆祝万圣节　称「供奉死神」惹网民热议",
+   "en": "Kindergarten notice urging parents to shun Halloween as 'worshipping death' sparks online debate"
+  },
+  "summary": {
+   "zh_hant": "有教會幼稚園發通告呼籲家長「切勿慶祝萬聖節」，聲稱萬聖節源於供奉死神、召喚邪靈的「死節」，「不給糖就搗蛋」實為古代詛咒儀式。有家長將通告上載至Threads，引發近五千人點讚、逾千留言，網民幾乎一面倒批評校方說法極端，反問「聖誕節本是太陽神誕，教會是否也應反對慶祝」。",
+   "zh_hans": "有教会幼稚园发通告呼吁家长「切勿庆祝万圣节」，声称万圣节源于供奉死神、召唤邪灵的「死节」，「不给糖就捣蛋」实为古代诅咒仪式。有家长将通告上载至Threads，引发近五千人点赞、逾千留言，网民几乎一面倒批评校方说法极端，反问「圣诞节本是太阳神诞，教会是否也应反对庆祝」。",
+   "en": "A church-run kindergarten issued a notice urging parents not to celebrate Halloween, claiming the festival originated as a 'festival of death' worshipping the god of death and summoning evil spirits, with trick-or-treating rooted in ancient curses. A parent posted the notice on Threads, drawing nearly 5,000 likes and over 1,000 comments, with netizens overwhelmingly criticising the school as extreme — one asking whether churches should then also oppose Christmas, since December 25 was once a sun-god festival."
+  },
+  "tags": {
+   "zh_hant": [
+    "幼稚園",
+    "萬聖節",
+    "Threads"
+   ],
+   "zh_hans": [
+    "幼稚园",
+    "万圣节",
+    "Threads"
+   ],
+   "en": [
+    "kindergarten",
+    "Halloween",
+    "Threads"
+   ]
+  }
+ },
+ {
+  "id": "20261031-muse-fest-hk-2026",
+  "category": "hk",
+  "published_at": "2026-10-31T14:35:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/31/P2026103000365.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202610/31/P2026103000365_photo_1342584.jpg",
+  "title": {
+   "zh_hant": "「博物館節2026」今日開鑼　17間博物館推逾60項節目",
+   "zh_hans": "「博物馆节2026」今日开锣　17间博物馆推逾60项节目",
+   "en": "Muse Fest HK 2026 kicks off today with 60+ programmes across 17 museums"
+  },
+  "summary": {
+   "zh_hant": "康文署主辦的「博物館節2026」今日起至11月30日舉行，轄下17間博物館及藝術空間推出逾60項節目。頭炮「博物館FUN日」今明兩日在香港文化中心露天廣場舉行，以「拼貼今昔・香港故事」為主題，設有「格仔茶檔」等港式像素風裝置及麻將填色、涼茶招牌鎖匙扣等懷舊工作坊。活動並聯同大灣區博物館聯盟10間博物館及24個澳門和本地藝文機構，為第六屆粵港澳大灣區文化藝術節的貢獻節目。",
+   "zh_hans": "康文署主办的「博物馆节2026」今日起至11月30日举行，辖下17间博物馆及艺术空间推出逾60项节目。头炮「博物馆FUN日」今明两日在香港文化中心露天广场举行，以「拼贴今昔・香港故事」为主题，设有「格仔茶档」等港式像素风装置及麻将填色、凉茶招牌钥匙扣等怀旧工作坊。活动并联同大湾区博物馆联盟10间博物馆及24个澳门和本地艺文机构，为第六届粤港澳大湾区文化艺术节的贡献节目。",
+   "en": "The LCSD's Muse Fest HK 2026 runs from today until November 30, with more than 60 programmes across its 17 museums and art spaces. The opening Fun@Museum Carnival takes place today and tomorrow at the Hong Kong Cultural Centre Piazza under the theme 'A Collage of Past and Present, Hong Kong Story', featuring Hong Kong-style pixel-art installations such as the 'Grid Tea Stall' plus nostalgic workshops like mahjong colouring and herbal-tea-sign keychain making. The festival also partners with 10 Greater Bay Area Museum Alliance museums and 24 Macao and local arts organisations as a contribution programme of the 6th GBA Culture and Arts Festival."
+  },
+  "tags": {
+   "zh_hant": [
+    "博物館節2026",
+    "康文署",
+    "文化活動"
+   ],
+   "zh_hans": [
+    "博物馆节2026",
+    "康文署",
+    "文化活动"
+   ],
+   "en": [
+    "Muse Fest HK 2026",
+    "LCSD",
+    "cultural events"
+   ]
+  }
+ },
+ {
+  "id": "20261031-police-anti-triad-58",
+  "category": "hk",
+  "published_at": "2026-10-31T11:41:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876045-20261031.htm"
+  },
+  "image_url": "https://newsstatic.rthk.hk/images/mfile_1876045_2_M_20261031133806.jpg",
+  "title": {
+   "zh_hant": "警方反三合會行動拘58人　包括10名學生",
+   "zh_hans": "警方反三合会行动拘58人　包括10名学生",
+   "en": "Police arrest 58 in anti-triad operation, including 10 students"
+  },
+  "summary": {
+   "zh_hant": "警方有組織罪案及三合會調查科展開反三合會行動，在各區共拘捕58人，年齡介乎14至73歲，其中10人是學生。總督察陳柏琪表示，今年初留意到青少年犯罪有上升趨勢，遂派出探員喬裝深入調查，揭發有青少年被誘騙參與刑事毀壞、販毒及傷人等非法行為。警方前日突擊搜查九龍及新界多個地點，以自稱三合會成員、串謀傷人、販運危險藥物等罪名拘捕49男9女，打擊一個活躍於九龍區、利用青少年犯案的三合會社團，並堵截其收入來源。警方表示行動會繼續，不排除再有人被捕，並提醒青少年不要誤信「搵快錢」的虛假承諾。",
+   "zh_hans": "警方有组织罪案及三合会调查科展开反三合会行动，在各区共拘捕58人，年龄介乎14至73岁，其中10人是学生。总督察陈柏琪表示，今年初留意到青少年犯罪有上升趋势，遂派出探员乔装深入调查，揭发有青少年被诱骗参与刑事毁坏、贩毒及伤人等非法行为。警方前日突击搜查九龙及新界多个地点，以自称三合会成员、串谋伤人、贩运危险药物等罪名拘捕49男9女，打击一个活跃于九龙区、利用青少年犯案的三合会社团，并堵截其收入来源。警方表示行动会继续，不排除再有人被捕，并提醒青少年不要误信「搵快钱」的虚假承诺。",
+   "en": "Police's Organised Crime and Triad Bureau arrested 58 people aged 14 to 73 across Hong Kong in an anti-triad operation, including 10 students. Chief Inspector Chan Pak-ki said officers went undercover earlier this year after spotting a rise in youth crime, uncovering teenagers lured into criminal damage, drug trafficking and wounding. In raids across Kowloon and the New Territories two days ago, 49 men and 9 women were arrested for claiming triad membership, conspiracy to wound, drug trafficking and other offences, dismantling a Kowloon-based triad syndicate that exploited young people and cutting off its income. Police say the operation continues and warned teenagers not to fall for false promises of 'easy money'."
+  },
+  "tags": {
+   "zh_hant": [
+    "反三合會",
+    "警方",
+    "青少年罪案"
+   ],
+   "zh_hans": [
+    "反三合会",
+    "警方",
+    "青少年罪案"
+   ],
+   "en": [
+    "anti-triad",
+    "Hong Kong Police",
+    "youth crime"
+   ]
+  }
+ },
+ {
+  "id": "20261031-hk-legal-week-2026",
+  "category": "hk",
+  "published_at": "2026-10-31T15:00:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/31/P2026103100305.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "香港法律周下周一開鑼　一連五天聚焦法律科技",
+   "zh_hans": "香港法律周下周一开锣　一连五天聚焦法律科技",
+   "en": "Hong Kong Legal Week 2026 opens Monday with five-day programme"
+  },
+  "summary": {
+   "zh_hant": "律政司年度旗艦活動「香港法律周2026」下周一（11月2日）起一連五天舉行，主題為「協作與創新：法律協同，共創未來」。開幕日將舉行國際統一私法協會100周年亞太區會議，並為該會首個設於羅馬以外的亞太聯絡處揭幕，標誌香港國際法律樞紐地位的重要里程碑。其餘重點活動包括第三屆亞太國際私法峰會、慶祝聯合國國際貿易法委員會成立60周年活動、法律科技論壇，以及第二屆粵港澳大灣區律師論壇。",
+   "zh_hans": "律政司年度旗舰活动「香港法律周2026」下周一（11月2日）起一连五天举行，主题为「协作与创新：法律协同，共创未来」。开幕日将举行国际统一私法协会100周年亚太区会议，并为该会首个设于罗马以外的亚太联络处揭幕，标志香港国际法律枢纽地位的重要里程碑。其余重点活动包括第三届亚太国际私法峰会、庆祝联合国国际贸易法委员会成立60周年活动、法律科技论坛，以及第二届粤港澳大湾区律师论坛。",
+   "en": "The Department of Justice's flagship Hong Kong Legal Week 2026 runs for five days from Monday (November 2) under the theme 'Collaboration & Innovation: Legal Synergy for a Shared Future'. The opening day features the UNIDROIT Centenary Regional Conference for the Asia-Pacific and the opening of UNIDROIT's first office outside Rome — its Asia-Pacific Liaison Office — a milestone for Hong Kong as a legal hub. Other highlights include the 3rd Asia-Pacific International Private Law Summit, a celebration of UNCITRAL's 60th anniversary, the LawTech Forum and the 2nd GBA Lawyers Forum."
+  },
+  "tags": {
+   "zh_hant": [
+    "香港法律周",
+    "律政司",
+    "法律科技"
+   ],
+   "zh_hans": [
+    "香港法律周",
+    "律政司",
+    "法律科技"
+   ],
+   "en": [
+    "Hong Kong Legal Week",
+    "Department of Justice",
+    "lawtech"
+   ]
+  }
+ },
+ {
+  "id": "20261031-binance-recovery-update",
+  "category": "finance",
+  "published_at": "2026-10-31T10:00:00+08:00",
+  "source": {
+   "name": "鏈新聞 ABMedia",
+   "url": "https://abmedia.io/binance-hot-wallet-hack-tether-circle-freeze"
+  },
+  "image_url": "https://i0.wp.com/abmedia.io/wp-content/uploads/2026/10/binance-hot-wallet-hack-tether-circle-freeze-cover.jpg?fit=1536%2C1024&quality=99&ssl=1",
+  "title": {
+   "zh_hant": "幣安稱已補足約八成被盜資產　提幣料11月1日起分階段恢復",
+   "zh_hans": "币安称已补足约八成被盗资产　提币料11月1日起分阶段恢复",
+   "en": "Binance says 80% of stolen assets recovered, withdrawals to resume Nov 1"
+  },
+  "summary": {
+   "zh_hant": "幣安今日凌晨發布第二份事件更新，表示已提撥逾63.4億美元公司資金，補足約八成在10月30日熱錢包被盜事件中損失的資產，其餘正從市場買回。鏈上分析公司TRM Labs及Chainalysis均以高度確信指向北韓黑客組織TraderTraitor所為，FBI已介入調查。幣安指約30億美元被盜資產已被凍結，入金服務維持正常，提幣預計在約34小時內、即11月1日下午起分階段恢復，初步儲備證明將於11月2日前公布。",
+   "zh_hans": "币安今日凌晨发布第二份事件更新，表示已提拨逾63.4亿美元公司资金，补足约八成在10月30日热钱包被盗事件中损失的资产，其余正从市场买回。链上分析公司TRM Labs及Chainalysis均以高度确信指向北韩黑客组织TraderTraitor所为，FBI已介入调查。币安指约30亿美元被盗资产已被冻结，入金服务维持正常，提币预计在约34小时内、即11月1日下午起分阶段恢复，初步储备证明将于11月2日前公布。",
+   "en": "Binance said in a second incident update early today that it has set aside over US$6.34 billion in company funds, covering about 80% of the assets stolen in the October 30 hot-wallet hack, with the rest being bought back from the market. Chainalysis and TRM Labs both attributed the attack to North Korea-linked group TraderTraitor with high confidence, and the FBI has joined the investigation. Binance said about US$3 billion in stolen funds has been frozen, deposits remain normal, and withdrawals are expected to resume in phases from the afternoon of November 1, with an initial proof of reserves due before November 2."
+  },
+  "tags": {
+   "zh_hant": [
+    "幣安",
+    "加密貨幣",
+    "黑客攻擊"
+   ],
+   "zh_hans": [
+    "币安",
+    "加密货币",
+    "黑客攻击"
+   ],
+   "en": [
+    "Binance",
+    "cryptocurrency",
+    "hack"
+   ]
+  }
+ },
+ {
+  "id": "20261031-hormuz-tankers-mines",
+  "category": "world",
+  "published_at": "2026-10-31T12:19:00+08:00",
+  "source": {
+   "name": "Aalimi Nation",
+   "url": "https://aalimination.com/world/oman-rescues-25-from-burning-tanker-as-iran-us-dispute-hormuz-mines"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "伊朗稱四艘油輪荷姆茲海峽觸雷起火　美方否認",
+   "zh_hans": "伊朗称四艘油轮荷姆兹海峡触雷起火　美方否认",
+   "en": "Iran says four tankers hit mines in Strait of Hormuz; US disputes claim"
+  },
+  "summary": {
+   "zh_hant": "伊朗革命衛隊海軍周五表示，第四艘油輪在荷姆茲海峽行經「未經授權南線」時觸雷起火，該艘超級油輪載有逾200萬桶原油；連同周四的三艘，共有四艘油輪起火。伊朗未公布涉事船隻名稱，說法未經獨立核實。英國海事貿易行動辦公室另報告兩宗獨立事件，包括有油輪被不明物體擊中，以及有小艇在船體安裝爆炸裝置引致機艙起火。美軍中央司令部否認伊朗說法，稱主航道的水雷已經清除；阿曼則救起一艘巴拿馬籍油輪上25名船員。事件刺激布蘭特油價升至每桶117美元。",
+   "zh_hans": "伊朗革命卫队海军周五表示，第四艘油轮在荷姆兹海峡行经「未经授权南线」时触雷起火，该艘超级油轮载有逾200万桶原油；连同周四的三艘，共有四艘油轮起火。伊朗未公布涉事船只名称，说法未经独立核实。英国海事贸易行动办公室另报告两宗独立事件，包括有油轮被不明物体击中，以及有小艇在船体安装爆炸装置引致机舱起火。美军中央司令部否认伊朗说法，称主航道的水雷已经清除；阿曼则救起一艘巴拿马籍油轮上25名船员。事件刺激布兰特油价升至每桶117美元。",
+   "en": "Iran's Revolutionary Guard Navy said Friday a fourth oil tanker struck a mine and caught fire in the Strait of Hormuz while using an 'unauthorised southern route'; the supertanker was carrying more than 2 million barrels of crude, bringing the total to four tankers ablaze since Thursday. Iran did not name the vessels and the claims could not be independently verified. The UK Maritime Trade Operations agency separately reported two incidents, including a tanker hit by an unknown projectile and explosive devices attached to a hull by a small boat. US Central Command disputed Iran's account, saying mines had been cleared from the main lanes, while Oman rescued 25 crew from a Panama-flagged tanker. Brent crude rose to US$117 a barrel."
+  },
+  "tags": {
+   "zh_hant": [
+    "荷姆茲海峽",
+    "伊朗",
+    "油價"
+   ],
+   "zh_hans": [
+    "荷姆兹海峡",
+    "伊朗",
+    "油价"
+   ],
+   "en": [
+    "Strait of Hormuz",
+    "Iran",
+    "oil price"
+   ]
+  }
+ },
+ {
+  "id": "20261031-us-patriot-missiles-ukraine",
+  "category": "world",
+  "published_at": "2026-10-31T11:05:00+08:00",
+  "source": {
+   "name": "The Business Standard",
+   "url": "https://www.tbsnews.net/world/us-approves-21-billion-patriot-missile-sale-ukraine-1588091"
+  },
+  "image_url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/10/31/37f6avyhanpchifnz64af2dh2m.jpg",
+  "title": {
+   "zh_hant": "美批准向烏克蘭出售500枚愛國者導彈　涉資21億美元",
+   "zh_hans": "美批准向乌克兰出售500枚爱国者导弹　涉资21亿美元",
+   "en": "US approves $2.1bn sale of 500 Patriot missiles to Ukraine"
+  },
+  "summary": {
+   "zh_hant": "美國國務院周五批准向烏克蘭出售500枚愛國者PAC-3 MSE型攔截導彈，總值約21億美元。烏克蘭將透過加拿大、德國、挪威的出資及歐盟「烏克蘭支援貸款」，經美國JUMPSTART計劃支付費用，洛克希德馬丁為主要承包商。由於導彈尚未生產，預計要到2030年代初才開始交付。總統澤連斯基11天前曾公開抗議美方軍援延誤。",
+   "zh_hans": "美国国务院周五批准向乌克兰出售500枚爱国者PAC-3 MSE型拦截导弹，总值约21亿美元。乌克兰将透过加拿大、德国、挪威的出资及欧盟「乌克兰支援贷款」，经美国JUMPSTART计划支付费用，洛克希德马丁为主要承包商。由于导弹尚未生产，预计要到2030年代初才开始交付。总统泽连斯基11天前曾公开抗议美方军援延误。",
+   "en": "The US State Department on Friday approved the sale of 500 Patriot PAC-3 MSE interceptor missiles to Ukraine for an estimated US$2.1 billion. Kyiv will pay through contributions from Canada, Germany and Norway channelled via the US JUMPSTART programme, plus funds from the EU's Ukraine Support Loan, with Lockheed Martin as the principal contractor. With the missiles yet to be manufactured, deliveries are not expected until the early 2030s. President Zelensky had publicly protested delays in US military aid 11 days earlier."
+  },
+  "tags": {
+   "zh_hant": [
+    "烏克蘭",
+    "愛國者導彈",
+    "美國軍售"
+   ],
+   "zh_hans": [
+    "乌克兰",
+    "爱国者导弹",
+    "美国军售"
+   ],
+   "en": [
+    "Ukraine",
+    "Patriot missiles",
+    "US arms sale"
+   ]
+  }
+ }
 ]
