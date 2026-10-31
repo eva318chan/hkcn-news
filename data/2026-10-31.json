@@ -331,5 +331,264 @@
         "马来西亚"
       ]
     }
+  },
+  {
+    "id": "20261031-china-pmi-october",
+    "category": "finance",
+    "published_at": "2026-10-31T09:30:17+08:00",
+    "source": {
+      "name": "新浪財經",
+      "url": "https://finance.sina.cn/7x24/2026-10-31/detail-inixaray1738624.d.html"
+    },
+    "image_url": "https://n.sinaimg.cn/zhibo/735/w451h284/20261031/9265-b4d0e65c29f126cc96586d0ca1c97bb9.png",
+    "title": {
+      "zh_hant": "10月中國製造業PMI回落至49.3%　重回收縮區間",
+      "zh_hans": "10月中国制造业PMI回落至49.3%　重回收缩区间",
+      "en": "China's October manufacturing PMI falls to 49.3%, back in contraction"
+    },
+    "summary": {
+      "zh_hant": "國家統計局今早公布，10月中國製造業採購經理指數（PMI）為49.3%，較上月下降0.8個百分點，重回榮枯線以下。非製造業商務活動指數和綜合PMI產出指數同為49.7%，企業生產經營活動總體放緩。不過裝備製造、高技術製造等新動能行業延續擴張，對沖整體回落壓力。",
+      "zh_hans": "国家统计局今早公布，10月中国制造业采购经理指数（PMI）为49.3%，较上月下降0.8个百分点，重回荣枯线以下。非制造业商务活动指数和综合PMI产出指数同为49.7%，企业生产经营活动总体放缓。不过装备制造、高技术制造等新动能行业延续扩张，对冲整体回落压力。",
+      "en": "China's National Bureau of Statistics said October manufacturing PMI came in at 49.3%, down 0.8 points from September and back below the 50 expansion-contraction line. The non-manufacturing index and composite output index both stood at 49.7%, signalling a broad slowdown, though equipment and high-tech manufacturing kept expanding and cushioned the decline."
+    },
+    "tags": {
+      "zh_hant": [
+        "採購經理指數",
+        "製造業",
+        "中國經濟"
+      ],
+      "zh_hans": [
+        "采购经理指数",
+        "制造业",
+        "中国经济"
+      ],
+      "en": [
+        "PMI",
+        "manufacturing",
+        "China economy"
+      ]
+    }
+  },
+  {
+    "id": "20261031-china-rare-earth-suspension",
+    "category": "finance",
+    "published_at": "2026-10-31T10:33:48+08:00",
+    "source": {
+      "name": "中華網",
+      "url": "https://3g.china.com/act/news/10000169/20261031/49830230.html"
+    },
+    "image_url": "https://img1.utuku.imgcdc.com/578x0/news/20261030/37b12408-b2a6-4b53-97d0-e106778e2be5.jpg",
+    "title": {
+      "zh_hant": "中國稀土11月2日起停牌　籌劃重大資產重組",
+      "zh_hans": "中国稀土11月2日起停牌　筹划重大资产重组",
+      "en": "China Rare Earth to suspend trading from Nov 2 for major restructuring"
+    },
+    "summary": {
+      "zh_hant": "中國稀土昨晚公告，收到中國稀土集團通知，計劃以發行股份方式購買中稀（涼山）稀土股權並募集配套資金。公司股票自11月2日起停牌，預計不超過10個交易日、即11月16日前披露交易方案。交易構成重大資產重組和關聯交易，但不構成重組上市。",
+      "zh_hans": "中国稀土昨晚公告，收到中国稀土集团通知，计划以发行股份方式购买中稀（凉山）稀土股权并募集配套资金。公司股票自11月2日起停牌，预计不超过10个交易日、即11月16日前披露交易方案。交易构成重大资产重组和关联交易，但不构成重组上市。",
+      "en": "China Rare Earth announced it will suspend trading from November 2 after receiving notice from China Rare Earth Group of a plan to acquire Zhongxi (Liangshan) Rare Earth equity via a share issue plus a fundraising placement. A deal outline is expected within 10 trading days, by November 16. The transaction would be a major asset restructuring and related-party deal, but not a backdoor listing."
+    },
+    "tags": {
+      "zh_hant": [
+        "中國稀土",
+        "停牌",
+        "資產重組"
+      ],
+      "zh_hans": [
+        "中国稀土",
+        "停牌",
+        "资产重组"
+      ],
+      "en": [
+        "China Rare Earth",
+        "trading suspension",
+        "restructuring"
+      ]
+    }
+  },
+  {
+    "id": "20261031-foxconn-openai-cooperation",
+    "category": "tech",
+    "published_at": "2026-10-31T10:31:58+08:00",
+    "source": {
+      "name": "中華網（據路透社報道）",
+      "url": "https://3g.china.com/act/news/10000169/20261031/49830227.html"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "富士康董事長會晤OpenAI奧特曼　洽談新合作",
+      "zh_hans": "富士康董事长会晤OpenAI奥特曼　洽谈新合作",
+      "en": "Foxconn chairman meets OpenAI's Altman to discuss new partnership"
+    },
+    "summary": {
+      "zh_hant": "據路透社報道，富士康董事長劉揚偉透露，已與OpenAI行政總裁奧特曼會面，雙方正推進新合作，細節確認後正式公布。劉揚偉明言AI行業並無泡沫，預計公司明年保持雙位數增長。AI伺服器已成富士康最重要增長引擎，雲計算與網絡產品業務佔第二季營收突破五成。",
+      "zh_hans": "据路透社报道，富士康董事长刘扬伟透露，已与OpenAI行政总裁奥特曼会面，双方正推进新合作，细节确认后正式公布。刘扬伟明言AI行业并无泡沫，预计公司明年保持双位数增长。AI服务器已成富士康最重要增长引擎，云计算与网络产品业务占第二季营收突破五成。",
+      "en": "Reuters reports Foxconn chairman Young Liu met OpenAI CEO Sam Altman, with the two sides advancing a new partnership to be announced once details are confirmed. Liu said the AI industry is not in a bubble and forecast double-digit growth next year. AI servers are now Foxconn's key growth engine, with cloud and networking products topping 50% of second-quarter revenue."
+    },
+    "tags": {
+      "zh_hant": [
+        "富士康",
+        "OpenAI",
+        "AI伺服器"
+      ],
+      "zh_hans": [
+        "富士康",
+        "OpenAI",
+        "AI服务器"
+      ],
+      "en": [
+        "Foxconn",
+        "OpenAI",
+        "AI servers"
+      ]
+    }
+  },
+  {
+    "id": "20261031-eason-chan-recording-ballot",
+    "category": "entertainment",
+    "published_at": "2026-10-30T12:00:00+08:00",
+    "source": {
+      "name": "新假期 WeekendHK",
+      "url": "https://www.weekendhk.com/entertainment/%e9%99%b3%e5%a5%95%e8%bf%85-%e6%bc%94%e5%94%b1%e6%9c%83-%e9%bb%83%e7%89%9b-3532518/"
+    },
+    "image_url": "https://imgs.weekendhk.com/wp-content/uploads/2026/10/179333222025032104_15038560266ae413fcbde4c.jpg",
+    "title": {
+      "zh_hant": "陳奕迅26場錄音騷近500萬人登記　官方報警打擊黃牛",
+      "zh_hans": "陈奕迅26场录音骚近500万人登记　官方报警打击黄牛",
+      "en": "Eason Chan's 26 recording sessions draw nearly 5m ballot entries; organisers report scalpers to police"
+    },
+    "summary": {
+      "zh_hant": "陳奕迅《McDonald's Presents: Recording Sessions with Mr. Eason Chan》26場實體錄音騷，於10月28至29日開放抽籤登記，截至30日深夜錄得逾495萬個登記申請。網上湧現「必中攻略」及黃牛暗盤，主辦單位已報警備案並展開大規模核查，嚴打重複登記及可疑帳戶。大會承諾九成門票作公開發售，首輪中籤結果11月2日公布。",
+      "zh_hans": "陈奕迅《McDonald's Presents: Recording Sessions with Mr. Eason Chan》26场实体录音骚，于10月28至29日开放抽签登记，截至30日深夜录得逾495万个登记申请。网上涌现「必中攻略」及黄牛暗盘，主办单位已报警备案并展开大规模核查，严打重复登记及可疑账户。大会承诺九成门票作公开发售，首轮中签结果11月2日公布。",
+      "en": "Eason Chan's 26 'Recording Sessions' live shows opened ballot registration on October 28-29 and had received over 4.95 million entries by late October 30. With scalpers and bogus 'guaranteed win' guides spreading online, organisers have filed a police report and launched large-scale screening against duplicate and suspicious registrations. Ninety percent of tickets are reserved for public sale, with first-round results out on November 2."
+    },
+    "tags": {
+      "zh_hant": [
+        "陳奕迅",
+        "演唱會",
+        "黃牛"
+      ],
+      "zh_hans": [
+        "陈奕迅",
+        "演唱会",
+        "黄牛"
+      ],
+      "en": [
+        "Eason Chan",
+        "concert",
+        "scalpers"
+      ]
+    }
+  },
+  {
+    "id": "20261031-vinexpo-asia-hong-kong",
+    "category": "hk",
+    "published_at": "2026-10-30T15:02:55+08:00",
+    "source": {
+      "name": "香港政府新聞網",
+      "url": "https://www.news.gov.hk/chi/2026/10/20261030/20261030_150255_290.html"
+    },
+    "image_url": "http://www.news.gov.hk/chi/2026/10/20261030/20261030_150255_290/images/20261030172417137.jpg",
+    "title": {
+      "zh_hant": "Vinexpo Asia連續五年獨家在港舉行　首場明年6月會展上演",
+      "zh_hans": "Vinexpo Asia连续五年独家在港举行　首场明年6月会展上演",
+      "en": "Vinexpo Asia to be held exclusively in Hong Kong for five straight years from 2027"
+    },
+    "summary": {
+      "zh_hant": "旅發局與全球葡萄酒和烈酒展覽主辦機構Vinexposium簽署諒解備忘錄，建立五年策略夥伴關係。國際葡萄酒和烈酒商貿展Vinexpo Asia由明年起至2031年連續五年每年獨家在香港舉行，首場明年6月8至10日在香港會議展覽中心舉行。簽約儀式在文體旅局局長羅淑佩和旅發局主席林建岳見證下完成。",
+      "zh_hans": "旅发局与全球葡萄酒和烈酒展览主办机构Vinexposium签署谅解备忘录，建立五年策略伙伴关系。国际葡萄酒和烈酒商贸展Vinexpo Asia由明年起至2031年连续五年每年独家在香港举行，首场明年6月8至10日在香港会议展览中心举行。签约仪式在文体旅局局长罗淑佩和旅发局主席林建岳见证下完成。",
+      "en": "The Hong Kong Tourism Board and global wine and spirits fair organiser Vinexposium signed an MOU establishing a five-year strategic partnership. Vinexpo Asia will be held exclusively in Hong Kong every year from 2027 to 2031, with the first edition on June 8-10 next year at the Hong Kong Convention and Exhibition Centre. The signing was witnessed by culture, sports and tourism secretary Rosanna Law and HKTB chairman Peter Lam."
+    },
+    "tags": {
+      "zh_hant": [
+        "Vinexpo Asia",
+        "旅發局",
+        "會展"
+      ],
+      "zh_hans": [
+        "Vinexpo Asia",
+        "旅发局",
+        "会展"
+      ],
+      "en": [
+        "Vinexpo Asia",
+        "HKTB",
+        "exhibitions"
+      ]
+    }
+  },
+  {
+    "id": "20261031-hkma-halloween-anti-fraud",
+    "category": "hk",
+    "published_at": "2026-10-29T13:45:46+08:00",
+    "source": {
+      "name": "觀點網",
+      "url": "https://my.guandian.hk/article/20261029/10045733.html"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "金管局萬聖節中環推防騙街頭活動　教跳「絕蕉舞」",
+      "zh_hans": "金管局万圣节中环推防骗街头活动　教跳「绝蕉舞」",
+      "en": "HKMA brings anti-scam street event to Central on Halloween with 'anti-scam dance'"
+    },
+    "summary": {
+      "zh_hant": "金管局今日下午5時至晚上11時在中環皇后大道中（中環街市外）舉辦萬聖節街頭互動體驗活動，即場教授「絕蕉舞」防騙招式，對抗假客服、假公安、假速遞員及交友騙局。警方統計今年首8個月本港錄得近3萬宗騙案，損失逾52億港元，平均每分鐘損失超過15,000港元。",
+      "zh_hans": "金管局今日下午5时至晚上11时在中环皇后大道中（中环街市外）举办万圣节街头互动体验活动，即场教授「绝蕉舞」防骗招式，对抗假客服、假公安、假速递员及交友骗局。警方统计今年首8个月本港录得近3万宗骗案，损失逾52亿港元，平均每分钟损失超过15,000港元。",
+      "en": "The HKMA is staging a Halloween street event outside Central Market on Queen's Road Central from 5pm to 11pm today, teaching an 'anti-scam dance' to fight fake customer-service, fake police, fake courier and romance scams. Police figures show nearly 30,000 scam cases in the first eight months of this year, with losses topping HK$5.2 billion — over HK$15,000 lost every minute."
+    },
+    "tags": {
+      "zh_hant": [
+        "金管局",
+        "防騙",
+        "萬聖節"
+      ],
+      "zh_hans": [
+        "金管局",
+        "防骗",
+        "万圣节"
+      ],
+      "en": [
+        "HKMA",
+        "anti-scam",
+        "Halloween"
+      ]
+    }
+  },
+  {
+    "id": "20261031-kindergarten-halloween-notice",
+    "category": "society",
+    "published_at": "2026-10-30T17:49:04+08:00",
+    "source": {
+      "name": "門徒媒體",
+      "url": "https://apostlesmedia.com/2026/10/30/1030/"
+    },
+    "image_url": "http://apostlesmedia.com/wp-content/uploads/2026/10/IMG_20261028_232255_611.jpg",
+    "title": {
+      "zh_hant": "幼稚園通告籲勿慶祝萬聖節　稱「供奉死神」惹網民熱議",
+      "zh_hans": "幼稚园通告吁勿庆祝万圣节　称「供奉死神」惹网民热议",
+      "en": "Kindergarten notice urging parents to shun Halloween as 'worshipping death' sparks online debate"
+    },
+    "summary": {
+      "zh_hant": "有教會幼稚園發通告呼籲家長「切勿慶祝萬聖節」，聲稱萬聖節源於供奉死神、召喚邪靈的「死節」，「不給糖就搗蛋」實為古代詛咒儀式。有家長將通告上載至Threads，引發近五千人點讚、逾千留言，網民幾乎一面倒批評校方說法極端，反問「聖誕節本是太陽神誕，教會是否也應反對慶祝」。",
+      "zh_hans": "有教会幼稚园发通告呼吁家长「切勿庆祝万圣节」，声称万圣节源于供奉死神、召唤邪灵的「死节」，「不给糖就捣蛋」实为古代诅咒仪式。有家长将通告上载至Threads，引发近五千人点赞、逾千留言，网民几乎一面倒批评校方说法极端，反问「圣诞节本是太阳神诞，教会是否也应反对庆祝」。",
+      "en": "A church-run kindergarten issued a notice urging parents not to celebrate Halloween, claiming the festival originated as a 'festival of death' worshipping the god of death and summoning evil spirits, with trick-or-treating rooted in ancient curses. A parent posted the notice on Threads, drawing nearly 5,000 likes and over 1,000 comments, with netizens overwhelmingly criticising the school as extreme — one asking whether churches should then also oppose Christmas, since December 25 was once a sun-god festival."
+    },
+    "tags": {
+      "zh_hant": [
+        "幼稚園",
+        "萬聖節",
+        "Threads"
+      ],
+      "zh_hans": [
+        "幼稚园",
+        "万圣节",
+        "Threads"
+      ],
+      "en": [
+        "kindergarten",
+        "Halloween",
+        "Threads"
+      ]
+    }
   }
 ]
