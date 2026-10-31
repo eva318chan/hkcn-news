@@ -1,5 +1,205 @@
 [
  {
+  "category": "hk",
+  "id": "20261031-customs-cigarette-conviction",
+  "image_url": "https://gia.info.gov.hk/general/202610/31/P2026103100534_photo_1342587.jpg",
+  "published_at": "2026-10-31T17:36:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/31/P2026103100534.htm"
+  },
+  "summary": {
+   "en": "Customs officers intercepted a 59-year-old Mainland woman at Heung Yuen Wai Boundary Control Point yesterday and seized 1,381 duty-not-paid cigarettes, worth about HK$6,200 with duty potential of about HK$4,500. She was sentenced to four weeks' imprisonment at Shatin Magistrates' Courts today. Customs welcomed the custodial sentence as a deterrent, reminding the public that the maximum penalty under the Dutiable Commodities Ordinance is a HK$2 million fine and seven years' imprisonment.",
+   "zh_hans": "海关昨日在香园围边境管制站截查一名59岁内地女旅客，在其身上搜出1,381支未完税香烟，市值约6,200元，应课税款约4,500元。该名旅客今日在沙田裁判法院被判监禁四星期。海关欢迎判刑，认为具相当阻吓作用，提醒市民切勿以身试法；根据《应课税品条例》，最高可判罚款200万元及监禁七年。",
+   "zh_hant": "海關昨日在香園圍邊境管制站截查一名59歲內地女旅客，在其身上搜出1,381支未完稅香煙，市值約6,200元，應課稅款約4,500元。該名旅客今日在沙田裁判法院被判監禁四星期。海關歡迎判刑，認為具相當阻嚇作用，提醒市民切勿以身試法；根據《應課稅品條例》，最高可判罰款200萬元及監禁七年。"
+  },
+  "tags": {
+   "en": [
+    "customs",
+    "illicit cigarettes",
+    "Heung Yuen Wai",
+    "smuggling"
+   ],
+   "zh_hans": [
+    "海关",
+    "未完税香烟",
+    "香园围",
+    "走私"
+   ],
+   "zh_hant": [
+    "海關",
+    "未完稅香煙",
+    "香園圍",
+    "走私"
+   ]
+  },
+  "title": {
+   "en": "Mainland woman jailed four weeks for smuggling 1,381 duty-not-paid cigarettes",
+   "zh_hans": "内地女旅客藏1,381支未完税烟闯关　判监四星期",
+   "zh_hant": "內地女旅客藏1,381支未完稅煙闖關　判監四星期"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261031-customs-airport-cannabis-seizure",
+  "image_url": "https://gia.info.gov.hk/general/202610/31/P2026103100514_photo_1342585.jpg",
+  "published_at": "2026-10-31T16:55:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202610/31/P2026103100514.htm"
+  },
+  "summary": {
+   "en": "Hong Kong Customs today intercepted a 37-year-old Mainland man arriving from Bangkok at Hong Kong International Airport, finding about 5 kilograms of suspected cannabis buds in his carry-on suitcase. The haul has an estimated market value of about HK$1.1 million, and the man was arrested. Customs said it will step up intelligence-led enforcement against drug trafficking, reminding the public that trafficking in dangerous drugs carries a maximum penalty of a HK$5 million fine and life imprisonment.",
+   "zh_hans": "海关今日在香港国际机场截查一名由泰国曼谷抵港的37岁内地男旅客，在其手提行李箱内搜出约5公斤怀疑大麻花，市值约110万元，该名男子随即被捕。案件仍在调查中。海关表示会继续加强情报分析打击跨境贩毒，并提醒市民切勿为金钱利益参与贩毒；根据《危险药物条例》，贩毒最高可判罚款500万元及终身监禁。",
+   "zh_hant": "海關今日在香港國際機場截查一名由泰國曼谷抵港的37歲內地男旅客，在其手提行李箱內搜出約5公斤懷疑大麻花，市值約110萬元，該名男子隨即被捕。案件仍在調查中。海關表示會繼續加強情報分析打擊跨境販毒，並提醒市民切勿為金錢利益參與販毒；根據《危險藥物條例》，販毒最高可判罰款500萬元及終身監禁。"
+  },
+  "tags": {
+   "en": [
+    "customs",
+    "drug trafficking",
+    "cannabis",
+    "airport"
+   ],
+   "zh_hans": [
+    "海关",
+    "贩毒",
+    "大麻",
+    "机场"
+   ],
+   "zh_hant": [
+    "海關",
+    "販毒",
+    "大麻",
+    "機場"
+   ]
+  },
+  "title": {
+   "en": "Customs seizes 5kg of suspected cannabis buds worth HK$1.1m at airport; Mainland man arrested",
+   "zh_hans": "机场截获5公斤大麻花值110万　37岁内地男旅客被捕",
+   "zh_hant": "機場截獲5公斤大麻花值110萬　37歲內地男旅客被捕"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261031-wang-fuk-court-inquiry-reforms",
+  "image_url": "",
+  "published_at": "2026-10-31T16:16:00+08:00",
+  "source": {
+   "name": "中國日報香港版",
+   "url": "https://en.prnasia.com/story/554068-0.shtml"
+  },
+  "summary": {
+   "en": "The government has released the report of the independent committee of inquiry into the Wang Fuk Court fire, proposing reforms to building maintenance oversight. Chief Secretary Eric Chan said the first phase of a centralized database of building maintenance projects and professionals will launch in May or June next year, while a new public body will help homeowners oversee repair works from January. Authorities also plan to amend ordinances to criminalize bid-rigging and other anti-competitive conduct in building maintenance tenders. The November 26, 2025 blaze killed 168 people and displaced nearly 2,000 families.",
+   "zh_hans": "政府公布宏福苑大火独立调查委员会报告，提出一系列楼宇维修监管改革。政务司司长陈国基表示，政府将于明年中推出楼宇维修工程及专业人士纪录中央数据库首阶段，并成立新公营机构，由明年1月起协助业主监督维修工程。当局亦计划修例打击楼宇维修招标中的围标等反竞争行为，包括将围标刑事化。宏福苑大火发生于去年11月26日，造成168人死亡、近2,000个家庭流离失所。",
+   "zh_hant": "政府公布宏福苑大火獨立調查委員會報告，提出一系列樓宇維修監管改革。政務司司長陳國基表示，政府將於明年中推出樓宇維修工程及專業人士紀錄中央資料庫首階段，並成立新公營機構，由明年1月起協助業主監督維修工程。當局亦計劃修例打擊樓宇維修招標中的圍標等反競爭行為，包括將圍標刑事化。宏福苑大火發生於去年11月26日，造成168人死亡、近2,000個家庭流離失所。"
+  },
+  "tags": {
+   "en": [
+    "Wang Fuk Court fire",
+    "building safety",
+    "bid-rigging",
+    "inquiry report"
+   ],
+   "zh_hans": [
+    "宏福苑大火",
+    "楼宇安全",
+    "围标",
+    "独立调查"
+   ],
+   "zh_hant": [
+    "宏福苑大火",
+    "樓宇安全",
+    "圍標",
+    "獨立調查"
+   ]
+  },
+  "title": {
+   "en": "Wang Fuk Court fire inquiry report released; government unveils building maintenance reforms",
+   "zh_hans": "宏福苑大火独立调查报告出炉　政府推楼宇维修监管改革",
+   "zh_hant": "宏福苑大火獨立調查報告出爐　政府推樓宇維修監管改革"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261031-paul-chan-growth-forecast",
+  "image_url": "",
+  "published_at": "2026-10-31T15:17:53+08:00",
+  "source": {
+   "name": "HK Businesswire",
+   "url": "https://hkbusinesswire.com/hk-may-see-strongest-growth-in-five-years-paul-chan/"
+  },
+  "summary": {
+   "en": "Financial Secretary Paul Chan said on a radio programme today that Hong Kong's economy grew 5.1% in the first half of the year, with strong exports and investment continuing into the third quarter, giving 2026 a chance of recording the strongest full-year growth in five years. He cited high visitor numbers, busy streets and mega events such as the Wine and Dine Festival, with FinTech Week coming up, as drivers of momentum.",
+   "zh_hans": "财政司司长陈茂波今日在电台节目表示，本港上半年经济增长5.1%，第三季出口及投资表现持续强劲，2026年全年经济增长有机会创五年来最强。他指出访港旅客数字高企、街头人流畅旺，加上美酒佳肴巡礼等多项盛事，以及即将举行的金融科技周，均为经济带来动力。",
+   "zh_hant": "財政司司長陳茂波今日在電台節目表示，本港上半年經濟增長5.1%，第三季出口及投資表現持續強勁，2026年全年經濟增長有機會創五年來最強。他指出訪港旅客數字高企、街頭人流暢旺，加上美酒佳餚巡禮等多項盛事，以及即將舉行的金融科技周，均為經濟帶來動力。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong economy",
+    "Paul Chan",
+    "GDP",
+    "FinTech Week"
+   ],
+   "zh_hans": [
+    "香港经济",
+    "陈茂波",
+    "GDP",
+    "金融科技周"
+   ],
+   "zh_hant": [
+    "香港經濟",
+    "陳茂波",
+    "GDP",
+    "金融科技周"
+   ]
+  },
+  "title": {
+   "en": "Paul Chan: Hong Kong may post strongest economic growth in five years in 2026",
+   "zh_hans": "陈茂波：香港今年经济增长或创五年最强",
+   "zh_hant": "陳茂波：香港今年經濟增長或創五年最強"
+  }
+ },
+ {
+  "category": "china",
+  "id": "20261031-commerce-ministry-dual-use-export-control",
+  "image_url": "",
+  "published_at": "2026-10-31T14:03:53+08:00",
+  "source": {
+   "name": "新浪財經",
+   "url": "https://finance.sina.cn/2026-10-31/detail-inixazss4861507.d.html"
+  },
+  "summary": {
+   "en": "The Ministry of Commerce has drafted measures on investigation and enforcement of dual-use item export controls and opened them for public comment until November 29. The draft comprises seven chapters and 61 articles covering procedural rules, supervision and inspection, case filing, administrative penalties, and enforcement and closure. The ministry said it will refine the draft based on feedback and push for early promulgation.",
+   "zh_hans": "商务部起草《两用物项出口管制调查执法办法（征求意见稿）》，即日起向社会公开征求意见，截止日期为11月29日。征求意见稿共七章六十一条，涵盖一般程序规则、监督检查、立案调查、行政处罚决定、执行与结案等内容。商务部表示，将根据反馈意见完善草案，推动办法尽快出台。",
+   "zh_hant": "商務部起草《兩用物項出口管制調查執法辦法（徵求意見稿）》，即日起向社會公開徵求意見，截止日期為11月29日。徵求意見稿共七章六十一條，涵蓋一般程序規則、監督檢查、立案調查、行政處罰決定、執行與結案等內容。商務部表示，將根據反饋意見完善草案，推動辦法盡快出台。"
+  },
+  "tags": {
+   "en": [
+    "export control",
+    "dual-use items",
+    "commerce ministry",
+    "China"
+   ],
+   "zh_hans": [
+    "出口管制",
+    "两用物项",
+    "商务部",
+    "中国"
+   ],
+   "zh_hant": [
+    "出口管制",
+    "兩用物項",
+    "商務部",
+    "中國"
+   ]
+  },
+  "title": {
+   "en": "Commerce ministry seeks public views on draft dual-use export control enforcement rules",
+   "zh_hans": "商务部就两用物项出口管制调查执法办法公开征求意见",
+   "zh_hant": "商務部就兩用物項出口管制調查執法辦法公開徵求意見"
+  }
+ },
+ {
   "id": "20261031-nvidia-megaspeed-spy-probe",
   "category": "tech",
   "published_at": "2026-10-30T11:18:00+08:00",
