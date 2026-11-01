@@ -294,5 +294,190 @@
     "中國"
    ]
   }
+ },
+ {
+  "id": "20261101-hk-cyber-drill-concluded",
+  "category": "hk",
+  "published_at": "2026-11-01T09:25:00+08:00",
+  "image_url": "https://gia.info.gov.hk/general/202611/01/P2026103100601_photo_1342591.jpg",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/01/P2026103100601.htm"
+  },
+  "title": {
+   "en": "Hong Kong Cybersecurity Attack and Defence Drill 2026 concludes after 60-hour exercise",
+   "zh_hant": "香港網絡安全攻防演練2026圓滿結束　51支藍隊60小時實戰",
+   "zh_hans": "香港网络安全攻防演练2026圆满结束　51支蓝队60小时实战"
+  },
+  "summary": {
+   "en": "The Hong Kong Cybersecurity Attack and Defence Drill 2026, spearheaded by the Digital Policy Office, concluded successfully last night (October 31). The three-day, 60-hour drill fielded 51 defending Blue Teams covering 28 government departments, 23 public organisations and newly joined private enterprises, against 23 attacking Red Teams from Hong Kong and Mainland cybersecurity bodies, four local tertiary institutions and teams recommended by the Cyberspace Administration of Guangdong. Acting Deputy Commissioner (Digital Infrastructure) Cari Wu witnessed the finale, thanked the co-organisers and participating teams, and encouraged continued collaboration to build a robust cybersecurity shield for Hong Kong.",
+   "zh_hant": "由數字政策辦公室牽頭的「香港網絡安全攻防演練2026」昨晚（10月31日）圓滿結束。今屆演練歷時三日共60小時，51支防守藍隊涵蓋28個政府部門、23間公營機構及新加入的私營企業；23支攻擊紅隊來自中港兩地網絡安全專業機構、四間本地大專院校及廣東省網信辦推薦隊伍。署理副專員（數字基建）胡嘉兒在現場見證演練結束，感謝各協辦單位及參賽隊伍，並鼓勵各單位繼續在網絡安全領域緊密交流，共同為香港築起高水平網絡安全屏障。",
+   "zh_hans": "由数字政策办公室牵头的「香港网络安全攻防演练2026」昨晚（10月31日）圆满结束。本届演练历时三日共60小时，51支防守蓝队涵盖28个政府部门、23间公营机构及新加入的私营企业；23支攻击红队来自中港两地网络安全专业机构、四间本地大专院校及广东省网信办推荐队伍。署理副专员（数字基建）胡嘉儿在现场见证演练结束，感谢各协办单位及参赛队伍，并鼓励各单位继续在网络安全领域紧密交流，共同为香港筑起高水平网络安全屏障。"
+  },
+  "tags": {
+   "en": [
+    "cybersecurity",
+    "Digital Policy Office",
+    "attack and defence drill"
+   ],
+   "zh_hant": [
+    "網絡安全",
+    "數字政策辦公室",
+    "攻防演練"
+   ],
+   "zh_hans": [
+    "网络安全",
+    "数字政策办公室",
+    "攻防演练"
+   ]
+  }
+ },
+ {
+  "id": "20261101-north-korea-missile-test",
+  "category": "world",
+  "published_at": "2026-11-01T09:29:32+08:00",
+  "image_url": "",
+  "source": {
+   "name": "京報網（新華社）",
+   "url": "https://news.bjd.com.cn/2026/11/01/12014033.shtml"
+  },
+  "title": {
+   "en": "North Korea conducts power assessment test of tactical ballistic missile dispersal warhead",
+   "zh_hant": "朝鮮進行戰術導彈散布戰鬥部威力評估試驗",
+   "zh_hans": "朝鲜进行战术导弹散布战斗部威力评估试验"
+  },
+  "summary": {
+   "en": "North Korea's Missile Administration conducted a power assessment test of a tactical ballistic missile dispersal warhead on October 31, the KCNA reported on November 1. Test results released by the administration's ballistic missile system and warhead institutes showed that a standard Type-2 dispersal warhead could level a target area of about 12 to 13 hectares. The administration said the test was part of regular scientific research aimed at enhancing combat system power.",
+   "zh_hant": "據朝中社11月1日報道，朝鮮導彈總局10月31日進行了戰術彈道導彈散布戰鬥部威力評估試驗。朝鮮導彈總局彈道導彈系統研究所和戰鬥部研究所公布的試驗結果顯示，採用標準二型散布戰鬥部可將約12至13公頃目標區域夷為平地。導彈總局表示，今次試驗屬於定期開展的科研活動，旨在提升戰鬥系統威力。",
+   "zh_hans": "据朝中社11月1日报道，朝鲜导弹总局10月31日进行了战术弹道导弹散布战斗部威力评估试验。朝鲜导弹总局弹道导弹系统研究所和战斗部研究所公布的试验结果显示，采用标准二型散布战斗部可将约12至13公顷目标区域夷为平地。导弹总局表示，今次试验属于定期开展的科研活动，旨在提升战斗系统威力。"
+  },
+  "tags": {
+   "en": [
+    "North Korea",
+    "missile test",
+    "Xinhua"
+   ],
+   "zh_hant": [
+    "朝鮮",
+    "導彈試驗",
+    "新華社"
+   ],
+   "zh_hans": [
+    "朝鲜",
+    "导弹试验",
+    "新华社"
+   ]
+  }
+ },
+ {
+  "id": "20261101-gba-innovation-signing",
+  "category": "tech",
+  "published_at": "2026-11-01T09:07:24+08:00",
+  "image_url": "https://k.sinaimg.cn/n/sinakd20261101s/199/w640h359/20261101/bee4-57de49439ac1fe8b91846564692a7a31.jpg/w700d1q75cms.jpg?by=cms_fixed_width",
+  "source": {
+   "name": "新浪財經（中新社）",
+   "url": "https://finance.sina.cn/2026-11-01/detail-inixetzz6797392.d.html"
+  },
+  "title": {
+   "en": "GBA National Innovation Center signs 11 partnerships to deepen industry-academia collaboration",
+   "zh_hant": "大灣區國創中心與11家單位簽約　推進產學研合作",
+   "zh_hans": "大湾区国创中心与11家单位签约　推进产学研合作"
+  },
+  "summary": {
+   "en": "The Guangdong-Hong Kong-Macao Greater Bay Area National Center of Technology Innovation signed industry-academia-research cooperation agreements with 11 partners, including Topstar and Maiwei Technology, at a 2026 Greater Bay Area Science Forum event in Nansha, Guangzhou yesterday. Themed 'Wisdom converges in the GBA, sci-tech innovation leads the future', the event focused on embodied intelligence, advanced manufacturing and industrial software. A sci-tech achievement exhibition runs at the Nansha International Convention and Exhibition Center from October 31 to November 2, with over 40 exhibitors showcasing innovations and applications.",
+   "zh_hant": "粵港澳大灣區國家技術創新中心昨日在廣州南沙舉行的2026大灣區科學論壇專場活動上，與拓斯達、邁為技術等11家單位簽署產學研合作協議，推動科研供給精準對接企業技術需求。活動以「智匯大灣區　科創領未來」為主題，聚焦具身智能、先進製造、工業軟件等前沿領域。10月31日至11月2日，科技成果展覽在南沙國際會展中心同期舉行，40餘家單位集中展示創新成果與應用實踐。",
+   "zh_hans": "粤港澳大湾区国家技术创新中心昨日在广州南沙举行的2026大湾区科学论坛专场活动上，与拓斯达、迈为技术等11家单位签署产学研合作协议，推动科研供给精准对接企业技术需求。活动以「智汇大湾区　科创领未来」为主题，聚焦具身智能、先进制造、工业软件等前沿领域。10月31日至11月2日，科技成果展览在南沙国际会展中心同期举行，40余家单位集中展示创新成果与应用实践。"
+  },
+  "tags": {
+   "en": [
+    "Greater Bay Area",
+    "innovation",
+    "industry-academia collaboration"
+   ],
+   "zh_hant": [
+    "大灣區",
+    "科技創新",
+    "產學研"
+   ],
+   "zh_hans": [
+    "大湾区",
+    "科技创新",
+    "产学研"
+   ]
+  }
+ },
+ {
+  "id": "20261101-china-vat-withholding",
+  "category": "finance",
+  "published_at": "2026-11-01T08:32:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "新浪財經（中國稅務報、第一財經）",
+   "url": "https://finance.sina.cn/2026-11-01/detail-inixetzy1014967.d.html"
+  },
+  "title": {
+   "en": "China's VAT withholding mechanism for individuals' service income takes effect today",
+   "zh_hant": "內地自然人增值稅代扣代繳今起施行　單位代個人繳稅",
+   "zh_hans": "内地自然人增值税代扣代缴今起施行　单位代个人缴税"
+  },
+  "summary": {
+   "en": "China's first VAT withholding mechanism for individuals took effect today. Under the new rules from the Ministry of Finance and the State Taxation Administration, domestic entities purchasing R&D, software, design, consulting, film and TV production, cultural and education services from individuals must withhold and remit VAT. The statutory rate is 3%, reduced to 1% through end-2027; withholders must file and pay within 15 days from the first day of the month following the taxable transaction.",
+   "zh_hant": "內地首次引入的自然人增值稅代扣代繳機制今日起正式施行。根據財政部、稅務總局公布的《境內單位代扣代繳自然人增值稅管理辦法》，境內單位向自然人購買研發、軟件、設計、諮詢、影視製作、文化及教育等服務時，須按規定代扣代繳增值稅。現行法定徵收率為3%，2027年底前減按1%徵稅；扣繳義務人須於發生應稅交易次月1日起15日內完成申報繳稅。",
+   "zh_hans": "内地首次引入的自然人增值税代扣代缴机制今日起正式施行。根据财政部、税务总局公布的《境内单位代扣代缴自然人增值税管理办法》，境内单位向自然人购买研发、软件、设计、咨询、影视制作、文化及教育等服务时，须按规定代扣代缴增值税。现行法定征收率为3%，2027年底前减按1%征税；扣缴义务人须于发生应税交易次月1日起15日内完成申报缴税。"
+  },
+  "tags": {
+   "en": [
+    "VAT",
+    "tax",
+    "China policy"
+   ],
+   "zh_hant": [
+    "增值稅",
+    "稅務",
+    "內地政策"
+   ],
+   "zh_hans": [
+    "增值税",
+    "税务",
+    "内地政策"
+   ]
+  }
+ },
+ {
+  "id": "20261101-china-moon-mission-plan",
+  "category": "tech",
+  "published_at": "2026-11-01T08:57:04+08:00",
+  "image_url": "",
+  "source": {
+   "name": "新浪財經（央視新聞）",
+   "url": "https://finance.sina.cn/stock/jdts/2026-11-01/detail-inixetzw4245017.d.html"
+  },
+  "title": {
+   "en": "China's crewed lunar mission adopts two-launch lunar-orbit rendezvous plan",
+   "zh_hant": "中國載人登月採「兩次發射、環月對接」方案　研製穩步推進",
+   "zh_hans": "中国载人登月采「两次发射、环月对接」方案　研制稳步推进"
+  },
+  "summary": {
+   "en": "China's crewed lunar exploration program will use a 'two launches, lunar-orbit rendezvous' approach, chief designer Wang Xiang revealed at the 7th Manned Spaceflight Academic Conference that opened October 31. Two rockets will separately send the Lanyue lunar lander and the Mengzhou crewed spacecraft into Earth-Moon transfer orbit before rendezvous and docking in lunar orbit. Development work for the lunar landing phase is progressing steadily. The two-day conference drew over 800 experts under the theme of empowering high-quality manned spaceflight with digital intelligence.",
+   "zh_hant": "在10月31日開幕的第七屆載人航天學術大會上，中國載人月球探測工程總設計師王翔透露，工程採用「兩次發射、環月對接」方案：兩枚火箭分別將「攬月」月面着陸器與「夢舟」載人飛船送入地月轉移軌道，再於環月軌道交會對接。目前工程登月階段各項研製建設工作正穩步推進。本屆大會為期兩天，800餘位專家學者以「智匯星河　數智賦能載人航天高質量發展」為主題交流研討。",
+   "zh_hans": "在10月31日开幕的第七届载人航天学术大会上，中国载人月球探测工程总设计师王翔透露，工程采用「两次发射、环月对接」方案：两枚火箭分别将「揽月」月面着陆器与「梦舟」载人飞船送入地月转移轨道，再于环月轨道交会对接。目前工程登月阶段各项研制建设工作正稳步推进。本届大会为期两天，800余位专家学者以「智汇星河　数智赋能载人航天高质量发展」为主题交流研讨。"
+  },
+  "tags": {
+   "en": [
+    "crewed lunar mission",
+    "space",
+    "China aerospace"
+   ],
+   "zh_hant": [
+    "載人登月",
+    "航天",
+    "中國航天"
+   ],
+   "zh_hans": [
+    "载人登月",
+    "航天",
+    "中国航天"
+   ]
+  }
  }
 ]
