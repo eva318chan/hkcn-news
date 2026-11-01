@@ -1,483 +1,668 @@
 [
- {
-  "id": "20261031-sorrento-man-fall-helper-injured",
-  "category": "hk",
-  "published_at": "2026-10-31T21:54:00+08:00",
-  "image_url": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/31215331/Sorrento-33-696x549.webp",
-  "source": {
-   "name": "Dim Sum Daily",
-   "url": "https://www.dimsumdaily.hk/drunk-man-falls-at-sorrento-injuring-foreign-domestic-helper-in-west-kowloon/"
+  {
+    "id": "20261031-sorrento-man-fall-helper-injured",
+    "category": "hk",
+    "published_at": "2026-10-31T21:54:00+08:00",
+    "image_url": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/31215331/Sorrento-33-696x549.webp",
+    "source": {
+      "name": "Dim Sum Daily",
+      "url": "https://www.dimsumdaily.hk/drunk-man-falls-at-sorrento-injuring-foreign-domestic-helper-in-west-kowloon/"
+    },
+    "title": {
+      "en": "Man suspected of falling after drinking at West Kowloon's Sorrento, injuring helper below",
+      "zh_hans": "擎天半岛男子疑醉酒后失足坠楼　压伤平台外籍女佣",
+      "zh_hant": "擎天半島男子疑醉酒後失足墮樓　壓傷平台外籍女傭"
+    },
+    "summary": {
+      "en": "A man fell from a height at Sorrento, 1 Austin Road West in West Kowloon, at around 7:43pm on Saturday, striking a foreign domestic helper who was walking on the podium below. Both were conscious when rescuers arrived: the man was taken to Queen Elizabeth Hospital and the woman to Kwong Wah Hospital. Preliminary information suggests the man had been at a barbecue gathering at the residential clubhouse and may have lost his footing after drinking; the injured man was seen wearing a neck brace as he was carried to hospital on a stretcher. Police are investigating the circumstances.",
+      "zh_hans": "一名男子昨晚（31 日）约 7 时 43 分在西九龙柯士甸道西 1 号擎天半岛怀疑从高处坠下，压中一名正在平台行走的外籍家庭佣工。两人获救时均清醒，男子送往伊利沙伯医院治理，女佣送往广华医院。初步消息指，男子曾在屋苑会所参加烧烤聚会，怀疑饮酒后失足坠下；伤者戴上颈箍、由担架床送院，旁有女伴陪同。警方正调查事件经过。",
+      "zh_hant": "一名男子昨晚（31 日）約 7 時 43 分在西九龍柯士甸道西 1 號擎天半島懷疑從高處墮下，壓中一名正在平台行走的外籍家庭傭工。兩人獲救時均清醒，男子送往伊利沙伯醫院治理，女傭送往廣華醫院。初步消息指，男子曾在屋苑會所參加燒烤聚會，懷疑飲酒後失足墮下；傷者戴上頸箍、由擔架床送院，旁有女伴陪同。警方正調查事件經過。"
+    },
+    "tags": {
+      "en": [
+        "Sorrento",
+        "West Kowloon",
+        "fall from height"
+      ],
+      "zh_hans": [
+        "擎天半岛",
+        "西九龙",
+        "坠楼"
+      ],
+      "zh_hant": [
+        "擎天半島",
+        "西九龍",
+        "墮樓"
+      ]
+    }
   },
-  "title": {
-   "en": "Man suspected of falling after drinking at West Kowloon's Sorrento, injuring helper below",
-   "zh_hans": "擎天半岛男子疑醉酒后失足坠楼　压伤平台外籍女佣",
-   "zh_hant": "擎天半島男子疑醉酒後失足墮樓　壓傷平台外籍女傭"
+  {
+    "id": "20261101-us-daylight-saving-ends",
+    "category": "world",
+    "published_at": "2026-10-31T23:22:00+08:00",
+    "image_url": "https://images.timesnowworld.com/thumb/msid-156442843,width-1280,height-720,resizemode-75/156442843.jpg",
+    "source": {
+      "name": "Times Now World",
+      "url": "https://www.timesnowworld.com/us-news/us-daylight-saving-time-ends-november-2026-article-156442843"
+    },
+    "title": {
+      "en": "US ends daylight saving time, clocks fall back one hour",
+      "zh_hans": "美国今晨结束夏令时间　时钟拨慢一小时",
+      "zh_hant": "美國今晨結束夏令時間　時鐘撥慢一小時"
+    },
+    "summary": {
+      "en": "Most of the United States ended daylight saving time at 2:00 a.m. local time on Sunday, November 1, with clocks turned back one hour to standard time, giving people an extra hour of sleep. Hawaii, most of Arizona and several US territories do not observe the change. Debate over making daylight saving permanent continues: the Sunshine Protection Act passed the House in July 2026, but Senate leaders say there is no consensus for it to become law.",
+      "zh_hans": "美国大部分地区于当地时间11月1日凌晨2时结束夏令时间，时钟拨慢一小时回复标准时间，民众可多睡一小时。夏威夷、亚利桑那州大部分地区及多个美国属地不参与调钟。应否永久采用夏令时间在美国政坛仍争论不休：《阳光保护法案》今年7月已在众议院通过，但参议院领袖指暂未有共识令其成为法律。",
+      "zh_hant": "美國大部分地區於當地時間11月1日凌晨2時結束夏令時間，時鐘撥慢一小時回復標準時間，民眾可多睡一小時。夏威夷、亞利桑那州大部分地區及多個美國屬地不參與調鐘。應否永久採用夏令時間在美國政壇仍爭論不休：《陽光保護法案》今年7月已在眾議院通過，但參議院領袖指暫未有共識令其成為法律。"
+    },
+    "tags": {
+      "en": [
+        "US",
+        "daylight saving time",
+        "standard time"
+      ],
+      "zh_hans": [
+        "美国",
+        "夏令时间",
+        "标准时间"
+      ],
+      "zh_hant": [
+        "美國",
+        "夏令時間",
+        "標準時間"
+      ]
+    }
   },
-  "summary": {
-   "en": "A man fell from a height at Sorrento, 1 Austin Road West in West Kowloon, at around 7:43pm on Saturday, striking a foreign domestic helper who was walking on the podium below. Both were conscious when rescuers arrived: the man was taken to Queen Elizabeth Hospital and the woman to Kwong Wah Hospital. Preliminary information suggests the man had been at a barbecue gathering at the residential clubhouse and may have lost his footing after drinking; the injured man was seen wearing a neck brace as he was carried to hospital on a stretcher. Police are investigating the circumstances.",
-   "zh_hans": "一名男子昨晚（31 日）约 7 时 43 分在西九龙柯士甸道西 1 号擎天半岛怀疑从高处坠下，压中一名正在平台行走的外籍家庭佣工。两人获救时均清醒，男子送往伊利沙伯医院治理，女佣送往广华医院。初步消息指，男子曾在屋苑会所参加烧烤聚会，怀疑饮酒后失足坠下；伤者戴上颈箍、由担架床送院，旁有女伴陪同。警方正调查事件经过。",
-   "zh_hant": "一名男子昨晚（31 日）約 7 時 43 分在西九龍柯士甸道西 1 號擎天半島懷疑從高處墮下，壓中一名正在平台行走的外籍家庭傭工。兩人獲救時均清醒，男子送往伊利沙伯醫院治理，女傭送往廣華醫院。初步消息指，男子曾在屋苑會所參加燒烤聚會，懷疑飲酒後失足墮下；傷者戴上頸箍、由擔架床送院，旁有女伴陪同。警方正調查事件經過。"
+  {
+    "id": "20261101-macau-culture-sports-bureau",
+    "category": "china",
+    "published_at": "2026-10-27T20:36:00+08:00",
+    "image_url": "",
+    "source": {
+      "name": "觀點網",
+      "url": "https://www.guandian.hk/article/20261027/10043306.html"
+    },
+    "title": {
+      "en": "Macau's new Culture and Sports Bureau takes effect today after four-body merger",
+      "zh_hans": "澳门文化体育局今起生效　四机构合并重组",
+      "zh_hant": "澳門文化體育局今起生效　四機構合併重組"
+    },
+    "summary": {
+      "en": "Macau's Executive Council has completed deliberation on the administrative regulation on the organisation and operation of the new Culture and Sports Bureau, which merges the Cultural Affairs Bureau, the Cultural Development Fund, the Sports Bureau and the Sports Fund. The regulation takes effect today, November 1. The reorganised bureau will carry out eight core functions covering tangible and intangible cultural heritage, libraries and archives, cultural and arts development, culture and sports industry cultivation, public sports and events, and elite athletes and sports science.",
+      "zh_hans": "澳门行政会早前完成讨论《文化体育局的组织及运作》行政法规草案，合并重组文化局、文化发展基金、体育局及体育基金，设立文化体育局，法规自今日（11月1日）起生效。重组后的文化体育局将履行八大核心职能，涵盖物质与非物质文化遗产、图书与档案、文化艺术事业发展、文化体育产业培育、大众体育与赛事，以及精英运动员与体育科学等。",
+      "zh_hant": "澳門行政會早前完成討論《文化體育局的組織及運作》行政法規草案，合併重組文化局、文化發展基金、體育局及體育基金，設立文化體育局，法規自今日（11月1日）起生效。重組後的文化體育局將履行八大核心職能，涵蓋物質與非物質文化遺產、圖書與檔案、文化藝術事業發展、文化體育產業培育、大眾體育與賽事，以及精英運動員與體育科學等。"
+    },
+    "tags": {
+      "en": [
+        "Macau",
+        "Culture and Sports Bureau",
+        "administrative reform"
+      ],
+      "zh_hans": [
+        "澳门",
+        "文化体育局",
+        "行政改革"
+      ],
+      "zh_hant": [
+        "澳門",
+        "文化體育局",
+        "行政改革"
+      ]
+    }
   },
-  "tags": {
-   "en": [
-    "Sorrento",
-    "West Kowloon",
-    "fall from height"
-   ],
-   "zh_hans": [
-    "擎天半岛",
-    "西九龙",
-    "坠楼"
-   ],
-   "zh_hant": [
-    "擎天半島",
-    "西九龍",
-    "墮樓"
-   ]
+  {
+    "id": "20261101-nicholas-tse-wenzhou",
+    "category": "entertainment",
+    "published_at": "2026-10-31T23:27:00+08:00",
+    "image_url": "",
+    "source": {
+      "name": "新浪娛樂",
+      "url": "https://ent.sina.cn/2026-10-31/detail-inixcwwp3638766.d.html?vt=4"
+    },
+    "title": {
+      "en": "Nicholas Tse's Wenzhou shows continue tonight with upgraded rock stage",
+      "zh_hans": "谢霆锋温州站今晚第二场　机械摇滚舞台藏歌单",
+      "zh_hant": "謝霆鋒溫州站今晚第二場　機械搖滾舞台藏歌單"
+    },
+    "summary": {
+      "en": "Nicholas Tse's 'Evolution Nic Live' concert opened its two-night Wenzhou stand at the Wenzhou Olympic Sports Center Stadium last night, with the second show tonight (November 1). Rehearsals revealed an upgraded mechanical-rock stage design replacing the cyber aesthetic, with Tse in a hoodie wielding his angel guitar. Soundcheck versions of 'Volcano' and 'Miscalculation' were heard, while the official setlist still holds hidden surprises. Both shows sold out on release.",
+      "zh_hans": "谢霆锋「Evolution Nic Live进化演唱会」温州站昨晚在温州奥体中心体育场开唱，今晚（1日）举行第二场。彩排透露本站舞台由赛博风升级为机械摇滚风格，谢霆锋身穿带帽卫衣、手持天使吉他亮相；《活火山》《估计错误》等已在彩排唱响，正式歌单仍有「隐藏款」待揭晓。两场门票早前开售即告售罄。",
+      "zh_hant": "謝霆鋒「Evolution Nic Live進化演唱會」溫州站昨晚在溫州奧體中心體育場開唱，今晚（1日）舉行第二場。彩排透露本站舞台由賽博風升級為機械搖滾風格，謝霆鋒身穿帶帽衛衣、手持天使吉他亮相；《活火山》《估計錯誤》等已在彩排唱響，正式歌單仍有「隱藏款」待揭曉。兩場門票早前開售即告售罄。"
+    },
+    "tags": {
+      "en": [
+        "Nicholas Tse",
+        "concert",
+        "Wenzhou"
+      ],
+      "zh_hans": [
+        "谢霆锋",
+        "演唱会",
+        "温州"
+      ],
+      "zh_hant": [
+        "謝霆鋒",
+        "演唱會",
+        "溫州"
+      ]
+    }
+  },
+  {
+    "id": "20261101-moon-ghost-cluster",
+    "category": "society",
+    "published_at": "2026-10-30T14:49:00+08:00",
+    "image_url": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/10/30132802/taipei-cover-261030052800382.jpeg",
+    "source": {
+      "name": "報新聞 Mega News",
+      "url": "https://www.contentplatform.info/articles/554972/11%E6%9C%881%E6%97%A5%E6%B7%B1%E5%A4%9C%E6%9C%88%E5%85%A5%E9%AC%BC%E5%AE%BF%E6%98%9F%E5%9C%98-%E5%8F%B0%E5%8C%97%E5%A4%A9%E6%96%87%E9%A4%A8%E5%BB%BA%E8%AD%B0%E7%94%A8%E9%9B%99%E7%AD%92%E6%9C%9B/"
+    },
+    "title": {
+      "en": "Moon to pass through Ghost Cluster tonight; Taipei observatory urges binocular viewing",
+      "zh_hans": "今晚11时月入鬼宿星团　台北天文馆吁用双筒望远镜赏月伴星",
+      "zh_hant": "今晚11時月入鬼宿星團　台北天文館籲用雙筒望遠鏡賞月伴星"
+    },
+    "summary": {
+      "en": "From around 11 p.m. tonight (November 1) until about 1 a.m., the Moon will pass in front of the Ghost Cluster in Cancer, creating a striking moon-meets-starfield sight. The Taipei Astronomical Museum advises the public to use binoculars and look toward the eastern sky for the best view. The Ghost Cluster is a well-known open star cluster that appears to the naked eye as a hazy patch of light.",
+      "zh_hans": "今晚（1日）深夜11时至明日凌晨1时左右，月球将行经巨蟹座的鬼宿星团，形成月伴群星的特殊天象。台北天文馆建议民众透过双筒望远镜朝东方天空观赏，把握秋冬夜空的独特景致。鬼宿星团是著名的疏散星团，肉眼看来如一团朦胧白雾，又被称为「积尸气」。",
+      "zh_hant": "今晚（1日）深夜11時至明日凌晨1時左右，月球將行經巨蟹座的鬼宿星團，形成月伴群星的特殊天象。台北天文館建議民眾透過雙筒望遠鏡朝東方天空觀賞，把握秋冬夜空的獨特景致。鬼宿星團是著名的疏散星團，肉眼看來如一團朦朧白霧，又被稱為「積尸氣」。"
+    },
+    "tags": {
+      "en": [
+        "astronomy",
+        "Moon",
+        "Ghost Cluster"
+      ],
+      "zh_hans": [
+        "天文",
+        "月球",
+        "鬼宿星团"
+      ],
+      "zh_hant": [
+        "天文",
+        "月球",
+        "鬼宿星團"
+      ]
+    }
+  },
+  {
+    "id": "20261101-iran-rezaei-vance-letter",
+    "category": "world",
+    "published_at": "2026-11-01T03:04:00+08:00",
+    "image_url": "",
+    "source": {
+      "name": "Farda News",
+      "url": "https://www.fardanews.com/%D8%A8%D8%AE%D8%B4-%D9%81%DB%8C%D9%84%D9%85-%D8%B9%DA%A9%D8%B3-%D8%AE%D8%A8%D8%B1%DB%8C-103/1417162-%D8%B3%D8%B1%D9%84%D8%B4%DA%A9%D8%B1-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D9%88-%D8%A2%D8%BA%D8%A7%D8%B2-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B4%D8%B1%D8%B7-%D9%85%D9%86%D9%88%D8%B7-%DA%A9%D8%B1%D8%AF"
+    },
+    "title": {
+      "en": "Rezaei says he has read Vance's letter but not replied; Strait of Hormuz stays closed",
+      "zh_hans": "雷扎伊：已阅万斯来信未回复　霍尔木兹海峡维持关闭",
+      "zh_hant": "雷扎伊：已閱萬斯來信未回覆　霍爾木茲海峽維持關閉"
+    },
+    "summary": {
+      "en": "Iran's Supreme National Security Council secretary Mohsen Rezaei said in an interview aired on Iranian television that he has read the letter from US Vice President J.D. Vance but has not yet replied, describing the changed American tone as a good sign. He stressed, however, that the Strait of Hormuz will remain closed and no negotiations will begin until Iran's seven conditions are met. Foreign Minister Abbas Araghchi said separately that a Qatari-mediated proposal could reopen the strait within two days, but Tehran currently has no plans to meet US officials.",
+      "zh_hans": "伊朗最高国家安全委员会秘书雷扎伊在伊朗电视台播出的访问中表示，已读过美国副总统万斯的来信但尚未回复，形容美方语气「完全改变」是好兆头，但强调在伊朗提出的七项条件获满足前，不会开放霍尔木兹海峡，也不会展开谈判。伊朗外长阿拉格齐同日表示，卡塔尔斡旋下或有方案在两日内重开海峡，但伊朗目前无意与美方官员会面。",
+      "zh_hant": "伊朗最高國家安全委員會秘書雷扎伊在伊朗電視台播出的訪問中表示，已讀過美國副總統萬斯的來信但尚未回覆，形容美方語氣「完全改變」是好兆頭，但強調在伊朗提出的七項條件獲滿足前，不會開放霍爾木茲海峽，也不會展開談判。伊朗外長阿拉格齊同日表示，卡塔爾斡旋下或有方案在兩日內重開海峽，但伊朗目前無意與美方官員會面。"
+    },
+    "tags": {
+      "en": [
+        "Iran",
+        "Strait of Hormuz",
+        "US-Iran"
+      ],
+      "zh_hans": [
+        "伊朗",
+        "霍尔木兹海峡",
+        "美伊关系"
+      ],
+      "zh_hant": [
+        "伊朗",
+        "霍爾木茲海峽",
+        "美伊關係"
+      ]
+    }
+  },
+  {
+    "id": "20261101-bocuse-dor-macau",
+    "category": "society",
+    "published_at": "2026-10-31T18:00:00+08:00",
+    "image_url": "https://www.gcs.gov.mo/fp/N26JeUAaH6_f20261031174412sa6b/m/",
+    "source": {
+      "name": "EIN Presswire",
+      "url": "https://world.einnews.com/pr_news/953623297/premier-culinary-event-2026-bocuse-d-or-asia-pacific-takes-center-stage-on-1-and-2-november-eight-lead-chefs-and-teams-compete-for-entry-into-the"
+    },
+    "title": {
+      "en": "Bocuse d'Or Asia-Pacific selection begins in Macau today; China team competes on day one",
+      "zh_hans": "名厨赛亚太区选拔赛今起一连两日澳门举行　中国队首日登场",
+      "zh_hant": "名廚賽亞太區選拔賽今起一連兩日澳門舉行　中國隊首日登場"
+    },
+    "summary": {
+      "en": "The Bocuse d'Or Asia-Pacific 2026 selection, hailed as the 'Olympics of gastronomy', takes place at The Venetian Macao today and tomorrow (November 1-2), with eight lead chefs and their teams competing for places in the grand final. China's lead chef Chun Kei Wong competes today alongside teams from Vietnam, India and Sri Lanka; New Zealand, Malaysia, Japan and Thailand follow tomorrow. The official opening ceremony was held at Macau Fisherman's Wharf yesterday afternoon.",
+      "zh_hans": "有「厨艺奥运」之称的Bocuse d'Or名厨赛，亚太区选拔赛首次移师澳门，今明两日（11月1至2日）在澳门威尼斯人举行，8位主厨及团队竞逐晋级全球总决赛资格。中国队主厨黄俊基将于今日登场，同场还有越南、印度及斯里兰卡队；新西兰、马来西亚、日本及泰国队则于明日出战。官方开幕礼昨日已在澳门渔人码头举行。",
+      "zh_hant": "有「廚藝奧運」之稱的Bocuse d'Or名廚賽，亞太區選拔賽首次移師澳門，今明兩日（11月1至2日）在澳門威尼斯人舉行，8位主廚及團隊競逐晉級全球總決賽資格。中國隊主廚黃俊基將於今日登場，同場還有越南、印度及斯里蘭卡隊；紐西蘭、馬來西亞、日本及泰國隊則於明日出戰。官方開幕禮昨日已在澳門漁人碼頭舉行。"
+    },
+    "tags": {
+      "en": [
+        "Bocuse d'Or",
+        "Macau",
+        "culinary"
+      ],
+      "zh_hans": [
+        "名厨赛",
+        "澳门",
+        "厨艺"
+      ],
+      "zh_hant": [
+        "名廚賽",
+        "澳門",
+        "廚藝"
+      ]
+    }
+  },
+  {
+    "id": "20261101-australia-china-tourism",
+    "category": "finance",
+    "published_at": "2026-10-31T21:25:00+08:00",
+    "image_url": "",
+    "source": {
+      "name": "新浪財經",
+      "url": "https://finance.sina.cn/2026-10-31/detail-inixcsqr3732242.d.html"
+    },
+    "title": {
+      "en": "Australia tourism chief: China remains a leading source market",
+      "zh_hans": "澳旅游局：中国仍是领先客源市场　消费占比近三成",
+      "zh_hant": "澳旅遊局：中國仍是領先客源市場　消費佔比近三成"
+    },
+    "summary": {
+      "en": "Tourism Australia managing director Robin Mac told Xinhua that China's outbound travel market to Australia is growing strongly and China remains one of its leading source markets, expected to stay so in the coming years. Australian Bureau of Statistics data shows mainland China was Australia's second-largest short-term visitor source in FY2025-26 with 1.127 million arrivals, up about 18.2% year on year; in the 12 months to June 2026, mainland Chinese visitors were also the biggest contributors to international visitor spending in Australia at 29%.",
+      "zh_hans": "澳洲旅游局局长麦克接受新华社访问时表示，中国赴澳旅游市场增长强劲，中国一直是澳洲领先的客源市场之一，预计未来数年仍将如此。澳洲统计局数据显示，2025至2026财年，中国内地是澳洲第二大短期旅客来源地，入境112.7万人次，按年增长约18.2%；截至2026年6月的12个月内，中国内地旅客更是澳洲国际访客消费的最大贡献者，占比达29%。",
+      "zh_hant": "澳洲旅遊局局長麥克接受新華社訪問時表示，中國赴澳旅遊市場增長強勁，中國一直是澳洲領先的客源市場之一，預計未來數年仍將如此。澳洲統計局數據顯示，2025至2026財年中國內地是澳洲第二大短期旅客來源地，入境112.7萬人次，按年增長約18.2%；截至2026年6月的12個月內，中國內地旅客更是澳洲國際訪客消費的最大貢獻者，佔比達29%。"
+    },
+    "tags": {
+      "en": [
+        "Australia",
+        "tourism",
+        "China"
+      ],
+      "zh_hans": [
+        "澳洲",
+        "旅游",
+        "中国"
+      ],
+      "zh_hant": [
+        "澳洲",
+        "旅遊",
+        "中國"
+      ]
+    }
+  },
+  {
+    "id": "20261101-hk-cyber-drill-concluded",
+    "category": "hk",
+    "published_at": "2026-11-01T09:25:00+08:00",
+    "image_url": "https://gia.info.gov.hk/general/202611/01/P2026103100601_photo_1342591.jpg",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/01/P2026103100601.htm"
+    },
+    "title": {
+      "en": "Hong Kong Cybersecurity Attack and Defence Drill 2026 concludes after 60-hour exercise",
+      "zh_hant": "香港網絡安全攻防演練2026圓滿結束　51支藍隊60小時實戰",
+      "zh_hans": "香港网络安全攻防演练2026圆满结束　51支蓝队60小时实战"
+    },
+    "summary": {
+      "en": "The Hong Kong Cybersecurity Attack and Defence Drill 2026, spearheaded by the Digital Policy Office, concluded successfully last night (October 31). The three-day, 60-hour drill fielded 51 defending Blue Teams covering 28 government departments, 23 public organisations and newly joined private enterprises, against 23 attacking Red Teams from Hong Kong and Mainland cybersecurity bodies, four local tertiary institutions and teams recommended by the Cyberspace Administration of Guangdong. Acting Deputy Commissioner (Digital Infrastructure) Cari Wu witnessed the finale, thanked the co-organisers and participating teams, and encouraged continued collaboration to build a robust cybersecurity shield for Hong Kong.",
+      "zh_hant": "由數字政策辦公室牽頭的「香港網絡安全攻防演練2026」昨晚（10月31日）圓滿結束。今屆演練歷時三日共60小時，51支防守藍隊涵蓋28個政府部門、23間公營機構及新加入的私營企業；23支攻擊紅隊來自中港兩地網絡安全專業機構、四間本地大專院校及廣東省網信辦推薦隊伍。署理副專員（數字基建）胡嘉兒在現場見證演練結束，感謝各協辦單位及參賽隊伍，並鼓勵各單位繼續在網絡安全領域緊密交流，共同為香港築起高水平網絡安全屏障。",
+      "zh_hans": "由数字政策办公室牵头的「香港网络安全攻防演练2026」昨晚（10月31日）圆满结束。本届演练历时三日共60小时，51支防守蓝队涵盖28个政府部门、23间公营机构及新加入的私营企业；23支攻击红队来自中港两地网络安全专业机构、四间本地大专院校及广东省网信办推荐队伍。署理副专员（数字基建）胡嘉儿在现场见证演练结束，感谢各协办单位及参赛队伍，并鼓励各单位继续在网络安全领域紧密交流，共同为香港筑起高水平网络安全屏障。"
+    },
+    "tags": {
+      "en": [
+        "cybersecurity",
+        "Digital Policy Office",
+        "attack and defence drill"
+      ],
+      "zh_hant": [
+        "網絡安全",
+        "數字政策辦公室",
+        "攻防演練"
+      ],
+      "zh_hans": [
+        "网络安全",
+        "数字政策办公室",
+        "攻防演练"
+      ]
+    }
+  },
+  {
+    "id": "20261101-north-korea-missile-test",
+    "category": "world",
+    "published_at": "2026-11-01T09:29:32+08:00",
+    "image_url": "",
+    "source": {
+      "name": "京報網（新華社）",
+      "url": "https://news.bjd.com.cn/2026/11/01/12014033.shtml"
+    },
+    "title": {
+      "en": "North Korea conducts power assessment test of tactical ballistic missile dispersal warhead",
+      "zh_hant": "朝鮮進行戰術導彈散布戰鬥部威力評估試驗",
+      "zh_hans": "朝鲜进行战术导弹散布战斗部威力评估试验"
+    },
+    "summary": {
+      "en": "North Korea's Missile Administration conducted a power assessment test of a tactical ballistic missile dispersal warhead on October 31, the KCNA reported on November 1. Test results released by the administration's ballistic missile system and warhead institutes showed that a standard Type-2 dispersal warhead could level a target area of about 12 to 13 hectares. The administration said the test was part of regular scientific research aimed at enhancing combat system power.",
+      "zh_hant": "據朝中社11月1日報道，朝鮮導彈總局10月31日進行了戰術彈道導彈散布戰鬥部威力評估試驗。朝鮮導彈總局彈道導彈系統研究所和戰鬥部研究所公布的試驗結果顯示，採用標準二型散布戰鬥部可將約12至13公頃目標區域夷為平地。導彈總局表示，今次試驗屬於定期開展的科研活動，旨在提升戰鬥系統威力。",
+      "zh_hans": "据朝中社11月1日报道，朝鲜导弹总局10月31日进行了战术弹道导弹散布战斗部威力评估试验。朝鲜导弹总局弹道导弹系统研究所和战斗部研究所公布的试验结果显示，采用标准二型散布战斗部可将约12至13公顷目标区域夷为平地。导弹总局表示，今次试验属于定期开展的科研活动，旨在提升战斗系统威力。"
+    },
+    "tags": {
+      "en": [
+        "North Korea",
+        "missile test",
+        "Xinhua"
+      ],
+      "zh_hant": [
+        "朝鮮",
+        "導彈試驗",
+        "新華社"
+      ],
+      "zh_hans": [
+        "朝鲜",
+        "导弹试验",
+        "新华社"
+      ]
+    }
+  },
+  {
+    "id": "20261101-gba-innovation-signing",
+    "category": "tech",
+    "published_at": "2026-11-01T09:07:24+08:00",
+    "image_url": "https://k.sinaimg.cn/n/sinakd20261101s/199/w640h359/20261101/bee4-57de49439ac1fe8b91846564692a7a31.jpg/w700d1q75cms.jpg?by=cms_fixed_width",
+    "source": {
+      "name": "新浪財經（中新社）",
+      "url": "https://finance.sina.cn/2026-11-01/detail-inixetzz6797392.d.html"
+    },
+    "title": {
+      "en": "GBA National Innovation Center signs 11 partnerships to deepen industry-academia collaboration",
+      "zh_hant": "大灣區國創中心與11家單位簽約　推進產學研合作",
+      "zh_hans": "大湾区国创中心与11家单位签约　推进产学研合作"
+    },
+    "summary": {
+      "en": "The Guangdong-Hong Kong-Macao Greater Bay Area National Center of Technology Innovation signed industry-academia-research cooperation agreements with 11 partners, including Topstar and Maiwei Technology, at a 2026 Greater Bay Area Science Forum event in Nansha, Guangzhou yesterday. Themed 'Wisdom converges in the GBA, sci-tech innovation leads the future', the event focused on embodied intelligence, advanced manufacturing and industrial software. A sci-tech achievement exhibition runs at the Nansha International Convention and Exhibition Center from October 31 to November 2, with over 40 exhibitors showcasing innovations and applications.",
+      "zh_hant": "粵港澳大灣區國家技術創新中心昨日在廣州南沙舉行的2026大灣區科學論壇專場活動上，與拓斯達、邁為技術等11家單位簽署產學研合作協議，推動科研供給精準對接企業技術需求。活動以「智匯大灣區　科創領未來」為主題，聚焦具身智能、先進製造、工業軟件等前沿領域。10月31日至11月2日，科技成果展覽在南沙國際會展中心同期舉行，40餘家單位集中展示創新成果與應用實踐。",
+      "zh_hans": "粤港澳大湾区国家技术创新中心昨日在广州南沙举行的2026大湾区科学论坛专场活动上，与拓斯达、迈为技术等11家单位签署产学研合作协议，推动科研供给精准对接企业技术需求。活动以「智汇大湾区　科创领未来」为主题，聚焦具身智能、先进制造、工业软件等前沿领域。10月31日至11月2日，科技成果展览在南沙国际会展中心同期举行，40余家单位集中展示创新成果与应用实践。"
+    },
+    "tags": {
+      "en": [
+        "Greater Bay Area",
+        "innovation",
+        "industry-academia collaboration"
+      ],
+      "zh_hant": [
+        "大灣區",
+        "科技創新",
+        "產學研"
+      ],
+      "zh_hans": [
+        "大湾区",
+        "科技创新",
+        "产学研"
+      ]
+    }
+  },
+  {
+    "id": "20261101-china-vat-withholding",
+    "category": "finance",
+    "published_at": "2026-11-01T08:32:00+08:00",
+    "image_url": "",
+    "source": {
+      "name": "新浪財經（中國稅務報、第一財經）",
+      "url": "https://finance.sina.cn/2026-11-01/detail-inixetzy1014967.d.html"
+    },
+    "title": {
+      "en": "China's VAT withholding mechanism for individuals' service income takes effect today",
+      "zh_hant": "內地自然人增值稅代扣代繳今起施行　單位代個人繳稅",
+      "zh_hans": "内地自然人增值税代扣代缴今起施行　单位代个人缴税"
+    },
+    "summary": {
+      "en": "China's first VAT withholding mechanism for individuals took effect today. Under the new rules from the Ministry of Finance and the State Taxation Administration, domestic entities purchasing R&D, software, design, consulting, film and TV production, cultural and education services from individuals must withhold and remit VAT. The statutory rate is 3%, reduced to 1% through end-2027; withholders must file and pay within 15 days from the first day of the month following the taxable transaction.",
+      "zh_hant": "內地首次引入的自然人增值稅代扣代繳機制今日起正式施行。根據財政部、稅務總局公布的《境內單位代扣代繳自然人增值稅管理辦法》，境內單位向自然人購買研發、軟件、設計、諮詢、影視製作、文化及教育等服務時，須按規定代扣代繳增值稅。現行法定徵收率為3%，2027年底前減按1%徵稅；扣繳義務人須於發生應稅交易次月1日起15日內完成申報繳稅。",
+      "zh_hans": "内地首次引入的自然人增值税代扣代缴机制今日起正式施行。根据财政部、税务总局公布的《境内单位代扣代缴自然人增值税管理办法》，境内单位向自然人购买研发、软件、设计、咨询、影视制作、文化及教育等服务时，须按规定代扣代缴增值税。现行法定征收率为3%，2027年底前减按1%征税；扣缴义务人须于发生应税交易次月1日起15日内完成申报缴税。"
+    },
+    "tags": {
+      "en": [
+        "VAT",
+        "tax",
+        "China policy"
+      ],
+      "zh_hant": [
+        "增值稅",
+        "稅務",
+        "內地政策"
+      ],
+      "zh_hans": [
+        "增值税",
+        "税务",
+        "内地政策"
+      ]
+    }
+  },
+  {
+    "id": "20261101-china-moon-mission-plan",
+    "category": "tech",
+    "published_at": "2026-11-01T08:57:04+08:00",
+    "image_url": "",
+    "source": {
+      "name": "新浪財經（央視新聞）",
+      "url": "https://finance.sina.cn/stock/jdts/2026-11-01/detail-inixetzw4245017.d.html"
+    },
+    "title": {
+      "en": "China's crewed lunar mission adopts two-launch lunar-orbit rendezvous plan",
+      "zh_hant": "中國載人登月採「兩次發射、環月對接」方案　研製穩步推進",
+      "zh_hans": "中国载人登月采「两次发射、环月对接」方案　研制稳步推进"
+    },
+    "summary": {
+      "en": "China's crewed lunar exploration program will use a 'two launches, lunar-orbit rendezvous' approach, chief designer Wang Xiang revealed at the 7th Manned Spaceflight Academic Conference that opened October 31. Two rockets will separately send the Lanyue lunar lander and the Mengzhou crewed spacecraft into Earth-Moon transfer orbit before rendezvous and docking in lunar orbit. Development work for the lunar landing phase is progressing steadily. The two-day conference drew over 800 experts under the theme of empowering high-quality manned spaceflight with digital intelligence.",
+      "zh_hant": "在10月31日開幕的第七屆載人航天學術大會上，中國載人月球探測工程總設計師王翔透露，工程採用「兩次發射、環月對接」方案：兩枚火箭分別將「攬月」月面着陸器與「夢舟」載人飛船送入地月轉移軌道，再於環月軌道交會對接。目前工程登月階段各項研製建設工作正穩步推進。本屆大會為期兩天，800餘位專家學者以「智匯星河　數智賦能載人航天高質量發展」為主題交流研討。",
+      "zh_hans": "在10月31日开幕的第七届载人航天学术大会上，中国载人月球探测工程总设计师王翔透露，工程采用「两次发射、环月对接」方案：两枚火箭分别将「揽月」月面着陆器与「梦舟」载人飞船送入地月转移轨道，再于环月轨道交会对接。目前工程登月阶段各项研制建设工作正稳步推进。本届大会为期两天，800余位专家学者以「智汇星河　数智赋能载人航天高质量发展」为主题交流研讨。"
+    },
+    "tags": {
+      "en": [
+        "crewed lunar mission",
+        "space",
+        "China aerospace"
+      ],
+      "zh_hant": [
+        "載人登月",
+        "航天",
+        "中國航天"
+      ],
+      "zh_hans": [
+        "载人登月",
+        "航天",
+        "中国航天"
+      ]
+    }
+  },
+  {
+    "id": "20261101-customs-airport-cocaine-seizure",
+    "category": "hk",
+    "published_at": "2026-11-01T14:25:00+08:00",
+    "image_url": "https://gia.info.gov.hk/general/202611/01/P2026110100436_photo_1342597.jpg",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/01/P2026110100436.htm"
+    },
+    "title": {
+      "en": "Customs seizes 6kg of suspected cocaine at airport; 22-year-old Filipino woman arrested",
+      "zh_hant": "海關機場破獲販毒案　22歲菲籍女子藏6公斤可卡因被捕",
+      "zh_hans": "海关机场破获贩毒案　22岁菲籍女子藏6公斤可卡因被捕"
+    },
+    "summary": {
+      "en": "Hong Kong Customs detected a drug trafficking case at Hong Kong International Airport yesterday, seizing about 6 kilograms of suspected cocaine with an estimated market value of about HK$3.6 million. A 22-year-old Filipino woman arriving from Phnom Penh, Cambodia had the drugs concealed in her check-in suitcase and was arrested. She has been charged with one count of trafficking in a dangerous drug and will appear at West Kowloon Magistrates' Courts tomorrow. Customs reminds the public never to take part in drug trafficking for monetary return or carry unknown items for others. Trafficking in a dangerous drug carries a maximum penalty of a HK$5 million fine and life imprisonment.",
+      "zh_hant": "香港海關昨日在香港國際機場破獲一宗販毒案，檢獲約6公斤懷疑可卡因，市值約360萬元。一名22歲菲律賓籍女旅客由柬埔寨金邊抵港，清關時在其寄艙行李內發現該批懷疑可卡因，女子其後被捕。她已被控一項販運危險藥物罪，案件明日（11月2日）在西九龍裁判法院提堂。海關提醒市民切勿為金錢利益參與販毒，亦不要替他人攜帶不明物品。根據《危險藥物條例》，販運危險藥物最高可判罰款500萬元及終身監禁。",
+      "zh_hans": "香港海关昨日在香港国际机场破获一宗贩毒案，检获约6公斤怀疑可卡因，市值约360万元。一名22岁菲律宾籍女旅客由柬埔寨金边抵港，清关时在其托运行李内发现该批怀疑可卡因，女子其后被捕。她已被控一项贩运危险药物罪，案件明日（11月2日）在西九龙裁判法院提堂。海关提醒市民切勿为金钱利益参与贩毒，亦不要替他人携带不明物品。根据《危险药物条例》，贩运危险药物最高可判罚款500万元及终身监禁。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong Customs",
+        "drug trafficking",
+        "airport"
+      ],
+      "zh_hant": [
+        "香港海關",
+        "販毒",
+        "機場"
+      ],
+      "zh_hans": [
+        "香港海关",
+        "贩毒",
+        "机场"
+      ]
+    }
+  },
+  {
+    "id": "20261101-chris-tang-wang-fuk-interview",
+    "category": "hk",
+    "published_at": "2026-11-01T12:24:00+08:00",
+    "image_url": "",
+    "source": {
+      "name": "Dim Sum Daily",
+      "url": "https://www.dimsumdaily.hk/wang-fuk-court-probe-faults-fire-services-as-chris-tang-says-hell-stay-or-go-at-the-chief-executives-call/"
+    },
+    "title": {
+      "en": "Chris Tang on Wang Fuk Court report: Fire Services had shortcomings; \"as trivial as dust\" on his own future",
+      "zh_hant": "鄧炳強談宏福苑報告：消防處有不足　自言去留「輕如鴻毛」",
+      "zh_hans": "邓炳强谈宏福苑报告：消防处有不足　自言去留「轻如鸿毛」"
+    },
+    "summary": {
+      "en": "Secretary for Security Chris Tang responded to the Wang Fuk Court independent committee report in a television interview aired today. The report found the Fire Services Department had not properly discharged its regulatory duties and lacked crisis awareness over large building renovation works, failing to spot in time that fire alarms had been switched off and that openings had been made in escape staircases. Tang admitted the department had shortcomings and a duty to inspect, noting that highly divided responsibilities at the time meant the defects were not caught promptly. A Level Two investigation under the departmental head accountability system has been triggered, and senior Fire Services officers are expected to face scrutiny by the Public Service Commission. On his own future as bureau chief, Tang said he was \"as trivial as dust\" and would follow the Chief Executive's decision.",
+      "zh_hant": "保安局局長鄧炳強在今日播出的電視訪問中，回應宏福苑火災獨立委員會報告。報告指消防處未有妥善履行監管職責，對大型樓宇維修工程缺乏危機意識，未能及時發現火警鐘被關掉及走火樓梯被擅自開生口等問題。鄧炳強承認部門有不足、有巡查責任，當時職責高度分散，令問題未能及時發現。部門首長責任制下的兩級調查機制已經啟動，資深消防處人員預料要面對公務員敍用委員會調查。被問及個人去留時，鄧炳強說自己「輕如鴻毛」，會跟隨行政長官的決定。",
+      "zh_hans": "保安局局长邓炳强在今日播出的电视访问中，回应宏福苑火灾独立委员会报告。报告指消防处未有妥善履行监管职责，对大型楼宇维修工程缺乏危机意识，未能及时发现火警钟被关掉及走火楼梯被擅自开生口等问题。邓炳强承认部门有不足、有巡查责任，当时职责高度分散，令问题未能及时发现。部门首长责任制下的两级调查机制已经启动，资深消防处人员预料要面对公务员叙用委员会调查。被问及个人去留时，邓炳强说自己「轻如鸿毛」，会跟随行政长官的决定。"
+    },
+    "tags": {
+      "en": [
+        "Wang Fuk Court",
+        "Chris Tang",
+        "Fire Services Department"
+      ],
+      "zh_hant": [
+        "宏福苑",
+        "鄧炳強",
+        "消防處"
+      ],
+      "zh_hans": [
+        "宏福苑",
+        "邓炳强",
+        "消防处"
+      ]
+    }
+  },
+  {
+    "id": "20261101-hk-man-macau-vape-arrest",
+    "category": "hk",
+    "published_at": "2026-11-01T12:34:00+08:00",
+    "image_url": "",
+    "source": {
+      "name": "都市日報",
+      "url": "https://metrohk.com.hk/港聞/港男涉澳門販毒電子煙被捕-43eae4"
+    },
+    "title": {
+      "en": "Hong Kong man arrested in Macau over drug-laced e-cigarettes",
+      "zh_hant": "港男涉澳門販售含毒電子煙被捕　至少向3人轉售",
+      "zh_hans": "港男涉澳门贩售含毒电子烟被捕　至少向3人转售"
+    },
+    "summary": {
+      "en": "Macau's Judiciary Police yesterday arrested a 35-year-old Hong Kong man working as an electrician in Macau, suspected of smuggling drug-laced e-cigarettes from Hong Kong for sale. Officers seized six e-cigarettes containing drug oil, worth about MOP$8,000, on his person, and found four more used devices at his residence. Laboratory tests confirmed the e-cigarettes contained the controlled substance THC, and the man's urine test was also positive. He faces three charges of illegal drug consumption, possession and trafficking, and was escorted to the Public Prosecutions Office this morning. Police believe he resold at least three e-cigarettes at MOP$1,400 each and are tracking down other suspects.",
+      "zh_hant": "澳門司警昨日拘捕一名35歲、在澳門從事電工的香港男子，懷疑他由香港偷運含毒品成分的電子煙到澳門出售。司警在其身上搜出6支含毒品煙油的電子煙，市值約8,000澳門元，其後在其住所再搜出4支已吸食完的電子煙機。經化驗，這些電子煙含有受管制的四氫大麻酚成分，男子尿液檢測亦呈陽性反應。他涉嫌觸犯非法吸食、持有及販賣麻醉及精神科藥物三項罪名，今早由司警押送檢察院偵訊。司警相信他至少以每支1,400澳門元向3人轉售，正追查其他涉案者。",
+      "zh_hans": "澳门司警昨日拘捕一名35岁、在澳门从事电工的香港男子，怀疑他由香港偷运含毒品成分的电子烟到澳门出售。司警在其身上搜出6支含毒品烟油的电子烟，市值约8,000澳门元，其后在其住所再搜出4支已吸食完的电子烟机。经化验，这些电子烟含有受管制的四氢大麻酚成分，男子尿液检测亦呈阳性反应。他涉嫌触犯非法吸食、持有及贩卖麻醉及精神科药物三项罪名，今早由司警押送检察院侦讯。司警相信他至少以每支1,400澳门元向3人转售，正追查其他涉案者。"
+    },
+    "tags": {
+      "en": [
+        "Macau",
+        "e-cigarettes",
+        "drug trafficking"
+      ],
+      "zh_hant": [
+        "澳門",
+        "電子煙",
+        "販毒"
+      ],
+      "zh_hans": [
+        "澳门",
+        "电子烟",
+        "贩毒"
+      ]
+    }
+  },
+  {
+    "id": "20261101-lam-building-reform-bid-rigging",
+    "category": "hk",
+    "published_at": "2026-11-01T09:59:00+08:00",
+    "image_url": "",
+    "source": {
+      "name": "都市日報",
+      "url": "https://metrohk.com.hk/港聞/林定國稱樓宇維修改革將壞人趕離市場-55befa"
+    },
+    "title": {
+      "en": "Paul Lam: building maintenance reforms a \"revolutionary change\"; bid-rigging criminalisation targeted for April",
+      "zh_hant": "林定國：樓宇維修改革是革命性改變　圍標刑事化望明年4月通過",
+      "zh_hans": "林定国：楼宇维修改革是革命性改变　围标刑事化望明年4月通过"
+    },
+    "summary": {
+      "en": "In response to the Wang Fuk Court fire independent committee report, the government plans to table several bills in the Legislative Council within this year, criminalising bid-rigging in building maintenance works and amending the Competition Ordinance and Buildings Ordinance. Speaking on a radio programme today, Secretary for Justice Paul Lam described the overhaul as a revolutionary change to the entire building maintenance ecosystem, saying all amendments and measures are interlocking to raise standards and strengthen regulation. Secretary for Commerce and Economic Development Algernon Yau said bid-rigging is complex, involving not just tendering but also price-fixing and market-sharing, and the government plans to list the offences as scheduled offences under the Organized and Serious Crimes Ordinance, aiming for passage around April next year.",
+      "zh_hant": "政府因應宏福苑火災獨立委員會報告，計劃今年內向立法會提交多條條例，將樓宇維修工程圍標刑事化，並修訂《競爭條例》及《建築物條例》等。律政司司長林定國今日出席電台節目時形容，這是樓宇大維修整個生態的革命性改變，所有修訂及一系列措施環環緊扣，透過提高標準及加強監管以達到目的。商務及經濟發展局局長丘應樺表示，圍標問題複雜，不僅涉及投標，亦牽涉合謀定價、瓜分市場等，政府計劃將相關罪行納入《有組織及嚴重罪行條例》指明罪行，期望明年4月左右通過修例。",
+      "zh_hans": "政府因应宏福苑火灾独立委员会报告，计划今年内向立法会提交多条条例，将楼宇维修工程围标刑事化，并修订《竞争条例》及《建筑物条例》等。律政司司长林定国今日出席电台节目时形容，这是楼宇大维修整个生态的革命性改变，所有修订及一系列措施环环紧扣，透过提高标准及加强监管以达到目的。商务及经济发展局局长丘应桦表示，围标问题复杂，不仅涉及投标，亦牵涉合谋定价、瓜分市场等，政府计划将相关罪行纳入《有组织及严重罪行条例》指明罪行，期望明年4月左右通过修例。"
+    },
+    "tags": {
+      "en": [
+        "Wang Fuk Court",
+        "building maintenance",
+        "bid-rigging"
+      ],
+      "zh_hant": [
+        "宏福苑",
+        "樓宇維修",
+        "圍標"
+      ],
+      "zh_hans": [
+        "宏福苑",
+        "楼宇维修",
+        "围标"
+      ]
+    }
+  },
+  {
+    "id": "20261101-newspaper-price-hike",
+    "category": "society",
+    "published_at": "2026-11-01T09:19:00+08:00",
+    "image_url": "",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876113-20261101.htm"
+    },
+    "title": {
+      "en": "Three Hong Kong newspapers raise prices; Ming Pao up to HK$15 from today",
+      "zh_hant": "三份報章加價　明報今起每份15元　經濟及信報明日起調整",
+      "zh_hans": "三份报章加价　明报今起每份15元　经济及信报明日起调整"
+    },
+    "summary": {
+      "en": "Three Hong Kong newspapers are raising their retail prices. Ming Pao raised its price by HK$3 to HK$15 per copy from today (November 1), a 25% increase. Hong Kong Economic Times and Hong Kong Economic Journal will follow from tomorrow (November 2): the Economic Times rises from HK$12 to HK$15, while the Economic Journal rises by HK$3 to HK$18 per copy.",
+      "zh_hant": "本港三份報章加價。明報今日（11月1日）起加價3元至每份15元，加幅25%；經濟日報及信報由明日（11月2日）起加價，經濟日報由12元加至15元，信報則加價3元至每份18元。",
+      "zh_hans": "本港三份报章加价。明报今日（11月1日）起加价3元至每份15元，加幅25%；经济日报及信报由明日（11月2日）起加价，经济日报由12元加至15元，信报则加价3元至每份18元。"
+    },
+    "tags": {
+      "en": [
+        "newspapers",
+        "price hike",
+        "Ming Pao"
+      ],
+      "zh_hant": [
+        "報章",
+        "加價",
+        "明報"
+      ],
+      "zh_hans": [
+        "报章",
+        "加价",
+        "明报"
+      ]
+    }
   }
- },
- {
-  "id": "20261101-us-daylight-saving-ends",
-  "category": "world",
-  "published_at": "2026-10-31T23:22:00+08:00",
-  "image_url": "https://images.timesnowworld.com/thumb/msid-156442843,width-1280,height-720,resizemode-75/156442843.jpg",
-  "source": {
-   "name": "Times Now World",
-   "url": "https://www.timesnowworld.com/us-news/us-daylight-saving-time-ends-november-2026-article-156442843"
-  },
-  "title": {
-   "en": "US ends daylight saving time, clocks fall back one hour",
-   "zh_hans": "美国今晨结束夏令时间　时钟拨慢一小时",
-   "zh_hant": "美國今晨結束夏令時間　時鐘撥慢一小時"
-  },
-  "summary": {
-   "en": "Most of the United States ended daylight saving time at 2:00 a.m. local time on Sunday, November 1, with clocks turned back one hour to standard time, giving people an extra hour of sleep. Hawaii, most of Arizona and several US territories do not observe the change. Debate over making daylight saving permanent continues: the Sunshine Protection Act passed the House in July 2026, but Senate leaders say there is no consensus for it to become law.",
-   "zh_hans": "美国大部分地区于当地时间11月1日凌晨2时结束夏令时间，时钟拨慢一小时回复标准时间，民众可多睡一小时。夏威夷、亚利桑那州大部分地区及多个美国属地不参与调钟。应否永久采用夏令时间在美国政坛仍争论不休：《阳光保护法案》今年7月已在众议院通过，但参议院领袖指暂未有共识令其成为法律。",
-   "zh_hant": "美國大部分地區於當地時間11月1日凌晨2時結束夏令時間，時鐘撥慢一小時回復標準時間，民眾可多睡一小時。夏威夷、亞利桑那州大部分地區及多個美國屬地不參與調鐘。應否永久採用夏令時間在美國政壇仍爭論不休：《陽光保護法案》今年7月已在眾議院通過，但參議院領袖指暫未有共識令其成為法律。"
-  },
-  "tags": {
-   "en": [
-    "US",
-    "daylight saving time",
-    "standard time"
-   ],
-   "zh_hans": [
-    "美国",
-    "夏令时间",
-    "标准时间"
-   ],
-   "zh_hant": [
-    "美國",
-    "夏令時間",
-    "標準時間"
-   ]
-  }
- },
- {
-  "id": "20261101-macau-culture-sports-bureau",
-  "category": "china",
-  "published_at": "2026-10-27T20:36:00+08:00",
-  "image_url": "",
-  "source": {
-   "name": "觀點網",
-   "url": "https://www.guandian.hk/article/20261027/10043306.html"
-  },
-  "title": {
-   "en": "Macau's new Culture and Sports Bureau takes effect today after four-body merger",
-   "zh_hans": "澳门文化体育局今起生效　四机构合并重组",
-   "zh_hant": "澳門文化體育局今起生效　四機構合併重組"
-  },
-  "summary": {
-   "en": "Macau's Executive Council has completed deliberation on the administrative regulation on the organisation and operation of the new Culture and Sports Bureau, which merges the Cultural Affairs Bureau, the Cultural Development Fund, the Sports Bureau and the Sports Fund. The regulation takes effect today, November 1. The reorganised bureau will carry out eight core functions covering tangible and intangible cultural heritage, libraries and archives, cultural and arts development, culture and sports industry cultivation, public sports and events, and elite athletes and sports science.",
-   "zh_hans": "澳门行政会早前完成讨论《文化体育局的组织及运作》行政法规草案，合并重组文化局、文化发展基金、体育局及体育基金，设立文化体育局，法规自今日（11月1日）起生效。重组后的文化体育局将履行八大核心职能，涵盖物质与非物质文化遗产、图书与档案、文化艺术事业发展、文化体育产业培育、大众体育与赛事，以及精英运动员与体育科学等。",
-   "zh_hant": "澳門行政會早前完成討論《文化體育局的組織及運作》行政法規草案，合併重組文化局、文化發展基金、體育局及體育基金，設立文化體育局，法規自今日（11月1日）起生效。重組後的文化體育局將履行八大核心職能，涵蓋物質與非物質文化遺產、圖書與檔案、文化藝術事業發展、文化體育產業培育、大眾體育與賽事，以及精英運動員與體育科學等。"
-  },
-  "tags": {
-   "en": [
-    "Macau",
-    "Culture and Sports Bureau",
-    "administrative reform"
-   ],
-   "zh_hans": [
-    "澳门",
-    "文化体育局",
-    "行政改革"
-   ],
-   "zh_hant": [
-    "澳門",
-    "文化體育局",
-    "行政改革"
-   ]
-  }
- },
- {
-  "id": "20261101-nicholas-tse-wenzhou",
-  "category": "entertainment",
-  "published_at": "2026-10-31T23:27:00+08:00",
-  "image_url": "",
-  "source": {
-   "name": "新浪娛樂",
-   "url": "https://ent.sina.cn/2026-10-31/detail-inixcwwp3638766.d.html?vt=4"
-  },
-  "title": {
-   "en": "Nicholas Tse's Wenzhou shows continue tonight with upgraded rock stage",
-   "zh_hans": "谢霆锋温州站今晚第二场　机械摇滚舞台藏歌单",
-   "zh_hant": "謝霆鋒溫州站今晚第二場　機械搖滾舞台藏歌單"
-  },
-  "summary": {
-   "en": "Nicholas Tse's 'Evolution Nic Live' concert opened its two-night Wenzhou stand at the Wenzhou Olympic Sports Center Stadium last night, with the second show tonight (November 1). Rehearsals revealed an upgraded mechanical-rock stage design replacing the cyber aesthetic, with Tse in a hoodie wielding his angel guitar. Soundcheck versions of 'Volcano' and 'Miscalculation' were heard, while the official setlist still holds hidden surprises. Both shows sold out on release.",
-   "zh_hans": "谢霆锋「Evolution Nic Live进化演唱会」温州站昨晚在温州奥体中心体育场开唱，今晚（1日）举行第二场。彩排透露本站舞台由赛博风升级为机械摇滚风格，谢霆锋身穿带帽卫衣、手持天使吉他亮相；《活火山》《估计错误》等已在彩排唱响，正式歌单仍有「隐藏款」待揭晓。两场门票早前开售即告售罄。",
-   "zh_hant": "謝霆鋒「Evolution Nic Live進化演唱會」溫州站昨晚在溫州奧體中心體育場開唱，今晚（1日）舉行第二場。彩排透露本站舞台由賽博風升級為機械搖滾風格，謝霆鋒身穿帶帽衛衣、手持天使吉他亮相；《活火山》《估計錯誤》等已在彩排唱響，正式歌單仍有「隱藏款」待揭曉。兩場門票早前開售即告售罄。"
-  },
-  "tags": {
-   "en": [
-    "Nicholas Tse",
-    "concert",
-    "Wenzhou"
-   ],
-   "zh_hans": [
-    "谢霆锋",
-    "演唱会",
-    "温州"
-   ],
-   "zh_hant": [
-    "謝霆鋒",
-    "演唱會",
-    "溫州"
-   ]
-  }
- },
- {
-  "id": "20261101-moon-ghost-cluster",
-  "category": "society",
-  "published_at": "2026-10-30T14:49:00+08:00",
-  "image_url": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/10/30132802/taipei-cover-261030052800382.jpeg",
-  "source": {
-   "name": "報新聞 Mega News",
-   "url": "https://www.contentplatform.info/articles/554972/11%E6%9C%881%E6%97%A5%E6%B7%B1%E5%A4%9C%E6%9C%88%E5%85%A5%E9%AC%BC%E5%AE%BF%E6%98%9F%E5%9C%98-%E5%8F%B0%E5%8C%97%E5%A4%A9%E6%96%87%E9%A4%A8%E5%BB%BA%E8%AD%B0%E7%94%A8%E9%9B%99%E7%AD%92%E6%9C%9B/"
-  },
-  "title": {
-   "en": "Moon to pass through Ghost Cluster tonight; Taipei observatory urges binocular viewing",
-   "zh_hans": "今晚11时月入鬼宿星团　台北天文馆吁用双筒望远镜赏月伴星",
-   "zh_hant": "今晚11時月入鬼宿星團　台北天文館籲用雙筒望遠鏡賞月伴星"
-  },
-  "summary": {
-   "en": "From around 11 p.m. tonight (November 1) until about 1 a.m., the Moon will pass in front of the Ghost Cluster in Cancer, creating a striking moon-meets-starfield sight. The Taipei Astronomical Museum advises the public to use binoculars and look toward the eastern sky for the best view. The Ghost Cluster is a well-known open star cluster that appears to the naked eye as a hazy patch of light.",
-   "zh_hans": "今晚（1日）深夜11时至明日凌晨1时左右，月球将行经巨蟹座的鬼宿星团，形成月伴群星的特殊天象。台北天文馆建议民众透过双筒望远镜朝东方天空观赏，把握秋冬夜空的独特景致。鬼宿星团是著名的疏散星团，肉眼看来如一团朦胧白雾，又被称为「积尸气」。",
-   "zh_hant": "今晚（1日）深夜11時至明日凌晨1時左右，月球將行經巨蟹座的鬼宿星團，形成月伴群星的特殊天象。台北天文館建議民眾透過雙筒望遠鏡朝東方天空觀賞，把握秋冬夜空的獨特景致。鬼宿星團是著名的疏散星團，肉眼看來如一團朦朧白霧，又被稱為「積尸氣」。"
-  },
-  "tags": {
-   "en": [
-    "astronomy",
-    "Moon",
-    "Ghost Cluster"
-   ],
-   "zh_hans": [
-    "天文",
-    "月球",
-    "鬼宿星团"
-   ],
-   "zh_hant": [
-    "天文",
-    "月球",
-    "鬼宿星團"
-   ]
-  }
- },
- {
-  "id": "20261101-iran-rezaei-vance-letter",
-  "category": "world",
-  "published_at": "2026-11-01T03:04:00+08:00",
-  "image_url": "",
-  "source": {
-   "name": "Farda News",
-   "url": "https://www.fardanews.com/%D8%A8%D8%AE%D8%B4-%D9%81%DB%8C%D9%84%D9%85-%D8%B9%DA%A9%D8%B3-%D8%AE%D8%A8%D8%B1%DB%8C-103/1417162-%D8%B3%D8%B1%D9%84%D8%B4%DA%A9%D8%B1-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D9%88-%D8%A2%D8%BA%D8%A7%D8%B2-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B4%D8%B1%D8%B7-%D9%85%D9%86%D9%88%D8%B7-%DA%A9%D8%B1%D8%AF"
-  },
-  "title": {
-   "en": "Rezaei says he has read Vance's letter but not replied; Strait of Hormuz stays closed",
-   "zh_hans": "雷扎伊：已阅万斯来信未回复　霍尔木兹海峡维持关闭",
-   "zh_hant": "雷扎伊：已閱萬斯來信未回覆　霍爾木茲海峽維持關閉"
-  },
-  "summary": {
-   "en": "Iran's Supreme National Security Council secretary Mohsen Rezaei said in an interview aired on Iranian television that he has read the letter from US Vice President J.D. Vance but has not yet replied, describing the changed American tone as a good sign. He stressed, however, that the Strait of Hormuz will remain closed and no negotiations will begin until Iran's seven conditions are met. Foreign Minister Abbas Araghchi said separately that a Qatari-mediated proposal could reopen the strait within two days, but Tehran currently has no plans to meet US officials.",
-   "zh_hans": "伊朗最高国家安全委员会秘书雷扎伊在伊朗电视台播出的访问中表示，已读过美国副总统万斯的来信但尚未回复，形容美方语气「完全改变」是好兆头，但强调在伊朗提出的七项条件获满足前，不会开放霍尔木兹海峡，也不会展开谈判。伊朗外长阿拉格齐同日表示，卡塔尔斡旋下或有方案在两日内重开海峡，但伊朗目前无意与美方官员会面。",
-   "zh_hant": "伊朗最高國家安全委員會秘書雷扎伊在伊朗電視台播出的訪問中表示，已讀過美國副總統萬斯的來信但尚未回覆，形容美方語氣「完全改變」是好兆頭，但強調在伊朗提出的七項條件獲滿足前，不會開放霍爾木茲海峽，也不會展開談判。伊朗外長阿拉格齊同日表示，卡塔爾斡旋下或有方案在兩日內重開海峽，但伊朗目前無意與美方官員會面。"
-  },
-  "tags": {
-   "en": [
-    "Iran",
-    "Strait of Hormuz",
-    "US-Iran"
-   ],
-   "zh_hans": [
-    "伊朗",
-    "霍尔木兹海峡",
-    "美伊关系"
-   ],
-   "zh_hant": [
-    "伊朗",
-    "霍爾木茲海峽",
-    "美伊關係"
-   ]
-  }
- },
- {
-  "id": "20261101-bocuse-dor-macau",
-  "category": "society",
-  "published_at": "2026-10-31T18:00:00+08:00",
-  "image_url": "https://www.gcs.gov.mo/fp/N26JeUAaH6_f20261031174412sa6b/m/",
-  "source": {
-   "name": "EIN Presswire",
-   "url": "https://world.einnews.com/pr_news/953623297/premier-culinary-event-2026-bocuse-d-or-asia-pacific-takes-center-stage-on-1-and-2-november-eight-lead-chefs-and-teams-compete-for-entry-into-the"
-  },
-  "title": {
-   "en": "Bocuse d'Or Asia-Pacific selection begins in Macau today; China team competes on day one",
-   "zh_hans": "名厨赛亚太区选拔赛今起一连两日澳门举行　中国队首日登场",
-   "zh_hant": "名廚賽亞太區選拔賽今起一連兩日澳門舉行　中國隊首日登場"
-  },
-  "summary": {
-   "en": "The Bocuse d'Or Asia-Pacific 2026 selection, hailed as the 'Olympics of gastronomy', takes place at The Venetian Macao today and tomorrow (November 1-2), with eight lead chefs and their teams competing for places in the grand final. China's lead chef Chun Kei Wong competes today alongside teams from Vietnam, India and Sri Lanka; New Zealand, Malaysia, Japan and Thailand follow tomorrow. The official opening ceremony was held at Macau Fisherman's Wharf yesterday afternoon.",
-   "zh_hans": "有「厨艺奥运」之称的Bocuse d'Or名厨赛，亚太区选拔赛首次移师澳门，今明两日（11月1至2日）在澳门威尼斯人举行，8位主厨及团队竞逐晋级全球总决赛资格。中国队主厨黄俊基将于今日登场，同场还有越南、印度及斯里兰卡队；新西兰、马来西亚、日本及泰国队则于明日出战。官方开幕礼昨日已在澳门渔人码头举行。",
-   "zh_hant": "有「廚藝奧運」之稱的Bocuse d'Or名廚賽，亞太區選拔賽首次移師澳門，今明兩日（11月1至2日）在澳門威尼斯人舉行，8位主廚及團隊競逐晉級全球總決賽資格。中國隊主廚黃俊基將於今日登場，同場還有越南、印度及斯里蘭卡隊；紐西蘭、馬來西亞、日本及泰國隊則於明日出戰。官方開幕禮昨日已在澳門漁人碼頭舉行。"
-  },
-  "tags": {
-   "en": [
-    "Bocuse d'Or",
-    "Macau",
-    "culinary"
-   ],
-   "zh_hans": [
-    "名厨赛",
-    "澳门",
-    "厨艺"
-   ],
-   "zh_hant": [
-    "名廚賽",
-    "澳門",
-    "廚藝"
-   ]
-  }
- },
- {
-  "id": "20261101-australia-china-tourism",
-  "category": "finance",
-  "published_at": "2026-10-31T21:25:00+08:00",
-  "image_url": "",
-  "source": {
-   "name": "新浪財經",
-   "url": "https://finance.sina.cn/2026-10-31/detail-inixcsqr3732242.d.html"
-  },
-  "title": {
-   "en": "Australia tourism chief: China remains a leading source market",
-   "zh_hans": "澳旅游局：中国仍是领先客源市场　消费占比近三成",
-   "zh_hant": "澳旅遊局：中國仍是領先客源市場　消費佔比近三成"
-  },
-  "summary": {
-   "en": "Tourism Australia managing director Robin Mac told Xinhua that China's outbound travel market to Australia is growing strongly and China remains one of its leading source markets, expected to stay so in the coming years. Australian Bureau of Statistics data shows mainland China was Australia's second-largest short-term visitor source in FY2025-26 with 1.127 million arrivals, up about 18.2% year on year; in the 12 months to June 2026, mainland Chinese visitors were also the biggest contributors to international visitor spending in Australia at 29%.",
-   "zh_hans": "澳洲旅游局局长麦克接受新华社访问时表示，中国赴澳旅游市场增长强劲，中国一直是澳洲领先的客源市场之一，预计未来数年仍将如此。澳洲统计局数据显示，2025至2026财年，中国内地是澳洲第二大短期旅客来源地，入境112.7万人次，按年增长约18.2%；截至2026年6月的12个月内，中国内地旅客更是澳洲国际访客消费的最大贡献者，占比达29%。",
-   "zh_hant": "澳洲旅遊局局長麥克接受新華社訪問時表示，中國赴澳旅遊市場增長強勁，中國一直是澳洲領先的客源市場之一，預計未來數年仍將如此。澳洲統計局數據顯示，2025至2026財年中國內地是澳洲第二大短期旅客來源地，入境112.7萬人次，按年增長約18.2%；截至2026年6月的12個月內，中國內地旅客更是澳洲國際訪客消費的最大貢獻者，佔比達29%。"
-  },
-  "tags": {
-   "en": [
-    "Australia",
-    "tourism",
-    "China"
-   ],
-   "zh_hans": [
-    "澳洲",
-    "旅游",
-    "中国"
-   ],
-   "zh_hant": [
-    "澳洲",
-    "旅遊",
-    "中國"
-   ]
-  }
- },
- {
-  "id": "20261101-hk-cyber-drill-concluded",
-  "category": "hk",
-  "published_at": "2026-11-01T09:25:00+08:00",
-  "image_url": "https://gia.info.gov.hk/general/202611/01/P2026103100601_photo_1342591.jpg",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/01/P2026103100601.htm"
-  },
-  "title": {
-   "en": "Hong Kong Cybersecurity Attack and Defence Drill 2026 concludes after 60-hour exercise",
-   "zh_hant": "香港網絡安全攻防演練2026圓滿結束　51支藍隊60小時實戰",
-   "zh_hans": "香港网络安全攻防演练2026圆满结束　51支蓝队60小时实战"
-  },
-  "summary": {
-   "en": "The Hong Kong Cybersecurity Attack and Defence Drill 2026, spearheaded by the Digital Policy Office, concluded successfully last night (October 31). The three-day, 60-hour drill fielded 51 defending Blue Teams covering 28 government departments, 23 public organisations and newly joined private enterprises, against 23 attacking Red Teams from Hong Kong and Mainland cybersecurity bodies, four local tertiary institutions and teams recommended by the Cyberspace Administration of Guangdong. Acting Deputy Commissioner (Digital Infrastructure) Cari Wu witnessed the finale, thanked the co-organisers and participating teams, and encouraged continued collaboration to build a robust cybersecurity shield for Hong Kong.",
-   "zh_hant": "由數字政策辦公室牽頭的「香港網絡安全攻防演練2026」昨晚（10月31日）圓滿結束。今屆演練歷時三日共60小時，51支防守藍隊涵蓋28個政府部門、23間公營機構及新加入的私營企業；23支攻擊紅隊來自中港兩地網絡安全專業機構、四間本地大專院校及廣東省網信辦推薦隊伍。署理副專員（數字基建）胡嘉兒在現場見證演練結束，感謝各協辦單位及參賽隊伍，並鼓勵各單位繼續在網絡安全領域緊密交流，共同為香港築起高水平網絡安全屏障。",
-   "zh_hans": "由数字政策办公室牵头的「香港网络安全攻防演练2026」昨晚（10月31日）圆满结束。本届演练历时三日共60小时，51支防守蓝队涵盖28个政府部门、23间公营机构及新加入的私营企业；23支攻击红队来自中港两地网络安全专业机构、四间本地大专院校及广东省网信办推荐队伍。署理副专员（数字基建）胡嘉儿在现场见证演练结束，感谢各协办单位及参赛队伍，并鼓励各单位继续在网络安全领域紧密交流，共同为香港筑起高水平网络安全屏障。"
-  },
-  "tags": {
-   "en": [
-    "cybersecurity",
-    "Digital Policy Office",
-    "attack and defence drill"
-   ],
-   "zh_hant": [
-    "網絡安全",
-    "數字政策辦公室",
-    "攻防演練"
-   ],
-   "zh_hans": [
-    "网络安全",
-    "数字政策办公室",
-    "攻防演练"
-   ]
-  }
- },
- {
-  "id": "20261101-north-korea-missile-test",
-  "category": "world",
-  "published_at": "2026-11-01T09:29:32+08:00",
-  "image_url": "",
-  "source": {
-   "name": "京報網（新華社）",
-   "url": "https://news.bjd.com.cn/2026/11/01/12014033.shtml"
-  },
-  "title": {
-   "en": "North Korea conducts power assessment test of tactical ballistic missile dispersal warhead",
-   "zh_hant": "朝鮮進行戰術導彈散布戰鬥部威力評估試驗",
-   "zh_hans": "朝鲜进行战术导弹散布战斗部威力评估试验"
-  },
-  "summary": {
-   "en": "North Korea's Missile Administration conducted a power assessment test of a tactical ballistic missile dispersal warhead on October 31, the KCNA reported on November 1. Test results released by the administration's ballistic missile system and warhead institutes showed that a standard Type-2 dispersal warhead could level a target area of about 12 to 13 hectares. The administration said the test was part of regular scientific research aimed at enhancing combat system power.",
-   "zh_hant": "據朝中社11月1日報道，朝鮮導彈總局10月31日進行了戰術彈道導彈散布戰鬥部威力評估試驗。朝鮮導彈總局彈道導彈系統研究所和戰鬥部研究所公布的試驗結果顯示，採用標準二型散布戰鬥部可將約12至13公頃目標區域夷為平地。導彈總局表示，今次試驗屬於定期開展的科研活動，旨在提升戰鬥系統威力。",
-   "zh_hans": "据朝中社11月1日报道，朝鲜导弹总局10月31日进行了战术弹道导弹散布战斗部威力评估试验。朝鲜导弹总局弹道导弹系统研究所和战斗部研究所公布的试验结果显示，采用标准二型散布战斗部可将约12至13公顷目标区域夷为平地。导弹总局表示，今次试验属于定期开展的科研活动，旨在提升战斗系统威力。"
-  },
-  "tags": {
-   "en": [
-    "North Korea",
-    "missile test",
-    "Xinhua"
-   ],
-   "zh_hant": [
-    "朝鮮",
-    "導彈試驗",
-    "新華社"
-   ],
-   "zh_hans": [
-    "朝鲜",
-    "导弹试验",
-    "新华社"
-   ]
-  }
- },
- {
-  "id": "20261101-gba-innovation-signing",
-  "category": "tech",
-  "published_at": "2026-11-01T09:07:24+08:00",
-  "image_url": "https://k.sinaimg.cn/n/sinakd20261101s/199/w640h359/20261101/bee4-57de49439ac1fe8b91846564692a7a31.jpg/w700d1q75cms.jpg?by=cms_fixed_width",
-  "source": {
-   "name": "新浪財經（中新社）",
-   "url": "https://finance.sina.cn/2026-11-01/detail-inixetzz6797392.d.html"
-  },
-  "title": {
-   "en": "GBA National Innovation Center signs 11 partnerships to deepen industry-academia collaboration",
-   "zh_hant": "大灣區國創中心與11家單位簽約　推進產學研合作",
-   "zh_hans": "大湾区国创中心与11家单位签约　推进产学研合作"
-  },
-  "summary": {
-   "en": "The Guangdong-Hong Kong-Macao Greater Bay Area National Center of Technology Innovation signed industry-academia-research cooperation agreements with 11 partners, including Topstar and Maiwei Technology, at a 2026 Greater Bay Area Science Forum event in Nansha, Guangzhou yesterday. Themed 'Wisdom converges in the GBA, sci-tech innovation leads the future', the event focused on embodied intelligence, advanced manufacturing and industrial software. A sci-tech achievement exhibition runs at the Nansha International Convention and Exhibition Center from October 31 to November 2, with over 40 exhibitors showcasing innovations and applications.",
-   "zh_hant": "粵港澳大灣區國家技術創新中心昨日在廣州南沙舉行的2026大灣區科學論壇專場活動上，與拓斯達、邁為技術等11家單位簽署產學研合作協議，推動科研供給精準對接企業技術需求。活動以「智匯大灣區　科創領未來」為主題，聚焦具身智能、先進製造、工業軟件等前沿領域。10月31日至11月2日，科技成果展覽在南沙國際會展中心同期舉行，40餘家單位集中展示創新成果與應用實踐。",
-   "zh_hans": "粤港澳大湾区国家技术创新中心昨日在广州南沙举行的2026大湾区科学论坛专场活动上，与拓斯达、迈为技术等11家单位签署产学研合作协议，推动科研供给精准对接企业技术需求。活动以「智汇大湾区　科创领未来」为主题，聚焦具身智能、先进制造、工业软件等前沿领域。10月31日至11月2日，科技成果展览在南沙国际会展中心同期举行，40余家单位集中展示创新成果与应用实践。"
-  },
-  "tags": {
-   "en": [
-    "Greater Bay Area",
-    "innovation",
-    "industry-academia collaboration"
-   ],
-   "zh_hant": [
-    "大灣區",
-    "科技創新",
-    "產學研"
-   ],
-   "zh_hans": [
-    "大湾区",
-    "科技创新",
-    "产学研"
-   ]
-  }
- },
- {
-  "id": "20261101-china-vat-withholding",
-  "category": "finance",
-  "published_at": "2026-11-01T08:32:00+08:00",
-  "image_url": "",
-  "source": {
-   "name": "新浪財經（中國稅務報、第一財經）",
-   "url": "https://finance.sina.cn/2026-11-01/detail-inixetzy1014967.d.html"
-  },
-  "title": {
-   "en": "China's VAT withholding mechanism for individuals' service income takes effect today",
-   "zh_hant": "內地自然人增值稅代扣代繳今起施行　單位代個人繳稅",
-   "zh_hans": "内地自然人增值税代扣代缴今起施行　单位代个人缴税"
-  },
-  "summary": {
-   "en": "China's first VAT withholding mechanism for individuals took effect today. Under the new rules from the Ministry of Finance and the State Taxation Administration, domestic entities purchasing R&D, software, design, consulting, film and TV production, cultural and education services from individuals must withhold and remit VAT. The statutory rate is 3%, reduced to 1% through end-2027; withholders must file and pay within 15 days from the first day of the month following the taxable transaction.",
-   "zh_hant": "內地首次引入的自然人增值稅代扣代繳機制今日起正式施行。根據財政部、稅務總局公布的《境內單位代扣代繳自然人增值稅管理辦法》，境內單位向自然人購買研發、軟件、設計、諮詢、影視製作、文化及教育等服務時，須按規定代扣代繳增值稅。現行法定徵收率為3%，2027年底前減按1%徵稅；扣繳義務人須於發生應稅交易次月1日起15日內完成申報繳稅。",
-   "zh_hans": "内地首次引入的自然人增值税代扣代缴机制今日起正式施行。根据财政部、税务总局公布的《境内单位代扣代缴自然人增值税管理办法》，境内单位向自然人购买研发、软件、设计、咨询、影视制作、文化及教育等服务时，须按规定代扣代缴增值税。现行法定征收率为3%，2027年底前减按1%征税；扣缴义务人须于发生应税交易次月1日起15日内完成申报缴税。"
-  },
-  "tags": {
-   "en": [
-    "VAT",
-    "tax",
-    "China policy"
-   ],
-   "zh_hant": [
-    "增值稅",
-    "稅務",
-    "內地政策"
-   ],
-   "zh_hans": [
-    "增值税",
-    "税务",
-    "内地政策"
-   ]
-  }
- },
- {
-  "id": "20261101-china-moon-mission-plan",
-  "category": "tech",
-  "published_at": "2026-11-01T08:57:04+08:00",
-  "image_url": "",
-  "source": {
-   "name": "新浪財經（央視新聞）",
-   "url": "https://finance.sina.cn/stock/jdts/2026-11-01/detail-inixetzw4245017.d.html"
-  },
-  "title": {
-   "en": "China's crewed lunar mission adopts two-launch lunar-orbit rendezvous plan",
-   "zh_hant": "中國載人登月採「兩次發射、環月對接」方案　研製穩步推進",
-   "zh_hans": "中国载人登月采「两次发射、环月对接」方案　研制稳步推进"
-  },
-  "summary": {
-   "en": "China's crewed lunar exploration program will use a 'two launches, lunar-orbit rendezvous' approach, chief designer Wang Xiang revealed at the 7th Manned Spaceflight Academic Conference that opened October 31. Two rockets will separately send the Lanyue lunar lander and the Mengzhou crewed spacecraft into Earth-Moon transfer orbit before rendezvous and docking in lunar orbit. Development work for the lunar landing phase is progressing steadily. The two-day conference drew over 800 experts under the theme of empowering high-quality manned spaceflight with digital intelligence.",
-   "zh_hant": "在10月31日開幕的第七屆載人航天學術大會上，中國載人月球探測工程總設計師王翔透露，工程採用「兩次發射、環月對接」方案：兩枚火箭分別將「攬月」月面着陸器與「夢舟」載人飛船送入地月轉移軌道，再於環月軌道交會對接。目前工程登月階段各項研製建設工作正穩步推進。本屆大會為期兩天，800餘位專家學者以「智匯星河　數智賦能載人航天高質量發展」為主題交流研討。",
-   "zh_hans": "在10月31日开幕的第七届载人航天学术大会上，中国载人月球探测工程总设计师王翔透露，工程采用「两次发射、环月对接」方案：两枚火箭分别将「揽月」月面着陆器与「梦舟」载人飞船送入地月转移轨道，再于环月轨道交会对接。目前工程登月阶段各项研制建设工作正稳步推进。本届大会为期两天，800余位专家学者以「智汇星河　数智赋能载人航天高质量发展」为主题交流研讨。"
-  },
-  "tags": {
-   "en": [
-    "crewed lunar mission",
-    "space",
-    "China aerospace"
-   ],
-   "zh_hant": [
-    "載人登月",
-    "航天",
-    "中國航天"
-   ],
-   "zh_hans": [
-    "载人登月",
-    "航天",
-    "中国航天"
-   ]
-  }
- }
 ]
