@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>中港新聞速報</title><link>https://hkcn-news.vercel.app/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Mon, 02 Nov 2026 03:27:37 +0800</lastBuildDate>
+<title>中港新聞速報</title><link>https://hkcn-news.vercel.app/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Mon, 02 Nov 2026 07:28:04 +0800</lastBuildDate>
+<item>
+<title>香港金融科技周今日開幕　逾45,000人聚會展　聚焦金融+、AI+</title>
+<link>https://hkcn-news.vercel.app/a/20261102-fintech-week-2026-opens.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261102-fintech-week-2026-opens.html</guid>
+<pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate>
+<description>香港金融科技周 x StartmeupHK 2026 今日正式開幕，一連五日去到 11 月 6 日，主論壇今明兩日喺灣仔會展舉行。活動由財經事務及庫務局、商務及經濟發展局同投資推廣署主辦，預計吸引嚟自超過 120 個經濟體、逾 45,000 人參與，演講嘉賓超過 1,000 人，參展機構同初創企業超過 800 家。今屆主題係「金融科技樞紐 聯通世界 共建未來」，議程圍繞三大增長引擎「金融+」、「AI+」同全球拓展，設 10 個專題論壇，涵蓋 AI、數字資產、Web3、綠色科技等範疇。政府話，活動期間會圍繞人工智能應用同治理、代幣化、支付互聯等領域公布一系列新措施。</description>
+</item>
+<item>
+<title>保加利亞總統決選出口民調：約廷諾娃料52%勝出　成首位民選女總統</title>
+<link>https://hkcn-news.vercel.app/a/20261102-bulgaria-yotova-runoff.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261102-bulgaria-yotova-runoff.html</guid>
+<pubDate>Mon, 02 Nov 2026 02:36:00 +0800</pubDate>
+<description>保加利亞周日舉行總統決選，多間民調機構嘅出口民調顯示，現任總統約廷諾娃有望以約52%得票率擊敗前看守總理古羅夫。如果結果得到確認，62歲嘅約廷諾娃將成為保加利亞首位民選女總統。10月25日首輪投票兩人都未能過半數，投票率僅約23%創歷史新低。官方結果預計周一公布。官方廣播電台 BNR 同 Alpha Research 嘅出口民調分別顯示約廷諾娃得票 51% 同 52.5%；保加利亞通訊社 BGNES 引述初步計票（已點約 75% 選票）話，約廷諾娃得票 56.1%，領先居羅夫嘅 39.9%，投票率約 29%。</description>
+</item>
+<item>
+<title>伊朗：若美伊達成協議　荷姆茲海峽48小時內可重開</title>
+<link>https://hkcn-news.vercel.app/a/20261102-iran-hormuz-two-day-plan.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261102-iran-hormuz-two-day-plan.html</guid>
+<pubDate>Sun, 01 Nov 2026 23:17:00 +0800</pubDate>
+<description>伊朗外長阿拉格齊接受半島電視台訪問時話，如果德黑蘭同華府達成協議，荷姆茲海峽可以喺兩日內重開。伊朗同卡達調解代表喺杜哈進行第三日會談，推動結束美以對伊朗嘅戰爭，雙方正討論所謂「兩天提案」。伊朗開出嘅條件包括解除新增制裁、減少美軍喺區內部署、恢復石油豁免同釋放被凍結資金。美國國務卿魯比奧周六話，美方傾向用外交方式解決。</description>
+</item>
+<item>
+<title>以軍空襲加沙致至少8死　停火以來累計1,580人喪生</title>
+<link>https://hkcn-news.vercel.app/a/20261102-gaza-airstrikes-eight-killed.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261102-gaza-airstrikes-eight-killed.html</guid>
+<pubDate>Sun, 01 Nov 2026 22:36:00 +0800</pubDate>
+<description>巴勒斯坦通訊社11月1日報道，以軍當日對加沙多地發動空襲，至少8人死亡、多人受傷。汗尤尼斯一宗無人機襲擊造成5名警察死亡，加沙城西部一地遇襲，3人死亡包括一名兒童。加沙衛生部門話，自2025年10月10日停火以嚟，已有1,580人死亡、5,711人受傷。</description>
+</item>
 <item>
 <title>德國逾30城Z世代示威入夜變調　法蘭克福砸店搶掠30人被捕</title>
 <link>https://hkcn-news.vercel.app/a/20261101-germany-genz-protests.html</link>
@@ -10,11 +38,39 @@
 <description>由青年倡議組織「Gen Z regelt（Z世代來做主）」發起嘅示威，喺10月31日席捲德國30多個城市，組織方話約12萬人上街，訴求包括增加教育經費、應對生活成本上漲同環境保護。示威日間大致和平，但入夜後喺多地演變成暴力騷亂：法蘭克福有蒙面暴徒砸爛多間商店櫥窗搶掠，包括一間武器店；警方出動特種部隊、水炮同直升機，截至周日凌晨拘捕約30人。科隆同漢堡亦有騷亂同破壞報告。</description>
 </item>
 <item>
+<title>聯合國西撒哈拉維和任務結束35年使命　古特雷斯重申撒哈拉人民自決權</title>
+<link>https://hkcn-news.vercel.app/a/20261102-un-minurso-western-sahara.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261102-un-minurso-western-sahara.html</guid>
+<pubDate>Sun, 01 Nov 2026 21:10:00 +0800</pubDate>
+<description>聯合國駐西撒哈拉全民投票特派團（MINURSO）嘅授權喺上周六午夜屆滿，35年維和任務正式結束。安理會上周五未能就延續授權達成共識：美國提出嘅決議草案被俄羅斯否決，俄羅斯自己嘅草案亦未獲足夠票數通過。秘書長古特雷斯強調，維和人員撤走唔等於撒哈拉人民失去不可剝奪嘅自決權，聯合國會繼續透過特使推動政治解決。摩洛哥王室就話，35年嘅一頁已經揭過。</description>
+</item>
+<item>
+<title>伊朗最高領袖下令：美以若再動武　即時無地域限制反擊</title>
+<link>https://hkcn-news.vercel.app/a/20261102-khamenei-response-order.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261102-khamenei-response-order.html</guid>
+<pubDate>Sun, 01 Nov 2026 20:57:00 +0800</pubDate>
+<description>伊朗最高領袖哈梅內伊會見三軍高級將領，下令如果美國或以色列再次發動軍事或恐怖襲擊，伊朗武裝部隊必須即時作出有效回應，而且唔設地域限制。佢同時要求軍方更新打擊目標清單，涵蓋美以兩國各類有形同無形資產。聲明又話，如果敵人重啟戰事，幾時同點樣結束將由伊朗話事。美國國務卿魯比奧周六話，特朗普未決定係咪再打擊伊朗。</description>
+</item>
+<item>
 <title>「港參與第27屆深圳讀書月」深圳開幕　約30項活動至12月5日</title>
 <link>https://hkcn-news.vercel.app/a/20261101-shenzhen-reading-month.html</link>
 <guid>https://hkcn-news.vercel.app/a/20261101-shenzhen-reading-month.html</guid>
 <pubDate>Sun, 01 Nov 2026 20:55:00 +0800</pubDate>
 <description>「港參與第27屆深圳讀書月」今日喺深圳開幕，香港出版業界由今日起至12月5日喺深圳舉辦約30項活動，包括「香港功夫世界」主題展覽暨書展、「香港優質圖書書展」同「粵港澳大灣區歷史文化行」研討會，促進兩地出版業交流合作。文化創意產業專員黎敏儀喺開幕禮致辭話，香港連續第四年參與深圳讀書月，響應「深港共讀共識」，推動大灣區閱讀氛圍。</description>
+</item>
+<item>
+<title>教宗：盼奧列什基停火合作帶動烏俄和平進程</title>
+<link>https://hkcn-news.vercel.app/a/20261102-pope-oleshky-peace.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261102-pope-oleshky-peace.html</guid>
+<pubDate>Sun, 01 Nov 2026 20:20:00 +0800</pubDate>
+<description>教宗良十四世周日表示，希望俄烏雙方喺奧列什基實施停火時展現嘅合作，可以為更廣泛嘅和平努力鋪路。俄烏10月23日同意喺俄軍佔領嘅奧列什基停火六日，由美國第一夫人梅拉尼婭居中斡旋、教宗亦有參與，方便向糧食同藥物嚴重短缺嘅前線城鎮運送援助同撤離平民。呢次係俄烏全面開戰以嚟最長嘅局部停火，約2000名平民獲安排撤離或補給。澤連斯基話，和平談判代表將喺11月初再會面。</description>
+</item>
+<item>
+<title>萬聖節前夜13.1萬內地客入境　蘭桂坊冀生意增五成</title>
+<link>https://hkcn-news.vercel.app/a/20261102-halloween-visitors-hk.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261102-halloween-visitors-hk.html</guid>
+<pubDate>Sun, 01 Nov 2026 17:52:00 +0800</pubDate>
+<description>入境處數字顯示，萬聖節前夜約13.1萬人次內地旅客入境香港；啟德主場館10月30日晚舉行大型演唱會，全港多區亦有萬聖節活動。今年旅發局首辦「香港萬聖月」，將節慶由傳統嘅蘭桂坊擴散到旺角、啟德等區。適逢萬聖節正日係星期六，全城由傍晚開始進入狂歡狀態，蘭桂坊業界期望生意按年增加五成。</description>
 </item>
 <item>
 <title>民安隊樂隊50周年音樂會　逾千隊員及家屬出席</title>
@@ -36,6 +92,13 @@
 <guid>https://hkcn-news.vercel.app/a/20261101-macau-october-ggr.html</guid>
 <pubDate>Sun, 01 Nov 2026 15:43:00 +0800</pubDate>
 <description>澳門博彩監察協調局公布，10月博彩毛收入216.8億澳門元，按年下跌10%，連續第五個月錄得按年下跌；按月則回升約兩成。今年首十個月累計博彩收入2088億澳門元，按年增長1.6%。行政長官岑浩輝表示，暫不調整全年2360億澳門元博彩稅收預測，會繼續觀察賭收下跌的影響。</description>
+</item>
+<item>
+<title>謝霆鋒溫州演唱會被觀眾掟熒光棒砸中腿部　笑住繼續唱</title>
+<link>https://hkcn-news.vercel.app/a/20261102-nicholas-tse-glow-stick-wenzhou.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261102-nicholas-tse-glow-stick-wenzhou.html</guid>
+<pubDate>Sun, 01 Nov 2026 15:00:00 +0800</pubDate>
+<description>10月31日謝霆鋒喺溫州奧體中心「進化」演唱會演出期間，被一名白衣男子從看台掟出嘅熒光棒擊中腿部。當時謝霆鋒正喺伸出嘅機械臂舞台上唱歌，佢冇停低追究，溫柔一笑繼續演出。該男子被現場歌迷質問時，辯稱係「發自內心喜歡」先扔，唔少網民唔收貨，視為狡辯，要求嚴懲。</description>
 </item>
 <item>
 <title>海關機場破獲販毒案　22歲菲籍女子藏6公斤可卡因被捕</title>
@@ -73,6 +136,13 @@
 <description>財政司司長陳茂波在網誌表示，周二公布的第三季本地生產總值預先估計數字將高於市場預期，增速較第二季加快，香港將連續第15個季度錄得正增長，首三季合計增幅為五年來同期最大，全年增長預測可望再上調。科技創新是增長重要動力，9月商品出口貨值按年大升64.9%，連續第20個月錄得雙位數增長，單月增幅創逾40年新高。香港金融科技周與國際金融領袖投資峰會明日同步開幕，匯聚全球百多個經濟體代表。</description>
 </item>
 <item>
+<title>李家超：2030年後基本建成國際創科中心　河套逾120機構進駐</title>
+<link>https://hkcn-news.vercel.app/a/20261102-john-lee-gba-science-forum.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261102-john-lee-gba-science-forum.html</guid>
+<pubDate>Sun, 01 Nov 2026 11:00:00 +0800</pubDate>
+<description>行政長官李家超周六喺2026大灣區科學論壇開幕式發表視像致辭，話香港會按今年9月公布嘅首份五年規劃，喺2030年後基本建成國際創新科技中心。佢透露，河套香港園區已有超過120間創科企業同機構進駐，較施政報告公布時嘅逾100間再有增加。政府亦計劃同廣東省及深圳市加強新型工業同科研成果轉化合作。新田科技城就會提供約210公頃創科用地，同河套分工發展。</description>
+</item>
+<item>
 <title>林定國：樓宇維修改革是革命性改變　圍標刑事化望明年4月通過</title>
 <link>https://hkcn-news.vercel.app/a/20261101-lam-building-reform-bid-rigging.html</link>
 <guid>https://hkcn-news.vercel.app/a/20261101-lam-building-reform-bid-rigging.html</guid>
@@ -106,6 +176,13 @@
 <guid>https://hkcn-news.vercel.app/a/20261101-gba-innovation-signing.html</guid>
 <pubDate>Sun, 01 Nov 2026 09:07:24 +0800</pubDate>
 <description>粵港澳大灣區國家技術創新中心昨日在廣州南沙舉行的2026大灣區科學論壇專場活動上，與拓斯達、邁為技術等11家單位簽署產學研合作協議，推動科研供給精準對接企業技術需求。活動以「智匯大灣區　科創領未來」為主題，聚焦具身智能、先進製造、工業軟件等前沿領域。10月31日至11月2日，科技成果展覽在南沙國際會展中心同期舉行，40餘家單位集中展示創新成果與應用實踐。</description>
+</item>
+<item>
+<title>周華健濟南演唱會宣布「要當爺爺了」　笑言改歌名《親親我的孫兒寶貝》</title>
+<link>https://hkcn-news.vercel.app/a/20261102-wakin-chau-grandpa-jinan.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261102-wakin-chau-grandpa-jinan.html</guid>
+<pubDate>Sun, 01 Nov 2026 09:00:00 +0800</pubDate>
+<description>10月31日晚周華健喺濟南演唱會上，喺唱《親親我的寶貝》之前同歌迷分享喜訊，宣布自己即將當爺爺。佢話首歌當年係寫畀兒子周厚安，而家兒子大咗，笑言要將歌名改做《親親我的孫兒寶貝》。同場公布嘅中國演出行業協會數據顯示，2026年上半年5,000人以上大型營業性演出票房達171.11億元人民幣，按年增長17.7%。</description>
 </item>
 <item>
 <title>中國載人登月採「兩次發射、環月對接」方案　研製穩步推進</title>
@@ -274,83 +351,6 @@
 <guid>https://hkcn-news.vercel.app/a/20261031-police-anti-triad-58.html</guid>
 <pubDate>Sat, 31 Oct 2026 11:41:00 +0800</pubDate>
 <description>警方有組織罪案及三合會調查科展開反三合會行動，在各區共拘捕58人，年齡介乎14至73歲，其中10人是學生。總督察陳柏琪表示，今年初留意到青少年犯罪有上升趨勢，遂派出探員喬裝深入調查，揭發有青少年被誘騙參與刑事毀壞、販毒及傷人等非法行為。警方前日突擊搜查九龍及新界多個地點，以自稱三合會成員、串謀傷人、販運危險藥物等罪名拘捕49男9女，打擊一個活躍於九龍區、利用青少年犯案的三合會社團，並堵截其收入來源。警方表示行動會繼續，不排除再有人被捕，並提醒青少年不要誤信「搵快錢」的虛假承諾。</description>
-</item>
-<item>
-<title>美批准向烏克蘭出售500枚愛國者導彈　涉資21億美元</title>
-<link>https://hkcn-news.vercel.app/a/20261031-us-patriot-missiles-ukraine.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261031-us-patriot-missiles-ukraine.html</guid>
-<pubDate>Sat, 31 Oct 2026 11:05:00 +0800</pubDate>
-<description>美國國務院周五批准向烏克蘭出售500枚愛國者PAC-3 MSE型攔截導彈，總值約21億美元。烏克蘭將透過加拿大、德國、挪威的出資及歐盟「烏克蘭支援貸款」，經美國JUMPSTART計劃支付費用，洛克希德馬丁為主要承包商。由於導彈尚未生產，預計要到2030年代初才開始交付。總統澤連斯基11天前曾公開抗議美方軍援延誤。</description>
-</item>
-<item>
-<title>中國稀土11月2日起停牌　籌劃重大資產重組</title>
-<link>https://hkcn-news.vercel.app/a/20261031-china-rare-earth-suspension.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261031-china-rare-earth-suspension.html</guid>
-<pubDate>Sat, 31 Oct 2026 10:33:48 +0800</pubDate>
-<description>中國稀土昨晚公告，收到中國稀土集團通知，計劃以發行股份方式購買中稀（涼山）稀土股權並募集配套資金。公司股票自11月2日起停牌，預計不超過10個交易日、即11月16日前披露交易方案。交易構成重大資產重組和關聯交易，但不構成重組上市。</description>
-</item>
-<item>
-<title>富士康董事長會晤OpenAI奧特曼　洽談新合作</title>
-<link>https://hkcn-news.vercel.app/a/20261031-foxconn-openai-cooperation.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261031-foxconn-openai-cooperation.html</guid>
-<pubDate>Sat, 31 Oct 2026 10:31:58 +0800</pubDate>
-<description>據路透社報道，富士康董事長劉揚偉透露，已與OpenAI行政總裁奧特曼會面，雙方正推進新合作，細節確認後正式公布。劉揚偉明言AI行業並無泡沫，預計公司明年保持雙位數增長。AI伺服器已成富士康最重要增長引擎，雲計算與網絡產品業務佔第二季營收突破五成。</description>
-</item>
-<item>
-<title>幣安稱已補足約八成被盜資產　提幣料11月1日起分階段恢復</title>
-<link>https://hkcn-news.vercel.app/a/20261031-binance-recovery-update.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261031-binance-recovery-update.html</guid>
-<pubDate>Sat, 31 Oct 2026 10:00:00 +0800</pubDate>
-<description>幣安今日凌晨發布第二份事件更新，表示已提撥逾63.4億美元公司資金，補足約八成在10月30日熱錢包被盜事件中損失的資產，其餘正從市場買回。鏈上分析公司TRM Labs及Chainalysis均以高度確信指向北韓黑客組織TraderTraitor所為，FBI已介入調查。幣安指約30億美元被盜資產已被凍結，入金服務維持正常，提幣預計在約34小時內、即11月1日下午起分階段恢復，初步儲備證明將於11月2日前公布。</description>
-</item>
-<item>
-<title>10月中國製造業PMI回落至49.3%　重回收縮區間</title>
-<link>https://hkcn-news.vercel.app/a/20261031-china-pmi-october.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261031-china-pmi-october.html</guid>
-<pubDate>Sat, 31 Oct 2026 09:30:17 +0800</pubDate>
-<description>國家統計局今早公布，10月中國製造業採購經理指數（PMI）為49.3%，較上月下降0.8個百分點，重回榮枯線以下。非製造業商務活動指數和綜合PMI產出指數同為49.7%，企業生產經營活動總體放緩。不過裝備製造、高技術製造等新動能行業延續擴張，對沖整體回落壓力。</description>
-</item>
-<item>
-<title>商務部回應 FCC 檢測實驗室限制措施：如美方一意孤行將進一步反制</title>
-<link>https://hkcn-news.vercel.app/a/20261031-china-commerce-ministry-fcc-response.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261031-china-commerce-ministry-fcc-response.html</guid>
-<pubDate>Fri, 30 Oct 2026 23:01:18 +0800</pubDate>
-<description>商務部發言人就美國聯邦通信委員會（FCC）10 月 29 日投票通過檢測實驗室限制措施答記者問，表示中方強烈不滿、堅決反對，前期已採取反制措施予以回應。該措施自 2028 年 12 月 1 日起，禁止授權位於中國等所謂「非互惠經濟體」的檢測實驗室、電信認證機構及實驗室認可機構。發言人指美方罔顧中方反覆交涉、違背兩國元首達成的重要共識，嚴重損害中方及其他貿易夥伴利益，破壞中美經貿穩定及全球產供鏈；美方強推「檢測回流」將抬高企業檢測成本、拉長交付周期，最終損害美國企業及消費者利益。中方敦促美方立即撤銷有關措施，「如美方一意孤行，中方將進一步採取必要措施」。</description>
-</item>
-<item>
-<title>萬聖節周末料深宵北上人潮湧現　深圳灣延長通關城巴開通宵線</title>
-<link>https://hkcn-news.vercel.app/a/20261031-halloween-weekend-border-transport.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261031-halloween-weekend-border-transport.html</guid>
-<pubDate>Fri, 30 Oct 2026 22:34:00 +0800</pubDate>
-<description>因應萬聖節周末中環蘭桂坊街頭派對、美酒佳餚巡禮及啟德大型演唱會等活動，港府與公共交通營運商推出綜合疏導方案。深圳灣口岸旅客清關時間連續兩晚延長至凌晨2時，跨境巴士延長由銅鑼灣、灣仔、中環、尖沙咀及旺角等主要市區出發的尾班車時間；城巴於周六及周日凌晨開辦通宵特別路線B13S，由中環直達24小時通關的皇崗口岸。運輸署署長程詠怡視察多個轉乘樞紐，承諾安排後備車輛及司機加密班次；當局預計10月30日至11月1日每晚11時至凌晨2時，為皇崗口岸北行出境最繁忙時段。</description>
-</item>
-<item>
-<title>卡塔爾調解團抵德黑蘭　斡旋美伊重啟停火談判</title>
-<link>https://hkcn-news.vercel.app/a/20261031-qatar-mediators-tehran-us-iran.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261031-qatar-mediators-tehran-us-iran.html</guid>
-<pubDate>Fri, 30 Oct 2026 21:48:37 +0800</pubDate>
-<description>據伊朗伊斯蘭共和國通訊社及半島電視台報道，卡塔爾調解代表團於當地時間 10 月 30 日上午抵達德黑蘭，由卡塔爾首相兼外交大臣穆罕默德的高級顧問帶隊，目的是接收伊朗對美國副總統萬斯信件的答覆，並進一步細化新的外交路徑。消息指雙方可能於一週內安排會談，地點或為多哈或伊斯坦布爾。背景是萬斯 10 月 25 日致信伊朗最高國家安全委員會秘書雷扎伊，提議重啟和平談判；伊朗外長阿拉格齊稱德黑蘭仍願給外交一線機會，但堅持七項條件及「七日方案」。與此同時，特朗普已告誡海灣盟友，為下周中期選舉後一場短促、高強度的軍事行動做好準備。</description>
-</item>
-<item>
-<title>國泰第三方系統商 Amadeus 疑遭入侵　5.3 萬宗預訂資料或外洩</title>
-<link>https://hkcn-news.vercel.app/a/20261030-cathay-amadeus-data-breach.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261030-cathay-amadeus-data-breach.html</guid>
-<pubDate>Fri, 30 Oct 2026 18:30:00 +0800</pubDate>
-<description>國泰航空今日（30 日）表示，接獲全球旅遊科技供應商 Amadeus 通報，指其系統於 2023 年 8 月至 2026 年 9 月期間，遭未獲授權人士利用系統帳戶的登入憑證存取旅遊訂位紀錄，約 5.3 萬宗與國泰相關的預訂資料受影響。資料主要包括預訂參考編號、乘客姓名及航班資料，小部分個案另涉電郵、電話、旅遊證件及飛行常客計劃號碼。國泰強調自身系統及營運未受影響，暫無證據顯示財務資料外洩或資料被濫用，已通報私隱專員公署並會個別通知受影響客戶。日航約 9.2 萬宗、全日空約 3.78 萬宗資料亦受影響，大韓航空及韓亞航空同告中招。資訊科技界人士提醒，事件屬典型供應鏈風險，市民須提防釣魚詐騙。</description>
-</item>
-<item>
-<title>無印良品 App 疑外洩 2,726 萬條客戶資料　日本多間企業同日通報遭黑客入侵</title>
-<link>https://hkcn-news.vercel.app/a/20261030-japan-data-breaches.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261030-japan-data-breaches.html</guid>
-<pubDate>Fri, 30 Oct 2026 18:18:00 +0800</pubDate>
-<description>營運無印良品的日本良品計劃今日（30 日）公布，官方 MUJI App 遭外部非法存取，最多約 2,726 萬條客戶資料可能外洩，包括電郵地址、出生日期及性別，已退會用戶亦受影響；信用卡資料、姓名、地址及電話則不在其列，公司暫未發現資料被濫用，呼籲提防冒名電郵。公布正值「無印良品週間」促銷期。同日牛丼連鎖店松屋亦公布，其 App 管理系統遭入侵，最多約 238 萬人資料外洩。日本情報通信研究機構（NICT）指出，近期一連串事件至少部分與針對 Android App 後端系統的「A2B」攻擊手法有關。</description>
-</item>
-<item>
-<title>幼稚園通告籲勿慶祝萬聖節　稱「供奉死神」惹網民熱議</title>
-<link>https://hkcn-news.vercel.app/a/20261031-kindergarten-halloween-notice.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261031-kindergarten-halloween-notice.html</guid>
-<pubDate>Fri, 30 Oct 2026 17:49:04 +0800</pubDate>
-<description>有教會幼稚園發通告呼籲家長「切勿慶祝萬聖節」，聲稱萬聖節源於供奉死神、召喚邪靈的「死節」，「不給糖就搗蛋」實為古代詛咒儀式。有家長將通告上載至Threads，引發近五千人點讚、逾千留言，網民幾乎一面倒批評校方說法極端，反問「聖誕節本是太陽神誕，教會是否也應反對慶祝」。</description>
 </item>
 </channel>
 </rss>
