@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://hkcn-news.vercel.app/</loc><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261101-north-korea-missile-test.html</loc><lastmod>2026-11-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261101-hk-cyber-drill-concluded.html</loc><lastmod>2026-11-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261101-gba-innovation-signing.html</loc><lastmod>2026-11-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261101-china-moon-mission-plan.html</loc><lastmod>2026-11-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261101-china-vat-withholding.html</loc><lastmod>2026-11-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hkcn-news.vercel.app/a/20261101-iran-rezaei-vance-letter.html</loc><lastmod>2026-11-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hkcn-news.vercel.app/a/20261101-nicholas-tse-wenzhou.html</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hkcn-news.vercel.app/a/20261101-us-daylight-saving-ends.html</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
