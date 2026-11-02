@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://hkcn-news.vercel.app/</loc><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261102-fs-wce-summit.html</loc><lastmod>2026-11-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261102-malaysia-gamelan-concert.html</loc><lastmod>2026-11-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261102-fs-fintech-startmeuphk.html</loc><lastmod>2026-11-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261102-john-lee-beijing-shanghai.html</loc><lastmod>2026-11-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261102-sun-dong-wuzhen.html</loc><lastmod>2026-11-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hkcn-news.vercel.app/a/20261102-john-lee-fintech-week-ce-speech.html</loc><lastmod>2026-11-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hkcn-news.vercel.app/a/20261102-icac-johnson-cleaning-bribery.html</loc><lastmod>2026-11-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hkcn-news.vercel.app/a/20261102-hang-seng-monday-rally.html</loc><lastmod>2026-11-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
