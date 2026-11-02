@@ -225,7 +225,7 @@
   "id": "20261102-fintech-week-2026-opens",
   "category": "finance",
   "published_at": "2026-11-02T08:00:00+08:00",
-  "image_url": "",
+  "image_url": "https://gia.info.gov.hk/general/202611/02/P2026110200252_photo_1342645.jpg",
   "source": {
    "name": "香港金融科技周",
    "url": "https://www.fintechweek.hk/cn/news"
@@ -672,7 +672,7 @@
   "id": "20261102-fs-fintech-startmeuphk",
   "category": "finance",
   "published_at": "2026-11-02T12:05:00+08:00",
-  "image_url": "",
+  "image_url": "https://gia.info.gov.hk/general/202611/02/P2026110200253_photo_1342631.jpg",
   "source": {
    "name": "政府新聞處",
    "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200253.htm"
@@ -709,7 +709,7 @@
   "id": "20261102-malaysia-gamelan-concert",
   "category": "entertainment",
   "published_at": "2026-11-02T12:45:00+08:00",
-  "image_url": "",
+  "image_url": "https://gia.info.gov.hk/general/202611/02/P2026110200263_photo_1342559.jpg",
   "source": {
    "name": "政府新聞處",
    "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200263.htm"
@@ -1035,6 +1035,518 @@
     "立法会",
     "加密资产",
     "税务"
+   ]
+  }
+ },
+ {
+  "id": "20261102-ccida-architecture-exhibition",
+  "category": "society",
+  "published_at": "2026-11-02T19:30:00+08:00",
+  "image_url": "https://gia.info.gov.hk/general/202611/02/P2026110200392_photo_1342708.jpg",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200392.htm"
+  },
+  "title": {
+   "en": "Hong Kong Response Exhibition to Venice Architecture Biennale opens in Causeway Bay and Central",
+   "zh_hant": "威尼斯建築雙年展香港回應展開幕　展出本港經典複合建築",
+   "zh_hans": "威尼斯建筑双年展香港回应展开幕　展出本港经典复合建筑"
+  },
+  "summary": {
+   "en": "Sponsored by the Cultural and Creative Industries Development Agency, the Hong Kong Response Exhibition to the Hong Kong Exhibition at Biennale Architettura 2025 in Venice runs from today to November 15 at Urban Sky, Hysan Place in Causeway Bay and Knotting Space, H Queen's in Central, featuring around 30 sets of exhibits. Themed 'Projecting Future Heritage', the roving exhibition is the last stop of the series after Venice, Bangkok and Shanghai, showcasing Hong Kong's lesser-known yet classic composite buildings, multifunctional market complexes, co-op housing and public housing estates. Commissioner for Cultural and Creative Industries Drew Lai said the Government has supported the city's participation since 2010 to promote Hong Kong's architectural culture internationally.",
+   "zh_hant": "由文創產業發展處贊助、香港建築師學會雙年展基金會主辦嘅「威尼斯建築雙年展2025香港展覽回應展」，今日起至11月15號喺銅鑼灣希慎廣場 Urban Sky 同中環 H Queen's Knotting Space 舉行，展出約30組展品。今屆巡迴展主題係「投射未來遺產」，繼威尼斯、曼谷、上海之後，香港係最後一站，聚焦本港較少人認識但經典嘅複合建築、多用途街市綜合體、合作社樓宇、公共屋邨同街道基建。文創產業專員劉茵婷話，政府自2010年起支持香港建築界參與威尼斯建築雙年展，向國際推廣香港建築文化。",
+   "zh_hans": "由文创产业发展处赞助、香港建筑师学会双年展基金会主办的「威尼斯建筑双年展2025香港展览回应展」，今日起至11月15号在铜锣湾希慎广场 Urban Sky 和中环 H Queen's Knotting Space 举行，展出约30组展品。今届巡回展主题是「投射未来遗产」，继威尼斯、曼谷、上海之后，香港是最后一站，聚焦本港较少人认识但经典的复合建筑、多用途街市综合体、合作社楼宇、公共屋邨和街道基建。文创产业专员刘茵婷说，政府自2010年起支持香港建筑界参与威尼斯建筑双年展，向国际推广香港建筑文化。"
+  },
+  "tags": {
+   "en": [
+    "Architecture",
+    "Venice Biennale",
+    "CCIDA"
+   ],
+   "zh_hant": [
+    "建築",
+    "威尼斯雙年展",
+    "文創產業發展處"
+   ],
+   "zh_hans": [
+    "建筑",
+    "威尼斯双年展",
+    "文创产业发展处"
+   ]
+  }
+ },
+ {
+  "id": "20261102-customs-airport-cannabis-seizure",
+  "category": "hk",
+  "published_at": "2026-11-02T20:15:00+08:00",
+  "image_url": "https://gia.info.gov.hk/general/202611/02/P2026110200533_photo_1342711.jpg",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200533.htm"
+  },
+  "title": {
+   "en": "Hong Kong Customs seizes 5.1kg of suspected cannabis buds at airport; Mainland man arrested",
+   "zh_hant": "海關機場截獲5.1公斤懷疑大麻花　42歲內地男被捕",
+   "zh_hans": "海关机场截获5.1公斤怀疑大麻花　42岁内地男被捕"
+  },
+  "summary": {
+   "en": "Hong Kong Customs detected a drug trafficking case at Hong Kong International Airport today, seizing about 5.1 kilograms of suspected cannabis buds, three types of products containing suspected Part I poison, and 261 duty-not-paid cigarettes, with an estimated market value of about HK$1.06 million. A 42-year-old Mainland male passenger who arrived from Bangkok was arrested after the items were found in his carry-on baggage. He has been charged with trafficking in a dangerous drug, possession of dutiable goods and possession of Part I poison, and will appear at West Kowloon Magistrates' Courts tomorrow.",
+   "zh_hant": "香港海關今日喺香港國際機場偵破一宗販毒案，檢獲約5.1公斤懷疑大麻花、三款含懷疑第I部毒藥嘅產品，同261支未完稅香煙，估計市值約106萬元。一名42歲由曼谷抵港嘅內地男乘客，喺手提行李被搜出呢批物品後被捕。被捕男子被控販運危險藥物、管有應課稅品同管有第I部毒藥等罪名，聽日喺西九龍裁判法院提堂。",
+   "zh_hans": "香港海关今日在香港国际机场侦破一宗贩毒案，检获约5.1公斤怀疑大麻花、三款含怀疑第I部毒药的产品，和261支未完税香烟，估计市值约106万元。一名42岁由曼谷抵港的内地男乘客，在手提行李被搜出这批物品后被捕。被捕男子被控贩运危险药物、管有应课税品和管有第I部毒药等罪名，明日在西九龙裁判法院提堂。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Customs",
+    "Drug trafficking",
+    "Airport"
+   ],
+   "zh_hant": [
+    "海關",
+    "販毒",
+    "機場"
+   ],
+   "zh_hans": [
+    "海关",
+    "贩毒",
+    "机场"
+   ]
+  }
+ },
+ {
+  "id": "20261102-florida-learjet-crash",
+  "category": "world",
+  "published_at": "2026-11-03T01:00:22+08:00",
+  "image_url": "",
+  "source": {
+   "name": "Radio NWTN",
+   "url": "https://www.radionwtn.com/2026/11/02/nine-killed-after-learjet-crashes-into-palm-beach-county-florida-neighborhood/"
+  },
+  "title": {
+   "en": "Learjet 60 crashes into Florida neighborhood, killing all nine aboard",
+   "zh_hant": "佛州商務機墮住宅區起火　機上9人全部罹難",
+   "zh_hans": "佛州商务机坠住宅区起火　机上9人全部罹难"
+  },
+  "summary": {
+   "en": "A Learjet 60 business jet crashed into a suburban neighbourhood in Greenacres, Palm Beach County, Florida, on Sunday afternoon, killing all nine people on board. The aircraft had departed Austin, Texas, and was bound for the Bahamas when it went into a steep dive and erupted into a fireball near a mobile home community. No ground casualties were confirmed, though about 600 residents were evacuated from the area. US Transportation Secretary Sean Duffy confirmed the deaths, and the FAA and NTSB have opened a joint investigation, with a briefing expected on Monday.",
+   "zh_hant": "一架 Learjet 60 商務機星期日下晝墮毀喺美國佛羅里達州棕櫚灘縣 Greenacres 住宅區，機上9人全部罹難。架機由德州奧斯汀起飛，原定前往巴哈馬，中途急劇俯衝，墮地後起火爆炸，喺流動房屋社區附近造成一個大坑。地面暫時未有傷亡報告，約600名居民要疏散。美國運輸部長達菲確認死訊，聯邦航空局同國家運輸安全委員會已展開聯合調查，預計星期一交代詳情。",
+   "zh_hans": "一架 Learjet 60 商务机星期日下午坠毁在美国佛罗里达州棕榈滩县 Greenacres 住宅区，机上9人全部罹难。该机由得州奥斯汀起飞，原定前往巴哈马，中途急剧俯冲，坠地后起火爆炸，在流动房屋社区附近造成一个大坑。地面暂时未有伤亡报告，约600名居民要疏散。美国运输部长达菲确认死讯，联邦航空局和国家运输安全委员会已展开联合调查，预计星期一交代详情。"
+  },
+  "tags": {
+   "en": [
+    "Florida",
+    "Learjet 60",
+    "Aviation accident"
+   ],
+   "zh_hant": [
+    "佛州空難",
+    "Learjet 60",
+    "美國"
+   ],
+   "zh_hans": [
+    "佛州空难",
+    "Learjet 60",
+    "美国"
+   ]
+  }
+ },
+ {
+  "id": "20261102-fs-women-ce-summit",
+  "category": "finance",
+  "published_at": "2026-11-02T16:30:00+08:00",
+  "image_url": "https://gia.info.gov.hk/general/202611/02/P2026110200282_photo_1342613.jpg",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200282.htm"
+  },
+  "title": {
+   "en": "Paul Chan: drawing on widest talent pool makes financial sector stronger",
+   "zh_hant": "陳茂波：吸納最廣泛人才　令金融業更強大",
+   "zh_hans": "陈茂波：吸纳最广泛人才　令金融业更强大"
+  },
+  "summary": {
+   "en": "Financial Secretary Paul Chan delivered the keynote speech at the Women Chief Executives Summit 2026 today under the theme 'Female Voices of Impact and Innovation'. Chan said building institutions that succeed through uncertainty requires drawing on the widest possible pool of talent and managing capital with a long-term perspective. He noted that for the first time, the CEOs of both the Securities and Futures Commission and HKEX are women, and cited a study finding women hold 45 per cent of senior leadership roles in the financial institutions surveyed, up from 34 per cent in 2018.",
+   "zh_hant": "財政司司長陳茂波今日喺女行政總裁高峰會2026發表主題演辭，今屆主題係「Female Voices of Impact and Innovation」。陳茂波話，要建立能夠喺不明朗環境下成功嘅機構，關鍵係吸納最廣泛嘅人才同以長遠眼光管理資本。佢指出，證監會同港交所行政總裁歷史上首次同時由女性出任；一項研究亦顯示，受訪金融機構女性高層佔比由2018年嘅34%升至45%。",
+   "zh_hans": "财政司司长陈茂波今日在女行政总裁高峰会2026发表主题演辞，今届主题是「Female Voices of Impact and Innovation」。陈茂波说，要建立能够在不明朗环境下成功的机构，关键是吸纳最广泛的人才和以长远眼光管理资本。他指出，证监会和港交所行政总裁历史上首次同时由女性出任；一项研究亦显示，受访金融机构女性高层占比由2018年的34%升至45%。"
+  },
+  "tags": {
+   "en": [
+    "Paul Chan",
+    "Women leaders",
+    "Finance"
+   ],
+   "zh_hant": [
+    "陳茂波",
+    "女性領袖",
+    "金融"
+   ],
+   "zh_hans": [
+    "陈茂波",
+    "女性领袖",
+    "金融"
+   ]
+  }
+ },
+ {
+  "id": "20261102-hkma-pqc-toolkit",
+  "category": "tech",
+  "published_at": "2026-11-02T17:30:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200587.htm"
+  },
+  "title": {
+   "en": "HKMA and HKUST launch Post-Quantum Cryptography Toolkit for banks",
+   "zh_hant": "金管局聯同科大推後量子密碼工具包　助銀行應對量子運算威脅",
+   "zh_hans": "金管局联同科大推后量子密码工具包　助银行应对量子运算威胁"
+  },
+  "summary": {
+   "en": "The Hong Kong Monetary Authority and the Hong Kong University of Science and Technology today launched the Post-Quantum Cryptography (PQC) Toolkit to help banks plan and advance their transition to quantum-safe cryptography. The toolkit provides governance guidance, cryptographic exposure assessment, transition planning tools and implementation monitoring. The move follows the HKMA's Quantum Preparedness Index launched in July 2026, which scored the banking sector 2.3 out of 10, indicating early-stage readiness for the quantum era.",
+   "zh_hant": "金管局同香港科技大學今日推出「後量子密碼工具包」，協助銀行規劃同推進過渡到抗量子密碼技術。工具包涵蓋管治指引、密碼暴露評估、過渡規劃工具同實施進度監察。今次係跟進金管局今年7月推出嘅「量子準備指數」，當時銀行業得分2.3分（滿分10分），顯示量子時代準備工作只係起步階段。",
+   "zh_hans": "金管局和香港科技大学今日推出「后量子密码工具包」，协助银行规划和推进过渡到抗量子密码技术。工具包涵盖管治指引、密码暴露评估、过渡规划工具和实施进度监察。今次是跟进金管局今年7月推出的「量子准备指数」，当时银行业得分2.3分（满分10分），显示量子时代准备工作只是起步阶段。"
+  },
+  "tags": {
+   "en": [
+    "HKMA",
+    "Quantum computing",
+    "Cybersecurity"
+   ],
+   "zh_hant": [
+    "金管局",
+    "量子運算",
+    "網絡安全"
+   ],
+   "zh_hans": [
+    "金管局",
+    "量子运算",
+    "网络安全"
+   ]
+  }
+ },
+ {
+  "id": "20261102-japan-aquatic-inspection",
+  "category": "hk",
+  "published_at": "2026-11-02T18:30:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200416.htm"
+  },
+  "title": {
+   "en": "341 Japanese aquatic food samples tested for radiation, all pass safety limits",
+   "zh_hant": "食安中心檢測341個日本水產樣本輻射水平　全部合格",
+   "zh_hans": "食安中心检测341个日本水产样本辐射水平　全部合格"
+  },
+  "summary": {
+   "en": "The Centre for Food Safety conducted radiological tests on 341 food samples of aquatic and related products, seaweeds and sea salt imported from Japan between noon on October 30 and noon today, and none exceeded the safety limit. The Food Safety Order prohibiting aquatic products, sea salt and seaweeds from 10 Japanese metropolises and prefectures remains in force. The Agriculture, Fisheries and Conservation Department also tested 150 local catch samples, all of which passed.",
+   "zh_hant": "食物安全中心喺10月30號中午至今日中午期間，為341個由日本進口嘅水產及相關產品、海藻同海鹽樣本做輻射檢測，冇樣本超標。禁止10個都縣水產、海鹽同海藻進口嘅《食物安全命令》繼續生效。漁護署亦為150個本地漁獲樣本做輻射檢測，全部合格。",
+   "zh_hans": "食物安全中心在10月30号中午至今日中午期间，为341个由日本进口的水产及相关产品、海藻和海盐样本做辐射检测，没样本超标。禁止10个都县水产、海盐和海藻进口的《食物安全命令》继续生效。渔护署亦为150个本地渔获样本做辐射检测，全部合格。"
+  },
+  "tags": {
+   "en": [
+    "Food safety",
+    "Japan",
+    "Radiation tests"
+   ],
+   "zh_hant": [
+    "食物安全",
+    "日本",
+    "輻射檢測"
+   ],
+   "zh_hans": [
+    "食物安全",
+    "日本",
+    "辐射检测"
+   ]
+  }
+ },
+ {
+  "id": "20261102-legionnaires-cases",
+  "category": "hk",
+  "published_at": "2026-11-02T20:30:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200355.htm"
+  },
+  "title": {
+   "en": "Six new community-acquired Legionnaires' disease cases recorded in a week",
+   "zh_hant": "一星期錄6宗社區感染退伍軍人病　今年累計169宗",
+   "zh_hans": "一星期录6宗社区感染退伍军人病　今年累计169宗"
+  },
+  "summary": {
+   "en": "The Centre for Health Protection today reported six new community-acquired Legionnaires' disease cases recorded between October 25 and 31, involving six men aged 48 to 78. Investigations are under way and the cases are so far sporadic, with no epidemiological linkages established. As of October 31, 169 cases had been recorded this year, compared with 167 in 2025 and 135 in 2024. The CHP reminded the public to properly use and maintain man-made water systems, and advised susceptible groups to observe precautions strictly.",
+   "zh_hant": "衞生防護中心今日公布，10月25至31號期間錄得6宗社區感染退伍軍人病個案，涉及6名48至78歲男子。中心正調查感染源頭，初步顯示屬散發個案，未發現流行病學關連。截至10月31號，今年累計錄得169宗，2025年同2024年分別有167宗同135宗。防護中心提醒市民正確使用同保養人造供水系統，易感群組要嚴格遵守預防措施。",
+   "zh_hans": "卫生防护中心今日公布，10月25至31号期间录得6宗社区感染退伍军人病个案，涉及6名48至78岁男子。中心正调查感染源头，初步显示属散发个案，未发现流行病学关连。截至10月31号，今年累计录得169宗，2025年和2024年分别有167宗和135宗。防护中心提醒市民正确使用和保养人造供水系统，易感群组要严格遵守预防措施。"
+  },
+  "tags": {
+   "en": [
+    "Legionnaires' disease",
+    "Centre for Health Protection"
+   ],
+   "zh_hant": [
+    "退伍軍人病",
+    "衞生防護中心"
+   ],
+   "zh_hans": [
+    "退伍军人病",
+    "卫生防护中心"
+   ]
+  }
+ },
+ {
+  "id": "20261102-mpox-confirmed-case",
+  "category": "hk",
+  "published_at": "2026-11-02T21:00:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200650.htm"
+  },
+  "title": {
+   "en": "CHP investigating confirmed Mpox case involving 33-year-old man",
+   "zh_hant": "衞生防護中心調查一宗猴痘確診個案　33歲男病人情況穩定",
+   "zh_hans": "卫生防护中心调查一宗猴痘确诊个案　33岁男病人情况稳定"
+  },
+  "summary": {
+   "en": "The Centre for Health Protection is investigating a confirmed Mpox case involving a 33-year-old man who developed a genital rash on October 21 that later spread to his chest and limbs, followed by fever. He sought treatment at North District Hospital on October 30 and was admitted for isolation; he is in stable condition. Laboratory testing confirmed the Monkeypox virus. The patient reported high-risk exposure with a man in Hong Kong during the incubation period. Since 2022, Hong Kong has recorded 118 Mpox cases, all male.",
+   "zh_hant": "衞生防護中心正調查一宗猴痘確診個案，涉及一名33歲男子。病人10月21號起喺生殖器範圍出疹，之後蔓延到胸口同四肢，再發燒；10月30號去北區醫院求醫並入院隔離，情況穩定，化驗證實感染猴痘病毒。病人話潛伏期內喺香港同男子有高風險接觸。自2022年起，本港累計錄得118宗猴痘個案，全部係男性。",
+   "zh_hans": "卫生防护中心正调查一宗猴痘确诊个案，涉及一名33岁男子。病人10月21号起在生殖器范围出疹，之后蔓延到胸口和四肢，再发烧；10月30号去北区医院求医并入院隔离，情况稳定，化验证实感染猴痘病毒。病人说潜伏期内在香港和男子有高风险接触。自2022年起，本港累计录得118宗猴痘个案，全部是男性。"
+  },
+  "tags": {
+   "en": [
+    "Mpox",
+    "Centre for Health Protection"
+   ],
+   "zh_hant": [
+    "猴痘",
+    "衞生防護中心"
+   ],
+   "zh_hans": [
+    "猴痘",
+    "卫生防护中心"
+   ]
+  }
+ },
+ {
+  "id": "20261102-octopus-fraudulent-websites",
+  "category": "hk",
+  "published_at": "2026-11-02T17:00:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200512.htm"
+  },
+  "title": {
+   "en": "HKMA alerts public to fraudulent websites impersonating Octopus",
+   "zh_hant": "金管局籲提防假冒八達通欺詐網站　切勿經連結登入",
+   "zh_hans": "金管局吁提防假冒八达通欺诈网站　切勿经链接登入"
+  },
+  "summary": {
+   "en": "The Hong Kong Monetary Authority today alerted the public to fraudulent websites reported by Octopus Cards Limited. The HKMA reminded the public that banks will not send SMS or emails with embedded hyperlinks directing customers to carry out transactions, nor ask for login passwords or one-time passwords by phone, email or SMS. Anyone who has provided personal information or conducted transactions through the scams should contact the relevant bank and report to the Police's Crime Wing Information Centre at 2860 5012.",
+   "zh_hant": "金管局今日提醒市民，提防八達通卡有限公司舉報嘅欺詐網站。金管局重申，銀行唔會透過短訊或電郵夾附超連結要求客戶進行交易，亦唔會用電話、電郵或短訊索取登入密碼或一次性密碼。市民如果曾經喺呢啲網站提供個人資料或進行交易，應該聯絡相關銀行，並向警方商業罪案調查科情報中心（2860 5012）報案。",
+   "zh_hans": "金管局今日提醒市民，提防八达通卡有限公司举报的欺诈网站。金管局重申，银行不会透过短讯或电邮夹附超连结要求客户进行交易，亦不会用电话、电邮或短讯索取登入密码或一次性密码。市民如果曾经在这些网站提供个人资料或进行交易，应该联络相关银行，并向警方商业罪案调查科情报中心（2860 5012）报案。"
+  },
+  "tags": {
+   "en": [
+    "Octopus",
+    "Scam alert",
+    "HKMA"
+   ],
+   "zh_hant": [
+    "八達通",
+    "防騙",
+    "金管局"
+   ],
+   "zh_hans": [
+    "八达通",
+    "防骗",
+    "金管局"
+   ]
+  }
+ },
+ {
+  "id": "20261102-poultry-suspension-washington",
+  "category": "hk",
+  "published_at": "2026-11-02T19:00:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200515.htm"
+  },
+  "title": {
+   "en": "Hong Kong suspends poultry imports from Washington's Kittitas County over H5N1 outbreak",
+   "zh_hant": "華盛頓州基帝塔斯縣爆H5N1禽流感　本港即時暫停進口當地禽肉禽蛋",
+   "zh_hans": "华盛顿州基帝塔斯县爆H5N1禽流感　本港即时暂停进口当地禽肉禽蛋"
+  },
+  "summary": {
+   "en": "The Centre for Food Safety today instructed the trade to suspend with immediate effect the import of poultry meat and products, including eggs, from Kittitas County, Washington, US, following a World Organisation for Animal Health notification of a highly pathogenic H5N1 avian influenza outbreak there. In the first nine months of this year, Hong Kong imported about 33,270 tonnes of chilled and frozen poultry meat and 92.33 million poultry eggs from the US. The CFS said it has contacted the US authorities and will monitor the situation closely.",
+   "zh_hant": "食物安全中心今日宣布，因應世界動物衞生組織通報美國華盛頓州基帝塔斯縣爆發高致病性H5N1禽流感，即時指示業界暫停進口當地禽肉同禽肉產品（包括禽蛋）。今年首9個月，本港由美國進口約33,270噸冰鮮冷藏禽肉同9,233萬隻禽蛋。食安中心話已聯絡美國當局，會密切監察禽流感疫情發展。",
+   "zh_hans": "食物安全中心今日宣布，因应世界动物卫生组织通报美国华盛顿州基帝塔斯县爆发高致病性H5N1禽流感，即时指示业界暂停进口当地禽肉和禽肉产品（包括禽蛋）。今年首9个月，本港由美国进口约33,270吨冰鲜冷藏禽肉和9,233万只禽蛋。食安中心说已联络美国当局，会密切监察禽流感疫情发展。"
+  },
+  "tags": {
+   "en": [
+    "Avian influenza",
+    "Food safety",
+    "Poultry imports"
+   ],
+   "zh_hant": [
+    "禽流感",
+    "食物安全",
+    "禽肉進口"
+   ],
+   "zh_hans": [
+    "禽流感",
+    "食物安全",
+    "禽肉进口"
+   ]
+  }
+ },
+ {
+  "id": "20261102-severe-paediatric-flu",
+  "category": "hk",
+  "published_at": "2026-11-02T21:20:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200554.htm"
+  },
+  "title": {
+   "en": "Seven-year-old girl in intensive care with severe influenza; CHP urges vaccination",
+   "zh_hant": "7歲女童染流感重症入深切治療部　衞生防護中心籲盡早打針",
+   "zh_hans": "7岁女童染流感重症入深切治疗部　卫生防护中心吁尽早打针"
+  },
+  "summary": {
+   "en": "The Centre for Health Protection today recorded a severe paediatric influenza case involving a 7-year-old girl with good past health. She developed fever, cough and malaise on October 27, was admitted to Kwong Wah Hospital on October 29, and was later transferred to the paediatric intensive care unit with respiratory distress. Her specimen tested positive for influenza A (H3). She had not received the seasonal influenza vaccine. A total of 29 severe paediatric influenza cases have been recorded this season; the CHP urged the public to get vaccinated as soon as possible.",
+   "zh_hant": "衞生防護中心今日錄得一宗兒童流感重症個案，涉及一名7歲女童。女童本身健康良好，10月27號開始發燒、咳同周身唔舒服，10月29號入廣華醫院，病情惡化出現呼吸困難，轉入兒科深切治療部，呼吸道樣本對甲型流感（H3）呈陽性反應。佢冇接種季節性流感疫苗。今個流感季節累計錄得29宗兒童流感重症，防護中心呼籲市民盡早接種疫苗。",
+   "zh_hans": "卫生防护中心今日录得一宗儿童流感重症个案，涉及一名7岁女童。女童本身健康良好，10月27号开始发烧、咳和周身不舒服，10月29号入广华医院，病情恶化出现呼吸困难，转入儿科深切治疗部，呼吸道样本对甲型流感（H3）呈阳性反应。她没接种季节性流感疫苗。今个流感季节累计录得29宗儿童流感重症，防护中心呼吁市民尽早接种疫苗。"
+  },
+  "tags": {
+   "en": [
+    "Influenza",
+    "Paediatric",
+    "Vaccination"
+   ],
+   "zh_hant": [
+    "流感",
+    "兒童",
+    "疫苗"
+   ],
+   "zh_hans": [
+    "流感",
+    "儿童",
+    "疫苗"
+   ]
+  }
+ },
+ {
+  "id": "20261102-sfst-fintech-nexus-panel",
+  "category": "finance",
+  "published_at": "2026-11-02T15:00:00+08:00",
+  "image_url": "https://gia.info.gov.hk/general/202611/02/P2026110200376_photo_1342615.jpg",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200376.htm"
+  },
+  "title": {
+   "en": "Christopher Hui: data, tokenisation and AI are the three tools bridging fintech's future",
+   "zh_hant": "許正宇：數據、代幣化、AI係連接金融科技未來嘅三大工具",
+   "zh_hans": "许正宇：数据、代币化、AI是连接金融科技未来的三大工具"
+  },
+  "summary": {
+   "en": "Secretary for Financial Services and the Treasury Christopher Hui told the 'FinTech Nexus: Where Data, Tokens and AI Converge' panel at Hong Kong FinTech Week x StartmeupHK Festival 2026 that data, tokenisation and AI are the three tools bridging fintech's future. He announced an interbank tokenised gold transaction project under the HKMA's Project Ensemble, with a token representing a standard 400-ounce gold bar priced against Hong Kong's HAU gold reference price, plus tokenised deposits. The Stock Exchange will pilot blockchain-backed trading of tokenised carbon credits this year. Hui also said a bill to regulate advisory, dealing, custody and management of virtual assets will be introduced to LegCo before year-end.",
+   "zh_hant": "財經事務及庫務局局長許正宇喺香港金融科技周x StartmeupHK 2026「FinTech Nexus」專題討論環節話，數據、代幣化同人工智能係連接金融科技未來嘅三大工具。佢宣布即將推出銀行同業代幣化黃金交易項目，喺金管局「Ensemble」項目下以代幣代表一條標準400安士金條，用香港黃金參考價HAU計價，另設代幣化存款。港交所今年會試行以區塊鏈為基礎嘅代幣化碳信用交易。許正宇亦話，年底前會向立法會提交規管虛擬資產諮詢、交易、託管同管理嘅條例草案。",
+   "zh_hans": "财经事务及库务局局长许正宇在香港金融科技周x StartmeupHK 2026「FinTech Nexus」专题讨论环节说，数据、代币化和人工智能是连接金融科技未来的三大工具。他宣布即将推出银行同业代币化黄金交易项目，在金管局「Ensemble」项目下以代币代表一条标准400安士金条，用香港黄金参考价HAU计价，另设代币化存款。港交所今年会试行以区块链为基础的代币化碳信用交易。许正宇亦说，年底前会向立法会提交规管虚拟资产咨询、交易、托管和管理的条例草案。"
+  },
+  "tags": {
+   "en": [
+    "Christopher Hui",
+    "FinTech",
+    "Tokenisation"
+   ],
+   "zh_hant": [
+    "許正宇",
+    "金融科技",
+    "代幣化"
+   ],
+   "zh_hans": [
+    "许正宇",
+    "金融科技",
+    "代币化"
+   ]
+  }
+ },
+ {
+  "id": "20261102-tourism-strategy-meeting",
+  "category": "hk",
+  "published_at": "2026-11-02T19:45:00+08:00",
+  "image_url": "https://gia.info.gov.hk/general/202611/02/P2026110200588_photo_1342707.jpg",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200588.htm"
+  },
+  "title": {
+   "en": "Tourism Strategy Committee holds seventh meeting; visitor arrivals hit post-pandemic record",
+   "zh_hant": "旅遊業策略委員會開第七次會議　首9個月訪港旅客4,070萬人次",
+   "zh_hans": "旅游业策略委员会开第七次会议　首9个月访港旅客4,070万人次"
+  },
+  "summary": {
+   "en": "The Tourism Strategy Committee, chaired by Secretary for Culture, Sports and Tourism Rosanna Law, held its seventh meeting today to discuss tourism initiatives under Hong Kong's First Five-Year Plan and the 2026 Policy Address. Members backed plans to deepen '+tourism' experiences and develop Hong Kong into a core demonstration zone for multi-destination tourism. Visitor arrivals reached 40.7 million in the first nine months of 2026, up 12 per cent year on year, with August's 5.46 million setting a new post-pandemic monthly record; full-year arrivals are projected at 53.8 million.",
+   "zh_hant": "由文化體育及旅遊局局長羅淑佩主持嘅旅遊業策略委員會今日舉行第七次會議，討論《香港首份五年計劃》同2026年《施政報告》下嘅旅遊政策措施。委員支持深化「+旅遊」體驗，將香港打造成多程目的地旅遊核心示範區。今年首9個月訪港旅客達4,070萬人次，按年升12%，其中8月份546萬人次創疫後單月新高；預計全年訪港旅客可達5,380萬人次，相關旅遊總消費2,381億元。",
+   "zh_hans": "由文化体育及旅游局局长罗淑佩主持的旅游业策略委员会今日举行第七次会议，讨论《香港首份五年计划》和2026年《施政报告》下的旅游政策措施。委员支持深化「+旅游」体验，将香港打造成多程目的地旅游核心示范区。今年首9个月访港旅客达4,070万人次，按年升12%，其中8月份546万人次创疫后单月新高；预计全年访港旅客可达5,380万人次，相关旅游总消费2,381亿元。"
+  },
+  "tags": {
+   "en": [
+    "Tourism",
+    "Visitor arrivals",
+    "Rosanna Law"
+   ],
+   "zh_hant": [
+    "旅遊",
+    "訪港旅客",
+    "羅淑佩"
+   ],
+   "zh_hans": [
+    "旅游",
+    "访港旅客",
+    "罗淑佩"
+   ]
+  }
+ },
+ {
+  "id": "20261102-wah-fu-rehousing",
+  "category": "hk",
+  "published_at": "2026-11-02T20:00:00+08:00",
+  "image_url": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200244.htm"
+  },
+  "title": {
+   "en": "Wah Fu Estate redevelopment: first reception estate to complete late this year, rehousing done by Q3 2027",
+   "zh_hant": "華富邨重建最新進展　首個接收屋邨料今年底落成　2027年第三季完成調遷",
+   "zh_hans": "华富邨重建最新进展　首个接收屋邨料今年底落成　2027年第三季完成调迁"
+  },
+  "summary": {
+   "en": "The Housing Authority today briefed the Southern District Council on the latest progress of the clearance and rehousing plan for Wah Fu Estate redevelopment, winning general support for the proposed public housing at New Wah Fu Estate Phase 1. Construction at five reception sites in Pok Fu Lam South is proceeding in an orderly manner; the first, Wah Fu North Estate on Wah King Street, is expected to complete late this year, with residents of Wah On House and Wah Lok House moving in progressively. The entire rehousing is expected to conclude in the third quarter of 2027, followed by demolition.",
+   "zh_hant": "房屋委員會今日向南區區議會匯報華富邨重建清拆同調遷計劃最新進展，並就華富邨第一期新公營房屋發展諮詢議員，獲得普遍支持。薄扶林南五個接收地盤工程進展順利，首個接收屋邨華景街華富北邨預計今年底落成，華安樓同華樂樓居民將陸續遷入。整個調遷程序預計2027年第三季完成，之後展開清拆工程。",
+   "zh_hans": "房屋委员会今日向南区区议会汇报华富邨重建清拆和调迁计划最新进展，并就华富邨第一期新公营房屋发展咨询议员，获得普遍支持。薄扶林南五个接收地盘工程进展顺利，首个接收屋邨华景街华富北邨预计今年底落成，华安楼和华乐楼居民将陆续迁入。整个调迁程序预计2027年第三季完成，之后展开清拆工程。"
+  },
+  "tags": {
+   "en": [
+    "Wah Fu Estate",
+    "Public housing",
+    "Redevelopment"
+   ],
+   "zh_hant": [
+    "華富邨",
+    "公營房屋",
+    "重建"
+   ],
+   "zh_hans": [
+    "华富邨",
+    "公营房屋",
+    "重建"
    ]
   }
  }
