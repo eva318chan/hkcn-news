@@ -1,491 +1,795 @@
 [
- {
-  "id": "20261103-us-midterms-election-day",
-  "category": "world",
-  "published_at": "2026-11-03T09:00:00+08:00",
-  "image_url": "",
-  "image_caption": "",
-  "source": {
-   "name": "Bipartisan Policy Center",
-   "url": "https://bipartisanpolicy.org/article/the-2026-midterms-key-dates-and-events/"
+  {
+    "id": "20261103-us-midterms-election-day",
+    "category": "world",
+    "published_at": "2026-11-03T09:00:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "Bipartisan Policy Center",
+      "url": "https://bipartisanpolicy.org/article/the-2026-midterms-key-dates-and-events/"
+    },
+    "title": {
+      "en": "Americans vote in midterm elections to decide control of Congress",
+      "zh_hant": "美國中期選舉今日投票　435眾院議席＋35參院議席改選",
+      "zh_hans": "美国中期选举今日投票　435众院议席＋35参院议席改选"
+    },
+    "summary": {
+      "en": "Americans are voting on Tuesday in midterm elections that will decide control of Congress for the final two years of President Donald Trump's second term. All 435 seats in the House of Representatives are on the ballot, along with 35 Senate seats - 33 regular Class II seats plus special elections in Florida and Ohio to fill vacancies left when J.D. Vance became vice-president and Marco Rubio became secretary of state - and 36 governorships. Heading into Election Day, Republicans hold a 53-45 Senate majority, with two independents caucusing with Democrats, and a narrow 218-212 House majority with four vacancies; Democrats need a net gain of four seats to take the Senate. Ballotpedia has identified 46 battleground House districts, 25 held by Democrats and 21 by Republicans, while six states - California, Florida, Missouri, North Carolina, Tennessee and Texas - are voting under new congressional maps drawn in mid-decade redistricting. Forecasters favour Democrats to win the House, with the Senate rated competitive. Members elected on Tuesday will take office at noon on January 3, 2027, forming the 120th Congress.",
+      "zh_hant": "美國選民今日投票舉行中期選舉，決定總統特朗普第二任期最後兩年國會嘅控制權。眾議院全部435個議席改選，參議院改選35席——33個常規第二類議席，加上佛羅里達同俄亥俄嘅補選（填補萬斯出任副總統、魯比奧出任國務卿留低嘅空缺），另有36個州選州長。選前共和黨喺參議院以53比45佔優（另有兩名無黨派議員同民主黨黨團合作），眾議院以218比212微弱領先但有4個空缺；民主黨要淨增4席先可以奪回參議院。Ballotpedia 列出46個眾議院激戰選區（25個民主黨、21個共和黨持有），加州、佛州、密蘇里、北卡、田納西同德州6個州用咗年中重劃嘅新選區圖投票。預測機構睇好民主黨重奪眾議院，參議院則競爭激烈。今日當選嘅議員將於2027年1月3日中午上任，組成第120屆國會。",
+      "zh_hans": "美国选民今日投票举行中期选举，决定总统特朗普第二任期最后两年国会的控制权。众议院全部435个议席改选，参议院改选35席——33个常规第二类议席，加上佛罗里达同俄亥俄的补选（填补万斯出任副总统、鲁比奥出任国务卿留低的空缺），另有36个州选州长。选前共和党在参议院以53比45占优（另有两名无党派议员同民主党党团合作），众议院以218比212微弱领先但有4个空缺；民主党要净增4席先可以夺回参议院。Ballotpedia 列出46个众议院激战选区（25个民主党、21个共和党持有），加州、佛州、密苏里、北卡、田纳西同德州6个州用了年中重划的新选区图投票。预测机构看好民主党重夺众议院，参议院则竞争激烈。今日当选的议员将于2027年1月3日中午上任，组成第120届国会。"
+    },
+    "tags": {
+      "en": [
+        "US midterms",
+        "Congress",
+        "elections"
+      ],
+      "zh_hant": [
+        "美國中期選舉",
+        "美國國會",
+        "投票"
+      ],
+      "zh_hans": [
+        "美国中期选举",
+        "美国国会",
+        "投票"
+      ]
+    }
   },
-  "title": {
-   "en": "Americans vote in midterm elections to decide control of Congress",
-   "zh_hant": "美國中期選舉今日投票　435眾院議席＋35參院議席改選",
-   "zh_hans": "美国中期选举今日投票　435众院议席＋35参院议席改选"
+  {
+    "id": "20261103-unesco-journalist-impunity-report",
+    "category": "world",
+    "published_at": "2026-11-02T18:38:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "聯合國新聞",
+      "url": "https://news.un.org/en/story/2026/11/1168719"
+    },
+    "title": {
+      "en": "Six in seven journalist murders go unpunished, UNESCO reports",
+      "zh_hant": "教科文組織：記者遇害免罰率升至86%　十年來首見回升",
+      "zh_hans": "教科文组织：记者遇害免罚率升至86%　十年来首见回升"
+    },
+    "summary": {
+      "en": "Global impunity for journalist killings has risen for the first time in more than a decade, UNESCO said in its biennial Director-General's Report on the Safety of Journalists, released to mark the International Day to End Impunity for Crimes against Journalists on November 2. The impunity rate reached 86 per cent in 2024-2025, up one percentage point from the previous biennium. A confirmed 189 journalists and media workers were killed in those two years, 20 per cent more than the previous period and the highest toll since 2014-2015; more than two thirds, 127, died in conflict zones. Drone strikes killed 50 journalists - 40 per cent of all conflict-zone deaths - which UNESCO called a disturbing new threat, and 15 journalists were reportedly killed while wearing press vests or in clearly marked press vehicles. The Arab States recorded the most killings (97), and the State of Palestine had the highest national toll in both years (30 and 32). Women journalists face particular risks: 13 of the 14 women killed were in countries in armed conflict, and 75 per cent of women journalists have experienced online or offline abuse. There was progress too: in non-conflict countries the impunity rate fell from 94 per cent in 2012 to 77 per cent, and journalist killings there hit an 18-year low. 'When journalists are targeted and their reporting is extinguished, it makes victims of us all,' UN Secretary-General Antonio Guterres said.",
+      "zh_hant": "教科文組織發表兩年一度《記者安全與免罰危險總幹事報告》，配合11月2日「終止侵害記者犯罪不受懲罰國際日」，指全球記者遇害免罰率十年來首次回升，2024至2025年達86%，較上一個兩年期升一個百分點。兩年間有189名記者同媒體工作者確認遇害，較上期多兩成，係2014至2015年以來最高；其中127人（超過三分之二）死於衝突地區。無人機襲擊殺死50名記者，佔衝突地區死亡人數四成，被教科文組織稱為「令人不安嘅新威脅」；另有15名記者據報係穿住記者背心或坐喺清楚標示「Press」嘅車輛時遇害。阿拉伯國家錄得最多個案（97宗），巴勒斯坦兩年都係遇害人數最多嘅地區（30同32人）。女記者面對特別風險：14名遇害女記者中有13人身處武裝衝突國家，75%女記者曾經歷網上或線下騷擾。報告亦有好消息：非衝突國家嘅免罰率由2012年94%降至77%，記者遇害數字係18年來最低。「當記者成為目標、佢哋嘅報道被撲滅，我哋每個人都係受害者。」聯合國秘書長古特雷斯話。",
+      "zh_hans": "教科文组织发表两年一度《记者安全与免罚危险总干事报告》，配合11月2日「终止侵害记者犯罪不受惩罚国际日」，指全球记者遇害免罚率十年来首次回升，2024至2025年达86%，较上一个两年期升一个百分点。两年间有189名记者同媒体工作者确认遇害，较上期多两成，是2014至2015年以来最高；其中127人（超过三分之二）死于冲突地区。无人机袭击杀死50名记者，占冲突地区死亡人数四成，被教科文组织称为「令人不安的新威胁」；另有15名记者据报是穿住记者背心或坐喺清楚标示「Press」的车辆时遇害。阿拉伯国家录得最多案例（97宗），巴勒斯坦两年都是遇害人数最多的地区（30同32人）。女记者面对特别风险：14名遇害女记者中有13人身处武装冲突国家，75%女记者曾经历网上或线下骚扰。报告亦有好消息：非冲突国家的免罚率由2012年94%降至77%，记者遇害数字是18年来最低。「当记者成为目标、他们的报道被扑灭，我们每个人都是受害者。」联合国秘书长古特雷斯说。"
+    },
+    "tags": {
+      "en": [
+        "UNESCO",
+        "journalists",
+        "impunity"
+      ],
+      "zh_hant": [
+        "教科文組織",
+        "記者",
+        "免罰"
+      ],
+      "zh_hans": [
+        "教科文组织",
+        "记者",
+        "免罚"
+      ]
+    }
   },
-  "summary": {
-   "en": "Americans are voting on Tuesday in midterm elections that will decide control of Congress for the final two years of President Donald Trump's second term. All 435 seats in the House of Representatives are on the ballot, along with 35 Senate seats - 33 regular Class II seats plus special elections in Florida and Ohio to fill vacancies left when J.D. Vance became vice-president and Marco Rubio became secretary of state - and 36 governorships. Heading into Election Day, Republicans hold a 53-45 Senate majority, with two independents caucusing with Democrats, and a narrow 218-212 House majority with four vacancies; Democrats need a net gain of four seats to take the Senate. Ballotpedia has identified 46 battleground House districts, 25 held by Democrats and 21 by Republicans, while six states - California, Florida, Missouri, North Carolina, Tennessee and Texas - are voting under new congressional maps drawn in mid-decade redistricting. Forecasters favour Democrats to win the House, with the Senate rated competitive. Members elected on Tuesday will take office at noon on January 3, 2027, forming the 120th Congress.",
-   "zh_hant": "美國選民今日投票舉行中期選舉，決定總統特朗普第二任期最後兩年國會嘅控制權。眾議院全部435個議席改選，參議院改選35席——33個常規第二類議席，加上佛羅里達同俄亥俄嘅補選（填補萬斯出任副總統、魯比奧出任國務卿留低嘅空缺），另有36個州選州長。選前共和黨喺參議院以53比45佔優（另有兩名無黨派議員同民主黨黨團合作），眾議院以218比212微弱領先但有4個空缺；民主黨要淨增4席先可以奪回參議院。Ballotpedia 列出46個眾議院激戰選區（25個民主黨、21個共和黨持有），加州、佛州、密蘇里、北卡、田納西同德州6個州用咗年中重劃嘅新選區圖投票。預測機構睇好民主黨重奪眾議院，參議院則競爭激烈。今日當選嘅議員將於2027年1月3日中午上任，組成第120屆國會。",
-   "zh_hans": "美国选民今日投票举行中期选举，决定总统特朗普第二任期最后两年国会的控制权。众议院全部435个议席改选，参议院改选35席——33个常规第二类议席，加上佛罗里达同俄亥俄的补选（填补万斯出任副总统、鲁比奥出任国务卿留低的空缺），另有36个州选州长。选前共和党在参议院以53比45占优（另有两名无党派议员同民主党党团合作），众议院以218比212微弱领先但有4个空缺；民主党要净增4席先可以夺回参议院。Ballotpedia 列出46个众议院激战选区（25个民主党、21个共和党持有），加州、佛州、密苏里、北卡、田纳西同德州6个州用了年中重划的新选区图投票。预测机构看好民主党重夺众议院，参议院则竞争激烈。今日当选的议员将于2027年1月3日中午上任，组成第120届国会。"
+  {
+    "id": "20261103-florida-learjet-ntsb-briefing",
+    "category": "world",
+    "published_at": "2026-11-03T02:00:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "The Contrail",
+      "url": "https://www.thecontrail.org/florida-learjet-crash-ntsb/"
+    },
+    "title": {
+      "en": "NTSB: Florida Learjet crew issued mayday before crash; signs of mid-air breakup",
+      "zh_hant": "NTSB：佛州墜機前機組曾發Mayday　有證據顯示半空解體",
+      "zh_hans": "NTSB：佛州坠机前机组曾发Mayday　有证据显示半空解体"
+    },
+    "summary": {
+      "en": "US federal investigators said Monday they have evidence that the Learjet 60 which crashed into a Palm Beach County neighbourhood on Sunday, killing all nine people aboard, was breaking apart before it hit the ground. At the NTSB's first media briefing in West Palm Beach, board member Tom Chapman said the crew had reported picking up light, manageable ice and moderate turbulence at 35,000 feet, with the outside temperature at minus 47 degrees Celsius and altitude deviations of about 700 feet. Less than 30 seconds later the crew transmitted that they were descending, followed by a mayday call reporting an 'overspeed condition', before the aircraft plunged and exploded near Greenacres at about 12:50pm local time. 'We do have evidence that there was some breakup of the aircraft before impact,' Chapman said, adding that investigators hope to recover the cockpit voice recorder. The flight was a paid charter operated by Aurora Jet from Austin, Texas, to North Eleuthera in the Bahamas, carrying two crew and seven passengers; the only victim identified so far is 20-year-old co-pilot Nathalia Filgueiras. One man driving near the crash site suffered a leg injury, and debris was scattered across ball fields and homes. Chapman stressed the NTSB will not determine a probable cause while on scene; a preliminary report is typically issued within about 30 days.",
+      "zh_hant": "美國聯邦調查人員星期一話，有證據顯示星期日墮毀喺佛州棕櫚灘縣住宅區、導致機上9人全部罹難嘅 Learjet 60，喺撞地之前已經開始半空解體。國家運輸安全委員會（NTSB）委員查普曼喺西棕櫚灘首次記者會上話，機組喺35,000呎高空曾報告遇到輕微但可應付嘅結冰同中度亂流，當時機外溫度攝氏零下47度，高度上下偏差約700呎。唔夠30秒之後，機組通報飛機正在下降，隨即發出Mayday求救，話飛機處於「超速狀態」，之後架機急墜，喺當地下晝約12時50分喺 Greenacres 附近爆炸。「我哋確實有證據顯示，飛機喺撞擊前已經有部分解體。」查普曼話，調查人員希望搵返駕駛艙話音記錄器。今次係 Aurora Jet 營運嘅包機，由德州奧斯汀飛往巴哈馬北伊柳塞拉島，機上有2名機組人員同7名乘客；目前唯一確認身份嘅死者係20歲副機師菲爾蓋拉斯。一名喺墜機現場附近揸車嘅男子腿部受傷，碎片散落喺球場同民居。查普曼強調，NTSB 唔會喺現場階段就斷定可能成因，初步報告一般約30日內發表。",
+      "zh_hans": "美国联邦调查人员星期一说，有证据显示星期日坠毁在佛州棕榈滩县住宅区、导致机上9人全部罹难的 Learjet 60，在撞地之前已经开始半空解体。国家运输安全委员会（NTSB）委员查普曼在西棕榈滩首次记者会上说，机组在35,000呎高空曾报告遇到轻微但可应付的结冰同中度乱流，当时机外温度摄氏零下47度，高度上下偏差约700呎。不够30秒之后，机组通报飞机正在下降，随即发出Mayday求救，说飞机处于「超速状态」，之后架机急坠，在当地下昼约12时50分在 Greenacres 附近爆炸。「我们确实有证据显示，飞机在撞击前已经有部分解体。」查普曼说，调查人员希望找回驾驶舱话音记录器。这次是 Aurora Jet 营运的包机，由德州奥斯汀飞往巴哈马北伊柳塞拉岛，机上有2名机组人员同7名乘客；目前唯一确认身份的死者是20岁副机师菲尔盖拉斯。一名在坠机现场附近开车的男子腿部受伤，碎片散落在球场同民居。查普曼强调，NTSB 不会在现场阶段就断定可能成因，初步报告一般约30日内发表。"
+    },
+    "tags": {
+      "en": [
+        "Florida crash",
+        "Learjet",
+        "NTSB"
+      ],
+      "zh_hant": [
+        "佛州空難",
+        "Learjet",
+        "NTSB"
+      ],
+      "zh_hans": [
+        "佛州空难",
+        "Learjet",
+        "NTSB"
+      ]
+    }
   },
-  "tags": {
-   "en": [
-    "US midterms",
-    "Congress",
-    "elections"
-   ],
-   "zh_hant": [
-    "美國中期選舉",
-    "美國國會",
-    "投票"
-   ],
-   "zh_hans": [
-    "美国中期选举",
-    "美国国会",
-    "投票"
-   ]
+  {
+    "id": "20261103-hk-legal-week-2026",
+    "category": "hk",
+    "published_at": "2026-11-02T22:08:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.news.gov.hk/chi/2026/11/20261102/20261102_211608_935.html"
+    },
+    "image_url": "https://www.news.gov.hk/chi/2026/11/20261102/20261102_211608_935/images/20261102221838037.jpg",
+    "title": {
+      "en": "Hong Kong Legal Week 2026 opens; UNIDROIT Asia-Pacific liaison office inaugurated",
+      "zh_hant": "香港法律周2026開幕　私法協會亞太聯絡辦公室揭牌",
+      "zh_hans": "香港法律周2026开幕　私法协会亚太联络办公室揭牌"
+    },
+    "summary": {
+      "en": "Hong Kong Legal Week 2026 opened on Monday (2 November) for a five-day run, with Chief Executive John Lee addressing the opening ceremony. Marking the centenary of the International Institute for the Unification of Private Law (UNIDROIT), the institute's Asia-Pacific Liaison Office also opened on the same day — the first office outside its Rome headquarters in its 100-year history, based in Hong Kong. Lee called it a double celebration. Secretary for Justice Paul Lam noted that the office joins the HCCH Asia Pacific Regional Office and other international private-law bodies in Hong Kong, underscoring the city's role in fostering international and regional collaboration. This year's theme is 'Collaboration and Innovation: Law Connects, Building the Future'; the centenary Asia-Pacific regional conference drew over 700 registrants from more than 40 countries and regions, with an UNCITRAL 60th anniversary event and a legal-tech festival still to come this week.",
+      "zh_hant": "「香港法律周2026」星期一（11月2日）揭幕，一連五日舉行，行政長官李家超為開幕典禮致辭。今年適逢國際統一私法協會（UNIDROIT）成立100周年，協會亞太聯絡辦公室同日舉行開幕典禮，是協會創會百年以來首個設於羅馬總部以外的辦公室，選址香港。李家超形容是雙喜臨門；律政司司長林定國指，辦公室連同海牙國際私法會議亞太區域辦事處等三大國際私法組織齊集香港，發揮香港促成國際及區域機構協作的獨特優勢。今屆法律周主題為「協作與創新：法律聯動，共建未來」；慶祝協會百年嘅亞太區域會議有超過40個國家或地區、逾700人報名參與，本周尚有聯合國國際貿易法委員會60周年誌慶活動及香港法律科技節等。",
+      "zh_hans": "「香港法律周2026」星期一（11月2日）揭幕，一连五日举行，行政长官李家超为开幕典礼致辞。今年适逢国际统一私法协会（UNIDROIT）成立100周年，协会亚太联络办公室同日举行开幕典礼，是协会创会百年来首个设于罗马总部以外的办公室，选址香港。李家超形容是双喜临门；律政司司长林定国指，办公室连同海牙国际私法会议亚太区域办事处等三大国际私法组织齐集香港，发挥香港促成国际及区域机构协作的独特优势。今届法律周主题为「协作与创新：法律联动，共建未来」；庆祝协会百年的亚太区域会议有超过40个国家或地区、逾700人报名参与，本周尚有联合国国际贸易法委员会60周年志庆活动及香港法律科技节等。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong Legal Week",
+        "UNIDROIT",
+        "John Lee"
+      ],
+      "zh_hant": [
+        "香港法律周",
+        "私法協會",
+        "李家超"
+      ],
+      "zh_hans": [
+        "香港法律周",
+        "私法协会",
+        "李家超"
+      ]
+    }
+  },
+  {
+    "id": "20261103-hkex-derivatives-hours",
+    "category": "finance",
+    "published_at": "2026-11-02T17:35:00+08:00",
+    "source": {
+      "name": "都市日報",
+      "url": "https://metrohk.com.hk/財經/港交所擬明年3月起延長衍生產品交易時段-25ad16"
+    },
+    "image_url": "",
+    "title": {
+      "en": "HKEX plans to extend derivatives after-hours trading from March next year",
+      "zh_hant": "港交所擬明年3月起延長衍生產品收市後交易時段",
+      "zh_hans": "港交所拟明年3月起延长衍生产品收市后交易时段"
+    },
+    "summary": {
+      "en": "HKEX has announced plans to extend its derivatives after-hours trading session from March next year, moving the close from 3:00am to 4:15am, and will consider a further extension to 5:15am next November depending on market developments; the plan is subject to regulatory approval and market readiness. Chief Operating Officer Bonnie Chan said closer links across global markets mean investors need more flexibility to respond to developments in different time zones and manage risk. HKEX is also working with the HKMA on a pilot exploring the use of digital Hong Kong dollars (e-HKD) for paying pre-trade margins outside banking hours, giving after-hours participants more flexible payment options.",
+      "zh_hant": "港交所宣布，計劃明年3月起延長衍生產品收市後交易時段，收市時間由凌晨3時延至凌晨4時15分，並視乎市場發展，考慮在明年11月進一步延至凌晨5時15分；有關安排須待監管機構批准及市場準備就緒後落實。交易所營運總監劉碧茵表示，全球市場聯繫日益緊密，投資者需要更靈活應對不同時區市場變化並管理風險。港交所又正與金管局合作推行試點計劃，探索以數碼港元（e-HKD）在銀行服務時間外作支付預繳按金，為收市後交易時段參與者提供更靈活繳付選項。",
+      "zh_hans": "港交所宣布，计划明年3月起延长衍生产品收市后交易时段，收市时间由凌晨3时延至凌晨4时15分，并视乎市场发展，考虑在明年11月进一步延至凌晨5时15分；有关安排须待监管机构批准及市场准备就绪后落实。交易所营运总监刘碧茵表示，全球市场联系日益紧密，投资者需要更灵活应对不同时区市场变化并管理风险。港交所又正与金管局合作推行试点计划，探索以数码港元（e-HKD）在银行服务时间外作支付预缴按金，为收市后交易时段参与者提供更灵活缴付选项。"
+    },
+    "tags": {
+      "en": [
+        "HKEX",
+        "derivatives",
+        "trading hours"
+      ],
+      "zh_hant": [
+        "港交所",
+        "衍生產品",
+        "交易時段"
+      ],
+      "zh_hans": [
+        "港交所",
+        "衍生产品",
+        "交易时段"
+      ]
+    }
+  },
+  {
+    "id": "20261103-china-pmi-october",
+    "category": "china",
+    "published_at": "2026-11-02T10:00:00+08:00",
+    "source": {
+      "name": "國務院新聞辦公室（新華社）",
+      "url": "http://english.scio.gov.cn/pressroom/2026-11/02/content_118757722.html"
+    },
+    "image_url": "http://english.scio.gov.cn/2026-11/02/118757722_t2_6X5X597X399_e5203086-60b0-49e0-8239-a9de9ebcc2c4.jpeg",
+    "title": {
+      "en": "China's October manufacturing PMI eases to 49.3; high-tech sector stays in expansion",
+      "zh_hant": "內地10月製造業PMI回落至49.3　高技術製造業保持擴張",
+      "zh_hans": "内地10月制造业PMI回落至49.3　高技术制造业保持扩张"
+    },
+    "summary": {
+      "en": "The National Bureau of Statistics said China's manufacturing purchasing managers' index (PMI) came in at 49.3 in October, down 0.8 points from September and back in contraction territory; the production and new-orders sub-indexes fell to 49.8 and 49.4 respectively. The bureau attributed the retreat to some demand being brought forward ahead of the National Day holiday and a complex international environment, with both supply and demand moderating. High-tech manufacturing PMI stood at 51.3 and equipment manufacturing at 50.6, both still expanding, while large enterprises held at 50.2. On monetary policy, the PBOC announced it would complete the transition to an overnight policy-rate framework from 2 November, making the overnight reverse repo rate the main policy rate. The economy grew 4.6% in the first three quarters, in line with the annual target.",
+      "zh_hant": "國家統計局公布，10月中國製造業採購經理指數（PMI）為49.3，較9月回落0.8個百分點，重回收縮區間；生產及新訂單指數分別跌至49.8和49.4。統計局指，部分需求在國慶假期前提前釋放，加上國際環境複雜，令供需雙雙放緩。不過高技術製造業PMI為51.3、裝備製造業50.6，繼續處於擴張區間，大型企業PMI亦保持50.2。貨幣政策方面，人行宣布11月2日起完成向隔夜政策利率框架轉型，以隔夜逆回購利率作為主要政策利率；首三季經濟增長4.6%，符合全年增長目標。",
+      "zh_hans": "国家统计局公布，10月中国制造业采购经理指数（PMI）为49.3，较9月回落0.8个百分点，重回收缩区间；生产及新订单指数分别跌至49.8和49.4。统计局指，部分需求在国庆假期前提前释放，加上国际环境复杂，令供需双双放缓。不过高技术制造业PMI为51.3、装备制造业50.6，继续处于扩张区间，大型企业PMI亦保持50.2。货币政策方面，人行宣布11月2日起完成向隔夜政策利率框架转型，以隔夜逆回购利率作为主要政策利率；首三季经济增长4.6%，符合全年增长目标。"
+    },
+    "tags": {
+      "en": [
+        "China economy",
+        "PMI",
+        "PBOC"
+      ],
+      "zh_hant": [
+        "中國經濟",
+        "PMI",
+        "人民銀行"
+      ],
+      "zh_hans": [
+        "中国经济",
+        "PMI",
+        "人民银行"
+      ]
+    }
+  },
+  {
+    "id": "20261103-marvell-lumentum-115b",
+    "category": "tech",
+    "published_at": "2026-11-02T16:00:00+08:00",
+    "source": {
+      "name": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-11-marvell-lumentum-merge-billion-ai.html"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Marvell to buy Lumentum in $115 billion deal, betting on AI optical connectivity",
+      "zh_hant": "Marvell 1,150億美元收購Lumentum　押注AI光連接基建",
+      "zh_hans": "Marvell 1,150亿美元收购Lumentum　押注AI光连接基建"
+    },
+    "summary": {
+      "en": "US chipmaker Marvell Technology said on Monday it will buy optical-components maker Lumentum in an all-stock deal worth $115 billion including debt — one of the largest technology takeovers on record — expected to close in the first half of 2028. Marvell shareholders will own about 67% of the combined company; the two firms said surging data traffic from AI systems and the physical limits of copper wiring are driving data centres toward optical connections. AI chip giant Nvidia invested $2 billion in each of the two companies earlier this year. Amid investor worries about overspending on AI infrastructure, Marvell shares fell as much as 8% on Monday after the announcement, while Lumentum dropped 12.5%.",
+      "zh_hant": "美國晶片商Marvell星期一宣布，將以全股票方式收購光學元件製造商Lumentum，交易作價1,150億美元（包括債務），是科技業歷來最大宗併購之一，預計2028年上半年完成。Marvell股東將持有合併後公司約67%股權；兩家公司指，AI系統帶動的數據流量激增及銅線物理極限，正推動數據中心轉向光連接。AI晶片巨頭Nvidia今年較早時已分別向兩家公司各投資20億美元。市場憂慮AI基建燒錢過度，消息公布後Marvell股價周一曾跌8%，Lumentum跌12.5%。",
+      "zh_hans": "美国芯片商Marvell星期一宣布，将以全股票方式收购光学元件制造商Lumentum，交易作价1,150亿美元（包括债务），是科技业历来最大宗并购之一，预计2028年上半年完成。Marvell股东将持有合并后公司约67%股权；两家公司指，AI系统带动的数据流量激增及铜线物理极限，正推动数据中心转向光连接。AI芯片巨头Nvidia今年较早时已分别向两家公司各投资20亿美元。市场忧虑AI基建烧钱过度，消息公布后Marvell股价星期一曾跌8%，Lumentum跌12.5%。"
+    },
+    "tags": {
+      "en": [
+        "Marvell",
+        "Lumentum",
+        "AI chips"
+      ],
+      "zh_hant": [
+        "Marvell",
+        "Lumentum",
+        "AI晶片"
+      ],
+      "zh_hans": [
+        "Marvell",
+        "Lumentum",
+        "AI芯片"
+      ]
+    }
+  },
+  {
+    "id": "20261103-china-asean-admm-invite",
+    "category": "world",
+    "published_at": "2026-11-02T21:14:00+08:00",
+    "source": {
+      "name": "BusinessWorld",
+      "url": "https://bworldonline.com/the-nation/2026/11/02/790806/china-says-it-had-fewer-than-five-days-to-prepare-for-asean-meeting/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Chinese embassy accuses Philippines of delaying invite to ASEAN defence ministers' meeting",
+      "zh_hant": "中國駐菲使館批菲方遲發邀請　缺席東盟防長擴大會議惹爭議",
+      "zh_hans": "中国驻菲使馆批菲方迟发邀请　缺席东盟防长扩大会议惹争议"
+    },
+    "summary": {
+      "en": "The Chinese Embassy in the Philippines said on Sunday that the Philippine defence department did not send China its invitation to the 13th ASEAN Defence Ministers' Meeting-Plus (ADMM-Plus) until 22 October — fewer than five working days before the 29 October meeting in Cebu — leaving Beijing able to send only its embassy's defence attache. The embassy said other member states had received invitations in late September or early October, and accused Defence Secretary Gilberto Teodoro of acting out of self-interest and disregarding the meeting's principles of openness and inclusivity. A Philippine Coast Guard spokesman had earlier questioned China's low-level representation as a sign of disrespect toward ASEAN. The defence department did not immediately respond.",
+      "zh_hant": "中國駐菲律賓大使館星期日發文，指菲律賓國防部遲至10月22日才向中方發出第13屆東盟防長擴大會議（ADMM-Plus）邀請，距10月29日在宿霧舉行的會議不足5個工作天，令中方只能派出使館武官出席。大使館指其他成員國早在9月底或10月初已收到邀請，並批評菲防長特奧多羅出於私利、罔顧會議開放包容原則。菲海岸警衛隊發言人早前質疑中方只派武官出席，是輕視東盟。菲國防部未有即時回應。",
+      "zh_hans": "中国驻菲律宾大使馆星期日发文，指菲律宾国防部迟至10月22日才向中方发出第13届东盟防长扩大会议（ADMM-Plus）邀请，距10月29日在宿雾举行的会议不足5个工作天，令中方只能派出使馆武官出席。大使馆指其他成员国早在9月底或10月初已收到邀请，并批评菲防长特奥多罗出于私利、罔顾会议开放包容原则。菲海岸警卫队发言人早前质疑中方只派武官出席，是轻视东盟。菲国防部未有即时回应。"
+    },
+    "tags": {
+      "en": [
+        "China-Philippines",
+        "ASEAN",
+        "defence ministers"
+      ],
+      "zh_hant": [
+        "中菲關係",
+        "東盟",
+        "防長會議"
+      ],
+      "zh_hans": [
+        "中菲关系",
+        "东盟",
+        "防长会议"
+      ]
+    }
+  },
+  {
+    "id": "20261103-ce-financial-summit",
+    "category": "finance",
+    "published_at": "2026-11-03T09:28:00+08:00",
+    "image_url": "https://gia.info.gov.hk/general/202611/03/P2026110300183_photo_1342724.jpg",
+    "image_caption": "行政長官李家超在第五屆國際金融領袖投資峰會上致辭。（政府新聞處）",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300183.htm"
+    },
+    "title": {
+      "en": "CE addresses fifth Global Financial Leaders' Investment Summit in Hong Kong",
+      "zh_hant": "李家超為第五屆國際金融領袖投資峰會致辭　280金融領袖聚港",
+      "zh_hans": "李家超为第五届国际金融领袖投资峰会致辞　280金融领袖聚港"
+    },
+    "summary": {
+      "en": "Chief Executive John Lee addressed the fifth Global Financial Leaders' Investment Summit on Tuesday, themed \"Rethinking the Playbook\". The summit drew some 280 global financial leaders, including about 120 group chairpersons and CEOs. Lee said Hong Kong topped the global IPO league table last year and raised about US$50 billion in IPOs in the first nine months of this year, ranking second globally; the city remains the world's largest offshore Renminbi hub, processing about 75 per cent of global offshore Renminbi payments, and its assets under management reached a record US$5.4 trillion last year. He highlighted September's first Five-Year Plan, the gold trading ecosystem and fintech leadership, and invited investors to join the Northern Metropolis development.",
+      "zh_hant": "行政長官李家超今日（11月3日）在第五屆「國際金融領袖投資峰會」致辭，今屆主題為「重新審視策略」。峰會吸引約280名環球金融領袖出席，包括約120名集團主席及行政總裁。他表示，香港去年重奪全球IPO榜首，今年首九個月籌資約500億美元、居全球第二；香港繼續是全球最大離岸人民幣業務中心，處理約75%全球離岸人民幣支付，去年資產管理規模達破紀錄的5.4萬億美元。他提到政府9月推出的本港首個五年計劃、黃金交易生態圈及全球第一的金融科技排名，並邀請與會者參與北部都會區發展等新機遇。",
+      "zh_hans": "行政长官李家超今日（11月3日）在第五届「国际金融领袖投资峰会」致辞，本届主题为「重新审视策略」。峰会吸引约280名环球金融领袖出席，包括约120名集团主席及行政总裁。他表示，香港去年重夺全球IPO榜首，今年首九个月筹资约500亿美元、居全球第二；香港继续是全球最大离岸人民币业务中心，处理约75%全球离岸人民币支付，去年资产管理规模达破纪录的5.4万亿美元。他提到政府9月推出的本港首个五年计划、黄金交易生态圈及全球第一的金融科技排名，并邀请与会者参与北部都会区发展等新机遇。"
+    },
+    "tags": {
+      "en": [
+        "Global Financial Leaders' Investment Summit",
+        "John Lee",
+        "financial hub"
+      ],
+      "zh_hant": [
+        "國際金融領袖投資峰會",
+        "李家超",
+        "國際金融中心"
+      ],
+      "zh_hans": [
+        "国际金融领袖投资峰会",
+        "李家超",
+        "国际金融中心"
+      ]
+    }
+  },
+  {
+    "id": "20261103-us-strikes-iran-qeshm",
+    "category": "world",
+    "published_at": "2026-11-03T09:59:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "Seoul Economic Daily (English)",
+      "url": "https://en.sedaily.com/international/2026/11/03/us-strikes-irans-qeshm-island-on-eve-of-midterms"
+    },
+    "title": {
+      "en": "US carried out limited strikes on Iran's Qeshm Island on eve of midterms, WSJ reports",
+      "zh_hant": "美軍中期選舉前夕空襲伊朗格什姆島　華爾街日報：屬小規模秘密打擊",
+      "zh_hans": "美军中期选举前夕空袭伊朗格什姆岛　华尔街日报：属小规模秘密打击"
+    },
+    "summary": {
+      "en": "Citing US officials, the Wall Street Journal reported that the US military struck Qeshm Island, a key Iranian military and energy hub near the Strait of Hormuz, on Monday — one day before the US midterm elections. Officials described the operation as defensive, responding to Iranian surface-to-air missile threats against US assets and commercial shipping. The Journal said the US has carried out small-scale strikes against Iran in secret for weeks, deliberately keeping them unannounced to avoid signalling a return to large-scale combat. Iran's state media IRNA reported five successive explosions on the island, while the IRGC claimed to have shot down three US drones nearby — unconfirmed by the US. Trump said a deal with Tehran \"could happen\"; Vice-President JD Vance said both sides had made progress towards an off-ramp.",
+      "zh_hant": "《華爾街日報》引述美國官員報道，美軍星期一（11月2日）在美國中期選舉前夕，對伊朗位於霍爾木茲海峽附近、具重要軍事及能源地位的格什姆島進行有限度打擊。官員形容行動屬防禦性質，回應伊朗以防空導彈威脅美方資產及商船。報道指美軍過去數周一直秘密進行小規模打擊，刻意不公開宣布，以免被解讀為恢復大規模作戰。伊朗官媒IRNA報道島上連續聽到五聲爆炸，革命衛隊稱在附近擊落三架美軍無人機，美方未證實。特朗普同日淡化重啟戰事的可能性，稱與德黑蘭達成協議「有可能」；副總統萬斯則指雙方正尋求降級衝突的出路。",
+      "zh_hans": "《华尔街日报》引述美国官员报道，美军星期一（11月2日）在美国中期选举前夕，对伊朗位于霍尔木兹海峡附近、具重要军事及能源地位的格什姆岛进行有限度打击。官员形容行动属防御性质，回应伊朗以防空导弹威胁美方资产及商船。报道指美军过去数周一直秘密进行小规模打击，刻意不公开宣布，以免被解读为恢复大规模作战。伊朗官媒IRNA报道岛上连续听到五声爆炸，革命卫队称在附近击落三架美军无人机，美方未证实。特朗普同日淡化重启战事的可能性，称与德黑兰达成协议「有可能」；副总统万斯则指双方正寻求降级冲突的出路。"
+    },
+    "tags": {
+      "en": [
+        "US-Iran conflict",
+        "Qeshm Island",
+        "midterms"
+      ],
+      "zh_hant": [
+        "美伊衝突",
+        "格什姆島",
+        "中期選舉"
+      ],
+      "zh_hans": [
+        "美伊冲突",
+        "格什姆岛",
+        "中期选举"
+      ]
+    }
+  },
+  {
+    "id": "20261103-ssp-police-bust",
+    "category": "hk",
+    "published_at": "2026-11-03T08:37:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "weekendhk",
+      "url": "https://www.weekendhk.com/%E7%9F%9A%E7%9B%AE%E8%A9%B1%E9%A1%8C/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%B7%A5%E5%BB%88%E4%BA%94%E5%80%8B%E6%87%B7%E7%96%91%E9%9D%9E%E6%B3%95%E5%A0%B4%E6%89%80%E8%A2%AB%E6%90%97%E7%A0%B4-%E5%8D%81%E5%9B%9B%E4%BA%BA%E8%A2%AB%E6%8D%95%E6%9C%80-3534846/"
+    },
+    "title": {
+      "en": "Police bust five suspected vice premises in Sham Shui Po industrial building; 14 arrested",
+      "zh_hant": "深水埗工廈五個懷疑非法場所被搗破　14人被捕最年長78歲",
+      "zh_hans": "深水埗工厦五个怀疑非法场所被捣破　14人被捕最年长78岁"
+    },
+    "summary": {
+      "en": "Sham Shui Po Police District and Customs conducted a joint operation codenamed \"Fire Zone\" from October 27 to November 2, raiding industrial building units and smashing two suspected gambling premises, one unlicensed massage parlour, one suspected vice establishment and one illicit cigarette warehouse. Fourteen people aged 33 to 78 were arrested — six local men, seven local women and one Macao woman — on suspicion of managing vice establishments, running unlicensed massage and gambling premises, and overstaying. Nine have been charged and will appear at West Kowloon Magistrates' Courts on November 5, 27 and 28. Officers seized about 120,000 illicit cigarettes and 26,200 alternative smoking products worth about HK$600,000.",
+      "zh_hant": "深水埗警區與海關在10月27日至11月2日展開代號「焱域」的聯合行動，突擊工業大廈單位，搗破兩個懷疑賭博場所、一個懷疑無牌按摩場所、一個懷疑賣淫場所及一個懷疑私煙倉，共拘捕14人，年齡介乎33至78歲。被捕人包括6名本地男子、7名本地女子及1名澳門女子，涉嫌管理賣淫場所、經營無牌按摩及賭博場所、逾期居留等；9人已被起訴，案件將於11月5、27及28日在西九龍裁判法院提堂。行動中檢獲約12萬支未完稅香煙及約2.62萬支另類吸煙產品，市值約60萬元。",
+      "zh_hans": "深水埗警区与海关在10月27日至11月2日展开代号「焱域」的联合行动，突击工业大厦单位，捣破两个怀疑赌博场所、一个怀疑无牌按摩场所、一个怀疑卖淫场所及一个怀疑私烟仓，共拘捕14人，年龄介乎33至78岁。被捕人包括6名本地男子、7名本地女子及1名澳门女子，涉嫌管理卖淫场所、经营无牌按摩及赌博场所、逾期居留等；9人已被起诉，案件将于11月5、27及28日在西九龙裁判法院提堂。行动中检获约12万支未完税香烟及约2.62万支另类吸烟产品，市值约60万元。"
+    },
+    "tags": {
+      "en": [
+        "Sham Shui Po",
+        "joint operation",
+        "vice premises"
+      ],
+      "zh_hant": [
+        "深水埗",
+        "聯合行動",
+        "非法場所"
+      ],
+      "zh_hans": [
+        "深水埗",
+        "联合行动",
+        "非法场所"
+      ]
+    }
+  },
+  {
+    "id": "20261103-citi-ai-pulse",
+    "category": "finance",
+    "published_at": "2026-11-03T09:00:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "Hongkong Invest (Media OutReach Newswire)",
+      "url": "https://hongkong-invest.com/%E8%8A%B1%E6%97%97%E8%B2%A1%E5%AF%8Cai-pulse-%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%91%8A%EF%BC%9A%E9%A6%99%E6%B8%AF%E6%B6%88%E8%B2%BB%E8%80%85%E6%93%81%E6%8A%B1%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%e3%80%80/"
+    },
+    "title": {
+      "en": "Citi AI Pulse survey: HK consumers embrace AI but want humans in charge",
+      "zh_hant": "花旗財富調查：港人擁抱AI　逾半憂跟不上發展　盼人類掌舵",
+      "zh_hans": "花旗财富调查：港人拥抱AI　逾半忧跟不上发展　盼人类掌舵"
+    },
+    "summary": {
+      "en": "Citi Hong Kong today released the \"2026 Citi Wealth AI Pulse Survey\" report, finding AI is now deeply embedded in Hong Kong consumers' daily lives — yet many worry about keeping up with its rapid development. The survey interviewed 1,053 Hong Kong respondents aged 21–69 online in early September. AI usage reached 92%, but over half (52%) said they feared falling behind AI's pace of change. Notably, the \"Gen Z AI phenomenon\": the youngest generation has 100% AI usage, yet 66% worry about lagging behind — the highest of any generation. While actively adopting AI, respondents still want key decisions to stay in human hands.",
+      "zh_hant": "花旗香港今日公布「2026花旗財富AI Pulse調查報告」，發現人工智能已深度融入港人日常生活，惟同時擔心跟不上急速發展。調查於9月上旬以網上形式訪問1,053名21至69歲香港受訪者，發現AI使用率高達92%，但逾半（52%）表示擔心未能跟上技術發展。值得注意的是「Z世代AI現象」：年輕一代AI使用率達100%，但當中66%擔心落後於AI發展，是各世代中最高。受訪者雖積極採用AI，仍希望關鍵決策由人類掌舵。",
+      "zh_hans": "花旗香港今日公布「2026花旗财富AI Pulse调查报告」，发现人工智能已深度融入港人日常生活，惟同时担心跟不上急速发展。调查于9月上旬以网上形式访问1,053名21至69岁香港受访者，发现AI使用率高达92%，但逾半（52%）表示担心未能跟上技术发展。值得注意的是「Z世代AI现象」：年轻一代AI使用率达100%，但当中66%担心落后于AI发展，是各世代中最高。受访者虽积极采用AI，仍希望关键决策由人类掌舵。"
+    },
+    "tags": {
+      "en": [
+        "Citi",
+        "artificial intelligence",
+        "Gen Z"
+      ],
+      "zh_hant": [
+        "花旗",
+        "人工智能",
+        "Z世代"
+      ],
+      "zh_hans": [
+        "花旗",
+        "人工智能",
+        "Z世代"
+      ]
+    }
+  },
+  {
+    "id": "20261103-goldman-ai-coding",
+    "category": "tech",
+    "published_at": "2026-11-03T00:00:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "Tech in Asia",
+      "url": "https://www.techinasia.com/news/goldman-sachs-restricts-ai-coding-tools-engineers"
+    },
+    "title": {
+      "en": "Goldman Sachs restricts AI coding tools to engineers, Bloomberg reports",
+      "zh_hant": "高盛收緊AI編程工具　限工程師使用　彭博：交易員不滿",
+      "zh_hans": "高盛收紧AI编程工具　限工程师使用　彭博：交易员不满"
+    },
+    "summary": {
+      "en": "Goldman Sachs has limited advanced AI coding tools — including Anthropic's Claude Code and Microsoft's GitHub tools — to engineers under guidance issued in October, Bloomberg reported, with an exception for \"strats\" who straddle trading, quantitative research and software engineering. Bankers and traders had used the tools for months; some traders used them to monitor client trading flows, model market moves and positions, and create written and graphic content, frustrating some after the change. The directive follows an earlier restriction on Anthropic's Claude for Goldman staff in Hong Kong. It reflects broader caution on Wall Street over public coding assistants in production systems.",
+      "zh_hant": "據彭博報道，高盛10月起限制先進AI編程工具（包括Anthropic的Claude Code及微軟GitHub工具）只供工程師使用，「策略師」（橫跨交易、量化研究及軟件工程的人員）除外。此前銀行及交易員已使用這些工具數月，有交易員曾用來監察客戶交易流、模擬市場走勢及製作圖表內容，改變引發部分交易員不滿。新指令之前，高盛已限制香港員工使用Anthropic的Claude。這反映華爾街大行對公開AI編程助手用於生產系統普遍持謹慎態度。",
+      "zh_hans": "据彭博报道，高盛10月起限制先进AI编程工具（包括Anthropic的Claude Code及微软GitHub工具）只供工程师使用，「策略师」（横跨交易、量化研究及软件工程的人员）除外。此前银行及交易员已使用这些工具数月，有交易员曾用来监察客户交易流、模拟市场走势及制作图表内容，改变引发部分交易员不满。新指令之前，高盛已限制香港员工使用Anthropic的Claude。这反映华尔街大行对公开AI编程助手用于生产系统普遍持谨慎态度。"
+    },
+    "tags": {
+      "en": [
+        "Goldman Sachs",
+        "AI coding",
+        "Wall Street"
+      ],
+      "zh_hant": [
+        "高盛",
+        "AI編程",
+        "華爾街"
+      ],
+      "zh_hans": [
+        "高盛",
+        "AI编程",
+        "华尔街"
+      ]
+    }
+  },
+  {
+    "id": "20261103-ho-wing-yin-dismissal",
+    "category": "hk",
+    "published_at": "2026-11-03T11:14:49+08:00",
+    "image_url": "http://www.news.gov.hk/chi/2026/11/20261103/20261103_111449_986/images/20261103120101066.JPG",
+    "image_caption": "政府總部外景。（政府新聞處）",
+    "source": {
+      "name": "政府新聞處",
+      "url": "http://www.news.gov.hk/chi/2026/11/20261103/20261103_111449_986.html"
+    },
+    "title": {
+      "en": "State Council removes Winnie Ho as Secretary for Housing after Wang Fuk Court fire",
+      "zh_hant": "國務院免去何永賢房屋局局長職務　為宏福苑火災承擔政治責任",
+      "zh_hans": "国务院免去何永贤房屋局局长职务　为宏福苑火灾承担政治责任"
+    },
+    "summary": {
+      "en": "The Central People's Government today removed Winnie Ho Wing-yin from the post of Secretary for Housing, acting on the recommendation of Chief Executive John Lee. Lee said Ho tendered her resignation on October 28, accepting political accountability for the Wang Fuk Court fire in Tai Po. Ho joined the government in 1992 and became Secretary for Housing in 2022. Lee credited her with delivering light public housing units, cutting the public rental housing waiting time from 6.1 to 4.8 years and tackling public housing abuse, and wished her well as she leaves office today.",
+      "zh_hant": "中央人民政府今日公布，依照《基本法》有關規定，根據行政長官李家超的建議，免去何永賢的房屋局局長職務，她今日正式離任。李家超表示，何永賢於10月28日向他提出請辭，表示願意為大埔宏福苑火災承擔政治責任。何永賢1992年加入政府，2022年獲任命為房屋局局長。李家超肯定她在任期間致力履行其指示，包括興建約三萬個簡約公屋單位、將公屋綜合輪候時間由6.1年縮短至4.8年，以及有效打擊濫用公屋，並祝願她事事順遂、生活健康。",
+      "zh_hans": "中央人民政府今日公布，依照《基本法》有关规定，根据行政长官李家超的建议，免去何永贤的房屋局局长职务，她今日正式离任。李家超表示，何永贤于10月28日向他提出请辞，表示愿意为大埔宏福苑火灾承担政治责任。何永贤1992年加入政府，2022年获任命为房屋局局长。李家超肯定她在任期间致力履行其指示，包括兴建约三万个简约公屋单位、将公屋综合轮候时间由6.1年缩短至4.8年，以及有效打击滥用公屋，并祝愿她事事顺遂、生活健康。"
+    },
+    "tags": {
+      "en": [
+        "Winnie Ho",
+        "Housing Bureau",
+        "Wang Fuk Court fire"
+      ],
+      "zh_hant": [
+        "何永賢",
+        "房屋局",
+        "宏福苑火災"
+      ],
+      "zh_hans": [
+        "何永贤",
+        "房屋局",
+        "宏福苑火灾"
+      ]
+    }
+  },
+  {
+    "id": "20261103-he-lifeng-summit",
+    "category": "china",
+    "published_at": "2026-11-03T11:11:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876358-20261103.htm"
+    },
+    "title": {
+      "en": "He Lifeng urges Hong Kong to uphold \"one country\" and leverage \"two systems\" to showcase international character",
+      "zh_hant": "何立峰：香港堅守「一國」之本、善用「兩制」之利　進一步彰顯國際化特色",
+      "zh_hans": "何立峰：香港坚守「一国」之本、善用「两制」之利　进一步彰显国际化特色"
+    },
+    "summary": {
+      "en": "Vice-Premier He Lifeng delivered a video address at the Global Financial Leaders' Investment Summit, setting out four recommendations for Hong Kong's future development: fully leveraging the advantages of \"one country, two systems\" to build a freer and more open economy; deepening its financial foundations and consolidating its status as an international financial centre; enhancing the effectiveness of financial support for the real economy; and implementing the five-year plan to better integrate into national development. He noted Hong Kong's economy grew at a five-year high in the first three quarters, with the city's \"from stability to prosperity\" momentum increasingly evident.",
+      "zh_hant": "國務院副總理何立峰在國際金融領袖投資峰會發表視像致辭，對香港未來發展提出四大建議：充分發揮「一國兩制」優勢，打造更高水平、自由開放的經濟環境；進一步厚植金融發展底蘊，鞏固提升國際金融中心地位；提升金融支持實體經濟的效能；扎實推進五年規劃實施，更好融入和服務國家發展大局。他指出，香港今年首三季經濟增長創五年新高，資本市場競爭力進一步增強，「由治及興」的態勢持續鞏固。",
+      "zh_hans": "国务院副总理何立峰在国际金融领袖投资峰会发表视频致辞，对香港未来发展提出四大建议：充分发挥「一国两制」优势，打造更高水平、自由开放的经济环境；进一步厚植金融发展底蕴，巩固提升国际金融中心地位；提升金融支持实体经济的效能；扎实推进五年规划实施，更好融入和服务国家发展大局。他指出，香港今年首三季经济增长创五年新高，资本市场竞争力进一步增强，「由治及兴」的态势持续巩固。"
+    },
+    "tags": {
+      "en": [
+        "He Lifeng",
+        "Global Financial Leaders' Investment Summit",
+        "Hong Kong economy"
+      ],
+      "zh_hant": [
+        "何立峰",
+        "國際金融領袖投資峰會",
+        "香港經濟"
+      ],
+      "zh_hans": [
+        "何立峰",
+        "国际金融领袖投资峰会",
+        "香港经济"
+      ]
+    }
+  },
+  {
+    "id": "20261103-lawtech-subsidy",
+    "category": "hk",
+    "published_at": "2026-11-03T11:39:41+08:00",
+    "image_url": "http://www.news.gov.hk/chi/2026/11/20261103/20261103_113941_609/images/20261103123424102.jpg",
+    "image_caption": "律政司。（政府新聞處）",
+    "source": {
+      "name": "政府新聞處",
+      "url": "http://www.news.gov.hk/chi/2026/11/20261103/20261103_113941_609.html"
+    },
+    "title": {
+      "en": "DoJ launches lawtech subsidy scheme, up to HK$20,000 for eligible firms and barristers",
+      "zh_hant": "律政司推法律科技服務資助計劃　合資格律所大律師最高資助二萬元",
+      "zh_hans": "律政司推法律科技服务资助计划　合资格律所大律师最高资助二万元"
+    },
+    "summary": {
+      "en": "The Department of Justice today launched a subsidy scheme for subscribing to legal technology services, encouraging Hong Kong's legal sector to step up lawtech adoption and consolidating the city's status as an international centre for legal and dispute resolution services. The scheme, a policy measure in the 2026 Policy Address, is administered by the Law Society and the Bar Association. Eligible applicants include small law firms and barristers with no more than seven years of practice, who may apply from today until January 29 next year. They can choose from 14 local, mainland and overseas service providers covering legal research, document drafting and other services, on a reimbursement basis for a one-year subscription, capped at HK$20,000.",
+      "zh_hant": "律政司今日正式推出訂購法律科技服務資助計劃，鼓勵香港法律界提升應用法律科技的能力，鞏固香港作為國際法律及解決爭議服務中心的地位。計劃為2026年施政報告的政策措施之一，將由律師會和大律師公會負責管理審批及發放資助。合資格申請者為獨資經營或不多於五名合夥人的律師事務所，以及執業年資不多於七年的執業大律師，可由即日起至明年1月29日申請。申請者可從14間本地、內地及海外服務供應商的名單中選購法律研究、文件生成與草擬等服務，計劃以實報實銷模式運作，資助為期一年的訂購服務，最高資助二萬元。",
+      "zh_hans": "律政司今日正式推出订购法律科技服务资助计划，鼓励香港法律界提升应用法律科技的能力，巩固香港作为国际法律及解决争议服务中心的地位。计划为2026年施政报告的政策措施之一，将由律师会和大律师公会负责管理审批及发放资助。合资格申请者为独资经营或不多于五名合伙人的律师事务所，以及执业年资不多于七年的执业大律师，可由即日起至明年1月29日申请。申请者可从14间本地、内地及海外服务供应商的名单中选购法律研究、文件生成与草拟等服务，计划以实报实销模式运作，资助为期一年的订购服务，最高资助二万元。"
+    },
+    "tags": {
+      "en": [
+        "lawtech",
+        "Department of Justice",
+        "legal sector"
+      ],
+      "zh_hant": [
+        "法律科技",
+        "律政司",
+        "法律界"
+      ],
+      "zh_hans": [
+        "法律科技",
+        "律政司",
+        "法律界"
+      ]
+    }
+  },
+  {
+    "id": "20261103-caac-hk-aviation",
+    "category": "china",
+    "published_at": "2026-11-03T11:43:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876365-20261103.htm"
+    },
+    "title": {
+      "en": "CAAC to support Hong Kong's strengths, pursue differentiated development with mainland airport clusters",
+      "zh_hant": "民航局：積極支持香港發揮優勢　與內地機場群錯位發展",
+      "zh_hans": "民航局：积极支持香港发挥优势　与内地机场群错位发展"
+    },
+    "summary": {
+      "en": "Deputy Administrator of the Civil Aviation Administration of China Han Jun said at the third Super Terminal Expo that the CAAC will actively support Hong Kong in leveraging its \"one country, two systems\" institutional advantages, international network and professional services, pursuing differentiated and coordinated development with mainland airport clusters. He praised Hong Kong International Airport as one of the world's most important international aviation hubs, with cargo volumes ranking among the world's best for years, and pledged deeper practical cooperation in route network expansion, aviation logistics, smart civil aviation and the low-altitude economy.",
+      "zh_hant": "國家民用航空局副局長韓鈞出席第三屆超級樞紐博覽會致辭時表示，中國民航將積極支持香港發揮「一國兩制」制度優勢、國際化網絡優勢及專業服務優勢，與內地機場群錯位發展、協同聯動，在航線網絡拓展、航空物流、智慧民航建設及低空經濟等方面深化務實合作。他讚揚香港國際機場是全球最重要的國際航空樞紐之一，貨運量多年位居世界前列，成就是特區政府與業界長期努力的成果，也是改革開放和「一國兩制」成功實踐的生動體現。",
+      "zh_hans": "国家民用航空局副局长韩钧出席第三届超级枢纽博览会致辞时表示，中国民航将积极支持香港发挥「一国两制」制度优势、国际化网络优势及专业服务优势，与内地机场群错位发展、协同联动，在航线网络拓展、航空物流、智慧民航建设及低空经济等方面深化务实合作。他赞扬香港国际机场是全球最重要的国际航空枢纽之一，货运量多年位居世界前列，成就是特区政府与业界长期努力的成果，也是改革开放和「一国两制」成功实践的生动体现。"
+    },
+    "tags": {
+      "en": [
+        "CAAC",
+        "Hong Kong aviation",
+        "Super Terminal Expo"
+      ],
+      "zh_hant": [
+        "民航局",
+        "香港航空",
+        "超級樞紐博覽會"
+      ],
+      "zh_hans": [
+        "民航局",
+        "香港航空",
+        "超级枢纽博览会"
+      ]
+    }
+  },
+  {
+    "id": "20261103-parking-meter-restored",
+    "category": "hk",
+    "published_at": "2026-11-03T12:18:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876367-20261103.htm"
+    },
+    "title": {
+      "en": "Parking meter system back to normal, no evidence of cyberattack, says Transport Department",
+      "zh_hant": "咪錶泊車系統恢復正常運作　運輸署：無證據顯示被攻擊",
+      "zh_hans": "咪表泊车系统恢复正常运作　运输署：无证据显示被攻击"
+    },
+    "summary": {
+      "en": "The Transport Department said the parking meter system has resumed normal operation after the operator completed urgent repairs. The department will continue to press the operator to thoroughly investigate the cause and submit a report to prevent recurrence. There is so far no evidence that the system was attacked, and the department will notify the Digital Policy Office. The system was taken out of service earlier for emergency maintenance, and Secretary for Transport and Logistics Mable Chan said police would temporarily not enforce on-street parking meters before repairs were completed.",
+      "zh_hant": "運輸署表示，經營運商全力搶修後，咪錶泊車系統已恢復正常運作。署方會繼續督促營運商徹查事故原因及提交報告，防止同類事件再發生；至今沒有證據顯示系統被攻擊，署方會通報數字政策辦公室。咪錶系統早前因故障需要緊急維修，一度暫停服務；運輸及物流局局長陳美寶表示，在完成復修前，警方暫不會對路旁泊車位執法。",
+      "zh_hans": "运输署表示，经营运商全力抢修后，咪表泊车系统已恢复正常运作。署方会继续督促营运商彻查事故原因及提交报告，防止同类事件再发生；至今没有证据显示系统被攻击，署方会通报数字政策办公室。咪表系统早前因故障需要紧急维修，一度暂停服务；运输及物流局局长陈美宝表示，在完成复修前，警方暂不会对路旁泊车位执法。"
+    },
+    "tags": {
+      "en": [
+        "parking meters",
+        "Transport Department",
+        "Mable Chan"
+      ],
+      "zh_hant": [
+        "咪錶",
+        "運輸署",
+        "陳美寶"
+      ],
+      "zh_hans": [
+        "咪表",
+        "运输署",
+        "陈美宝"
+      ]
+    }
+  },
+  {
+    "id": "20261103-super-terminal-expo",
+    "category": "hk",
+    "published_at": "2026-11-03T09:30:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300322.htm"
+    },
+    "title": {
+      "en": "Third Super Terminal Expo opens in Hong Kong; Mable Chan touts smart airport benchmarks",
+      "zh_hant": "第三屆超級樞紐博覽會開幕　陳美寶：香港設全球智慧機場新標竿",
+      "zh_hans": "第三届超级枢纽博览会开幕　陈美宝：香港设全球智慧机场新标竿"
+    },
+    "summary": {
+      "en": "Secretary for Transport and Logistics Mable Chan opened the third Super Terminal Expo in Hong Kong today, welcoming the significant growth in participants and exhibition booths compared with last year. She said the expanded showcase spotlights Hong Kong's smart airport initiatives, aircraft maintenance and recycling, and the rapidly evolving low-altitude economy. With the three-runway system unlocking new potential and the Airport City vision taking shape through SKYTOPIA, Hong Kong is setting new global benchmarks for smart airports, sustainability and seamless travel. Hong Kong International Airport recently won Global Airport of the Year at the Payload Asia Awards.",
+      "zh_hant": "運輸及物流局局長陳美寶今日為第三屆超級樞紐博覽會主持開幕儀式。她致辭時表示，今屆展會的參展商和展位較去年大幅增加，足證香港在全球航空版圖的地位穩固。展會聚焦本港智慧機場措施、飛機維修及回收，以及發展迅速的低空經濟。她指出，隨着三跑道系統釋放新潛力，以及透過SKYTOPIA實現機場城市願景，香港正為智慧機場、可持續發展及無縫出行訂立全球新標竿。香港國際機場早前在Payload Asia Awards勇奪「全球年度機場」殊榮。",
+      "zh_hans": "运输及物流局局长陈美宝今日为第三届超级枢纽博览会主持开幕仪式。她致辞时表示，今届展会的参展商和展位较去年大幅增加，足证香港在全球航空版图的地位稳固。展会聚焦本港智慧机场措施、飞机维修及回收，以及发展迅速的低空经济。她指出，随着三跑道系统释放新潜力，以及透过SKYTOPIA实现机场城市愿景，香港正为智慧机场、可持续发展及无缝出行订立全球新标竿。香港国际机场早前在Payload Asia Awards勇夺「全球年度机场」殊荣。"
+    },
+    "tags": {
+      "en": [
+        "Super Terminal Expo",
+        "Mable Chan",
+        "HKIA"
+      ],
+      "zh_hant": [
+        "超級樞紐博覽會",
+        "陳美寶",
+        "香港國際機場"
+      ],
+      "zh_hans": [
+        "超级枢纽博览会",
+        "陈美宝",
+        "香港国际机场"
+      ]
+    }
+  },
+  {
+    "id": "20261103-arbitration-immigration",
+    "category": "hk",
+    "published_at": "2026-11-03T10:30:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300285.htm"
+    },
+    "title": {
+      "en": "Immigration facilitation scheme for arbitration participants expanded from today",
+      "zh_hant": "參與仲裁程序人士入境便利計劃即日起擴大",
+      "zh_hans": "参与仲裁程序人士入境便利计划即日起扩大"
+    },
+    "summary": {
+      "en": "The Government has expanded the Immigration Facilitation Scheme for Persons Participating in Arbitral Proceedings in Hong Kong with effect from today. Since the scheme was regularised on March 1, 2025, it has been well received by the legal and dispute resolution sector and the international arbitration community, strengthening Hong Kong's position as a premier international arbitration hub. The expansion now covers arbitral proceedings physically taking place in Hong Kong, including hybrid hearings, administered by dispute resolution institutions or permanent offices in the mainland, Macao, Taiwan or overseas that are supported by a designated Hong Kong institution under the Mainland-Hong Kong arrangement on interim measures in aid of arbitration.",
+      "zh_hant": "政府宣布即日起擴大「參與香港仲裁程序人士入境便利計劃」。計劃自2025年3月1日恆常化以來，深受法律及爭議解決業界和國際仲裁社群歡迎，有效便利在港進行的國際及跨境仲裁程序，鞏固香港作為首屈一指國際仲裁中心的地位。今次擴大涵蓋在港實際進行的仲裁程序（包括混合模式聆訊），由內地、澳門、台灣或海外設立的爭議解決機構或常設辦事處管理，並獲香港指定仲裁及爭議解決機構在內地與香港法院就仲裁程序相互協助保全安排下提供支援。",
+      "zh_hans": "政府宣布即日起扩大「参与香港仲裁程序人士入境便利计划」。计划自2025年3月1日恒常化以来，深受法律及争议解决业界和国际仲裁社群欢迎，有效便利在港进行的国际及跨境仲裁程序，巩固香港作为首屈一指国际仲裁中心的地位。今次扩大涵盖在港实际进行的仲裁程序（包括混合模式聆讯），由内地、澳门、台湾或海外设立的争议解决机构或常设办事处管理，并获香港指定仲裁及争议解决机构在内地与香港法院就仲裁程序相互协助保全安排下提供支援。"
+    },
+    "tags": {
+      "en": [
+        "arbitration",
+        "immigration facilitation",
+        "dispute resolution"
+      ],
+      "zh_hant": [
+        "仲裁",
+        "入境便利計劃",
+        "爭議解決"
+      ],
+      "zh_hans": [
+        "仲裁",
+        "入境便利计划",
+        "争议解决"
+      ]
+    }
+  },
+  {
+    "id": "20261103-triathlon-traffic",
+    "category": "society",
+    "published_at": "2026-11-03T11:00:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300288.htm"
+    },
+    "title": {
+      "en": "Special traffic arrangements in Central, Wan Chai for World Triathlon Cup this weekend",
+      "zh_hant": "三項鐵人世界盃本周末中環灣仔舉行　警方實施特別交通安排",
+      "zh_hans": "三项铁人世界杯本周末中环湾仔举行　警方实施特别交通安排"
+    },
+    "summary": {
+      "en": "Police announced special traffic arrangements in Central and Wan Chai from November 4 to 8 to facilitate the 2026 World Triathlon Cup – Hong Kong, an \"M\" Mark major sports event taking place on November 7 and 8. Roads including Expo Drive will be temporarily closed at specified times, with traffic diversions in place; the public are urged to plan journeys in advance and use public transport. The event lets athletes race in Victoria Harbour and along Central's streets, reinforcing Hong Kong's status as a centre for international sports events.",
+      "zh_hant": "警方今日宣布，為配合三項鐵人世界盃—香港賽事，將於11月4日至8日在中環及灣仔實施特別交通安排，呼籲市民及早規劃行程，盡量使用公共交通工具。賽事屬「M」品牌大型體育活動，於11月7至8日舉行，運動員將在維多利亞港和中環街道競逐。屆時博覽道等道路將於指定時間臨時封閉並實施交通改道。",
+      "zh_hans": "警方今日宣布，为配合三项铁人世界杯—香港赛事，将于11月4日至8日在中环及湾仔实施特别交通安排，呼吁市民及早规划行程，尽量使用公共交通工具。赛事属「M」品牌大型体育活动，于11月7至8日举行，运动员将在维多利亚港和中环街道竞逐。届时博览道等道路将于指定时间临时封闭并实施交通改道。"
+    },
+    "tags": {
+      "en": [
+        "World Triathlon Cup",
+        "traffic arrangements",
+        "Central"
+      ],
+      "zh_hant": [
+        "三項鐵人世界盃",
+        "交通安排",
+        "中環"
+      ],
+      "zh_hans": [
+        "三项铁人世界杯",
+        "交通安排",
+        "中环"
+      ]
+    }
   }
- },
- {
-  "id": "20261103-unesco-journalist-impunity-report",
-  "category": "world",
-  "published_at": "2026-11-02T18:38:00+08:00",
-  "image_url": "",
-  "image_caption": "",
-  "source": {
-   "name": "聯合國新聞",
-   "url": "https://news.un.org/en/story/2026/11/1168719"
-  },
-  "title": {
-   "en": "Six in seven journalist murders go unpunished, UNESCO reports",
-   "zh_hant": "教科文組織：記者遇害免罰率升至86%　十年來首見回升",
-   "zh_hans": "教科文组织：记者遇害免罚率升至86%　十年来首见回升"
-  },
-  "summary": {
-   "en": "Global impunity for journalist killings has risen for the first time in more than a decade, UNESCO said in its biennial Director-General's Report on the Safety of Journalists, released to mark the International Day to End Impunity for Crimes against Journalists on November 2. The impunity rate reached 86 per cent in 2024-2025, up one percentage point from the previous biennium. A confirmed 189 journalists and media workers were killed in those two years, 20 per cent more than the previous period and the highest toll since 2014-2015; more than two thirds, 127, died in conflict zones. Drone strikes killed 50 journalists - 40 per cent of all conflict-zone deaths - which UNESCO called a disturbing new threat, and 15 journalists were reportedly killed while wearing press vests or in clearly marked press vehicles. The Arab States recorded the most killings (97), and the State of Palestine had the highest national toll in both years (30 and 32). Women journalists face particular risks: 13 of the 14 women killed were in countries in armed conflict, and 75 per cent of women journalists have experienced online or offline abuse. There was progress too: in non-conflict countries the impunity rate fell from 94 per cent in 2012 to 77 per cent, and journalist killings there hit an 18-year low. 'When journalists are targeted and their reporting is extinguished, it makes victims of us all,' UN Secretary-General Antonio Guterres said.",
-   "zh_hant": "教科文組織發表兩年一度《記者安全與免罰危險總幹事報告》，配合11月2日「終止侵害記者犯罪不受懲罰國際日」，指全球記者遇害免罰率十年來首次回升，2024至2025年達86%，較上一個兩年期升一個百分點。兩年間有189名記者同媒體工作者確認遇害，較上期多兩成，係2014至2015年以來最高；其中127人（超過三分之二）死於衝突地區。無人機襲擊殺死50名記者，佔衝突地區死亡人數四成，被教科文組織稱為「令人不安嘅新威脅」；另有15名記者據報係穿住記者背心或坐喺清楚標示「Press」嘅車輛時遇害。阿拉伯國家錄得最多個案（97宗），巴勒斯坦兩年都係遇害人數最多嘅地區（30同32人）。女記者面對特別風險：14名遇害女記者中有13人身處武裝衝突國家，75%女記者曾經歷網上或線下騷擾。報告亦有好消息：非衝突國家嘅免罰率由2012年94%降至77%，記者遇害數字係18年來最低。「當記者成為目標、佢哋嘅報道被撲滅，我哋每個人都係受害者。」聯合國秘書長古特雷斯話。",
-   "zh_hans": "教科文组织发表两年一度《记者安全与免罚危险总干事报告》，配合11月2日「终止侵害记者犯罪不受惩罚国际日」，指全球记者遇害免罚率十年来首次回升，2024至2025年达86%，较上一个两年期升一个百分点。两年间有189名记者同媒体工作者确认遇害，较上期多两成，是2014至2015年以来最高；其中127人（超过三分之二）死于冲突地区。无人机袭击杀死50名记者，占冲突地区死亡人数四成，被教科文组织称为「令人不安的新威胁」；另有15名记者据报是穿住记者背心或坐喺清楚标示「Press」的车辆时遇害。阿拉伯国家录得最多案例（97宗），巴勒斯坦两年都是遇害人数最多的地区（30同32人）。女记者面对特别风险：14名遇害女记者中有13人身处武装冲突国家，75%女记者曾经历网上或线下骚扰。报告亦有好消息：非冲突国家的免罚率由2012年94%降至77%，记者遇害数字是18年来最低。「当记者成为目标、他们的报道被扑灭，我们每个人都是受害者。」联合国秘书长古特雷斯说。"
-  },
-  "tags": {
-   "en": [
-    "UNESCO",
-    "journalists",
-    "impunity"
-   ],
-   "zh_hant": [
-    "教科文組織",
-    "記者",
-    "免罰"
-   ],
-   "zh_hans": [
-    "教科文组织",
-    "记者",
-    "免罚"
-   ]
-  }
- },
- {
-  "id": "20261103-florida-learjet-ntsb-briefing",
-  "category": "world",
-  "published_at": "2026-11-03T02:00:00+08:00",
-  "image_url": "",
-  "image_caption": "",
-  "source": {
-   "name": "The Contrail",
-   "url": "https://www.thecontrail.org/florida-learjet-crash-ntsb/"
-  },
-  "title": {
-   "en": "NTSB: Florida Learjet crew issued mayday before crash; signs of mid-air breakup",
-   "zh_hant": "NTSB：佛州墜機前機組曾發Mayday　有證據顯示半空解體",
-   "zh_hans": "NTSB：佛州坠机前机组曾发Mayday　有证据显示半空解体"
-  },
-  "summary": {
-   "en": "US federal investigators said Monday they have evidence that the Learjet 60 which crashed into a Palm Beach County neighbourhood on Sunday, killing all nine people aboard, was breaking apart before it hit the ground. At the NTSB's first media briefing in West Palm Beach, board member Tom Chapman said the crew had reported picking up light, manageable ice and moderate turbulence at 35,000 feet, with the outside temperature at minus 47 degrees Celsius and altitude deviations of about 700 feet. Less than 30 seconds later the crew transmitted that they were descending, followed by a mayday call reporting an 'overspeed condition', before the aircraft plunged and exploded near Greenacres at about 12:50pm local time. 'We do have evidence that there was some breakup of the aircraft before impact,' Chapman said, adding that investigators hope to recover the cockpit voice recorder. The flight was a paid charter operated by Aurora Jet from Austin, Texas, to North Eleuthera in the Bahamas, carrying two crew and seven passengers; the only victim identified so far is 20-year-old co-pilot Nathalia Filgueiras. One man driving near the crash site suffered a leg injury, and debris was scattered across ball fields and homes. Chapman stressed the NTSB will not determine a probable cause while on scene; a preliminary report is typically issued within about 30 days.",
-   "zh_hant": "美國聯邦調查人員星期一話，有證據顯示星期日墮毀喺佛州棕櫚灘縣住宅區、導致機上9人全部罹難嘅 Learjet 60，喺撞地之前已經開始半空解體。國家運輸安全委員會（NTSB）委員查普曼喺西棕櫚灘首次記者會上話，機組喺35,000呎高空曾報告遇到輕微但可應付嘅結冰同中度亂流，當時機外溫度攝氏零下47度，高度上下偏差約700呎。唔夠30秒之後，機組通報飛機正在下降，隨即發出Mayday求救，話飛機處於「超速狀態」，之後架機急墜，喺當地下晝約12時50分喺 Greenacres 附近爆炸。「我哋確實有證據顯示，飛機喺撞擊前已經有部分解體。」查普曼話，調查人員希望搵返駕駛艙話音記錄器。今次係 Aurora Jet 營運嘅包機，由德州奧斯汀飛往巴哈馬北伊柳塞拉島，機上有2名機組人員同7名乘客；目前唯一確認身份嘅死者係20歲副機師菲爾蓋拉斯。一名喺墜機現場附近揸車嘅男子腿部受傷，碎片散落喺球場同民居。查普曼強調，NTSB 唔會喺現場階段就斷定可能成因，初步報告一般約30日內發表。",
-   "zh_hans": "美国联邦调查人员星期一说，有证据显示星期日坠毁在佛州棕榈滩县住宅区、导致机上9人全部罹难的 Learjet 60，在撞地之前已经开始半空解体。国家运输安全委员会（NTSB）委员查普曼在西棕榈滩首次记者会上说，机组在35,000呎高空曾报告遇到轻微但可应付的结冰同中度乱流，当时机外温度摄氏零下47度，高度上下偏差约700呎。不够30秒之后，机组通报飞机正在下降，随即发出Mayday求救，说飞机处于「超速状态」，之后架机急坠，在当地下昼约12时50分在 Greenacres 附近爆炸。「我们确实有证据显示，飞机在撞击前已经有部分解体。」查普曼说，调查人员希望找回驾驶舱话音记录器。这次是 Aurora Jet 营运的包机，由德州奥斯汀飞往巴哈马北伊柳塞拉岛，机上有2名机组人员同7名乘客；目前唯一确认身份的死者是20岁副机师菲尔盖拉斯。一名在坠机现场附近开车的男子腿部受伤，碎片散落在球场同民居。查普曼强调，NTSB 不会在现场阶段就断定可能成因，初步报告一般约30日内发表。"
-  },
-  "tags": {
-   "en": [
-    "Florida crash",
-    "Learjet",
-    "NTSB"
-   ],
-   "zh_hant": [
-    "佛州空難",
-    "Learjet",
-    "NTSB"
-   ],
-   "zh_hans": [
-    "佛州空难",
-    "Learjet",
-    "NTSB"
-   ]
-  }
- },
- {
-  "id": "20261103-hk-legal-week-2026",
-  "category": "hk",
-  "published_at": "2026-11-02T22:08:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.news.gov.hk/chi/2026/11/20261102/20261102_211608_935.html"
-  },
-  "image_url": "https://www.news.gov.hk/chi/2026/11/20261102/20261102_211608_935/images/20261102221838037.jpg",
-  "title": {
-   "en": "Hong Kong Legal Week 2026 opens; UNIDROIT Asia-Pacific liaison office inaugurated",
-   "zh_hant": "香港法律周2026開幕　私法協會亞太聯絡辦公室揭牌",
-   "zh_hans": "香港法律周2026开幕　私法协会亚太联络办公室揭牌"
-  },
-  "summary": {
-   "en": "Hong Kong Legal Week 2026 opened on Monday (2 November) for a five-day run, with Chief Executive John Lee addressing the opening ceremony. Marking the centenary of the International Institute for the Unification of Private Law (UNIDROIT), the institute's Asia-Pacific Liaison Office also opened on the same day — the first office outside its Rome headquarters in its 100-year history, based in Hong Kong. Lee called it a double celebration. Secretary for Justice Paul Lam noted that the office joins the HCCH Asia Pacific Regional Office and other international private-law bodies in Hong Kong, underscoring the city's role in fostering international and regional collaboration. This year's theme is 'Collaboration and Innovation: Law Connects, Building the Future'; the centenary Asia-Pacific regional conference drew over 700 registrants from more than 40 countries and regions, with an UNCITRAL 60th anniversary event and a legal-tech festival still to come this week.",
-   "zh_hant": "「香港法律周2026」星期一（11月2日）揭幕，一連五日舉行，行政長官李家超為開幕典禮致辭。今年適逢國際統一私法協會（UNIDROIT）成立100周年，協會亞太聯絡辦公室同日舉行開幕典禮，是協會創會百年以來首個設於羅馬總部以外的辦公室，選址香港。李家超形容是雙喜臨門；律政司司長林定國指，辦公室連同海牙國際私法會議亞太區域辦事處等三大國際私法組織齊集香港，發揮香港促成國際及區域機構協作的獨特優勢。今屆法律周主題為「協作與創新：法律聯動，共建未來」；慶祝協會百年嘅亞太區域會議有超過40個國家或地區、逾700人報名參與，本周尚有聯合國國際貿易法委員會60周年誌慶活動及香港法律科技節等。",
-   "zh_hans": "「香港法律周2026」星期一（11月2日）揭幕，一连五日举行，行政长官李家超为开幕典礼致辞。今年适逢国际统一私法协会（UNIDROIT）成立100周年，协会亚太联络办公室同日举行开幕典礼，是协会创会百年来首个设于罗马总部以外的办公室，选址香港。李家超形容是双喜临门；律政司司长林定国指，办公室连同海牙国际私法会议亚太区域办事处等三大国际私法组织齐集香港，发挥香港促成国际及区域机构协作的独特优势。今届法律周主题为「协作与创新：法律联动，共建未来」；庆祝协会百年的亚太区域会议有超过40个国家或地区、逾700人报名参与，本周尚有联合国国际贸易法委员会60周年志庆活动及香港法律科技节等。"
-  },
-  "tags": {
-   "en": [
-    "Hong Kong Legal Week",
-    "UNIDROIT",
-    "John Lee"
-   ],
-   "zh_hant": [
-    "香港法律周",
-    "私法協會",
-    "李家超"
-   ],
-   "zh_hans": [
-    "香港法律周",
-    "私法协会",
-    "李家超"
-   ]
-  }
- },
- {
-  "id": "20261103-hkex-derivatives-hours",
-  "category": "finance",
-  "published_at": "2026-11-02T17:35:00+08:00",
-  "source": {
-   "name": "都市日報",
-   "url": "https://metrohk.com.hk/財經/港交所擬明年3月起延長衍生產品交易時段-25ad16"
-  },
-  "image_url": "",
-  "title": {
-   "en": "HKEX plans to extend derivatives after-hours trading from March next year",
-   "zh_hant": "港交所擬明年3月起延長衍生產品收市後交易時段",
-   "zh_hans": "港交所拟明年3月起延长衍生产品收市后交易时段"
-  },
-  "summary": {
-   "en": "HKEX has announced plans to extend its derivatives after-hours trading session from March next year, moving the close from 3:00am to 4:15am, and will consider a further extension to 5:15am next November depending on market developments; the plan is subject to regulatory approval and market readiness. Chief Operating Officer Bonnie Chan said closer links across global markets mean investors need more flexibility to respond to developments in different time zones and manage risk. HKEX is also working with the HKMA on a pilot exploring the use of digital Hong Kong dollars (e-HKD) for paying pre-trade margins outside banking hours, giving after-hours participants more flexible payment options.",
-   "zh_hant": "港交所宣布，計劃明年3月起延長衍生產品收市後交易時段，收市時間由凌晨3時延至凌晨4時15分，並視乎市場發展，考慮在明年11月進一步延至凌晨5時15分；有關安排須待監管機構批准及市場準備就緒後落實。交易所營運總監劉碧茵表示，全球市場聯繫日益緊密，投資者需要更靈活應對不同時區市場變化並管理風險。港交所又正與金管局合作推行試點計劃，探索以數碼港元（e-HKD）在銀行服務時間外作支付預繳按金，為收市後交易時段參與者提供更靈活繳付選項。",
-   "zh_hans": "港交所宣布，计划明年3月起延长衍生产品收市后交易时段，收市时间由凌晨3时延至凌晨4时15分，并视乎市场发展，考虑在明年11月进一步延至凌晨5时15分；有关安排须待监管机构批准及市场准备就绪后落实。交易所营运总监刘碧茵表示，全球市场联系日益紧密，投资者需要更灵活应对不同时区市场变化并管理风险。港交所又正与金管局合作推行试点计划，探索以数码港元（e-HKD）在银行服务时间外作支付预缴按金，为收市后交易时段参与者提供更灵活缴付选项。"
-  },
-  "tags": {
-   "en": [
-    "HKEX",
-    "derivatives",
-    "trading hours"
-   ],
-   "zh_hant": [
-    "港交所",
-    "衍生產品",
-    "交易時段"
-   ],
-   "zh_hans": [
-    "港交所",
-    "衍生产品",
-    "交易时段"
-   ]
-  }
- },
- {
-  "id": "20261103-china-pmi-october",
-  "category": "china",
-  "published_at": "2026-11-02T10:00:00+08:00",
-  "source": {
-   "name": "國務院新聞辦公室（新華社）",
-   "url": "http://english.scio.gov.cn/pressroom/2026-11/02/content_118757722.html"
-  },
-  "image_url": "http://english.scio.gov.cn/2026-11/02/118757722_t2_6X5X597X399_e5203086-60b0-49e0-8239-a9de9ebcc2c4.jpeg",
-  "title": {
-   "en": "China's October manufacturing PMI eases to 49.3; high-tech sector stays in expansion",
-   "zh_hant": "內地10月製造業PMI回落至49.3　高技術製造業保持擴張",
-   "zh_hans": "内地10月制造业PMI回落至49.3　高技术制造业保持扩张"
-  },
-  "summary": {
-   "en": "The National Bureau of Statistics said China's manufacturing purchasing managers' index (PMI) came in at 49.3 in October, down 0.8 points from September and back in contraction territory; the production and new-orders sub-indexes fell to 49.8 and 49.4 respectively. The bureau attributed the retreat to some demand being brought forward ahead of the National Day holiday and a complex international environment, with both supply and demand moderating. High-tech manufacturing PMI stood at 51.3 and equipment manufacturing at 50.6, both still expanding, while large enterprises held at 50.2. On monetary policy, the PBOC announced it would complete the transition to an overnight policy-rate framework from 2 November, making the overnight reverse repo rate the main policy rate. The economy grew 4.6% in the first three quarters, in line with the annual target.",
-   "zh_hant": "國家統計局公布，10月中國製造業採購經理指數（PMI）為49.3，較9月回落0.8個百分點，重回收縮區間；生產及新訂單指數分別跌至49.8和49.4。統計局指，部分需求在國慶假期前提前釋放，加上國際環境複雜，令供需雙雙放緩。不過高技術製造業PMI為51.3、裝備製造業50.6，繼續處於擴張區間，大型企業PMI亦保持50.2。貨幣政策方面，人行宣布11月2日起完成向隔夜政策利率框架轉型，以隔夜逆回購利率作為主要政策利率；首三季經濟增長4.6%，符合全年增長目標。",
-   "zh_hans": "国家统计局公布，10月中国制造业采购经理指数（PMI）为49.3，较9月回落0.8个百分点，重回收缩区间；生产及新订单指数分别跌至49.8和49.4。统计局指，部分需求在国庆假期前提前释放，加上国际环境复杂，令供需双双放缓。不过高技术制造业PMI为51.3、装备制造业50.6，继续处于扩张区间，大型企业PMI亦保持50.2。货币政策方面，人行宣布11月2日起完成向隔夜政策利率框架转型，以隔夜逆回购利率作为主要政策利率；首三季经济增长4.6%，符合全年增长目标。"
-  },
-  "tags": {
-   "en": [
-    "China economy",
-    "PMI",
-    "PBOC"
-   ],
-   "zh_hant": [
-    "中國經濟",
-    "PMI",
-    "人民銀行"
-   ],
-   "zh_hans": [
-    "中国经济",
-    "PMI",
-    "人民银行"
-   ]
-  }
- },
- {
-  "id": "20261103-marvell-lumentum-115b",
-  "category": "tech",
-  "published_at": "2026-11-02T16:00:00+08:00",
-  "source": {
-   "name": "Tech Xplore",
-   "url": "https://techxplore.com/news/2026-11-marvell-lumentum-merge-billion-ai.html"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Marvell to buy Lumentum in $115 billion deal, betting on AI optical connectivity",
-   "zh_hant": "Marvell 1,150億美元收購Lumentum　押注AI光連接基建",
-   "zh_hans": "Marvell 1,150亿美元收购Lumentum　押注AI光连接基建"
-  },
-  "summary": {
-   "en": "US chipmaker Marvell Technology said on Monday it will buy optical-components maker Lumentum in an all-stock deal worth $115 billion including debt — one of the largest technology takeovers on record — expected to close in the first half of 2028. Marvell shareholders will own about 67% of the combined company; the two firms said surging data traffic from AI systems and the physical limits of copper wiring are driving data centres toward optical connections. AI chip giant Nvidia invested $2 billion in each of the two companies earlier this year. Amid investor worries about overspending on AI infrastructure, Marvell shares fell as much as 8% on Monday after the announcement, while Lumentum dropped 12.5%.",
-   "zh_hant": "美國晶片商Marvell星期一宣布，將以全股票方式收購光學元件製造商Lumentum，交易作價1,150億美元（包括債務），是科技業歷來最大宗併購之一，預計2028年上半年完成。Marvell股東將持有合併後公司約67%股權；兩家公司指，AI系統帶動的數據流量激增及銅線物理極限，正推動數據中心轉向光連接。AI晶片巨頭Nvidia今年較早時已分別向兩家公司各投資20億美元。市場憂慮AI基建燒錢過度，消息公布後Marvell股價周一曾跌8%，Lumentum跌12.5%。",
-   "zh_hans": "美国芯片商Marvell星期一宣布，将以全股票方式收购光学元件制造商Lumentum，交易作价1,150亿美元（包括债务），是科技业历来最大宗并购之一，预计2028年上半年完成。Marvell股东将持有合并后公司约67%股权；两家公司指，AI系统带动的数据流量激增及铜线物理极限，正推动数据中心转向光连接。AI芯片巨头Nvidia今年较早时已分别向两家公司各投资20亿美元。市场忧虑AI基建烧钱过度，消息公布后Marvell股价星期一曾跌8%，Lumentum跌12.5%。"
-  },
-  "tags": {
-   "en": [
-    "Marvell",
-    "Lumentum",
-    "AI chips"
-   ],
-   "zh_hant": [
-    "Marvell",
-    "Lumentum",
-    "AI晶片"
-   ],
-   "zh_hans": [
-    "Marvell",
-    "Lumentum",
-    "AI芯片"
-   ]
-  }
- },
- {
-  "id": "20261103-china-asean-admm-invite",
-  "category": "world",
-  "published_at": "2026-11-02T21:14:00+08:00",
-  "source": {
-   "name": "BusinessWorld",
-   "url": "https://bworldonline.com/the-nation/2026/11/02/790806/china-says-it-had-fewer-than-five-days-to-prepare-for-asean-meeting/"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Chinese embassy accuses Philippines of delaying invite to ASEAN defence ministers' meeting",
-   "zh_hant": "中國駐菲使館批菲方遲發邀請　缺席東盟防長擴大會議惹爭議",
-   "zh_hans": "中国驻菲使馆批菲方迟发邀请　缺席东盟防长扩大会议惹争议"
-  },
-  "summary": {
-   "en": "The Chinese Embassy in the Philippines said on Sunday that the Philippine defence department did not send China its invitation to the 13th ASEAN Defence Ministers' Meeting-Plus (ADMM-Plus) until 22 October — fewer than five working days before the 29 October meeting in Cebu — leaving Beijing able to send only its embassy's defence attache. The embassy said other member states had received invitations in late September or early October, and accused Defence Secretary Gilberto Teodoro of acting out of self-interest and disregarding the meeting's principles of openness and inclusivity. A Philippine Coast Guard spokesman had earlier questioned China's low-level representation as a sign of disrespect toward ASEAN. The defence department did not immediately respond.",
-   "zh_hant": "中國駐菲律賓大使館星期日發文，指菲律賓國防部遲至10月22日才向中方發出第13屆東盟防長擴大會議（ADMM-Plus）邀請，距10月29日在宿霧舉行的會議不足5個工作天，令中方只能派出使館武官出席。大使館指其他成員國早在9月底或10月初已收到邀請，並批評菲防長特奧多羅出於私利、罔顧會議開放包容原則。菲海岸警衛隊發言人早前質疑中方只派武官出席，是輕視東盟。菲國防部未有即時回應。",
-   "zh_hans": "中国驻菲律宾大使馆星期日发文，指菲律宾国防部迟至10月22日才向中方发出第13届东盟防长扩大会议（ADMM-Plus）邀请，距10月29日在宿雾举行的会议不足5个工作天，令中方只能派出使馆武官出席。大使馆指其他成员国早在9月底或10月初已收到邀请，并批评菲防长特奥多罗出于私利、罔顾会议开放包容原则。菲海岸警卫队发言人早前质疑中方只派武官出席，是轻视东盟。菲国防部未有即时回应。"
-  },
-  "tags": {
-   "en": [
-    "China-Philippines",
-    "ASEAN",
-    "defence ministers"
-   ],
-   "zh_hant": [
-    "中菲關係",
-    "東盟",
-    "防長會議"
-   ],
-   "zh_hans": [
-    "中菲关系",
-    "东盟",
-    "防长会议"
-   ]
-  }
- },
- {
-  "id": "20261103-ce-financial-summit",
-  "category": "finance",
-  "published_at": "2026-11-03T09:28:00+08:00",
-  "image_url": "https://gia.info.gov.hk/general/202611/03/P2026110300183_photo_1342724.jpg",
-  "image_caption": "行政長官李家超在第五屆國際金融領袖投資峰會上致辭。（政府新聞處）",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300183.htm"
-  },
-  "title": {
-   "en": "CE addresses fifth Global Financial Leaders' Investment Summit in Hong Kong",
-   "zh_hant": "李家超為第五屆國際金融領袖投資峰會致辭　280金融領袖聚港",
-   "zh_hans": "李家超为第五届国际金融领袖投资峰会致辞　280金融领袖聚港"
-  },
-  "summary": {
-   "en": "Chief Executive John Lee addressed the fifth Global Financial Leaders' Investment Summit on Tuesday, themed \"Rethinking the Playbook\". The summit drew some 280 global financial leaders, including about 120 group chairpersons and CEOs. Lee said Hong Kong topped the global IPO league table last year and raised about US$50 billion in IPOs in the first nine months of this year, ranking second globally; the city remains the world's largest offshore Renminbi hub, processing about 75 per cent of global offshore Renminbi payments, and its assets under management reached a record US$5.4 trillion last year. He highlighted September's first Five-Year Plan, the gold trading ecosystem and fintech leadership, and invited investors to join the Northern Metropolis development.",
-   "zh_hant": "行政長官李家超今日（11月3日）在第五屆「國際金融領袖投資峰會」致辭，今屆主題為「重新審視策略」。峰會吸引約280名環球金融領袖出席，包括約120名集團主席及行政總裁。他表示，香港去年重奪全球IPO榜首，今年首九個月籌資約500億美元、居全球第二；香港繼續是全球最大離岸人民幣業務中心，處理約75%全球離岸人民幣支付，去年資產管理規模達破紀錄的5.4萬億美元。他提到政府9月推出的本港首個五年計劃、黃金交易生態圈及全球第一的金融科技排名，並邀請與會者參與北部都會區發展等新機遇。",
-   "zh_hans": "行政长官李家超今日（11月3日）在第五届「国际金融领袖投资峰会」致辞，本届主题为「重新审视策略」。峰会吸引约280名环球金融领袖出席，包括约120名集团主席及行政总裁。他表示，香港去年重夺全球IPO榜首，今年首九个月筹资约500亿美元、居全球第二；香港继续是全球最大离岸人民币业务中心，处理约75%全球离岸人民币支付，去年资产管理规模达破纪录的5.4万亿美元。他提到政府9月推出的本港首个五年计划、黄金交易生态圈及全球第一的金融科技排名，并邀请与会者参与北部都会区发展等新机遇。"
-  },
-  "tags": {
-   "en": [
-    "Global Financial Leaders' Investment Summit",
-    "John Lee",
-    "financial hub"
-   ],
-   "zh_hant": [
-    "國際金融領袖投資峰會",
-    "李家超",
-    "國際金融中心"
-   ],
-   "zh_hans": [
-    "国际金融领袖投资峰会",
-    "李家超",
-    "国际金融中心"
-   ]
-  }
- },
- {
-  "id": "20261103-us-strikes-iran-qeshm",
-  "category": "world",
-  "published_at": "2026-11-03T09:59:00+08:00",
-  "image_url": "",
-  "image_caption": "",
-  "source": {
-   "name": "Seoul Economic Daily (English)",
-   "url": "https://en.sedaily.com/international/2026/11/03/us-strikes-irans-qeshm-island-on-eve-of-midterms"
-  },
-  "title": {
-   "en": "US carried out limited strikes on Iran's Qeshm Island on eve of midterms, WSJ reports",
-   "zh_hant": "美軍中期選舉前夕空襲伊朗格什姆島　華爾街日報：屬小規模秘密打擊",
-   "zh_hans": "美军中期选举前夕空袭伊朗格什姆岛　华尔街日报：属小规模秘密打击"
-  },
-  "summary": {
-   "en": "Citing US officials, the Wall Street Journal reported that the US military struck Qeshm Island, a key Iranian military and energy hub near the Strait of Hormuz, on Monday — one day before the US midterm elections. Officials described the operation as defensive, responding to Iranian surface-to-air missile threats against US assets and commercial shipping. The Journal said the US has carried out small-scale strikes against Iran in secret for weeks, deliberately keeping them unannounced to avoid signalling a return to large-scale combat. Iran's state media IRNA reported five successive explosions on the island, while the IRGC claimed to have shot down three US drones nearby — unconfirmed by the US. Trump said a deal with Tehran \"could happen\"; Vice-President JD Vance said both sides had made progress towards an off-ramp.",
-   "zh_hant": "《華爾街日報》引述美國官員報道，美軍星期一（11月2日）在美國中期選舉前夕，對伊朗位於霍爾木茲海峽附近、具重要軍事及能源地位的格什姆島進行有限度打擊。官員形容行動屬防禦性質，回應伊朗以防空導彈威脅美方資產及商船。報道指美軍過去數周一直秘密進行小規模打擊，刻意不公開宣布，以免被解讀為恢復大規模作戰。伊朗官媒IRNA報道島上連續聽到五聲爆炸，革命衛隊稱在附近擊落三架美軍無人機，美方未證實。特朗普同日淡化重啟戰事的可能性，稱與德黑蘭達成協議「有可能」；副總統萬斯則指雙方正尋求降級衝突的出路。",
-   "zh_hans": "《华尔街日报》引述美国官员报道，美军星期一（11月2日）在美国中期选举前夕，对伊朗位于霍尔木兹海峡附近、具重要军事及能源地位的格什姆岛进行有限度打击。官员形容行动属防御性质，回应伊朗以防空导弹威胁美方资产及商船。报道指美军过去数周一直秘密进行小规模打击，刻意不公开宣布，以免被解读为恢复大规模作战。伊朗官媒IRNA报道岛上连续听到五声爆炸，革命卫队称在附近击落三架美军无人机，美方未证实。特朗普同日淡化重启战事的可能性，称与德黑兰达成协议「有可能」；副总统万斯则指双方正寻求降级冲突的出路。"
-  },
-  "tags": {
-   "en": [
-    "US-Iran conflict",
-    "Qeshm Island",
-    "midterms"
-   ],
-   "zh_hant": [
-    "美伊衝突",
-    "格什姆島",
-    "中期選舉"
-   ],
-   "zh_hans": [
-    "美伊冲突",
-    "格什姆岛",
-    "中期选举"
-   ]
-  }
- },
- {
-  "id": "20261103-ssp-police-bust",
-  "category": "hk",
-  "published_at": "2026-11-03T08:37:00+08:00",
-  "image_url": "",
-  "image_caption": "",
-  "source": {
-   "name": "weekendhk",
-   "url": "https://www.weekendhk.com/%E7%9F%9A%E7%9B%AE%E8%A9%B1%E9%A1%8C/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%B7%A5%E5%BB%88%E4%BA%94%E5%80%8B%E6%87%B7%E7%96%91%E9%9D%9E%E6%B3%95%E5%A0%B4%E6%89%80%E8%A2%AB%E6%90%97%E7%A0%B4-%E5%8D%81%E5%9B%9B%E4%BA%BA%E8%A2%AB%E6%8D%95%E6%9C%80-3534846/"
-  },
-  "title": {
-   "en": "Police bust five suspected vice premises in Sham Shui Po industrial building; 14 arrested",
-   "zh_hant": "深水埗工廈五個懷疑非法場所被搗破　14人被捕最年長78歲",
-   "zh_hans": "深水埗工厦五个怀疑非法场所被捣破　14人被捕最年长78岁"
-  },
-  "summary": {
-   "en": "Sham Shui Po Police District and Customs conducted a joint operation codenamed \"Fire Zone\" from October 27 to November 2, raiding industrial building units and smashing two suspected gambling premises, one unlicensed massage parlour, one suspected vice establishment and one illicit cigarette warehouse. Fourteen people aged 33 to 78 were arrested — six local men, seven local women and one Macao woman — on suspicion of managing vice establishments, running unlicensed massage and gambling premises, and overstaying. Nine have been charged and will appear at West Kowloon Magistrates' Courts on November 5, 27 and 28. Officers seized about 120,000 illicit cigarettes and 26,200 alternative smoking products worth about HK$600,000.",
-   "zh_hant": "深水埗警區與海關在10月27日至11月2日展開代號「焱域」的聯合行動，突擊工業大廈單位，搗破兩個懷疑賭博場所、一個懷疑無牌按摩場所、一個懷疑賣淫場所及一個懷疑私煙倉，共拘捕14人，年齡介乎33至78歲。被捕人包括6名本地男子、7名本地女子及1名澳門女子，涉嫌管理賣淫場所、經營無牌按摩及賭博場所、逾期居留等；9人已被起訴，案件將於11月5、27及28日在西九龍裁判法院提堂。行動中檢獲約12萬支未完稅香煙及約2.62萬支另類吸煙產品，市值約60萬元。",
-   "zh_hans": "深水埗警区与海关在10月27日至11月2日展开代号「焱域」的联合行动，突击工业大厦单位，捣破两个怀疑赌博场所、一个怀疑无牌按摩场所、一个怀疑卖淫场所及一个怀疑私烟仓，共拘捕14人，年龄介乎33至78岁。被捕人包括6名本地男子、7名本地女子及1名澳门女子，涉嫌管理卖淫场所、经营无牌按摩及赌博场所、逾期居留等；9人已被起诉，案件将于11月5、27及28日在西九龙裁判法院提堂。行动中检获约12万支未完税香烟及约2.62万支另类吸烟产品，市值约60万元。"
-  },
-  "tags": {
-   "en": [
-    "Sham Shui Po",
-    "joint operation",
-    "vice premises"
-   ],
-   "zh_hant": [
-    "深水埗",
-    "聯合行動",
-    "非法場所"
-   ],
-   "zh_hans": [
-    "深水埗",
-    "联合行动",
-    "非法场所"
-   ]
-  }
- },
- {
-  "id": "20261103-citi-ai-pulse",
-  "category": "finance",
-  "published_at": "2026-11-03T09:00:00+08:00",
-  "image_url": "",
-  "image_caption": "",
-  "source": {
-   "name": "Hongkong Invest (Media OutReach Newswire)",
-   "url": "https://hongkong-invest.com/%E8%8A%B1%E6%97%97%E8%B2%A1%E5%AF%8Cai-pulse-%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%91%8A%EF%BC%9A%E9%A6%99%E6%B8%AF%E6%B6%88%E8%B2%BB%E8%80%85%E6%93%81%E6%8A%B1%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%e3%80%80/"
-  },
-  "title": {
-   "en": "Citi AI Pulse survey: HK consumers embrace AI but want humans in charge",
-   "zh_hant": "花旗財富調查：港人擁抱AI　逾半憂跟不上發展　盼人類掌舵",
-   "zh_hans": "花旗财富调查：港人拥抱AI　逾半忧跟不上发展　盼人类掌舵"
-  },
-  "summary": {
-   "en": "Citi Hong Kong today released the \"2026 Citi Wealth AI Pulse Survey\" report, finding AI is now deeply embedded in Hong Kong consumers' daily lives — yet many worry about keeping up with its rapid development. The survey interviewed 1,053 Hong Kong respondents aged 21–69 online in early September. AI usage reached 92%, but over half (52%) said they feared falling behind AI's pace of change. Notably, the \"Gen Z AI phenomenon\": the youngest generation has 100% AI usage, yet 66% worry about lagging behind — the highest of any generation. While actively adopting AI, respondents still want key decisions to stay in human hands.",
-   "zh_hant": "花旗香港今日公布「2026花旗財富AI Pulse調查報告」，發現人工智能已深度融入港人日常生活，惟同時擔心跟不上急速發展。調查於9月上旬以網上形式訪問1,053名21至69歲香港受訪者，發現AI使用率高達92%，但逾半（52%）表示擔心未能跟上技術發展。值得注意的是「Z世代AI現象」：年輕一代AI使用率達100%，但當中66%擔心落後於AI發展，是各世代中最高。受訪者雖積極採用AI，仍希望關鍵決策由人類掌舵。",
-   "zh_hans": "花旗香港今日公布「2026花旗财富AI Pulse调查报告」，发现人工智能已深度融入港人日常生活，惟同时担心跟不上急速发展。调查于9月上旬以网上形式访问1,053名21至69岁香港受访者，发现AI使用率高达92%，但逾半（52%）表示担心未能跟上技术发展。值得注意的是「Z世代AI现象」：年轻一代AI使用率达100%，但当中66%担心落后于AI发展，是各世代中最高。受访者虽积极采用AI，仍希望关键决策由人类掌舵。"
-  },
-  "tags": {
-   "en": [
-    "Citi",
-    "artificial intelligence",
-    "Gen Z"
-   ],
-   "zh_hant": [
-    "花旗",
-    "人工智能",
-    "Z世代"
-   ],
-   "zh_hans": [
-    "花旗",
-    "人工智能",
-    "Z世代"
-   ]
-  }
- },
- {
-  "id": "20261103-goldman-ai-coding",
-  "category": "tech",
-  "published_at": "2026-11-03T00:00:00+08:00",
-  "image_url": "",
-  "image_caption": "",
-  "source": {
-   "name": "Tech in Asia",
-   "url": "https://www.techinasia.com/news/goldman-sachs-restricts-ai-coding-tools-engineers"
-  },
-  "title": {
-   "en": "Goldman Sachs restricts AI coding tools to engineers, Bloomberg reports",
-   "zh_hant": "高盛收緊AI編程工具　限工程師使用　彭博：交易員不滿",
-   "zh_hans": "高盛收紧AI编程工具　限工程师使用　彭博：交易员不满"
-  },
-  "summary": {
-   "en": "Goldman Sachs has limited advanced AI coding tools — including Anthropic's Claude Code and Microsoft's GitHub tools — to engineers under guidance issued in October, Bloomberg reported, with an exception for \"strats\" who straddle trading, quantitative research and software engineering. Bankers and traders had used the tools for months; some traders used them to monitor client trading flows, model market moves and positions, and create written and graphic content, frustrating some after the change. The directive follows an earlier restriction on Anthropic's Claude for Goldman staff in Hong Kong. It reflects broader caution on Wall Street over public coding assistants in production systems.",
-   "zh_hant": "據彭博報道，高盛10月起限制先進AI編程工具（包括Anthropic的Claude Code及微軟GitHub工具）只供工程師使用，「策略師」（橫跨交易、量化研究及軟件工程的人員）除外。此前銀行及交易員已使用這些工具數月，有交易員曾用來監察客戶交易流、模擬市場走勢及製作圖表內容，改變引發部分交易員不滿。新指令之前，高盛已限制香港員工使用Anthropic的Claude。這反映華爾街大行對公開AI編程助手用於生產系統普遍持謹慎態度。",
-   "zh_hans": "据彭博报道，高盛10月起限制先进AI编程工具（包括Anthropic的Claude Code及微软GitHub工具）只供工程师使用，「策略师」（横跨交易、量化研究及软件工程的人员）除外。此前银行及交易员已使用这些工具数月，有交易员曾用来监察客户交易流、模拟市场走势及制作图表内容，改变引发部分交易员不满。新指令之前，高盛已限制香港员工使用Anthropic的Claude。这反映华尔街大行对公开AI编程助手用于生产系统普遍持谨慎态度。"
-  },
-  "tags": {
-   "en": [
-    "Goldman Sachs",
-    "AI coding",
-    "Wall Street"
-   ],
-   "zh_hant": [
-    "高盛",
-    "AI編程",
-    "華爾街"
-   ],
-   "zh_hans": [
-    "高盛",
-    "AI编程",
-    "华尔街"
-   ]
-  }
- }
 ]
