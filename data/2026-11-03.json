@@ -791,5 +791,499 @@
         "中环"
       ]
     }
+  },
+  {
+    "id": "20261103-sfst-beijing-finance",
+    "category": "finance",
+    "published_at": "2026-11-03T18:45:00+08:00",
+    "image_url": "https://gia.info.gov.hk/general/202611/03/P2026110300453_photo_1342769.jpg",
+    "image_caption": "許正宇在第29屆京港經貿合作洽談會「京港金融合作」專題活動上演講。（政府新聞處）",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300453.htm"
+    },
+    "title": {
+      "en": "Christopher Hui promotes Hong Kong finance at Beijing symposium; IPO fundraising tops HK$380b in first three quarters",
+      "zh_hant": "許正宇北京出席京港洽談會金融合作活動　首三季IPO集資逾3800億",
+      "zh_hans": "许正宇北京出席京港洽谈会金融合作活动　首三季IPO集资逾3800亿"
+    },
+    "summary": {
+      "en": "Financial Services Secretary Christopher Hui began a Beijing visit today, attending the thematic financial cooperation session of the 29th Beijing Hong Kong Economic Cooperation Symposium to promote Hong Kong's financial strengths, highlighting the \"Finance+\" strategy and five chapters spanning fintech and green finance. He said IPO fundraising in Hong Kong exceeded HK$380 billion in the first three quarters, more than double a year earlier, and met People's Bank of China officials to discuss renminbi internationalisation.",
+      "zh_hant": "財經事務及庫務局局長許正宇今日展開北京訪問，出席第29屆京港經貿合作洽談會「京港金融合作」專題活動，向內地官方及商界推介香港金融機遇，強調「金融＋」策略及金融科技、綠色金融等五大篇章。他透露今年首三季香港IPO集資額超過3,800億港元，按年升逾一倍；他亦拜會了中國人民銀行國際司官員，商討人民幣國際化等議題。",
+      "zh_hans": "财经事务及库务局局长许正宇今日展开北京访问，出席第29届京港经贸合作洽谈会「京港金融合作」专题活动，向内地官方及商界推介香港金融机遇，强调「金融＋」策略及金融科技、绿色金融等五大篇章。他透露今年首三季香港IPO集资额超过3,800亿港元，按年升逾一倍；他亦拜会了中国人民银行国际司官员，商讨人民币国际化等议题。"
+    },
+    "tags": {
+      "en": [
+        "Christopher Hui",
+        "Beijing-HK symposium",
+        "IPO"
+      ],
+      "zh_hant": [
+        "許正宇",
+        "京港洽談會",
+        "IPO"
+      ],
+      "zh_hans": [
+        "许正宇",
+        "京港洽谈会",
+        "IPO"
+      ]
+    }
+  },
+  {
+    "id": "20261103-customs-seize-birds",
+    "category": "society",
+    "published_at": "2026-11-03T18:12:00+08:00",
+    "image_url": "https://gia.info.gov.hk/general/202611/03/P2026110300609_photo_1342791.jpg",
+    "image_caption": "海關在落馬洲支線管制站檢獲的懷疑非法進口活雀鳥。（政府新聞處）",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300609.htm"
+    },
+    "title": {
+      "en": "Customs seizes 66 suspected illegally imported live birds at Lok Ma Chau, arrests mainland woman",
+      "zh_hant": "海關落馬洲檢獲66隻懷疑非法進口活雀　拘一名內地女子",
+      "zh_hans": "海关落马洲检获66只怀疑非法进口活雀　拘一名内地女子"
+    },
+    "summary": {
+      "en": "Hong Kong Customs today arrested a 34-year-old mainland woman at the Lok Ma Chau Spur Line control point, seizing 66 suspected illegally imported live birds from her luggage, worth about HK$3,000; the case has been handed to the Agriculture, Fisheries and Conservation Department. Under the Public Health (Animals and Birds) Regulations, importing birds without a valid health certificate is an offence punishable by a fine of up to HK$25,000.",
+      "zh_hant": "香港海關今日在落馬洲支線管制站拘捕一名34歲內地女子，在其行李內檢獲66隻懷疑非法進口的活雀鳥，市值約3,000元，案件已交由漁農自然護理署跟進。根據《公眾衞生（動物及禽鳥）規例》，沒有有效衞生證明而進口雀鳥屬違法行為，最高可罰款25,000元。",
+      "zh_hans": "香港海关今日在落马洲支线管制站拘捕一名34岁内地女子，在其行李内检获66只怀疑非法进口的活雀鸟，市值约3,000元，案件已交由渔农自然护理署跟进。根据《公众卫生（动物及禽鸟）规例》，没有有效卫生证明而进口雀鸟属违法行为，最高可罚款25,000元。"
+    },
+    "tags": {
+      "en": [
+        "Customs",
+        "smuggling",
+        "live birds"
+      ],
+      "zh_hant": [
+        "海關",
+        "走私",
+        "活雀鳥"
+      ],
+      "zh_hans": [
+        "海关",
+        "走私",
+        "活雀鸟"
+      ]
+    }
+  },
+  {
+    "id": "20261103-hkma-financial-summit",
+    "category": "finance",
+    "published_at": "2026-11-03T18:18:00+08:00",
+    "image_url": "https://gia.info.gov.hk/general/202611/03/P2026110300367_photo_1342790.jpg",
+    "image_caption": "金管局總裁余偉文在第五屆全球金融領袖投資峰會上致歡迎辭。（政府新聞處）",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300367.htm"
+    },
+    "title": {
+      "en": "HKMA's fifth Global Financial Leaders' Investment Summit concludes with about 280 leaders attending",
+      "zh_hant": "金管局第五屆全球金融領袖投資峰會圓滿結束　約280金融領袖出席",
+      "zh_hans": "金管局第五届全球金融领袖投资峰会圆满结束　约280金融领袖出席"
+    },
+    "summary": {
+      "en": "The fifth Global Financial Leaders' Investment Summit hosted by the Hong Kong Monetary Authority concluded its main summit today, with about 280 global financial leaders attending, including around 120 chairmen and chief executives; this year's theme is \"Rethinking the Playbook\". The three-day summit began with a welcome dinner last night and will close tomorrow with a \"Conversations with Global Investors\" forum co-organised by the HKMA, the SFC and the Hong Kong Academy of Finance.",
+      "zh_hant": "由金管局主辦的第五屆全球金融領袖投資峰會今日舉行主峰會並圓滿結束，約280名全球金融領袖出席，當中約120人為集團主席或行政總裁；今年主題為「Rethinking the Playbook」。峰會一連三日，由昨晚的歡迎晚宴揭開序幕，明日將以金管局、證監會及香港金融學院合辦的「與全球投資者對話」論壇作結。",
+      "zh_hans": "由金管局主办的第五届全球金融领袖投资峰会今日举行主峰会并圆满结束，约280名全球金融领袖出席，当中约120人为集团主席或行政总裁；今年主题为「Rethinking the Playbook」。峰会一连三日，由昨晚的欢迎晚宴揭开序幕，明日将以金管局、证监会及香港金融学院合办的「与全球投资者对话」论坛作结。"
+    },
+    "tags": {
+      "en": [
+        "HKMA",
+        "financial summit",
+        "Eddie Yue"
+      ],
+      "zh_hant": [
+        "金管局",
+        "金融峰會",
+        "余偉文"
+      ],
+      "zh_hans": [
+        "金管局",
+        "金融峰会",
+        "余伟文"
+      ]
+    }
+  },
+  {
+    "id": "20261103-gdp-q3-growth",
+    "category": "finance",
+    "published_at": "2026-11-03T16:30:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300410.htm"
+    },
+    "title": {
+      "en": "Hong Kong Q3 GDP estimated up 5.2%, fastest first-three-quarter growth in five years",
+      "zh_hant": "本港第三季GDP預估增長5.2%　首三季合計五年來最快",
+      "zh_hans": "本港第三季GDP预估增长5.2%　首三季合计五年来最快"
+    },
+    "summary": {
+      "en": "The Census and Statistics Department today released advance estimates showing Hong Kong's GDP grew 5.2% in real terms in the third quarter, up from 4.2% in Q2 and 1.9% quarter on quarter after seasonal adjustment; growth for the first three quarters totalled 5.1%, the fastest in five years. Private consumption rose 2.8%, goods exports jumped 30.4% and services output grew 4.3%; revised figures and the full-year forecast will be released on November 13.",
+      "zh_hant": "政府統計處今日發表第三季本地生產總值預先估計數字，實質增長5.2%，高於第二季的4.2%，經季節性調整後按季升1.9%；首三季合計增長5.1%，是五年來同期最快。私人消費開支升2.8%、貨物出口升30.4%、服務輸出升4.3%；修訂數字及全年經濟預測將於11月13日公布。",
+      "zh_hans": "政府统计处今日发表第三季本地生产总值预先估计数字，实质增长5.2%，高于第二季的4.2%，经季节性调整后按季升1.9%；首三季合计增长5.1%，是五年来同期最快。私人消费开支升2.8%、货物出口升30.4%、服务输出升4.3%；修订数字及全年经济预测将于11月13日公布。"
+    },
+    "tags": {
+      "en": [
+        "GDP",
+        "economic growth",
+        "statistics"
+      ],
+      "zh_hant": [
+        "GDP",
+        "經濟增長",
+        "統計處"
+      ],
+      "zh_hans": [
+        "GDP",
+        "经济增长",
+        "统计处"
+      ]
+    }
+  },
+  {
+    "id": "20261103-retail-sept",
+    "category": "finance",
+    "published_at": "2026-11-03T16:30:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300398.htm"
+    },
+    "title": {
+      "en": "September retail sales up 6.4% year on year, rising for 17th consecutive month",
+      "zh_hant": "9月零售銷售按年升6.4%　連升17個月",
+      "zh_hans": "9月零售销售按年升6.4%　连升17个月"
+    },
+    "summary": {
+      "en": "The Census and Statistics Department today released provisional September retail sales figures: total sales value reached HK$33.4 billion, up 6.4% year on year, the 17th consecutive monthly increase; sales for the first nine months rose 8.3%. Online sales accounted for 13.1% of the total at HK$4.4 billion, up 12%; jewellery and watches rose 20.3% and clothing 11.1%, while supermarket goods fell 1% and motor vehicles and parts dropped 34.7%. The government attributed the growth to an earlier Mid-Autumn Festival and recovering visitor spending.",
+      "zh_hant": "政府統計處今日公布9月零售業銷貨額臨時數字，總銷貨價值334億港元，按年升6.4%，是連續第17個月增長；首9個月合計升8.3%。網上銷售佔總額13.1%，達44億港元，按年升12%；珠寶首飾鐘錶升20.3%、服裝升11.1%，超市貨品則跌1%、汽車及零件跌34.7%。政府表示中秋提早及訪港旅客回升帶動增長。",
+      "zh_hans": "政府统计处今日公布9月零售业销货额临时数字，总销货价值334亿港元，按年升6.4%，是连续第17个月增长；首9个月合计升8.3%。网上销售占总额13.1%，达44亿港元，按年升12%；珠宝首饰钟表升20.3%、服装升11.1%，超市货品则跌1%、汽车及零件跌34.7%。政府表示中秋提早及访港旅客回升带动增长。"
+    },
+    "tags": {
+      "en": [
+        "retail sales",
+        "consumption",
+        "tourism"
+      ],
+      "zh_hant": [
+        "零售",
+        "消費",
+        "旅客"
+      ],
+      "zh_hans": [
+        "零售",
+        "消费",
+        "旅客"
+      ]
+    }
+  },
+  {
+    "id": "20261103-ce-beijing-visit",
+    "category": "china",
+    "published_at": "2026-11-03T19:00:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300428.htm"
+    },
+    "title": {
+      "en": "John Lee begins Beijing visit, says sub-centre offers lessons for Northern Metropolis",
+      "zh_hant": "李家超展開北京訪問　參觀城市副中心：對北都有參考價值",
+      "zh_hans": "李家超展开北京访问　参观城市副中心：对北都有参考价值"
+    },
+    "summary": {
+      "en": "Chief Executive John Lee began his Beijing visit today, touring the Beijing sub-centre in the afternoon, including the Beijing Library and a planning exhibition, and said its holistic planning experience offers useful reference for Hong Kong's Northern Metropolis. He later met Beijing party secretary Yin Li and mayor Yin Yong to exchange views on deepening Beijing-Hong Kong cooperation; he will address the opening ceremony of the 29th Beijing Hong Kong Economic Cooperation Symposium tomorrow before heading to Shanghai.",
+      "zh_hant": "行政長官李家超今日開始北京訪問行程，下午參觀北京城市副中心，包括北京圖書館及中共北京市委規劃展廳，形容副中心的整體規劃經驗對香港推動北部都會區有參考價值。他之後會見中共北京市委書記尹力及市長殷勇，雙方就深化京港合作交換意見；他明日將出席第29屆京港經貿合作洽談會開幕式並演講，之後轉往上海。",
+      "zh_hans": "行政长官李家超今日开始北京访问行程，下午参观北京城市副中心，包括北京图书馆及中共北京市委规划展厅，形容副中心的整体规划经验对香港推动北部都会区有参考价值。他之后会见中共北京市委书记尹力及市长殷勇，双方就深化京港合作交换意见；他明日将出席第29届京港经贸合作洽谈会开幕式并演讲，之后转往上海。"
+    },
+    "tags": {
+      "en": [
+        "John Lee",
+        "Beijing",
+        "Northern Metropolis"
+      ],
+      "zh_hant": [
+        "李家超",
+        "北京",
+        "北部都會區"
+      ],
+      "zh_hans": [
+        "李家超",
+        "北京",
+        "北部都会区"
+      ]
+    }
+  },
+  {
+    "id": "20261103-dc-member-sentenced",
+    "category": "hk",
+    "published_at": "2026-11-03T16:14:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300454.htm"
+    },
+    "title": {
+      "en": "Yuen Long councillor Sei Chun-hing jailed 30 months over underage sex case, to lose seat",
+      "zh_hant": "元朗區議員施峻興與未成年少女案判囚兩年半　將喪失議席",
+      "zh_hans": "元朗区议员施峻兴与未成年少女案判囚两年半　将丧失议席"
+    },
+    "summary": {
+      "en": "The District Court today sentenced Yuen Long district councillor Sei Chun-hing to 30 months in prison after he was convicted of sexual intercourse with a girl under 16. Under the District Councils Ordinance, a councillor sentenced to more than three months without the option of a fine is disqualified, but as both sides may still appeal, the government said it will closely follow the judicial process; his councillor's honorarium has been suspended since his conviction on September 14.",
+      "zh_hant": "區域法院今日判處元朗區議員施峻興入獄兩年半，他早前被裁定與一名未滿16歲女童性交罪成。根據《區議會條例》，議員被判監超過三個月且沒有罰款選項即被取消資格，但由於控辯雙方仍可上訴，政府表示會密切跟進司法程序；他的議員酬金自9月14日被定罪後已被暫停發放。",
+      "zh_hans": "区域法院今日判处元朗区议员施峻兴入狱两年半，他早前被裁定与一名未满16岁女童性交罪成。根据《区议会条例》，议员被判监超过三个月且没有罚款选项即被取消资格，但由于控辩双方仍可上诉，政府表示会密切跟进司法程序；他的议员酬金自9月14日被定罪后已被暂停发放。"
+    },
+    "tags": {
+      "en": [
+        "District Council",
+        "sentencing",
+        "Sei Chun-hing"
+      ],
+      "zh_hant": [
+        "區議會",
+        "判刑",
+        "施峻興"
+      ],
+      "zh_hans": [
+        "区议会",
+        "判刑",
+        "施峻兴"
+      ]
+    }
+  },
+  {
+    "id": "20261103-state-council-finance-report",
+    "category": "china",
+    "published_at": "2026-11-03T18:11:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876408-20261103.htm"
+    },
+    "title": {
+      "en": "State Council financial report: moderately loose monetary policy to continue, property whitelist normalised",
+      "zh_hant": "國務院金融工作報告：續推適度寬鬆貨幣政策　房地產白名單常態化",
+      "zh_hans": "国务院金融工作报告：续推适度宽松货币政策　房地产白名单常态化"
+    },
+    "summary": {
+      "en": "The State Council's report on financial work was today submitted to the 25th session of the 14th National People's Congress Standing Committee for deliberation, setting out five priorities: continuing a moderately loose monetary policy, strengthening financial regulation including cracking down on illegal financial activities and exploring AI applications, better serving the real economy, deepening financial reform and opening-up, and steadily defusing risks in key areas. The report also proposes normalising the \"whitelist\" mechanism for property financing.",
+      "zh_hant": "國務院《金融工作情況報告》今日提請十四屆全國人大常委會第二十五次會議審議，提出下一步五方面金融工作：繼續實施適度寬鬆的貨幣政策、加強金融監管包括嚴打非法金融活動及探索人工智能應用、提升服務實體經濟的適配性，以及深化金融改革與開放、穩健化解重點領域風險。報告亦提出常態化運行房地產融資「白名單」機制。",
+      "zh_hans": "国务院《金融工作情况报告》今日提请十四届全国人大常委会第二十五次会议审议，提出下一步五方面金融工作：继续实施适度宽松的货币政策、加强金融监管包括严打非法金融活动及探索人工智能应用、提升服务实体经济的适配性，以及深化金融改革与开放、稳健化解重点领域风险。报告亦提出常态化运行房地产融资「白名单」机制。"
+    },
+    "tags": {
+      "en": [
+        "State Council",
+        "monetary policy",
+        "property"
+      ],
+      "zh_hant": [
+        "國務院",
+        "貨幣政策",
+        "房地產"
+      ],
+      "zh_hans": [
+        "国务院",
+        "货币政策",
+        "房地产"
+      ]
+    }
+  },
+  {
+    "id": "20261103-nonheritage-tourguide",
+    "category": "hk",
+    "published_at": "2026-11-03T18:44:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876412-20261103.htm"
+    },
+    "title": {
+      "en": "Travel regulator to launch intangible-heritage tour guide licence next year",
+      "zh_hant": "旅監局明年推「非遺」專項導遊牌照　首季起接受申請",
+      "zh_hans": "旅监局明年推「非遗」专项导游牌照　首季起接受申请"
+    },
+    "summary": {
+      "en": "The Travel Industry Authority plans to roll out a tour guide licence centred on intangible cultural heritage in phases next year, with applications opening in the first quarter; the first phase covers heritage festival projects such as the Cheung Chau Bun Festival and the Tai Hang Fire Dragon Dance. Some lawmakers asked whether the scope could be broadened to create more jobs for guides, while others raised concerns about unlicensed guides, which the government vowed not to tolerate.",
+      "zh_hant": "旅遊業監管局計劃明年分階段推出以「非物質文化遺產」為核心的專項導遊牌照，明年首季起接受申請；首階段涵蓋長洲太平清醮、中秋大坑舞火龍等非遺節慶項目。有議員關注牌照範圍能否擴闊以增加導遊就業機會，亦有議員關注非法導遊問題，政府強調絕不姑息。",
+      "zh_hans": "旅游业监管局计划明年分阶段推出以「非物质文化遗产」为核心的专项导游牌照，明年首季起接受申请；首阶段涵盖长洲太平清醮、中秋大坑舞火龙等非遗节庆项目。有议员关注牌照范围能否扩阔以增加导游就业机会，亦有议员关注非法导游问题，政府强调绝不姑息。"
+    },
+    "tags": {
+      "en": [
+        "tourism",
+        "intangible heritage",
+        "tour guides"
+      ],
+      "zh_hant": [
+        "旅遊",
+        "非遺",
+        "導遊"
+      ],
+      "zh_hans": [
+        "旅游",
+        "非遗",
+        "导游"
+      ]
+    }
+  },
+  {
+    "id": "20261103-apple-q4-earnings",
+    "category": "tech",
+    "published_at": "2026-11-03T09:30:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "Hongkong Invest",
+      "url": "https://hongkong-invest.com/%E8%98%8B%E6%9E%9C%E4%B8%8A%E5%AD%A3%E6%A5%AD%E7%B8%BE%E5%8B%9D%E9%A0%90%E6%9C%9F%E4%B8%BA%E5%89%B5%E6%96%B0%E9%AB%98%e3%80%80%E6%89%8B%E6%A9%9F%E9%8A%B7%E5%94%AE%E6%8C%89%E5%B9%B4%E5%8D%87%E9%80%BE17/"
+    },
+    "title": {
+      "en": "Apple Q4 beats expectations with record results; iPhone sales up over 17%",
+      "zh_hant": "蘋果上季業績創新高兼勝預期　iPhone銷售按年升逾17%",
+      "zh_hans": "苹果上季业绩创新高兼胜预期　iPhone销售按年升逾17%"
+    },
+    "summary": {
+      "en": "Apple reported fiscal Q4 2026 results with quarterly revenue of US$114.5 billion and net profit of US$30.71 billion, both up 12% year on year, and EPS of US$2.10 — all records beating market expectations. iPhone sales reached US$57.58 billion, up over 17%; Mac rose nearly 24% to US$10.79 billion while iPad fell over 10%; services revenue hit a record US$31.57 billion but grew at its slowest pace since 2022. Greater China revenue rose 21% to US$17.5 billion, below the expected US$18.75 billion; it is the first earnings report under new CEO John Ternus, and shares fell about 4% after hours.",
+      "zh_hant": "蘋果公布2026財年第四季業績，季度收入1,145億美元、純利307.1億美元，分別按年升12%，每股盈利2.1美元，三項均創歷史新高並勝過市場預期。iPhone銷售達575.8億美元，按年升逾17%；Mac升近24%至107.9億美元，iPad則跌逾10%；服務業務收入315.7億美元創新高，但增速是2022年以來最慢。大中華區收入175億美元升21%，惟低於預期的187.5億美元；這是新任行政總裁John Ternus上任後首份財報，盤後股價跌約4%。",
+      "zh_hans": "苹果公布2026财年第四季业绩，季度收入1,145亿美元、纯利307.1亿美元，分别按年升12%，每股盈利2.1美元，三项均创历史新高并胜过市场预期。iPhone销售达575.8亿美元，按年升逾17%；Mac升近24%至107.9亿美元，iPad则跌逾10%；服务业务收入315.7亿美元创新高，但增速是2022年以来最慢。大中华区收入175亿美元升21%，惟低于预期的187.5亿美元；这是新任行政总裁John Ternus上任后首份财报，盘后股价跌约4%。"
+    },
+    "tags": {
+      "en": [
+        "Apple",
+        "earnings",
+        "iPhone"
+      ],
+      "zh_hant": [
+        "蘋果",
+        "業績",
+        "iPhone"
+      ],
+      "zh_hans": [
+        "苹果",
+        "业绩",
+        "iPhone"
+      ]
+    }
+  },
+  {
+    "id": "20261103-hk-stocks-close",
+    "category": "finance",
+    "published_at": "2026-11-03T16:21:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "證券時報網",
+      "url": "https://www.cs.com.cn/gppd/ggzx/2026/11/03/detail_2026110310049491.html"
+    },
+    "title": {
+      "en": "Hang Seng Index closes up 0.57% at 23,525",
+      "zh_hant": "港股收市升0.57%　恒指報23525點",
+      "zh_hans": "港股收市升0.57%　恒指报23525点"
+    },
+    "summary": {
+      "en": "Hong Kong stocks closed higher today, with the Hang Seng Index up 0.57% at 23,525.97; the Hang Seng Tech Index gained 0.74% and the H-share index added 0.47%. Tech stocks were mostly higher — JD.com rose over 5% and NetEase nearly 3%, while Lenovo fell over 6%; pork producers strengthened in the afternoon with Muyuan up over 6%, and insurers were active with CPIC up over 4%. Optical communications stocks slumped, with Zhongji Innolight down over 10% on news of Marvell's acquisition of Lumentum.",
+      "zh_hant": "港股今日收市做好，恒生指數升0.57%，報23,525.97點；恒生科技指數升0.74%，國企指數升0.47%。科網股漲多跌少，京東升超5%、網易升近3%，聯想則跌超6%；豬肉股午後走強，牧原升超6%；保險股亦表現活躍，中國太保升超4%。光通信板塊下挫，中際旭創跌超10%，市場指與Marvell收購Lumentum的消息有關。",
+      "zh_hans": "港股今日收市做好，恒生指数升0.57%，报23,525.97点；恒生科技指数升0.74%，国企指数升0.47%。科网股涨多跌少，京东升超5%、网易升近3%，联想则跌超6%；猪肉股午后走强，牧原升超6%；保险股亦表现活跃，中国太保升超4%。光通信板块下挫，中际旭创跌超10%，市场指与Marvell收购Lumentum的消息有关。"
+    },
+    "tags": {
+      "en": [
+        "HK stocks",
+        "Hang Seng Index",
+        "market close"
+      ],
+      "zh_hant": [
+        "港股",
+        "恒指",
+        "收市"
+      ],
+      "zh_hans": [
+        "港股",
+        "恒指",
+        "收市"
+      ]
+    }
+  },
+  {
+    "id": "20261103-kim-yoo-jung-taiwan",
+    "category": "entertainment",
+    "published_at": "2026-11-03T17:24:00+08:00",
+    "image_url": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vx5LHZUQIDIJtK_rO71XHrb392UUVBerRm77xGy-DfTo5eRKsOcBesg1j6mrKsAXlTloxpXTX9D5wV0avzbzYMmrT4c1JSvUsZ-bHfE2D2TsscohQu_FIL2ubdID-c2e4x-clUqgjc2aYyGY8d1PhAT_NiSj8nDjI_stBpJQ=w1200-h630-p-k-no-nu",
+    "image_caption": "金裕貞今日旋風來台，以品牌形象大使身份出席記者會。（Wow!NEWS）",
+    "source": {
+      "name": "Wow!NEWS",
+      "url": "https://www.wownews.tw/2026/11/blog-post_03.html"
+    },
+    "title": {
+      "en": "Kim Yoo-jung makes whirlwind Taiwan visit, raves about local beef noodles",
+      "zh_hant": "金裕貞旋風訪台出席品牌活動　大讚台灣牛肉麵超好吃",
+      "zh_hans": "金裕贞旋风访台出席品牌活动　大赞台湾牛肉面超好吃"
+    },
+    "summary": {
+      "en": "South Korean actress Kim Yoo-jung made a whirlwind visit to Taiwan today as brand ambassador for \"JUVELOOK\", attending a press conference. She revealed she tried local beef noodles the moment she arrived last night, calling them \"so delicious\" and joking she would keep eating them throughout her stay. Her recent drama \"Hundred-Day Lies\" has been generating buzz online.",
+      "zh_hant": "韓國演員金裕貞今日以「JUVELOOK 喬雅露」品牌形象大使身份旋風來台出席記者會。她透露昨晚一抵台就搶先品嚐地道牛肉麵，直呼「超好吃」，笑言「接下來在台灣的時間我都要繼續吃牛肉麵」。她近期主演的新劇《百日謊言》引發社群熱議。",
+      "zh_hans": "韩国演员金裕贞今日以「JUVELOOK 乔雅露」品牌形象大使身份旋风来台出席记者会。她透露昨晚一抵台就抢先品尝地道牛肉面，直呼「超好吃」，笑言「接下来在台湾的时间我都要继续吃牛肉面」。她近期主演的新剧《百日谎言》引发社群热议。"
+    },
+    "tags": {
+      "en": [
+        "Kim Yoo-jung",
+        "Taiwan",
+        "K-drama"
+      ],
+      "zh_hant": [
+        "金裕貞",
+        "台灣",
+        "韓劇"
+      ],
+      "zh_hans": [
+        "金裕贞",
+        "台湾",
+        "韩剧"
+      ]
+    }
+  },
+  {
+    "id": "20261103-ukraine-aid-point-strike",
+    "category": "world",
+    "published_at": "2026-11-03T14:16:00+08:00",
+    "image_url": "https://news-data.pts.org.tw/media/300457/conversions/g6kd951kbclA6oICzAmgjmLGoio9viVP9CguXYLk-og_jpg.jpg",
+    "image_caption": "札波羅熱一處人道救援據點遭轟炸後，救援人員在現場搜救。（公視新聞）",
+    "source": {
+      "name": "公視新聞",
+      "url": "https://news.pts.org.tw/article/834026"
+    },
+    "title": {
+      "en": "Russian strike on Ukraine humanitarian aid point kills at least 26; Zelenskyy condemns 'vile terror'",
+      "zh_hant": "烏克蘭人道救援據點遭轟炸　至少26死澤倫斯基斥卑劣恐攻",
+      "zh_hans": "乌克兰人道救援据点遭轰炸　至少26死泽伦斯基斥卑劣恐攻"
+    },
+    "summary": {
+      "en": "A humanitarian aid point in Zaporizhzhia, southeastern Ukraine, was hit by successive Russian strikes on November 2, killing at least 26 people and injuring five. President Volodymyr Zelenskyy condemned it as a \"vile act of terror\" by Russian forces, showing Moscow has no intention of de-escalating toward peace; Russia has not responded to the strikes.",
+      "zh_hant": "烏克蘭東南部札波羅熱一處人道救援據點，本月2日遭俄軍連續轟炸，造成至少26人死亡、5人受傷。總統澤倫斯基痛批這是俄軍「卑劣的恐怖攻擊行徑」，顯示俄方根本無意降溫尋求和平；俄軍至今未對空襲作出回應。",
+      "zh_hans": "乌克兰东南部札波罗热一处人道救援据点，本月2日遭俄军连续轰炸，造成至少26人死亡、5人受伤。总统泽伦斯基痛批这是俄军「卑劣的恐怖攻击行径」，显示俄方根本无意降温寻求和平；俄军至今未对空袭作出回应。"
+    },
+    "tags": {
+      "en": [
+        "Ukraine",
+        "Russia",
+        "Zaporizhzhia"
+      ],
+      "zh_hant": [
+        "烏克蘭",
+        "俄羅斯",
+        "札波羅熱"
+      ],
+      "zh_hans": [
+        "乌克兰",
+        "俄罗斯",
+        "札波罗热"
+      ]
+    }
   }
 ]
