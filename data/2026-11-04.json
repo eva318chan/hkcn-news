@@ -1,5 +1,43 @@
 [
   {
+    "id": "20261104-sced-apec-mm",
+    "category": "hk",
+    "published_at": "2026-11-04T00:03:00+08:00",
+    "image_url": "https://gia.info.gov.hk/general/202611/04/P2026110300385_photo_1342802.jpg",
+    "image_caption": "商務及經濟發展局局長丘應樺昨晚以視像方式出席第三十七屆亞太經合組織部長級會議。（政府新聞處）",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110300385.htm"
+    },
+    "title": {
+      "en": "SCED joins 37th APEC Ministerial Meeting by video, urges people-centred digital cooperation",
+      "zh_hant": "商經局局長視像出席第三十七屆APEC部長級會議　倡以人為本深化數字合作",
+      "zh_hans": "商经局局长视像出席第三十七届APEC部长级会议　倡以人为本深化数字合作"
+    },
+    "summary": {
+      "en": "Secretary for Commerce and Economic Development Algernon Yau last night (November 3) attended the 37th APEC Ministerial Meeting held by video conference. Under this year's APEC China theme of building an Asia-Pacific community for shared prosperity, he said member economies must act together through dialogue and cooperation, and called for practical collaboration on digital transformation in a people-centred and inclusive way. Hong Kong is strengthening research in frontier technologies and promoting public awareness and responsible use of AI, he added. He also urged members to deepen connectivity in the flows of goods, services, capital and people, pursue economic integration and advance the Free Trade Area of the Asia-Pacific agenda, noting Hong Kong is actively seeking early accession to RCEP.",
+      "zh_hant": "商務及經濟發展局局長丘應樺昨晚（11月3日）以視像方式出席第三十七屆亞太經合組織部長級會議。今年亞太經合組織中國年主題為「建設亞太共同體，促進共同繁榮」，丘應樺在討論環節強調，面對瞬息萬變的局勢及科技迅速發展，成員經濟體須加強對話與合作攜手實現共同繁榮；他以數字轉型為例，呼籲各方以人為本、具包容性的方式務實合作，發揮各自數字科技優勢。香港正加強前沿科技研究能力，並推出計劃促進公眾認識及負責任地使用人工智能。他又呼籲成員經濟體繼續加強各領域互聯互通，促進貨物、服務、資金及人員有效流動，縮小發展差距，並繼續推動亞太自由貿易區議程，香港正積極爭取盡早加入《區域全面經濟伙伴關係協定》。",
+      "zh_hans": "商务及经济发展局局长丘应桦昨晚（11月3日）以视像方式出席第三十七届亚太经合组织部长级会议。今年亚太经合组织中国年主题为「建设亚太共同体，促进共同繁荣」，丘应桦在讨论环节强调，面对瞬息万变的局势及科技迅速发展，成员经济体须加强对话与合作携手实现共同繁荣；他以数字转型为例，呼吁各方以人为本、具包容性的方式务实合作，发挥各自数字科技优势。香港正加强前沿科技研究能力，并推出计划促进公众认识及负责任地使用人工智能。他又呼吁成员经济体继续加强各领域互联互通，促进货物、服务、资金及人员有效流动，缩小发展差距，并继续推动亚太自由贸易区议程，香港正积极争取尽早加入《区域全面经济伙伴关系协定》。"
+    },
+    "tags": {
+      "en": [
+        "APEC",
+        "Algernon Yau",
+        "ministerial meeting"
+      ],
+      "zh_hant": [
+        "亞太經合組織",
+        "丘應樺",
+        "部長級會議"
+      ],
+      "zh_hans": [
+        "亚太经合组织",
+        "丘应桦",
+        "部长级会议"
+      ]
+    }
+  },
+  {
     "id": "20261104-hkia-trunk-branch",
     "category": "hk",
     "published_at": "2026-11-03T23:15:00+08:00",
