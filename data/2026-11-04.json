@@ -1,5 +1,271 @@
 [
  {
+  "id": "20261104-legco-lift-supervision",
+  "category": "society",
+  "published_at": "2026-11-04T12:41:00+08:00",
+  "image_url": "",
+  "image_caption": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400276.htm"
+  },
+  "title": {
+   "en": "LegCo presses for stronger supervision of lift works; three-tier inspection required for new lifts",
+   "zh_hant": "議員促加強升降機工程監管　發展局：新裝升降機須經三級檢驗始發准用證",
+   "zh_hans": "议员促加强升降机工程监管　发展局：新装升降机须经三级检验始发准用证"
+  },
+  "summary": {
+   "en": "The Development Bureau told the Legislative Council that every newly installed lift must pass a three-tier inspection - self-inspection by the registered contractor, thorough examination by a registered engineer, and on-site re-inspection and functional testing of all safety components by the Electrical and Mechanical Services Department - before a use permit is issued. The question, raised by lawmaker Holden Chow, cited recently uncovered deficiencies in lift works at housing estates, including lifts installed without fire-resisting doors and door frame components to specification, as well as frequent breakdowns of new lifts at Queen Mary Hospital's new Clinical Block due to shaft deviations and installation problems.",
+   "zh_hant": "發展局局長甯漢豪書面回覆立法會表示，每部新裝升降機須經過三級檢驗——註冊承辦商自行檢查、註冊工程師全面檢驗，以及機電署對所有安全部件實地覆檢和功能測試——全部合格後才會發出准用證。質詢由議員周浩鼎提出，引述近日多個屋苑及大廈升降機工程被揭發嚴重缺失，包括未按規格安裝耐火門和門框組件；瑪麗醫院新臨床大樓多部新裝升降機亦因井道尺寸偏差、歪斜及安裝問題頻繁故障。",
+   "zh_hans": "发展局局长甯汉豪书面回复立法会表示，每部新装升降机须经过三级检验——注册承办商自行检查、注册工程师全面检验，以及机电署对所有安全部件实地覆检和功能测试——全部合格后才会发出准用证。质询由议员周浩鼎提出，引述近日多个屋苑及大厦升降机工程被揭发严重缺失，包括未按规格安装耐火门和门框组件；玛丽医院新临床大楼多部新装升降机亦因井道尺寸偏差、歪斜及安装问题频繁故障。"
+  },
+  "tags": {
+   "en": [
+    "lift safety",
+    "LegCo",
+    "EMSD"
+   ],
+   "zh_hant": [
+    "升降機",
+    "立法會",
+    "機電署"
+   ],
+   "zh_hans": [
+    "升降机",
+    "立法会",
+    "机电署"
+   ]
+  }
+ },
+ {
+  "id": "20261104-legco-eastdam-visitors",
+  "category": "society",
+  "published_at": "2026-11-04T12:40:00+08:00",
+  "image_url": "",
+  "image_caption": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400345.htm"
+  },
+  "title": {
+   "en": "LegCo questions East Dam visitor management; government to review Po Pin Chau booking trial",
+   "zh_hant": "議員關注東壩遊客分流　環境局：檢討破邊洲預約制　研長遠郊野管理策略",
+   "zh_hans": "议员关注东坝游客分流　环境局：检讨破边洲预约制　研长远郊野管理策略"
+  },
+  "summary": {
+   "en": "Secretary for Environment and Ecology Tse Chin-wan told the Legislative Council the government will review the trial online reservation system for the Po Pin Chau section of the High Island Geo Trail at Sai Kung's East Dam and formulate a long-term country park management strategy. An interdepartmental working group chaired by the Chief Secretary for Administration co-ordinated visitor flow, transport support and facility capacity during the Golden Week period, while the Agriculture, Fisheries and Conservation Department rolled out targeted measures on management, nature conservation and visitor education at the East Dam. The question also asked about the government's 2019 plan to develop Pak Tam Chung into a green tourism hub.",
+   "zh_hant": "環境及生態局局長謝展寰在立法會表示，政府待西貢萬宜水庫東壩萬宜地質步道破邊洲段的網上預約制試驗結束後，會總結經驗並制訂長遠郊野管理策略。由政務司司長主持的節慶安排跨部門工作小組已在黃金周期間統籌遊客分流、交通配套、設施承載及宣傳教育，漁護署亦就東壩的管理、自然保育及遊客教育制訂針對性措施。質詢亦關注政府二○一九年提出研究發展北潭涌成為綠色旅遊樞紐的進展。",
+   "zh_hans": "环境及生态局局长谢展寰在立法会表示，政府待西贡万宜水库东坝万宜地质步道破边洲段的网上预约制试验结束后，会总结经验并制订长远郊野管理策略。由政务司司长主持的节日安排跨部门工作小组已在黄金周期间统筹游客分流、交通配套、设施承载及宣传教育，渔护署亦就东坝的管理、自然保育及游客教育制订针对性措施。质询亦关注政府二○一九年提出研究发展北潭涌成为绿色旅游枢纽的进展。"
+  },
+  "tags": {
+   "en": [
+    "East Dam",
+    "Po Pin Chau",
+    "eco-tourism"
+   ],
+   "zh_hant": [
+    "東壩",
+    "破邊洲",
+    "綠色旅遊"
+   ],
+   "zh_hans": [
+    "东坝",
+    "破边洲",
+    "绿色旅游"
+   ]
+  }
+ },
+ {
+  "id": "20261104-legco-digital-assets",
+  "category": "finance",
+  "published_at": "2026-11-04T12:30:00+08:00",
+  "image_url": "",
+  "image_caption": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400341.htm"
+  },
+  "title": {
+   "en": "LegCo briefed on digital asset policy progress; bill to extend VA regulation by year-end",
+   "zh_hant": "立法會質詢數字資產政策　陳浩濂：年底前提交修例草案　虛擬資產監管擴至交易託管",
+   "zh_hans": "立法会质询数字资产政策　陈浩濂：年底前提交修例草案　虚拟资产监管扩至交易托管"
+  },
+  "summary": {
+   "en": "Acting Secretary for Financial Services and the Treasury Joseph Chan told the Legislative Council the government will introduce a bill by the end of the year to amend the Anti-Money Laundering and Counter-Terrorist Financing Ordinance, extending the existing regulatory regime for virtual asset trading platforms to dealing, advisory, management and custody services. He said the government issued its fourth batch of tokenised government bonds, worth about HK$20 billion, in September, and is advancing a legislative review to promote wider use of distributed ledger technology in the fixed income market. The reply addressed the LEAP framework under the Policy Statement 2.0 on the Development of Digital Assets, covering regulatory streamlining, tokenised products, use cases and talent development.",
+   "zh_hant": "署理財經事務及庫務局局長陳浩濂在立法會表示，政府年底前會向立法會提交修訂《打擊洗錢及恐怖分子資金籌集條例》草案，將虛擬資產交易平台現有監管制度，擴展至虛擬資產的交易、諮詢、管理及託管服務。他又指政府9月已發行第四批代幣化政府債券，總值約200億港元，並正推進立法檢討，促進分布式分類賬技術在定息市場及數字資產領域更廣泛應用。回覆是回應議員陳曉峰就《香港數字資產發展政策宣言2.0》下「LEAP」框架四個範疇進展的質詢。",
+   "zh_hans": "署理财经事务及库务局局长陈浩濂在立法会表示，政府年底前会向立法会提交修订《打击洗钱及恐怖分子资金筹集条例》草案，将虚拟资产交易平台现有监管制度，扩展至虚拟资产的交易、咨询、管理及托管服务。他又指政府9月已发行第四批代币化政府债券，总值约200亿港元，并正推进立法检讨，促进分布式分类账技术在定息市场及数字资产领域更广泛应用。回复是回应议员陈晓峰就《香港数字资产发展政策宣言2.0》下「LEAP」框架四个范畴进展的质询。"
+  },
+  "tags": {
+   "en": [
+    "digital assets",
+    "virtual assets",
+    "LegCo"
+   ],
+   "zh_hant": [
+    "數字資產",
+    "虛擬資產",
+    "立法會"
+   ],
+   "zh_hans": [
+    "数字资产",
+    "虚拟资产",
+    "立法会"
+   ]
+  }
+ },
+ {
+  "id": "20261104-legco-three-instruments",
+  "category": "society",
+  "published_at": "2026-11-04T12:05:00+08:00",
+  "image_url": "",
+  "image_caption": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400223.htm"
+  },
+  "title": {
+   "en": "LegCo urges promotion of \"three instruments of peace\"; no pressing need to amend EPA law",
+   "zh_hant": "議員促推廣「平安三寶」　孫玉菡：無迫切需要修例擴持久授權書涵蓋個人照顧",
+   "zh_hans": "议员促推广「平安三宝」　孙玉菡：无迫切需要修例扩持久授权书涵盖个人照顾"
+  },
+  "summary": {
+   "en": "Secretary for Labour and Welfare Chris Sun told the Legislative Council in a written reply that the government sees no pressing need to amend the law to extend enduring powers of attorney to cover a donor's personal care, since arrangements covering such matters generally already involve the use of the donor's income or capital. He set out the legal bases of the \"three instruments of peace\" - wills under the Wills Ordinance, enduring powers of attorney under the Enduring Powers of Attorney Ordinance, and advance medical directives under the Advance Decision on Life-sustaining Treatment Ordinance. The reply also addressed proposals for an official voluntary registration system for the three instruments and cross-boundary recognition within the Greater Bay Area.",
+   "zh_hant": "勞工及福利局局長孫玉菡書面回覆立法會，指政府認為現階段無迫切需要修例，將持久授權書涵蓋範圍擴至授權人的個人照顧事宜，因為有關安排一般已涉及動用授權人的收入或資金。他闡述「平安三寶」——遺囑、持久授權書及預設醫療指示——的法律基礎，分別是《遺囑條例》、《持久授權書條例》及《維持生命治療的預作決定條例》。回覆亦回應了議員林琳就設立官方自願登記系統、粵港澳大灣區跨境互認等建議。",
+   "zh_hans": "劳工及福利局局长孙玉菡书面回复立法会，指政府认为现阶段无迫切需要修例，将持久授权书涵盖范围扩至授权人的个人照顾事宜，因为有关安排一般已涉及动用授权人的收入或资金。他阐述「平安三宝」——遗嘱、持久授权书及预设医疗指示——的法律基础，分别是《遗嘱条例》、《持久授权书条例》及《维持生命治疗的预作决定条例》。回复亦回应了议员林琳就设立官方自愿登记系统、粤港澳大湾区跨境互认等建议。"
+  },
+  "tags": {
+   "en": [
+    "three instruments of peace",
+    "wills",
+    "LegCo"
+   ],
+   "zh_hant": [
+    "平安三寶",
+    "遺囑",
+    "立法會"
+   ],
+   "zh_hans": [
+    "平安三宝",
+    "遗嘱",
+    "立法会"
+   ]
+  }
+ },
+ {
+  "id": "20261104-cheong-cyberport-forum",
+  "category": "tech",
+  "published_at": "2026-11-04T11:52:00+08:00",
+  "image_url": "",
+  "image_caption": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400309.htm"
+  },
+  "title": {
+   "en": "Acting innovation chief: over 5,200 start-ups in Hong Kong; government investment to mobilise private capital",
+   "zh_hant": "署理創科局局長：本港初創逾5,200間　加強政府投資帶動私人資本",
+   "zh_hans": "署理创科局局长：本港初创逾5,200间　加强政府投资带动私人资本"
+  },
+  "summary": {
+   "en": "The Acting Secretary for Innovation, Technology and Industry told the Cyberport Venture & Capital Forum 2026 that Hong Kong's start-up ecosystem now counts more than 5,200 start-ups, up 11 per cent from last year, with Hong Kong Science Park and Cyberport together nurturing about 20 unicorns. She said the enhanced Innovation and Technology Venture Fund will see government provision rise to HK$2.5 billion, expected to leverage at least HK$7.5 billion in market capital, while the new HK$10 billion industry-oriented fund is expected to reach at least HK$40 billion including market contributions. This year's forum, themed \"Scaling in a Changing World: Winning the Next Competitive Cycle\", explores how enterprises can scale across the Greater Bay Area, the Middle East, ASEAN and Central Asia.",
+   "zh_hant": "署理創新科技及工業局局長在數碼港創業投資論壇2026致辭時表示，本港初創企業已超過5,200間，按年增11%，科學園與數碼港合共培育約20間獨角獸。她指優化後的「創科創投基金」政府承擔額將增至25億元，預計帶動至少75億元市場資金；新設100億元「創科產業引導基金」連同市場資金，總規模預計不少於400億元。今年論壇主題為「Scaling in a Changing World: Winning the Next Competitive Cycle」，探討企業如何拓展大灣區、中東、東盟及中亞市場。",
+   "zh_hans": "署理创新科技及工业局局长在数码港创业投资论坛2026致辞时表示，本港初创企业已超过5,200间，按年增11%，科学园与数码港合共培育约20间独角兽。她指优化后的「创科创投基金」政府承担额将增至25亿元，预计带动至少75亿元市场资金；新设100亿元「创科产业引导基金」连同市场资金，总规模预计不少于400亿元。今年论坛主题为「Scaling in a Changing World: Winning the Next Competitive Cycle」，探讨企业如何拓展大湾区、中东、东盟及中亚市场。"
+  },
+  "tags": {
+   "en": [
+    "start-ups",
+    "Cyberport",
+    "AI"
+   ],
+   "zh_hant": [
+    "初創",
+    "數碼港",
+    "創科"
+   ],
+   "zh_hans": [
+    "初创",
+    "数码港",
+    "创科"
+   ]
+  }
+ },
+ {
+  "id": "20261104-chan-connoisseurs-festival",
+  "category": "entertainment",
+  "published_at": "2026-11-04T11:42:00+08:00",
+  "image_url": "",
+  "image_caption": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400305.htm"
+  },
+  "title": {
+   "en": "Paul Chan opens inaugural Festival of Connoisseurs, highlights yacht economy potential",
+   "zh_hant": "陳茂波為首屆「Festival of Connoisseurs」開幕　展超級遊艇跑車　倡發展遊艇經濟",
+   "zh_hans": "陈茂波为首届「Festival of Connoisseurs」开幕　展超级游艇跑车　倡发展游艇经济"
+  },
+  "summary": {
+   "en": "Financial Secretary Paul Chan officiated at the grand opening of the inaugural Festival of Connoisseurs at AsiaWorld-Expo, an exhibition showcasing superyachts, supercars, private jets, fine jewellery and exceptional wines. He said Hong Kong's convention and exhibition industry contributed more than HK$50 billion to the economy, and that the festival is the first event under the Budget's HK$100 million initiative to attract high-quality international exhibitions. Chan also highlighted the potential of Hong Kong's yacht economy, noting the Airport Authority's Skytopia project plans to provide 500 yacht berths, with northbound yacht travel having begun in June and the first batch of southbound yachts from Guangdong arriving under a new scheme.",
+   "zh_hant": "財政司司長陳茂波為在亞洲國際博覽館舉行的首屆「Festival of Connoisseurs」開幕禮主禮，展品包括超級遊艇、超級跑車、私人飛機、名貴珠寶及美酒。他指會展業為本港經濟貢獻逾500億元，本屆活動是財政預算案1億元吸引優質國際展覽計劃下的首個項目。陳茂波又提到本港遊艇經濟具潛力，機管局Skytopia項目計劃提供500個遊艇泊位，北上遊艇航行已於6月展開，首批南下廣東遊艇亦已按新計劃抵港。",
+   "zh_hans": "财政司司长陈茂波为在亚洲国际博览馆举行的首届「Festival of Connoisseurs」开幕礼主礼，展品包括超级游艇、超级跑车、私人飞机、名贵珠宝及美酒。他指会展业为本港经济贡献逾500亿元，本届活动是财政预算案1亿元吸引优质国际展览计划下的首个项目。陈茂波又提到本港游艇经济具潜力，机管局Skytopia项目计划提供500个游艇泊位，北上游艇航行已于6月展开，首批南下广东游艇亦已按新计划抵港。"
+  },
+  "tags": {
+   "en": [
+    "Paul Chan",
+    "exhibitions",
+    "yacht economy"
+   ],
+   "zh_hant": [
+    "陳茂波",
+    "會展",
+    "遊艇經濟"
+   ],
+   "zh_hans": [
+    "陈茂波",
+    "会展",
+    "游艇经济"
+   ]
+  }
+ },
+ {
+  "id": "20261104-legco-ticket-scalping",
+  "category": "society",
+  "published_at": "2026-11-04T11:35:00+08:00",
+  "image_url": "",
+  "image_caption": "",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400259.htm"
+  },
+  "title": {
+   "en": "LegCo raises concert ticket scalping concerns; bureau studying countermeasures with mainland reference",
+   "zh_hant": "議員關注演唱會「黃牛飛」　羅淑佩：借鏡內地做法　研究打擊炒賣",
+   "zh_hans": "议员关注演唱会「黄牛飞」　罗淑佩：借镜内地做法　研究打击炒卖"
+  },
+  "summary": {
+   "en": "Secretary for Culture, Sports and Tourism Rosanna Law said in a written reply that the government has been concerned about ticket scalping and fake tickets, and is studying how to tackle the problem with reference to practices on the Chinese Mainland and elsewhere. She noted the existing Places of Public Entertainment Ordinance prohibits reselling tickets above face value, with offenders liable to a HK$2,000 fine on summary conviction, while the Leisure and Cultural Services Department deploys extra staff to patrol venue areas during performances. The question, raised by Reverend Canon Peter Douglas Koon, cited reports that fans could not buy tickets for a South Korean boy group's November concert through official channels, with scalpers marking prices up to three times the original.",
+   "zh_hant": "文化體育及旅遊局局長羅淑佩書面回覆立法會，表示政府一直關注門票炒賣及假飛問題，並正借鏡內地及其他地方的做法，研究如何打擊炒賣。她指出，現行《公眾娛樂場所條例》禁止以高於票面價值轉售門票，違者一經定罪最高可罰款2,000元；康文署亦會在演出期間加派人手在場地範圍巡邏。質詢由議員管浩鳴提出，引述報道指大批歌迷無法經官方渠道購買一個南韓男團本月在港演唱會的門票，黃牛黨其後更將票價炒高至原價三倍或以上。",
+   "zh_hans": "文化体育及旅游局局长罗淑佩书面回复立法会，表示政府一直关注门票炒卖及假飞问题，并正借镜内地及其他地方的做法，研究如何打击炒卖。她指出，现行《公众娱乐场所条例》禁止以高于票面价值转售门票，违者一经定罪最高可罚款2,000元；康文署亦会在演出期间加派人手在场地范围巡逻。质询由议员管浩鸣提出，引述报道指大批歌迷无法经官方渠道购买一个南韩男团本月在港演唱会的门票，黄牛党其后更将票价炒高至原价三倍以上。"
+  },
+  "tags": {
+   "en": [
+    "ticket scalping",
+    "concerts",
+    "LegCo"
+   ],
+   "zh_hant": [
+    "黃牛飛",
+    "演唱會",
+    "立法會"
+   ],
+   "zh_hans": [
+    "黄牛飞",
+    "演唱会",
+    "立法会"
+   ]
+  }
+ },
+ {
   "id": "20261104-fs-investment-summit-keynote",
   "category": "finance",
   "published_at": "2026-11-04T10:20:00+08:00",
