@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://hkcn-news.vercel.app/</loc><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261104-nikkei-midday-plunge.html</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261104-fs-investment-summit-keynote.html</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261104-lee-beijing-hk-fair.html</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261104-china-services-pmi-oct.html</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261104-acting-ce-university-forum.html</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261104-pboc-buyback-loan-rate-cut.html</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261104-hk-pmi-oct.html</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hkcn-news.vercel.app/a/20261104-korea-ai-budget-lee.html</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hkcn-news.vercel.app/a/20261104-japan-korea-stocks-open.html</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hkcn-news.vercel.app/a/20261104-kimjongun-nampo-shipyard.html</loc><lastmod>2026-11-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
