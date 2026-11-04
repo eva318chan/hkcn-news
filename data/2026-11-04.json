@@ -1,5 +1,166 @@
 [
   {
+    "id": "20261104-korea-ai-budget-lee",
+    "category": "world",
+    "published_at": "2026-11-04T08:33:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876474-20261104.htm"
+    },
+    "title": {
+      "en": "South Korea to double AI and chip spending next year; president vows growth shared by all",
+      "zh_hant": "韓國明年AI及半導體開支倍增　總統：增長須轉向全民共享",
+      "zh_hans": "韩国明年AI及半导体开支倍增　总统：增长须转向全民共享"
+    },
+    "summary": {
+      "en": "South Korean President Lee Jae-myung said in a budget address to parliament that spending on artificial intelligence and semiconductors will double next year, arguing the country must fully transform and narrow polarisation so economic growth is shared by all rather than concentrated among a few. He also announced an 8.2% rise in the defence budget, reaffirming 'self-reliant defence' as the ultimate goal, and has repeatedly said Seoul must retake wartime operational control from the US as soon as possible. Local media said the speech once again showed his determination.",
+      "zh_hant": "韓國總統李在明日前向國會發表預算案施政演說，宣布明年用於人工智能和半導體領域的開支會按年增加一倍；又強調國家必須全面轉型、減低兩極分化，經濟增長要由以往只集中於少數人，轉向全民共享。另一方面，李在明宣布明年國防預算將按年增加8.2%，重申以「防衛自主」作為終極目標；他較早前多次提及，必須盡快從美國手中收回「戰時作戰指揮權」。有韓國傳媒分析認為，這次演說一再反映他的決心。",
+      "zh_hans": "韩国总统李在明日前面向国会发表预算案施政演说，宣布明年用于人工智能和半导体领域的开支会按年增加一倍；又强调国家必须全面转型、降低两极分化，经济增长要由以往只集中于少数人，转向全民共享。另一方面，李在明宣布明年国防预算将按年增加8.2%，重申以「防卫自主」作为终极目标；他较早前多次提及，必须尽快从美国手中收回「战时作战指挥权」。有韩国传媒分析认为，这次演说一再反映他的决心。"
+    },
+    "tags": {
+      "en": [
+        "South Korea",
+        "Lee Jae-myung",
+        "AI spending",
+        "defence budget"
+      ],
+      "zh_hant": [
+        "韓國",
+        "李在明",
+        "AI開支",
+        "國防預算"
+      ],
+      "zh_hans": [
+        "韩国",
+        "李在明",
+        "AI开支",
+        "国防预算"
+      ]
+    }
+  },
+  {
+    "id": "20261104-japan-korea-stocks-open",
+    "category": "finance",
+    "published_at": "2026-11-04T08:07:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876472-20261104.htm"
+    },
+    "title": {
+      "en": "Nikkei reopens lower, down over 0.3%; Seoul shares rebound about 3%",
+      "zh_hant": "日股復市初段跌逾0.3%　韓股反彈約3%",
+      "zh_hans": "日股复市初段跌逾0.3%　韩股反弹约3%"
+    },
+    "summary": {
+      "en": "Japanese and South Korean shares diverged in early trading. The Nikkei reopened after a holiday at 62,876, down 205 points or 0.33%, while Seoul's composite index climbed 161 points to 5,810, a gain of 2.86%.",
+      "zh_hant": "日韓股市今早初段個別發展。日經指數復市，較早時報62876點，跌205點，跌幅0.33%；首爾綜合指數報5810點，升161點，升幅2.86%。",
+      "zh_hans": "日韩股市今早初段个别发展。日经指数复市，较早时报62876点，跌205点，跌幅0.33%；首尔综合指数报5810点，升161点，升幅2.86%。"
+    },
+    "tags": {
+      "en": [
+        "Nikkei",
+        "KOSPI",
+        "Asian markets"
+      ],
+      "zh_hant": [
+        "日經指數",
+        "韓股",
+        "亞洲股市"
+      ],
+      "zh_hans": [
+        "日经指数",
+        "韩股",
+        "亚洲股市"
+      ]
+    }
+  },
+  {
+    "id": "20261104-kimjongun-nampo-shipyard",
+    "category": "world",
+    "published_at": "2026-11-04T08:05:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876473-20261104.htm"
+    },
+    "title": {
+      "en": "Kim Jong Un visits Nampo shipyard, says North Korea must have the strongest warships",
+      "zh_hant": "金正恩視察南浦造船廠　強調有必要擁有最強大軍艦",
+      "zh_hans": "金正恩视察南浦造船厂　强调有必要拥有最强大军舰"
+    },
+    "summary": {
+      "en": "North Korean leader Kim Jong Un visited the Nampo shipyard on Monday, state media KCNA reported. He said building a naval force that enemies dare not provoke requires an advanced, high-tech shipbuilding base, and that the current geopolitical environment and hostile actions by adversaries make possessing the most advanced and powerful warships more urgent than ever, to defend the country, safeguard sovereignty and deter all threats. The report said the shipyard is pressing ahead with modernising its production processes, and new warship construction is proceeding smoothly.",
+      "zh_hant": "朝中社報道，朝鮮勞動黨總書記、國務委員長金正恩星期一視察南浦造船廠。金正恩說，要建設敵人不敢侵犯的強大海軍力量，就必須擁有先進的高技術造船基地；又說當前地緣政治環境和對手敵對行為說明，擁有最先進、最強大軍艦的必要性迫切性比任何時候都更加突出，強調要保衛祖國、保障主權、遏制一切威脅。報道說，南浦造船廠正全力推進生產工序的現代化升級，新軍艦建造順利推進。",
+      "zh_hans": "朝中社报道，朝鲜劳动党总书记、国务委员长金正恩星期一视察南浦造船厂。金正恩说，要建设敌人不敢侵犯的强大海军力量，就必须拥有先进的高技术造船基地；又说当前地缘政治环境和对手敌对行为说明，拥有最先进、最强大军舰的必要性迫切性比任何时候都更加突出，强调要保卫祖国、保障主权、遏制一切威胁。报道说，南浦造船厂正全力推进生产工序的现代化升级，新军舰建造顺利推进。"
+    },
+    "tags": {
+      "en": [
+        "North Korea",
+        "Kim Jong Un",
+        "navy",
+        "shipyard"
+      ],
+      "zh_hant": [
+        "朝鮮",
+        "金正恩",
+        "海軍",
+        "造船廠"
+      ],
+      "zh_hans": [
+        "朝鲜",
+        "金正恩",
+        "海军",
+        "造船厂"
+      ]
+    }
+  },
+  {
+    "id": "20261104-amd-q3-earnings",
+    "category": "tech",
+    "published_at": "2026-11-04T07:40:00+08:00",
+    "image_url": "",
+    "image_caption": "",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876470-20261104.htm"
+    },
+    "title": {
+      "en": "AMD beats expectations with record data-centre revenue; shares jump over 9% after hours",
+      "zh_hant": "AMD上季業績勝預期　數據中心收入創新高　盤後股價升逾9%",
+      "zh_hans": "AMD上季业绩胜预期　数据中心收入创新高　盘后股价升逾9%"
+    },
+    "summary": {
+      "en": "AMD's third-quarter results beat expectations on strong demand. Profit rose 95% year on year to US$2.43 billion, with adjusted earnings per share up to US$2.09. Revenue climbed 45% to US$13.38 billion, driven by data-centre revenue up 97% to US$8.5 billion — both records — while client and gaming revenue fell 8% to US$3.72 billion, slightly below expectations. The company expects data-centre growth to accelerate this quarter and full-year revenue to more than double next year, forecasting this quarter's revenue at about US$17 billion and next-year revenue growth of over 80%, both slightly above market expectations. The shares rose more than 9% in after-hours trading.",
+      "zh_hant": "AMD第3季業績好過預期，受強勁需求帶動。盈利24.3億美元，按年升95%，每股經調整盈利增至2.09美元。期內總收入升45%至133.8億美元，受惠於數據中心收入升97%至85億美元，兩者都創新高；客戶及遊戲業務收入則跌8%至37.2億美元，略低於預期。集團預料今季數據中心收入增速加快，全年收入升超過1倍，明年佔總收入比例逾80%；又估計今季總收入約170億美元，明年總收入增長逾80%，兩者都略高於市場預期。AMD在收市後交易時段股價曾升逾9%。",
+      "zh_hans": "AMD第3季业绩好过预期，受强劲需求带动。盈利24.3亿美元，按年升95%，每股经调整盈利增至2.09美元。期内总收入升45%至133.8亿美元，受惠于数据中心收入升97%至85亿美元，两者都创新高；客户及游戏业务收入则跌8%至37.2亿美元，略低于预期。集团预料今季数据中心收入增速加快，全年收入升超过1倍，明年占总收入比例逾80%；又估计今季总收入约170亿美元，明年总收入增长逾80%，两者都略高于市场预期。AMD在收市后交易时段股价曾升逾9%。"
+    },
+    "tags": {
+      "en": [
+        "AMD",
+        "earnings",
+        "data centres",
+        "AI chips"
+      ],
+      "zh_hant": [
+        "AMD",
+        "業績",
+        "數據中心",
+        "AI晶片"
+      ],
+      "zh_hans": [
+        "AMD",
+        "业绩",
+        "数据中心",
+        "AI芯片"
+      ]
+    }
+  },
+  {
     "id": "20261104-trump-midterms-gop",
     "category": "world",
     "published_at": "2026-11-04T03:38:00+08:00",
