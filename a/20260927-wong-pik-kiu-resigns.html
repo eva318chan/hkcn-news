@@ -17,19 +17,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">🏅</div></div>
   <div class="card-top"><span class="cat-tag">hk</span><span>2026-09-27 12:06</span><span> · 明報</span></div>
-  <h1>黃碧嬌以健康理由辭任區議員 麥美娟：黃早前告假均有交醫生證明</h1>
-  <div class="alt-titles"><p>DAB district councillor Wong Pik-kiu resigns on health grounds</p><p>黄碧娇以健康理由辞任区议员 麦美娟：黄早前告假均有交医生证明</p></div>
-  <p class="lead">民建聯大埔區議員黃碧嬌以健康理由，於9月26日書面通知政府辭任區議員、大埔南分區委員會委員及大埔廣福及寶湖小隊關愛隊隊長職務。她自8月20日起以身體不適為由連續9次缺席區議會會議。民政及青年事務局長麥美娟表示，黃碧嬌早前告假均有按程序提交醫生證明；會否補選須視乎實際情況安排。</p>
-  <div class="tags"><button class="tag">#區議會</button><button class="tag">#辭任</button><button class="tag">#民建聯</button></div>
+  <h1 class="article-title">黃碧嬌以健康理由辭任區議員 麥美娟：黃早前告假均有交醫生證明</h1>
+  <p class="lead article-summary">民建聯大埔區議員黃碧嬌以健康理由，於9月26日書面通知政府辭任區議員、大埔南分區委員會委員及大埔廣福及寶湖小隊關愛隊隊長職務。她自8月20日起以身體不適為由連續9次缺席區議會會議。民政及青年事務局長麥美娟表示，黃碧嬌早前告假均有按程序提交醫生證明；會否補選須視乎實際情況安排。</p>
+  <div class="tags article-tags"><button class="tag">#區議會</button><button class="tag">#辭任</button><button class="tag">#民建聯</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260927/s00001/1790479501431/%e9%bb%83%e7%a2%a7%e5%ac%8c%e4%bb%a5%e5%81%a5%e5%ba%b7%e7%90%86%e7%94%b1%e8%be%ad%e4%bb%bb%e5%8d%80%e8%ad%b0%e5%93%a1-%e9%ba%a5%e7%be%8e%e5%a8%9f-%e9%bb%83%e6%97%a9%e5%89%8d%e5%91%8a%e5%81%87%e5%9d%87%e6%9c%89%e4%ba%a4%e9%86%ab%e7%94%9f%e8%ad%83%e6%98%8e" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20260927-wong-pik-kiu-resigns.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

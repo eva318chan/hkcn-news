@@ -17,19 +17,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
     <div class="article-hero"><img src="https://i0.wp.com/hongkong-invest.com/wp-content/uploads/2026/10/P2026101700319_photo_1341493.jpg?fit=2560%2C1921&amp;amp;ssl=1" alt="圖片：Hongkong Invest（政府新聞公報轉載）" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;noimg&quot;>&#127941;</div>'"></div>
   <div class="card-top"><span class="cat-tag">finance</span><span>2026-10-17 10:00</span><span> · Hongkong Invest（政府新聞公報轉載）</span></div>
-  <h1>陳茂波結束曼谷行程返港　晤泰國副總理及跨國金融機構高層</h1>
-  <div class="alt-titles"><p>Paul Chan wraps up Bangkok trip with Thai deputy PM and bankers, returns to Hong Kong</p><p>陈茂波结束曼谷行程返港　晤泰国副总理及跨国金融机构高层</p></div>
-  <p class="lead">財政司司長陳茂波10月17日上午繼續泰國曼谷訪問行程，同泰國副總理兼財政部長會面，就深化兩地經貿同金融合作交換意見。雙方探討點樣將泰國外來直接投資同香港資本市場對接、深化兩地證券市場規管合作，以及鼓勵企業雙重上市。陳茂波亦同法國一家主要銀行嘅行政總裁會面，傾咗固定收益、綠色金融、代幣化金融產品同資產財富管理，之後下午返抵香港。</p>
-  <div class="tags"><button class="tag">#陳茂波</button><button class="tag">#香港</button><button class="tag">#泰國</button><button class="tag">#金融</button><button class="tag">#資本市場</button></div>
+  <h1 class="article-title">陳茂波結束曼谷行程返港　晤泰國副總理及跨國金融機構高層</h1>
+  <p class="lead article-summary">財政司司長陳茂波10月17日上午繼續泰國曼谷訪問行程，同泰國副總理兼財政部長會面，就深化兩地經貿同金融合作交換意見。雙方探討點樣將泰國外來直接投資同香港資本市場對接、深化兩地證券市場規管合作，以及鼓勵企業雙重上市。陳茂波亦同法國一家主要銀行嘅行政總裁會面，傾咗固定收益、綠色金融、代幣化金融產品同資產財富管理，之後下午返抵香港。</p>
+  <div class="tags article-tags"><button class="tag">#陳茂波</button><button class="tag">#香港</button><button class="tag">#泰國</button><button class="tag">#金融</button><button class="tag">#資本市場</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://hongkong-invest.com/%e8%b2%a1%e6%94%bf%e5%8f%b8%e5%8f%b8%e9%95%b7%e5%9c%a8%e6%9b%bc%e8%b0%b7%e8%88%87%e6%b3%b0%e5%9c%8b%e5%89%af%e7%b8%bd%e7%90%86%e5%8f%8a%e8%b7%a8%e5%9c%8b%e9%87%91%e8%9e%8d%e6%a9%9f%e6%a7%8b%e9%ab%98/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261017-paul-chan-bangkok-visit.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">🏅</div></div>
   <div class="card-top"><span class="cat-tag">society</span><span>2026-10-17 15:51</span><span> · Dimsum Daily</span></div>
-  <h1>油塘丈夫涉盜走妻勞力士同名牌手袋被捕　涉款45萬</h1>
-  <div class="alt-titles"><p>Husband arrested in Yau Tong after wife reports theft of Rolex and luxury handbags worth HK$450,000</p><p>油塘丈夫涉盗走妻劳力士和名牌手袋被捕　涉款45万</p></div>
-  <p class="lead">一名40歲姓林男子涉嫌盜竊被捕；其34歲姓陳妻子周六早上8時38分報案，指油塘崇信街 Ocean One 住所一隻勞力士同名牌手袋不翼而飛。失物包括一隻約值15萬港元嘅勞力士、兩個 Hermes 同一個 Chanel 手袋（合共約30萬），總值約45萬港元。警員到場調查後拘捕丈夫，現正扣查，案件交由觀塘警區重案組第一隊跟進。</p>
-  <div class="tags"><button class="tag">#盜竊</button><button class="tag">#油塘</button><button class="tag">#勞力士</button><button class="tag">#香港警察</button><button class="tag">#罪案</button></div>
+  <h1 class="article-title">油塘丈夫涉盜走妻勞力士同名牌手袋被捕　涉款45萬</h1>
+  <p class="lead article-summary">一名40歲姓林男子涉嫌盜竊被捕；其34歲姓陳妻子周六早上8時38分報案，指油塘崇信街 Ocean One 住所一隻勞力士同名牌手袋不翼而飛。失物包括一隻約值15萬港元嘅勞力士、兩個 Hermes 同一個 Chanel 手袋（合共約30萬），總值約45萬港元。警員到場調查後拘捕丈夫，現正扣查，案件交由觀塘警區重案組第一隊跟進。</p>
+  <div class="tags article-tags"><button class="tag">#盜竊</button><button class="tag">#油塘</button><button class="tag">#勞力士</button><button class="tag">#香港警察</button><button class="tag">#罪案</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.dimsumdaily.hk/husband-arrested-after-wife-reports-theft-of-hk450000-rolex-and-luxury-handbags-in-yau-tong/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261017-yau-tong-husband-theft.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

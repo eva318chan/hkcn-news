@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">🏅</div></div>
   <div class="card-top"><span class="cat-tag">finance</span><span>2026-11-04 09:19</span><span> · 香港電台</span></div>
-  <h1>人行下調股票回購增持再貸款利率25基點至1厘　維穩資本市場</h1>
-  <div class="alt-titles"><p>PBOC cuts relending rate for share buybacks and top-ups by 25 bps to 1% to stabilise capital markets</p><p>人行下调股票回购增持再贷款利率25基点至1厘　维稳资本市场</p></div>
-  <p class="lead">The People&#x27;s Bank of China announced a series of measures to step up the relending facility for share buybacks and top-ups, aiming to keep capital markets stable. Effective today, the relending rate is cut by 25 basis points to 1 per cent. The facility covers 21 national banks and five systemically important city commercial banks, with 100 per cent support and a one-year tenor. The PBOC said banks may add a reasonable spread on top of the relending rate, and must speed up lending to boost the market-value management capacity of listed companies and major shareholders. Banks have already submitted relending applications exceeding RMB200 billion after Monday&#x27;s meeting, and the PBOC will continue to fully meet banks&#x27; demand.</p>
-  <div class="tags"><button class="tag">#人民銀行</button><button class="tag">#股票回購</button><button class="tag">#減息</button></div>
+  <h1 class="article-title">人行下調股票回購增持再貸款利率25基點至1厘　維穩資本市場</h1>
+  <p class="lead article-summary">人民銀行公布一系列措施，加力實施股票回購增持再貸款政策，維護資本市場平穩運行。人行宣布，即日起下調股票回購增持再貸款利率25個基點，降至1厘。該再貸款支持對象為21間全國性銀行和5間系統重要性城商行，支持比例為100%，期限一年。人行表示銀行可以在再貸款利率基礎上適當加點，合理確定貸款期限和利率，加快貸款投放，增強上市公司及主要股東市值管理能力；銀行已向央行報送超過2,000億元人民幣額度申請，人行將繼續充分滿足銀行再貸款需求。</p>
+  <div class="tags article-tags"><button class="tag">#人民銀行</button><button class="tag">#股票回購</button><button class="tag">#減息</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://news.rthk.hk/rthk/ch/component/k2/1876481-20261104.htm" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261104-pboc-buyback-loan-rate-cut.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

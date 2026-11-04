@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">&#127941;</div></div>
   <div class="card-top"><span class="cat-tag">hk</span><span>2026-10-23 19:25</span><span> · 政府新聞處新聞公報</span></div>
-  <h1>3歲男童染甲型流感併發腦病變情況危殆　本季累計26宗兒童重症兩死</h1>
-  <div class="alt-titles"><p>Three-year-old boy in critical condition with severe flu; 26 severe paediatric cases this season</p><p>3岁男童染甲型流感并发脑病变情况危殆　本季累计26宗儿童重症两死</p></div>
-  <p class="lead">衞生防護中心今日錄得一宗兒童流感重症個案：一名3歲男童本身有長期病患，對甲型流感（H1）病毒呈陽性反應，併發哮喘發作、急性壞死性腦病變及敗血性休克，目前在屯門醫院兒童深切治療部留醫，情況危殆。男童在潛伏期曾到美國，未有接種本季流感疫苗。本季至今累計26宗兒童流感重症，兩人死亡；衞生防護中心呼籲高危群組盡快接種疫苗。</p>
-  <div class="tags"><button class="tag">#流感</button><button class="tag">#兒童</button><button class="tag">#疫苗接種</button><button class="tag">#衞生防護中心</button></div>
+  <h1 class="article-title">3歲男童染甲型流感併發腦病變情況危殆　本季累計26宗兒童重症兩死</h1>
+  <p class="lead article-summary">衞生防護中心今日錄得一宗兒童流感重症個案：一名3歲男童本身有長期病患，對甲型流感（H1）病毒呈陽性反應，併發哮喘發作、急性壞死性腦病變及敗血性休克，目前在屯門醫院兒童深切治療部留醫，情況危殆。男童在潛伏期曾到美國，未有接種本季流感疫苗。本季至今累計26宗兒童流感重症，兩人死亡；衞生防護中心呼籲高危群組盡快接種疫苗。</p>
+  <div class="tags article-tags"><button class="tag">#流感</button><button class="tag">#兒童</button><button class="tag">#疫苗接種</button><button class="tag">#衞生防護中心</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.info.gov.hk/gia/general/202610/23/P2026102300702.htm" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261023-chp-severe-paediatric-flu.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

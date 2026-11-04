@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">🏅</div></div>
   <div class="card-top"><span class="cat-tag">finance</span><span>2026-11-04 06:24</span><span> · 香港電台</span></div>
-  <h1>環球市況：歐股低收　金價回軟油價創近月低位</h1>
-  <div class="alt-titles"><p>Global markets: European stocks lower; gold softens, oil hits near one-month low</p><p>环球市况：欧股低收　金价回软油价创近月低位</p></div>
-  <p class="lead">歐洲股市轉跌，市場關注中東局勢發展，並等候美國中期選舉結果。英國富時100指數收報10638點，跌122點，跌幅逾1.1%；德國DAX指數收報25864點，跌116點，跌幅0.45%；法國CAC指數守住8000點關口，收報8020點，跌27點，跌幅0.34%。金價回軟，現貨金一度失守3900美元，低見3893.31美元，最多跌約1.4%，較早時徘徊3924美元附近，跌幅收窄至約0.6%；紐約期金12月合約收報3940.4美元，跌逾0.7%。油價延續跌勢，布蘭特期油1月合約低見每桶100.8美元，收報103.6美元，跌約1.1%，創近1個月新低；紐約期油12月合約收報96.09美元，跌約0.4%。美元及美國長債孳息率回升，美元指數上試102關口，高見101.94；美國10年期債息高見4.968厘。澳洲央行一如預期加息0.25厘，指標利率升至4.85厘，創18年新高。</p>
-  <div class="tags"><button class="tag">#環球市況</button><button class="tag">#歐洲股市</button><button class="tag">#金價油價</button></div>
+  <h1 class="article-title">環球市況：歐股低收　金價回軟油價創近月低位</h1>
+  <p class="lead article-summary">歐洲股市轉跌，市場關注中東局勢發展，並等候美國中期選舉結果。英國富時100指數收報10638點，跌122點，跌幅逾1.1%；德國DAX指數收報25864點，跌116點，跌幅0.45%；法國CAC指數守住8000點關口，收報8020點，跌27點，跌幅0.34%。金價回軟，現貨金一度失守3900美元，低見3893.31美元，最多跌約1.4%，較早時徘徊3924美元附近，跌幅收窄至約0.6%；紐約期金12月合約收報3940.4美元，跌逾0.7%。油價延續跌勢，布蘭特期油1月合約低見每桶100.8美元，收報103.6美元，跌約1.1%，創近1個月新低；紐約期油12月合約收報96.09美元，跌約0.4%。美元及美國長債孳息率回升，美元指數上試102關口，高見101.94；美國10年期債息高見4.968厘。澳洲央行一如預期加息0.25厘，指標利率升至4.85厘，創18年新高。</p>
+  <div class="tags article-tags"><button class="tag">#環球市況</button><button class="tag">#歐洲股市</button><button class="tag">#金價油價</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://news.rthk.hk/rthk/ch/component/k2/1876466-20261104.htm" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261104-global-markets-wrap.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

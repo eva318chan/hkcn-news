@@ -17,19 +17,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
     <div class="article-hero"><img src="https://st1.latestly.com/wp-content/uploads/2026/10/ANI-20261024225741-588x441.jpg" alt="圖片：LatestLY" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;noimg&quot;>&#127941;</div>'"></div>
   <div class="card-top"><span class="cat-tag">world</span><span>2026-10-25 08:38</span><span> · LatestLY</span></div>
-  <h1>奧列什基停火提前至10月27日　特朗普：戰後美國將與俄烏兩國做生意</h1>
-  <div class="alt-titles"><p>Oleshky ceasefire brought forward to October 27 as Trump says US will do business with Russia and Ukraine after war</p><p>奥列什基停火提前至10月27日　特朗普：战后美国将与俄乌两国做生意</p></div>
-  <p class="lead">美國總統特朗普與第一夫人梅拉尼婭在佛羅里達州棕櫚灘投票後表示，俄烏戰爭結束後，美國將與俄羅斯及烏克蘭兩國做生意。梅拉尼婭表示，俄軍控制的奧列什基局部停火將於10月27日開始，較白宮最初公布的10月29日提前，俄軍將於莫斯科時間凌晨4時起停火，以便運送救援物資及撤走平民；她又說梵蒂岡已表態支持有關安排。烏克蘭總統澤連斯基表示，烏、俄、美三方談判代表已同意11月上半月在阿布扎比舉行技術層級會談。</p>
-  <div class="tags"><button class="tag">#奧列什基</button><button class="tag">#俄烏戰爭</button><button class="tag">#特朗普</button><button class="tag">#梅拉尼婭·特朗普</button><button class="tag">#停火</button></div>
+  <h1 class="article-title">奧列什基停火提前至10月27日　特朗普：戰後美國將與俄烏兩國做生意</h1>
+  <p class="lead article-summary">美國總統特朗普與第一夫人梅拉尼婭在佛羅里達州棕櫚灘投票後表示，俄烏戰爭結束後，美國將與俄羅斯及烏克蘭兩國做生意。梅拉尼婭表示，俄軍控制的奧列什基局部停火將於10月27日開始，較白宮最初公布的10月29日提前，俄軍將於莫斯科時間凌晨4時起停火，以便運送救援物資及撤走平民；她又說梵蒂岡已表態支持有關安排。烏克蘭總統澤連斯基表示，烏、俄、美三方談判代表已同意11月上半月在阿布扎比舉行技術層級會談。</p>
+  <div class="tags article-tags"><button class="tag">#奧列什基</button><button class="tag">#俄烏戰爭</button><button class="tag">#特朗普</button><button class="tag">#梅拉尼婭·特朗普</button><button class="tag">#停火</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.latestly.com/agency-news/world-news-us-will-do-business-with-ukraine-and-russia-after-war-ends-trump-7656030.html" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261025-trump-oleshky-ceasefire-oct27.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">🏅</div></div>
   <div class="card-top"><span class="cat-tag">world</span><span>2026-11-01 22:25</span><span> · 訪問 The Interview</span></div>
-  <h1>德國逾30城Z世代示威入夜變調　法蘭克福砸店搶掠30人被捕</h1>
-  <div class="alt-titles"><p>Germany&#x27;s Gen Z protests turn violent at night; 30 arrested in Frankfurt looting</p><p>德国逾30城Z世代示威入夜变调　法兰克福砸店抢掠30人被捕</p></div>
-  <p class="lead">由青年倡議組織「Gen Z regelt（Z世代來做主）」發起嘅示威，喺10月31日席捲德國30多個城市，組織方話約12萬人上街，訴求包括增加教育經費、應對生活成本上漲同環境保護。示威日間大致和平，但入夜後喺多地演變成暴力騷亂：法蘭克福有蒙面暴徒砸爛多間商店櫥窗搶掠，包括一間武器店；警方出動特種部隊、水炮同直升機，截至周日凌晨拘捕約30人。科隆同漢堡亦有騷亂同破壞報告。</p>
-  <div class="tags"><button class="tag">#德國</button><button class="tag">#Z世代示威</button><button class="tag">#法蘭克福</button></div>
+  <h1 class="article-title">德國逾30城Z世代示威入夜變調　法蘭克福砸店搶掠30人被捕</h1>
+  <p class="lead article-summary">由青年倡議組織「Gen Z regelt（Z世代來做主）」發起嘅示威，喺10月31日席捲德國30多個城市，組織方話約12萬人上街，訴求包括增加教育經費、應對生活成本上漲同環境保護。示威日間大致和平，但入夜後喺多地演變成暴力騷亂：法蘭克福有蒙面暴徒砸爛多間商店櫥窗搶掠，包括一間武器店；警方出動特種部隊、水炮同直升機，截至周日凌晨拘捕約30人。科隆同漢堡亦有騷亂同破壞報告。</p>
+  <div class="tags article-tags"><button class="tag">#德國</button><button class="tag">#Z世代示威</button><button class="tag">#法蘭克福</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://theinterview.asia/hot-topics/国际/215132/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261101-germany-genz-protests.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

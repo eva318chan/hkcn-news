@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">🏅</div></div>
   <div class="card-top"><span class="cat-tag">tech</span><span>2026-11-04 15:14</span><span> · IT Pro Magazine</span></div>
-  <h1>花旗調查：本港92%消費者用AI　逾半憂跟不上技術發展</h1>
-  <div class="alt-titles"><p>Citi survey: 92% of Hong Kong consumers use AI, but over half worry about falling behind</p><p>花旗调查：本港92%消费者用AI　逾半忧跟不上技术发展</p></div>
-  <p class="lead">Citi Hong Kong today released the 2026 Citi Wealth AI Pulse survey, finding AI usage among Hong Kong consumers as high as 92%, yet more than half (52%) of respondents worry they cannot keep up with AI development. The survey, conducted online in early September among 1,053 local consumers aged 21 to 69, found the top three AI uses in shopping are comparing prices, brands or merchants; looking up product information and reviews; and discovering new products or brands, with about 53% of respondents planning to try agentic commerce within 12 months. In wealth management, however, consumers still trust human professional judgement: among emerging affluent respondents, 77% prefer AI to provide information or advice, but only 4% are willing to hand investment management fully to AI.</p>
-  <div class="tags"><button class="tag">#人工智能</button><button class="tag">#花旗</button><button class="tag">#調查</button></div>
+  <h1 class="article-title">花旗調查：本港92%消費者用AI　逾半憂跟不上技術發展</h1>
+  <p class="lead article-summary">花旗香港今日公布2026花旗財富AI Pulse調查結果，發現本港消費者AI使用率高達92%，但逾半（52%）受訪者擔心自己未能跟上AI技術發展。調查於今年9月上旬以網上形式訪問1,053名21至69歲本地消費者，發現港人用AI購物時三大用途是比較價格、品牌或商戶，查閱產品資料及評價，以及發掘新產品或品牌；約53%受訪者打算未來12個月嘗試智能代理商務（agentic commerce）。不過在財富管理方面，消費者仍信賴真人專業判斷：新富裕客群中77%傾向由AI提供資訊或建議，僅4%願意完全交由AI自主管理投資。</p>
+  <div class="tags article-tags"><button class="tag">#人工智能</button><button class="tag">#花旗</button><button class="tag">#調查</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://itpromag.com/2026/11/04/citi-wealth-ai-26/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261104-citi-ai-pulse-survey.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

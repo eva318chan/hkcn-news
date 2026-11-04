@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">&#127941;</div></div>
   <div class="card-top"><span class="cat-tag">world</span><span>2026-10-26 09:54</span><span> · Reuters</span></div>
-  <h1>博索納羅拒認敗選　稱將尋求推翻巴西大選結果</h1>
-  <div class="alt-titles"><p>Bolsonaro refuses to concede Brazil election defeat and will seek to annul the vote</p><p>博索纳罗拒认败选　称将寻求推翻巴西大选结果</p></div>
-  <p class="lead">巴西參議員博索納羅拒絕承認敗給總統盧拉，盧拉以約440萬票優勢歷史性第四度當選總統；博索納羅表示將尋求推翻次輪投票結果。他批評最高法院法官薩寧將投票時間延長兩小時的裁決「不可接受」，稱「不可能承認選舉結果」。由於公共交通問題及部分地區天氣惡劣，兩邊陣營當時都曾要求延長投票時間，選舉法院院長表示延長投票對結果並無影響。法律專家指出，推翻選舉結果缺乏堅實法律依據，不過博索納羅若有舞弊證據，亦可要求重新點票。</p>
-  <div class="tags"><button class="tag">#博索納羅</button><button class="tag">#盧拉</button><button class="tag">#巴西大選</button><button class="tag">#推翻選舉結果</button></div>
+  <h1 class="article-title">博索納羅拒認敗選　稱將尋求推翻巴西大選結果</h1>
+  <p class="lead article-summary">巴西參議員博索納羅拒絕承認敗給總統盧拉，盧拉以約440萬票優勢歷史性第四度當選總統；博索納羅表示將尋求推翻次輪投票結果。他批評最高法院法官薩寧將投票時間延長兩小時的裁決「不可接受」，稱「不可能承認選舉結果」。由於公共交通問題及部分地區天氣惡劣，兩邊陣營當時都曾要求延長投票時間，選舉法院院長表示延長投票對結果並無影響。法律專家指出，推翻選舉結果缺乏堅實法律依據，不過博索納羅若有舞弊證據，亦可要求重新點票。</p>
+  <div class="tags article-tags"><button class="tag">#博索納羅</button><button class="tag">#盧拉</button><button class="tag">#巴西大選</button><button class="tag">#推翻選舉結果</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://wixx.com/2026/10/25/bolsonaro-refuses-to-concede-says-he-will-seek-annulment-of-brazil-vote/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261026-bolsonaro-seeks-annulment-brazil-vote.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

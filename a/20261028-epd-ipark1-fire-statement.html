@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">&#127941;</div></div>
   <div class="card-top"><span class="cat-tag">hk</span><span>2026-10-28 11:15</span><span> · 政府新聞處</span></div>
-  <h1>環保署澄清 I.PARK1 火警謠言　初步相信由建築物料引起</h1>
-  <div class="alt-titles"><p>EPD rejects rumours over I.PARK1 fire, saying it likely started in construction materials</p><p>环保署澄清 I.PARK1 火警谣言　初步相信由建筑物料引起</p></div>
-  <p class="lead">環境保護署今日（10月28日）回應網上有關綜合廢物管理設施第一期（I.PARK1）10 月 26 日火警的謠言，指初步資料顯示火警源頭位於焚化爐大樓第三個焚化模組範圍的天台，當時仍在進行裝修工程，初步懷疑由建築物料引起，並非由焚化爐運作或存放的廢物造成。環保署會聯同警方、消防處及勞工處調查起火原因，並已要求承辦商在七日內提交火警報告，同時評估設施損毀及處理能力受影響情況，盡快安排維修。I.PARK1 自昨日暫停接收廢物，環保署已安排延長新界西堆填區擴建部分的運作時間，把原定送往 I.PARK1 的廢物轉送堆填區處置，維持全港廢物管理系統正常運作；環保署並嚴正澄清，網上有關「焚化爐設計缺陷」及「興建中焚化模組倒塌」的指控全屬虛構，呼籲市民不要誤信及轉發。</p>
-  <div class="tags"><button class="tag">#I.PARK1</button><button class="tag">#環保署</button><button class="tag">#火警</button></div>
+  <h1 class="article-title">環保署澄清 I.PARK1 火警謠言　初步相信由建築物料引起</h1>
+  <p class="lead article-summary">環境保護署今日（10月28日）回應網上有關綜合廢物管理設施第一期（I.PARK1）10 月 26 日火警的謠言，指初步資料顯示火警源頭位於焚化爐大樓第三個焚化模組範圍的天台，當時仍在進行裝修工程，初步懷疑由建築物料引起，並非由焚化爐運作或存放的廢物造成。環保署會聯同警方、消防處及勞工處調查起火原因，並已要求承辦商在七日內提交火警報告，同時評估設施損毀及處理能力受影響情況，盡快安排維修。I.PARK1 自昨日暫停接收廢物，環保署已安排延長新界西堆填區擴建部分的運作時間，把原定送往 I.PARK1 的廢物轉送堆填區處置，維持全港廢物管理系統正常運作；環保署並嚴正澄清，網上有關「焚化爐設計缺陷」及「興建中焚化模組倒塌」的指控全屬虛構，呼籲市民不要誤信及轉發。</p>
+  <div class="tags article-tags"><button class="tag">#I.PARK1</button><button class="tag">#環保署</button><button class="tag">#火警</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.info.gov.hk/gia/general/202610/28/P2026102800278.htm" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261028-epd-ipark1-fire-statement.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

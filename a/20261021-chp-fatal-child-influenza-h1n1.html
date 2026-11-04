@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">&#127941;</div></div>
   <div class="card-top"><span class="cat-tag">society</span><span>2026-10-21 19:44</span><span> · 政府新聞處</span></div>
-  <h1>12歲女童染甲型流感併發多重器官衰竭亡　今季累計25宗兒童重症</h1>
-  <div class="alt-titles"><p>12-year-old girl dies of influenza A (H1N1) complications; 25 severe paediatric cases this season</p><p>12岁女童染甲型流感并发多重器官衰竭亡　今季累计25宗儿童重症</p></div>
-  <p class="lead">衞生署衞生防護中心今日公布一宗兒童感染流感死亡個案。死者為一名12歲女童，本身有長期病患，本月17日出現發燒、咳嗽及腹瀉，其後嘔吐，19日晚上病情惡化被送往東區尤德夫人那打素醫院急症室，一度心臟停頓，經搶救後轉入兒童深切治療部留醫。女童呼吸道樣本驗出甲型（H1）流感病毒，臨床診斷為甲型流感併發敗血性休克、彌散性血管內凝血及多重器官衰竭。衞生防護中心總監徐樂堅表示，本港6月底踏入流感季節至今近四個月，本地流感活躍程度仍處高水平，今季累計錄得25宗兒童流感嚴重個案，與去年同期相同，當中20人已康復出院，兩人死亡（包括上述個案）。數據顯示，未接種疫苗的兒童出現嚴重併發症或死亡的比率約為已接種兒童的五倍，呼籲市民盡早接種季節性流感疫苗。</p>
-  <div class="tags"><button class="tag">#流感</button><button class="tag">#兒童死亡</button><button class="tag">#甲型流感</button><button class="tag">#衞生防護中心</button><button class="tag">#疫苗接種</button></div>
+  <h1 class="article-title">12歲女童染甲型流感併發多重器官衰竭亡　今季累計25宗兒童重症</h1>
+  <p class="lead article-summary">衞生署衞生防護中心今日公布一宗兒童感染流感死亡個案。死者為一名12歲女童，本身有長期病患，本月17日出現發燒、咳嗽及腹瀉，其後嘔吐，19日晚上病情惡化被送往東區尤德夫人那打素醫院急症室，一度心臟停頓，經搶救後轉入兒童深切治療部留醫。女童呼吸道樣本驗出甲型（H1）流感病毒，臨床診斷為甲型流感併發敗血性休克、彌散性血管內凝血及多重器官衰竭。衞生防護中心總監徐樂堅表示，本港6月底踏入流感季節至今近四個月，本地流感活躍程度仍處高水平，今季累計錄得25宗兒童流感嚴重個案，與去年同期相同，當中20人已康復出院，兩人死亡（包括上述個案）。數據顯示，未接種疫苗的兒童出現嚴重併發症或死亡的比率約為已接種兒童的五倍，呼籲市民盡早接種季節性流感疫苗。</p>
+  <div class="tags article-tags"><button class="tag">#流感</button><button class="tag">#兒童死亡</button><button class="tag">#甲型流感</button><button class="tag">#衞生防護中心</button><button class="tag">#疫苗接種</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.info.gov.hk/gia/general/202610/21/P2026102100753.htm" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261021-chp-fatal-child-influenza-h1n1.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

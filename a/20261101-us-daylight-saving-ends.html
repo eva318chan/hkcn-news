@@ -17,20 +17,84 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><img src="https://images.timesnowworld.com/thumb/msid-156442843,width-1280,height-720,resizemode-75/156442843.jpg" alt="" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;noimg&quot;>🏅</div>'"></div>
   <p style="font-size:13px;color:#888;margin:8px 0 0">美國大部分地區今晨結束夏令時間，時鐘撥慢一小時。（Times Now World）</p>
   <div class="card-top"><span class="cat-tag">world</span><span>2026-10-31 23:22</span><span> · Times Now World</span></div>
-  <h1>美國今晨結束夏令時間　時鐘撥慢一小時</h1>
-  <div class="alt-titles"><p>US ends daylight saving time, clocks fall back one hour</p><p>美国今晨结束夏令时间　时钟拨慢一小时</p></div>
-  <p class="lead">美國大部分地區於當地時間11月1日凌晨2時結束夏令時間，時鐘撥慢一小時回復標準時間，民眾可多睡一小時。夏威夷、亞利桑那州大部分地區及多個美國屬地不參與調鐘。應否永久採用夏令時間在美國政壇仍爭論不休：《陽光保護法案》今年7月已在眾議院通過，但參議院領袖指暫未有共識令其成為法律。</p>
-  <div class="tags"><button class="tag">#美國</button><button class="tag">#夏令時間</button><button class="tag">#標準時間</button></div>
+  <h1 class="article-title">美國今晨結束夏令時間　時鐘撥慢一小時</h1>
+  <p class="lead article-summary">美國大部分地區於當地時間11月1日凌晨2時結束夏令時間，時鐘撥慢一小時回復標準時間，民眾可多睡一小時。夏威夷、亞利桑那州大部分地區及多個美國屬地不參與調鐘。應否永久採用夏令時間在美國政壇仍爭論不休：《陽光保護法案》今年7月已在眾議院通過，但參議院領袖指暫未有共識令其成為法律。</p>
+  <div class="tags article-tags"><button class="tag">#美國</button><button class="tag">#夏令時間</button><button class="tag">#標準時間</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.timesnowworld.com/us-news/us-daylight-saving-time-ends-november-2026-article-156442843" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261101-us-daylight-saving-ends.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

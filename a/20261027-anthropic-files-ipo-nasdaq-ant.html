@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">&#127941;</div></div>
   <div class="card-top"><span class="cat-tag">tech</span><span>2026-10-27 07:20</span><span> · Aju Press</span></div>
-  <h1>Anthropic 申請納斯達克上市 股票代號 ANT 上半年收入 163 億美元</h1>
-  <div class="alt-titles"><p>Anthropic files for IPO on Nasdaq under ticker ANT, disclosing US$16.3 billion in half-year revenue</p><p>Anthropic 申请纳斯达克上市 股票代号 ANT 上半年收入 163 亿美元</p></div>
-  <p class="lead">人工智能模型 Claude 開發商 Anthropic 已向美國證券交易委員會提交上市註冊文件，計劃在納斯達克全球精選市場上市，股票代號為 ANT。文件顯示，公司今年上半年收入 163 億美元，約為去年同期 11.6 億美元的 14 倍，但淨虧損達 807 億美元，主要來自可換股債券等金融工具重估；經營虧損則由 21 億美元收窄至 6.93 億美元。發行股數及定價範圍尚未釐定，在註冊文件生效前不得出售股份，報道指最快 11 月中上市。《華爾街日報》報道，Anthropic 目標估值高達 2 萬億美元、集資 1,000 億美元，若成事將成為歷來最大宗新股上市。</p>
-  <div class="tags"><button class="tag">#Anthropic</button><button class="tag">#首次公開招股</button><button class="tag">#人工智能</button></div>
+  <h1 class="article-title">Anthropic 申請納斯達克上市 股票代號 ANT 上半年收入 163 億美元</h1>
+  <p class="lead article-summary">人工智能模型 Claude 開發商 Anthropic 已向美國證券交易委員會提交上市註冊文件，計劃在納斯達克全球精選市場上市，股票代號為 ANT。文件顯示，公司今年上半年收入 163 億美元，約為去年同期 11.6 億美元的 14 倍，但淨虧損達 807 億美元，主要來自可換股債券等金融工具重估；經營虧損則由 21 億美元收窄至 6.93 億美元。發行股數及定價範圍尚未釐定，在註冊文件生效前不得出售股份，報道指最快 11 月中上市。《華爾街日報》報道，Anthropic 目標估值高達 2 萬億美元、集資 1,000 億美元，若成事將成為歷來最大宗新股上市。</p>
+  <div class="tags article-tags"><button class="tag">#Anthropic</button><button class="tag">#首次公開招股</button><button class="tag">#人工智能</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.ajupress.com/view/20261027082070612" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261027-anthropic-files-ipo-nasdaq-ant.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

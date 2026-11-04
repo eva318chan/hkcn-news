@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">🏅</div></div>
   <div class="card-top"><span class="cat-tag">world</span><span>2026-11-02 18:38</span><span> · 聯合國新聞</span></div>
-  <h1>教科文組織：記者遇害免罰率升至86%　十年來首見回升</h1>
-  <div class="alt-titles"><p>Six in seven journalist murders go unpunished, UNESCO reports</p><p>教科文组织：记者遇害免罚率升至86%　十年来首见回升</p></div>
-  <p class="lead">教科文組織發表兩年一度《記者安全與免罰危險總幹事報告》，配合11月2日「終止侵害記者犯罪不受懲罰國際日」，指全球記者遇害免罰率十年來首次回升，2024至2025年達86%，較上一個兩年期升一個百分點。兩年間有189名記者同媒體工作者確認遇害，較上期多兩成，係2014至2015年以來最高；其中127人（超過三分之二）死於衝突地區。無人機襲擊殺死50名記者，佔衝突地區死亡人數四成，被教科文組織稱為「令人不安嘅新威脅」；另有15名記者據報係穿住記者背心或坐喺清楚標示「Press」嘅車輛時遇害。阿拉伯國家錄得最多個案（97宗），巴勒斯坦兩年都係遇害人數最多嘅地區（30同32人）。女記者面對特別風險：14名遇害女記者中有13人身處武裝衝突國家，75%女記者曾經歷網上或線下騷擾。報告亦有好消息：非衝突國家嘅免罰率由2012年94%降至77%，記者遇害數字係18年來最低。「當記者成為目標、佢哋嘅報道被撲滅，我哋每個人都係受害者。」聯合國秘書長古特雷斯話。</p>
-  <div class="tags"><button class="tag">#教科文組織</button><button class="tag">#記者</button><button class="tag">#免罰</button></div>
+  <h1 class="article-title">教科文組織：記者遇害免罰率升至86%　十年來首見回升</h1>
+  <p class="lead article-summary">教科文組織發表兩年一度《記者安全與免罰危險總幹事報告》，配合11月2日「終止侵害記者犯罪不受懲罰國際日」，指全球記者遇害免罰率十年來首次回升，2024至2025年達86%，較上一個兩年期升一個百分點。兩年間有189名記者同媒體工作者確認遇害，較上期多兩成，係2014至2015年以來最高；其中127人（超過三分之二）死於衝突地區。無人機襲擊殺死50名記者，佔衝突地區死亡人數四成，被教科文組織稱為「令人不安嘅新威脅」；另有15名記者據報係穿住記者背心或坐喺清楚標示「Press」嘅車輛時遇害。阿拉伯國家錄得最多個案（97宗），巴勒斯坦兩年都係遇害人數最多嘅地區（30同32人）。女記者面對特別風險：14名遇害女記者中有13人身處武裝衝突國家，75%女記者曾經歷網上或線下騷擾。報告亦有好消息：非衝突國家嘅免罰率由2012年94%降至77%，記者遇害數字係18年來最低。「當記者成為目標、佢哋嘅報道被撲滅，我哋每個人都係受害者。」聯合國秘書長古特雷斯話。</p>
+  <div class="tags article-tags"><button class="tag">#教科文組織</button><button class="tag">#記者</button><button class="tag">#免罰</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://news.un.org/en/story/2026/11/1168719" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261103-unesco-journalist-impunity-report.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

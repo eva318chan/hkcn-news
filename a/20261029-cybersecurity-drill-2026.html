@@ -17,19 +17,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
     <div class="article-hero"><img src="https://gia.info.gov.hk/general/202610/29/P2026102900376_photo_1342404.jpg" alt="圖片：政府新聞處" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;noimg&quot;>&#127941;</div>'"></div>
   <div class="card-top"><span class="cat-tag">tech</span><span>2026-10-29 14:20</span><span> · 政府新聞處</span></div>
-  <h1>香港網絡安全攻防演練 2026 啟動　首邀私企參與實戰訓練</h1>
-  <div class="alt-titles"><p>Hong Kong Cybersecurity Attack and Defence Drill 2026 kicks off</p><p>香港网络安全攻防演练 2026 启动　首邀私企参与实战训练</p></div>
-  <p class="lead">「香港網絡安全攻防演練 2026」今日啟動，一連三日以模擬網絡威脅情景考驗參與機構的防禦機制和事故應變能力。演練由數字政策辦公室牽頭，聯同保安局關鍵基礎設施統籌主任辦公室、警方網絡安全及科技罪案調查科等合辦。今年首次邀請私營企業加入防守方，與政府部門和公營機構並肩接受實戰訓練。合共有 51 隊防守隊和 23 隊攻擊隊參與，演練歷時 60 小時，至 10 月 31 日晚上結束。</p>
-  <div class="tags"><button class="tag">#網絡安全</button><button class="tag">#攻防演練</button><button class="tag">#數字政策辦公室</button></div>
+  <h1 class="article-title">香港網絡安全攻防演練 2026 啟動　首邀私企參與實戰訓練</h1>
+  <p class="lead article-summary">「香港網絡安全攻防演練 2026」今日啟動，一連三日以模擬網絡威脅情景考驗參與機構的防禦機制和事故應變能力。演練由數字政策辦公室牽頭，聯同保安局關鍵基礎設施統籌主任辦公室、警方網絡安全及科技罪案調查科等合辦。今年首次邀請私營企業加入防守方，與政府部門和公營機構並肩接受實戰訓練。合共有 51 隊防守隊和 23 隊攻擊隊參與，演練歷時 60 小時，至 10 月 31 日晚上結束。</p>
+  <div class="tags article-tags"><button class="tag">#網絡安全</button><button class="tag">#攻防演練</button><button class="tag">#數字政策辦公室</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.info.gov.hk/gia/general/202610/29/P2026102900376.htm" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261029-cybersecurity-drill-2026.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

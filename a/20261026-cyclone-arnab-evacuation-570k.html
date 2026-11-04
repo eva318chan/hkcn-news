@@ -17,19 +17,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
     <div class="article-hero"><img src="https://images.thedailyjagran.com/images/2026/10/26/template/image/Cyclone-arnab-1792993031900.webp" alt="圖片：The Daily Jagran" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;noimg&quot;>&#127941;</div>'"></div>
   <div class="card-top"><span class="cat-tag">world</span><span>2026-10-26 17:43</span><span> · The Daily Jagran</span></div>
-  <h1>氣旋阿爾納布逼近印度　安得拉邦57萬人撤離　電力部門戒備防停電</h1>
-  <div class="alt-titles"><p>Cyclone Arnab nears India: 570,000 people to be evacuated in Andhra Pradesh as landfall nears</p><p>气旋阿尔纳布逼近印度　安得拉邦57万人撤离　电力部门戒备防停电</p></div>
-  <p class="lead">氣旋阿爾納布逼近印度東岸，安得拉邦當局已確定約57萬名居於高危沿岸及低窪地區的居民需要撤離，撤離工作於星期一傍晚展開。氣旋預料星期二增強為特強氣旋風暴，星期三上午在巴帕特拉至維沙卡帕特南之間登陸，最高持續風速每小時115至125公里。邦內電力公司已進入高度戒備，預先儲備2.5萬支電線桿及其他物資，以便停電後盡快恢復供電。鄰邦奧迪沙邦已派出約20支救災隊，並制定三階段計劃共派出60支隊伍，受影響五個縣的學校將於星期三及星期四停課。</p>
-  <div class="tags"><button class="tag">#氣旋阿爾納布</button><button class="tag">#安得拉邦</button><button class="tag">#奧迪沙邦</button><button class="tag">#印度</button></div>
+  <h1 class="article-title">氣旋阿爾納布逼近印度　安得拉邦57萬人撤離　電力部門戒備防停電</h1>
+  <p class="lead article-summary">氣旋阿爾納布逼近印度東岸，安得拉邦當局已確定約57萬名居於高危沿岸及低窪地區的居民需要撤離，撤離工作於星期一傍晚展開。氣旋預料星期二增強為特強氣旋風暴，星期三上午在巴帕特拉至維沙卡帕特南之間登陸，最高持續風速每小時115至125公里。邦內電力公司已進入高度戒備，預先儲備2.5萬支電線桿及其他物資，以便停電後盡快恢復供電。鄰邦奧迪沙邦已派出約20支救災隊，並制定三階段計劃共派出60支隊伍，受影響五個縣的學校將於星期三及星期四停課。</p>
+  <div class="tags article-tags"><button class="tag">#氣旋阿爾納布</button><button class="tag">#安得拉邦</button><button class="tag">#奧迪沙邦</button><button class="tag">#印度</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.thedailyjagran.com/india/news/cyclone-arnab-alert-andhra-odisha-brace-for-stormy-weather-as-landfall-expected-on-oct-28-electric-poles-stocked-teams-deployed-10333981" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261026-cyclone-arnab-evacuation-570k.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

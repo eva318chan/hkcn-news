@@ -18,19 +18,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><img src="https://static.hkcna.hk/dams-res/editing/image/202610/13/6ace1704e4b05977187b7106.jpg" alt="" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;noimg&quot;>🏅</div>'"></div>
   <div class="card-top"><span class="cat-tag">finance</span><span>2026-10-13 19:35</span><span> · 香港中國通訊社</span></div>
-  <h1>香港秋季兩大電子展開幕　AI硬科技產品吸引中東、歐美買家</h1>
-  <div class="alt-titles"><p>Hong Kong&#39;s two autumn electronics fairs open, AI hardware draws buyers from Middle East and the West</p><p>香港秋季两大电子展开幕　AI硬科技产品吸引中东、欧美买家</p></div>
-  <p class="lead">由香港貿發局主辦的香港秋季電子產品展及國際電子組件及生產技術展，10月13日起一連四天在香港會展中心舉行。兩個展覽匯聚來自15個國家和地區、超過3200家展商參展，秋電展以人工智能及機械人技術、智慧生活、新世代娛樂三大領域為主軸，帶來超過120款機械人。記者現場所見買家以海外面孔為主，不少中東、歐美買家現場下訂單。</p>
-  <div class="tags"><button class="tag">#電子展</button><button class="tag">#人工智能</button><button class="tag">#機械人</button><button class="tag">#貿發局</button></div>
+  <h1 class="article-title">香港秋季兩大電子展開幕　AI硬科技產品吸引中東、歐美買家</h1>
+  <p class="lead article-summary">由香港貿發局主辦的香港秋季電子產品展及國際電子組件及生產技術展，10月13日起一連四天在香港會展中心舉行。兩個展覽匯聚來自15個國家和地區、超過3200家展商參展，秋電展以人工智能及機械人技術、智慧生活、新世代娛樂三大領域為主軸，帶來超過120款機械人。記者現場所見買家以海外面孔為主，不少中東、歐美買家現場下訂單。</p>
+  <div class="tags article-tags"><button class="tag">#電子展</button><button class="tag">#人工智能</button><button class="tag">#機械人</button><button class="tag">#貿發局</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.hkcna.hk/hk/content/s6ace1798e4b000eb85792f7d.html" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261013-hk-electronics-fair-ai.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

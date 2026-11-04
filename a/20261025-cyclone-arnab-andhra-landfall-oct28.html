@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">&#127941;</div></div>
   <div class="card-top"><span class="cat-tag">world</span><span>2026-10-25 20:00</span><span> · New Kerala</span></div>
-  <h1>氣旋阿爾納布將於10月28日登陸安得拉邦沿岸　印度氣象局料增強為特強氣旋風暴</h1>
-  <div class="alt-titles"><p>Cyclone Arnab to hit Andhra Pradesh coast on October 28 as very severe cyclonic storm, IMD warns</p><p>气旋阿尔纳布将于10月28日登陆安得拉邦沿岸　印度气象局料增强为特强气旋风暴</p></div>
-  <p class="lead">印度氣象局警告，孟加拉灣低氣壓將增強為特強氣旋風暴，預計10月28日早上在安得拉邦巴特拉與維沙卡帕特南之間登陸。氣旋名為阿爾納布，登陸時最高持續風速預計每小時115至125公里，陣風高達140公里。泰米爾納德邦及本地治里九個港口已掛起氣旋警告信號，包括清奈、納加帕蒂南及古達羅爾；本地治里自星期六晚持續降雨，多處市區水浸。當局預計本地治里、卡萊卡爾及泰米爾納德邦鄰近地區將繼續出現大雨至暴雨。</p>
-  <div class="tags"><button class="tag">#氣旋阿爾納布</button><button class="tag">#安得拉邦</button><button class="tag">#印度氣象局</button><button class="tag">#孟加拉灣</button></div>
+  <h1 class="article-title">氣旋阿爾納布將於10月28日登陸安得拉邦沿岸　印度氣象局料增強為特強氣旋風暴</h1>
+  <p class="lead article-summary">印度氣象局警告，孟加拉灣低氣壓將增強為特強氣旋風暴，預計10月28日早上在安得拉邦巴特拉與維沙卡帕特南之間登陸。氣旋名為阿爾納布，登陸時最高持續風速預計每小時115至125公里，陣風高達140公里。泰米爾納德邦及本地治里九個港口已掛起氣旋警告信號，包括清奈、納加帕蒂南及古達羅爾；本地治里自星期六晚持續降雨，多處市區水浸。當局預計本地治里、卡萊卡爾及泰米爾納德邦鄰近地區將繼續出現大雨至暴雨。</p>
+  <div class="tags article-tags"><button class="tag">#氣旋阿爾納布</button><button class="tag">#安得拉邦</button><button class="tag">#印度氣象局</button><button class="tag">#孟加拉灣</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.newkerala.com/news/a/depression-over-bay-bengal-intensifies-cyclone-warning-signals-325.htm" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261025-cyclone-arnab-andhra-landfall-oct28.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

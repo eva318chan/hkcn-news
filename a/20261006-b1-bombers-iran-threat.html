@@ -18,19 +18,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><img src="https://image.hkhl.hk/f/1024p0/0x0/100/none/0c62e6d404d63fe73d22aeaa8d6f7feb/2026-10/a1_0_3.jpg" alt="" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;noimg&quot;>🏅</div>'"></div>
   <div class="card-top"><span class="cat-tag">world</span><span>2026-10-06 08:28</span><span> · 星島日報</span></div>
-  <h1>美B-1轟炸機撤離英國空軍基地　特朗普：與伊朗威脅有關</h1>
-  <div class="alt-titles"><p>US withdraws B-1 bombers from UK base; Trump links move to Iran threats</p><p>美B-1轰炸机撤离英国空军基地　特朗普：与伊朗威胁有关</p></div>
-  <p class="lead">美國總統特朗普證實，美國已因「一些威脅」將所有B-1轟炸機撤離英國費爾福德皇家空軍基地，並指威脅與伊朗有關。英國政府堅稱基地安全；撤離前，當地上月底曾發生可疑活動，警方正展開反恐調查。</p>
-  <div class="tags"><button class="tag">#美軍</button><button class="tag">#伊朗</button><button class="tag">#B-1轟炸機</button><button class="tag">#特朗普</button></div>
+  <h1 class="article-title">美B-1轟炸機撤離英國空軍基地　特朗普：與伊朗威脅有關</h1>
+  <p class="lead article-summary">美國總統特朗普證實，美國已因「一些威脅」將所有B-1轟炸機撤離英國費爾福德皇家空軍基地，並指威脅與伊朗有關。英國政府堅稱基地安全；撤離前，當地上月底曾發生可疑活動，警方正展開反恐調查。</p>
+  <div class="tags article-tags"><button class="tag">#美軍</button><button class="tag">#伊朗</button><button class="tag">#B-1轟炸機</button><button class="tag">#特朗普</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.stheadline.com/realtime-world/3622880/%E7%BE%8EB-1%E8%BD%9F%E7%82%B8%E6%A9%9F%E6%92%A4%E9%9B%A2%E8%8B%B1%E5%9C%8B%E7%A9%BA%E8%BB%8D%E5%9F%BA%E5%9C%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E8%88%87%E4%BC%8A%E6%9C%97%E5%A8%81%E8%84%85%E6%9C%89%E9%97%9C" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261006-b1-bombers-iran-threat.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

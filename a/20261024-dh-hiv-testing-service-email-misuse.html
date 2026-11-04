@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">&#127941;</div></div>
   <div class="card-top"><span class="cat-tag">hk</span><span>2026-10-24 14:21</span><span> · 政府新聞處</span></div>
-  <h1>衞生署愛滋檢測網站電郵疑被濫用　發假短訊訛稱染HIV　網站暫停服務</h1>
-  <div class="alt-titles"><p>Health Dept suspends HIV testing website after suspected email account misuse in phishing scam</p><p>卫生署爱滋检测网站电邮疑被滥用　发假短讯讹称染HIV　网站暂停服务</p></div>
-  <p class="lead">衞生署今日（10月24日）表示，旗下愛滋病毒測試服務網站（www.hivtest.gov.hk）的電郵帳戶懷疑被濫用，有市民收到冒充衞生署發出的電郵及手機短訊，訛稱收件人曾暴露於愛滋病病毒，應盡快求醫及接受檢測。署方強調訊息並非由衞生署發出，署方亦不會以此方式通知個別人士，呼籲市民唔好撳入可疑連結或提供個人資料；如曾提供個人資料或懷疑受騙應報警。網站由今日起暫停服務，直至網絡安全專家完成全面調查及確認系統無保安風險。署方指暫未發現資料外洩，已向警方報案並通知數字政策辦公室。</p>
-  <div class="tags"><button class="tag">#衞生署</button><button class="tag">#愛滋病毒檢測</button><button class="tag">#網絡釣魚</button><button class="tag">#網絡安全</button><button class="tag">#資料保安</button></div>
+  <h1 class="article-title">衞生署愛滋檢測網站電郵疑被濫用　發假短訊訛稱染HIV　網站暫停服務</h1>
+  <p class="lead article-summary">衞生署今日（10月24日）表示，旗下愛滋病毒測試服務網站（www.hivtest.gov.hk）的電郵帳戶懷疑被濫用，有市民收到冒充衞生署發出的電郵及手機短訊，訛稱收件人曾暴露於愛滋病病毒，應盡快求醫及接受檢測。署方強調訊息並非由衞生署發出，署方亦不會以此方式通知個別人士，呼籲市民唔好撳入可疑連結或提供個人資料；如曾提供個人資料或懷疑受騙應報警。網站由今日起暫停服務，直至網絡安全專家完成全面調查及確認系統無保安風險。署方指暫未發現資料外洩，已向警方報案並通知數字政策辦公室。</p>
+  <div class="tags article-tags"><button class="tag">#衞生署</button><button class="tag">#愛滋病毒檢測</button><button class="tag">#網絡釣魚</button><button class="tag">#網絡安全</button><button class="tag">#資料保安</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.info.gov.hk/gia/general/202610/24/P2026102400403.htm" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261024-dh-hiv-testing-service-email-misuse.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

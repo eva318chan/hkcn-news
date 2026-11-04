@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">&#127941;</div></div>
   <div class="card-top"><span class="cat-tag">finance</span><span>2026-10-28 10:00</span><span> · Binance Square</span></div>
-  <h1>SK海力士盈利勁升631%　韓股急升4.5%觸發熔斷機制</h1>
-  <div class="alt-titles"><p>KOSPI jumps 4.5% as SK hynix posts 631% profit surge, triggering sidecar</p><p>SK海力士盈利劲升631%　韩股急升4.5%触发熔断机制</p></div>
-  <p class="lead">韓國股市10月28日早市急升，KOSPI升4.54%至5,894.26點，主因SK海力士公布第三季經營溢利勁升631%至83.33萬億韓圜，銷售額升327.9%至104.61萬億韓圜，並宣布2026年逾100萬億韓圜股東回報計劃。韓國交易所上午9時53分啟動買盤熔斷機制（sidecar），暫停程式交易五分鐘。三星電子升7.09%，SK海力士升6.19%；日本日經指數亦高開470點，報63,738.98點。</p>
-  <div class="tags"><button class="tag">#韓股</button><button class="tag">#SK海力士</button><button class="tag">#三星</button><button class="tag">#韓國</button></div>
+  <h1 class="article-title">SK海力士盈利勁升631%　韓股急升4.5%觸發熔斷機制</h1>
+  <p class="lead article-summary">韓國股市10月28日早市急升，KOSPI升4.54%至5,894.26點，主因SK海力士公布第三季經營溢利勁升631%至83.33萬億韓圜，銷售額升327.9%至104.61萬億韓圜，並宣布2026年逾100萬億韓圜股東回報計劃。韓國交易所上午9時53分啟動買盤熔斷機制（sidecar），暫停程式交易五分鐘。三星電子升7.09%，SK海力士升6.19%；日本日經指數亦高開470點，報63,738.98點。</p>
+  <div class="tags article-tags"><button class="tag">#韓股</button><button class="tag">#SK海力士</button><button class="tag">#三星</button><button class="tag">#韓國</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.binance.com/en/square/post/10-28-2026-asia-market-open-kospi-rises-4-5-after-sk-hynix-earnings-triggering-sidecar-nikkei-and-taiex-open-higher-381995115670369" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261028-kospi-sk-hynix-earnings-surge.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

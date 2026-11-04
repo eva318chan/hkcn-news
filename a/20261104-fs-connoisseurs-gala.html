@@ -17,20 +17,84 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
 <div class="article-hero"><img src="https://gia.info.gov.hk/general/202611/04/P2026110400748_photo_1342898.jpg" alt="" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;noimg&quot;>🏅</div>'"></div>
   <p style="font-size:13px;color:#888;margin:8px 0 0">財政司司長陳茂波於「鑑賞家盛會」晚宴致辭。（政府新聞處）</p>
   <div class="card-top"><span class="cat-tag">finance</span><span>2026-11-04 19:52</span><span> · 政府新聞處</span></div>
-  <h1>陳茂波鑑賞家盛會晚宴致辭　香港成全球最大跨境財富管理中心</h1>
-  <div class="alt-titles"><p>Paul Chan touts Hong Kong as world&#x27;s largest cross-boundary wealth management centre at Festival of Connoisseurs gala</p><p>陈茂波鉴赏家盛会晚宴致辞　香港成全球最大跨境财富管理中心</p></div>
-  <p class="lead">Financial Secretary Paul Chan said Hong Kong has become the world&#x27;s largest cross-boundary wealth management centre, with more than 18,000 ultra-high-net-worth individuals and over 3,300 single family offices. Speaking at the Festival of Connoisseurs Gala Dinner, Chan said the inaugural festival — featuring nine premium clusters, more than 50 world-renowned brands and over 3,000 overseas visitors — is the first exhibition supported under the Government&#x27;s $100 million initiative to attract large-scale international exhibitions. He also highlighted Project Skytopia, under which the Airport Authority will open a museum-grade art storage facility in early 2027.</p>
-  <div class="tags"><button class="tag">#陳茂波</button><button class="tag">#鑑賞家盛會</button><button class="tag">#財富管理</button><button class="tag">#家族辦公室</button></div>
+  <h1 class="article-title">陳茂波鑑賞家盛會晚宴致辭　香港成全球最大跨境財富管理中心</h1>
+  <p class="lead article-summary">財政司司長陳茂波在「鑑賞家盛會」晚宴致辭時表示，香港已成為全球最大跨境財富管理中心，坐擁逾18,000名超高淨值人士及逾3,300間單一家族辦公室。首屆鑑賞家盛會匯聚九大高端展區、逾50個國際知名品牌及逾3,000名海外訪客，是政府今年預算案撥款1億元吸引大型國際展覽計劃下首個受惠展覽。陳茂波又提到，機管局正推展「航天城」項目，2027年初啟用博物館級藝術品儲存設施，鞏固香港高端藝術品交易樞紐地位。</p>
+  <div class="tags article-tags"><button class="tag">#陳茂波</button><button class="tag">#鑑賞家盛會</button><button class="tag">#財富管理</button><button class="tag">#家族辦公室</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.info.gov.hk/gia/general/202611/04/P2026110400748.htm" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https://hkcn-news.vercel.app/a/20261104-fs-connoisseurs-gala.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

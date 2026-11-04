@@ -17,19 +17,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
     <div class="article-hero"><img src="https://media.image.infoseek.co.jp/isnews/photos/kyodo/kyodo_1486519691576640388_0-enlarge.jpg" alt="圖片：共同通信 Kyodo News" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;noimg&quot;>&#127941;</div>'"></div>
   <div class="card-top"><span class="cat-tag">hk</span><span>2026-10-24 08:18</span><span> · 共同通信 Kyodo News</span></div>
-  <h1>岑子杰：6月羽田入境被滯留約20小時　籲日方區分政治犯與普通罪犯</h1>
-  <div class="alt-titles"><p>Ex-lawmaker Jimmy Sham says he was held for 20 hours at Japanese immigration; urges review of political prisoner screening</p><p>岑子杰：6月羽田入境被滞留约20小时　吁日方区分政治犯与普通罪犯</p></div>
-  <p class="lead">前立法會議員岑子杰接受共同通信訪問透露，今年6月由香港抵達羽田機場後，在入境審查中被滯留約20小時；因曾觸犯香港國安法而有定罪紀錄，相信令審查耗時。岑子杰曾任民間人權陣線召集人，因2020年民主派初選案被裁定串謀顛覆國家政權罪成，判囚4年3個月，去年5月出獄。他呼籲日方「政治犯與一般罪犯不同，希望改善審查方式」。有日本專家認為，入境當局須考慮事件演變成外交問題的可能性，20小時滯留屬妥當。</p>
-  <div class="tags"><button class="tag">#岑子杰</button><button class="tag">#日本</button><button class="tag">#入境審查</button><button class="tag">#共同通信</button><button class="tag">#國安法</button></div>
+  <h1 class="article-title">岑子杰：6月羽田入境被滯留約20小時　籲日方區分政治犯與普通罪犯</h1>
+  <p class="lead article-summary">前立法會議員岑子杰接受共同通信訪問透露，今年6月由香港抵達羽田機場後，在入境審查中被滯留約20小時；因曾觸犯香港國安法而有定罪紀錄，相信令審查耗時。岑子杰曾任民間人權陣線召集人，因2020年民主派初選案被裁定串謀顛覆國家政權罪成，判囚4年3個月，去年5月出獄。他呼籲日方「政治犯與一般罪犯不同，希望改善審查方式」。有日本專家認為，入境當局須考慮事件演變成外交問題的可能性，20小時滯留屬妥當。</p>
+  <div class="tags article-tags"><button class="tag">#岑子杰</button><button class="tag">#日本</button><button class="tag">#入境審查</button><button class="tag">#共同通信</button><button class="tag">#國安法</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://news.infoseek.co.jp/article/kyodo_1486519691576640388/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261024-jimmy-sham-japan-immigration-detention.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

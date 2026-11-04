@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">&#127941;</div></div>
   <div class="card-top"><span class="cat-tag">world</span><span>2026-10-26 01:54</span><span> · NPR</span></div>
-  <h1>馬斯克承認 SpaceX 曾限制烏克蘭星鏈服務　基輔稱服務已恢復正常</h1>
-  <div class="alt-titles"><p>Musk says SpaceX did restrict Ukraine's Starlink as Kyiv says service is restored</p><p>马斯克承认 SpaceX 曾限制乌克兰星链服务　基辅称服务已恢复正常</p></div>
-  <p class="lead">馬斯克表示，旗下 SpaceX 確實曾限制烏克蘭使用星鏈衛星系統，此前基輔稱星鏈及軍用版星盾服務在中斷超過一星期後已恢復全速運作。馬斯克在社交平台 X 發文稱，烏克蘭軍方違反星鏈服務條款，利用系統進行攻擊性無人機襲擊，有關漏洞上星期已被堵塞。烏克蘭官員表示，限制措施令時速超過約160公里的無人機失去衛星連接，妨礙攔截俄羅斯攻擊無人機的工作，部分行動被迫取消。總統澤連斯基表示，速度已於一夜之間恢復正常；國防部稱連接穩定，時速超過400公里。基輔反駁馬斯克的說法，總統顧問稱烏克蘭實際上無法利用商用星鏈進行長程無人機襲擊；馬斯克則稱星盾由美國政府營運。</p>
-  <div class="tags"><button class="tag">#星鏈</button><button class="tag">#烏克蘭</button><button class="tag">#馬斯克</button><button class="tag">#SpaceX</button><button class="tag">#星盾</button></div>
+  <h1 class="article-title">馬斯克承認 SpaceX 曾限制烏克蘭星鏈服務　基輔稱服務已恢復正常</h1>
+  <p class="lead article-summary">馬斯克表示，旗下 SpaceX 確實曾限制烏克蘭使用星鏈衛星系統，此前基輔稱星鏈及軍用版星盾服務在中斷超過一星期後已恢復全速運作。馬斯克在社交平台 X 發文稱，烏克蘭軍方違反星鏈服務條款，利用系統進行攻擊性無人機襲擊，有關漏洞上星期已被堵塞。烏克蘭官員表示，限制措施令時速超過約160公里的無人機失去衛星連接，妨礙攔截俄羅斯攻擊無人機的工作，部分行動被迫取消。總統澤連斯基表示，速度已於一夜之間恢復正常；國防部稱連接穩定，時速超過400公里。基輔反駁馬斯克的說法，總統顧問稱烏克蘭實際上無法利用商用星鏈進行長程無人機襲擊；馬斯克則稱星盾由美國政府營運。</p>
+  <div class="tags article-tags"><button class="tag">#星鏈</button><button class="tag">#烏克蘭</button><button class="tag">#馬斯克</button><button class="tag">#SpaceX</button><button class="tag">#星盾</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.oceanstatemedia.org/national/2026-10-24/musk-says-spacex-did-restrict-starlink-as-ukraine-says-the-tech-has-been-restored" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261026-starlink-ukraine-restored-musk.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

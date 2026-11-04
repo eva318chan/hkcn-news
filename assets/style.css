@@ -91,3 +91,7 @@ footer{border-top:1px solid var(--border);margin-top:24px;padding:20px 16px;text
 .article-wrap .alt-titles{margin:14px 0;padding:12px;border-left:3px solid var(--accent);background:var(--card);border-radius:0 8px 8px 0}
 .article-wrap .alt-titles p{font-size:13px;color:var(--muted);margin:4px 0}
 .backlink{display:inline-block;margin:16px; font-size:14px;color:var(--accent);text-decoration:none;font-weight:600}
+
+/* article topbar: backlink + language switch + theme toggle (2026-11-04) */
+.article-topbar{display:flex;justify-content:space-between;align-items:center;gap:10px;max-width:760px;margin:0 auto;padding:14px 16px 0}
+.article-topbar .backlink{margin:0}

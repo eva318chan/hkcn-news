@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">🏅</div></div>
   <div class="card-top"><span class="cat-tag">world</span><span>2026-11-02 02:36</span><span> · LaPresse</span></div>
-  <h1>保加利亞總統決選出口民調：約廷諾娃料52%勝出　成首位民選女總統</h1>
-  <div class="alt-titles"><p>Bulgaria exit polls point to Yotova win in presidential runoff</p><p>保加利亚总统决选出口民调：约廷诺娃料52%胜出　成首位民选女总统</p></div>
-  <p class="lead">保加利亞周日舉行總統決選，多間民調機構嘅出口民調顯示，現任總統約廷諾娃有望以約52%得票率擊敗前看守總理古羅夫。如果結果得到確認，62歲嘅約廷諾娃將成為保加利亞首位民選女總統。10月25日首輪投票兩人都未能過半數，投票率僅約23%創歷史新低。官方結果預計周一公布。官方廣播電台 BNR 同 Alpha Research 嘅出口民調分別顯示約廷諾娃得票 51% 同 52.5%；保加利亞通訊社 BGNES 引述初步計票（已點約 75% 選票）話，約廷諾娃得票 56.1%，領先居羅夫嘅 39.9%，投票率約 29%。（更新）11月2日最新計票數字：多間民調機構嘅平行計票顯示約廷諾娃得票 57.4% 至 58.2%，居羅夫 38.6% 至 39.6%；中央選舉委員會處理咗 17.39% 投票站報告後嘅部分統計顯示，約廷諾娃得票 57.94%，居羅夫 39.01%。居羅夫已經承認敗選。選委會話正式結果預計最遲 11 月 4 日公布；約廷諾娃將於 2027 年 1 月 22 日就任，任期五年。</p>
-  <div class="tags"><button class="tag">#保加利亞</button><button class="tag">#總統選舉</button><button class="tag">#約廷諾娃</button></div>
+  <h1 class="article-title">保加利亞總統決選出口民調：約廷諾娃料52%勝出　成首位民選女總統</h1>
+  <p class="lead article-summary">保加利亞周日舉行總統決選，多間民調機構嘅出口民調顯示，現任總統約廷諾娃有望以約52%得票率擊敗前看守總理古羅夫。如果結果得到確認，62歲嘅約廷諾娃將成為保加利亞首位民選女總統。10月25日首輪投票兩人都未能過半數，投票率僅約23%創歷史新低。官方結果預計周一公布。官方廣播電台 BNR 同 Alpha Research 嘅出口民調分別顯示約廷諾娃得票 51% 同 52.5%；保加利亞通訊社 BGNES 引述初步計票（已點約 75% 選票）話，約廷諾娃得票 56.1%，領先居羅夫嘅 39.9%，投票率約 29%。（更新）11月2日最新計票數字：多間民調機構嘅平行計票顯示約廷諾娃得票 57.4% 至 58.2%，居羅夫 38.6% 至 39.6%；中央選舉委員會處理咗 17.39% 投票站報告後嘅部分統計顯示，約廷諾娃得票 57.94%，居羅夫 39.01%。居羅夫已經承認敗選。選委會話正式結果預計最遲 11 月 4 日公布；約廷諾娃將於 2027 年 1 月 22 日就任，任期五年。</p>
+  <div class="tags article-tags"><button class="tag">#保加利亞</button><button class="tag">#總統選舉</button><button class="tag">#約廷諾娃</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://lapresse.us/world/2026/11/01/bulgaria-exit-polls-yotova-set-for-victory-in-the-presidential-run-off/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261102-bulgaria-yotova-runoff.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

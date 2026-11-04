@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">🏅</div></div>
   <div class="card-top"><span class="cat-tag">world</span><span>2026-11-04 02:18</span><span> · 香港電台</span></div>
-  <h1>伊朗促美明確回應七項條件　否則不開放霍爾木茲海峽</h1>
-  <div class="alt-titles"><p>Iran demands clear US response to seven conditions or Strait of Hormuz stays closed</p><p>伊朗促美明确回应七项条件　否则不开放霍尔木兹海峡</p></div>
-  <p class="lead">伊朗最高國家安全委員會秘書雷扎伊表示，美國對伊朗權利和訴求的回應未能令人信服，美方必須完整和明確回應伊朗提出的七項條件並付諸實施，霍爾木茲海峽才會開放。雷扎伊上月曾透露，美方過去兩個月透過巴基斯坦、卡塔爾和伊拉克，要求伊朗提出提議；伊朗已向美方開出七項條件，並表明除非條件獲滿足，否則不會開放海峽，亦不會進行任何談判。伊朗談判代表團成員、外交部發言人巴加埃稱，伊美談判未有新進展，調解人仍在兩國之間交換信息，伊朗同時處於最高級別防禦準備。卡塔爾外交部發言人表示，美伊正研究調解方提出的方案，但雙方分歧仍待彌合，相關外交努力還在繼續。</p>
-  <div class="tags"><button class="tag">#伊朗</button><button class="tag">#霍爾木茲海峽</button><button class="tag">#美伊談判</button></div>
+  <h1 class="article-title">伊朗促美明確回應七項條件　否則不開放霍爾木茲海峽</h1>
+  <p class="lead article-summary">伊朗最高國家安全委員會秘書雷扎伊表示，美國對伊朗權利和訴求的回應未能令人信服，美方必須完整和明確回應伊朗提出的七項條件並付諸實施，霍爾木茲海峽才會開放。雷扎伊上月曾透露，美方過去兩個月透過巴基斯坦、卡塔爾和伊拉克，要求伊朗提出提議；伊朗已向美方開出七項條件，並表明除非條件獲滿足，否則不會開放海峽，亦不會進行任何談判。伊朗談判代表團成員、外交部發言人巴加埃稱，伊美談判未有新進展，調解人仍在兩國之間交換信息，伊朗同時處於最高級別防禦準備。卡塔爾外交部發言人表示，美伊正研究調解方提出的方案，但雙方分歧仍待彌合，相關外交努力還在繼續。</p>
+  <div class="tags article-tags"><button class="tag">#伊朗</button><button class="tag">#霍爾木茲海峽</button><button class="tag">#美伊談判</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://news.rthk.hk/rthk/ch/component/k2/1876454-20261104.htm" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261104-iran-strait-conditions.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

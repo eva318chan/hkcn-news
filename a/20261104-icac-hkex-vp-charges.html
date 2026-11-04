@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">🏅</div></div>
   <div class="card-top"><span class="cat-tag">society</span><span>2026-11-04 13:11</span><span> · 商業電台</span></div>
-  <h1>廉署起訴港交所前副總裁湯寶衡　涉不誠實取用內部資訊系統　母同被控</h1>
-  <div class="alt-titles"><p>ICAC charges former HKEX vice president Geoffrey Tong over alleged dishonest access to internal system; mother also charged</p><p>廉署起诉港交所前副总裁汤宝衡　涉不诚实取用内部资讯系统　母同被控</p></div>
-  <p class="lead">The ICAC has charged former HKEX vice president Geoffrey Tong, 39, and his mother Leung Yiu-chun, 68, jointly with one count of obtaining access to a computer with a view to dishonest gain. The charge alleges the pair dishonestly accessed HKEX&#x27;s internal information system, which contained confidential information of listed companies, between February 2018 and April 2023. Tong allegedly accessed confidential information of listed companies unrelated to his duties on multiple occasions, and his mother&#x27;s subsequent share trades earned over HK$500,000. The case was mentioned at Eastern Magistrates&#x27; Courts today; the ICAC said the investigation continues and further prosecutions are not ruled out. The defendants are presumed innocent unless proven guilty.</p>
-  <div class="tags"><button class="tag">#廉署</button><button class="tag">#港交所</button><button class="tag">#湯寶衡</button><button class="tag">#內幕交易</button></div>
+  <h1 class="article-title">廉署起訴港交所前副總裁湯寶衡　涉不誠實取用內部資訊系統　母同被控</h1>
+  <p class="lead article-summary">廉政公署落案起訴港交所前副總裁湯寶衡（39歲）及其母親梁耀春（68歲），同控一項「為不誠實利益而取用電腦」罪。控罪指兩人於2018年2月至2023年4月期間，不誠實取用港交所內部資訊系統，涉及上市公司的機密資料；湯寶衡涉嫌多次查閱與其職責無關的上市公司機密資料，其母其後的股票交易獲利逾50萬元。案件今日下午在東區裁判法院提訊。廉署表示調查仍在繼續，不排除再有其他人被檢控；現階段只是控罪指控，被告在定罪前均假定無罪。</p>
+  <div class="tags article-tags"><button class="tag">#廉署</button><button class="tag">#港交所</button><button class="tag">#湯寶衡</button><button class="tag">#內幕交易</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.881903.com/news/local/2657943" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https://hkcn-news.vercel.app/a/20261104-icac-hkex-vp-charges.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

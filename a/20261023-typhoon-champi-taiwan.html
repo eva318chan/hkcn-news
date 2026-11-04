@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">&#127941;</div></div>
   <div class="card-top"><span class="cat-tag">world</span><span>2026-10-23 08:22</span><span> · 中央社（經工商時報）</span></div>
-  <h1>颱風薔琵逼近台灣 宜蘭山區慎防超大豪雨</h1>
-  <div class="alt-titles"><p>Typhoon Champi nears Taiwan; Yilan mountains brace for torrential rain</p><p>台风蔷琵逼近台湾 宜兰山区慎防超大豪雨</p></div>
-  <p class="lead">中度颱風薔琵逼近台灣，中央氣象署持續發布海上陸上颱風警報。薔琵今晨6時中心位於鵝鑾鼻東方約330公里，以每小時20轉9公里速度向北北西轉北移動，中心氣壓945百帕，近中心最大風速每秒43公尺（14級風），暴風圈已接觸台灣東半部陸地。今日至明日清晨係降雨最明顯時段，北部、東北部山區或出現豪雨等級以上降雨，宜蘭山區慎防局部超大豪雨；東南部海面已觀測到約10公尺浪高。氣象署預計薔琵今晚深夜抵達東北部海面，明日清晨逐漸北上。</p>
-  <div class="tags"><button class="tag">#颱風薔琵</button><button class="tag">#台灣天氣</button><button class="tag">#豪雨特報</button><button class="tag">#中央氣象署</button></div>
+  <h1 class="article-title">颱風薔琵逼近台灣 宜蘭山區慎防超大豪雨</h1>
+  <p class="lead article-summary">中度颱風薔琵逼近台灣，中央氣象署持續發布海上陸上颱風警報。薔琵今晨6時中心位於鵝鑾鼻東方約330公里，以每小時20轉9公里速度向北北西轉北移動，中心氣壓945百帕，近中心最大風速每秒43公尺（14級風），暴風圈已接觸台灣東半部陸地。今日至明日清晨係降雨最明顯時段，北部、東北部山區或出現豪雨等級以上降雨，宜蘭山區慎防局部超大豪雨；東南部海面已觀測到約10公尺浪高。氣象署預計薔琵今晚深夜抵達東北部海面，明日清晨逐漸北上。</p>
+  <div class="tags article-tags"><button class="tag">#颱風薔琵</button><button class="tag">#台灣天氣</button><button class="tag">#豪雨特報</button><button class="tag">#中央氣象署</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.ctee.com.tw/news/20261023700324-431401" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261023-typhoon-champi-taiwan.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

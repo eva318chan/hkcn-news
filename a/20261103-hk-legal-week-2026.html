@@ -17,20 +17,84 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><img src="https://www.news.gov.hk/chi/2026/11/20261102/20261102_211608_935/images/20261102221838037.jpg" alt="" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;noimg&quot;>🏅</div>'"></div>
   <p style="font-size:13px;color:#888;margin:8px 0 0">私法協會百年慶典暨亞太聯絡辦公室開幕典禮。（政府新聞處）</p>
   <div class="card-top"><span class="cat-tag">hk</span><span>2026-11-02 22:08</span><span> · 政府新聞處</span></div>
-  <h1>香港法律周2026開幕　私法協會亞太聯絡辦公室揭牌</h1>
-  <div class="alt-titles"><p>Hong Kong Legal Week 2026 opens; UNIDROIT Asia-Pacific liaison office inaugurated</p><p>香港法律周2026开幕　私法协会亚太联络办公室揭牌</p></div>
-  <p class="lead">「香港法律周2026」星期一（11月2日）揭幕，一連五日舉行，行政長官李家超為開幕典禮致辭。今年適逢國際統一私法協會（UNIDROIT）成立100周年，協會亞太聯絡辦公室同日舉行開幕典禮，是協會創會百年以來首個設於羅馬總部以外的辦公室，選址香港。李家超形容是雙喜臨門；律政司司長林定國指，辦公室連同海牙國際私法會議亞太區域辦事處等三大國際私法組織齊集香港，發揮香港促成國際及區域機構協作的獨特優勢。今屆法律周主題為「協作與創新：法律聯動，共建未來」；慶祝協會百年嘅亞太區域會議有超過40個國家或地區、逾700人報名參與，本周尚有聯合國國際貿易法委員會60周年誌慶活動及香港法律科技節等。</p>
-  <div class="tags"><button class="tag">#香港法律周</button><button class="tag">#私法協會</button><button class="tag">#李家超</button></div>
+  <h1 class="article-title">香港法律周2026開幕　私法協會亞太聯絡辦公室揭牌</h1>
+  <p class="lead article-summary">「香港法律周2026」星期一（11月2日）揭幕，一連五日舉行，行政長官李家超為開幕典禮致辭。今年適逢國際統一私法協會（UNIDROIT）成立100周年，協會亞太聯絡辦公室同日舉行開幕典禮，是協會創會百年以來首個設於羅馬總部以外的辦公室，選址香港。李家超形容是雙喜臨門；律政司司長林定國指，辦公室連同海牙國際私法會議亞太區域辦事處等三大國際私法組織齊集香港，發揮香港促成國際及區域機構協作的獨特優勢。今屆法律周主題為「協作與創新：法律聯動，共建未來」；慶祝協會百年嘅亞太區域會議有超過40個國家或地區、逾700人報名參與，本周尚有聯合國國際貿易法委員會60周年誌慶活動及香港法律科技節等。</p>
+  <div class="tags article-tags"><button class="tag">#香港法律周</button><button class="tag">#私法協會</button><button class="tag">#李家超</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.news.gov.hk/chi/2026/11/20261102/20261102_211608_935.html" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261103-hk-legal-week-2026.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

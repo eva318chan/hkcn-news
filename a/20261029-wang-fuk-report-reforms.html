@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">&#127941;</div></div>
   <div class="card-top"><span class="cat-tag">hk</span><span>2026-10-29 17:11</span><span> · 政府新聞處</span></div>
-  <h1>宏福苑火災調查報告公布　政府推七大改革並啟動紀律調查</h1>
-  <div class="alt-titles"><p>Wang Fuk Court fire inquiry report released; government unveils seven-pronged reform and disciplinary probe</p><p>宏福苑火灾调查报告公布　政府推七大改革并启动纪律调查</p></div>
-  <p class="lead">政府今日公布大埔宏福苑火災獨立委員會報告。報告指出，懷疑以非阻燃棚網代替阻燃棚網、使用易燃發泡膠板，以及為圖方便在逃生樓梯開鑿通道，導致火勢迅速蔓延；四個負有規管責任的部門（獨立審查組、屋宇署、消防處、勞工處）亦有缺失，而圍標被指是問題根源，涉及三合會操控投標。政府宣布七大改革，包括將樓宇維修圍標刑事化、成立警方、廉署與競委會聯合專責小組、設立樓宇維修支援服務委員會、重組屋宇署等，並啟動公務員紀律調查，三個月內完成。刑事方面至今已檢控七人及兩間公司共 25 項控罪。政府明日（10 月 30 日）將舉行兩場專題記者會交代詳情。</p>
-  <div class="tags"><button class="tag">#宏福苑大火</button><button class="tag">#獨立調查委員會</button><button class="tag">#樓宇維修改革</button></div>
+  <h1 class="article-title">宏福苑火災調查報告公布　政府推七大改革並啟動紀律調查</h1>
+  <p class="lead article-summary">政府今日公布大埔宏福苑火災獨立委員會報告。報告指出，懷疑以非阻燃棚網代替阻燃棚網、使用易燃發泡膠板，以及為圖方便在逃生樓梯開鑿通道，導致火勢迅速蔓延；四個負有規管責任的部門（獨立審查組、屋宇署、消防處、勞工處）亦有缺失，而圍標被指是問題根源，涉及三合會操控投標。政府宣布七大改革，包括將樓宇維修圍標刑事化、成立警方、廉署與競委會聯合專責小組、設立樓宇維修支援服務委員會、重組屋宇署等，並啟動公務員紀律調查，三個月內完成。刑事方面至今已檢控七人及兩間公司共 25 項控罪。政府明日（10 月 30 日）將舉行兩場專題記者會交代詳情。</p>
+  <div class="tags article-tags"><button class="tag">#宏福苑大火</button><button class="tag">#獨立調查委員會</button><button class="tag">#樓宇維修改革</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.info.gov.hk/gia/general/202610/29/P2026102900551.htm" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261029-wang-fuk-report-reforms.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

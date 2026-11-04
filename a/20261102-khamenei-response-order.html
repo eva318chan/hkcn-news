@@ -17,20 +17,84 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><img src="https://bloompakistan.com/wp-content/uploads/2026/11/Iran-Updates-Target-List-Threatens-US-and-Israel-With-Wider-War1.jpg" alt="" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;noimg&quot;>🏅</div>'"></div>
   <p style="font-size:13px;color:#888;margin:8px 0 0">德黑蘭街頭嘅伊朗最高領袖壁畫。（bloompakistan）</p>
   <div class="card-top"><span class="cat-tag">world</span><span>2026-11-01 20:57</span><span> · Bloom Pakistan</span></div>
-  <h1>伊朗最高領袖下令：美以若再動武　即時無地域限制反擊</h1>
-  <div class="alt-titles"><p>Iran's supreme leader orders immediate, geographically unrestricted response to any new US-Israeli attack</p><p>伊朗最高领袖下令：美以若再动武　即时无地域限制反击</p></div>
-  <p class="lead">伊朗最高領袖哈梅內伊會見三軍高級將領，下令如果美國或以色列再次發動軍事或恐怖襲擊，伊朗武裝部隊必須即時作出有效回應，而且唔設地域限制。佢同時要求軍方更新打擊目標清單，涵蓋美以兩國各類有形同無形資產。聲明又話，如果敵人重啟戰事，幾時同點樣結束將由伊朗話事。美國國務卿魯比奧周六話，特朗普未決定係咪再打擊伊朗。</p>
-  <div class="tags"><button class="tag">#伊朗</button><button class="tag">#哈梅內伊</button><button class="tag">#美伊關係</button></div>
+  <h1 class="article-title">伊朗最高領袖下令：美以若再動武　即時無地域限制反擊</h1>
+  <p class="lead article-summary">伊朗最高領袖哈梅內伊會見三軍高級將領，下令如果美國或以色列再次發動軍事或恐怖襲擊，伊朗武裝部隊必須即時作出有效回應，而且唔設地域限制。佢同時要求軍方更新打擊目標清單，涵蓋美以兩國各類有形同無形資產。聲明又話，如果敵人重啟戰事，幾時同點樣結束將由伊朗話事。美國國務卿魯比奧周六話，特朗普未決定係咪再打擊伊朗。</p>
+  <div class="tags article-tags"><button class="tag">#伊朗</button><button class="tag">#哈梅內伊</button><button class="tag">#美伊關係</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://bloompakistan.com/iran-warns-us-israel-retaliation-without-geographical-limits/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261102-khamenei-response-order.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

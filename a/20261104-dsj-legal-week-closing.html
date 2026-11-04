@@ -17,20 +17,84 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
 <div class="article-hero"><img src="https://gia.info.gov.hk/general/202611/04/P2026110400665_photo_1342873.jpg" alt="" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;noimg&quot;>🏅</div>'"></div>
   <p style="font-size:13px;color:#888;margin:8px 0 0">律政司副司長張國鈞於香港法律周2026致閉幕詞。（政府新聞處）</p>
   <div class="card-top"><span class="cat-tag">hk</span><span>2026-11-04 18:35</span><span> · 政府新聞處</span></div>
-  <h1>香港法律周2026閉幕　張國鈞：香港續為貿易法委員會數碼經濟貨運工作出力</h1>
-  <div class="alt-titles"><p>Cheung Kwok-kwan closes Hong Kong Legal Week 2026, pledges continued contribution to UNCITRAL&#x27;s digital-economy trade work</p><p>香港法律周2026闭幕　张国钧：香港续为贸易法委员会数码经济货运工作出力</p></div>
-  <p class="lead">Deputy Secretary for Justice Cheung Kwok-kwan delivered closing remarks at &quot;Hong Kong Legal Week 2026: UNCITRAL&#x27;s Contribution to the International Transport of Goods in the Digital Economy – A Celebration of UNCITRAL@60&quot;. Cheung said UNCITRAL has excellent collaboration with the Department of Justice, and Hong Kong has made valuable contributions to its work on the international transport of goods in the digital economy in the past and will continue to do so. The day&#x27;s four panels covered the digitalisation and platformisation of trade finance, digital transferable records, smart contracts and cross-border dispute resolution, with constructive dialogue among members of the Judiciary, policymakers, legal scholars, practitioners and stakeholders.</p>
-  <div class="tags"><button class="tag">#香港法律周</button><button class="tag">#律政司</button><button class="tag">#貿易法委員會</button><button class="tag">#張國鈞</button></div>
+  <h1 class="article-title">香港法律周2026閉幕　張國鈞：香港續為貿易法委員會數碼經濟貨運工作出力</h1>
+  <p class="lead article-summary">律政司副司長張國鈞在「香港法律周2026：聯合國國際貿易法委員會對數碼經濟中貨物國際運輸的貢獻──貿易法委員會成立60周年」活動上致閉幕詞。張國鈞表示，貿易法委員會與律政司合作良好，香港過去為委員會在數碼經濟貨物運輸方面的工作作出重要貢獻，日後亦會繼續出力。當日的四場專題討論環繞貿易融資數碼化與平台化、數碼可轉讓紀錄、智能合約及跨境爭議解決等議題，司法、政策、學界及業界代表作了具建設性的交流。</p>
+  <div class="tags article-tags"><button class="tag">#香港法律周</button><button class="tag">#律政司</button><button class="tag">#貿易法委員會</button><button class="tag">#張國鈞</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.info.gov.hk/gia/general/202611/04/P2026110400665.htm" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https://hkcn-news.vercel.app/a/20261104-dsj-legal-week-closing.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

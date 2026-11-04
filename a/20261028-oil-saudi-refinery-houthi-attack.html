@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">&#127941;</div></div>
   <div class="card-top"><span class="cat-tag">world</span><span>2026-10-28 09:40</span><span> · 路透社</span></div>
-  <h1>胡塞武裝稱擊中沙特最大煉油廠　油價反彈</h1>
-  <div class="alt-titles"><p>Oil rises after Houthis say they hit Saudi Arabia's biggest refinery</p><p>胡塞武装称击中沙特最大炼油厂　油价反弹</p></div>
-  <p class="lead">油價10月28日反彈，原因是也門胡塞武裝稱以導彈擊中沙特阿拉伯最大煉油廠，令市場再度憂慮中東供應風險。布蘭特期油升1.3%至每桶115.36美元，美國西德州中質油升1.22%至101.12美元。沙特當局未即時確認該座每日產能55萬桶的煉油廠遇襲。油價星期二曾跌近2美元，因中東會談緩和供應憂慮；石油輸出國組織與盟友（OPEC+）預料維持12月產量目標不變。</p>
-  <div class="tags"><button class="tag">#油價</button><button class="tag">#沙特阿拉伯</button><button class="tag">#胡塞武裝</button><button class="tag">#布蘭特期油</button></div>
+  <h1 class="article-title">胡塞武裝稱擊中沙特最大煉油廠　油價反彈</h1>
+  <p class="lead article-summary">油價10月28日反彈，原因是也門胡塞武裝稱以導彈擊中沙特阿拉伯最大煉油廠，令市場再度憂慮中東供應風險。布蘭特期油升1.3%至每桶115.36美元，美國西德州中質油升1.22%至101.12美元。沙特當局未即時確認該座每日產能55萬桶的煉油廠遇襲。油價星期二曾跌近2美元，因中東會談緩和供應憂慮；石油輸出國組織與盟友（OPEC+）預料維持12月產量目標不變。</p>
+  <div class="tags article-tags"><button class="tag">#油價</button><button class="tag">#沙特阿拉伯</button><button class="tag">#胡塞武裝</button><button class="tag">#布蘭特期油</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://northlandnewsradio.com/2026/10/27/oil-prices-rise-after-attack-on-saudi-arabian-refinery-reignites-supply-concerns/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261028-oil-saudi-refinery-houthi-attack.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

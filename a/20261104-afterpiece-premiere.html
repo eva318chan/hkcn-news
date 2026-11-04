@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 中港新聞速報</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><div class="noimg">🏅</div></div>
   <div class="card-top"><span class="cat-tag">entertainment</span><span>2026-11-04 15:33</span><span> · STARSHK</span></div>
-  <h1>《第四幕》昨晚圓方盛大首映　爾冬陞監製馮德倫主演　11月12日上映</h1>
-  <div class="alt-titles"><p>"Afterpiece" holds star-studded premiere at Elements; produced by Derek Yee and starring Stephen Fung, opening November 12</p><p>《第四幕》昨晚圆方盛大首映　尔冬陞监制冯德伦主演　11月12日上映</p></div>
-  <p class="lead">"Afterpiece", the key title under the "Film Production Financing Scheme: Directors' Succession Scheme" produced by Derek Yee and directed by newcomer Wong Tak-kin, held its star-studded premiere last night (November 3) at Elements, with stars Stephen Fung, Angela Yuen, Myolie Wu and Chrissie Chau in attendance. The film opens across Hong Kong on November 12. It follows has-been director Owen (Fung), who writes, directs and stars in a new production, gradually losing himself between rehearsals and reality, culminating in an uncontrollable fiasco on opening night. Assistant Commissioner for Cultural and Creative Industries cum Secretary of the Film Development Council Maxwell Mak officiated at the ceremony, and the cast surprised birthday girl Myolie Wu with a cake near the end of the evening.</p>
-  <div class="tags"><button class="tag">#第四幕</button><button class="tag">#港產片</button><button class="tag">#馮德倫</button></div>
+  <h1 class="article-title">《第四幕》昨晚圓方盛大首映　爾冬陞監製馮德倫主演　11月12日上映</h1>
+  <p class="lead article-summary">由爾冬陞監製、新銳導演王德健執導的「薪火相傳計劃」重點作品《第四幕》（Afterpiece），昨晚（11月3日）在圓方舉行盛大首映禮，主演馮德倫、袁澧林、胡杏兒、周秀娜等齊集現場，電影將於11月12日全港上映。故事講述過氣導演歐文（馮德倫飾）自編自導自演新作，在排演與現實交錯中逐漸迷失，首演之夜更迎來失控殘局。首映禮上文創產業助理專員兼電影發展局秘書麥聖希親臨主禮，眾主創更在活動尾聲為即將生日的胡杏兒送上驚喜蛋糕提早慶生。</p>
+  <div class="tags article-tags"><button class="tag">#第四幕</button><button class="tag">#港產片</button><button class="tag">#馮德倫</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.stars-hk.com/2026/11/04/%E7%AC%AC%E5%9B%9B%E5%B9%95-3/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-news.vercel.app%2Fa%2F20261104-afterpiece-premiere.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='中港新聞速報';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>
