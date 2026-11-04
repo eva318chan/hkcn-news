@@ -1,705 +1,742 @@
 [
-  {
-    "id": "20261105-wangyi-lancang-mekong-fm",
-    "category": "china",
-    "published_at": "2026-11-04T23:02:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876587-20261104.htm"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Wang Yi chairs 11th Lancang-Mekong foreign ministers' meeting, calls for new 'golden decade'",
-      "zh_hant": "王毅主持瀾湄合作第11次外長會　籲開啟合作新「金色十年」",
-      "zh_hans": "王毅主持澜湄合作第11次外长会　吁开启合作新「金色十年」"
-    },
-    "summary": {
-      "en": "Chinese Foreign Minister Wang Yi chaired the 11th Lancang-Mekong Cooperation foreign ministers' meeting in Beijing on Tuesday. Wang said cooperation between China and the five Mekong countries has deepened, with bilateral trade topping US$500 billion and the 'Safe Lancang-Mekong' operation effectively cracking down on cross-border online gambling and telecom fraud. He called on all parties to jointly lift Lancang-Mekong cooperation to a new level and usher in a new 'golden decade'. Kankanews reported that Wang also held a tea meeting with the Cambodian and Thai foreign ministers on the sidelines to discuss cooperation, regional stability and confidence-building measures between Cambodia and Thailand.",
-      "zh_hant": "中共中央政治局委員、外交部長王毅今日在北京主持瀾湄合作第11次外長會。王毅表示，中國與湄公河五國雙邊命運共同體建設走深走實，雙方貿易額已突破5,000億美元，「平安瀾湄行動」有力打擊跨境網賭電詐犯罪。他呼籲各方共同推動瀾湄合作邁上新台階，攜手開啟合作新的「金色十年」。另據看看新聞報道，王毅在會議間隙邀請柬埔寨及泰國外長茶敘，就加強合作、維護地區穩定及推動柬泰建立信任措施進行建設性交流。",
-      "zh_hans": "中共中央政治局委员、外交部长王毅今日在北京主持澜湄合作第11次外长会。王毅表示，中国与湄公河五国双边命运共同体建设走深走实，双方贸易额已突破5000亿美元，「平安澜湄行动」有力打击跨境网赌电诈犯罪。他呼吁各方共同推动澜湄合作迈上新台阶，携手开启合作新的「金色十年」。另据看看新闻报道，王毅在会议间隙邀请柬埔寨及泰国外长茶叙，就加强合作、维护地区稳定及推动柬泰建立信任措施进行建设性交流。"
-    },
-    "tags": {
-      "en": [
-        "Wang Yi",
-        "Lancang-Mekong Cooperation",
-        "foreign ministers' meeting"
-      ],
-      "zh_hant": [
-        "王毅",
-        "瀾湄合作",
-        "外長會"
-      ],
-      "zh_hans": [
-        "王毅",
-        "澜湄合作",
-        "外长会"
-      ]
-    }
+ {
+  "id": "20261105-vance-midterms-loss-iran-war",
+  "category": "world",
+  "published_at": "2026-11-05T02:33:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876600-20261105.htm"
   },
-  {
-    "id": "20261105-us-ism-services-pmi-oct",
-    "category": "finance",
-    "published_at": "2026-11-04T23:53:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/photo-gallery.htm?pid=1456935"
-    },
-    "image_url": "",
-    "title": {
-      "en": "US services growth cools in October as ISM non-manufacturing PMI slips to 54.5",
-      "zh_hant": "美國10月ISM非製造業PMI跌至54.5　低過市場預期",
-      "zh_hans": "美国10月ISM非制造业PMI跌至54.5　低于市场预期"
-    },
-    "summary": {
-      "en": "The Institute for Supply Management said its US non-manufacturing PMI slipped to 54.5 in October from 54.9 in September, below the market consensus of 54.8 but still above the 50 expansion threshold, marking the 28th straight month of services growth. The new orders index fell sharply to 55.9 from 59.8, pointing to cooling demand, while the employment gauge rose to 51.4 from 50.1. The prices index stayed elevated at 73.0, signalling stubborn inflation pressure. Analysts said the data showed a solid start to the fourth quarter, though softer consumer spending may slow growth.",
-      "zh_hant": "美國供應管理協會公布，10月非製造業採購經理人指數由9月的54.9回落至54.5，低於市場預期的54.8，但仍高於50的擴張分界線，服務業連續第28個月擴張。新訂單指數由59.8急跌至55.9，反映需求降溫；就業指數則由50.1升至51.4。投入價格指數維持73.0的高位，顯示通脹壓力仍然頑固。分析認為，數據顯示美國經濟第四季開局穩健，但消費支出回落或令增長放緩。",
-      "zh_hans": "美国供应管理协会公布，10月非制造业采购经理人指数由9月的54.9回落至54.5，低于市场预期的54.8，但仍高于50的扩张分界线，服务业连续第28个月扩张。新订单指数由59.8急跌至55.9，反映需求降温；就业指数则由50.1升至51.4。投入价格指数维持73.0的高位，显示通胀压力仍然顽固。分析认为，数据显示美国经济第四季开局稳健，但消费支出回落或令增长放缓。"
-    },
-    "tags": {
-      "en": [
-        "US",
-        "PMI",
-        "services sector"
-      ],
-      "zh_hant": [
-        "美國",
-        "PMI",
-        "服務業"
-      ],
-      "zh_hans": [
-        "美国",
-        "PMI",
-        "服务业"
-      ]
-    }
+  "image_url": "",
+  "title": {
+   "en": "Vance blames Iran war for Republican midterm defeat",
+   "zh_hant": "萬斯回應中期選舉失利　稱落敗原因在於伊朗戰事",
+   "zh_hans": "万斯回应中期选举失利　称落败原因在于伊朗战事"
   },
-  {
-    "id": "20261105-joshua-wong-sentencing",
-    "category": "hk",
-    "published_at": "2026-11-04T22:19:01+08:00",
-    "source": {
-      "name": "庭刊",
-      "url": "https://hkcourtnews.com/%E9%BB%83%E4%B9%8B%E9%8B%92%E8%AA%8D%E4%B8%B2%E8%AC%80%E5%8B%BE%E7%B5%90%E5%A4%96%E5%9C%8B%E5%8B%A2%E5%8A%9B%E3%80%80%E6%9C%AC%E5%91%A8%E5%9B%9B%E5%88%A4%E5%88%91/"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Joshua Wong to be sentenced Thursday over national security collusion charge",
-      "zh_hant": "黃之鋒認串謀勾結外國勢力　周四上午判刑",
-      "zh_hans": "黄之锋认串谋勾结外国势力　周四上午判刑"
-    },
-    "summary": {
-      "en": "Former Demosisto secretary-general Joshua Wong, currently serving a sentence over the democrats' primaries case, earlier pleaded guilty at the High Court to 'conspiracy to collude with foreign or external forces to endanger national security'. The judiciary website shows sentencing is set for Thursday (Nov 5) at 9:30am before a designated national security judge, expected to take about 30 minutes. The charge alleges Wong conspired with Nathan Law and others between July and November 2020 to request foreign sanctions, blockades or other hostile actions against Hong Kong or China. Members of the public began queueing outside the High Court on Wednesday afternoon for seats in the public gallery.",
-      "zh_hant": "正就民主派初選47人案服刑的前香港眾志秘書長黃之鋒，早前在高等法院承認一項「串謀勾結外國或者境外勢力危害國家安全」罪。司法機構網頁顯示，案件將於周四（5日）上午9時半由國安法指定法官判刑，預計需時約30分鐘。控罪指黃之鋒於2020年7月至11月期間，串謀羅冠聰等人請求外國或境外機構對香港或中國實施制裁、封鎖或其他敵對行動。周三下午已有市民在高等法院外排隊，輪候旁聽席位。",
-      "zh_hans": "正就民主派初选47人案服刑的前香港众志秘书长黄之锋，早前在高等法院承认一项「串谋勾结外国或者境外势力危害国家安全」罪。司法机构网页显示，案件将于周四（5日）上午9时半由国安法指定法官判刑，预计需时约30分钟。控罪指黄之锋于2020年7月至11月期间，串谋罗冠聪等人请求外国或境外机构对香港或中国实施制裁、封锁或其他敌对行动。周三下午已有市民在高等法院外排队，轮候旁听席位。"
-    },
-    "tags": {
-      "en": [
-        "Joshua Wong",
-        "national security law",
-        "sentencing"
-      ],
-      "zh_hant": [
-        "黃之鋒",
-        "國安法",
-        "判刑"
-      ],
-      "zh_hans": [
-        "黄之锋",
-        "国安法",
-        "判刑"
-      ]
-    }
+  "summary": {
+   "en": "US Vice-President JD Vance posted on social media about the Republican Party's midterm election defeat, saying the loss was down to the war in Iran. He wrote that any honest discussion about the party's future must start there. Vance acknowledged that many who voted for Trump and him in 2024 switched to Democrats in 2026, partly because the administration's message on the economy was not sharp enough; voters, he said, now care most about ending the Iran war, tackling inflation and living costs, sticking to 'America First', and recalibrating the US-Israel relationship.",
+   "zh_hant": "美國副總統萬斯在社交平台發文，回應共和黨在中期選舉失利，表示落敗原因在於伊朗戰事。他形容大家心知肚明共和黨落敗的原因，任何關於共和黨未來何去何從的坦誠討論，都必須從這一點出發。萬斯又指，不少在2024年投票支持特朗普及他的人，在2026年轉而投票給民主黨，部分原因是政府在經濟議題上的信息不夠鮮明有力；選民目前最關心的是結束伊朗戰事、聚焦通脹與生活成本、堅持「美國優先」原則，以及調整美以關係。",
+   "zh_hans": "美国副总统万斯在社交平台发文，回应共和党在中期选举失利，表示落败原因在于伊朗战事。他形容大家心知肚明共和党落败的原因，任何关于共和党未来何去何从的坦诚讨论，都必须从这一点出发。万斯又指，不少在2024年投票支持特朗普及他的人，在2026年转而投票给民主党，部分原因是政府在经济议题上的信息不够鲜明有力；选民目前最关心的是结束伊朗战事、聚焦通胀与生活成本、坚持「美国优先」原则，以及调整美以关系。"
   },
-  {
-    "id": "20261105-png-shell-wine-bottle",
-    "category": "world",
-    "published_at": "2026-11-04T16:40:48+08:00",
-    "source": {
-      "name": "追光者",
-      "url": "https://pulsehknews.com/png-chinese-artillery-shell/"
-    },
-    "image_url": "",
-    "title": {
-      "en": "China calls 32kg object found in Papua New Guinea a 'shell-shaped wine bottle' as police report says live shell",
-      "zh_hant": "巴布亞新畿內亞驚現32公斤「酒樽」　中使館稱無危險　警方報告指係未爆炮彈",
-      "zh_hans": "巴布亚新几内亚惊现32公斤「酒樽」　中使馆称无危险　警方报告指是未爆炮弹"
-    },
-    "summary": {
-      "en": "A suspected military artillery shell weighing 32kg was found in a commercial shipping container in Port Moresby, Papua New Guinea last Friday, and four Chinese nationals were detained. The Chinese embassy said on Tuesday, citing the company involved, that the object was actually a 'shell-shaped wine bottle' posing no danger, adding it was 'virtually impossible' to smuggle military-grade shells out of China. But the Australian Broadcasting Corporation, citing sources, reported a police investigation concluded the object is an unexploded Chinese-made Type 59 130mm artillery projectile containing explosives and a fuse, and the report has been handed to criminal investigators.",
-      "zh_hant": "巴布亞新畿內亞首都莫爾茲比港一個商用貨櫃，上周五發現一枚重達32公斤的疑似軍用炮彈，4名中國公民當場被捕。中國駐當地大使館本周二在社交平台發文，引述涉事公司聲稱該物體實為「炮彈造型的酒樽」，完全不構成危險，又指中國槍械管制極嚴，從中國走私軍用級炮彈「幾乎不可能」。但澳洲廣播公司引述消息報道，當地警方調查報告已確認該物為中國製59式130毫米未爆炮彈，內藏炸藥及引爆裝置，報告已交刑事調查人員跟進。",
-      "zh_hans": "巴布亚新几内亚首都莫尔兹比港一个商用货柜，上周五发现一枚重达32公斤的疑似军用炮弹，4名中国公民当场被捕。中国驻当地大使馆本周二在社交平台发文，引述涉事公司声称该物体实为「炮弹造型的酒樽」，完全不构成危险，又指中国枪械管制极严，从中国走私军用级炮弹「几乎不可能」。但澳洲广播公司引述消息报道，当地警方调查报告已确认该物为中国制59式130毫米未爆炮弹，内藏炸药及引爆装置，报告已交刑事调查人员跟进。"
-    },
-    "tags": {
-      "en": [
-        "Papua New Guinea",
-        "Chinese embassy",
-        "unexploded shell"
-      ],
-      "zh_hant": [
-        "巴布亞新畿內亞",
-        "中國大使館",
-        "未爆炮彈"
-      ],
-      "zh_hans": [
-        "巴布亚新几内亚",
-        "中国大使馆",
-        "未爆炮弹"
-      ]
-    }
-  },
-  {
-    "id": "20261105-legco-bid-rigging-motion",
-    "category": "hk",
-    "published_at": "2026-11-04T19:26:24+08:00",
-    "source": {
-      "name": "都市日報",
-      "url": "https://metrohk.com.hk/港聞/立法會通過打擊圍標議案及修正案-045cde"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Legco passes motion on combating bid-rigging; government to consult on criminalisation shortly",
-      "zh_hant": "立法會通過打擊圍標議案　政府短期內諮詢圍標刑事化",
-      "zh_hans": "立法会通过打击围标议案　政府短期内咨询围标刑事化"
-    },
-    "summary": {
-      "en": "The Legislative Council today passed a non-binding members' motion moved by Christine Fong on combating bid-rigging, along with related amendments. Secretary for Security Tang Ping-keung said a joint task force against bid-rigging in building maintenance works will be set up under his coordination, comprising the police, the ICAC and the Competition Commission, to step up intelligence gathering, joint enforcement and risk alerts. Secretary for Commerce and Economic Development Algernon Yau said the government will shortly consult stakeholders on criminalising bid-rigging and aims to table an amendment bill as soon as possible.",
-      "zh_hant": "立法會今日通過由方國珊提出、打擊圍標的無約束力議員議案及相關修正案。保安局局長鄧炳強表示，將成立由他親自統籌的打擊樓宇維修工程圍標聯合特遣隊，成員包括警方、廉署及競委會，加強情報蒐集、聯合執法及風險預警。商務及經濟發展局局長丘應樺稱，政府短期內就圍標刑事化展開持份者諮詢，爭取盡早向立法會提交修例草案。",
-      "zh_hans": "立法会今日通过由方国珊提出、打击围标的无约束力议员议案及相关修正案。保安局局长邓炳强表示，将成立由他亲自统筹的打击楼宇维修工程围标联合特遣队，成员包括警方、廉署及竞委会，加强情报搜集、联合执法及风险预警。商务及经济发展局局长丘应桦称，政府短期内就围标刑事化展开持份者咨询，争取尽早向立法会提交修例草案。"
-    },
-    "tags": {
-      "en": [
-        "LegCo",
-        "bid-rigging",
-        "criminalisation"
-      ],
-      "zh_hant": [
-        "立法會",
-        "圍標",
-        "刑事化"
-      ],
-      "zh_hans": [
-        "立法会",
-        "围标",
-        "刑事化"
-      ]
-    }
-  },
-  {
-    "id": "20261105-vance-midterms-loss-iran-war",
-    "category": "world",
-    "published_at": "2026-11-05T02:33:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876600-20261105.htm"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Vance blames Iran war for Republican midterm defeat",
-      "zh_hant": "萬斯回應中期選舉失利　稱落敗原因在於伊朗戰事",
-      "zh_hans": "万斯回应中期选举失利　称落败原因在于伊朗战事"
-    },
-    "summary": {
-      "en": "US Vice-President JD Vance posted on social media about the Republican Party's midterm election defeat, saying the loss was down to the war in Iran. He wrote that any honest discussion about the party's future must start there. Vance acknowledged that many who voted for Trump and him in 2024 switched to Democrats in 2026, partly because the administration's message on the economy was not sharp enough; voters, he said, now care most about ending the Iran war, tackling inflation and living costs, sticking to 'America First', and recalibrating the US-Israel relationship.",
-      "zh_hant": "美國副總統萬斯在社交平台發文，回應共和黨在中期選舉失利，表示落敗原因在於伊朗戰事。他形容大家心知肚明共和黨落敗的原因，任何關於共和黨未來何去何從的坦誠討論，都必須從這一點出發。萬斯又指，不少在2024年投票支持特朗普及他的人，在2026年轉而投票給民主黨，部分原因是政府在經濟議題上的信息不夠鮮明有力；選民目前最關心的是結束伊朗戰事、聚焦通脹與生活成本、堅持「美國優先」原則，以及調整美以關係。",
-      "zh_hans": "美国副总统万斯在社交平台发文，回应共和党在中期选举失利，表示落败原因在于伊朗战事。他形容大家心知肚明共和党落败的原因，任何关于共和党未来何去何从的坦诚讨论，都必须从这一点出发。万斯又指，不少在2024年投票支持特朗普及他的人，在2026年转而投票给民主党，部分原因是政府在经济议题上的信息不够鲜明有力；选民目前最关心的是结束伊朗战事、聚焦通胀与生活成本、坚持「美国优先」原则，以及调整美以关系。"
-    },
-    "tags": {
-      "en": [
-        "JD Vance",
-        "US midterms",
-        "Iran war"
-      ],
-      "zh_hant": [
-        "萬斯",
-        "美國中期選舉",
-        "伊朗戰事"
-      ],
-      "zh_hans": [
-        "万斯",
-        "美国中期选举",
-        "伊朗战事"
-      ]
-    }
-  },
-  {
-    "id": "20261105-eu-spain-train-probe",
-    "category": "world",
-    "published_at": "2026-11-05T01:36:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876599-20261105.htm"
-    },
-    "image_url": "",
-    "title": {
-      "en": "EU railway agency assists probe into Spain's deadly high-speed train crash",
-      "zh_hant": "歐盟鐵路局助查西班牙高鐵事故　歐盟專員籲提高鐵路安全",
-      "zh_hans": "欧盟铁路局助查西班牙高铁事故　欧盟专员吁提高铁路安全"
-    },
-    "summary": {
-      "en": "EU Commissioner for Sustainable Transport and Tourism Apostolos Tzitzikostas said Spain has asked the EU Agency for Railways for technical support in investigating the October 28 high-speed train crash that killed 69 people, and the assistance is under way. He said two major rail accidents in Spain within a year are worrying and called for the European Rail Traffic Management System to be deployed across all lines as soon as possible. Spanish Prime Minister Pedro Sánchez announced that First Deputy Prime Minister María Jesús Montero would take over the transport ministry after the resignation of Transport Minister Óscar Puente; no new minister will be appointed before the snap parliamentary election on November 29.",
-      "zh_hant": "歐盟委員會可持續交通和旅遊專員齊齊科斯塔斯表示，西班牙方面請求歐盟鐵路局提供技術支持，協助調查上月28日造成69人死亡的高速列車事故，相關援助已在進行。他又說西班牙一年內發生兩宗重大列車事故令人擔憂，呼籲盡快在所有鐵路線部署歐洲鐵路交通管理系統，提高安全水平。西班牙首相桑切斯同日宣布，由第一副首相奎爾波接管交通部事務，接替日前宣布辭職的交通大臣普恩特；由於西班牙將於本月29日提前舉行議會選舉，暫不另行任命新的交通大臣。",
-      "zh_hans": "欧盟委员会可持续交通和旅游专员齐齐科斯塔斯表示，西班牙方面请求欧盟铁路局提供技术支持，协助调查上月28日造成69人死亡的高速列车事故，相关援助已在进行。他又说西班牙一年内发生两宗重大列车事故令人担忧，呼吁尽快在所有铁路线部署欧洲铁路交通管理系统，提高安全水平。西班牙首相桑切斯同日宣布，由第一副首相奎尔波接管交通部事务，接替日前宣布辞职的交通大臣普恩特；由于西班牙将于本月29日提前举行议会选举，暂不另行任命新的交通大臣。"
-    },
-    "tags": {
-      "en": [
-        "Spain train crash",
-        "EU railway agency",
-        "rail safety"
-      ],
-      "zh_hant": [
-        "西班牙高鐵事故",
-        "歐盟鐵路局",
-        "鐵路安全"
-      ],
-      "zh_hans": [
-        "西班牙高铁事故",
-        "欧盟铁路局",
-        "铁路安全"
-      ]
-    }
-  },
-  {
-    "id": "20261105-eu-2027-work-plan",
-    "category": "world",
-    "published_at": "2026-11-05T01:23:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876598-20261105.htm"
-    },
-    "image_url": "",
-    "title": {
-      "en": "EU unveils 2027 work programme to boost competitiveness and defence",
-      "zh_hant": "歐盟公布2027年工作計劃　提升經濟競爭力並加強國防安全",
-      "zh_hans": "欧盟公布2027年工作计划　提升经济竞争力并加强国防安全"
-    },
-    "summary": {
-      "en": "The European Commission published its 2027 work programme, proposing to boost EU countries' economic competitiveness through deepening the single market, lowering energy costs and cutting red tape, while strengthening defence security, social welfare, climate action and international cooperation. On defence, it plans to keep expanding defence investment, advance EU-Ukraine defence-industry cooperation and raise European defence capacity, alongside a new security emergency mechanism. It will also tighten external border security, modernise the Schengen visa system, deepen strategic cooperation with partners such as Canada and continue supporting Ukraine.",
-      "zh_hant": "歐盟委員會公布2027年工作計劃，提出將透過深化單一市場、降低能源成本、減少行政負擔等措施，提升歐盟國家經濟競爭力，同時加強國防安全、改善社會民生、應對氣候變化並擴大國際合作。國防安全方面，計劃繼續擴大國防投資，推進歐盟與烏克蘭國防工業合作，提升歐洲防務能力，並透過新的安全應急機制增強應對安全威脅的能力。此外，歐盟亦計劃加強外部邊境安全，推動申根簽證制度現代化；對外合作方面則深化與加拿大等夥伴的戰略合作，並繼續支持烏克蘭。",
-      "zh_hans": "欧盟委员会公布2027年工作计划，提出将透过深化单一市场、降低能源成本、减少行政负担等措施，提升欧盟国家经济竞争力，同时加强国防安全、改善社会民生、应对气候变化并扩大国际合作。国防安全方面，计划继续扩大国防投资，推进欧盟与乌克兰国防工业合作，提升欧洲防务能力，并透过新的安全应急机制增强应对安全威胁的能力。此外，欧盟亦计划加强外部边境安全，推动申根签证制度现代化；对外合作方面则深化与加拿大等伙伴的战略合作，并继续支持乌克兰。"
-    },
-    "tags": {
-      "en": [
-        "EU",
-        "2027 work programme",
-        "defence"
-      ],
-      "zh_hant": [
-        "歐盟",
-        "2027年工作計劃",
-        "國防安全"
-      ],
-      "zh_hans": [
-        "欧盟",
-        "2027年工作计划",
-        "国防安全"
-      ]
-    }
-  },
-  {
-    "id": "20261105-houthis-saudi-strikes-claim",
-    "category": "world",
-    "published_at": "2026-11-05T01:17:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876596-20261105.htm"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Houthis claim missile and drone attacks on Saudi airport and military sites",
-      "zh_hant": "也門胡塞武裝稱以導彈及無人機襲擊沙特機場及軍事設施",
-      "zh_hans": "也门胡塞武装称以导弹及无人机袭击沙特机场及军事设施"
-    },
-    "summary": {
-      "en": "Yemen's Houthi armed group said on Wednesday that it used ballistic missiles and drones to attack King Khalid International Airport in the Saudi capital Riyadh, as well as several Saudi military facilities near the Yemeni border. Military spokesman Yahya Saree said on social media that a ballistic missile directly hit its airport target and severely damaged facilities, urging international airlines, aviation workers and travellers to avoid Saudi airspace, except Mecca and Medina. He also said the group launched three attacks on radar facilities, military bases and border-force command installations in southwestern Saudi Arabia, killing and wounding several Saudi officers and soldiers. Saudi Arabia has not confirmed the claims.",
-      "zh_hant": "也門胡塞武裝於當地星期三表示，組織使用彈道導彈及無人機，襲擊沙特阿拉伯首都利雅得的哈立德國王國際機場，以及沙特靠近也門邊境的多處軍事設施。胡塞武裝軍事發言人薩雷亞在社交平台稱，組織向機場發射一枚彈道導彈，直接命中目標，機場設施嚴重受損，呼籲國際航空公司、航空從業人員和旅客避開沙特領空，但麥加和麥地那除外。薩雷亞又說，組織亦對沙特西南部邊境地區的雷達設施、軍事基地及邊防部隊指揮設施等目標發動3次襲擊，造成數名沙特軍官和士兵死傷。上述說法暫未獲沙特方面證實。",
-      "zh_hans": "也门胡塞武装于当地星期三表示，组织使用弹道导弹及无人机，袭击沙特阿拉伯首都利雅得的哈立德国王国际机场，以及沙特靠近也门边境的多处军事设施。胡塞武装军事发言人萨雷亚在社交平台称，组织向机场发射一枚弹道导弹，直接命中目标，机场设施严重受损，呼吁国际航空公司、航空从业人员和旅客避开沙特领空，但麦加和麦地那除外。萨雷亚又说，组织亦对沙特西南部边境地区的雷达设施、军事基地及边防部队指挥设施等目标发动3次袭击，造成数名沙特军官和士兵死伤。上述说法暂未获沙特方面证实。"
-    },
-    "tags": {
-      "en": [
-        "Houthis",
-        "Saudi Arabia",
-        "missile attack"
-      ],
-      "zh_hant": [
-        "胡塞武裝",
-        "沙特阿拉伯",
-        "導彈襲擊"
-      ],
-      "zh_hans": [
-        "胡塞武装",
-        "沙特阿拉伯",
-        "导弹袭击"
-      ]
-    }
-  },
-  {
-    "id": "20261105-ciie-friends-circle",
-    "category": "china",
-    "published_at": "2026-11-05T00:53:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876594-20261105.htm"
-    },
-    "image_url": "",
-    "title": {
-      "en": "CIIE's 'circle of friends' keeps expanding as cutting-edge tech takes centre stage",
-      "zh_hant": "進博會「朋友圈」持續擴容　前沿技術成果集中亮相",
-      "zh_hans": "进博会「朋友圈」持续扩容　前沿技术成果集中亮相"
-    },
-    "summary": {
-      "en": "The ninth China International Import Expo runs from today until next Tuesday in Shanghai, bringing together 162 countries, regions and international organisations and 4,142 overseas exhibitors, with total exhibition space exceeding 440,000 sq m for the first time — a new record. Xinhua reported that more than 2,000 first-time exhibitors span manufacturing, consumer goods and services. Over 480 items are making their global, Asian or China debuts at this year's CIIE, also a record, with cutting-edge achievements in artificial intelligence, healthcare, elderly care and the circular economy taking centre stage.",
-      "zh_hant": "第九屆中國國際進口博覽會今日起至下星期二在上海舉行，匯聚162個國家、地區及國際組織、4,142間境外企業參展，整體展覽面積首次突破44萬平方米，規模再創新高。據新華社報道，首次參展的新面孔企業超過2,000間，覆蓋製造、消費、服務等多個領域；本屆進博會全球首發、亞洲首展、中國首秀的代表展品超過480件，數量創歷年新高，人工智能、醫療健康、養老服務、循環經濟等領域的前沿技術成果集中亮相。",
-      "zh_hans": "第九届中国国际进口博览会今日起至下星期二在上海举行，汇聚162个国家、地区及国际组织、4142间境外企业参展，整体展览面积首次突破44万平方米，规模再创新高。据新华社报道，首次参展的新面孔企业超过2000间，覆盖制造、消费、服务等多个领域；本届进博会全球首发、亚洲首展、中国首秀的代表展品超过480件，数量创历年新高，人工智能、医疗健康、养老服务、循环经济等领域的前沿技术成果集中亮相。"
-    },
-    "tags": {
-      "en": [
-        "CIIE",
-        "China International Import Expo",
-        "Shanghai"
-      ],
-      "zh_hant": [
-        "進博會",
-        "中國國際進口博覽會",
-        "上海"
-      ],
-      "zh_hans": [
-        "进博会",
-        "中国国际进口博览会",
-        "上海"
-      ]
-    }
-  },
-  {
-    "id": "20261105-v4-presidential-summit",
-    "category": "world",
-    "published_at": "2026-11-05T00:44:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876592-20261105.htm"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Visegrád Four presidential summit opens in Slovakia, eyes bigger EU voice",
-      "zh_hant": "波蘭匈牙利等四國總統峰會開幕　討論提升在歐盟話語權",
-      "zh_hans": "波兰匈牙利等四国总统峰会开幕　讨论提升在欧盟话语权"
-    },
-    "summary": {
-      "en": "The presidential summit of Poland, Hungary, Czechia and Slovakia opened in Trenčín in western Slovakia and runs until Thursday, aiming to revive the four-nation cooperation mechanism and strengthen their collective influence on European affairs. Hosted by Slovak President Peter Pellegrini, it is attended by Czech President Petr Pavel, Polish President Karol Nawrocki, Hungarian President Katalin Bóka and European Commission President Ursula von der Leyen. The summit will focus on how to deepen regional cooperation to amplify the four countries' voice in the EU, with EU enlargement, Ukraine, energy supply security and energy prices also on the agenda.",
-      "zh_hant": "波蘭、匈牙利、捷克、斯洛伐克四國總統峰會在斯洛伐克西部城市特倫欽開幕，峰會持續至當地星期四，旨在重振四國合作機制，加強成員國在歐洲事務中的集體影響力。峰會由斯洛伐克總統佩列格里尼主持，捷克總統帕維爾、波蘭總統納夫羅茨基、匈牙利總統鮑卡，以及歐盟委員會主席馮德萊恩出席。會議將重點討論如何透過深化區域合作，在歐盟層面進一步提升四國的話語權與影響力；歐盟擴大問題、烏克蘭問題、能源供應保障及能源價格亦是重要議題。",
-      "zh_hans": "波兰、匈牙利、捷克、斯洛伐克四国总统峰会在斯洛伐克西部城市特伦钦开幕，峰会持续至当地星期四，旨在重振四国合作机制，加强成员国在欧洲事务中的集体影响力。峰会由斯洛伐克总统佩列格里尼主持，捷克总统帕维尔、波兰总统纳夫罗茨基、匈牙利总统鲍卡，以及欧盟委员会主席冯德莱恩出席。会议将重点讨论如何透过深化区域合作，在欧盟层面进一步提升四国的话语权与影响力；欧盟扩大问题、乌克兰问题、能源供应保障及能源价格亦是重要议题。"
-    },
-    "tags": {
-      "en": [
-        "Poland",
-        "Hungary",
-        "EU"
-      ],
-      "zh_hant": [
-        "波蘭",
-        "匈牙利",
-        "歐盟"
-      ],
-      "zh_hans": [
-        "波兰",
-        "匈牙利",
-        "欧盟"
-      ]
-    }
-  },
-  {
-    "id": "20261105-mfa-china-us-stability",
-    "category": "china",
-    "published_at": "2026-11-04T19:45:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876561-20261104.htm"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Beijing seeks constructive strategic stability with US after midterms",
-      "zh_hant": "外交部回應美國中期選舉　願構建中美建設性戰略穩定關係",
-      "zh_hans": "外交部回应美国中期选举　愿构建中美建设性战略稳定关系"
-    },
-    "summary": {
-      "en": "China's foreign ministry said the US midterm election is America's domestic affair, and China is willing to work with the US to uphold and implement the important consensus reached by the two heads of state — strengthening communication, properly managing differences and expanding cooperation — so as to build a constructive strategic stability relationship between China and the US based on respect, fairness and reciprocity.",
-      "zh_hant": "在北京，外交部回應美國中期選舉時表示，中期選舉是美國內政，中方願繼續同美方一道，維護好、落實好兩國元首重要共識，加強溝通、妥處分歧、拓展合作，構建基於尊重、公平、對等的中美建設性戰略穩定關係。",
-      "zh_hans": "在北京，外交部回应美国中期选举时表示，中期选举是美国内政，中方愿继续同美方一道，维护好、落实好两国元首重要共识，加强沟通、妥处分歧、拓展合作，构建基于尊重、公平、对等的中美建设性战略稳定关系。"
-    },
-    "tags": {
-      "en": [
-        "foreign ministry",
-        "China-US relations",
-        "US midterms"
-      ],
-      "zh_hant": [
-        "外交部",
-        "中美關係",
-        "美國中期選舉"
-      ],
-      "zh_hans": [
-        "外交部",
-        "中美关系",
-        "美国中期选举"
-      ]
-    }
-  },
-  {
-    "id": "20261105-agility-robotics-nasdaq",
-    "category": "tech",
-    "published_at": "2026-11-04T08:49:00+08:00",
-    "source": {
-      "name": "科技新報",
-      "url": "https://finance.technews.tw/2026/11/04/agility-to-list-on-nasdaq-on-november-5/"
-    },
-    "image_url": "https://img.technews.tw/wp-content/uploads/2026/06/24151603/Agility_Digit_06.jpg",
-    "title": {
-      "en": "Humanoid robot maker Agility to debut on Nasdaq on Nov 5 via SPAC merger",
-      "zh_hant": "人型機器人 Agility 借殼上市　11月5日掛牌納斯達克",
-      "zh_hans": "人形机器人 Agility 借壳上市　11月5日挂牌纳斯达克"
-    },
-    "summary": {
-      "en": "US humanoid-robotics startup Agility Robotics will gain a Nasdaq listing by merging with the already-listed SPAC Churchill Capital Corp XI, and is expected to start trading under the ticker 'AGLT' on November 5. Churchill XI shareholders approved the merger on November 2 with over 84% in favour; the deal and related financing are expected to raise about US$465 million, including roughly US$201 million in PIPE financing led by Foxconn. Founded in 2015, Agility's bipedal robot 'Digit' is already commercially deployed in warehouse and logistics settings, with deployment commitments from nine customer facilities — making it the only pure-play humanoid robot company in the US with real commercial deployments after the merger.",
-      "zh_hant": "美國人型機器人新創商 Agility Robotics 將透過與已上市特殊目的收購公司 Churchill Capital Corp XI 合併，取得納斯達克上市資格，預計11月5日以股票代號「AGLT」開始交易。Churchill XI 股東11月2日以逾84%贊成票通過合併案；此次交易及相關融資預計籌得約4.65億美元，其中鴻海領投約2.01億美元私募股權融資。Agility 成立於2015年，旗下雙足人型機器人「Digit」主要應用於倉儲、物流及工廠物料搬運，已獲九處客戶設施的部署承諾；合併完成後，將成為美國唯一具實際商業部署經驗的純人型機器人上市公司。",
-      "zh_hans": "美国人型机器人新创商 Agility Robotics 将透过与已上市特殊目的收购公司 Churchill Capital Corp XI 合并，取得纳斯达克上市资格，预计11月5日以股票代号「AGLT」开始交易。Churchill XI 股东11月2日以逾84%赞成票通过合并案；此次交易及相关融资预计筹得约4.65亿美元，其中鸿海领投约2.01亿美元私募股权融资。Agility 成立于2015年，旗下双足人型机器人「Digit」主要应用于仓储、物流及工厂物料搬运，已获九处客户设施的部署承诺；合并完成后，将成为美国唯一具实际商业部署经验的纯人型机器人上市公司。"
-    },
-    "tags": {
-      "en": [
-        "humanoid robot",
-        "Agility Robotics",
-        "Nasdaq listing"
-      ],
-      "zh_hant": [
-        "人型機器人",
-        "Agility",
-        "納斯達克上市"
-      ],
-      "zh_hans": [
-        "人形机器人",
-        "Agility Robotics",
-        "纳斯达克上市"
-      ]
-    }
-  },
-  {
-    "id": "20261105-us-dow-jumps-1200",
-    "category": "finance",
-    "published_at": "2026-11-04T22:47:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876590-20261104.htm"
-    },
-    "image_url": "",
-    "title": {
-      "en": "US stocks jump in early trade as midterms lift uncertainty; Dow up 1,200 points",
-      "zh_hant": "美股初段升逾1%至逾2%　道指升逾1200點",
-      "zh_hans": "美股初段升逾1%至逾2%　道指升逾1200点"
-    },
-    "summary": {
-      "en": "With Democrats winning a majority of seats in the US midterm congressional elections and President Trump accepting the result, political uncertainty eased and US stocks rose more than 1% to over 2% in early trading. The Dow Jones Industrial Average was last quoted at 53,021, up 1,234 points or 2.38%; the Nasdaq was at 25,847, up 475 points or 1.87%; and the S&P 500 stood at 7,689, up 120 points or 1.59%.",
-      "zh_hant": "美國中期選舉民主黨贏得國會過半議席，總統特朗普接受選舉結果，消除政治不確定性，美股在開市初段上升逾1%至逾2%。道瓊斯指數較早時報53,021點，升1,234點，升幅2.38%；納斯達克指數報25,847點，升475點，升幅1.87%；標準普爾500指數報7,689點，升120點，升幅1.59%。",
-      "zh_hans": "美国中期选举民主党赢得国会过半议席，总统特朗普接受选举结果，消除政治不确定性，美股在开市初段上升逾1%至逾2%。道琼斯指数较早时报53,021点，升1,234点，升幅2.38%；纳斯达克指数报25,847点，升475点，升幅1.87%；标准普尔500指数报7,689点，升120点，升幅1.59%。"
-    },
-    "tags": {
-      "en": [
-        "US stocks",
-        "Dow Jones",
-        "US midterms"
-      ],
-      "zh_hant": [
-        "美股",
-        "道瓊斯指數",
-        "美國中期選舉"
-      ],
-      "zh_hans": [
-        "美股",
-        "道琼斯指数",
-        "美国中期选举"
-      ]
-    }
-  },
-  {
-    "id": "20261105-customs-cocaine-airport",
-    "category": "hk",
-    "published_at": "2026-11-04T22:13:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400626.htm"
-    },
-    "image_url": "https://gia.info.gov.hk/general/202611/04/P2026110400626_photo_1342904t.jpg",
-    "title": {
-      "en": "Hong Kong Customs seizes 1kg suspected cocaine hidden in shoe soles at airport",
-      "zh_hant": "海關機場破販毒案　鞋底暗格藏約1公斤可疑可卡因",
-      "zh_hans": "海关机场破贩毒案　鞋底暗格藏约1公斤可疑可卡因"
-    },
-    "summary": {
-      "en": "Hong Kong Customs said on November 4 it arrested an inbound passenger at Hong Kong International Airport on November 2 and found about one kilogram of suspected cocaine hidden in the soles of a pair of shoes in his checked luggage, with an estimated market value of about HK$600,000. The 20-year-old arrestee, who claimed to be a technician, remains under investigation.",
-      "zh_hant": "海關今日表示，本月2日在香港國際機場拘捕一名入境男子，在其寄艙行李內一對鞋的鞋底暗格中搜出約1公斤懷疑可卡因，估計市值約60萬元。被捕男子20歲，報稱技術員，案件仍在調查中。",
-      "zh_hans": "海关今日表示，本月2日在香港国际机场拘捕一名入境男子，在其托运行李内一对鞋的鞋底暗格中搜出约1公斤怀疑可卡因，估计市值约60万元。被捕男子20岁，报称技术员，案件仍在调查中。"
-    },
-    "tags": {
-      "en": [
-        "Hong Kong Customs",
-        "cocaine",
-        "drug trafficking"
-      ],
-      "zh_hant": [
-        "香港海關",
-        "可卡因",
-        "販毒"
-      ],
-      "zh_hans": [
-        "香港海关",
-        "可卡因",
-        "贩毒"
-      ]
-    }
-  },
-  {
-    "id": "20261105-legal-week-uncitral-60",
-    "category": "hk",
-    "published_at": "2026-11-04T20:08:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400693.htm"
-    },
-    "image_url": "https://gia.info.gov.hk/general/202611/04/P2026110400693_photo_1342821t.jpg",
-    "title": {
-      "en": "Hong Kong Legal Week 2026 marks UNCITRAL's 60th anniversary",
-      "zh_hant": "香港法律周2026舉行聯合國貿法會成立60周年慶祝活動",
-      "zh_hans": "香港法律周2026举行联合国贸法会成立60周年庆祝活动"
-    },
-    "summary": {
-      "en": "Hong Kong Legal Week 2026 today held an event celebrating the 60th anniversary of the United Nations Commission on International Trade Law (UNCITRAL), drawing more than 700 participants from over 40 jurisdictions. Secretary for Justice Paul Lam delivered welcome remarks, UNCITRAL Secretary Anna Joubin-Bret gave a vote of thanks, former Secretary for Justice Teresa Cheng delivered the keynote speech and Deputy Secretary for Justice Horace Cheung gave closing remarks. The event ran alongside the Hong Kong LawTech Fest.",
-      "zh_hant": "香港法律周2026今日舉行聯合國國際貿易法委員會成立60周年慶祝活動，逾700名來自40多個司法管轄區的人士參與。律政司司長林定國致歡迎辭，聯合國貿法會秘書長Anna Joubin-Bret致謝，前律政司司長鄭若驊發表主題演講，律政司副司長張國鈞致閉幕辭，同期並舉行香港法律科技節。",
-      "zh_hans": "香港法律周2026今日举行联合国国际贸易法委员会成立60周年庆祝活动，逾700名来自40多个司法管辖区的人士参与。律政司司长林定国致欢迎辞，联合国贸法会秘书长Anna Joubin-Bret致谢，前律政司司长郑若骅发表主题演讲，律政司副司长张国钧致闭幕辞，同期并举行香港法律科技节。"
-    },
-    "tags": {
-      "en": [
-        "Hong Kong Legal Week",
-        "UNCITRAL",
-        "Paul Lam"
-      ],
-      "zh_hant": [
-        "香港法律周",
-        "聯合國貿法會",
-        "林定國"
-      ],
-      "zh_hans": [
-        "香港法律周",
-        "联合国贸法会",
-        "林定国"
-      ]
-    }
-  },
-  {
-    "id": "20261105-sun-dong-wuzhen-summit",
-    "category": "china",
-    "published_at": "2026-11-04T18:12:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400624.htm"
-    },
-    "image_url": "https://gia.info.gov.hk/general/202611/04/P2026110400624_photo_1342759t.jpg",
-    "title": {
-      "en": "SITI promotes Hong Kong 'AI+' strategy at 2026 World Internet Conference Wuzhen Summit",
-      "zh_hant": "孫東出席世界互聯網大會烏鎮峰會　推廣香港「AI+」策略",
-      "zh_hans": "孙东出席世界互联网大会乌镇峰会　推广香港「AI+」策略"
-    },
-    "summary": {
-      "en": "Secretary for Innovation, Technology and Industry Professor Sun Dong attended the 2026 World Internet Conference Wuzhen Summit in Zhejiang, promoting Hong Kong's 'AI+' strategy. He said the Hong Kong AI Research and Development Institute will publish AI agent safety guidelines next year, the Hetao data facility cluster targets 180,000 PFLOPS of computing power by 2030, and a HK$1 billion AI funding scheme has been set up to support AI development.",
-      "zh_hant": "創新科技及工業局局長孫東出席在浙江舉行的2026世界互聯網大會烏鎮峰會，推廣香港「AI+」策略。他表示，香港人工智能研究及發展院將於明年發布AI智能體安全指引，河套數據設施群目標2030年達18萬PFLOPS算力，並已設立10億元AI資助計劃支持人工智能發展。",
-      "zh_hans": "创新科技及工业局局长孙东出席在浙江举行的2026世界互联网大会乌镇峰会，推广香港「AI+」策略。他表示，香港人工智能研究及发展院将于明年发布AI智能体安全指引，河套数据设施群目标2030年达18万PFLOPS算力，并已设立10亿元AI资助计划支持人工智能发展。"
-    },
-    "tags": {
-      "en": [
-        "Sun Dong",
-        "Wuzhen Summit",
-        "artificial intelligence"
-      ],
-      "zh_hant": [
-        "孫東",
-        "烏鎮峰會",
-        "人工智能"
-      ],
-      "zh_hans": [
-        "孙东",
-        "乌镇峰会",
-        "人工智能"
-      ]
-    }
-  },
-  {
-    "id": "20261105-legco-carf-bill-passed",
-    "category": "finance",
-    "published_at": "2026-11-04T17:50:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400310.htm"
-    },
-    "image_url": "",
-    "title": {
-      "en": "LegCo passes bill implementing crypto-asset reporting framework and revised CRS",
-      "zh_hant": "立法會通過加密資產申報框架條例草案　鞏固香港金融中心地位",
-      "zh_hans": "立法会通过加密资产申报框架条例草案　巩固香港金融中心地位"
-    },
-    "summary": {
-      "en": "The Legislative Council passed the Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Bill 2026, implementing the OECD's Crypto-Asset Reporting Framework (CARF) and the amended Common Reporting Standard. CARF takes effect in 2027 with information exchange starting in 2028, while the amended CRS takes effect in 2028 with automatic exchange from 2029. Secretary for Financial Services and the Treasury Christopher Hui said the new law helps consolidate Hong Kong's standing as an international financial centre.",
-      "zh_hant": "立法會通過《2026年稅務（修訂）（加密資產申報框架及經修訂共同匯報標準）條例草案》，落實經合組織的加密資產申報框架（CARF）及經修訂的共同匯報標準。CARF將於2027年生效並自2028年起交換資料，經修訂共同匯報標準則於2028年生效、自2029年起自動交換。財經事務及庫務局局長許正宇表示，新法例有助鞏固香港作為國際金融中心的地位。",
-      "zh_hans": "立法会通过《2026年税务（修订）（加密资产申报框架及经修订共同汇报标准）条例草案》，落实经合组织的加密资产申报框架（CARF）及经修订的共同汇报标准。CARF将于2027年生效并自2028年起交换资料，经修订共同汇报标准则于2028年生效、自2029年起自动交换。财经事务及库务局局长许正宇表示，新法例有助巩固香港作为国际金融中心的地位。"
-    },
-    "tags": {
-      "en": [
-        "LegCo",
-        "Crypto-Asset Reporting Framework",
-        "OECD"
-      ],
-      "zh_hant": [
-        "立法會",
-        "加密資產申報框架",
-        "經合組織"
-      ],
-      "zh_hans": [
-        "立法会",
-        "加密资产申报框架",
-        "经合组织"
-      ]
-    }
-  },
-  {
-    "id": "20261105-financial-leaders-summit-2026",
-    "category": "finance",
-    "published_at": "2026-11-04T17:00:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400195.htm"
-    },
-    "image_url": "https://gia.info.gov.hk/general/202611/04/P2026110400195_photo_1342813t.jpg",
-    "title": {
-      "en": "Global Financial Leaders' Investment Summit 2026 wraps up with investors forum",
-      "zh_hant": "全球金融領袖投資峰會2026圓滿閉幕　投資論壇匯聚逾300名參與者",
-      "zh_hans": "全球金融领袖投资峰会2026圆满闭幕　投资论坛汇聚逾300名参与者"
-    },
-    "summary": {
-      "en": "The three-day Global Financial Leaders' Investment Summit 2026 concluded today with the 'Conversations with Global Investors' investment forum, attended by over 300 participants including more than 100 chairmen and chief executives, under the theme 'Rethinking the Playbook'. Financial Secretary Paul Chan delivered a keynote speech at the forum.",
-      "zh_hant": "一連三日的全球金融領袖投資峰會2026今日以「與國際投資者對話」投資論壇作結，逾300名參與者、逾100位董事長及行政總裁出席，論壇主題為「Rethinking the Playbook」。財政司司長陳茂波在論壇發表主題演講。",
-      "zh_hans": "一连三日的全球金融领袖投资峰会2026今日以「与国际投资者对话」投资论坛作结，逾300名参与者、逾100位董事长及行政总裁出席，论坛主题为「Rethinking the Playbook」。财政司司长陈茂波在论坛发表主题演讲。"
-    },
-    "tags": {
-      "en": [
-        "Global Financial Leaders' Investment Summit",
-        "Paul Chan",
-        "finance"
-      ],
-      "zh_hant": [
-        "全球金融領袖投資峰會",
-        "陳茂波",
-        "金融"
-      ],
-      "zh_hans": [
-        "全球金融领袖投资峰会",
-        "陈茂波",
-        "金融"
-      ]
-    }
+  "tags": {
+   "en": [
+    "JD Vance",
+    "US midterms",
+    "Iran war"
+   ],
+   "zh_hant": [
+    "萬斯",
+    "美國中期選舉",
+    "伊朗戰事"
+   ],
+   "zh_hans": [
+    "万斯",
+    "美国中期选举",
+    "伊朗战事"
+   ]
   }
+ },
+ {
+  "id": "20261105-eu-spain-train-probe",
+  "category": "world",
+  "published_at": "2026-11-05T01:36:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876599-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "EU railway agency assists probe into Spain's deadly high-speed train crash",
+   "zh_hant": "歐盟鐵路局助查西班牙高鐵事故　歐盟專員籲提高鐵路安全",
+   "zh_hans": "欧盟铁路局助查西班牙高铁事故　欧盟专员吁提高铁路安全"
+  },
+  "summary": {
+   "en": "EU Commissioner for Sustainable Transport and Tourism Apostolos Tzitzikostas said Spain has asked the EU Agency for Railways for technical support in investigating the October 28 high-speed train crash that killed 69 people, and the assistance is under way. He said two major rail accidents in Spain within a year are worrying and called for the European Rail Traffic Management System to be deployed across all lines as soon as possible. Spanish Prime Minister Pedro Sánchez announced that First Deputy Prime Minister María Jesús Montero would take over the transport ministry after the resignation of Transport Minister Óscar Puente; no new minister will be appointed before the snap parliamentary election on November 29.",
+   "zh_hant": "歐盟委員會可持續交通和旅遊專員齊齊科斯塔斯表示，西班牙方面請求歐盟鐵路局提供技術支持，協助調查上月28日造成69人死亡的高速列車事故，相關援助已在進行。他又說西班牙一年內發生兩宗重大列車事故令人擔憂，呼籲盡快在所有鐵路線部署歐洲鐵路交通管理系統，提高安全水平。西班牙首相桑切斯同日宣布，由第一副首相奎爾波接管交通部事務，接替日前宣布辭職的交通大臣普恩特；由於西班牙將於本月29日提前舉行議會選舉，暫不另行任命新的交通大臣。",
+   "zh_hans": "欧盟委员会可持续交通和旅游专员齐齐科斯塔斯表示，西班牙方面请求欧盟铁路局提供技术支持，协助调查上月28日造成69人死亡的高速列车事故，相关援助已在进行。他又说西班牙一年内发生两宗重大列车事故令人担忧，呼吁尽快在所有铁路线部署欧洲铁路交通管理系统，提高安全水平。西班牙首相桑切斯同日宣布，由第一副首相奎尔波接管交通部事务，接替日前宣布辞职的交通大臣普恩特；由于西班牙将于本月29日提前举行议会选举，暂不另行任命新的交通大臣。"
+  },
+  "tags": {
+   "en": [
+    "Spain train crash",
+    "EU railway agency",
+    "rail safety"
+   ],
+   "zh_hant": [
+    "西班牙高鐵事故",
+    "歐盟鐵路局",
+    "鐵路安全"
+   ],
+   "zh_hans": [
+    "西班牙高铁事故",
+    "欧盟铁路局",
+    "铁路安全"
+   ]
+  }
+ },
+ {
+  "id": "20261105-eu-2027-work-plan",
+  "category": "world",
+  "published_at": "2026-11-05T01:23:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876598-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "EU unveils 2027 work programme to boost competitiveness and defence",
+   "zh_hant": "歐盟公布2027年工作計劃　提升經濟競爭力並加強國防安全",
+   "zh_hans": "欧盟公布2027年工作计划　提升经济竞争力并加强国防安全"
+  },
+  "summary": {
+   "en": "The European Commission published its 2027 work programme, proposing to boost EU countries' economic competitiveness through deepening the single market, lowering energy costs and cutting red tape, while strengthening defence security, social welfare, climate action and international cooperation. On defence, it plans to keep expanding defence investment, advance EU-Ukraine defence-industry cooperation and raise European defence capacity, alongside a new security emergency mechanism. It will also tighten external border security, modernise the Schengen visa system, deepen strategic cooperation with partners such as Canada and continue supporting Ukraine.",
+   "zh_hant": "歐盟委員會公布2027年工作計劃，提出將透過深化單一市場、降低能源成本、減少行政負擔等措施，提升歐盟國家經濟競爭力，同時加強國防安全、改善社會民生、應對氣候變化並擴大國際合作。國防安全方面，計劃繼續擴大國防投資，推進歐盟與烏克蘭國防工業合作，提升歐洲防務能力，並透過新的安全應急機制增強應對安全威脅的能力。此外，歐盟亦計劃加強外部邊境安全，推動申根簽證制度現代化；對外合作方面則深化與加拿大等夥伴的戰略合作，並繼續支持烏克蘭。",
+   "zh_hans": "欧盟委员会公布2027年工作计划，提出将透过深化单一市场、降低能源成本、减少行政负担等措施，提升欧盟国家经济竞争力，同时加强国防安全、改善社会民生、应对气候变化并扩大国际合作。国防安全方面，计划继续扩大国防投资，推进欧盟与乌克兰国防工业合作，提升欧洲防务能力，并透过新的安全应急机制增强应对安全威胁的能力。此外，欧盟亦计划加强外部边境安全，推动申根签证制度现代化；对外合作方面则深化与加拿大等伙伴的战略合作，并继续支持乌克兰。"
+  },
+  "tags": {
+   "en": [
+    "EU",
+    "2027 work programme",
+    "defence"
+   ],
+   "zh_hant": [
+    "歐盟",
+    "2027年工作計劃",
+    "國防安全"
+   ],
+   "zh_hans": [
+    "欧盟",
+    "2027年工作计划",
+    "国防安全"
+   ]
+  }
+ },
+ {
+  "id": "20261105-houthis-saudi-strikes-claim",
+  "category": "world",
+  "published_at": "2026-11-05T01:17:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876596-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Houthis claim missile and drone attacks on Saudi airport and military sites",
+   "zh_hant": "也門胡塞武裝稱以導彈及無人機襲擊沙特機場及軍事設施",
+   "zh_hans": "也门胡塞武装称以导弹及无人机袭击沙特机场及军事设施"
+  },
+  "summary": {
+   "en": "Yemen's Houthi armed group said on Wednesday that it used ballistic missiles and drones to attack King Khalid International Airport in the Saudi capital Riyadh, as well as several Saudi military facilities near the Yemeni border. Military spokesman Yahya Saree said on social media that a ballistic missile directly hit its airport target and severely damaged facilities, urging international airlines, aviation workers and travellers to avoid Saudi airspace, except Mecca and Medina. He also said the group launched three attacks on radar facilities, military bases and border-force command installations in southwestern Saudi Arabia, killing and wounding several Saudi officers and soldiers. Saudi Arabia has not confirmed the claims.",
+   "zh_hant": "也門胡塞武裝於當地星期三表示，組織使用彈道導彈及無人機，襲擊沙特阿拉伯首都利雅得的哈立德國王國際機場，以及沙特靠近也門邊境的多處軍事設施。胡塞武裝軍事發言人薩雷亞在社交平台稱，組織向機場發射一枚彈道導彈，直接命中目標，機場設施嚴重受損，呼籲國際航空公司、航空從業人員和旅客避開沙特領空，但麥加和麥地那除外。薩雷亞又說，組織亦對沙特西南部邊境地區的雷達設施、軍事基地及邊防部隊指揮設施等目標發動3次襲擊，造成數名沙特軍官和士兵死傷。上述說法暫未獲沙特方面證實。",
+   "zh_hans": "也门胡塞武装于当地星期三表示，组织使用弹道导弹及无人机，袭击沙特阿拉伯首都利雅得的哈立德国王国际机场，以及沙特靠近也门边境的多处军事设施。胡塞武装军事发言人萨雷亚在社交平台称，组织向机场发射一枚弹道导弹，直接命中目标，机场设施严重受损，呼吁国际航空公司、航空从业人员和旅客避开沙特领空，但麦加和麦地那除外。萨雷亚又说，组织亦对沙特西南部边境地区的雷达设施、军事基地及边防部队指挥设施等目标发动3次袭击，造成数名沙特军官和士兵死伤。上述说法暂未获沙特方面证实。"
+  },
+  "tags": {
+   "en": [
+    "Houthis",
+    "Saudi Arabia",
+    "missile attack"
+   ],
+   "zh_hant": [
+    "胡塞武裝",
+    "沙特阿拉伯",
+    "導彈襲擊"
+   ],
+   "zh_hans": [
+    "胡塞武装",
+    "沙特阿拉伯",
+    "导弹袭击"
+   ]
+  }
+ },
+ {
+  "id": "20261105-ciie-friends-circle",
+  "category": "china",
+  "published_at": "2026-11-05T00:53:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876594-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "CIIE's 'circle of friends' keeps expanding as cutting-edge tech takes centre stage",
+   "zh_hant": "進博會「朋友圈」持續擴容　前沿技術成果集中亮相",
+   "zh_hans": "进博会「朋友圈」持续扩容　前沿技术成果集中亮相"
+  },
+  "summary": {
+   "en": "The ninth China International Import Expo runs from today until next Tuesday in Shanghai, bringing together 162 countries, regions and international organisations and 4,142 overseas exhibitors, with total exhibition space exceeding 440,000 sq m for the first time — a new record. Xinhua reported that more than 2,000 first-time exhibitors span manufacturing, consumer goods and services. Over 480 items are making their global, Asian or China debuts at this year's CIIE, also a record, with cutting-edge achievements in artificial intelligence, healthcare, elderly care and the circular economy taking centre stage.",
+   "zh_hant": "第九屆中國國際進口博覽會今日起至下星期二在上海舉行，匯聚162個國家、地區及國際組織、4,142間境外企業參展，整體展覽面積首次突破44萬平方米，規模再創新高。據新華社報道，首次參展的新面孔企業超過2,000間，覆蓋製造、消費、服務等多個領域；本屆進博會全球首發、亞洲首展、中國首秀的代表展品超過480件，數量創歷年新高，人工智能、醫療健康、養老服務、循環經濟等領域的前沿技術成果集中亮相。",
+   "zh_hans": "第九届中国国际进口博览会今日起至下星期二在上海举行，汇聚162个国家、地区及国际组织、4142间境外企业参展，整体展览面积首次突破44万平方米，规模再创新高。据新华社报道，首次参展的新面孔企业超过2000间，覆盖制造、消费、服务等多个领域；本届进博会全球首发、亚洲首展、中国首秀的代表展品超过480件，数量创历年新高，人工智能、医疗健康、养老服务、循环经济等领域的前沿技术成果集中亮相。"
+  },
+  "tags": {
+   "en": [
+    "CIIE",
+    "China International Import Expo",
+    "Shanghai"
+   ],
+   "zh_hant": [
+    "進博會",
+    "中國國際進口博覽會",
+    "上海"
+   ],
+   "zh_hans": [
+    "进博会",
+    "中国国际进口博览会",
+    "上海"
+   ]
+  }
+ },
+ {
+  "id": "20261105-v4-presidential-summit",
+  "category": "world",
+  "published_at": "2026-11-05T00:44:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876592-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Visegrád Four presidential summit opens in Slovakia, eyes bigger EU voice",
+   "zh_hant": "波蘭匈牙利等四國總統峰會開幕　討論提升在歐盟話語權",
+   "zh_hans": "波兰匈牙利等四国总统峰会开幕　讨论提升在欧盟话语权"
+  },
+  "summary": {
+   "en": "The presidential summit of Poland, Hungary, Czechia and Slovakia opened in Trenčín in western Slovakia and runs until Thursday, aiming to revive the four-nation cooperation mechanism and strengthen their collective influence on European affairs. Hosted by Slovak President Peter Pellegrini, it is attended by Czech President Petr Pavel, Polish President Karol Nawrocki, Hungarian President Katalin Bóka and European Commission President Ursula von der Leyen. The summit will focus on how to deepen regional cooperation to amplify the four countries' voice in the EU, with EU enlargement, Ukraine, energy supply security and energy prices also on the agenda.",
+   "zh_hant": "波蘭、匈牙利、捷克、斯洛伐克四國總統峰會在斯洛伐克西部城市特倫欽開幕，峰會持續至當地星期四，旨在重振四國合作機制，加強成員國在歐洲事務中的集體影響力。峰會由斯洛伐克總統佩列格里尼主持，捷克總統帕維爾、波蘭總統納夫羅茨基、匈牙利總統鮑卡，以及歐盟委員會主席馮德萊恩出席。會議將重點討論如何透過深化區域合作，在歐盟層面進一步提升四國的話語權與影響力；歐盟擴大問題、烏克蘭問題、能源供應保障及能源價格亦是重要議題。",
+   "zh_hans": "波兰、匈牙利、捷克、斯洛伐克四国总统峰会在斯洛伐克西部城市特伦钦开幕，峰会持续至当地星期四，旨在重振四国合作机制，加强成员国在欧洲事务中的集体影响力。峰会由斯洛伐克总统佩列格里尼主持，捷克总统帕维尔、波兰总统纳夫罗茨基、匈牙利总统鲍卡，以及欧盟委员会主席冯德莱恩出席。会议将重点讨论如何透过深化区域合作，在欧盟层面进一步提升四国的话语权与影响力；欧盟扩大问题、乌克兰问题、能源供应保障及能源价格亦是重要议题。"
+  },
+  "tags": {
+   "en": [
+    "Poland",
+    "Hungary",
+    "EU"
+   ],
+   "zh_hant": [
+    "波蘭",
+    "匈牙利",
+    "歐盟"
+   ],
+   "zh_hans": [
+    "波兰",
+    "匈牙利",
+    "欧盟"
+   ]
+  }
+ },
+ {
+  "id": "20261105-us-ism-services-pmi-oct",
+  "category": "finance",
+  "published_at": "2026-11-04T23:53:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/photo-gallery.htm?pid=1456935"
+  },
+  "image_url": "",
+  "title": {
+   "en": "US services growth cools in October as ISM non-manufacturing PMI slips to 54.5",
+   "zh_hant": "美國10月ISM非製造業PMI跌至54.5　低過市場預期",
+   "zh_hans": "美国10月ISM非制造业PMI跌至54.5　低于市场预期"
+  },
+  "summary": {
+   "en": "The Institute for Supply Management said its US non-manufacturing PMI slipped to 54.5 in October from 54.9 in September, below the market consensus of 54.8 but still above the 50 expansion threshold, marking the 28th straight month of services growth. The new orders index fell sharply to 55.9 from 59.8, pointing to cooling demand, while the employment gauge rose to 51.4 from 50.1. The prices index stayed elevated at 73.0, signalling stubborn inflation pressure. Analysts said the data showed a solid start to the fourth quarter, though softer consumer spending may slow growth.",
+   "zh_hant": "美國供應管理協會公布，10月非製造業採購經理人指數由9月的54.9回落至54.5，低於市場預期的54.8，但仍高於50的擴張分界線，服務業連續第28個月擴張。新訂單指數由59.8急跌至55.9，反映需求降溫；就業指數則由50.1升至51.4。投入價格指數維持73.0的高位，顯示通脹壓力仍然頑固。分析認為，數據顯示美國經濟第四季開局穩健，但消費支出回落或令增長放緩。",
+   "zh_hans": "美国供应管理协会公布，10月非制造业采购经理人指数由9月的54.9回落至54.5，低于市场预期的54.8，但仍高于50的扩张分界线，服务业连续第28个月扩张。新订单指数由59.8急跌至55.9，反映需求降温；就业指数则由50.1升至51.4。投入价格指数维持73.0的高位，显示通胀压力仍然顽固。分析认为，数据显示美国经济第四季开局稳健，但消费支出回落或令增长放缓。"
+  },
+  "tags": {
+   "en": [
+    "US",
+    "PMI",
+    "services sector"
+   ],
+   "zh_hant": [
+    "美國",
+    "PMI",
+    "服務業"
+   ],
+   "zh_hans": [
+    "美国",
+    "PMI",
+    "服务业"
+   ]
+  }
+ },
+ {
+  "id": "20261105-wangyi-lancang-mekong-fm",
+  "category": "china",
+  "published_at": "2026-11-04T23:02:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876587-20261104.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Wang Yi chairs 11th Lancang-Mekong foreign ministers' meeting, calls for new 'golden decade'",
+   "zh_hant": "王毅主持瀾湄合作第11次外長會　籲開啟合作新「金色十年」",
+   "zh_hans": "王毅主持澜湄合作第11次外长会　吁开启合作新「金色十年」"
+  },
+  "summary": {
+   "en": "Chinese Foreign Minister Wang Yi chaired the 11th Lancang-Mekong Cooperation foreign ministers' meeting in Beijing on Tuesday. Wang said cooperation between China and the five Mekong countries has deepened, with bilateral trade topping US$500 billion and the 'Safe Lancang-Mekong' operation effectively cracking down on cross-border online gambling and telecom fraud. He called on all parties to jointly lift Lancang-Mekong cooperation to a new level and usher in a new 'golden decade'. Kankanews reported that Wang also held a tea meeting with the Cambodian and Thai foreign ministers on the sidelines to discuss cooperation, regional stability and confidence-building measures between Cambodia and Thailand.",
+   "zh_hant": "中共中央政治局委員、外交部長王毅今日在北京主持瀾湄合作第11次外長會。王毅表示，中國與湄公河五國雙邊命運共同體建設走深走實，雙方貿易額已突破5,000億美元，「平安瀾湄行動」有力打擊跨境網賭電詐犯罪。他呼籲各方共同推動瀾湄合作邁上新台階，攜手開啟合作新的「金色十年」。另據看看新聞報道，王毅在會議間隙邀請柬埔寨及泰國外長茶敘，就加強合作、維護地區穩定及推動柬泰建立信任措施進行建設性交流。",
+   "zh_hans": "中共中央政治局委员、外交部长王毅今日在北京主持澜湄合作第11次外长会。王毅表示，中国与湄公河五国双边命运共同体建设走深走实，双方贸易额已突破5000亿美元，「平安澜湄行动」有力打击跨境网赌电诈犯罪。他呼吁各方共同推动澜湄合作迈上新台阶，携手开启合作新的「金色十年」。另据看看新闻报道，王毅在会议间隙邀请柬埔寨及泰国外长茶叙，就加强合作、维护地区稳定及推动柬泰建立信任措施进行建设性交流。"
+  },
+  "tags": {
+   "en": [
+    "Wang Yi",
+    "Lancang-Mekong Cooperation",
+    "foreign ministers' meeting"
+   ],
+   "zh_hant": [
+    "王毅",
+    "瀾湄合作",
+    "外長會"
+   ],
+   "zh_hans": [
+    "王毅",
+    "澜湄合作",
+    "外长会"
+   ]
+  }
+ },
+ {
+  "id": "20261105-us-dow-jumps-1200",
+  "category": "finance",
+  "published_at": "2026-11-04T22:47:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876590-20261104.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "US stocks jump in early trade as midterms lift uncertainty; Dow up 1,200 points",
+   "zh_hant": "美股初段升逾1%至逾2%　道指升逾1200點",
+   "zh_hans": "美股初段升逾1%至逾2%　道指升逾1200点"
+  },
+  "summary": {
+   "en": "With Democrats winning a majority of seats in the US midterm congressional elections and President Trump accepting the result, political uncertainty eased and US stocks rose more than 1% to over 2% in early trading. The Dow Jones Industrial Average was last quoted at 53,021, up 1,234 points or 2.38%; the Nasdaq was at 25,847, up 475 points or 1.87%; and the S&P 500 stood at 7,689, up 120 points or 1.59%.",
+   "zh_hant": "美國中期選舉民主黨贏得國會過半議席，總統特朗普接受選舉結果，消除政治不確定性，美股在開市初段上升逾1%至逾2%。道瓊斯指數較早時報53,021點，升1,234點，升幅2.38%；納斯達克指數報25,847點，升475點，升幅1.87%；標準普爾500指數報7,689點，升120點，升幅1.59%。",
+   "zh_hans": "美国中期选举民主党赢得国会过半议席，总统特朗普接受选举结果，消除政治不确定性，美股在开市初段上升逾1%至逾2%。道琼斯指数较早时报53,021点，升1,234点，升幅2.38%；纳斯达克指数报25,847点，升475点，升幅1.87%；标准普尔500指数报7,689点，升120点，升幅1.59%。"
+  },
+  "tags": {
+   "en": [
+    "US stocks",
+    "Dow Jones",
+    "US midterms"
+   ],
+   "zh_hant": [
+    "美股",
+    "道瓊斯指數",
+    "美國中期選舉"
+   ],
+   "zh_hans": [
+    "美股",
+    "道琼斯指数",
+    "美国中期选举"
+   ]
+  }
+ },
+ {
+  "id": "20261105-joshua-wong-sentencing",
+  "category": "hk",
+  "published_at": "2026-11-04T22:19:01+08:00",
+  "source": {
+   "name": "庭刊",
+   "url": "https://hkcourtnews.com/%E9%BB%83%E4%B9%8B%E9%8B%92%E8%AA%8D%E4%B8%B2%E8%AC%80%E5%8B%BE%E7%B5%90%E5%A4%96%E5%9C%8B%E5%8B%A2%E5%8A%9B%E3%80%80%E6%9C%AC%E5%91%A8%E5%9B%9B%E5%88%A4%E5%88%91/"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Joshua Wong to be sentenced Thursday over national security collusion charge",
+   "zh_hant": "黃之鋒認串謀勾結外國勢力　周四上午判刑",
+   "zh_hans": "黄之锋认串谋勾结外国势力　周四上午判刑"
+  },
+  "summary": {
+   "en": "Former Demosisto secretary-general Joshua Wong, currently serving a sentence over the democrats' primaries case, earlier pleaded guilty at the High Court to 'conspiracy to collude with foreign or external forces to endanger national security'. The judiciary website shows sentencing is set for Thursday (Nov 5) at 9:30am before a designated national security judge, expected to take about 30 minutes. The charge alleges Wong conspired with Nathan Law and others between July and November 2020 to request foreign sanctions, blockades or other hostile actions against Hong Kong or China. Members of the public began queueing outside the High Court on Wednesday afternoon for seats in the public gallery.",
+   "zh_hant": "正就民主派初選47人案服刑的前香港眾志秘書長黃之鋒，早前在高等法院承認一項「串謀勾結外國或者境外勢力危害國家安全」罪。司法機構網頁顯示，案件將於周四（5日）上午9時半由國安法指定法官判刑，預計需時約30分鐘。控罪指黃之鋒於2020年7月至11月期間，串謀羅冠聰等人請求外國或境外機構對香港或中國實施制裁、封鎖或其他敵對行動。周三下午已有市民在高等法院外排隊，輪候旁聽席位。",
+   "zh_hans": "正就民主派初选47人案服刑的前香港众志秘书长黄之锋，早前在高等法院承认一项「串谋勾结外国或者境外势力危害国家安全」罪。司法机构网页显示，案件将于周四（5日）上午9时半由国安法指定法官判刑，预计需时约30分钟。控罪指黄之锋于2020年7月至11月期间，串谋罗冠聪等人请求外国或境外机构对香港或中国实施制裁、封锁或其他敌对行动。周三下午已有市民在高等法院外排队，轮候旁听席位。"
+  },
+  "tags": {
+   "en": [
+    "Joshua Wong",
+    "national security law",
+    "sentencing"
+   ],
+   "zh_hant": [
+    "黃之鋒",
+    "國安法",
+    "判刑"
+   ],
+   "zh_hans": [
+    "黄之锋",
+    "国安法",
+    "判刑"
+   ]
+  }
+ },
+ {
+  "id": "20261105-customs-cocaine-airport",
+  "category": "hk",
+  "published_at": "2026-11-04T22:13:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400626.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/04/P2026110400626_photo_1342904t.jpg",
+  "title": {
+   "en": "Hong Kong Customs seizes 1kg suspected cocaine hidden in shoe soles at airport",
+   "zh_hant": "海關機場破販毒案　鞋底暗格藏約1公斤可疑可卡因",
+   "zh_hans": "海关机场破贩毒案　鞋底暗格藏约1公斤可疑可卡因"
+  },
+  "summary": {
+   "en": "Hong Kong Customs said on November 4 it arrested an inbound passenger at Hong Kong International Airport on November 2 and found about one kilogram of suspected cocaine hidden in the soles of a pair of shoes in his checked luggage, with an estimated market value of about HK$600,000. The 20-year-old arrestee, who claimed to be a technician, remains under investigation.",
+   "zh_hant": "海關今日表示，本月2日在香港國際機場拘捕一名入境男子，在其寄艙行李內一對鞋的鞋底暗格中搜出約1公斤懷疑可卡因，估計市值約60萬元。被捕男子20歲，報稱技術員，案件仍在調查中。",
+   "zh_hans": "海关今日表示，本月2日在香港国际机场拘捕一名入境男子，在其托运行李内一对鞋的鞋底暗格中搜出约1公斤怀疑可卡因，估计市值约60万元。被捕男子20岁，报称技术员，案件仍在调查中。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Customs",
+    "cocaine",
+    "drug trafficking"
+   ],
+   "zh_hant": [
+    "香港海關",
+    "可卡因",
+    "販毒"
+   ],
+   "zh_hans": [
+    "香港海关",
+    "可卡因",
+    "贩毒"
+   ]
+  }
+ },
+ {
+  "id": "20261105-legal-week-uncitral-60",
+  "category": "hk",
+  "published_at": "2026-11-04T20:08:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400693.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/04/P2026110400693_photo_1342821t.jpg",
+  "title": {
+   "en": "Hong Kong Legal Week 2026 marks UNCITRAL's 60th anniversary",
+   "zh_hant": "香港法律周2026舉行聯合國貿法會成立60周年慶祝活動",
+   "zh_hans": "香港法律周2026举行联合国贸法会成立60周年庆祝活动"
+  },
+  "summary": {
+   "en": "Hong Kong Legal Week 2026 today held an event celebrating the 60th anniversary of the United Nations Commission on International Trade Law (UNCITRAL), drawing more than 700 participants from over 40 jurisdictions. Secretary for Justice Paul Lam delivered welcome remarks, UNCITRAL Secretary Anna Joubin-Bret gave a vote of thanks, former Secretary for Justice Teresa Cheng delivered the keynote speech and Deputy Secretary for Justice Horace Cheung gave closing remarks. The event ran alongside the Hong Kong LawTech Fest.",
+   "zh_hant": "香港法律周2026今日舉行聯合國國際貿易法委員會成立60周年慶祝活動，逾700名來自40多個司法管轄區的人士參與。律政司司長林定國致歡迎辭，聯合國貿法會秘書長Anna Joubin-Bret致謝，前律政司司長鄭若驊發表主題演講，律政司副司長張國鈞致閉幕辭，同期並舉行香港法律科技節。",
+   "zh_hans": "香港法律周2026今日举行联合国国际贸易法委员会成立60周年庆祝活动，逾700名来自40多个司法管辖区的人士参与。律政司司长林定国致欢迎辞，联合国贸法会秘书长Anna Joubin-Bret致谢，前律政司司长郑若骅发表主题演讲，律政司副司长张国钧致闭幕辞，同期并举行香港法律科技节。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Legal Week",
+    "UNCITRAL",
+    "Paul Lam"
+   ],
+   "zh_hant": [
+    "香港法律周",
+    "聯合國貿法會",
+    "林定國"
+   ],
+   "zh_hans": [
+    "香港法律周",
+    "联合国贸法会",
+    "林定国"
+   ]
+  }
+ },
+ {
+  "id": "20261105-mfa-china-us-stability",
+  "category": "china",
+  "published_at": "2026-11-04T19:45:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876561-20261104.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Beijing seeks constructive strategic stability with US after midterms",
+   "zh_hant": "外交部回應美國中期選舉　願構建中美建設性戰略穩定關係",
+   "zh_hans": "外交部回应美国中期选举　愿构建中美建设性战略稳定关系"
+  },
+  "summary": {
+   "en": "China's foreign ministry said the US midterm election is America's domestic affair, and China is willing to work with the US to uphold and implement the important consensus reached by the two heads of state — strengthening communication, properly managing differences and expanding cooperation — so as to build a constructive strategic stability relationship between China and the US based on respect, fairness and reciprocity.",
+   "zh_hant": "在北京，外交部回應美國中期選舉時表示，中期選舉是美國內政，中方願繼續同美方一道，維護好、落實好兩國元首重要共識，加強溝通、妥處分歧、拓展合作，構建基於尊重、公平、對等的中美建設性戰略穩定關係。",
+   "zh_hans": "在北京，外交部回应美国中期选举时表示，中期选举是美国内政，中方愿继续同美方一道，维护好、落实好两国元首重要共识，加强沟通、妥处分歧、拓展合作，构建基于尊重、公平、对等的中美建设性战略稳定关系。"
+  },
+  "tags": {
+   "en": [
+    "foreign ministry",
+    "China-US relations",
+    "US midterms"
+   ],
+   "zh_hant": [
+    "外交部",
+    "中美關係",
+    "美國中期選舉"
+   ],
+   "zh_hans": [
+    "外交部",
+    "中美关系",
+    "美国中期选举"
+   ]
+  }
+ },
+ {
+  "id": "20261105-legco-bid-rigging-motion",
+  "category": "hk",
+  "published_at": "2026-11-04T19:26:24+08:00",
+  "source": {
+   "name": "都市日報",
+   "url": "https://metrohk.com.hk/港聞/立法會通過打擊圍標議案及修正案-045cde"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Legco passes motion on combating bid-rigging; government to consult on criminalisation shortly",
+   "zh_hant": "立法會通過打擊圍標議案　政府短期內諮詢圍標刑事化",
+   "zh_hans": "立法会通过打击围标议案　政府短期内咨询围标刑事化"
+  },
+  "summary": {
+   "en": "The Legislative Council today passed a non-binding members' motion moved by Christine Fong on combating bid-rigging, along with related amendments. Secretary for Security Tang Ping-keung said a joint task force against bid-rigging in building maintenance works will be set up under his coordination, comprising the police, the ICAC and the Competition Commission, to step up intelligence gathering, joint enforcement and risk alerts. Secretary for Commerce and Economic Development Algernon Yau said the government will shortly consult stakeholders on criminalising bid-rigging and aims to table an amendment bill as soon as possible.",
+   "zh_hant": "立法會今日通過由方國珊提出、打擊圍標的無約束力議員議案及相關修正案。保安局局長鄧炳強表示，將成立由他親自統籌的打擊樓宇維修工程圍標聯合特遣隊，成員包括警方、廉署及競委會，加強情報蒐集、聯合執法及風險預警。商務及經濟發展局局長丘應樺稱，政府短期內就圍標刑事化展開持份者諮詢，爭取盡早向立法會提交修例草案。",
+   "zh_hans": "立法会今日通过由方国珊提出、打击围标的无约束力议员议案及相关修正案。保安局局长邓炳强表示，将成立由他亲自统筹的打击楼宇维修工程围标联合特遣队，成员包括警方、廉署及竞委会，加强情报搜集、联合执法及风险预警。商务及经济发展局局长丘应桦称，政府短期内就围标刑事化展开持份者咨询，争取尽早向立法会提交修例草案。"
+  },
+  "tags": {
+   "en": [
+    "LegCo",
+    "bid-rigging",
+    "criminalisation"
+   ],
+   "zh_hant": [
+    "立法會",
+    "圍標",
+    "刑事化"
+   ],
+   "zh_hans": [
+    "立法会",
+    "围标",
+    "刑事化"
+   ]
+  }
+ },
+ {
+  "id": "20261105-us-midterms-democrats-win",
+  "category": "world",
+  "published_at": "2026-11-04T18:18:00+08:00",
+  "source": {
+   "name": "經理人",
+   "url": "https://www.managertoday.com.tw/articles/view/73155"
+  },
+  "image_url": "",
+  "title": {
+   "en": "US midterms: Democrats retake control of House and Senate",
+   "zh_hant": "美國中期選舉　民主黨重奪參眾兩院控制權",
+   "zh_hans": "美国中期选举　民主党重夺参众两院控制权"
+  },
+  "summary": {
+   "en": "Democrats retook control of both chambers of the US Congress in the November 3 midterm elections, ending two years of unified Republican rule. As counting continued on November 4, Democrats had won 228 House seats, past the 218 needed for a majority, and flipped several Republican-held Senate seats, breaking through in traditional strongholds such as Texas and Iowa. Analysts cite rising living costs and the Iran war's push on oil prices as key factors. President Trump now faces a Democrat-controlled Congress for his final two years, sharply narrowing his room to govern.",
+   "zh_hant": "美國11月3日舉行中期選舉，民主黨成功翻轉國會參眾兩院，終結共和黨兩年的完全執政。截至11月4日開票進度，民主黨在眾議院已奪得228席，超過218席的多數門檻；參議院亦翻轉多個共和黨原有席次，並在德州、愛荷華等傳統票倉取得突破。分析指生活成本上漲及伊朗戰事推高油價，是影響選情的關鍵因素。特朗普餘下兩年任期將面對民主黨主導的國會，施政空間大減。",
+   "zh_hans": "美国11月3日举行中期选举，民主党成功翻转国会参众两院，终结共和党两年的完全执政。截至11月4日开票进度，民主党在众议院已夺得228席，超过218席的多数门槛；参议院亦翻转多个共和党原有席次，并在德州、爱荷华等传统票仓取得突破。分析指生活成本上涨及伊朗战事推高油价，是影响选情的关键因素。特朗普余下两年任期将面对民主党主导的国会，施政空间大减。"
+  },
+  "tags": {
+   "en": [
+    "US midterms",
+    "Democrats",
+    "Congress"
+   ],
+   "zh_hant": [
+    "美國中期選舉",
+    "民主黨",
+    "國會"
+   ],
+   "zh_hans": [
+    "美国中期选举",
+    "民主党",
+    "国会"
+   ]
+  }
+ },
+ {
+  "id": "20261105-sun-dong-wuzhen-summit",
+  "category": "china",
+  "published_at": "2026-11-04T18:12:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400624.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/04/P2026110400624_photo_1342759t.jpg",
+  "title": {
+   "en": "SITI promotes Hong Kong 'AI+' strategy at 2026 World Internet Conference Wuzhen Summit",
+   "zh_hant": "孫東出席世界互聯網大會烏鎮峰會　推廣香港「AI+」策略",
+   "zh_hans": "孙东出席世界互联网大会乌镇峰会　推广香港「AI+」策略"
+  },
+  "summary": {
+   "en": "Secretary for Innovation, Technology and Industry Professor Sun Dong attended the 2026 World Internet Conference Wuzhen Summit in Zhejiang, promoting Hong Kong's 'AI+' strategy. He said the Hong Kong AI Research and Development Institute will publish AI agent safety guidelines next year, the Hetao data facility cluster targets 180,000 PFLOPS of computing power by 2030, and a HK$1 billion AI funding scheme has been set up to support AI development.",
+   "zh_hant": "創新科技及工業局局長孫東出席在浙江舉行的2026世界互聯網大會烏鎮峰會，推廣香港「AI+」策略。他表示，香港人工智能研究及發展院將於明年發布AI智能體安全指引，河套數據設施群目標2030年達18萬PFLOPS算力，並已設立10億元AI資助計劃支持人工智能發展。",
+   "zh_hans": "创新科技及工业局局长孙东出席在浙江举行的2026世界互联网大会乌镇峰会，推广香港「AI+」策略。他表示，香港人工智能研究及发展院将于明年发布AI智能体安全指引，河套数据设施群目标2030年达18万PFLOPS算力，并已设立10亿元AI资助计划支持人工智能发展。"
+  },
+  "tags": {
+   "en": [
+    "Sun Dong",
+    "Wuzhen Summit",
+    "artificial intelligence"
+   ],
+   "zh_hant": [
+    "孫東",
+    "烏鎮峰會",
+    "人工智能"
+   ],
+   "zh_hans": [
+    "孙东",
+    "乌镇峰会",
+    "人工智能"
+   ]
+  }
+ },
+ {
+  "id": "20261105-legco-carf-bill-passed",
+  "category": "finance",
+  "published_at": "2026-11-04T17:50:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400310.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "LegCo passes bill implementing crypto-asset reporting framework and revised CRS",
+   "zh_hant": "立法會通過加密資產申報框架條例草案　鞏固香港金融中心地位",
+   "zh_hans": "立法会通过加密资产申报框架条例草案　巩固香港金融中心地位"
+  },
+  "summary": {
+   "en": "The Legislative Council passed the Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Bill 2026, implementing the OECD's Crypto-Asset Reporting Framework (CARF) and the amended Common Reporting Standard. CARF takes effect in 2027 with information exchange starting in 2028, while the amended CRS takes effect in 2028 with automatic exchange from 2029. Secretary for Financial Services and the Treasury Christopher Hui said the new law helps consolidate Hong Kong's standing as an international financial centre.",
+   "zh_hant": "立法會通過《2026年稅務（修訂）（加密資產申報框架及經修訂共同匯報標準）條例草案》，落實經合組織的加密資產申報框架（CARF）及經修訂的共同匯報標準。CARF將於2027年生效並自2028年起交換資料，經修訂共同匯報標準則於2028年生效、自2029年起自動交換。財經事務及庫務局局長許正宇表示，新法例有助鞏固香港作為國際金融中心的地位。",
+   "zh_hans": "立法会通过《2026年税务（修订）（加密资产申报框架及经修订共同汇报标准）条例草案》，落实经合组织的加密资产申报框架（CARF）及经修订的共同汇报标准。CARF将于2027年生效并自2028年起交换资料，经修订共同汇报标准则于2028年生效、自2029年起自动交换。财经事务及库务局局长许正宇表示，新法例有助巩固香港作为国际金融中心的地位。"
+  },
+  "tags": {
+   "en": [
+    "LegCo",
+    "Crypto-Asset Reporting Framework",
+    "OECD"
+   ],
+   "zh_hant": [
+    "立法會",
+    "加密資產申報框架",
+    "經合組織"
+   ],
+   "zh_hans": [
+    "立法会",
+    "加密资产申报框架",
+    "经合组织"
+   ]
+  }
+ },
+ {
+  "id": "20261105-financial-leaders-summit-2026",
+  "category": "finance",
+  "published_at": "2026-11-04T17:00:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400195.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/04/P2026110400195_photo_1342813t.jpg",
+  "title": {
+   "en": "Global Financial Leaders' Investment Summit 2026 wraps up with investors forum",
+   "zh_hant": "全球金融領袖投資峰會2026圓滿閉幕　投資論壇匯聚逾300名參與者",
+   "zh_hans": "全球金融领袖投资峰会2026圆满闭幕　投资论坛汇聚逾300名参与者"
+  },
+  "summary": {
+   "en": "The three-day Global Financial Leaders' Investment Summit 2026 concluded today with the 'Conversations with Global Investors' investment forum, attended by over 300 participants including more than 100 chairmen and chief executives, under the theme 'Rethinking the Playbook'. Financial Secretary Paul Chan delivered a keynote speech at the forum.",
+   "zh_hant": "一連三日的全球金融領袖投資峰會2026今日以「與國際投資者對話」投資論壇作結，逾300名參與者、逾100位董事長及行政總裁出席，論壇主題為「Rethinking the Playbook」。財政司司長陳茂波在論壇發表主題演講。",
+   "zh_hans": "一连三日的全球金融领袖投资峰会2026今日以「与国际投资者对话」投资论坛作结，逾300名参与者、逾100位董事长及行政总裁出席，论坛主题为「Rethinking the Playbook」。财政司司长陈茂波在论坛发表主题演讲。"
+  },
+  "tags": {
+   "en": [
+    "Global Financial Leaders' Investment Summit",
+    "Paul Chan",
+    "finance"
+   ],
+   "zh_hant": [
+    "全球金融領袖投資峰會",
+    "陳茂波",
+    "金融"
+   ],
+   "zh_hans": [
+    "全球金融领袖投资峰会",
+    "陈茂波",
+    "金融"
+   ]
+  }
+ },
+ {
+  "id": "20261105-png-shell-wine-bottle",
+  "category": "world",
+  "published_at": "2026-11-04T16:40:48+08:00",
+  "source": {
+   "name": "追光者",
+   "url": "https://pulsehknews.com/png-chinese-artillery-shell/"
+  },
+  "image_url": "",
+  "title": {
+   "en": "China calls 32kg object found in Papua New Guinea a 'shell-shaped wine bottle' as police report says live shell",
+   "zh_hant": "巴布亞新畿內亞驚現32公斤「酒樽」　中使館稱無危險　警方報告指係未爆炮彈",
+   "zh_hans": "巴布亚新几内亚惊现32公斤「酒樽」　中使馆称无危险　警方报告指是未爆炮弹"
+  },
+  "summary": {
+   "en": "A suspected military artillery shell weighing 32kg was found in a commercial shipping container in Port Moresby, Papua New Guinea last Friday, and four Chinese nationals were detained. The Chinese embassy said on Tuesday, citing the company involved, that the object was actually a 'shell-shaped wine bottle' posing no danger, adding it was 'virtually impossible' to smuggle military-grade shells out of China. But the Australian Broadcasting Corporation, citing sources, reported a police investigation concluded the object is an unexploded Chinese-made Type 59 130mm artillery projectile containing explosives and a fuse, and the report has been handed to criminal investigators.",
+   "zh_hant": "巴布亞新畿內亞首都莫爾茲比港一個商用貨櫃，上周五發現一枚重達32公斤的疑似軍用炮彈，4名中國公民當場被捕。中國駐當地大使館本周二在社交平台發文，引述涉事公司聲稱該物體實為「炮彈造型的酒樽」，完全不構成危險，又指中國槍械管制極嚴，從中國走私軍用級炮彈「幾乎不可能」。但澳洲廣播公司引述消息報道，當地警方調查報告已確認該物為中國製59式130毫米未爆炮彈，內藏炸藥及引爆裝置，報告已交刑事調查人員跟進。",
+   "zh_hans": "巴布亚新几内亚首都莫尔兹比港一个商用货柜，上周五发现一枚重达32公斤的疑似军用炮弹，4名中国公民当场被捕。中国驻当地大使馆本周二在社交平台发文，引述涉事公司声称该物体实为「炮弹造型的酒樽」，完全不构成危险，又指中国枪械管制极严，从中国走私军用级炮弹「几乎不可能」。但澳洲广播公司引述消息报道，当地警方调查报告已确认该物为中国制59式130毫米未爆炮弹，内藏炸药及引爆装置，报告已交刑事调查人员跟进。"
+  },
+  "tags": {
+   "en": [
+    "Papua New Guinea",
+    "Chinese embassy",
+    "unexploded shell"
+   ],
+   "zh_hant": [
+    "巴布亞新畿內亞",
+    "中國大使館",
+    "未爆炮彈"
+   ],
+   "zh_hans": [
+    "巴布亚新几内亚",
+    "中国大使馆",
+    "未爆炮弹"
+   ]
+  }
+ },
+ {
+  "id": "20261105-agility-robotics-nasdaq",
+  "category": "tech",
+  "published_at": "2026-11-04T08:49:00+08:00",
+  "source": {
+   "name": "科技新報",
+   "url": "https://finance.technews.tw/2026/11/04/agility-to-list-on-nasdaq-on-november-5/"
+  },
+  "image_url": "https://img.technews.tw/wp-content/uploads/2026/06/24151603/Agility_Digit_06.jpg",
+  "title": {
+   "en": "Humanoid robot maker Agility to debut on Nasdaq on Nov 5 via SPAC merger",
+   "zh_hant": "人型機器人 Agility 借殼上市　11月5日掛牌納斯達克",
+   "zh_hans": "人形机器人 Agility 借壳上市　11月5日挂牌纳斯达克"
+  },
+  "summary": {
+   "en": "US humanoid-robotics startup Agility Robotics will gain a Nasdaq listing by merging with the already-listed SPAC Churchill Capital Corp XI, and is expected to start trading under the ticker 'AGLT' on November 5. Churchill XI shareholders approved the merger on November 2 with over 84% in favour; the deal and related financing are expected to raise about US$465 million, including roughly US$201 million in PIPE financing led by Foxconn. Founded in 2015, Agility's bipedal robot 'Digit' is already commercially deployed in warehouse and logistics settings, with deployment commitments from nine customer facilities — making it the only pure-play humanoid robot company in the US with real commercial deployments after the merger.",
+   "zh_hant": "美國人型機器人新創商 Agility Robotics 將透過與已上市特殊目的收購公司 Churchill Capital Corp XI 合併，取得納斯達克上市資格，預計11月5日以股票代號「AGLT」開始交易。Churchill XI 股東11月2日以逾84%贊成票通過合併案；此次交易及相關融資預計籌得約4.65億美元，其中鴻海領投約2.01億美元私募股權融資。Agility 成立於2015年，旗下雙足人型機器人「Digit」主要應用於倉儲、物流及工廠物料搬運，已獲九處客戶設施的部署承諾；合併完成後，將成為美國唯一具實際商業部署經驗的純人型機器人上市公司。",
+   "zh_hans": "美国人型机器人新创商 Agility Robotics 将透过与已上市特殊目的收购公司 Churchill Capital Corp XI 合并，取得纳斯达克上市资格，预计11月5日以股票代号「AGLT」开始交易。Churchill XI 股东11月2日以逾84%赞成票通过合并案；此次交易及相关融资预计筹得约4.65亿美元，其中鸿海领投约2.01亿美元私募股权融资。Agility 成立于2015年，旗下双足人型机器人「Digit」主要应用于仓储、物流及工厂物料搬运，已获九处客户设施的部署承诺；合并完成后，将成为美国唯一具实际商业部署经验的纯人型机器人上市公司。"
+  },
+  "tags": {
+   "en": [
+    "humanoid robot",
+    "Agility Robotics",
+    "Nasdaq listing"
+   ],
+   "zh_hant": [
+    "人型機器人",
+    "Agility",
+    "納斯達克上市"
+   ],
+   "zh_hans": [
+    "人形机器人",
+    "Agility Robotics",
+    "纳斯达克上市"
+   ]
+  }
+ }
 ]
