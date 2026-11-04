@@ -33,7 +33,7 @@
 - `image_url`：圖片連結，可空；空則文章頁顯示 fallback
 - `title`／`summary`／`tags`：`{en, zh_hant, zh_hans}` 三語對照
 
-文章頁 `a/{id}.html` 固定結構：繁體標題＋摘要、英文及簡體替代標題、分類 tag、發布時間、來源名稱、原文連結、Facebook 分享按鈕、圖片（或 fallback）、tags；footer 固定聲明「摘要由本站重新編寫，圖片版權歸原新聞機構所有」。
+文章頁 `a/{id}.html` 固定結構（2026-11-04 更新）：頂部 `.article-topbar`（左邊 backlink；右邊同首頁一樣嘅語言切換 EN／繁／简＋深色模式掣）；hero 圖片（或 🏅 fallback）、圖說、分類 tag、發布時間、來源名稱、`h1` 標題、`p.lead` 摘要、tags——三者靜態內容為繁體，inline script 讀 `localStorage hks_lang`（同首頁共用語言偏好）再 fetch `data/YYYY-MM-DD.json` 做三語即時切換；原文連結、Facebook 分享按鈕；footer 固定聲明「摘要由本站重新編寫，圖片版權歸原新聞機構所有」。
 
 ## 新聞更新流程（自動化）
 
