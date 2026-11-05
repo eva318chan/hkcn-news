@@ -1,5 +1,79 @@
 [
  {
+  "id": "20261106-israel-eisenkot-67-seats",
+  "category": "world",
+  "published_at": "2026-11-06T02:13:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876730-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "以色列組閣大逆轉　埃森科特獲67席支持過半　阿拉伯政黨成關鍵",
+   "en": "Israel coalition talks turn: Eisenkot wins backing of 67 seats, a Knesset majority, with Arab parties decisive",
+   "zh_hans": "以色列组阁大逆转　埃森科特获67席支持过半　阿拉伯政党成关键"
+  },
+  "summary": {
+   "zh_hant": "以色列阿拉伯裔政黨聯盟「聯合名單」宣布，將向總統赫爾佐格提議授權正直黨領導人、前國防軍總參謀長埃森科特組建新政府。目前表態支持埃森科特組閣的政黨，在議會120席中合共佔67席，超過半數。以色列議會選舉官方結果日前公布，內塔尼亞胡陣營與埃森科特領導的反對派均未能取得單獨組閣所需的議席，需要爭取合共19席的阿拉伯裔政黨支持。赫爾佐格已於當地星期三晚開始與各黨派協商，聽取總理人選推薦；以色列傳媒分析指，雖然埃森科特獲總統授權組閣的機會明顯上升，但反對派內部對與阿拉伯裔政黨合作仍有分歧，議會多數推薦未必能轉化為實際組閣支持。",
+   "en": "Israel's Arab-led Joint List has announced it will recommend to President Isaac Herzog that Yashar party leader and former military chief of staff Gadi Eisenkot be tasked with forming a new government. Parties that have declared support for Eisenkot now hold 67 of the Knesset's 120 seats, more than half. Official results of the Israeli election were released earlier; neither Prime Minister Benjamin Netanyahu's bloc nor the opposition led by Eisenkot won enough seats to govern alone, leaving both sides courting the Arab parties, which hold 19 seats between them. Herzog began consulting the parties on Wednesday evening local time to hear their recommendations for prime minister; Israeli media analysis says Eisenkot's chances of receiving the mandate have risen markedly, but divisions within the opposition over cooperating with the Arab parties mean the parliamentary majority in recommendations may not translate into actual support for forming a government.",
+   "zh_hans": "以色列阿拉伯裔政党联盟「联合名单」宣布，将向总统赫尔佐格提议授权正直党领导人、前国防军总参谋长埃森科特组建新政府。目前表态支持埃森科特组阁的政党，在议会120席中合共占67席，超过半数。以色列议会选举官方结果日前公布，内塔尼亚胡阵营与埃森科特领导的反对派均未能取得单独组阁所需的议席，需要争取合共19席的阿拉伯裔政党支持。赫尔佐格已于当地星期三晚开始与各党派协商，听取总理人选推荐；以色列传媒分析指，虽然埃森科特获总统授权组阁的机会明显上升，但反对派内部对与阿拉伯裔政党合作仍有分歧，议会多数推荐未必能转化为实际组阁支持。"
+  },
+  "tags": {
+   "zh_hant": [
+    "以色列",
+    "埃森科特",
+    "組閣"
+   ],
+   "en": [
+    "Israel",
+    "Eisenkot",
+    "government formation"
+   ],
+   "zh_hans": [
+    "以色列",
+    "埃森科特",
+    "组阁"
+   ]
+  }
+ },
+ {
+  "id": "20261106-china-yaogan-51-launch",
+  "category": "china",
+  "published_at": "2026-11-06T01:12:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876733-20261106.htm"
+  },
+  "image_url": "https://newsstatic.rthk.hk/images/mfile_1876733_1_M_20261106005050.jpg",
+  "title": {
+   "zh_hant": "中國一箭三星升空　遙感五十一號07-09星成功入軌　長征火箭第675飛",
+   "en": "China launches three Yaogan-51 satellites in one rocket; Long March series marks 675th flight",
+   "zh_hans": "中国一箭三星升空　遥感五十一号07-09星成功入轨　长征火箭第675飞"
+  },
+  "summary": {
+   "zh_hant": "中國昨晚11時58分在西昌衛星發射中心使用長征二號丙運載火箭，成功將遙感五十一號07-09星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。據央視報道，有關衛星主要用於科學試驗及電磁環境探測等領域。今次任務是長征系列運載火箭的第675次飛行。",
+   "en": "China successfully launched the Yaogan-51 07-09 satellites aboard a Long March 2C carrier rocket from the Xichang Satellite Launch Centre at 11.58pm last night, with the satellites entering their planned orbit and the mission declared a complete success. State broadcaster CCTV said the satellites will mainly be used for scientific experiments and electromagnetic environment monitoring. The mission was the 675th flight of the Long March rocket series.",
+   "zh_hans": "中国昨晚11时58分在西昌卫星发射中心使用长征二号丙运载火箭，成功将遥感五十一号07-09星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。据央视报道，有关卫星主要用于科学试验及电磁环境探测等领域。今次任务是长征系列运载火箭的第675次飞行。"
+  },
+  "tags": {
+   "zh_hant": [
+    "遙感衛星",
+    "長征二號丙",
+    "西昌"
+   ],
+   "en": [
+    "Yaogan satellite",
+    "Long March 2C",
+    "Xichang"
+   ],
+   "zh_hans": [
+    "遥感卫星",
+    "长征二号丙",
+    "西昌"
+   ]
+  }
+ },
+ {
   "id": "20261106-ny-brooklyn-fire-6-dead",
   "category": "world",
   "published_at": "2026-11-06T00:33:00+08:00",
