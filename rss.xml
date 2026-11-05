@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>中港新聞速報</title><link>https://hkcn-news.vercel.app/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Thu, 05 Nov 2026 07:15:18 +0800</lastBuildDate>
+<title>中港新聞速報</title><link>https://hkcn-news.vercel.app/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Thu, 05 Nov 2026 09:24:40 +0800</lastBuildDate>
+<item>
+<title>韓股早段下跌　首爾綜合指數初段跌129點報5554點</title>
+<link>https://hkcn-news.vercel.app/a/20261105-kospi-morning-drop.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261105-kospi-morning-drop.html</guid>
+<pubDate>Thu, 05 Nov 2026 08:08:00 +0800</pubDate>
+<description>韓國首爾綜合指數今早低開，初段報5554點，跌129點，跌幅2.27%。指數早段持續受壓，失守5600點水平。</description>
+</item>
 <item>
 <title>美股造好　道指急升1569點收報53356點　創兩個月新高</title>
 <link>https://hkcn-news.vercel.app/a/20261105-us-stocks-close-record.html</link>
@@ -344,13 +351,6 @@
 <guid>https://hkcn-news.vercel.app/a/20261104-hk-midday-stocks.html</guid>
 <pubDate>Wed, 04 Nov 2026 12:00:00 +0800</pubDate>
 <description>港股上午盤三大指數小幅探底後持續回升，恒生指數、國企指數中午基本平收，恒生科技指數跌約1%。連續反彈的大型科網股普遍回落，阿里巴巴、京東跌約2%，騰訊、小米、美團小幅下跌；餐飲消費股多數維持活躍，生物醫藥、海運及石油股多數上升，汽車、內房及光通信股則普遍低迷。</description>
-</item>
-<item>
-<title>康文署辦表演藝術同樂日2026　屯門荃灣兩大會堂免費入場</title>
-<link>https://hkcn-news.vercel.app/a/20261104-lcsd-performing-arts-fun-day.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261104-lcsd-performing-arts-fun-day.html</guid>
-<pubDate>Wed, 04 Nov 2026 12:00:00 +0800</pubDate>
-<description>康樂及文化事務署將於11月在屯門大會堂及荃灣大會堂舉行「表演藝術同樂日2026」，免費呈獻音樂、舞蹈及戲劇表演，以及工作坊和展覽，歡迎市民參與。屯門大會堂場於11月8日（星期日）下午2時舉行，有舞蹈及中樂演出、福建南音表演及故事工作坊；荃灣大會堂場於11月15日（星期日）下午2時舉行，音樂事務處青年管弦樂團將演出交響樂及弦樂音樂會，另有中西樂跨界及粵劇音樂劇場演出。部分名額有限的活動須預先登記或領取門票，先到先得。</description>
 </item>
 </channel>
 </rss>
