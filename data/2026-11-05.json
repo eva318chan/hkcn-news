@@ -1,5 +1,523 @@
 [
  {
+  "id": "20261105-customs-cannabis-airport",
+  "category": "society",
+  "published_at": "2026-11-05T18:10:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/05/P2026110500602.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/05/P2026110500602_photo_1342939.jpg",
+  "title": {
+   "en": "Customs seizes 9kg of cannabis buds worth $1.9m from Bangkok arrival at airport",
+   "zh_hant": "曼谷飛抵港　24歲男隨身行李藏9公斤大麻花　海關機場截獲市值190萬",
+   "zh_hans": "曼谷飞抵港　24岁男随身行李藏9公斤大麻花　海关机场截获市值190万"
+  },
+  "summary": {
+   "en": "Hong Kong Customs seized about 9 kilograms of suspected cannabis buds with an estimated market value of about $1.9 million at Hong Kong International Airport today. A 24-year-old Mainland male passenger who arrived from Bangkok last night was found carrying the drugs in his carry-on baggage during clearance in the early hours of today. He was arrested and charged with one count of trafficking in a dangerous drug, and the case will be heard at West Kowloon Magistrates' Courts tomorrow. Trafficking in a dangerous drug carries a maximum penalty of a $5 million fine and life imprisonment.",
+   "zh_hant": "香港海關今日在香港國際機場檢獲約9公斤懷疑大麻花，估計市值約190萬元。一名24歲內地男旅客昨晚由泰國曼谷抵港，今日凌晨清關期間，海關人員在其隨身行李內搜出該批懷疑大麻花，隨即將他拘捕。被捕男子已被控一項販運危險藥物罪，案件明日（11月6日）在西九龍裁判法院提堂。根據《危險藥物條例》，販運危險藥物最高可判罰款500萬元及終身監禁。",
+   "zh_hans": "香港海关今日在香港国际机场检获约9公斤怀疑大麻花，估计市值约190万元。一名24岁内地男旅客昨晚由泰国曼谷抵港，今日凌晨清关期间，海关人员在其随身行李内搜出该批怀疑大麻花，随即将他拘捕。被捕男子已被控一项贩运危险药物罪，案件明日（11月6日）在西九龙裁判法院提堂。根据《危险药物条例》，贩运危险药物最高可判罚款500万元及终身监禁。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Customs",
+    "cannabis",
+    "airport"
+   ],
+   "zh_hant": [
+    "海關",
+    "大麻花",
+    "機場"
+   ],
+   "zh_hans": [
+    "海关",
+    "大麻花",
+    "机场"
+   ]
+  }
+ },
+ {
+  "id": "20261105-sj-lawtech-opening-remarks",
+  "category": "hk",
+  "published_at": "2026-11-05T17:12:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/05/P2026110500545.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/05/P2026110500545_photo_1342923.jpg",
+  "title": {
+   "en": "Paul Lam: AI cannot replace lawyers; 'human in the loop' must guide legal tech",
+   "zh_hant": "林定國：AI再強都取代唔到人　法律科技要「人把關、誠信行先」",
+   "zh_hans": "林定国：AI再强都取代不了人　法律科技要「人把关、诚信行先」"
+  },
+  "summary": {
+   "en": "Secretary for Justice Paul Lam said artificial intelligence cannot replace human beings in legal practice, delivering opening remarks at Hong Kong Legal Week 2026: LawTech Forum today. Under the theme 'Human in the Loop, Integrity at the Core — Redefining Legal Practice with LawTech', Lam said lawyers should harness technology while preserving advocacy, ethical judgment and accountability, and warned against an AI-driven 'armaments race' in litigation filings. He said the 2026 Policy Address sets out seven aspects of AI risk governance, and that a Department of Justice-led inter-departmental working group has completed a preliminary review of more than 600 ordinances. Priority areas include misuse of AI for crime such as deepfakes, protection of minors on social media, and legal liability for harm caused by AI products.",
+   "zh_hant": "律政司司長林定國資深大律師今日在香港法律周2026法律科技論壇上致開幕辭表示，人工智能功能強大，但暫時仍不能取代人，在法律實踐中「人把關」不是創新的阻礙，而是確保創新符合公義、專業責任及公眾利益的指南。論壇主題為「人把關、誠信行先——以法律科技重塑法律實踐」。林定國表示，《2026年施政報告》就人工智能風險管治提出七個範疇，律政司牽頭的跨部門工作小組已初步審視逾600條條例；優先處理的三個範疇包括利用人工智能犯罪（例如深偽技術）、未成年人士使用社交媒體的保障，以及人工智能產品造成損害的法律責任。他又提醒業界，提防人工智能令訴訟文件數量暴增的「軍備競賽」，增加法官及訴訟各方的成本。",
+   "zh_hans": "律政司司长林定国资深大律师今日在香港法律周2026法律科技论坛上致开幕辞表示，人工智能功能强大，但暂时仍不能取代人，在法律实践中「人把关」不是创新的阻碍，而是确保创新符合公义、专业责任及公众利益的指南。论坛主题为「人把关、诚信行先——以法律科技重塑法律实践」。林定国表示，《2026年施政报告》就人工智能风险管治提出七个范畴，律政司牵头的跨部门工作小组已初步审视逾600条条例；优先处理的三个范畴包括利用人工智能犯罪（例如深伪技术）、未成年人士使用社交媒体的保障，以及人工智能产品造成损害的法律责任。他又提醒业界，提防人工智能令诉讼文件数量暴增的「军备竞赛」，增加法官及诉讼各方的成本。"
+  },
+  "tags": {
+   "en": [
+    "Paul Lam",
+    "LawTech",
+    "artificial intelligence"
+   ],
+   "zh_hant": [
+    "林定國",
+    "法律科技",
+    "人工智能"
+   ],
+   "zh_hans": [
+    "林定国",
+    "法律科技",
+    "人工智能"
+   ]
+  }
+ },
+ {
+  "id": "20261105-acws-dongjiang-water-visit",
+  "category": "society",
+  "published_at": "2026-11-05T17:50:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/05/P2026110500283.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/05/P2026110500283_photo_1342926.jpg",
+  "title": {
+   "en": "Water advisory committee hails Dongjiang supply after two-day inspection",
+   "zh_hant": "供水諮委會完成東江考察　讚供港水質好　系統現代化監測嚴密",
+   "zh_hans": "供水谘委会完成东江考察　赞供港水质好　系统现代化监测严密"
+  },
+  "summary": {
+   "en": "A delegation of the Advisory Committee on Water Supplies concluded a two-day visit to the Dongjiang Water Supply System today, saying the system is well managed, modernised with the latest technologies, and that the Dongjiang water supplied to Hong Kong is of good quality. The delegation visited the Taiyuan Pumping Station and the Qiling Aqueduct in Dongguan this morning, and the Shenzhen Reservoir and the Environmental Water Quality Monitoring Centre in Shenzhen this afternoon. Members learned that Dongjiang water is extracted at Taiyuan Pumping Station and conveyed via a dedicated aqueduct to the Shenzhen Reservoir before transmission to Hong Kong, keeping it unaffected by developments along the route. Committee chairman Edmund Leung said Guangdong authorities have invested substantial resources over the years to safeguard the quantity and quality of water supplied to Hong Kong, with stringent monitoring, intelligent prediction and rapid response to potential risks.",
+   "zh_hant": "供水諮詢委員會代表團今日完成一連兩日的東江供水系統考察，認為系統管理完善、採用最新科技，供港東江水水質良好。代表團今早參觀東莞太園抽水站及綺嶺渡槽，下午到深圳水庫及毗鄰的環境水質監測中心，了解東江水由太園抽水站抽取，經專用輸水渠輸送至深圳水庫再輸港，不受沿線城市發展影響。委員會主席梁廣灝表示，考察內容充實多元，廣東方面多年來投放大量資源，保障供港東江水的數量及質素，監測嚴謹，具備智能預測及快速應對潛在風險的能力，充分體現廣東方面管理東江供水系統的嚴謹態度及成效。",
+   "zh_hans": "供水咨询委员会代表团今日完成一连两日的东江供水系统考察，认为系统管理完善、采用最新科技，供港东江水水质良好。代表团今早参观东莞太园抽水站及绮岭渡槽，下午到深圳水库及毗邻的环境水质监测中心，了解东江水由太园抽水站抽取，经专用输水渠输送至深圳水库再输港，不受沿线城市发展影响。委员会主席梁广灏表示，考察内容充实多元，广东方面多年来投放大量资源，保障供港东江水的数量及质素，监测严谨，具备智能预测及快速应对潜在风险的能力，充分体现广东方面管理东江供水系统的严谨态度及成效。"
+  },
+  "tags": {
+   "en": [
+    "Dongjiang water",
+    "water supply",
+    "water quality"
+   ],
+   "zh_hant": [
+    "東江水",
+    "供水",
+    "水質"
+   ],
+   "zh_hans": [
+    "东江水",
+    "供水",
+    "水质"
+   ]
+  }
+ },
+ {
+  "id": "20261105-customs-illicit-cigarettes",
+  "category": "society",
+  "published_at": "2026-11-05T17:15:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/05/P2026110500532.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/05/P2026110500532_photo_1342924.jpg",
+  "title": {
+   "en": "Customs raids seven illicit cigarette outlets, seizes 128,000 cigarettes and arrests 10",
+   "zh_hant": "海關全港掃私煙　放蛇搗7零售點　檢12.8萬支私煙拘10人",
+   "zh_hans": "海关全港扫私烟　放蛇捣7零售点　检12.8万支私烟拘10人"
+  },
+  "summary": {
+   "en": "Hong Kong Customs has seized about 128,000 suspected illicit cigarettes with an estimated market value of about $580,000 and a duty potential of about $420,000, arresting 10 people in a territory-wide decoy operation against cigarette retail points since November 3. Officers disguised as customers conducted test buys at newsstands, grocery shops and hawker stalls, finding some selling cigarettes below the statutory duty. Today Customs took enforcement action against seven retail points in Yau Ma Tei, Sham Shui Po, Tsuen Wan, Shau Kei Wan, Tuen Mun and Kwun Tong, arresting five men and five women aged between 43 and 90. The operation is ongoing. Dealing in duty-not-paid cigarettes carries a maximum penalty of a $2 million fine and seven years' imprisonment.",
+   "zh_hant": "香港海關自11月3日起以放蛇行動針對全港香煙零售點，檢獲約12萬8千支懷疑私煙，估計市值約58萬元，應課稅值約42萬元，拘捕10人。海關人員喬裝顧客在報攤、士多及小販攤檔試買，發現部分零售點以低於法定稅款的價錢售賣香煙。海關今日對油麻地、深水埗、荃灣、筲箕灣、屯門及觀塘共7個零售點採取執法行動，拘捕5男5女，年齡介乎43至90歲。行動仍在進行中。根據《應課稅品條例》，買賣未完稅香煙最高可判罰款200萬元及監禁7年。",
+   "zh_hans": "香港海关自11月3日起以放蛇行动针对全港香烟零售点，检获约12万8千支怀疑私烟，估计市值约58万元，应课税值约42万元，拘捕10人。海关人员乔装顾客在报摊、士多及小贩摊档试买，发现部分零售点以低于法定税款的价钱售卖香烟。海关今日对油麻地、深水埗、荃湾、筲箕湾、屯门及观塘共7个零售点采取执法行动，拘捕5男5女，年龄介乎43至90岁。行动仍在进行中。根据《应课税品条例》，买卖未完税香烟最高可判罚款200万元及监禁7年。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Customs",
+    "illicit cigarettes",
+    "enforcement"
+   ],
+   "zh_hant": [
+    "海關",
+    "私煙",
+    "執法"
+   ],
+   "zh_hans": [
+    "海关",
+    "私烟",
+    "执法"
+   ]
+  }
+ },
+ {
+  "id": "20261105-poultry-import-suspended",
+  "category": "society",
+  "published_at": "2026-11-05T18:13:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/05/P2026110500460.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Hong Kong suspends poultry imports from parts of Norway and UK over bird flu",
+   "zh_hant": "挪威英國爆禽流感　食安中心即禁兩地家禽肉及禽蛋進口",
+   "zh_hans": "挪威英国爆禽流感　食安中心即禁两地家禽肉及禽蛋进口"
+  },
+  "summary": {
+   "en": "The Centre for Food Safety today suspended imports of poultry meat and products, including poultry eggs, from Rogaland County in Norway and the Scottish Borders in the United Kingdom with immediate effect, after the World Organisation for Animal Health reported outbreaks of highly pathogenic H5N1 avian influenza in the two areas. Hong Kong imported about 20 tonnes of frozen poultry meat from Norway, and about 680 tonnes of chilled and frozen poultry meat and about 220,000 poultry eggs from the UK in the first nine months of this year. The centre said it has contacted the Norwegian and British authorities and will closely monitor information on the outbreaks.",
+   "zh_hant": "食物環境衞生署食物安全中心今日宣布，因應世界動物衞生組織通報挪威羅加蘭郡及英國蘇格蘭邊區爆發高致病性H5N1禽流感，即時指示業界暫停從上述地區進口家禽肉類及產品，包括禽蛋，以保障本港公眾健康。本港今年首九個月從挪威進口約20噸冷藏家禽肉，從英國進口約680噸冰鮮及冷藏家禽肉及約22萬隻禽蛋。食安中心表示，已就事件聯絡挪威及英國當局，並會密切留意世界動物衞生組織及有關當局發出的禽流感消息，因應發展採取適當行動。",
+   "zh_hans": "食物环境卫生署食物安全中心今日宣布，因应世界动物卫生组织通报挪威罗加兰郡及英国苏格兰边区爆发高致病性H5N1禽流感，即时指示业界暂停从上述地区进口家禽肉类及产品，包括禽蛋，以保障本港公众健康。本港今年首九个月从挪威进口约20吨冷藏家禽肉，从英国进口约680吨冰鲜及冷藏家禽肉及约22万只禽蛋。食安中心表示，已就事件联络挪威及英国当局，并会密切留意世界动物卫生组织及有关当局发出的禽流感消息，因应发展采取适当行动。"
+  },
+  "tags": {
+   "en": [
+    "bird flu",
+    "poultry",
+    "Centre for Food Safety"
+   ],
+   "zh_hant": [
+    "禽流感",
+    "家禽",
+    "食安中心"
+   ],
+   "zh_hans": [
+    "禽流感",
+    "家禽",
+    "食安中心"
+   ]
+  }
+ },
+ {
+  "id": "20261105-scam-alert-banks",
+  "category": "finance",
+  "published_at": "2026-11-05T17:56:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/05/P2026110500624.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "HKMA warns of fake Bank of China (Hong Kong) website and login screens",
+   "zh_hant": "金管局示警：中銀香港假網站假網銀登入畫面　提防釣魚騙案",
+   "zh_hans": "金管局示警：中银香港假网站假网银登入画面　提防钓鱼骗案"
+  },
+  "summary": {
+   "en": "The Hong Kong Monetary Authority has alerted the public to scams involving Bank of China (Hong Kong), including fraudulent websites and internet banking login screens reported to the authority. The HKMA reminded the public that banks will not send SMS messages or emails with embedded hyperlinks directing customers to their websites to carry out transactions, and will not ask for sensitive information such as login passwords or one-time passwords by phone, email or SMS. Anyone who has provided personal information or conducted transactions in response to the scams should contact the relevant bank and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012.",
+   "zh_hant": "香港金融管理局提醒市民，提防與中國銀行（香港）有關的騙案，包括假冒網站及網上銀行登入畫面。金管局提醒，銀行不會以短訊或電郵附上超連結要求客戶登入網站辦理交易，亦不會以電話、電郵或短訊索取登入密碼或一次性密碼等敏感資料。市民如曾向騙徒提供個人資料或進行交易，應聯絡有關銀行，並向香港警務處商業罪案調查科資訊中心（電話：2860 5012）報案。",
+   "zh_hans": "香港金融管理局提醒市民，提防与中国银行（香港）有关的骗案，包括假冒网站及网上银行登入画面。金管局提醒，银行不会以短讯或电邮附上超连结要求客户登入网站办理交易，亦不会以电话、电邮或短讯索取登入密码或一次性密码等敏感资料。市民如曾向骗徒提供个人资料或进行交易，应联络有关银行，并向香港警务处商业罪案调查科资讯中心（电话：2860 5012）报案。"
+  },
+  "tags": {
+   "en": [
+    "HKMA",
+    "phishing scam",
+    "Bank of China (Hong Kong)"
+   ],
+   "zh_hant": [
+    "金管局",
+    "釣魚騙案",
+    "中銀香港"
+   ],
+   "zh_hans": [
+    "金管局",
+    "钓鱼骗案",
+    "中银香港"
+   ]
+  }
+ },
+ {
+  "id": "20261105-fs-wine-spirits-fair-speech",
+  "category": "finance",
+  "published_at": "2026-11-05T18:12:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/05/P2026110500644.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Paul Chan: Liquor imports up 6% in volume and 33% in value after duty cut",
+   "zh_hant": "陳茂波：烈酒減稅後進口量升6%　貨值勁升33%　美酒展中國白酒衝出國際",
+   "zh_hans": "陈茂波：烈酒减税后进口量升6%　货值劲升33%　美酒展中国白酒冲出国际"
+  },
+  "summary": {
+   "en": "Financial Secretary Paul Chan said Hong Kong's duty cut for high-end liquor is paying off, speaking at the Hong Kong International Wine & Spirits Fair 2026 today. Comparing the 18 months before and after the change, duty-paid liquor imports rose by about 6 per cent in volume and nearly 33 per cent in value. Chan said the fair's expanded 'World of Spirits' zone shows the ambition to create more opportunities for traders, logistics providers, restaurants and retailers, with Chinese baijiu brands looking to reach international audiences and producers worldwide seeking new markets in Asia. The fair's new Service Zone features AI sommeliers and automated cocktail machines. Chan also hailed Bar Leone, named the World's Best Bar for two consecutive years, as a tribute to the city's talent and hospitality.",
+   "zh_hant": "財政司司長陳茂波今日在香港國際美酒展2026致辭表示，政府下調烈酒稅後數字令人鼓舞，比較稅制改變前後18個月，應課稅烈酒進口量升約6%，價值升近33%。陳茂波表示，展會擴大「World of Spirits」展區，中國白酒品牌正走向國際，世界各地生產商亦希望開拓亞洲新市場，香港將兩者聯繫起來；展會新設的服務區設有AI品酒師及自動調酒機，本地釀酒商亦展現創意。他又提到連續兩年獲選世界最佳酒吧的Bar Leone，是對香港人才及好客精神的肯定。",
+   "zh_hans": "财政司司长陈茂波今日在香港国际美酒展2026致辞表示，政府下调烈酒税后数字令人鼓舞，比较税制改变前后18个月，应课税烈酒进口量升约6%，价值升近33%。陈茂波表示，展会扩大「World of Spirits」展区，中国白酒品牌正走向国际，世界各地生产商亦希望开拓亚洲新市场，香港将两者联系起来；展会新设的服务区设有AI品酒师及自动调酒机，本地酿酒商亦展现创意。他又提到连续两年获选世界最佳酒吧的Bar Leone，是对香港人才及好客精神的肯定。"
+  },
+  "tags": {
+   "en": [
+    "Paul Chan",
+    "Wine & Spirits Fair",
+    "liquor duty"
+   ],
+   "zh_hant": [
+    "陳茂波",
+    "美酒展",
+    "烈酒稅"
+   ],
+   "zh_hans": [
+    "陈茂波",
+    "美酒展",
+    "烈酒税"
+   ]
+  }
+ },
+ {
+  "id": "20261105-shek-o-big-wave-bay-traffic",
+  "category": "hk",
+  "published_at": "2026-11-05T18:42:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/05/P2026110500667.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Shek O and Big Wave Bay roads to close in phases on Saturday for Jiao festival parades",
+   "zh_hant": "周六石澳大浪灣太平清醮巡遊　多條路分段封閉　城巴9號X9總站暫遷",
+   "zh_hans": "周六石澳大浪湾太平清醮巡游　多条路分段封闭　城巴9号X9总站暂迁"
+  },
+  "summary": {
+   "en": "The Transport Department today reminded the public that special traffic and transport arrangements will be implemented in Shek O and Big Wave Bay this Saturday (November 7) for Tai Ping Ching Jiao parades. Shek O Headland Road, Shek O Village Road, the section of Shek O Road between Big Wave Bay Road and Shek O Headland Road, and Big Wave Bay Road will be closed in phases from 6am to 11pm. The Shek O termini of Citybus routes 9 and X9 will be temporarily relocated to Shek O Beach Public Carpark from 6am on November 7 to 1.30am the following day, with services strengthened subject to passenger demand. The department expects traffic in the area to be busy and advises the public to avoid driving there and use public transport as far as possible.",
+   "zh_hant": "運輸署今日提醒市民，為配合本周六（11月7日）石澳及大浪灣太平清醮巡遊，區內將實施特別交通及運輸安排。石澳鶴咀道、石澳村道、石澳道近大浪灣道至鶴咀道一段及大浪灣道，將於早上6時至晚上11時分階段封閉；城巴9號及X9號線石澳總站將於11月7日早上6時至翌日凌晨1時30分暫遷至石澳海灘公共停車場，班次會視乎乘客需求加強。運輸署預計活動期間石澳及大浪灣一帶及前往該區的道路交通繁忙，呼籲市民盡量避免駕車前往，改乘公共交通工具。",
+   "zh_hans": "运输署今日提醒市民，为配合本周六（11月7日）石澳及大浪湾太平清醮巡游，区内将实施特别交通及运输安排。石澳鹤咀道、石澳村道、石澳道近大浪湾道至鹤咀道一段及大浪湾道，将于早上6时至晚上11时分阶段封闭；城巴9号及X9号线石澳总站将于11月7日早上6时至翌日凌晨1时30分暂迁至石澳海滩公共停车场，班次会视乎乘客需求加强。运输署预计活动期间石澳及大浪湾一带及前往该区的道路交通繁忙，呼吁市民尽量避免驾车前往，改乘公共交通工具。"
+  },
+  "tags": {
+   "en": [
+    "Shek O",
+    "traffic arrangements",
+    "Tai Ping Ching Jiao"
+   ],
+   "zh_hant": [
+    "石澳",
+    "交通安排",
+    "太平清醮"
+   ],
+   "zh_hans": [
+    "石澳",
+    "交通安排",
+    "太平清醮"
+   ]
+  }
+ },
+ {
+  "id": "20261105-mof-green-bonds-canada",
+  "category": "finance",
+  "published_at": "2026-11-05T18:16:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876695-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Beijing to issue up to 4 billion yuan in green sovereign bonds in Canada next week",
+   "zh_hant": "財政部下周加拿大發最多40億人民幣綠色主權債",
+   "zh_hans": "财政部下周加拿大发最多40亿人民币绿色主权债"
+  },
+  "summary": {
+   "en": "The Ministry of Finance will issue renminbi green sovereign bonds in Canada next week, with the size not exceeding 4 billion yuan. Specific issuance arrangements will be announced separately before the issuance.",
+   "zh_hant": "財政部公告，下星期在加拿大發行人民幣綠色主權債券，規模不超過40億元人民幣。具體發行安排將於發行前另行公布。",
+   "zh_hans": "财政部公告，下星期在加拿大发行人民币绿色主权债券，规模不超过40亿元人民币。具体发行安排将于发行前另行公布。"
+  },
+  "tags": {
+   "en": [
+    "Ministry of Finance",
+    "green bonds",
+    "renminbi"
+   ],
+   "zh_hant": [
+    "財政部",
+    "綠色債券",
+    "人民幣"
+   ],
+   "zh_hans": [
+    "财政部",
+    "绿色债券",
+    "人民币"
+   ]
+  }
+ },
+ {
+  "id": "20261105-fraud-cases-q3-rise",
+  "category": "society",
+  "published_at": "2026-11-05T18:15:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876696-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Fraud cases near 35,000 in first nine months, up 8%; scammers turn phones into card readers",
+   "zh_hant": "首三季詐騙近3.5萬宗升8%涉款60億　騙徒新招：手機變讀卡機遙距盜卡",
+   "zh_hans": "首三季诈骗近3.5万宗升8%涉款60亿　骗徒新招：手机变读卡机遥距盗卡"
+  },
+  "summary": {
+   "en": "Hong Kong recorded 34,679 fraud cases in the first nine months of this year, up 7.9 per cent year on year and involving about HK$6.02 billion, Secretary for Security Chris Tang said. Overall crime totalled 68,015 cases, up 2.1 per cent, with the rise mainly driven by fraud. Tang said the increase was mainly due to a new wave of telephone scams in August and September, with about 3,900 cases in those two months, around 80 per cent of them fake customer service scams. He warned of a new trick in which scammers impersonate logistics companies, lure victims to fake websites to submit personal data, then ask them to download malware and switch on their phone's NFC function before tapping their credit card against the phone, turning the phone into a card reader to steal card data remotely.",
+   "zh_hant": "保安局局長鄧炳強表示，本港今年首三季整體罪案有68,015宗，按年升2.1%，上升主要因為詐騙案增加；首三季有34,679宗詐騙案，按年升7.9%，涉及騙款約60億2千萬元。鄧炳強表示，詐騙案增加主要因為8月及9月新一波電話詐騙案急升，這兩個月約有3,900宗電話詐騙案，當中約八成屬假冒客服騙案。他又說，騙徒有新手法，包括冒充物流公司，誘騙市民在假冒網站提交個人資料，之後以批核文件及退款為理由，要求市民下載惡意程式及開啟手機NFC近場通訊功能，然後指示市民把信用卡貼近手機，利用手機變為讀卡機，遙距讀取信用卡資料。",
+   "zh_hans": "保安局局长邓炳强表示，本港今年首三季整体罪案有68,015宗，按年升2.1%，上升主要因为诈骗案增加；首三季有34,679宗诈骗案，按年升7.9%，涉及骗款约60亿2千万元。邓炳强表示，诈骗案增加主要因为8月及9月新一波电话诈骗案急升，这两个月约有3,900宗电话诈骗案，当中约八成属假冒客服骗案。他又说，骗徒有新手法，包括冒充物流公司，诱骗市民在假冒网站提交个人资料，之后以批核文件及退款为理由，要求市民下载恶意程式及开启手机NFC近场通讯功能，然后指示市民把信用卡贴近手机，利用手机变为读卡机，遥距读取信用卡资料。"
+  },
+  "tags": {
+   "en": [
+    "fraud",
+    "phone scams",
+    "Chris Tang"
+   ],
+   "zh_hant": [
+    "詐騙",
+    "電話騙案",
+    "鄧炳強"
+   ],
+   "zh_hans": [
+    "诈骗",
+    "电话骗案",
+    "邓炳强"
+   ]
+  }
+ },
+ {
+  "id": "20261105-central-kowloon-route-bus-test",
+  "category": "hk",
+  "published_at": "2026-11-05T18:26:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876697-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Central Kowloon Route to open December 6, cutting Tseung Kwan O to Yau Ma Tei trip to 12 minutes",
+   "zh_hant": "中九龍繞道九龍灣段下月6日通車　六號幹線全通　將軍澳去油麻地65分鐘變12分鐘",
+   "zh_hans": "中九龙绕道九龙湾段下月6日通车　六号干线全通　将军澳去油麻地65分钟变12分钟"
+  },
+  "summary": {
+   "en": "The Central Kowloon Route (Kowloon Bay section), the last section of Route 6, will open on December 6, with construction largely complete and final preparations under way. The Civil Engineering and Development Department said two franchised bus companies sent six double-decker buses to run Route 6 between Yau Ma Tei and Tseung Kwan O, completing the road test smoothly. Once Route 6 fully opens, peak-hour travel between Tseung Kwan O town centre and Yau Ma Tei is expected to fall from about 65 minutes to about 12 minutes. The route is designed to separate long-haul cross-district traffic from short-haul local traffic, easing congestion on related roads.",
+   "zh_hant": "六號幹線最後一段中九龍繞道（九龍灣段）將於下月6日通車，土木工程拓展署表示，建造工程已經大致完成，各項通車準備工作正進入最後階段。兩間專營巴士公司早前合共派出6輛雙層巴士，經新路行駛六號幹線往返油麻地及將軍澳，順利完成道路測試。署方表示，六號幹線全線通車後，繁忙時段往來將軍澳市中心及油麻地的行車時間，預計會由幹線興建前約65分鐘，大幅縮短至約12分鐘。六號幹線的核心設計理念是提供一條特快通道，將「長途跨區」與「短途地區」的車輛有效分流，有助紓緩相關道路交通。",
+   "zh_hans": "六号干线最后一段中九龙绕道（九龙湾段）将于下月6日通车，土木工程拓展署表示，建造工程已经大致完成，各项通车准备工作正进入最后阶段。两间专营巴士公司早前合共派出6辆双层巴士，经新路行驶六号干线往返油麻地及将军澳，顺利完成道路测试。署方表示，六号干线全线通车后，繁忙时段往来将军澳市中心及油麻地的行车时间，预计会由干线兴建前约65分钟，大幅缩短至约12分钟。六号干线的核心设计理念是提供一条特快通道，将「长途跨区」与「短途地区」的车辆有效分流，有助纾缓相关道路交通。"
+  },
+  "tags": {
+   "en": [
+    "Central Kowloon Route",
+    "Route 6",
+    "Tseung Kwan O"
+   ],
+   "zh_hant": [
+    "中九龍繞道",
+    "六號幹線",
+    "將軍澳"
+   ],
+   "zh_hans": [
+    "中九龙绕道",
+    "六号干线",
+    "将军澳"
+   ]
+  }
+ },
+ {
+  "id": "20261105-us-midterms-senate-close",
+  "category": "world",
+  "published_at": "2026-11-05T17:17:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876684-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Two US Senate races too close to call as Mississippi and Alaska margins stay under one point",
+   "zh_hant": "美國中期選舉兩州參議院鬥到難分難解　密州阿拉斯加得票差唔夠1個百分點",
+   "zh_hans": "美国中期选举两州参议院斗到难分难解　密州阿拉斯加得票差不够1个百分点"
+  },
+  "summary": {
+   "en": "Counting continues in parts of the US midterm elections, with the Senate races in Mississippi and Alaska still too close to call. In Mississippi, Democratic challenger Colom leads Republican incumbent Hyde-Smith by less than one percentage point, with thousands of provisional ballots still to be counted by November 10, according to the Associated Press. Mississippi law has no automatic recount procedure, though candidates can seek a court-ordered recount. In Alaska, incumbent Republican Senator Sullivan and Democratic challenger Peltola are also separated by less than one point, with about 70 per cent of votes counted. Reuters reported that excluding these two states, Democrats are already projected to hold a Senate majority.",
+   "zh_hant": "美國中期選舉部分州份點票工作仍在進行，其中密西西比州和阿拉斯加州的參議院選舉，民主共和兩黨候選人得票非常接近，多間美國傳媒都暫時未能推算結果。在密西西比州，綜合多間美國傳媒統計，民主黨參議員候選人科洛姆以不足一個百分點的得票率差距，領先共和黨對手、現任參議員海德史密斯；美聯社報道，當地仍有數千張臨時選票未完成清點，將在本月10日前完成計算，密西西比州法律不設自動重新點票程序，但候選人可以尋求法院頒令重新點票。阿拉斯加州方面，現任參議員、共和黨的沙利文與民主黨候選人佩爾托拉得票率亦相差少過一個百分點，目前大約七成選票完成清點。路透社報道，不計這兩個州，預料民主黨已經掌握參議院過半議席。",
+   "zh_hans": "美国中期选举部分州份点票工作仍在进行，其中密西西比州和阿拉斯加州的参议院选举，民主共和两党候选人得票非常接近，多间美国传媒都暂时未能推算结果。在密西西比州，综合多间美国传媒统计，民主党参议员候选人科洛姆以不足一个百分点的得票率差距，领先共和党对手、现任参议员海德史密斯；美联社报道，当地仍有数千张临时选票未完成清点，将在本月10日前完成计算，密西西比州法律不设自动重新点票程序，但候选人可以寻求法院颁令重新点票。阿拉斯加州方面，现任参议员、共和党的沙利文与民主党候选人佩尔托拉得票率亦相差少过一个百分点，目前大约七成选票完成清点。路透社报道，不计这两个州，预料民主党已经掌握参议院过半议席。"
+  },
+  "tags": {
+   "en": [
+    "US midterm elections",
+    "Senate",
+    "United States"
+   ],
+   "zh_hant": [
+    "美國中期選舉",
+    "參議院",
+    "美國"
+   ],
+   "zh_hans": [
+    "美国中期选举",
+    "参议院",
+    "美国"
+   ]
+  }
+ },
+ {
+  "id": "20261105-tang-wangfuk-bid-rigging",
+  "category": "hk",
+  "published_at": "2026-11-05T18:09:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876694-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Chris Tang: Authorities will help Wang Fuk Court families mourn lawfully; bid-rigging to be criminalised",
+   "zh_hant": "鄧炳強：宏福苑家屬依法悼念當局定協助　立法打擊圍標　四類嚴重反競爭行為刑事化",
+   "zh_hans": "邓炳强：宏福苑家属依法悼念当局定协助　立法打击围标　四类严重反竞争行为刑事化"
+  },
+  "summary": {
+   "en": "Secretary for Security Chris Tang said he fully understands that families and friends of residents affected by the Wang Fuk Court fire will want to hold memorial activities in future, and that as long as they act in accordance with the law, the authorities will assist. Speaking after a Fight Crime Committee meeting, Tang said the Security Bureau will follow up on the independent committee's report on the fire, and will pursue reforms on three fronts — amending legislation, co-ordinating enforcement and frontline prevention — to stop bid-rigging from recurring. The government will legislate to prohibit and crack down on bid-rigging in building maintenance works, criminalising four types of serious anti-competitive conduct, and set up a cross-departmental joint task force with a special action mechanism against bid-rigging syndicates.",
+   "zh_hant": "保安局局長鄧炳強表示，充分理解在未來的日子，大埔宏福苑受火災影響的居民家屬及朋友想進行悼念活動，任何這類行為只要根據法例處理、依法辦事，當局一定會協助。鄧炳強出席撲滅罪行委員會會議後表示，就宏福苑獨立委員會報告，保安局會作出跟進，為防止圍標行為再次發生，當局會從修訂法例、統籌執法及前線預防三方面入手，多管齊下推行改革措施。他表示，將立法禁止和打擊樓宇維修工程圍標，政府會修例，將四類嚴重反競爭行為刑事化，並成立跨部門聯合特遣隊，建立針對打擊圍標集團的特別行動機制，嚴打樓宇維修違法行為。",
+   "zh_hans": "保安局局长邓炳强表示，充分理解在未来的日子，大埔宏福苑受火灾影响的居民家属及朋友想进行悼念活动，任何这类行为只要根据法例处理、依法办事，当局一定会协助。邓炳强出席扑灭罪行委员会会议后表示，就宏福苑独立委员会报告，保安局会作出跟进，为防止围标行为再次发生，当局会从修订法例、统筹执法及前线预防三方面入手，多管齐下推行改革措施。他表示，将立法禁止和打击楼宇维修工程围标，政府会修例，将四类严重反竞争行为刑事化，并成立跨部门联合特遣队，建立针对打击围标集团的特别行动机制，严打楼宇维修违法行为。"
+  },
+  "tags": {
+   "en": [
+    "Wang Fuk Court",
+    "bid-rigging",
+    "Chris Tang"
+   ],
+   "zh_hant": [
+    "宏福苑",
+    "圍標",
+    "鄧炳強"
+   ],
+   "zh_hans": [
+    "宏福苑",
+    "围标",
+    "邓炳强"
+   ]
+  }
+ },
+ {
+  "id": "20261105-hkicpa-ipo-delay",
+  "category": "finance",
+  "published_at": "2026-11-05T17:52:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876689-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Accountants' workload little changed as firms delay listings, institute chief says",
+   "zh_hant": "會計師公會：企業暫緩上市　會計師照要更新數據　工作量影響不大",
+   "zh_hans": "会计师公会：企业暂缓上市　会计师照要更新数据　工作量影响不大"
+  },
+  "summary": {
+   "en": "Hong Kong Institute of Certified Public Accountants president Roy Lo said some companies have chosen to delay listings because market value and liquidity have not met issuers' expectations, but unless issuers shelve their plans entirely, accountants must keep updating data, so workloads have not changed much. Lo said manpower remains tight, but the industry has hired extensively, the institute trains many professionals each year, and artificial intelligence tools help, adding that the profession will follow auditing standards. On a joint statement by regulators last month flagging a rising number of disclaimer-of-opinion cases over going-concern issues, Lo said it was a goodwill guideline rather than criticism of auditors, and that audit guidance has not changed. He added that the institute's communication with the Accounting and Financial Reporting Council on ESG assurance is progressing well, with consultation conclusions expected by year-end.",
+   "zh_hant": "香港會計師公會會長羅卓堅表示，市場近期關注多家公司延期、撤回或上市申請失效，相信由於市場價值、流通量等未達到發行人預期，因此選擇撤回上市；除非發行人完全擱置上市計劃，否則會計師都需要繼續更新數據，因此工作量沒有太大改變。人手方面雖然持續緊張，但行業已大量增聘人手，公會每年亦培訓很多人才，也有人工智能工具輔助，強調業界會按審計準則辦事。證監會等監管機構上月發表聯合聲明，關注核數師因持續經營問題在上市公司財務報表發出「無法表示意見」的個案持續增加；羅卓堅認為這對核數師是一個善意指引，並非譴責核數師有問題，相關審計指引亦無改變。他又指，公會與會計及財務匯報局就ESG鑑證方面的溝通進展良好，期望年底前有相關諮詢總結，公會對此表示支持。",
+   "zh_hans": "香港会计师公会会长罗卓坚表示，市场近期关注多家公司延期、撤回或上市申请失效，相信由于市场价值、流通量等未达到发行人预期，因此选择撤回上市；除非发行人完全搁置上市计划，否则会计师都需要继续更新数据，因此工作量没有太大改变。人手方面虽然持续紧张，但行业已大量增聘人手，公会每年亦培训很多人才，也有人工智能工具辅助，强调业界会按审计准则办事。证监会等监管机构上月发表联合声明，关注核数师因持续经营问题在上市公司财务报表发出「无法表示意见」的个案持续增加；罗卓坚认为这对核数师是一个善意指引，并非谴责核数师有问题，相关审计指引亦无改变。他又指，公会与会计及财务汇报局就ESG鉴证方面的沟通进展良好，期望年底前有相关咨询总结，公会对此表示支持。"
+  },
+  "tags": {
+   "en": [
+    "HKICPA",
+    "IPO",
+    "auditing"
+   ],
+   "zh_hant": [
+    "會計師公會",
+    "上市",
+    "審計"
+   ],
+   "zh_hans": [
+    "会计师公会",
+    "上市",
+    "审计"
+   ]
+  }
+ },
+ {
   "id": "20261105-hsi-close-up-3-7",
   "category": "finance",
   "published_at": "2026-11-05T16:25:00+08:00",
