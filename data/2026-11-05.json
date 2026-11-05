@@ -1,5 +1,523 @@
 [
  {
+  "id": "20261105-taiwan-stocks-sixth-day-drop",
+  "category": "finance",
+  "published_at": "2026-11-05T14:31:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876657-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Taiwan stocks slide 3.2% for sixth straight session to three-month low",
+   "zh_hant": "台股瀉逾3%連跌六日　創逾三個月低位",
+   "zh_hans": "台股泻逾3%连跌六日　创逾三个月低位"
+  },
+  "summary": {
+   "en": "Taiwan stocks fell for a sixth straight session, with the weighted index closing at 41,574, down 1,374 points or 3.2 per cent, its lowest in more than three months.",
+   "zh_hant": "台灣股市連跌六個交易日。加權指數收市報41,574點，跌1,374點，跌幅3.2%，再創逾三個月低位。",
+   "zh_hans": "台湾股市连跌六个交易日。加权指数收市报41,574点，跌1,374点，跌幅3.2%，再创逾三个月低位。"
+  },
+  "tags": {
+   "en": [
+    "Taiwan stocks",
+    "Taiex",
+    "markets"
+   ],
+   "zh_hant": [
+    "台股",
+    "加權指數",
+    "股市"
+   ],
+   "zh_hans": [
+    "台股",
+    "加权指数",
+    "股市"
+   ]
+  }
+ },
+ {
+  "id": "20261105-ce-wong-sentencing-remarks",
+  "category": "hk",
+  "published_at": "2026-11-05T14:05:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876656-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "John Lee calls Wong Chi-fung a culprit behind Hong Kong's turmoil as government moves to confiscate his assets",
+   "zh_hant": "李家超斥黃之鋒禍首：勾結外力禍港　判刑具阻嚇作用",
+   "zh_hans": "李家超斥黄之锋祸首：勾结外力祸港　判刑具阻吓作用"
+  },
+  "summary": {
+   "en": "Chief Executive John Lee said Joshua Wong, Nathan Law and their group were among the culprits behind the damage to Hong Kong's prosperity and stability, first obstructing national education, then forming radical groups, inciting students to break the law and promoting \"Hong Kong independence\" and \"self-determination\" during the 2019 unrest. Lee said Wong repeatedly broke the law and continued colluding with foreign forces before and after the National Security Law took effect, including joining the \"35+\" plan to subvert state power. A government spokesman said the heavy sentence shattered any illusion that national security offenders could hide behind an \"international front\", and the government will confiscate Wong's crime-related assets in accordance with the law.",
+   "zh_hant": "行政長官李家超表示，黃之鋒、羅冠聰及其團夥是破壞香港繁榮穩定其中禍首，先阻撓特區政府推動國民教育，繼而成立激進組織、煽動學生違法，更宣揚「港獨」、「自決」主張，在2019年「黑暴」中推波助瀾。李家超指，黃之鋒屢次犯法，視法律如無物，在《香港國安法》實施前後持續勾結外國或者境外勢力，更參與「35+計劃」串謀顛覆國家政權。特區政府發言人表示，法庭重判徹底打破危害國家安全分子披著「國際線」外衣便能逃避追責的幻想，政府會依法充公黃之鋒的罪行相關財產。",
+   "zh_hans": "行政长官李家超表示，黄之锋、罗冠聪及其团伙是破坏香港繁荣稳定其中祸首，先阻挠特区政府推动国民教育，继而成立激进组织、煽动学生违法，更宣扬「港独」、「自决」主张，在2019年「黑暴」中推波助澜。李家超指，黄之锋屡次犯法，视法律如无物，在《香港国安法》实施前后持续勾结外国或者境外势力，更参与「35+计划」串谋颠覆国家政权。特区政府发言人表示，法庭重判彻底打破危害国家安全分子披着「国际线」外衣便能逃避追责的幻想，政府会依法充公黄之锋的罪行相关财产。"
+  },
+  "tags": {
+   "en": [
+    "John Lee",
+    "Joshua Wong",
+    "national security"
+   ],
+   "zh_hant": [
+    "李家超",
+    "黃之鋒",
+    "國安法"
+   ],
+   "zh_hans": [
+    "李家超",
+    "黄之锋",
+    "国安法"
+   ]
+  }
+ },
+ {
+  "id": "20261105-standard-chartered-board-hk",
+  "category": "finance",
+  "published_at": "2026-11-05T13:53:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876655-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Standard Chartered holds board meeting in Hong Kong, chair cites city's growing momentum",
+   "zh_hant": "渣打董事會落戶香港開會　主席：香港勢頭更強勁",
+   "zh_hans": "渣打董事会落户香港开会　主席：香港势头更强劲"
+  },
+  "summary": {
+   "en": "Standard Chartered held its board meeting in Hong Kong this week, underlining the city's strategic importance to the group and its confidence in Hong Kong's long-term opportunities. The chair said she remains committed to Hong Kong and confident in its prospects, noting momentum has strengthened as the city sets out its five-year vision, and that Hong Kong — the world's largest offshore renminbi hub, an international wealth management centre and a super-connector — will keep seizing opportunities from the mainland's continued opening. The chair led board members, together with chief executive Bill Winters and the management team, in meetings with clients, staff and other stakeholders to discuss the group's long-term strategy.",
+   "zh_hant": "渣打集團本周在香港舉行董事會會議，進一步鞏固香港對集團的策略性地位，顯示集團對香港市場長遠發展機遇的信心。主席羅睿思表明對香港的承諾及信心，指隨著香港訂下未來五年願景，整體勢頭更趨強勁；香港作為全球最大離岸人民幣業務樞紐、國際財富管理中心及超級聯繫人，將持續發揮優勢，把握內地持續開放帶來的機遇。羅睿思率領董事會成員，聯同集團行政總裁溫拓思及管理團隊，與客戶、同事等持份者會面，討論集團長遠策略。",
+   "zh_hans": "渣打集团本周在香港举行董事会会议，进一步巩固香港对集团的策略性地位，显示集团对香港市场长远发展机遇的信心。主席罗睿思表明对香港的承诺及信心，指随着香港订下未来五年愿景，整体势头更趋强劲；香港作为全球最大离岸人民币业务枢纽、国际财富管理中心及超级联系人，将持续发挥优势，把握内地持续开放带来的机遇。罗睿思率领董事会成员，联同集团行政总裁温拓思及管理团队，与客户、同事等持份者会面，讨论集团长远策略。"
+  },
+  "tags": {
+   "en": [
+    "Standard Chartered",
+    "board meeting",
+    "Hong Kong"
+   ],
+   "zh_hant": [
+    "渣打",
+    "董事會",
+    "香港"
+   ],
+   "zh_hans": [
+    "渣打",
+    "董事会",
+    "香港"
+   ]
+  }
+ },
+ {
+  "id": "20261105-ia-premium-financing-warning",
+  "category": "finance",
+  "published_at": "2026-11-05T13:48:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876653-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Insurance Authority warns on retail premium financing as leverage tops nine times",
+   "zh_hant": "保監局警告保費融資零售化　槓桿逾9倍　聯同金管局查察",
+   "zh_hans": "保监局警告保费融资零售化　杠杆逾9倍　联同金管局查察"
+  },
+  "summary": {
+   "en": "The Insurance Authority said it has spotted signs of premium financing becoming a retail product, policy leverage multiples rising and foreign currencies being used as loan currencies, and is conducting a third joint inspection with the Hong Kong Monetary Authority, after which the two regulators will study appropriate measures. The authority said lower Hong Kong dollar interest rates in the first half pushed the share of premium financing business to 36 per cent, while some insurers have lowered entry thresholds to draw in middle-class customers and products with leverage of more than nine times have appeared, letting buyers take out large policies by paying just 10 per cent of the premium. It warned that interest and exchange rates for low-rate currencies can swing sharply and urged policyholders not to mistake leveraged purchases for high net worth or take on leverage beyond their means.",
+   "zh_hant": "保險業監管局發文指，留意到近期有保費融資零售化、保單槓桿倍數增加、以外幣作為貸款貨幣的跡象，正就保費融資與金管局進行第三次聯合查察，將根據結果聯手研究適當監管措施。局方指，今年上半年港元利率回落，推動保費融資業務比例升至36%；個別保險公司透過降低入場門檻吸引更多中產人士參與，市場上已出現槓桿倍數超過9倍的產品，投保人只需支付一成保費就可購買大額保單。保監局提醒，低息貨幣的利率和匯率可以極波動，投保人切勿因保費融資產生「高淨值」錯覺，承擔超出自身能力範圍的槓桿風險。",
+   "zh_hans": "保险业监管局发文指，留意到近期有保费融资零售化、保单杠杆倍数增加、以外币作为贷款货币的迹象，正就保费融资与金管局进行第三次联合查察，将根据结果联手研究适当监管措施。局方指，今年上半年港元利率回落，推动保费融资业务比例升至36%；个别保险公司透过降低入场门槛吸引更多中产人士参与，市场上已出现杠杆倍数超过9倍的产品，投保人只需支付一成保费就可购买大额保单。保监局提醒，低息货币的利率和汇率可以极波动，投保人切勿因保费融资产生「高净值」错觉，承担超出自身能力范围的杠杆风险。"
+  },
+  "tags": {
+   "en": [
+    "Insurance Authority",
+    "premium financing",
+    "HKMA"
+   ],
+   "zh_hant": [
+    "保監局",
+    "保費融資",
+    "金管局"
+   ],
+   "zh_hans": [
+    "保监局",
+    "保费融资",
+    "金管局"
+   ]
+  }
+ },
+ {
+  "id": "20261105-working-carers-survey",
+  "category": "society",
+  "published_at": "2026-11-05T13:41:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876654-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Survey: over 80% of working carers see positives, but most never use family-friendly measures",
+   "zh_hant": "調查：逾八成在職照顧者感正面得著　惟逾半人從未用友善措施",
+   "zh_hans": "调查：逾八成在职照顾者感正面得着　惟逾半人从未用友善措施"
+  },
+  "summary": {
+   "en": "A Tung Wah College survey of working carers found that of about 560 respondents, nearly 60 per cent said the caring burden was heavy, yet 82 per cent felt caring brought positive gains, showing work and caring need not conflict when support is adequate. The most-used family-friendly measure was flexible working hours at 33 per cent, followed by part-time work at 17 per cent and working from home at 13 per cent, but more than half of respondents had never used any of these arrangements, suggesting they are not yet widespread at work. The research team urged employers to keep promoting carer-friendly measures such as flexible hours, home working and leave, and called for longer day-service hours to meet different families' needs.",
+   "zh_hant": "東華學院一項有關在職照顧者身心狀況的調查發現，約560名受訪者中，近六成表示照顧負擔沉重，八成二認為照顧經驗帶來正面得著，反映工作與照顧並非必然對立，如有足夠支援，在職照顧者仍可從中獲得滿足感。照顧者最常使用的友善措施是靈活上下班時間，佔三成三，兼職工作及在家工作分別佔一成七及一成三；但超過一半受訪者從未使用過以上安排，反映職場上這些措施並未普及。研究團隊建議企業持續推廣彈性上班、在家工作及請假安排等照顧者友善措施，並延長日間服務時間，回應不同家庭的需要。",
+   "zh_hans": "东华学院一项有关在职照顾者身心状况的调查发现，约560名受访者中，近六成表示照顾负担沉重，八成二认为照顾经验带来正面得着，反映工作与照顾并非必然对立，如有足够支援，在职照顾者仍可从中获得满足感。照顾者最常使用的友善措施是灵活上下班时间，占三成三，兼职工作及在家工作分别占一成七及一成三；但超过一半受访者从未使用过以上安排，反映职场上这些措施并未普及。研究团队建议企业持续推广弹性上班、在家工作及请假安排等照顾者友善措施，并延长日间服务时间，回应不同家庭的需要。"
+  },
+  "tags": {
+   "en": [
+    "carers",
+    "work-life balance",
+    "survey"
+   ],
+   "zh_hant": [
+    "照顧者",
+    "職場",
+    "調查"
+   ],
+   "zh_hans": [
+    "照顾者",
+    "职场",
+    "调查"
+   ]
+  }
+ },
+ {
+  "id": "20261105-university-forum-choi-speech",
+  "category": "hk",
+  "published_at": "2026-11-05T13:21:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/05/P2026110500386.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/05/P2026110500386_photo_1342910.jpg",
+  "title": {
+   "en": "Choi Yuk-lin: five Hong Kong universities in Asia's top 10 as Northern Metropolis University Town takes shape",
+   "zh_hant": "蔡若蓮：五間港校躋身亞洲十強　北都大學城「一城五元」育人才",
+   "zh_hans": "蔡若莲：五间港校跻身亚洲十强　北都大学城「一城五元」育人才"
+  },
+  "summary": {
+   "en": "Secretary for Education Choi Yuk-lin told the World Class University Presidents Forum 2026 that the event brought together presidents and academic leaders from more than one-third of the world's top 50 universities, affirming Hong Kong's status as an international education hub and raising its voice in global education. Citing the latest QS World University Rankings: Asia 2027, she noted five Hong Kong universities now sit among Asia's top 10. She added the government is developing the Northern Metropolis University Town under a \"One Town, Five Elements\" framework integrating higher education, advanced research, market innovation, living space and top talent to serve national development under the 15th Five-Year Plan.",
+   "zh_hant": "教育局局長蔡若蓮今日在「世界一流大學校長論壇2026」致辭，指論壇匯聚全球首50名大學中逾三分之一的校長及學術領袖，肯定香港作為國際教育樞紐的地位，提升本港在全球教育界的話語權。她引用最新QS世界大學排名：亞洲2027，指本港有五間大學躋身亞洲十強。蔡若蓮又指，政府正按「一城五元」框架發展北部都會大學城，結合高等教育、先進研究、市場創新、生活空間及頂尖人才，服務國家「十五五」規劃下的發展。",
+   "zh_hans": "教育部局长蔡若莲今日在「世界一流大学校长论坛2026」致辞，指论坛汇聚全球首50名大学中逾三分之一的校长及学术领袖，肯定香港作为国际教育枢纽的地位，提升本港在全球教育界的话语权。她引用最新QS世界大学排名：亚洲2027，指本港有五间大学跻身亚洲十强。蔡若莲又指，政府正按「一城五元」框架发展北部都会大学城，结合高等教育、先进研究、市场创新、生活空间及顶尖人才，服务国家「十五五」规划下的发展。"
+  },
+  "tags": {
+   "en": [
+    "Choi Yuk-lin",
+    "universities",
+    "Northern Metropolis"
+   ],
+   "zh_hant": [
+    "蔡若蓮",
+    "大學",
+    "北部都會區"
+   ],
+   "zh_hans": [
+    "蔡若莲",
+    "大学",
+    "北部都会区"
+   ]
+  }
+ },
+ {
+  "id": "20261105-wang-yi-north-korea-delegation",
+  "category": "china",
+  "published_at": "2026-11-05T13:00:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876649-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Wang Yi meets North Korean party delegation, pledges deeper China-DPRK ties",
+   "zh_hant": "王毅晤朝鮮黨代表團：推動中朝關係向深向實向好",
+   "zh_hans": "王毅晤朝鲜党代表团：推动中朝关系向深向实向好"
+  },
+  "summary": {
+   "en": "Wang Yi, a member of the Political Bureau of the Communist Party of China Central Committee and director of the Office of the Central Commission for Foreign Affairs, met in Beijing with a Workers' Party of Korea delegation led by Kim Song-nam, a member of the WPK Central Committee's Political Bureau, secretary of the Central Committee and director of its International Department. Wang said President Xi Jinping's successful state visit to North Korea in June charted the course for bilateral relations in a new era, and China is ready to implement the important consensus of the two parties' and countries' top leaders to keep pushing China-DPRK relations deeper, more substantive and better. Wang also briefed the delegation on the fifth plenary session of the 20th CPC Central Committee; Kim said Pyongyang will work with Beijing to develop friendly relations in line with the two top leaders' will.",
+   "zh_hant": "中共中央政治局委員、中央外辦主任王毅在北京會見由朝鮮勞動黨中央政治局委員、中央書記、國際部部長金成男率領的朝鮮勞動黨代表團。王毅表示，今年6月習近平總書記成功對朝鮮進行國事訪問，為新時期中朝關係發展指明前進方向，中方願同朝方共同落實兩黨兩國最高領導人重要共識，推動中朝關係持續向深向實向好發展。王毅又介紹了中共二十屆五中全會主要情況；金成男表示，朝方願同中方一道，遵循兩黨兩國最高領導人的意志，為發展朝中友好關係作出不懈努力。",
+   "zh_hans": "中共中央政治局委员、中央外办主任王毅在北京会见由朝鲜劳动党中央政治局委员、中央书记、国际部部长金成男率领的朝鲜劳动党代表团。王毅表示，今年6月习近平总书记成功对朝鲜进行国事访问，为新时期中朝关系发展指明前进方向，中方愿同朝方共同落实两党两国最高领导人重要共识，推动中朝关系持续向深向实向好发展。王毅又介绍了中共二十届五中全会主要情况；金成男表示，朝方愿同中方一道，遵循两党两国最高领导人的意志，为发展朝中友好关系作出不懈努力。"
+  },
+  "tags": {
+   "en": [
+    "Wang Yi",
+    "North Korea",
+    "China-DPRK"
+   ],
+   "zh_hant": [
+    "王毅",
+    "朝鮮",
+    "中朝關係"
+   ],
+   "zh_hans": [
+    "王毅",
+    "朝鲜",
+    "中朝关系"
+   ]
+  }
+ },
+ {
+  "id": "20261105-li-kwai-wah-wong-sentence",
+  "category": "hk",
+  "published_at": "2026-11-05T12:02:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876644-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Police national security chief welcomes Wong's heavy sentence, urges reflection in prison",
+   "zh_hant": "李桂華歡迎重判黃之鋒：犯案纍纍　望獄中反省認清國家",
+   "zh_hans": "李桂华欢迎重判黄之锋：犯案累累　望狱中反省认清国家"
+  },
+  "summary": {
+   "en": "Senior Superintendent Li Kwai-wah of the police National Security Department said he welcomed the court's heavy sentence for Joshua Wong, showing the court found the offences grave. Li said the case had a very serious impact because Wong could reach foreign dignitaries and influential figures, producing real effects during the turmoil of 2019 and 2020. He said Wong had joined social movements as a minor and committed various offences from the age of 18, describing his record as extensive, including the June 2019 siege of police headquarters as an organiser and instigator. Li said he hoped Wong would use his time in prison to reflect on the wrongs he did to the country and Hong Kong, develop respect for the law and better understand the country.",
+   "zh_hant": "警務處國安處總警司李桂華表示，歡迎法庭對黃之鋒作出重判，顯示法庭確定相關罪行重大。李桂華說，這宗案件影響十分嚴重，因為黃之鋒可以接觸到外國政要及有影響力的人，造成一些實際影響，而相關事件正值2019年及2020年，當時香港處於動盪時期。他又說，黃之鋒未成年已經參與社運，18歲開始涉及不同罪行，形容是犯案纍纍，當中包括在2019年6月的包圍警總事件。李桂華希望黃之鋒在監獄的日子，繼續反省自己對國家及香港做過的錯事和壞事，培養守法精神及好好認識國家。",
+   "zh_hans": "警务处国安处总警司李桂华表示，欢迎法庭对黄之锋作出重判，显示法庭确定相关罪行重大。李桂华说，这宗案件影响十分严重，因为黄之锋可以接触到外国政要及有影响力的人，造成一些实际影响，而相关事件正值2019年及2020年，当时香港处于动荡时期。他又说，黄之锋未成年已经参与社运，18岁开始涉及不同罪行，形容是犯案累累，当中包括在2019年6月的包围警总事件。李桂华希望黄之锋在监狱的日子，继续反省自己对国家及香港做过的错事和坏事，培养守法精神及好好认识国家。"
+  },
+  "tags": {
+   "en": [
+    "Li Kwai-wah",
+    "Joshua Wong",
+    "national security"
+   ],
+   "zh_hant": [
+    "李桂華",
+    "黃之鋒",
+    "國安處"
+   ],
+   "zh_hans": [
+    "李桂华",
+    "黄之锋",
+    "国安处"
+   ]
+  }
+ },
+ {
+  "id": "20261105-yue-agentic-finance-sage",
+  "category": "finance",
+  "published_at": "2026-11-05T11:27:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876642-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Eddie Yue: agentic finance is the next frontier, HKMA's SAGE project to build clear guardrails",
+   "zh_hant": "余偉文：代理式金融係下階段前沿　SAGE項目設簡單易明「防護欄」",
+   "zh_hans": "余伟文：代理式金融系下阶段前沿　SAGE项目设简单易明「防护栏」"
+  },
+  "summary": {
+   "en": "The Hong Kong Monetary Authority recently launched its SAGE project to promote the responsible development and use of agentic finance in Hong Kong. Chief Executive Eddie Yue said a newly formed expert group on agentic finance will examine use cases and governance frameworks, and the HKMA has issued a discussion paper covering interoperability standards and \"know your agent\" measures, hoping to move quickly into dialogue with the industry and build simple, clear guardrails. Speaking at a forum hosted by the Private Wealth Management Association, Yue said agentic finance is the next frontier, but the accuracy, consistency and explainability of AI models must be ensured. The HKMA is working with the Bank for International Settlements Innovation Hub, the UK Financial Conduct Authority and the Saudi Central Bank on Project Noor to develop explainable-AI tools, with a prototype due early next year.",
+   "zh_hant": "金管局近期推出SAGE項目，推動代理式金融在香港的負責任發展及應用。總裁余偉文表示，新成立的代理式金融專家小組將探討用例及管治框架，金管局已向業界發出討論文件，涵蓋互通性標準、「認識你的代理」措施等，期望較迅速與業界展開不同對話互動，建立簡單易明的「防護欄」。余偉文出席私人財富管理公會舉辦的論壇時說，代理式金融是下階段發展的前沿，但要確保人工智能模型的準確性、一致性及可解釋性。金管局與國際結算銀行創新樞紐、英國金融行為監管局、沙特阿拉伯中央銀行合作開展Noor項目，開發一套可解釋人工智能的工具，原型將於明年初發布。",
+   "zh_hans": "金管局近期推出SAGE项目，推动代理式金融在香港的负责任发展及应用。总裁余伟文表示，新成立的代理式金融专家小组将探讨用例及管治框架，金管局已向业界发出讨论文件，涵盖互通性标准、「认识你的代理」措施等，期望较迅速与业界展开不同对话互动，建立简单易明的「防护栏」。余伟文出席私人财富管理公会举办的论坛时说，代理式金融是下阶段发展的前沿，但要确保人工智能模型的准确性、一致性及可解释性。金管局与国际结算银行创新枢纽、英国金融行为监管局、沙特阿拉伯中央银行合作开展Noor项目，开发一套可解释人工智能的工具，原型将于明年初发布。"
+  },
+  "tags": {
+   "en": [
+    "Eddie Yue",
+    "agentic finance",
+    "HKMA"
+   ],
+   "zh_hant": [
+    "余偉文",
+    "代理式金融",
+    "金管局"
+   ],
+   "zh_hans": [
+    "余伟文",
+    "代理式金融",
+    "金管局"
+   ]
+  }
+ },
+ {
+  "id": "20261105-china-canada-trade-commission",
+  "category": "china",
+  "published_at": "2026-11-05T09:04:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876623-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "China-Canada trade commission meets in Beijing, vows longer co-operation list",
+   "zh_hant": "中加經貿聯委會北京舉行　王文濤：願與加方拉長合作清單",
+   "zh_hans": "中加经贸联委会北京举行　王文涛：愿与加方拉长合作清单"
+  },
+  "summary": {
+   "en": "The 29th China-Canada Joint Economic and Trade Commission held its first ministerial meeting in Beijing on Tuesday, co-chaired by Commerce Minister Wang Wentao and Canada's Minister of International Trade Maninder Sidhu, with candid and in-depth exchanges on bilateral trade, co-operation in traditional and emerging areas and each side's concerns. Wang said China is ready to keep shrinking the list of problems and lengthening the list of co-operation with Canada, implement the bilateral trade co-operation roadmap, consolidate traditional co-operation in oil and gas, agricultural and aquatic products and consumer goods, and expand into new materials, advanced manufacturing, clean energy and smart agriculture. Sidhu said Canada will keep resolving issues and advancing co-operation under the commission's framework and encouraged businesses from both countries to expand trade and investment.",
+   "zh_hant": "第29屆中加經貿聯委會首次部長級會議剛過去的周二在北京舉行，商務部部長王文濤與加拿大國際貿易部長西杜共同主持召開，雙方就中加經貿關係、傳統和新興領域合作以及彼此經貿關切等進行坦誠、深入交流。王文濤表示，中方願與加方持續壓縮問題清單、拉長合作清單，繼續落實好中加經貿合作路線圖，鞏固油氣能源、農水產品和消費品等傳統領域合作，進一步拓展新材料、先進製造、清潔能源、智慧農業等新興領域合作。西杜表示，加方願在聯委會框架下與中方繼續妥處問題、推進合作，並鼓勵兩國企業進一步擴大貿易投資合作。",
+   "zh_hans": "第29届中加经贸联委会首次部长级会议刚过去的周二在北京举行，商务部部长王文涛与加拿大国际贸易部长西杜共同主持召开，双方就中加经贸关系、传统和新兴领域合作以及彼此经贸关切等进行坦诚、深入交流。王文涛表示，中方愿与加方持续压缩问题清单、拉长合作清单，继续落实好中加经贸合作路线图，巩固油气能源、农水产品和消费品等传统领域合作，进一步拓展新材料、先进制造、清洁能源、智慧农业等新兴领域合作。西杜表示，加方愿在联委会框架下与中方继续妥处问题、推进合作，并鼓励两国企业进一步扩大贸易投资合作。"
+  },
+  "tags": {
+   "en": [
+    "China-Canada",
+    "trade",
+    "Wang Wentao"
+   ],
+   "zh_hant": [
+    "中加關係",
+    "經貿",
+    "王文濤"
+   ],
+   "zh_hans": [
+    "中加关系",
+    "经贸",
+    "王文涛"
+   ]
+  }
+ },
+ {
+  "id": "20261105-prudential-q3-new-business",
+  "category": "finance",
+  "published_at": "2026-11-05T09:03:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876622-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Prudential Q3 new business profit up 1%, up 13% excluding mainland life unit",
+   "zh_hant": "保誠第三季新業務利潤升1%　撇除內地壽險升13%",
+   "zh_hans": "保诚第三季新业务利润升1%　撇除内地寿险升13%"
+  },
+  "summary": {
+   "en": "Prudential's third-quarter new business profit was US$709 million, up 1 per cent year on year at constant exchange rates, and up 13 per cent excluding its mainland life business. New business profit for the first nine months reached US$2.093 billion, up 6 per cent, with the margin up three percentage points to 42 per cent. The group said bancassurance new business profit growth remained strong excluding the mainland, rising more than 20 per cent in the third quarter on robust wealth demand in Hong Kong and new products in Thailand. Prudential added that improvement in its mainland life business is lagging, making its full-year new business profit growth guidance harder to achieve, and expects mainland new business profit to fall about 10 to 15 per cent for the year.",
+   "zh_hant": "保誠第3季新業務利潤7.09億美元，以固定匯率計按年升1%，撇除內地壽險業務則升13%。首3季新業務利潤20.93億美元，按年增長6%，相關利潤率升3個百分點至42%。集團指，撇除內地，銀行保險渠道新業務利潤增長保持強勁，第3季增長逾20%，主要受惠於香港財富需求強勁、泰國推出新產品。保誠又指，內地壽險業務改善速度滯後，意味著實現今年新業務利潤增長指引的難度加大，預期全年內地新業務利潤跌約10%至15%。",
+   "zh_hans": "保诚第3季新业务利润7.09亿美元，以固定汇率计按年升1%，撇除内地寿险业务则升13%。首3季新业务利润20.93亿美元，按年增长6%，相关利润率升3个百分点至42%。集团指，撇除内地，银行保险渠道新业务利润增长保持强劲，第3季增长逾20%，主要受惠于香港财富需求强劲、泰国推出新产品。保诚又指，内地寿险业务改善速度滞后，意味着实现今年新业务利润增长指引的难度加大，预期全年内地新业务利润跌约10%至15%。"
+  },
+  "tags": {
+   "en": [
+    "Prudential",
+    "new business profit",
+    "insurance"
+   ],
+   "zh_hant": [
+    "保誠",
+    "新業務利潤",
+    "保險"
+   ],
+   "zh_hans": [
+    "保诚",
+    "新业务利润",
+    "保险"
+   ]
+  }
+ },
+ {
+  "id": "20261105-wuzhen-internet-conference-opens",
+  "category": "tech",
+  "published_at": "2026-11-05T08:31:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876621-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Wuzhen summit opens as Li Qiang calls for open AI and rejects 'digital iron curtain'",
+   "zh_hant": "烏鎮峰會開幕　李強：互聯網要促進人類全面發展　反對「數字鐵幕」",
+   "zh_hans": "乌镇峰会开幕　李强：互联网要促进人类全面发展　反对「数字铁幕」"
+  },
+  "summary": {
+   "en": "The World Internet Conference Wuzhen Summit opened in Wuzhen, Zhejiang, focusing on open-source and open artificial intelligence. Premier Li Qiang said in his keynote address at the opening ceremony that the ultimate purpose of internet development must be to advance humanity's all-round development, and people must not become appendages of technology, nor should technology deepen divisions in human development. Li said the rapid growth of the internet and AI brings major opportunities, calling for stronger technological innovation and open source, while opposing the broad use of national security concepts and the building of a \"digital iron curtain\".",
+   "zh_hant": "世界互聯網大會烏鎮峰會日前在浙江烏鎮開幕，聚焦人工智能開源開放。國務院總理李強在峰會開幕式上發表主旨演講，指出互聯網發展的最終目的，必須是促進人類的全面發展，不能讓人類成為技術的附庸，更不能讓技術加劇人類發展的分化。李強又指出，互聯網和人工智能快速發展帶來重大機遇，應當加大科技創新力度，鼓勵開源開放；同時要反對泛化國家安全概念，反對構築「數字鐵幕」。",
+   "zh_hans": "世界互联网大会乌镇峰会日前在浙江乌镇开幕，聚焦人工智能开源开放。国务院总理李强在峰会开幕式上发表主旨演讲，指出互联网发展的最终目的，必须是促进人类的全面发展，不能让人类成为技术的附庸，更不能让技术加剧人类发展的分化。李强又指出，互联网和人工智能快速发展带来重大机遇，应当加大科技创新力度，鼓励开源开放；同时要反对泛化国家安全概念，反对构筑「数字铁幕」。"
+  },
+  "tags": {
+   "en": [
+    "Wuzhen Summit",
+    "Li Qiang",
+    "AI"
+   ],
+   "zh_hant": [
+    "烏鎮峰會",
+    "李強",
+    "人工智能"
+   ],
+   "zh_hans": [
+    "乌镇峰会",
+    "李强",
+    "人工智能"
+   ]
+  }
+ },
+ {
+  "id": "20261105-asmpt-retains-smt-business",
+  "category": "tech",
+  "published_at": "2026-11-05T08:27:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876618-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "ASMPT to keep SMT solutions business, citing AI infrastructure boom",
+   "zh_hant": "ASMPT決定保留SMT業務　睇好AI基建投資擴張",
+   "zh_hans": "ASMPT决定保留SMT业务　看好AI基建投资扩张"
+  },
+  "summary": {
+   "en": "ASMPT said that after a comprehensive review and assessment, retaining its SMT solutions business is in the best interests of the company and shareholders as a whole, and it will support the business's development and growth in line with its business and strategic goals. The company said the SMT business's performance and prospects have strengthened since it announced the strategic review early this year, and keeping the business will let it seize growth opportunities. The board considered favourable long-term industry trends, in particular the expansion of artificial intelligence infrastructure investment and increasingly stringent electronics manufacturing requirements.",
+   "zh_hant": "ASMPT表示，經全面審閱及評估後，認為保留SMT解決方案業務，符合公司及股東整體最佳利益，將按照業務及戰略目標支持這項業務發展及增長，並執行增長策略。公司認為，自今年初公布策略方案評估以來，SMT業務表現及前景有所增強，相信保留業務令公司能夠把握增長機遇。董事會已考慮與業務相關的有利長期行業趨勢，尤其人工智能基礎設施投資擴張，以及日益嚴格的電子製造要求。",
+   "zh_hans": "ASMPT表示，经全面审阅及评估后，认为保留SMT解决方案业务，符合公司及股东整体最佳利益，将按照业务及战略目标支持这项业务发展及增长，并执行增长策略。公司认为，自今年初公布策略方案评估以来，SMT业务表现及前景有所增强，相信保留业务令公司能够把握增长机遇。董事会已考虑与业务相关的有利长期行业趋势，尤其人工智能基础设施投资扩张，以及日益严格的电子制造要求。"
+  },
+  "tags": {
+   "en": [
+    "ASMPT",
+    "SMT",
+    "semiconductors"
+   ],
+   "zh_hant": [
+    "ASMPT",
+    "SMT",
+    "半導體"
+   ],
+   "zh_hans": [
+    "ASMPT",
+    "SMT",
+    "半导体"
+   ]
+  }
+ },
+ {
+  "id": "20261105-gold-back-above-4000",
+  "category": "finance",
+  "published_at": "2026-11-05T06:41:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876609-20261105.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Gold jumps nearly 4% back above US$4,000 as dollar slips",
+   "zh_hant": "金價飆近4%重返4000美元　美元回落＋觀望非農數據",
+   "zh_hans": "金价飙近4%重返4000美元　美元回落＋观望非农数据"
+  },
+  "summary": {
+   "en": "Gold climbed back above US$4,000 an ounce, with spot gold touching a high of US$4,070.32, up more than 3.6 per cent. Media projections that the Democrats would take control of both houses of Congress pushed the dollar lower, supporting gold, while markets awaited the upcoming US non-farm payrolls data for clues on the interest-rate outlook. New York December gold futures closed at US$4,073, up about 3.4 per cent.",
+   "zh_hant": "金價重返每盎司4000美元，現貨金高見4,070.32美元，升逾3.6%。傳媒推算民主黨奪得兩院控制權，美元下跌，利好金價表現；市場觀望快將公布的美國非農就業數據，以判斷利率前景。紐約期金12月合約收報4,073美元，升約3.4%。",
+   "zh_hans": "金价重返每盎司4000美元，现货金高见4,070.32美元，升逾3.6%。传媒推算民主党夺得两院控制权，美元下跌，利好金价表现；市场观望快将公布的美国非农就业数据，以判断利率前景。纽约期金12月合约收报4,073美元，升约3.4%。"
+  },
+  "tags": {
+   "en": [
+    "gold",
+    "US dollar",
+    "markets"
+   ],
+   "zh_hant": [
+    "金價",
+    "美元",
+    "市場"
+   ],
+   "zh_hans": [
+    "金价",
+    "美元",
+    "市场"
+   ]
+  }
+ },
+ {
   "id": "20261105-vance-midterms-loss-iran-war",
   "category": "world",
   "published_at": "2026-11-05T02:33:00+08:00",
