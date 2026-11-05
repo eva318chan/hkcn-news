@@ -37,12 +37,12 @@
 
 ## 新聞更新流程（自動化）
 
-- 排程 `hkcn-news-4h-update` 每 4 小時執行一次（約 00／04／08／12／16／20 HKT）。
+- 排程 `hkcn-news-4h-update` 每 2 小時執行一次。
 - 流程：
   1. 搜尋近數小時的港聞、中國、國際、財經、科技、社會、娛樂新聞；
   2. 摘要用自己文字重新編寫（三語，約 2–4 句，中性客觀）；
   3. 寫入／附加到 `data/今日日期.json`，產生對應 `a/{id}.html`，更新 `manifest.json`（`updated_at` 及 `dates` 排頭為最新日期）；
-  4. 經 GitHub PAT commit＋push 上 `main` branch；
+  4. 嗰輪全部改動（文章、data、manifest、sitemap、rss）經 GitHub API 一次過一個 commit 推上 `main` branch（2026-11-05 江仔拍板：每輪一個 commit，慳 Vercel deploy 配額）；
   5. Vercel 自動 deploy。
 - **版權要求**：摘要必須重新編寫，唔好大段複製新聞原文。
 - **去重**：新增前對比已有 article id，唔可重複。
