@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://hkcn-news.vercel.app/</loc><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261106-ny-brooklyn-fire-6-dead.html</loc><lastmod>2026-11-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261106-sharp-eye-private-sector.html</loc><lastmod>2026-11-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261106-sharp-eye-facial-recognition.html</loc><lastmod>2026-11-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261106-zelenskyy-midterms-ukraine-aid.html</loc><lastmod>2026-11-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261106-us-productivity-q3-3-6.html</loc><lastmod>2026-11-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261106-nasdaq-down-2-2-percent.html</loc><lastmod>2026-11-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hkcn-news.vercel.app/a/20261105-europe-flights-bomb-threats.html</loc><lastmod>2026-11-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hkcn-news.vercel.app/a/20261105-nsd-arrest-books-mong-kok.html</loc><lastmod>2026-11-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hkcn-news.vercel.app/a/20261105-yuen-long-baby-abuse.html</loc><lastmod>2026-11-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
