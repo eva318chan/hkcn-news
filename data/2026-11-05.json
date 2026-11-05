@@ -370,43 +370,6 @@
     }
   },
   {
-    "id": "20261105-customs-cocaine-airport",
-    "category": "hk",
-    "published_at": "2026-11-04T22:13:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400626.htm"
-    },
-    "image_url": "https://gia.info.gov.hk/general/202611/04/P2026110400626_photo_1342904t.jpg",
-    "title": {
-      "en": "Hong Kong Customs seizes 1kg suspected cocaine hidden in shoe soles at airport",
-      "zh_hant": "海關機場破販毒案　鞋底暗格藏約1公斤可疑可卡因",
-      "zh_hans": "海关机场破贩毒案　鞋底暗格藏约1公斤可疑可卡因"
-    },
-    "summary": {
-      "en": "Hong Kong Customs said on November 4 it arrested an inbound passenger at Hong Kong International Airport on November 2 and found about one kilogram of suspected cocaine hidden in the soles of a pair of shoes in his checked luggage, with an estimated market value of about HK$600,000. The 20-year-old arrestee, who claimed to be a technician, remains under investigation.",
-      "zh_hant": "海關今日表示，本月2日在香港國際機場拘捕一名入境男子，在其寄艙行李內一對鞋的鞋底暗格中搜出約1公斤懷疑可卡因，估計市值約60萬元。被捕男子20歲，報稱技術員，案件仍在調查中。",
-      "zh_hans": "海关今日表示，本月2日在香港国际机场拘捕一名入境男子，在其托运行李内一对鞋的鞋底暗格中搜出约1公斤怀疑可卡因，估计市值约60万元。被捕男子20岁，报称技术员，案件仍在调查中。"
-    },
-    "tags": {
-      "en": [
-        "Hong Kong Customs",
-        "cocaine",
-        "drug trafficking"
-      ],
-      "zh_hant": [
-        "香港海關",
-        "可卡因",
-        "販毒"
-      ],
-      "zh_hans": [
-        "香港海关",
-        "可卡因",
-        "贩毒"
-      ]
-    }
-  },
-  {
     "id": "20261105-legal-week-uncitral-60",
     "category": "hk",
     "published_at": "2026-11-04T20:08:00+08:00",
