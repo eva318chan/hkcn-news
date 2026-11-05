@@ -1,5 +1,79 @@
 [
  {
+  "id": "20261106-france-strike-600k",
+  "category": "world",
+  "published_at": "2026-11-06T04:10:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876734-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "法國全國大罷工　60萬人上街抗議物價高漲　里昂爆衝突燒車",
+   "en": "France hit by nationwide strike over cost of living; authorities say 600,000 took to the streets, clashes in Lyon",
+   "zh_hans": "法国全国大罢工　60万人上街抗议物价高涨　里昂爆冲突烧车"
+  },
+  "summary": {
+   "zh_hant": "法國多個工會在當地星期四發起全國罷工示威，抗議生活成本上漲，要求全面加薪、推行稅制改革及改善年輕人的學習條件，獲得不少民眾響應。內政部表示約有60萬人參與示威，法國總工會則稱參加人數達到160萬；當局在全國部署7萬名警察及安全部隊。總理勒科爾尼將於下星期一與工會及僱主組織代表會面，討論生活成本與工資問題。法新社報道，星期四的抗議活動大致和平，但在包括里昂在內的部分城市，有示威者與警方爆發衝突，有汽車被燒毀，警方使用水砲及催淚氣體驅散示威者。",
+   "en": "French unions staged a nationwide strike on Thursday local time to protest the rising cost of living, demanding across-the-board pay rises, tax reform and better conditions for young people, drawing a large turnout. The Interior Ministry said about 600,000 people took part, while the CGT union put the figure at 1.6 million; authorities deployed 70,000 police and security personnel across the country. Prime Minister Lecornu will meet union and employer representatives on Monday to discuss living costs and wages. AFP reported the protests were largely peaceful, but in some cities including Lyon demonstrators clashed with police, cars were set on fire and officers used water cannon and tear gas to disperse crowds.",
+   "zh_hans": "法国多个工会在当地星期四发起全国罢工示威，抗议生活成本上涨，要求全面加薪、推行税制改革及改善年轻人的学习条件，获得不少民众响应。内政部表示约有60万人参与示威，法国总工会则称参加人数达到160万；当局在全国部署7万名警察及安全部队。总理勒科尔尼将于下星期一与工会及雇主组织代表会面，讨论生活成本与工资问题。法新社报道，星期四的抗议活动大致和平，但在包括里昂在内的部分城市，有示威者与警方爆发冲突，有汽车被烧毁，警方使用水炮及催泪气体驱散示威者。"
+  },
+  "tags": {
+   "zh_hant": [
+    "法國",
+    "罷工",
+    "生活成本"
+   ],
+   "en": [
+    "France",
+    "strike",
+    "cost of living"
+   ],
+   "zh_hans": [
+    "法国",
+    "罢工",
+    "生活成本"
+   ]
+  }
+ },
+ {
+  "id": "20261106-unsc-diplomacy-statement",
+  "category": "world",
+  "published_at": "2026-11-06T03:17:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876732-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "安理會一致通過主席聲明　促武裝衝突中加強外交　巴基斯坦起草",
+   "en": "UN Security Council unanimously adopts presidential statement urging stronger diplomacy in armed conflict; drafted by Pakistan",
+   "zh_hans": "安理会一致通过主席声明　促武装冲突中加强外交　巴基斯坦起草"
+  },
+  "summary": {
+   "zh_hant": "聯合國安理會在當地星期四一致通過一項有關「加強外交在武裝衝突中的作用」的主席聲明。聲明草案由巴基斯坦起草，強調即使武裝衝突已經爆發，各方仍應保持外交接觸，對於控制衝突升級、推動停止敵對行動和實現停火，以及創造有利於通過和平政治方式解決爭端的條件，具有重要意義。",
+   "en": "The UN Security Council on Thursday local time unanimously adopted a presidential statement on strengthening the role of diplomacy in armed conflict. Drafted by Pakistan, the statement stresses that parties should maintain diplomatic engagement even after armed conflict has broken out, as it matters for controlling escalation, promoting a cessation of hostilities and a ceasefire, and creating conditions for resolving disputes through peaceful political means.",
+   "zh_hans": "联合国安理会在当地星期四一致通过一项有关「加强外交在武装冲突中的作用」的主席声明。声明草案由巴基斯坦起草，强调即使武装冲突已经爆发，各方仍应保持外交接触，对于控制冲突升级、推动停止敌对行动和实现停火，以及创造有利于通过和平政治方式解决争端的条件，具有重要意义。"
+  },
+  "tags": {
+   "zh_hant": [
+    "聯合國",
+    "安理會",
+    "外交"
+   ],
+   "en": [
+    "United Nations",
+    "Security Council",
+    "diplomacy"
+   ],
+   "zh_hans": [
+    "联合国",
+    "安理会",
+    "外交"
+   ]
+  }
+ },
+ {
   "id": "20261106-israel-eisenkot-67-seats",
   "category": "world",
   "published_at": "2026-11-06T02:13:00+08:00",
