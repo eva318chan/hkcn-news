@@ -1,5 +1,264 @@
 [
  {
+  "id": "20261106-us-stocks-plunge",
+  "category": "finance",
+  "published_at": "2026-11-06T05:50:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876742-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "美股暴瀉　道指插1833點、納指瀉5.5%　AI股重災　費城半導體瀉逾12%",
+   "en": "US stocks plunge: Dow tumbles 1,833 points, Nasdaq dives 5.5% as AI shares crash; Philadelphia chip index down over 12%",
+   "zh_hans": "美股暴泻　道指插1833点、纳指泻5.5%　AI股重灾　费城半导体泻逾12%"
+  },
+  "summary": {
+   "zh_hant": "美股三大指數急挫逾3%至5.5%，創去年4月以來最大單日跌幅，回吐美國中期選舉後的升幅。人工智能相關股份是跌市重災區，多隻晶片及光通信股暴跌一成多至逾兩成，市場憂慮人工智能監管收緊。道瓊斯指數收報51523點，跌1833點，跌幅逾3.4%，創約一個月新低；標普500指數收報7353點，跌334點，跌幅約4.4%，創逾三個月低位，指數成份股市值單日蒸發約3萬億美元。納斯達克指數收報24315點，跌1421點，跌幅逾5.5%，創約六個半月低位，較10月6日創下的收市紀錄高位回落近12%，確認進入技術回調區間。俗稱「恐慌指數」的VIX指數急升約70%，升至逾七個月高位。費城半導體指數跌逾12%，是逾六年半以來最大單日跌幅，Sandisk跌逾22%，AMD、西部數據、美光、Lumentum跌逾17%至近19%；SpaceX、Nvidia、高通、英特爾、Tesla亦跌9%至近11%。據報蘋果擬發債集資約70億美元，股價跌1.5%收市。",
+   "en": "US stocks plunged, with the three major indices down more than 3% to 5.5% in the biggest single-day fall since April last year, giving back gains made after the US midterm elections. AI-related shares were hit hardest, with several chip and optical-communications stocks crashing by more than 10% to over 20% amid worries about tighter AI regulation. The Dow closed at 51,523, down 1,833 points or over 3.4%, a roughly one-month low; the S&P 500 closed at 7,353, down 334 points or about 4.4%, a more than three-month low, wiping about US$3 trillion off the market value of its constituents in a day. The Nasdaq closed at 24,315, down 1,421 points or over 5.5%, a roughly six-and-a-half-month low and nearly 12% below its record close on 6 October, confirming a technical correction. The VIX, known as the fear index, surged about 70% to a more than seven-month high. The Philadelphia Semiconductor Index fell over 12%, its biggest one-day drop in more than six and a half years; Sandisk fell over 22%, while AMD, Western Digital, Micron and Lumentum fell more than 17% to nearly 19%. SpaceX, Nvidia, Qualcomm, Intel and Tesla also fell 9% to nearly 11%. Apple reportedly plans to raise about US$7 billion in a bond issue and closed 1.5% lower.",
+   "zh_hans": "美股三大指数急挫逾3%至5.5%，创去年4月以来最大单日跌幅，回吐美国中期选举后的升幅。人工智能相关股份是跌市重灾区，多只芯片及光通信股暴跌一成多至逾两成，市场忧虑人工智能监管收紧。道琼斯指数收报51523点，跌1833点，跌幅逾3.4%，创约一个月新低；标普500指数收报7353点，跌334点，跌幅约4.4%，创逾三个月低位，指数成份股市值单日蒸发约3万亿美元。纳斯达克指数收报24315点，跌1421点，跌幅逾5.5%，创约六个半月低位，较10月6日创下的收市纪录高位回落近12%，确认进入技术回调区间。俗称「恐慌指数」的VIX指数急升约70%，升至逾七个月高位。费城半导体指数跌逾12%，是逾六年半以来最大单日跌幅，Sandisk跌逾22%，AMD、西部数据、美光、Lumentum跌逾17%至近19%；SpaceX、Nvidia、高通、英特尔、Tesla亦跌9%至近11%。据报苹果拟发债集资约70亿美元，股价跌1.5%收市。"
+  },
+  "tags": {
+   "zh_hant": [
+    "美股",
+    "納斯達克",
+    "人工智能"
+   ],
+   "en": [
+    "US stocks",
+    "Nasdaq",
+    "artificial intelligence"
+   ],
+   "zh_hans": [
+    "美股",
+    "纳斯达克",
+    "人工智能"
+   ]
+  }
+ },
+ {
+  "id": "20261106-gold-above-4100",
+  "category": "finance",
+  "published_at": "2026-11-06T06:23:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876747-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "金價升穿4100美元　高見4146美元　創逾半個月新高",
+   "en": "Gold breaks above US$4,100, hits US$4,146.63 for highest in over half a month",
+   "zh_hans": "金价升穿4100美元　高见4146美元　创逾半个月新高"
+  },
+  "summary": {
+   "zh_hant": "金價造好，由於美元及美債孳息率下跌。現貨金曾升穿每盎司4100美元水平，高見4146.63美元，升逾2.1%，創逾半個月新高，較早時徘徊4088美元以上。紐約期金12月合約收報4113.5美元，升約1%。",
+   "en": "Gold prices rose as the US dollar and Treasury yields fell. Spot gold broke above US$4,100 an ounce, reaching as high as US$4,146.63, up more than 2.1% and the highest in over half a month, after earlier hovering above US$4,088. Gold futures for December delivery in New York closed at US$4,113.5, up about 1%.",
+   "zh_hans": "金价造好，由于美元及美债孳息率下跌。现货金曾升穿每盎司4100美元水平，高见4146.63美元，升逾2.1%，创逾半个月新高，较早时徘徊4088美元以上。纽约期金12月合约收报4113.5美元，升约1%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "金價",
+    "現貨金",
+    "美元"
+   ],
+   "en": [
+    "gold price",
+    "spot gold",
+    "US dollar"
+   ],
+   "zh_hans": [
+    "金价",
+    "现货金",
+    "美元"
+   ]
+  }
+ },
+ {
+  "id": "20261106-oil-rebound-brent",
+  "category": "finance",
+  "published_at": "2026-11-06T06:16:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876745-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "油價反彈　布蘭特期油升近4%　波斯灣油輪遇襲　供應憂慮升溫",
+   "en": "Oil prices rebound: Brent crude up nearly 4% after tanker attacked in the Gulf, stoking supply worries",
+   "zh_hans": "油价反弹　布兰特期油升近4%　波斯湾油轮遇袭　供应忧虑升温"
+  },
+  "summary": {
+   "zh_hant": "油價反彈，波斯灣地區有油輪遭到襲擊，加劇市場對石油供應的擔憂。布蘭特期油1月合約收報每桶98.29美元，升約3.9%。紐約期油12月合約一度升至91美元以上，收報90.52美元，升逾2.7%。",
+   "en": "Oil prices rebounded after a tanker was attacked in the Gulf region, heightening market worries about oil supply. Brent crude for January delivery closed at US$98.29 a barrel, up about 3.9%. US crude for December delivery rose above US$91 at one point before closing at US$90.52, up more than 2.7%.",
+   "zh_hans": "油价反弹，波斯湾地区有油轮遭到袭击，加剧市场对石油供应的担忧。布兰特期油1月合约收报每桶98.29美元，升约3.9%。纽约期油12月合约一度升至91美元以上，收报90.52美元，升逾2.7%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "油價",
+    "布蘭特期油",
+    "石油供應"
+   ],
+   "en": [
+    "oil price",
+    "Brent crude",
+    "oil supply"
+   ],
+   "zh_hans": [
+    "油价",
+    "布兰特期油",
+    "石油供应"
+   ]
+  }
+ },
+ {
+  "id": "20261106-kremlin-ukraine-us",
+  "category": "world",
+  "published_at": "2026-11-06T05:57:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876740-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "克宮：俄烏和平途徑仍在　視乎烏方政治意願　俄利益與美國內形勢無關",
+   "en": "Kremlin: path to peace in Ukraine remains if Kyiv shows political will; Russia's interests do not depend on US domestic politics",
+   "zh_hans": "克宫：俄乌和平途径仍在　视乎乌方政治意愿　俄利益与美国内形势无关"
+  },
+  "summary": {
+   "zh_hant": "俄羅斯克里姆林宮發言人佩斯科夫表示，俄方優先通過和平方式實現目標，只要烏克蘭方面展現政治意願，和平解決途徑依然存在，但在和平途徑受阻的情況下，俄方將繼續進行特別軍事行動。他又說，俄羅斯在烏克蘭問題上的利益不取決於美國國內形勢，在任何情況下都將得到保障。對於有報道指三艘運往美國的俄羅斯柴油運油輪中，有兩艘因美國民主黨和當局對相關企業發出威脅而改變航向，佩斯科夫當地星期四在新聞簡報會表示，根據俄美雙方達成的協議，所有運往美國的俄羅斯柴油都將找到買家，呼籲外界不要將運油輪改變航向與美國中期選舉結果相聯繫。",
+   "en": "Kremlin spokesman Dmitry Peskov said Russia prioritises achieving its goals by peaceful means, and that a path to a peaceful settlement remains as long as Ukraine shows political will, but that Russia will continue its special military operation if the peaceful path is blocked. He added that Russia's interests on Ukraine do not depend on the US domestic situation and will be safeguarded under any circumstances. Asked about reports that two of three Russian diesel tankers bound for the US changed course after threats from the US Democratic Party and authorities against the companies involved, Peskov told a press briefing on Thursday local time that under an agreement between Russia and the US, all Russian diesel shipped to the US will find buyers, and urged people not to link the rerouting to the US midterm election results.",
+   "zh_hans": "俄罗斯克里姆林宫发言人佩斯科夫表示，俄方优先通过和平方式实现目标，只要乌克兰方面展现政治意愿，和平解决途径依然存在，但在和平途径受阻的情况下，俄方将继续进行特别军事行动。他又说，俄罗斯在乌克兰问题上的利益不取决于美国国内形势，在任何情况下都将得到保障。对于有报道指三艘运往美国的俄罗斯柴油运油轮中，有两艘因美国民主党和当局对相关企业发出威胁而改变航向，佩斯科夫当地星期四在新闻简报会表示，根据俄美双方达成的协议，所有运往美国的俄罗斯柴油都将找到买家，呼吁外界不要将运油轮改变航向与美国中期选举结果相联系。"
+  },
+  "tags": {
+   "zh_hant": [
+    "俄羅斯",
+    "烏克蘭",
+    "克里姆林宮"
+   ],
+   "en": [
+    "Russia",
+    "Ukraine",
+    "Kremlin"
+   ],
+   "zh_hans": [
+    "俄罗斯",
+    "乌克兰",
+    "克里姆林宫"
+   ]
+  }
+ },
+ {
+  "id": "20261106-melania-russia-ukraine",
+  "category": "world",
+  "published_at": "2026-11-06T05:35:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876739-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "梅拉妮婭白宮會晤俄烏代表　促成停火撤走近800人　籲化為持久和平",
+   "en": "Melania Trump meets Russian and Ukrainian envoys at White House, urges ceasefire that evacuated nearly 800 people to become lasting peace",
+   "zh_hans": "梅拉妮娅白宫会晤俄乌代表　促成停火撤走近800人　吁化为持久和平"
+  },
+  "summary": {
+   "zh_hant": "美國第一夫人梅拉妮婭在白宮會見俄羅斯和烏克蘭代表。她日前促成、在被俄羅斯控制的赫爾松州奧列什基地區達成為期6日的停火協議，俄羅斯總統特別代表德米特里耶夫獲簽證赴美出席紀念活動。梅拉妮婭說，停火期間有近800名居民安全撤離，感謝俄烏雙方合作，呼籲他們以奧列什基停火為起點，推動更廣泛的和平合作，令臨時停火發展成為更持久的和平。她分別寫信給俄烏總統，請雙方代表轉交。俄烏雙方分別向梅拉妮婭致送感謝禮物，俄方送上一幅由一名奧列什基女童畫的粉紅色愛心畫，宣稱這名女童選擇和家人一起生活在俄羅斯。烏方則向梅拉妮婭頒發國家獎章，感謝她拯救烏克蘭人民。",
+   "en": "US First Lady Melania Trump met Russian and Ukrainian representatives at the White House. She recently helped broker a six-day ceasefire in the Oleshky area of Kherson region, which is under Russian control, and Russian presidential special representative Dmitriev was granted a visa to travel to the US for a commemorative event. Melania Trump said nearly 800 residents were safely evacuated during the ceasefire, thanked both sides for their cooperation, and urged them to use the Oleshky ceasefire as a starting point for broader peace cooperation so the temporary truce can grow into more lasting peace. She wrote letters to the Russian and Ukrainian presidents and asked the representatives to deliver them. Both sides gave her gifts of thanks: Russia presented a pink heart drawing by a girl from Oleshky, saying the girl had chosen to live in Russia with her family, while Ukraine awarded her a national medal in thanks for saving Ukrainian people.",
+   "zh_hans": "美国第一夫人梅拉妮娅在白宫会见俄罗斯和乌克兰代表。她日前促成、在被俄罗斯控制的赫尔松州奥列什基地区达成为期6日的停火协议，俄罗斯总统特别代表德米特里耶夫获签证赴美出席纪念活动。梅拉妮娅说，停火期间有近800名居民安全撤离，感谢俄乌双方合作，呼吁他们以奥列什基停火为起点，推动更广泛的和平合作，令临时停火发展成为更持久的和平。她分别写信给俄乌总统，请双方代表转交。俄乌双方分别向梅拉妮娅致送感谢礼物，俄方送上一幅由一名奥列什基女童画的粉红色爱心画，宣称这名女童选择和家人一起生活在俄罗斯。乌方则向梅拉妮娅颁发国家奖章，感谢她拯救乌克兰人民。"
+  },
+  "tags": {
+   "zh_hant": [
+    "梅拉妮婭",
+    "俄烏戰爭",
+    "停火"
+   ],
+   "en": [
+    "Melania Trump",
+    "Russia-Ukraine war",
+    "ceasefire"
+   ],
+   "zh_hans": [
+    "梅拉妮娅",
+    "俄乌战争",
+    "停火"
+   ]
+  }
+ },
+ {
+  "id": "20261106-zelenskyy-eu-council",
+  "category": "world",
+  "published_at": "2026-11-06T04:57:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876735-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "澤連斯基晤歐洲理事會主席　磋商入盟談判　烏克蘭獲歐盟43.6億歐元貸款",
+   "en": "Zelenskyy meets European Council president to discuss EU accession talks; Ukraine receives €4.36 billion EU loan",
+   "zh_hans": "泽连斯基晤欧洲理事会主席　磋商入盟谈判　乌克兰获欧盟43.6亿欧元贷款"
+  },
+  "summary": {
+   "zh_hant": "烏克蘭總統澤連斯基與歐洲理事會主席科斯塔在西班牙馬德里會面。澤連斯基表示，雙方重點磋商烏克蘭加入歐盟談判進程、推動歐洲一體化的新方案，以及阿布扎比烏美俄三方會晤的籌備事宜。他提出歐洲應參與烏克蘭安全保障和戰後重建相關談判，有關主張得到科斯塔支持。另外，烏克蘭總理科列茨基在社交平台表示，烏克蘭收到歐盟一筆43億6千萬歐元的援助貸款，是歐盟4月正式批准向烏克蘭提供900億歐元援烏貸款一部分，為烏克蘭提供2026至27年的財政與軍事支持，支持烏克蘭維持國家基本運作、保障公共服務，並增強國防能力和國防工業實力。",
+   "en": "Ukrainian President Volodymyr Zelenskyy met European Council President Antonio Costa in Madrid, Spain. Zelenskyy said the talks focused on the progress of Ukraine's EU accession negotiations, new proposals to advance European integration, and preparations for a trilateral Ukraine-US-Russia meeting in Abu Dhabi. He proposed that Europe take part in negotiations on security guarantees for Ukraine and post-war reconstruction, a position Costa supported. Separately, Ukrainian Prime Minister Yuliia Svyrydenko said on social media that Ukraine had received a €4.36 billion EU assistance loan, part of the €90 billion in aid loans for Ukraine formally approved by the EU in April, providing fiscal and military support for 2026-27 to keep the country running, safeguard public services and strengthen its defence capabilities and defence industry.",
+   "zh_hans": "乌克兰总统泽连斯基与欧洲理事会主席科斯塔在西班牙马德里会面。泽连斯基表示，双方重点磋商乌克兰加入欧盟谈判进程、推动欧洲一体化的新方案，以及阿布扎比乌美俄三方会晤的筹备事宜。他提出欧洲应参与乌克兰安全保障和战后重建相关谈判，有关主张得到科斯塔支持。另外，乌克兰总理科列茨基在社交平台表示，乌克兰收到欧盟一笔43亿6千万欧元的援助贷款，是欧盟4月正式批准向乌克兰提供900亿欧元援乌贷款一部分，为乌克兰提供2026至27年的财政与军事支持，支持乌克兰维持国家基本运作、保障公共服务，并增强国防能力和国防工业实力。"
+  },
+  "tags": {
+   "zh_hant": [
+    "澤連斯基",
+    "烏克蘭",
+    "歐盟"
+   ],
+   "en": [
+    "Zelenskyy",
+    "Ukraine",
+    "European Union"
+   ],
+   "zh_hans": [
+    "泽连斯基",
+    "乌克兰",
+    "欧盟"
+   ]
+  }
+ },
+ {
+  "id": "20261106-europe-stocks-mixed",
+  "category": "finance",
+  "published_at": "2026-11-06T06:13:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876743-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "歐股個別發展　英德跌逾0.4%　法股連升兩日創近兩個月高",
+   "en": "European stocks mixed: UK and German markets down over 0.4%, French shares rise for a second day to near two-month high",
+   "zh_hans": "欧股个别发展　英德跌逾0.4%　法股连升两日创近两个月高"
+  },
+  "summary": {
+   "zh_hant": "歐洲股市高開低走，收市個別發展。英國富時100指數收報10782點，跌46點，跌幅逾0.4%。德國DAX指數收報26325點，跌112點，跌幅逾0.4%。法國CAC指數收報8205點，升27點，升幅逾0.3%，連升兩日，創近兩個月新高。意大利股市低收1%，西班牙股市則升約0.6%。",
+   "en": "European stock markets opened higher but faded, closing mixed. The UK's FTSE 100 closed at 10,782, down 46 points or over 0.4%. Germany's DAX closed at 26,325, down 112 points or over 0.4%. France's CAC index closed at 8,205, up 27 points or over 0.3%, rising for a second straight day to a near two-month high. Italian shares closed 1% lower, while Spanish shares rose about 0.6%.",
+   "zh_hans": "欧洲股市高开低走，收市个别发展。英国富时100指数收报10782点，跌46点，跌幅逾0.4%。德国DAX指数收报26325点，跌112点，跌幅逾0.4%。法国CAC指数收报8205点，升27点，升幅逾0.3%，连升两日，创近两个月新高。意大利股市低收1%，西班牙股市则升约0.6%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "歐洲股市",
+    "富時100",
+    "法國股市"
+   ],
+   "en": [
+    "European stocks",
+    "FTSE 100",
+    "French stocks"
+   ],
+   "zh_hans": [
+    "欧洲股市",
+    "富时100",
+    "法国股市"
+   ]
+  }
+ },
+ {
   "id": "20261106-france-strike-600k",
   "category": "world",
   "published_at": "2026-11-06T04:10:00+08:00",
