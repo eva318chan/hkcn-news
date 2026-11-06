@@ -1,5 +1,190 @@
 [
  {
+  "id": "20261106-paraguay-president-resigns",
+  "category": "world",
+  "published_at": "2026-11-06T08:02:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876753-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "巴拉圭銀行危機引爆政壇地震　總統培尼亞宣布辭職　眾議院同日通過彈劾",
+   "en": "Paraguay president Peña resigns as bank takeover sparks political crisis; lower house passes impeachment the same day",
+   "zh_hans": "巴拉圭银行危机引爆政坛地震　总统培尼亚宣布辞职　众议院同日通过弹劾"
+  },
+  "summary": {
+   "zh_hant": "巴拉圭全國最大數字銀行韋諾銀行被中央銀行接管，觸發政治危機。央行星期二表示，管理約8億5000萬美元國家公共資金的韋諾銀行違反最低償付能力要求，宣布展開清算接管程序。韋諾銀行在當地擁有約300萬客戶，佔全國三分二成年人口，事件令用戶無法提款，民眾上街抗議並與警方衝突。曾經是銀行股東的總統培尼亞被反對派指責利益衝突，在失去所屬科羅拉多黨支持後宣布辭職；眾議院同日召開特別會議，通過對他的彈劾指控，培尼亞表示將出席參議院彈劾聽證會行使辯護權。",
+   "en": "Paraguay's largest digital bank, Ueno Bank, was taken over by the central bank, triggering a political crisis. The central bank said on Tuesday that Ueno Bank, which manages about US$850 million in public funds, had breached minimum solvency requirements and announced liquidation and takeover proceedings. The bank has about three million customers in the country — two-thirds of the adult population — and the takeover left users unable to withdraw money, prompting street protests that clashed with police. President Santiago Peña, a former shareholder of the bank, was accused by the opposition of a conflict of interest and resigned after losing the support of his Colorado Party; the Chamber of Deputies held a special session the same day and passed impeachment charges against him. Peña said he would attend the Senate impeachment hearing to exercise his right of defence.",
+   "zh_hans": "巴拉圭全国最大数字银行韦诺银行被中央银行接管，触发政治危机。央行星期二表示，管理约8亿5000万美元国家公共资金的韦诺银行违反最低偿付能力要求，宣布展开清算接管程序。韦诺银行在当地拥有约300万客户，占全国三分二成年人口，事件令用户无法提款，民众上街抗议并与警方冲突。曾经是银行股东的总统培尼亚被反对派指责利益冲突，在失去所属科罗拉多党支持后宣布辞职；众议院同日召开特别会议，通过对他的弹劾指控，培尼亚表示将出席参议院弹劾听证会行使辩护权。"
+  },
+  "tags": {
+   "zh_hant": [
+    "巴拉圭",
+    "培尼亞",
+    "銀行危機"
+   ],
+   "en": [
+    "Paraguay",
+    "Peña",
+    "banking crisis"
+   ],
+   "zh_hans": [
+    "巴拉圭",
+    "培尼亚",
+    "银行危机"
+   ]
+  }
+ },
+ {
+  "id": "20261106-korea-japan-stocks-plunge",
+  "category": "finance",
+  "published_at": "2026-11-06T08:09:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876754-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "韓股暴瀉8.55%觸發熔斷　失守5000點　日股跌近4%失守6萬點",
+   "en": "South Korean stocks plunge 8.55% triggering a circuit breaker and falling below 5,000; Japanese shares drop nearly 4% below 60,000",
+   "zh_hans": "韩股暴泻8.55%触发熔断　失守5000点　日股跌近4%失守6万点"
+  },
+  "summary": {
+   "zh_hant": "日韓股市今早初段急挫，韓股觸發熔斷機制，暫停交易20分鐘。首爾綜合指數跌穿5000點關口，開市後報4923點，跌460點，跌幅8.55%。日經指數亦失守6萬點關口，較早時報58906點，跌2171點，跌幅3.55%。",
+   "en": "Japanese and South Korean stock markets plunged in early trading this morning, with South Korean shares triggering a circuit breaker that halted trading for 20 minutes. The KOSPI fell below the 5,000 level, trading at 4,923 after the open, down 460 points or 8.55%. The Nikkei also fell below 60,000, trading at 58,906 earlier, down 2,171 points or 3.55%.",
+   "zh_hans": "日韩股市今早初段急挫，韩股触发熔断机制，暂停交易20分钟。首尔综合指数跌穿5000点关口，开市后报4923点，跌460点，跌幅8.55%。日经指数亦失守6万点关口，较早时报58906点，跌2171点，跌幅3.55%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "韓股",
+    "日股",
+    "熔斷機制"
+   ],
+   "en": [
+    "South Korean stocks",
+    "Japanese stocks",
+    "circuit breaker"
+   ],
+   "zh_hans": [
+    "韩股",
+    "日股",
+    "熔断机制"
+   ]
+  }
+ },
+ {
+  "id": "20261106-fed-officials-gradual-hikes",
+  "category": "finance",
+  "published_at": "2026-11-06T08:10:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876752-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "兩名聯儲局官員齊撐漸進加息　哈瑪克：小步多次衝擊較小　美元主導地位未動搖",
+   "en": "Two Fed officials back gradual rate hikes; Hammack says smaller, more frequent moves hit households less and the dollar's dominance is intact",
+   "zh_hans": "两名联储局官员齐撑渐进加息　哈玛克：小步多次冲击较小　美元主导地位未动摇"
+  },
+  "summary": {
+   "zh_hant": "美國里奇蒙聯邦儲備銀行總裁巴爾金表示，在需求強勁、失業率較低、價格壓力廣泛之下，通脹持續高於聯儲局2%的目標，認為應漸進加息。克利夫蘭聯邦儲備銀行總裁哈瑪克亦支持漸進式加息，認為有助降低政策落後於應有水平、導致通脹預期根深柢固的風險；她相信更頻繁但幅度較小的利率調整，對家庭、企業及金融市場造成的衝擊較小。哈瑪克又提到，美元在全球外匯儲備的佔比或已見頂，但不認為美元會失去主導地位；加密貨幣價格波動劇烈，作為價值儲存工具的確定性較低，目前似乎不具備取代美元的條件。",
+   "en": "Richmond Federal Reserve president Thomas Barkin said that with demand staying strong, unemployment low and price pressures broad-based, inflation remains above the Fed's 2% target and rates should rise gradually. Cleveland Fed president Beth Hammack also backed gradual rate hikes, saying they would help reduce the risk of policy falling behind and inflation expectations becoming entrenched; she believes more frequent but smaller rate moves would hit households, businesses and financial markets less. Hammack added that the dollar's share of global foreign-exchange reserves may have peaked, but she does not believe the dollar will lose its dominant position, and that cryptocurrencies, with their sharp price swings, currently do not appear able to replace the dollar as a store of value.",
+   "zh_hans": "美国里奇蒙联邦储备银行总裁巴尔金表示，在需求强劲、失业率较低、价格压力广泛之下，通胀持续高于联储局2%的目标，认为应渐进加息。克利夫兰联邦储备银行总裁哈玛克亦支持渐进式加息，认为有助降低政策落后于应有水平、导致通胀预期根深柢固的风险；她相信更频繁但幅度较小的利率调整，对家庭、企业及金融市场造成的冲击较小。哈玛克又提到，美元在全球外汇储备的占比或已见顶，但不认为美元会失去主导地位；加密货币价格波动剧烈，作为价值储存工具的确定性较低，目前似乎不具备取代美元的条件。"
+  },
+  "tags": {
+   "zh_hant": [
+    "聯儲局",
+    "加息",
+    "美元"
+   ],
+   "en": [
+    "Federal Reserve",
+    "interest rate hike",
+    "US dollar"
+   ],
+   "zh_hans": [
+    "联储局",
+    "加息",
+    "美元"
+   ]
+  }
+ },
+ {
+  "id": "20261106-dollar-index-five-week-low",
+  "category": "finance",
+  "published_at": "2026-11-06T07:23:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876750-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "美元指數創逾5星期低位　美債息創近兩個月新低　英倫銀行3年多來首加息",
+   "en": "US dollar index hits lowest in over five weeks as Treasury yields fall to near two-month low; Bank of England raises rates for first time in over three years",
+   "zh_hans": "美元指数创逾5星期低位　美债息创近两个月新低　英伦银行3年多来首加息"
+  },
+  "summary": {
+   "zh_hant": "美元指數最多跌約0.3%，低見101.18，再創逾5星期低位，尾市回升至101.59。美債孳息率大幅下跌，創近兩個月低位，10年期債息低見4.814厘，跌近8個基點；30年期債息低見約5.23厘，兩年期債息低見4.452厘。其他貨幣方面，澳元兌美元跌逾1%，紐約尾市報0.693，新西蘭元兌美元亦跌至0.56以下；英鎊兌美元跌至1.345附近，歐元兌美元貼近1.122水平。英倫銀行3年多以來首次加息，央行總裁貝利表示，今次加息不應被視為開啟長期加息行動，但如果美伊衝突持續，或需要進一步加息；歐洲央行總裁拉加德表示，將評估各項經濟數據，以決定12月是否加息。",
+   "en": "The US dollar index fell as much as about 0.3% to 101.18, its lowest in over five weeks, before recovering to 101.59 late in New York trading. US Treasury yields fell sharply to near two-month lows, with the 10-year yield touching 4.814%, down nearly 8 basis points; the 30-year yield fell to about 5.23% and the two-year yield to 4.452%. Among other currencies, the Australian dollar fell more than 1% against the US dollar to 0.693 in late New York trading, and the New Zealand dollar also slipped below 0.56; sterling fell to around 1.345 and the euro traded near 1.122. The Bank of England raised interest rates for the first time in more than three years; governor Andrew Bailey said the move should not be seen as the start of a prolonged tightening cycle, but further hikes might be needed if the US-Iran conflict persists. European Central Bank president Christine Lagarde said the bank would assess economic data before deciding whether to raise rates in December.",
+   "zh_hans": "美元指数最多跌约0.3%，低见101.18，再创逾5星期低位，尾市回升至101.59。美债孳息率大幅下跌，创近两个月低位，10年期债息低见4.814厘，跌近8个基点；30年期债息低见约5.23厘，两年期债息低见4.452厘。其他货币方面，澳元兑美元跌逾1%，纽约尾市报0.693，新西兰元兑美元亦跌至0.56以下；英镑兑美元跌至1.345附近，欧元兑美元贴近1.122水平。英伦银行3年多以来首次加息，央行总裁贝利表示，今次加息不应被视为开启长期加息行动，但如果美伊冲突持续，或需要进一步加息；欧洲央行总裁拉加德表示，将评估各项经济数据，以决定12月是否加息。"
+  },
+  "tags": {
+   "zh_hant": [
+    "美元指數",
+    "美債孳息率",
+    "英倫銀行"
+   ],
+   "en": [
+    "US dollar index",
+    "Treasury yields",
+    "Bank of England"
+   ],
+   "zh_hans": [
+    "美元指数",
+    "美债孳息率",
+    "英伦银行"
+   ]
+  }
+ },
+ {
+  "id": "20261106-customs-chief-contraband-tech",
+  "category": "hk",
+  "published_at": "2026-11-06T08:44:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876755-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "海關關長：用大數據＋AI＋先進X光機堵截違禁品　已與3大電商平台簽備忘錄",
+   "en": "Customs chief: big data, AI and advanced X-ray scanners to intercept contraband; pacts signed with three largest e-commerce platforms",
+   "zh_hans": "海关关长：用大数据＋AI＋先进X光机堵截违禁品　已与3大电商平台签备忘录"
+  },
+  "summary": {
+   "zh_hant": "海關關長陳子達表示，隨著網購愈來愈普及，海關已採取多層次方案防止違禁品進出香港，包括收集貨物數據、與業界合作及利用先進檢查設備，提升堵截違禁品的能力。海關今年已完成貿易單一窗口第三階段A期，陸路貨物數據可經平台向海關提供，並透過大數據分析及人工智能算法找出異常或高風險貨品檢查；海關亦利用先進X光機檢查貨櫃，並與3間最大的電商平台簽訂諒解備忘錄，預先通報高風險貨品資料。在招聘方面，陳子達說海關過去兩年流失率已大幅降低，近年各崗位招聘均有幾千至過萬人申請；海關近年亦吸納不少具運動員背景的人士加入，認為運動員的體魄、服從性及團隊精神與紀律部隊非常吻合，是雙贏安排。",
+   "en": "Commissioner of Customs and Excise Chan Tsz-tat said that as online shopping becomes more common, Customs has adopted a multi-layered approach to stop contraband entering and leaving Hong Kong, including collecting cargo data, working with industry and using advanced inspection equipment. Customs completed phase 3A of the third stage of the Trade Single Window this year, allowing land cargo data to be submitted through the platform and using big-data analysis and AI algorithms to flag abnormal or high-risk goods for inspection; it also uses advanced X-ray machines to scan containers and has signed memorandums of understanding with the three largest e-commerce platforms to share advance information on high-risk goods. On recruitment, Chan said staff attrition has fallen sharply over the past two years, with recent recruitment exercises drawing several thousand to more than ten thousand applicants per post; Customs has also recruited people with an athletic background, whose fitness, discipline and team spirit fit well with a disciplined service — a win-win arrangement.",
+   "zh_hans": "海关关长陈子达表示，随着网购愈来愈普及，海关已采取多层次方案防止违禁品进出香港，包括收集货物数据、与业界合作及利用先进检查设备，提升堵截违禁品的能力。海关今年已完成贸易单一窗口第三阶段A期，陆路货物数据可经平台向海关提供，并透过大数据分析及人工智能算法找出异常或高风险货品检查；海关亦利用先进X光机检查货柜，并与3间最大的电商平台签订谅解备忘录，预先通报高风险货品资料。在招聘方面，陈子达说海关过去两年流失率已大幅降低，近年各岗位招聘均有几千至过万人申请；海关近年亦吸纳不少具运动员背景的人士加入，认为运动员的体魄、服从性及团队精神与纪律部队非常吻合，是双赢安排。"
+  },
+  "tags": {
+   "zh_hant": [
+    "海關",
+    "違禁品",
+    "陳子達"
+   ],
+   "en": [
+    "Customs",
+    "contraband",
+    "Chan Tsz-tat"
+   ],
+   "zh_hans": [
+    "海关",
+    "违禁品",
+    "陈子达"
+   ]
+  }
+ },
+ {
   "id": "20261106-us-stocks-plunge",
   "category": "finance",
   "published_at": "2026-11-06T05:50:00+08:00",
