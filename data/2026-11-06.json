@@ -1,5 +1,449 @@
 [
  {
+  "id": "20261106-stl-gs1-summit-logistics-data",
+  "category": "hk",
+  "published_at": "2026-11-06T14:23:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/06/P2026110600367.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/06/P2026110600367_photo_1343017.jpg",
+  "title": {
+   "zh_hant": "陳美寶：港口社群系統近萬企業用緊　下一步由物流數據平台變貿易數據平台",
+   "en": "Mable Chan: Port Community System nears 10,000 corporate users; next step is turning it into a trade data platform",
+   "zh_hans": "陈美宝：港口社群系统近万企业用紧　下一步由物流数据平台变贸易数据平台"
+  },
+  "summary": {
+   "zh_hant": "運輸及物流局局長陳美寶今日在 GS1 Hong Kong Summit 2026 致開幕辭，以 DATA（數碼化、人工智能、透明度及保證）及 C-A-R 為題，介紹政府協助物流業擁抱數據浪潮的措施。她表示，今年推出的港口社群系統提供海陸空一站式、全天候、實時貨物追蹤，以及一數多報等增值服務，至今已有近一萬間企業加入；與金管局合作的 CargoX 項目，已利用港口社群系統貨物數據為信貸評估提供逾 20 個用例，目標是把系統由物流數據平台發展為貿易數據平台。為鼓勵物流中小企採用人工智能，今年 6 月推出的「未來創新物流加速計劃」至今已批核 3 個預先批核方案，全屬人工智能方案，首批中小企已受惠。至於去年 6 月公布的物流業 ESG 發展路線圖，現已進入三年路線圖的第二年，政府提供網上 ESG 資源中心、數據收集工具包及免費培訓；路線圖將於明年屆滿，現正檢討及更新。",
+   "en": "Secretary for Transport and Logistics Mable Chan delivered the opening address at the GS1 Hong Kong Summit 2026 today, using DATA (Digitalisation, AI, Transparency and Assurance) and C-A-R as her themes to set out how the government is helping the logistics industry embrace the data wave. She said the Port Community System launched this year provides one-stop, round-the-clock, real-time cargo tracking across sea, land and air, plus value-added services such as One-Data-Multiple-Declarations, and now has nearly 10,000 corporate subscribers. The CargoX project with the HKMA is already using PCS cargo data in more than 20 credit-assessment use cases, with the aim of developing PCS from a logistics data platform into a trade data platform. The Future Innovative Logistics Acceleration Scheme, launched in June to subsidise logistics SMEs adopting pre-approved innovative IT solutions, has approved three solutions so far, all AI-based, and the first SMEs have already benefited. The logistics ESG development roadmap announced in June last year is now in the second year of its three-year run, with an online ESG resource centre, a data-collection toolkit and free training; it expires next year and is under review.",
+   "zh_hans": "运输及物流局局长陈美宝今日在 GS1 Hong Kong Summit 2026 致开幕辞，以 DATA（数码化、人工智能、透明度及保证）及 C-A-R 为题，介绍政府协助物流业拥抱数据浪潮的措施。她表示，今年推出的港口社群系统提供海陆空一站式、全天候、实时货物追踪，以及一数多报等增值服务，至今已有近一万间企业加入；与金管局合作的 CargoX 项目，已利用港口社群系统货物数据为信贷评估提供逾 20 个用例，目标是把系统由物流数据平台发展为贸易数据平台。为鼓励物流中小企采用人工智能，今年 6 月推出的「未来创新物流加速计划」至今已批核 3 个预先批核方案，全属人工智能方案，首批中小企已受惠。至于去年 6 月公布的物流业 ESG 发展路线图，现已进入三年路线图的第二年，政府提供网上 ESG 资源中心、数据收集工具包及免费培训；路线图将于明年届满，现正检讨及更新。"
+  },
+  "tags": {
+   "zh_hant": [
+    "港口社群系統",
+    "陳美寶",
+    "物流"
+   ],
+   "en": [
+    "Port Community System",
+    "Mable Chan",
+    "logistics"
+   ],
+   "zh_hans": [
+    "港口社群系统",
+    "陈美宝",
+    "物流"
+   ]
+  }
+ },
+ {
+  "id": "20261106-hkex-q3-profit-down-1pct",
+  "category": "finance",
+  "published_at": "2026-11-06T12:43:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876803-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "港交所上季盈利跌1%　首3季賺154億升15%　收入創新高",
+   "en": "HKEX third-quarter profit down 1%; first-nine-months profit up 15% to HK$15.4 billion as revenue hits record",
+   "zh_hans": "港交所上季盈利跌1%　首3季赚154亿升15%　收入创新高"
+  },
+  "summary": {
+   "zh_hant": "港交所第3季盈利48.59億元，按年跌約1%，按季亦回落10%；上季收入及其他收益78.67億元，按年升1%。主要業務收入74.67億元，按年跌0.2%，主要源於上季交投量從第2季歷史高位回落，令交易及結算費減少。首3季計，港交所盈利按年增長15%至154.27億元，收入及其他收益增長12%至245.69億元，收入及溢利同創同期新高。行政總裁陳翊庭表示，今年前3季業務穩健發展，市場交投暢旺，現貨、衍生產品及大宗商品市場成交活躍；面對宏觀環境不確定性加劇及市場持續波動，會繼續致力構建更有深度、更多元的資產生態圈。",
+   "en": "HKEX's third-quarter profit fell about 1 per cent year on year to HK$4.859 billion, down 10 per cent from the second quarter, while revenue and other income rose 1 per cent to HK$7.867 billion. Core business revenue of HK$7.467 billion was down 0.2 per cent, mainly because trading volumes eased from the second quarter's record high, cutting trading and clearing fees. For the first nine months, profit rose 15 per cent to HK$15.427 billion and revenue rose 12 per cent to HK$24.569 billion, both records for the period. Chief Executive Bonnie Chan said the business performed steadily in the first three quarters with brisk trading across cash, derivatives and commodities markets, and that HKEX would keep building a deeper and more diverse asset ecosystem amid heightened macro uncertainty and market volatility.",
+   "zh_hans": "港交所第3季盈利48.59亿元，按年跌约1%，按季亦回落10%；上季收入及其他收益78.67亿元，按年升1%。主要业务收入74.67亿元，按年跌0.2%，主要源于上季交投量从第2季历史高位回落，令交易及结算费减少。首3季计，港交所盈利按年增长15%至154.27亿元，收入及其他收益增长12%至245.69亿元，收入及溢利同创同期新高。行政总裁陈翊庭表示，今年前3季业务稳健发展，市场交投畅旺，现货、衍生产品及大宗商品市场成交活跃；面对宏观环境不确定性加剧及市场持续波动，会继续致力构建更有深度、更多元的资产生态圈。"
+  },
+  "tags": {
+   "zh_hant": [
+    "港交所",
+    "業績",
+    "陳翊庭"
+   ],
+   "en": [
+    "HKEX",
+    "results",
+    "Bonnie Chan"
+   ],
+   "zh_hans": [
+    "港交所",
+    "业绩",
+    "陈翊庭"
+   ]
+  }
+ },
+ {
+  "id": "20261106-pla-air-force-77th-great-wall-flyover",
+  "category": "china",
+  "published_at": "2026-11-06T12:52:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876805-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "八一飛行表演隊飛越長城　慶祝空軍成立77周年　再越世界地標",
+   "en": "Bayi aerobatic team flies over the Great Wall to mark 77th anniversary of PLA Air Force",
+   "zh_hans": "八一飞行表演队飞越长城　庆祝空军成立77周年　再越世界地标"
+  },
+  "summary": {
+   "zh_hant": "解放軍空軍八一飛行表演隊六架殲-10表演機，早上以密集編隊低空山谷飛行方式，飛越天津黃崖關長城，慶祝空軍成立77周年，是表演隊繼2024年飛越埃及金字塔後，再次飛越世界地標性建築。六機編隊以極限間距保持密集隊形，進行低空通場飛行，表演機拉出紅、黃、藍三色彩煙。表演隊隊長李斌表示，長城是中華民族的精神圖騰，飛越這些世界地標性建築，展示的是戰略空軍開放自信的形象；隨著空軍現代化建設持續推進，表演隊的航跡將向更遠的地方延伸。",
+   "en": "Six J-10 jets of the PLA Air Force's Bayi aerobatic team flew in tight formation at low altitude through a mountain valley over the Huangyaguan section of the Great Wall in Tianjin this morning to mark the 77th anniversary of the Air Force, the team's second flypast of a world landmark after the Pyramids of Egypt in 2024. The six aircraft held an extreme close formation for a low pass, trailing red, yellow and blue smoke. Team leader Li Bin said the Great Wall is a spiritual symbol of the Chinese nation and that flying over such landmarks shows the strategic Air Force's open and confident image, adding that the team's flight path will extend further as the Air Force's modernisation continues.",
+   "zh_hans": "解放军空军八一飞行表演队六架歼-10表演机，早上以密集编队低空山谷飞行方式，飞越天津黄崖关长城，庆祝空军成立77周年，是表演队继2024年飞越埃及金字塔后，再次飞越世界地标性建筑。六机编队以极限间距保持密集队形，进行低空通场飞行，表演机拉出红、黄、蓝三色彩烟。表演队队长李斌表示，长城是中华民族的精神图腾，飞越这些世界地标性建筑，展示的是战略空军开放自信的形象；随着空军现代化建设持续推进，表演队的航迹将向更远的地方延伸。"
+  },
+  "tags": {
+   "zh_hant": [
+    "八一飛行表演隊",
+    "空軍",
+    "長城"
+   ],
+   "en": [
+    "Bayi aerobatic team",
+    "PLA Air Force",
+    "Great Wall"
+   ],
+   "zh_hans": [
+    "八一飞行表演队",
+    "空军",
+    "长城"
+   ]
+  }
+ },
+ {
+  "id": "20261106-japan-protests-russia-japan-tobacco-assets",
+  "category": "world",
+  "published_at": "2026-11-06T12:58:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876806-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "俄羅斯臨時接管日本煙草在俄資產　日方抗議要求撤銷決定",
+   "en": "Russia temporarily seizes Japan Tobacco's assets in Russia; Tokyo protests and demands reversal",
+   "zh_hans": "俄罗斯临时接管日本烟草在俄资产　日方抗议要求撤销决定"
+  },
+  "summary": {
+   "zh_hant": "日本與俄羅斯的關係未見緩和跡象。俄羅斯總統普京簽署總統令，臨時接管日本煙草公司在俄資產；根據總統令，日本煙草公司在俄境內生產業務所涉及的股權已被俄方臨時接管。日本外務省歐洲局局長中村仁威向俄羅斯駐日本大使諾茲德廖夫提出抗議，要求俄方撤銷有關決定。日本煙草公司表示，正審慎評估當前形勢及今後可能採取的應對措施。日本煙草公司旗下日本煙草國際公司自1999年起在俄羅斯展開業務，目前在俄擁有四個生產基地，2025年在俄羅斯煙草市場的佔有率約為三成七。",
+   "en": "Relations between Japan and Russia show no sign of thawing, after Russian President Vladimir Putin signed a decree temporarily seizing Japan Tobacco's assets in Russia, covering the equity in its production business in the country. The director-general of the Japanese Foreign Ministry's European Affairs Bureau lodged a protest with the Russian ambassador to Japan, demanding the decision be reversed. Japan Tobacco said it is carefully assessing the situation and possible responses. Its subsidiary Japan Tobacco International has operated in Russia since 1999, with four production bases and a market share of about 37 per cent in 2025.",
+   "zh_hans": "日本与俄罗斯的关系未见缓和迹象。俄罗斯总统普京签署总统令，临时接管日本烟草公司在俄资产；根据总统令，日本烟草公司在俄境内生产业务所涉及的股权已被俄方临时接管。日本外务省欧洲局局长中村仁威向俄罗斯驻日本大使诺兹德廖夫提出抗议，要求俄方撤销有关决定。日本烟草公司表示，正审慎评估当前形势及今后可能采取的应对措施。日本烟草公司旗下日本烟草国际公司自1999年起在俄罗斯展开业务，目前在俄拥有四个生产基地，2025年在俄罗斯烟草市场的占有率约为三成七。"
+  },
+  "tags": {
+   "zh_hant": [
+    "日本煙草",
+    "俄羅斯",
+    "普京"
+   ],
+   "en": [
+    "Japan Tobacco",
+    "Russia",
+    "Putin"
+   ],
+   "zh_hans": [
+    "日本烟草",
+    "俄罗斯",
+    "普京"
+   ]
+  }
+ },
+ {
+  "id": "20261106-hsi-afternoon-down-313",
+  "category": "finance",
+  "published_at": "2026-11-06T13:22:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876807-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "港股午後跌勢未止　恒指跌313點　科指挫近2%",
+   "en": "Hong Kong stocks stay lower in the afternoon; Hang Seng down 313 points, tech index off nearly 2%",
+   "zh_hans": "港股午後跌势未止　恒指跌313点　科指挫近2%"
+  },
+  "summary": {
+   "zh_hant": "港股下午繼續向下。恒生指數較早時報24483點，跌313點，跌幅1.26%；科技指數報4073點，跌80點，跌幅1.94%。",
+   "en": "Hong Kong stocks continued to fall in the afternoon. The Hang Seng Index was at 24,483, down 313 points or 1.26 per cent, while the Hang Seng Tech Index stood at 4,073, down 80 points or 1.94 per cent.",
+   "zh_hans": "港股下午继续向下。恒生指数较早时报24483点，跌313点，跌幅1.26%；科技指数报4073点，跌80点，跌幅1.94%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "恒生指數",
+    "港股",
+    "科技指數"
+   ],
+   "en": [
+    "Hang Seng Index",
+    "Hong Kong stocks",
+    "Hang Seng Tech Index"
+   ],
+   "zh_hans": [
+    "恒生指数",
+    "港股",
+    "科技指数"
+   ]
+  }
+ },
+ {
+  "id": "20261106-land-search-ho-legco",
+  "category": "hk",
+  "published_at": "2026-11-06T13:37:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876810-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "查冊新制惹爭議　何珮玲：現行查冊無限制引伸私隱問題　記者可用公眾利益查冊",
+   "en": "Land search reform sparks debate; Ho Pui-ling says unrestricted searches raise privacy concerns, journalists can use public-interest route",
+   "zh_hans": "查册新制惹争议　何珮玲：现行查册无限制引伸私隐问题　记者可用公众利益查册"
+  },
+  "summary": {
+   "zh_hant": "政府上月公布8條有關業權註冊制度的附屬法例，查冊須符合指定目的，並有9項指定目的。在立法會相關委員會會議上，發展局常任秘書長何珮玲表示，現行制度下查冊沒有限制，從而引伸出私隱問題，因此有需要調整相關制度。她表示，首8項指定目的與以往的傳統查冊功能有關，但機制仍要留有空間；記者進行偵查報道未能符合首8項指定目的，仍可選擇第9項指定目的，即為符合公眾利益而查冊。當局計劃要求以公眾利益申請查冊的人提交聲明書，說明如何符合公眾利益。她明白申請門檻不能太高，又說雖然沒有設上訴機制，但查冊申請被拒後，申請人可以再提交以往沒有提交過的理據，供當局再考慮。土地註冊處處長陸嘉健表示，申請人需要解釋如何保證相關資料不會被濫用；一般傳媒機構都會有守則確保資料不會被濫用，個人申請人則會被進一步要求說明。",
+   "en": "The government last month published eight pieces of subsidiary legislation on the title registration system requiring land searches to be for a specified purpose, with nine specified purposes in total. At a Legislative Council committee meeting, Permanent Secretary for Development Ho Pui-ling said the current system places no restriction on searches, raising privacy concerns, so the system needs to be adjusted. She said the first eight specified purposes cover traditional search functions, but the mechanism must leave room: journalists conducting investigative reporting who do not meet the first eight purposes can use the ninth, public-interest, purpose, and the government plans to require such applicants to submit a declaration explaining how the search serves the public interest. She acknowledged the application threshold cannot be too high and said that although there is no appeal mechanism, a rejected applicant can submit new grounds for reconsideration. Land Registrar Luk Ka-kin said applicants must explain how they will ensure the information is not misused, adding that media organisations generally have codes to prevent misuse, while individual applicants will be asked for further explanation.",
+   "zh_hans": "政府上月公布8条有关业权注册制度的附属法例，查册须符合指定目的，并有9项指定目的。在立法会相关委员会会议上，发展局常任秘书长何珮玲表示，现行制度下查册没有限制，从而引伸出私隐问题，因此有需要调整相关制度。她表示，首8项指定目的与以往的传统查册功能有关，但机制仍要留有空间；记者进行侦查报道未能符合首8项指定目的，仍可选择第9项指定目的，即为符合公众利益而查册。当局计划要求以公众利益申请查册的人提交声明书，说明如何符合公众利益。她明白申请门槛不能太高，又说虽然没有设上诉机制，但查册申请被拒后，申请人可以再提交以往没有提交过的理据，供当局再考虑。土地注册处处长陆嘉健表示，申请人需要解释如何保证相关资料不会被滥用；一般传媒机构都会有守则确保资料不会被滥用，个人申请人则会被进一步要求说明。"
+  },
+  "tags": {
+   "zh_hant": [
+    "土地查冊",
+    "何珮玲",
+    "私隱"
+   ],
+   "en": [
+    "land search",
+    "Ho Pui-ling",
+    "privacy"
+   ],
+   "zh_hans": [
+    "土地查册",
+    "何珮玲",
+    "隐私"
+   ]
+  }
+ },
+ {
+  "id": "20261106-mtr-airport-tung-chung-fault-resolved",
+  "category": "hk",
+  "published_at": "2026-11-06T14:11:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876817-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "機場快綫東涌綫信號故障　列車一度受阻　事故已處理班次逐步恢復",
+   "en": "Signalling fault disrupts Airport Express and Tung Chung line; services gradually returning to normal",
+   "zh_hans": "机场快线东涌线信号故障　列车一度受阻　事故已处理班次逐步恢复"
+  },
+  "summary": {
+   "zh_hant": "運輸署表示，接獲港鐵通知，由於小蠔灣車廠附近信號設備故障，機場快綫及東涌綫列車服務受影響。其後事故已經妥善處理，列車班次會逐步回復正常。",
+   "en": "The Transport Department said it was notified by the MTR that a signalling equipment fault near the Siu Ho Wan depot had disrupted Airport Express and Tung Chung line services. The incident has since been handled and train frequencies are gradually returning to normal.",
+   "zh_hans": "运输署表示，接获港铁通知，由于小蚝湾车厂附近信号设备故障，机场快线及东涌线列车服务受影响。其后事故已经妥善处理，列车班次会逐步回复正常。"
+  },
+  "tags": {
+   "zh_hant": [
+    "港鐵",
+    "機場快綫",
+    "東涌綫"
+   ],
+   "en": [
+    "MTR",
+    "Airport Express",
+    "Tung Chung line"
+   ],
+   "zh_hans": [
+    "港铁",
+    "机场快线",
+    "东涌线"
+   ]
+  }
+ },
+ {
+  "id": "20261106-paul-chan-biotech-second",
+  "category": "hk",
+  "published_at": "2026-11-06T13:47:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876812-20261106.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/06/P2026110600251_photo_1343014.jpg",
+  "title": {
+   "zh_hant": "陳茂波：香港已成全球第二大生物科技集資中心　「十五五」撐生物醫藥",
+   "en": "Paul Chan: Hong Kong is now the world's second-largest biotech fundraising hub; 15th Five-Year Plan backs biomedicine",
+   "zh_hans": "陈茂波：香港已成全球第二大生物科技集资中心　「十五五」撑生物医药"
+  },
+  "summary": {
+   "zh_hant": "財政司司長陳茂波表示，國家「十五五」規劃將生物醫藥列為新興支柱產業，並將生物製造及腦機接口列為未來產業發展方向，香港亦優先支持相關產業。他說，透過公私營合作及耐心資本帶動私人投資，目的不只是增加研發開支，而是讓具潛力科研有時間證明成效，並將資源投向有效方向。陳茂波在國際生物計算創新峰會致辭表示，自2018年容許未有收入生物科技企業上市的改革以來，香港已成為全球第二大生物科技集資中心。他說，香港將為研究人員提供臨床試驗基建、專業人才及監管框架，主要工作包括籌建香港藥物及醫療器械監督管理中心，建立獨立評估能力；在河套促進數據及生物樣本跨境流動；以及籌建生命健康科技研究院，與科技大學推進第三所醫學院建設。",
+   "en": "Financial Secretary Paul Chan said the national 15th Five-Year Plan designates biomedicine as an emerging pillar industry and biomanufacturing and brain-computer interfaces as future industries, and Hong Kong will prioritise supporting them. Through public-private partnerships and patient capital, he said, the aim is not only to increase research spending but to give promising research time to prove itself and direct resources where they work. Speaking at the International Bio-Computing Innovation Summit, Chan said Hong Kong has become the world's second-largest biotech fundraising centre since the 2018 reform allowing pre-revenue biotech firms to list. Hong Kong will provide clinical trial infrastructure, talent and a regulatory framework, including a new centre for drug and medical device regulation with independent assessment capability, cross-boundary flows of data and biosamples at Hetao, and a life and health technology research institute, as well as working with HKUST on a third medical school.",
+   "zh_hans": "财政司司长陈茂波表示，国家「十五五」规划将生物医药列为新兴支柱产业，并将生物制造及脑机接口列为未来产业发展方向，香港亦优先支持相关产业。他说，透过公私营合作及耐心资本带动私人投资，目的不只是增加研发开支，而是让具潜力科研有时间证明成效，并将资源投向有效方向。陈茂波在国际生物计算创新峰会致辞表示，自2018年容许未有收入生物科技企业上市的改革以来，香港已成为全球第二大生物科技集资中心。他说，香港将为研究人员提供临床试验基建、专业人才及监管框架，主要工作包括筹建香港药物及医疗器械监督管理中心，建立独立评估能力；在河套促进数据及生物样本跨境流动；以及筹建生命健康科技研究院，与科技大学推进第三所医学院建设。"
+  },
+  "tags": {
+   "zh_hant": [
+    "陳茂波",
+    "生物科技",
+    "十五五"
+   ],
+   "en": [
+    "Paul Chan",
+    "biotech",
+    "15th Five-Year Plan"
+   ],
+   "zh_hans": [
+    "陈茂波",
+    "生物科技",
+    "十五五"
+   ]
+  }
+ },
+ {
+  "id": "20261106-taiwan-stocks-close-down-4-5",
+  "category": "finance",
+  "published_at": "2026-11-06T14:12:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876815-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "台股收市跌4.5%　曾瀉逾3700點　本周累跌逾12%",
+   "en": "Taiwan stocks close 4.5% lower after plunging more than 3,700 points intraday; down over 12% for the week",
+   "zh_hans": "台股收市跌4.5%　曾泻逾3700点　本周累跌逾12%"
+  },
+  "summary": {
+   "zh_hant": "台灣股市顯著下跌，收市跌幅收窄。加權指數收市報39701點，跌1873點，跌幅4.5%；指數曾跌逾3700點。台股本周累計下跌逾12%。",
+   "en": "Taiwan stocks fell sharply, narrowing their losses by the close. The weighted index closed at 39,701, down 1,873 points or 4.5 per cent, after falling more than 3,700 points at its low. The market is down more than 12 per cent for the week.",
+   "zh_hans": "台湾股市显著下跌，收市跌幅收窄。加权指数收市报39701点，跌1873点，跌幅4.5%；指数曾跌逾3700点。台股本周累计下跌逾12%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "台股",
+    "加權指數",
+    "台灣股市"
+   ],
+   "en": [
+    "Taiwan stocks",
+    "weighted index",
+    "Taiwan market"
+   ],
+   "zh_hans": [
+    "台股",
+    "加权指数",
+    "台湾股市"
+   ]
+  }
+ },
+ {
+  "id": "20261106-peru-scholar-china-market-apec",
+  "category": "world",
+  "published_at": "2026-11-06T14:18:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876813-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "秘魯學者：中國市場持續開放　為南美經濟體帶來新機遇",
+   "en": "Peruvian scholar: China's continued opening brings new opportunities for South American economies",
+   "zh_hans": "秘鲁学者：中国市场持续开放　为南美经济体带来新机遇"
+  },
+  "summary": {
+   "zh_hant": "亞太經合組織第33次領導人非正式會議將於月中在深圳舉行。有秘魯學者接受深圳廣電直新聞專訪時說，持續開放的中國市場，為秘魯等南美經濟體帶來新機遇。",
+   "en": "The 33rd APEC Economic Leaders' Meeting will be held in Shenzhen later this month. A Peruvian scholar told Shenzhen Media Group's Direct News in an interview that China's continuously opening market brings new opportunities for South American economies such as Peru.",
+   "zh_hans": "亚太经合组织第33次领导人非正式会议将于月中在深圳举行。有秘鲁学者接受深圳广电直新闻专访时说，持续开放的中国市场，为秘鲁等南美经济体带来新机遇。"
+  },
+  "tags": {
+   "zh_hant": [
+    "APEC",
+    "秘魯",
+    "中國市場"
+   ],
+   "en": [
+    "APEC",
+    "Peru",
+    "China market"
+   ],
+   "zh_hans": [
+    "APEC",
+    "秘鲁",
+    "中国市场"
+   ]
+  }
+ },
+ {
+  "id": "20261106-trump-iran-further-strikes-decision",
+  "category": "world",
+  "published_at": "2026-11-06T14:24:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876818-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "特朗普：將決定是否再打伊朗　三方案在枱面　美軍中東或變三航母",
+   "en": "Trump says he will decide whether to strike Iran again; three options on the table as US builds toward three carriers in the Middle East",
+   "zh_hans": "特朗普：将决定是否再打伊朗　三方案在枱面　美军中东或变三航母"
+  },
+  "summary": {
+   "zh_hant": "美國總統特朗普表示，美方將會決定是否對伊朗採取進一步的打擊行動，確保徹底終結伊朗的核計劃。阿克西奧斯新聞網站報道，特朗普星期四與國家安全顧問會晤，是中期選舉後首次；特朗普正考慮三種方案，包括發動新一輪打擊、繼續經濟施壓，或達成一項包含對重大讓步的協議。報道引述美方官員說，美軍中央司令部正作最後準備，以便在必要時恢復對伊朗大規模作戰行動。美國傳媒早前報道，海軍「羅斯福」號航母打擊群預計本月下旬部署至中東，屆時美軍在中東可能形成三航母配置。",
+   "en": "US President Donald Trump said the United States will decide whether to take further military action against Iran to ensure Iran's nuclear programme is completely ended. Axios reported that Trump met his national security advisers on Thursday, the first such meeting since the midterm elections, and is considering three options: a new round of strikes, continued economic pressure, or a deal involving major concessions. US officials told the outlet that US Central Command is making final preparations to resume large-scale operations against Iran if necessary. US media reported earlier that the USS Theodore Roosevelt carrier strike group is expected to deploy to the Middle East late this month, which could give the US a three-carrier presence there.",
+   "zh_hans": "美国总统特朗普表示，美方将会决定是否对伊朗采取进一步的打击行动，确保彻底终结伊朗的核计划。阿克西奥斯新闻网站报道，特朗普星期四与国家安全顾问会晤，是中期选举后首次；特朗普正考虑三种方案，包括发动新一轮打击、继续经济施压，或达成一项包含对重大让步的协议。报道引述美方官员说，美军中央司令部正作最后准备，以便在必要时恢复对伊朗大规模作战行动。美国传媒早前报道，海军「罗斯福」号航母打击群预计本月下旬部署至中东，届时美军在中东可能形成三航母配置。"
+  },
+  "tags": {
+   "zh_hant": [
+    "特朗普",
+    "伊朗",
+    "核計劃"
+   ],
+   "en": [
+    "Trump",
+    "Iran",
+    "nuclear programme"
+   ],
+   "zh_hans": [
+    "特朗普",
+    "伊朗",
+    "核计划"
+   ]
+  }
+ },
+ {
+  "id": "20261106-lee-mainland-bonds-returns",
+  "category": "finance",
+  "published_at": "2026-11-06T14:36:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876819-20261106.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "李達志：內地國債回報不錯　去年賺約7%　未來繼續審慎分散投資",
+   "en": "Howard Lee: mainland government bond returns have been good, about 7% last year; Exchange Fund will keep diversifying cautiously",
+   "zh_hans": "李达志：内地国债回报不错　去年赚约7%　未来继续审慎分散投资"
+  },
+  "summary": {
+   "zh_hant": "在立法會財經事務委員會會議上，有議員關注近期歐美國債收益率急升，內地國債收益率則保持平穩，外匯基金會否調整債券資產配置。金管局副總裁李達志表示，過去幾年參與的內地國債投資表現不錯，雖然孳息率持續下降，但債券價值上升，匯兌方面亦錄得收益；去年內地的國債投資回報率達到約7%左右，形容是相當好的投資，未來會繼續審慎地分布投資。他說，外匯基金早期投資人民幣，看中中國市場與其他海外市場的聯繫度較低，強調會確保不同資產在不同經濟周期都能獲得一定保障。李達志又指，目前市場預期美國聯儲局今年會再加息一次，但市場情緒轉變可以非常快，當局會繼續視乎當地經濟、通脹及數據變化調整貨幣政策；作為大型機構投資者，不能簡單「賭大細」，亦不能每天頻繁進出市場。他承認分散投資的難度越來越高，因為環球股票投資配置高度集中在美股，甚至聚焦市值最大的股票。",
+   "en": "At a Legislative Council finance panel meeting, lawmakers asked whether the Exchange Fund would adjust its bond allocation after US and European government bond yields surged while mainland yields stayed stable. HKMA Deputy Chief Executive Howard Lee said the Fund's mainland government bond investments have performed well in recent years: although yields have kept falling, bond values have risen and foreign-exchange gains were recorded, with returns of about 7 per cent last year — a very good investment — and the Fund will continue to diversify cautiously. He said the Fund's early renminbi investments were driven by the Chinese market's low correlation with other overseas markets, stressing that different assets must be protected across different economic cycles. Lee added that markets currently expect the US Federal Reserve to raise rates once more this year, but sentiment can change very fast, and policy will be adjusted in line with US economic, inflation and data developments; as a large institutional investor, the Fund cannot simply gamble or trade in and out daily. He acknowledged diversification is getting harder as global equity allocations are heavily concentrated in US stocks, even in the largest-cap names.",
+   "zh_hans": "在立法会财经事务委员会会议上，有议员关注近期欧美国债收益率急升，内地国债收益率则保持平稳，外汇基金会否调整债券资产配置。金管局副总裁李达志表示，过去几年参与的内地国债投资表现不错，虽然孳息率持续下降，但债券价值上升，汇兑方面亦录得收益；去年内地的国债投资回报率达到约7%左右，形容是相当好的投资，未来会继续审慎地分布投资。他说，外汇基金早期投资人民币，看中中国市场与其他海外市场的联系度较低，强调会确保不同资产在不同经济周期都能获得一定保障。李达志又指，目前市场预期美国联储局今年会再加息一次，但市场情绪转变可以非常快，当局会继续视乎当地经济、通胀及数据变化调整货币政策；作为大型机构投资者，不能简单「赌大细」，亦不能每天频繁进出市场。他承认分散投资的难度越来越高，因为环球股票投资配置高度集中在美股，甚至聚焦市值最大的股票。"
+  },
+  "tags": {
+   "zh_hant": [
+    "金管局",
+    "李達志",
+    "外匯基金"
+   ],
+   "en": [
+    "HKMA",
+    "Howard Lee",
+    "Exchange Fund"
+   ],
+   "zh_hans": [
+    "金管局",
+    "李达志",
+    "外汇基金"
+   ]
+  }
+ },
+ {
   "id": "20261106-police-memorial-day",
   "category": "hk",
   "published_at": "2026-11-06T12:25:00+08:00",
