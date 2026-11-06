@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>中港新聞速報</title><link>https://hkcn-news.vercel.app/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Sat, 07 Nov 2026 00:49:54 +0800</lastBuildDate>
+<title>中港新聞速報</title><link>https://hkcn-news.vercel.app/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Sat, 07 Nov 2026 02:46:22 +0800</lastBuildDate>
+<item>
+<title>比利時國王拒收首相辭呈　勒令即刻重開預算談判　五黨聯盟僵局待解</title>
+<link>https://hkcn-news.vercel.app/a/20261107-belgium-king-rejects-pm-resignation.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261107-belgium-king-rejects-pm-resignation.html</guid>
+<pubDate>Sat, 07 Nov 2026 02:25:00 +0800</pubDate>
+<description>比利時國王菲利普拒絕接受首相德韋弗的辭呈，並要求他立即恢復預算談判。德韋弗領導的五黨聯合政府連月來就2027年聯邦預算及到2029年實現約100億歐元財政調整目標進行談判，但各黨分歧明顯，未能達成協議，德韋弗星期一因談判失敗向國王遞交辭呈。王宮表示，菲利普當地星期五接見德韋弗，指出與執政聯盟五個政黨的主席會面後，各方均承諾願意讓步，以促成協議。菲利普強調，必須在維護社會凝聚力與促進經濟增長之間保持良好平衡。德韋弗將於本月16日再向國王匯報進展，他日前表示，希望達成一項能夠確保未來幾年財政穩定的預算協議。</description>
+</item>
 <item>
 <title>立法會強烈譴責外部勢力抹黑黃之鋒案判刑　斥雙重標準　要求放人先係破壞法治</title>
 <link>https://hkcn-news.vercel.app/a/20261107-legco-condemns-smearing-wong-sentencing.html</link>
@@ -344,13 +351,6 @@
 <guid>https://hkcn-news.vercel.app/a/20261106-mtr-airport-tung-chung-fault-resolved.html</guid>
 <pubDate>Fri, 06 Nov 2026 14:11:00 +0800</pubDate>
 <description>運輸署表示，接獲港鐵通知，由於小蠔灣車廠附近信號設備故障，機場快綫及東涌綫列車服務受影響。其後事故已經妥善處理，列車班次會逐步回復正常。</description>
-</item>
-<item>
-<title>陳茂波：香港已成全球第二大生物科技集資中心　「十五五」撐生物醫藥</title>
-<link>https://hkcn-news.vercel.app/a/20261106-paul-chan-biotech-second.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261106-paul-chan-biotech-second.html</guid>
-<pubDate>Fri, 06 Nov 2026 13:47:00 +0800</pubDate>
-<description>財政司司長陳茂波表示，國家「十五五」規劃將生物醫藥列為新興支柱產業，並將生物製造及腦機接口列為未來產業發展方向，香港亦優先支持相關產業。他說，透過公私營合作及耐心資本帶動私人投資，目的不只是增加研發開支，而是讓具潛力科研有時間證明成效，並將資源投向有效方向。陳茂波在國際生物計算創新峰會致辭表示，自2018年容許未有收入生物科技企業上市的改革以來，香港已成為全球第二大生物科技集資中心。他說，香港將為研究人員提供臨床試驗基建、專業人才及監管框架，主要工作包括籌建香港藥物及醫療器械監督管理中心，建立獨立評估能力；在河套促進數據及生物樣本跨境流動；以及籌建生命健康科技研究院，與科技大學推進第三所醫學院</description>
 </item>
 </channel>
 </rss>

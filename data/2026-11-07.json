@@ -1,5 +1,42 @@
 [
  {
+  "id": "20261107-belgium-king-rejects-pm-resignation",
+  "category": "world",
+  "published_at": "2026-11-07T02:25:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876883-20261107.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "比利時國王拒收首相辭呈　勒令即刻重開預算談判　五黨聯盟僵局待解",
+   "en": "Belgium's King Philippe refuses prime minister's resignation and orders budget talks to resume immediately",
+   "zh_hans": "比利时国王拒收首相辞呈　勒令即刻重开预算谈判　五党联盟僵局待解"
+  },
+  "summary": {
+   "zh_hant": "比利時國王菲利普拒絕接受首相德韋弗的辭呈，並要求他立即恢復預算談判。德韋弗領導的五黨聯合政府連月來就2027年聯邦預算及到2029年實現約100億歐元財政調整目標進行談判，但各黨分歧明顯，未能達成協議，德韋弗星期一因談判失敗向國王遞交辭呈。王宮表示，菲利普當地星期五接見德韋弗，指出與執政聯盟五個政黨的主席會面後，各方均承諾願意讓步，以促成協議。菲利普強調，必須在維護社會凝聚力與促進經濟增長之間保持良好平衡。德韋弗將於本月16日再向國王匯報進展，他日前表示，希望達成一項能夠確保未來幾年財政穩定的預算協議。",
+   "en": "Belgium's King Philippe has refused to accept Prime Minister Bart De Wever's resignation and asked him to resume budget negotiations immediately. De Wever's five-party coalition government has spent months negotiating the 2027 federal budget and a fiscal adjustment of about 10 billion euros by 2029, but the parties remain sharply divided and no agreement has been reached; De Wever submitted his resignation to the King on Monday after the talks failed. The palace said Philippe met De Wever on Friday and, having met the chairs of the five coalition parties, found all sides had promised to make concessions to reach a deal within the coalition. Philippe stressed the need to strike a good balance between preserving social cohesion and promoting economic growth. De Wever will report back to the King on November 16; he has said he hopes to reach a budget agreement that will ensure fiscal stability in the coming years.",
+   "zh_hans": "比利时国王菲利普拒绝接受首相德韦弗的辞呈，并要求他立即恢复预算谈判。德韦弗领导的五党联合政府连月来就2027年联邦预算及到2029年实现约100亿欧元财政调整目标进行谈判，但各党分歧明显，未能达成协议，德韦弗星期一因谈判失败向国王递交辞呈。王宫表示，菲利普当地星期五接见德韦弗，指出与执政联盟五个政党的主席会面后，各方均承诺愿意让步，以促成协议。菲利普强调，必须在维护社会凝聚力与促进经济增长之间保持良好平衡。德韦弗将于本月16日再向国王汇报进展，他日前表示，希望达成一项能够确保未来几年财政稳定的预算协议。"
+  },
+  "tags": {
+   "zh_hant": [
+    "比利時",
+    "德韋弗",
+    "預算談判"
+   ],
+   "en": [
+    "Belgium",
+    "Bart De Wever",
+    "budget talks"
+   ],
+   "zh_hans": [
+    "比利时",
+    "德韦弗",
+    "预算谈判"
+   ]
+  }
+ },
+ {
   "id": "20261107-yuen-long-no3-alarm-fire",
   "category": "hk",
   "published_at": "2026-11-07T00:25:00+08:00",
