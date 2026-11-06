@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>中港新聞速報</title><link>https://hkcn-news.vercel.app/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Sat, 07 Nov 2026 02:46:22 +0800</lastBuildDate>
+<title>中港新聞速報</title><link>https://hkcn-news.vercel.app/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Sat, 07 Nov 2026 04:44:32 +0800</lastBuildDate>
+<item>
+<title>也門市場遇襲至少28死　胡塞指沙特空襲　也門政府反指胡塞導彈失手</title>
+<link>https://hkcn-news.vercel.app/a/20261107-houthi-yemen-market-attack.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261107-houthi-yemen-market-attack.html</guid>
+<pubDate>Sat, 07 Nov 2026 04:10:00 +0800</pubDate>
+<description>也門西南部塔伊茲省一個市場星期五遇襲，至少28名平民死亡、數十人受傷。塔伊茲省地方政府發表聲明，強烈譴責襲擊，指責胡塞武裝應為事件負責；官員表示，遇襲市場位於瓦齊耶地區，事發時有數百人在市場內。胡塞武裝控制的電視台早前報道，市場遭沙特阿拉伯戰機三度空襲；也門政府控制的通訊社則報道，當日沒有戰機空襲有關市場所在的地區，反指胡塞武裝發動彈道導彈襲擊失敗導致事件。胡塞武裝近期與沙特互襲的力度增強，同時與沙特支持的也門政府軍在多條戰線的交火亦日趨激烈。</description>
+</item>
+<item>
+<title>土耳其西部連環槍擊8死　28歲疑犯落網　據報為收割機債務糾紛</title>
+<link>https://hkcn-news.vercel.app/a/20261107-turkey-mass-shooting-suspect-arrested.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261107-turkey-mass-shooting-suspect-arrested.html</guid>
+<pubDate>Sat, 07 Nov 2026 03:29:00 +0800</pubDate>
+<description>土耳其西部阿菲永卡拉希薩爾省連環槍擊案疑犯已經落網。事發在當地星期四傍晚，一名襲擊者持槍在伊赫桑尼耶區三個村莊槍殺八人後逃去，當局其後在附近的埃斯基謝希爾省抓獲一名疑犯。當地傳媒報道，疑犯是28歲收割機操作員，犯案動機源於財務糾紛，他曾向其中一名受害者借錢購買聯合收割機，雙方其後因收割機被燒毀及其他債務問題發生糾紛。疑犯供稱當日與賣家及其同伴碰面後，將他們帶至一處偏遠鄉村開槍射殺，逃走期間又企圖劫持車輛及襲擊多人，包括兩名女教師。</description>
+</item>
 <item>
 <title>比利時國王拒收首相辭呈　勒令即刻重開預算談判　五黨聯盟僵局待解</title>
 <link>https://hkcn-news.vercel.app/a/20261107-belgium-king-rejects-pm-resignation.html</link>
@@ -337,20 +351,6 @@
 <guid>https://hkcn-news.vercel.app/a/20261106-peru-scholar-china-market-apec.html</guid>
 <pubDate>Fri, 06 Nov 2026 14:18:00 +0800</pubDate>
 <description>亞太經合組織第33次領導人非正式會議將於月中在深圳舉行。有秘魯學者接受深圳廣電直新聞專訪時說，持續開放的中國市場，為秘魯等南美經濟體帶來新機遇。</description>
-</item>
-<item>
-<title>台股收市跌4.5%　曾瀉逾3700點　本周累跌逾12%</title>
-<link>https://hkcn-news.vercel.app/a/20261106-taiwan-stocks-close-down-4-5.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261106-taiwan-stocks-close-down-4-5.html</guid>
-<pubDate>Fri, 06 Nov 2026 14:12:00 +0800</pubDate>
-<description>台灣股市顯著下跌，收市跌幅收窄。加權指數收市報39701點，跌1873點，跌幅4.5%；指數曾跌逾3700點。台股本周累計下跌逾12%。</description>
-</item>
-<item>
-<title>機場快綫東涌綫信號故障　列車一度受阻　事故已處理班次逐步恢復</title>
-<link>https://hkcn-news.vercel.app/a/20261106-mtr-airport-tung-chung-fault-resolved.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261106-mtr-airport-tung-chung-fault-resolved.html</guid>
-<pubDate>Fri, 06 Nov 2026 14:11:00 +0800</pubDate>
-<description>運輸署表示，接獲港鐵通知，由於小蠔灣車廠附近信號設備故障，機場快綫及東涌綫列車服務受影響。其後事故已經妥善處理，列車班次會逐步回復正常。</description>
 </item>
 </channel>
 </rss>
