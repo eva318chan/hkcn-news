@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>中港新聞速報</title><link>https://hkcn-news.vercel.app/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Sat, 07 Nov 2026 22:45:31 +0800</lastBuildDate>
+<title>中港新聞速報</title><link>https://hkcn-news.vercel.app/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Sun, 08 Nov 2026 00:50:32 +0800</lastBuildDate>
+<item>
+<title>日本靜岡縣西部發生5.7級地震　東京有震感</title>
+<link>https://hkcn-news.vercel.app/a/20261108-japan-shizuoka-earthquake-57.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261108-japan-shizuoka-earthquake-57.html</guid>
+<pubDate>Sun, 08 Nov 2026 00:32:00 +0800</pubDate>
+<description>日本靜岡縣西部凌晨發生5.7級地震，東京亦有震感。日本氣象廳表示，地震在當地星期日凌晨1時04分發生，震央位於北緯34.9度、東經137.7度，震源深度約40公里。氣象廳說，無需擔心今次地震引發海嘯。</description>
+</item>
+<item>
+<title>屋宇署：東涌西站約30條混凝土柱施工欠妥　不構成結構危險</title>
+<link>https://hkcn-news.vercel.app/a/20261108-bd-tung-chung-west-pillars-30.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261108-bd-tung-chung-west-pillars-30.html</guid>
+<pubDate>Sun, 08 Nov 2026 00:18:00 +0800</pubDate>
+<description>屋宇署表示，港鐵東涌西站月台層部分混凝土柱施工欠妥，截至上星期五，註冊結構工程師在所有板模拆除後共發現約30條混凝土柱出現有關情況，署方已要求對方在本月中提交調查報告及建議補救措施。署方人員上月27日例行視察時已發現兩條混凝土柱欠妥，當場要求全面調查及盡快糾正，港鐵亦已指令暫停相關施工；註冊結構工程師團隊其後在板模陸續拆除後再發現其他同類情況，並於上星期二向署方匯報。署方指出，由於樓板的臨時支撐尚未拆除，有關情況不會對車站結構構成危險，臨時支撐只可在工程師團隊滿意相關工程後才可拆除；初步檢視亦無發現證據顯示有人故意偏離圖則，或負責人員違反守則及條例。</description>
+</item>
 <item>
 <title>新西蘭議會選舉料執政聯盟取得足夠議席繼續執政</title>
 <link>https://hkcn-news.vercel.app/a/20261107-new-zealand-election-coalition-projected-win.html</link>
@@ -337,20 +351,6 @@
 <guid>https://hkcn-news.vercel.app/a/20261107-yuen-long-no3-alarm-fire.html</guid>
 <pubDate>Sat, 07 Nov 2026 00:25:00 +0800</pubDate>
 <description>元朗白沙村昨晚近11時發生火警，晚上11時25分升為三級火。消防處出動三條消防喉及三隊煙帽隊灌救，火勢仍在撲救中。事件暫時未接獲傷亡報告，起火原因有待調查。</description>
-</item>
-<item>
-<title>美國11月消費信心初值51　高過預期　1年通脹預期4.3%</title>
-<link>https://hkcn-news.vercel.app/a/20261107-us-consumer-confidence-nov-51.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261107-us-consumer-confidence-nov-51.html</guid>
-<pubDate>Fri, 06 Nov 2026 23:08:00 +0800</pubDate>
-<description>美國密歇根大學11月美國消費者信心指數初值為51，高過市場預期的48。期內，消費者現況指數初值為51，預期指數初值為50.9，分別高過預期的48和49.5。消費者1年通脹預期初值為4.3%，5年通脹預期初值為3.4%。</description>
-</item>
-<item>
-<title>美股初段個別發展　晶片股強勁反彈　費半升逾6%　美光飆近10%</title>
-<link>https://hkcn-news.vercel.app/a/20261107-us-stocks-early-mixed-chip-rebound.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261107-us-stocks-early-mixed-chip-rebound.html</guid>
-<pubDate>Fri, 06 Nov 2026 22:56:00 +0800</pubDate>
-<description>美股在開市初段個別發展，晶片股反彈。道瓊斯指數較早時報51272點，跌250點，跌幅0.49%；納斯達克指數報24703點，升388點，升幅1.6%；標準普爾500指數報7408點，升54點，升幅0.74%。費城半導體指數升逾6%，其中美光科技升近10%，英特爾升逾8%，Nvidia升近7%。</description>
 </item>
 </channel>
 </rss>

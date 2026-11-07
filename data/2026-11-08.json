@@ -1,0 +1,76 @@
+[
+ {
+  "id": "20261108-bd-tung-chung-west-pillars-30",
+  "category": "hk",
+  "published_at": "2026-11-08T00:18:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876974-20261107.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "屋宇署：東涌西站約30條混凝土柱施工欠妥　不構成結構危險",
+   "en": "Buildings Department: about 30 concrete pillars at Tung Chung West Station substandard, no structural danger",
+   "zh_hans": "屋宇署：东涌西站约30条混凝土柱施工欠妥　不构成结构危险"
+  },
+  "summary": {
+   "zh_hant": "屋宇署表示，港鐵東涌西站月台層部分混凝土柱施工欠妥，截至上星期五，註冊結構工程師在所有板模拆除後共發現約30條混凝土柱出現有關情況，署方已要求對方在本月中提交調查報告及建議補救措施。署方人員上月27日例行視察時已發現兩條混凝土柱欠妥，當場要求全面調查及盡快糾正，港鐵亦已指令暫停相關施工；註冊結構工程師團隊其後在板模陸續拆除後再發現其他同類情況，並於上星期二向署方匯報。署方指出，由於樓板的臨時支撐尚未拆除，有關情況不會對車站結構構成危險，臨時支撐只可在工程師團隊滿意相關工程後才可拆除；初步檢視亦無發現證據顯示有人故意偏離圖則，或負責人員違反守則及條例。",
+   "en": "The Buildings Department said about 30 concrete pillars at the platform level of MTR's Tung Chung West Station were found to have substandard construction, after the registered structural engineer discovered the problem in more pillars as formwork was removed up to last Friday. The department has asked the engineer to submit an investigation report and remedial proposals by mid-month. Its officers spotted two defective pillars during a routine site inspection on October 27 and demanded a full investigation and prompt rectification, while MTR ordered the related works suspended; the engineer's team later found more cases and reported them to the department last Tuesday. The department said the defects pose no danger to the station's structure because the temporary supports for the floor slabs have not been removed, and they can only be taken down once the engineer is satisfied with the works. A preliminary review found no evidence of deliberate deviation from the plans or breaches of codes and regulations by those responsible.",
+   "zh_hans": "屋宇署表示，港铁东涌西站月台层部分混凝土柱施工欠妥，截至上星期五，注册结构工程师在所有板模拆除后共发现约30条混凝土柱出现有关情况，署方已要求对方在本月中提交调查报告及建议补救措施。署方人员上月27日例行视察时已发现两条混凝土柱欠妥，当场要求全面调查及尽快纠正，港铁亦已指令暂停相关施工；注册结构工程师团队其后在板模陆续拆除后再发现其他同类情况，并于上星期二向署方汇报。署方指出，由于楼板的临时支撑尚未拆除，有关情况不会对车站结构构成危险，临时支撑只可在工程师团队满意相关工程后才可拆除；初步检视亦无发现证据显示有人故意偏离图则，或负责人员违反守则及条例。"
+  },
+  "tags": {
+   "zh_hant": [
+    "東涌西站",
+    "屋宇署",
+    "港鐵"
+   ],
+   "en": [
+    "Tung Chung West Station",
+    "Buildings Department",
+    "MTR"
+   ],
+   "zh_hans": [
+    "东涌西站",
+    "屋宇署",
+    "港铁"
+   ]
+  }
+ },
+ {
+  "id": "20261108-japan-shizuoka-earthquake-57",
+  "category": "world",
+  "published_at": "2026-11-08T00:32:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876975-20261107.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "日本靜岡縣西部發生5.7級地震　東京有震感",
+   "en": "Magnitude 5.7 earthquake hits western Shizuoka, Japan; tremors felt in Tokyo",
+   "zh_hans": "日本静冈县西部发生5.7级地震　东京有震感"
+  },
+  "summary": {
+   "zh_hant": "日本靜岡縣西部凌晨發生5.7級地震，東京亦有震感。日本氣象廳表示，地震在當地星期日凌晨1時04分發生，震央位於北緯34.9度、東經137.7度，震源深度約40公里。氣象廳說，無需擔心今次地震引發海嘯。",
+   "en": "A magnitude 5.7 earthquake struck western Shizuoka Prefecture in Japan early on Sunday morning, with tremors also felt in Tokyo. The Japan Meteorological Agency said the quake occurred at 1:04 a.m. local time on Sunday, with its epicentre at 34.9 degrees north latitude and 137.7 degrees east longitude, at a depth of about 40 kilometres. The agency said there was no need to worry about a tsunami from the quake.",
+   "zh_hans": "日本静冈县西部凌晨发生5.7级地震，东京亦有震感。日本气象厅表示，地震在当地星期日凌晨1时04分发生，震央位于北纬34.9度、东经137.7度，震源深度约40公里。气象厅说，无需担心今次地震引发海啸。"
+  },
+  "tags": {
+   "zh_hant": [
+    "日本地震",
+    "靜岡",
+    "東京"
+   ],
+   "en": [
+    "Japan earthquake",
+    "Shizuoka",
+    "Tokyo"
+   ],
+   "zh_hans": [
+    "日本地震",
+    "静冈",
+    "东京"
+   ]
+  }
+ }
+]

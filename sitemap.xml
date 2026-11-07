@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://hkcn-news.vercel.app/</loc><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261108-japan-shizuoka-earthquake-57.html</loc><lastmod>2026-11-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hkcn-news.vercel.app/a/20261108-bd-tung-chung-west-pillars-30.html</loc><lastmod>2026-11-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hkcn-news.vercel.app/a/20261107-new-zealand-election-coalition-projected-win.html</loc><lastmod>2026-11-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hkcn-news.vercel.app/a/20261107-mtr-tung-chung-west-hyd-report-two-weeks.html</loc><lastmod>2026-11-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hkcn-news.vercel.app/a/20261107-novartis-guangzhou-pharma-medicine-access-cie.html</loc><lastmod>2026-11-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
