@@ -1,5 +1,227 @@
 [
  {
+  "id": "20261108-ma-on-shan-paraglider-injuries",
+  "category": "society",
+  "published_at": "2026-11-08T14:39:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877008-20261108.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "馬鞍山郊野公園滑翔傘降落撞傷3人　直昇機送院治理",
+   "en": "Paraglider landing in Ma On Shan Country Park injures three; airlifted to hospital by helicopter",
+   "zh_hans": "马鞍山郊野公园滑翔伞降落撞伤3人　直升机送院治理"
+  },
+  "summary": {
+   "zh_hant": "馬鞍山郊野公園昂平營地，中午有滑翔傘懷疑降落期間撞倒地面3人，傷者送往醫院治理。警方中午12時許接報，一名男子在昂平營地玩滑翔傘降落期間，撞到地面一對母子及另一名青年，三人分別頭部和背部受傷，由飛行服務隊直昇機送往律敦治醫院治理。",
+   "en": "At the Ngong Ping campsite in Ma On Shan Country Park, a paraglider suspected of hitting three people on the ground while landing at midday, with the injured taken to hospital. Police received a report at around noon that a man paragliding at the Ngong Ping campsite struck a mother and son and another young man on the ground while landing; the three suffered head and back injuries and were airlifted by a Government Flying Service helicopter to Ruttonjee Hospital.",
+   "zh_hans": "马鞍山郊野公园昂平营地，中午有滑翔伞怀疑降落期间撞倒地面3人，伤者送往医院治理。警方中午12时许接报，一名男子在昂平营地玩滑翔伞降落期间，撞到地面一对母子及另一名青年，三人分别头部和背部受伤，由飞行服务队直升机送往律敦治医院治理。"
+  },
+  "tags": {
+   "zh_hant": [
+    "馬鞍山",
+    "滑翔傘",
+    "意外"
+   ],
+   "en": [
+    "Ma On Shan",
+    "paraglider",
+    "accident"
+   ],
+   "zh_hans": [
+    "马鞍山",
+    "滑翔伞",
+    "意外"
+   ]
+  }
+ },
+ {
+  "id": "20261108-observatory-tuesday-low-16c",
+  "category": "hk",
+  "published_at": "2026-11-08T14:21:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877006-20261108.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "天文台：周二早上市區最低約16度　新界再低一兩度",
+   "en": "Observatory: urban low of about 16 degrees on Tuesday morning, one or two degrees lower in the New Territories",
+   "zh_hans": "天文台：周二早上市区最低约16度　新界再低一两度"
+  },
+  "summary": {
+   "zh_hant": "天文台進一步下調星期二的氣溫，預測早上市區最低大約16度，新界再低一兩度。天文台說，位於華中的一道冷鋒正逐漸向南移動，預料會在明日初時橫過廣東沿岸，受隨後的強烈東北季候風影響，該區北風將會增強，晚上氣溫進一步下降。天文台預料，季候風會在本周後期緩和，屆時氣溫將會回升。",
+   "en": "The Observatory has further lowered its temperature forecast for Tuesday, predicting a morning low of about 16 degrees in urban areas, one or two degrees lower in the New Territories. The Observatory said a cold front over central China is gradually moving south and is expected to cross the Guangdong coast early tomorrow, followed by a strong northeast monsoon that will strengthen northerly winds in the region, with temperatures falling further at night. The Observatory expects the monsoon to ease later in the week, when temperatures will rise again.",
+   "zh_hans": "天文台进一步下调星期二的气温，预测早上市区最低大约16度，新界再低一两度。天文台说，位于华中的一道冷锋正逐渐向南移动，预料会在明日初时横过广东沿岸，受随后的强烈东北季候风影响，该区北风将会增强，晚上气温进一步下降。天文台预料，季候风会在本周后期缓和，届时气温将会回升。"
+  },
+  "tags": {
+   "zh_hant": [
+    "天文台",
+    "氣溫",
+    "東北季候風"
+   ],
+   "en": [
+    "Hong Kong Observatory",
+    "temperature",
+    "northeast monsoon"
+   ],
+   "zh_hans": [
+    "天文台",
+    "气温",
+    "东北季候风"
+   ]
+  }
+ },
+ {
+  "id": "20261108-trump-orders-doj-probe-democrats",
+  "category": "world",
+  "published_at": "2026-11-08T13:38:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877005-20261108.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "特朗普下令司法部調查民主黨人　指威脅彈劾無辜者構成犯罪",
+   "en": "Trump orders Justice Department to investigate Democrats, saying threats to impeach innocent people are criminal",
+   "zh_hans": "特朗普下令司法部调查民主党人　指威胁弹劾无辜者构成犯罪"
+  },
+  "summary": {
+   "zh_hant": "美國總統特朗普下令司法部對民主黨人展開調查，指控他們以彈劾及其他形式的懲罰手段威脅許多無辜的人，說這些行為構成犯罪。特朗普星期六在社交媒體發文，當中提及來自密歇根州的民主黨參議員斯洛特金，指責她聲稱將打擊所有信奉共和黨價值觀、哪怕只有一絲共和黨傾向的年輕人。美國傳媒報道，斯洛特金上月在芝加哥大學發表講話時表示，希望年輕人畢業後在考慮是否應該為特朗普政府工作時，能意識到可能會帶來一堆麻煩，從而避免參與其中。",
+   "en": "US President Donald Trump has ordered the Department of Justice to investigate Democrats, accusing them of threatening many innocent people with impeachment and other forms of punishment, and saying such conduct constitutes a crime. In a social media post on Saturday, Trump named Democratic Senator Elissa Slotkin of Michigan, accusing her of saying she would go after all young people who hold Republican values, even those with only a hint of Republican leanings. US media reported that Slotkin said in a speech at the University of Chicago last month that she hoped young people, when graduating and considering whether to work for the Trump administration, would realise it could bring a host of troubles and therefore avoid getting involved.",
+   "zh_hans": "美国总统特朗普下令司法部对民主党人展开调查，指控他们以弹劾及其他形式的惩罚手段威胁许多无辜的人，说这些行为构成犯罪。特朗普星期六在社交媒体发文，当中提及来自密歇根州的民主党参议员斯洛特金，指责她声称将打击所有信奉共和党价值观、哪怕只有一丝共和党倾向的年轻人。美国传媒报道，斯洛特金上月在芝加哥大学发表讲话时表示，希望年轻人毕业后在考虑是否应该为特朗普政府工作时，能意识到可能会带来一堆麻烦，从而避免参与其中。"
+  },
+  "tags": {
+   "zh_hant": [
+    "特朗普",
+    "美國司法部",
+    "民主黨"
+   ],
+   "en": [
+    "Trump",
+    "US Justice Department",
+    "Democrats"
+   ],
+   "zh_hans": [
+    "特朗普",
+    "美国司法部",
+    "民主党"
+   ]
+  }
+ },
+ {
+  "id": "20261108-ning-han-hao-building-repair-agency",
+  "category": "hk",
+  "published_at": "2026-11-08T13:14:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877004-20261108.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "甯漢豪：樓宇維修支援及服務局初期聘約90人　考慮設扣分制",
+   "en": "Bernadette Linn: new building repair support bureau to hire about 90 staff initially; demerit system under consideration",
+   "zh_hans": "甯汉豪：楼宇维修支援及服务局初期聘约90人　考虑设扣分制"
+  },
+  "summary": {
+   "zh_hant": "政府將成立「樓宇維修支援及服務局」，協助市民進行樓宇維修。發展局局長甯漢豪在一個電視節目表示，「樓宇維修支援及服務局」初期將聘用約90人，包括專業人士、技術支援、行政人員等。甯漢豪表示，較複雜的工程可以考慮採用雙信封制，相信不會因此推高價格，同時將加強罰則及抽查，亦不排除設立扣分制；當局會就關鍵工程提高抽查率，包括鋼筋、混凝土的強度等。政府亦將全面檢視樓宇維修資助計劃，甯漢豪表示，目標在明年年初完成檢視工作，正考慮要求業主大維修後，制訂長遠樓宇保養計劃，要定期保養、儲備資金，以作為獲取資助的條件之一。另外，政府公布8條有關業權註冊制度的附屬法例，查冊須符合指定目的，並有9項指定目的。甯漢豪表示，有關做法並非收緊；對於傳媒關注、涉及公眾利益的議題，例如大型僭建、霸佔官地、官員有否申報等，仍然可以透過查冊做到。",
+   "en": "The government will set up a Building Repair Support and Services Bureau to help the public with building maintenance. Secretary for Development Bernadette Linn said on a television programme that the bureau will initially hire about 90 people, including professionals, technical support and administrative staff. Linn said more complex works could use a two-envelope tendering system, which she believes would not push up prices, while penalties and spot checks will be strengthened and a demerit points system is not ruled out; spot-check rates will be raised for critical works, including the strength of steel reinforcement and concrete. The government will also comprehensively review building maintenance subsidy schemes, with the review targeted for completion early next year; it is considering requiring owners to draw up a long-term maintenance plan after major works, with regular upkeep and a reserve fund, as a condition for receiving subsidies. Separately, the government has gazetted eight pieces of subsidiary legislation on the title registration system, under which searches must serve a specified purpose, with nine specified purposes. Linn said the arrangement is not a tightening; for matters of public interest that concern the media, such as large-scale unauthorised building works, occupation of government land and whether officials have made declarations, searches can still be made.",
+   "zh_hans": "政府将成立「楼宇维修支援及服务局」，协助市民进行楼宇维修。发展局局长甯汉豪在一个电视节目表示，「楼宇维修支援及服务局」初期将聘用约90人，包括专业人士、技术支援、行政人员等。甯汉豪表示，较复杂的工程可以考虑采用双信封制，相信不会因此推高价格，同时将加强罚则及抽查，亦不排除设立扣分制；当局会就关键工程提高抽查率，包括钢筋、混凝土的强度等。政府亦将全面检视楼宇维修资助计划，甯汉豪表示，目标在明年年初完成检视工作，正考虑要求业主大维修后，制订长远楼宇保养计划，要定期保养、储备资金，以作为获取资助的条件之一。另外，政府公布8条有关业权注册制度的附属法例，查册须符合指定目的，并有9项指定目的。甯汉豪表示，有关做法并非收紧；对于传媒关注、涉及公众利益的议题，例如大型僭建、霸占官地、官员有否申报等，仍然可以透过查册做到。"
+  },
+  "tags": {
+   "zh_hant": [
+    "甯漢豪",
+    "樓宇維修",
+    "業權註冊"
+   ],
+   "en": [
+    "Bernadette Linn",
+    "building maintenance",
+    "title registration"
+   ],
+   "zh_hans": [
+    "甯汉豪",
+    "楼宇维修",
+    "业权注册"
+   ]
+  }
+ },
+ {
+  "id": "20261108-paul-chan-exhibitions-rebound",
+  "category": "hk",
+  "published_at": "2026-11-08T12:44:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877002-20261108.htm"
+  },
+  "image_url": "https://www.fso.gov.hk/images/blog/20261108_06.jpg",
+  "title": {
+   "zh_hant": "陳茂波：本港展覽數目顯著回升　訪港會展客按年增7%",
+   "en": "Paul Chan: number of exhibitions in Hong Kong has rebounded significantly; MICE visitors up 7% year on year",
+   "zh_hans": "陈茂波：本港展览数目显著回升　访港会展客按年增7%"
+  },
+  "summary": {
+   "zh_hant": "財政司司長陳茂波表示，過去一周香港的會展場地格外熱鬧，多場金融峰會、國際展覽接連舉行，吸引世界各地行業領袖和旅客，匯聚人流和商機，為本地經濟注入顯著動力。陳茂波在網誌表示，經過近幾年不斷努力，在港舉行的展覽數目顯著回升，高增值旅客群有不俗的增長；去年單在會展中心和亞博館已合共舉辦逾360場會展活動，吸引770萬人次參與，訪港的會展旅客達251萬人次，按年增長7%，其中約六成旅客在香港過夜。經濟方面，本港今年首三季合計增長5.1%，創五年來同期最快增速，10月份訪港旅客按年上升11.8%，9月零售業總銷貨價值上升6.4%，第三季食肆總收益上升3.1%。陳茂波表示，接下來兩個月香港繼續盛事連連，包括旅發局的「香港繽紛冬日巡禮」本月將在中環揭幕，「光影匯」延伸至尖沙咀和銅鑼灣，連同中環海濱Clockenflap音樂節、啟德體育園國際羽毛球賽事和多場大型演唱會，以及跨年倒數活動等。亞博館第二期預計2028年落成，增設可容納約兩萬人的多用途場館，連同正全速推進的灣仔北重建項目，屆時香港的大型會展空間將增加四成多。",
+   "en": "Financial Secretary Paul Chan said Hong Kong's exhibition venues were exceptionally busy over the past week, with a series of financial summits and international exhibitions drawing industry leaders and visitors from around the world, bringing people and business opportunities and giving the local economy a significant boost. Writing in his blog, Chan said that after years of sustained effort, the number of exhibitions held in Hong Kong has rebounded significantly, with strong growth in high-value visitors; last year the Convention and Exhibition Centre and AsiaWorld-Expo alone hosted more than 360 exhibition events attracting 7.7 million participants, while MICE visitors to Hong Kong reached 2.51 million, up 7 per cent year on year, with about 60 per cent staying overnight. On the economy, Hong Kong grew 5.1 per cent in the first three quarters of this year, the fastest pace for the same period in five years; visitor arrivals in October rose 11.8 per cent year on year, total retail sales value in September rose 6.4 per cent, and total restaurant receipts in the third quarter rose 3.1 per cent. Chan said Hong Kong will remain packed with mega events in the coming two months, including the Tourism Board's \"Hong Kong WinterFest\" opening in Central this month, \"A Symphony of Lights\" extending to Tsim Sha Tsui and Causeway Bay, the Clockenflap music festival on the Central harbourfront, an international badminton tournament at Kai Tak Sports Park, major concerts and New Year countdown celebrations. AsiaWorld-Expo Phase 2 is expected to open in 2028 with a new multi-purpose venue seating about 20,000 people, and together with the Wan Chai North redevelopment now under way, Hong Kong's large-scale exhibition space will grow by more than 40 per cent.",
+   "zh_hans": "财政司司长陈茂波表示，过去一周香港的会展场地格外热闹，多场金融峰会、国际展览接连举行，吸引世界各地行业领袖和旅客，汇聚人流和商机，为本地经济注入显著动力。陈茂波在网志表示，经过近几年不断努力，在港举行的展览数目显著回升，高增值旅客群有不俗的增长；去年单在会展中心和亚博馆已合共举办逾360场会展活动，吸引770万人次参与，访港的会展旅客达251万人次，按年增长7%，其中约六成旅客在香港过夜。经济方面，本港今年首三季合计增长5.1%，创五年来同期最快增速，10月份访港旅客按年上升11.8%，9月零售业总销货价值上升6.4%，第三季食肆总收益上升3.1%。陈茂波表示，接下来两个月香港继续盛事连连，包括旅发局的「香港缤纷冬日巡礼」本月将在中环揭幕，「光影汇」延伸至尖沙咀和铜锣湾，连同中环海滨Clockenflap音乐节、启德体育园国际羽毛球赛事和多场大型演唱会，以及跨年倒数活动等。亚博馆第二期预计2028年落成，增设可容纳约两万人的多用途场馆，连同正全速推进的湾仔北重建项目，届时香港的大型会展空间将增加四成多。"
+  },
+  "tags": {
+   "zh_hant": [
+    "陳茂波",
+    "會展",
+    "香港經濟"
+   ],
+   "en": [
+    "Paul Chan",
+    "exhibitions",
+    "Hong Kong economy"
+   ],
+   "zh_hans": [
+    "陈茂波",
+    "会展",
+    "香港经济"
+   ]
+  }
+ },
+ {
+  "id": "20261108-paul-lam-electronic-trade-documents",
+  "category": "hk",
+  "published_at": "2026-11-08T12:40:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877001-20261108.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "林定國：推動貿易文件電子化　助鞏固香港國際貿易中心地位",
+   "en": "Paul Lam: pushing electronic trade documents will help cement Hong Kong as international trade centre",
+   "zh_hans": "林定国：推动贸易文件电子化　助巩固香港国际贸易中心地位"
+  },
+  "summary": {
+   "zh_hant": "政府已刊憲《2026年電子交易（修訂）條例草案》，將於本月18日提交立法會首讀及二讀，以推動貿易文件電子化。律政司司長林定國表示，修例目的是令香港對照國際，與很多國家及地區使用同一標準，內地及新加坡亦已實行，修例是更加鞏固香港作為國際貿易中心的重要一步。林定國在一個電台節目表示，國際上很多文件已轉向無紙化，例如以前航海賣貨要持單提貨，「值錢」的是那張紙，持紙可拿去銀行抵押、轉讓物權，從而產生經濟效益；現在電子版毋須手持紙張，可以讓物權擁有人轉讓、到銀行做貸款融資。他形容新法例可證明香港有決心、能力及在實踐上追上國際趨勢，電子化亦有多重保險及安全制度，可保存紀錄，若做得好會比紙張有更多好處。",
+   "en": "The government has gazetted the Electronic Transactions (Amendment) Bill 2026, which will be introduced for first and second reading in the Legislative Council on the 18th of this month to promote the electronicisation of trade documents. Secretary for Justice Paul Lam said the amendment aims to align Hong Kong with international practice, using the same standard as many countries and regions; the mainland and Singapore have already done so, and the change is an important step in further cementing Hong Kong's position as an international trade centre. Speaking on a radio programme, Lam said many documents internationally have gone paperless — in the past, goods shipped by sea had to be collected with a paper bill of lading, and the paper itself was the valuable item, which could be taken to a bank as collateral or used to transfer title and create economic value; the electronic version removes the need to hold paper and lets the title holder transfer it or use it for bank financing. He said the new law shows Hong Kong has the determination, capability and practical ability to keep up with international trends, and that electronicisation comes with multiple insurance and security systems to preserve records, which if done well can offer more benefits than paper.",
+   "zh_hans": "政府已刊宪《2026年电子交易（修订）条例草案》，将于本月18日提交立法会首读及二读，以推动贸易文件电子化。律政司司长林定国表示，修例目的是令香港对照国际，与很多国家及地区使用同一标准，内地及新加坡亦已实行，修例是更加巩固香港作为国际贸易中心的重要一步。林定国在一个电台节目表示，国际上很多文件已转向无纸化，例如以前航海卖货要持单提货，「值钱」的是那张纸，持纸可拿去银行抵押、转让物权，从而产生经济效益；现在电子版毋须手持纸张，可以让物权拥有人转让、到银行做贷款融资。他形容新法例可证明香港有决心、能力及在实践上追上国际趋势，电子化亦有多重保险及安全制度，可保存纪录，若做得好会比纸张有更多好处。"
+  },
+  "tags": {
+   "zh_hant": [
+    "林定國",
+    "貿易文件電子化",
+    "國際貿易中心"
+   ],
+   "en": [
+    "Paul Lam",
+    "electronic trade documents",
+    "international trade centre"
+   ],
+   "zh_hans": [
+    "林定国",
+    "贸易文件电子化",
+    "国际贸易中心"
+   ]
+  }
+ },
+ {
   "id": "20261108-health-secretary-lo-guangzhou-medical-forum",
   "category": "hk",
   "published_at": "2026-11-08T11:36:00+08:00",
