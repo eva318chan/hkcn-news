@@ -1,5 +1,190 @@
 [
  {
+  "id": "20261109-jensen-huang-apology-board-investigation",
+  "category": "tech",
+  "published_at": "2026-11-09T06:16:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877056-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "黃仁勳承認對妻子不忠感抱歉　Nvidia董事會啟動獨立調查",
+   "en": "Jensen Huang admits infidelity and apologises; Nvidia board opens independent investigation",
+   "zh_hans": "黄仁勋承认对妻子不忠感抱歉　Nvidia董事会启动独立调查"
+  },
+  "summary": {
+   "zh_hant": "晶片龍頭Nvidia行政總裁黃仁勳在發給員工的訊息中，承認對妻子不忠，表示自己的行為傷害了妻子及孩子，對所做的一切無任何藉口，深感抱歉。黃仁勳又向同事、董事會成員、合作夥伴及股東表示，自己的職責是服務大家，不負各位的信任，但辜負了這份責任，將努力贏回大家的信任。Nvidia表示，鑑於近期有報道指公司創辦人黃仁勳成為情報活動目標，公司董事會正啟動一項獨立調查，將由獨立董事委員會負責監督，並由外部獨立法律顧問提供協助；董事會並無理由相信美國國家安全或Nvidia的機密受到損害，黃仁勳完全支持這次審查，承諾予以配合。",
+   "en": "Nvidia chief executive Jensen Huang admitted in a message to employees that he had been unfaithful to his wife, saying his actions hurt his wife and children, that there is no excuse for what he did and that he is deeply sorry. Huang also told colleagues, board members, partners and shareholders that his duty was to serve them and live up to their trust, but that he had fallen short of that responsibility and would work to win back their trust. Nvidia said that, given recent reports that its founder Huang has been the target of an intelligence effort, its board is launching an independent investigation to be overseen by a committee of independent directors with assistance from outside independent counsel; the board has no reason to believe US national security or Nvidia secrets have been compromised, and Huang fully supports the review and has pledged to cooperate.",
+   "zh_hans": "芯片龙头Nvidia行政总裁黄仁勋在发给员工的信息中，承认对妻子不忠，表示自己的行为伤害了妻子及孩子，对所做的一切无任何借口，深感抱歉。黄仁勋又向同事、董事会成员、合作伙伴及股东表示，自己的职责是服务大家，不负各位的信任，但辜负了这份责任，将努力赢回大家的信任。Nvidia表示，鉴于近期有报道指公司创办人黄仁勋成为情报活动目标，公司董事会正启动一项独立调查，将由独立董事委员会负责监督，并由外部独立法律顾问提供协助；董事会并无理由相信美国国家安全或Nvidia的机密受到损害，黄仁勋完全支持这次审查，承诺予以配合。"
+  },
+  "tags": {
+   "zh_hant": [
+    "黃仁勳",
+    "Nvidia",
+    "晶片"
+   ],
+   "en": [
+    "Jensen Huang",
+    "Nvidia",
+    "chips"
+   ],
+   "zh_hans": [
+    "黄仁勋",
+    "Nvidia",
+    "芯片"
+   ]
+  }
+ },
+ {
+  "id": "20261109-red-fire-danger-warning",
+  "category": "hk",
+  "published_at": "2026-11-09T06:14:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/09/P2026110900114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "今日火災危險警告紅色　火災風險極高　郊野極易發生山火",
+   "en": "Red fire danger warning issued today; fire risk extreme, countryside highly vulnerable to hill fires",
+   "zh_hans": "今日火灾危险警告红色　火灾风险极高　郊野极易发生山火"
+  },
+  "summary": {
+   "zh_hant": "今日火災危險警告為紅色，火災風險極高，郊野極易發生山火。當局呼籲市民如計劃到郊野，應帶備已煮熟的食物，並採取一切措施預防山火；在郊野非法燃點山火可被罰款25,000元及監禁一年。市民應提高警覺，預防火警發生。",
+   "en": "The fire danger situation today is red and the risk of fire is extreme; the countryside is highly vulnerable to hill fires. People planning to spend the day in the countryside are advised to take pre-cooked food and take all measures to prevent hill fires. Lighting fires illegally in the countryside carries a penalty of $25,000 and a year's imprisonment. People are urged to stay vigilant and prevent fires from breaking out.",
+   "zh_hans": "今日火灾危险警告为红色，火灾风险极高，郊野极易发生山火。当局呼吁市民如计划到郊野，应带备已煮熟的食物，并采取一切措施预防山火；在郊野非法燃点山火可被罚款25,000元及监禁一年。市民应提高警觉，预防火警发生。"
+  },
+  "tags": {
+   "zh_hant": [
+    "火災危險警告",
+    "紅色",
+    "山火"
+   ],
+   "en": [
+    "fire danger warning",
+    "red",
+    "hill fire"
+   ],
+   "zh_hans": [
+    "火灾危险警告",
+    "红色",
+    "山火"
+   ]
+  }
+ },
+ {
+  "id": "20261109-hk-secondary-property-sales-soft",
+  "category": "finance",
+  "published_at": "2026-11-09T05:50:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877055-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "二手樓市成交偏軟　上周末十大屋苑僅錄6宗　受新盤開售影響",
+   "en": "Secondary home sales stay soft as new launches draw buyers; 10 major estates record just six deals over the weekend",
+   "zh_hans": "二手楼市成交偏软　上周末十大屋苑仅录6宗　受新盘开售影响"
+  },
+  "summary": {
+   "zh_hant": "地產代理表示，受新盤開售影響，上周二手樓市表現偏軟。中原地產表示，上周末十大二手屋苑錄得6宗成交，按星期減少2宗，兩個全新盤作首輪銷售，認購反應熱烈，令二手交投持續受壓。美聯物業表示，上周末錄得7宗成交，按星期減少1宗，連續10星期單位數成交；一手交投暢旺，二手市場氣氛觀望，但亦有不少一手向隅客回流二手。",
+   "en": "Estate agents said secondary-market transactions were soft last week as new launches drew buyers away. Centaline Property said the 10 major secondary estates recorded six deals over the weekend, two fewer than the previous week, with two brand-new projects launching their first round of sales to strong subscription, keeping secondary sales under pressure. Midland Realty recorded seven deals, one fewer week on week, a 10th consecutive week of single-digit sales; primary sales were brisk while secondary buyers stayed on the sidelines, though some buyers who missed out on new launches returned to the secondary market.",
+   "zh_hans": "地产代理表示，受新盘开售影响，上周二手楼市表现偏软。中原地产表示，上周末十大二手屋苑录得6宗成交，按星期减少2宗，两个全新盘作首轮销售，认购反应热烈，令二手交投持续受压。美联物业表示，上周末录得7宗成交，按星期减少1宗，连续10星期单位数成交；一手交投畅旺，二手市场气氛观望，但亦有不少一手向隅客回流二手。"
+  },
+  "tags": {
+   "zh_hant": [
+    "二手樓市",
+    "新盤",
+    "樓市"
+   ],
+   "en": [
+    "secondary market",
+    "new launches",
+    "property market"
+   ],
+   "zh_hans": [
+    "二手楼市",
+    "新盘",
+    "楼市"
+   ]
+  }
+ },
+ {
+  "id": "20261109-us-stocks-week-ahead-inflation-fed",
+  "category": "finance",
+  "published_at": "2026-11-09T05:40:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877054-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "美股本周焦點通脹數據及聯儲局官員講話　市場關注加息預期",
+   "en": "US stocks in focus this week on inflation data and Fed officials' remarks; rate-hike expectations in view",
+   "zh_hans": "美股本周焦点通胀数据及联储局官员讲话　市场关注加息预期"
+  },
+  "summary": {
+   "zh_hant": "上星期美股三大指數都下跌，道瓊斯指數跌逾0.9%，標普500指數和納斯達克指數分別跌約2.7%及約3.4%。本周市場關注美國星期二公布的10月消費物價指數，市場預期按月升幅收窄至0.3%，按年升幅擴大至3.9%；星期五公布的10月生產物價指數亦受關注。美國10月非農業新增職位16.5萬個，失業率回落至4.1%，市場對聯儲局下月加息預期升溫，本周多名聯儲局官員發表講話亦是焦點；企業業績方面，CoreWeave、應用材料及思科系統將公布上季業績。",
+   "en": "All three major US stock indices fell last week, with the Dow Jones down more than 0.9% and the S&P 500 and Nasdaq down about 2.7% and 3.4% respectively. Markets this week are watching the US October consumer price index due on Tuesday, with the monthly rise expected to narrow to 0.3% while the annual rise widens to 3.9%; Friday's October producer price index is also in focus. US non-farm payrolls rose by 165,000 in October and unemployment fell to 4.1%, lifting market expectations of a Federal Reserve rate rise next month, with remarks from several Fed officials this week also a focus; on earnings, CoreWeave, Applied Materials and Cisco Systems are due to report quarterly results.",
+   "zh_hans": "上星期美股三大指数都下跌，道琼斯指数跌逾0.9%，标普500指数和纳斯达克指数分别跌约2.7%及约3.4%。本周市场关注美国星期二公布的10月消费物价指数，市场预期按月升幅收窄至0.3%，按年升幅扩大至3.9%；星期五公布的10月生产物价指数亦受关注。美国10月非农业新增职位16.5万个，失业率回落至4.1%，市场对联储局下月加息预期升温，本周多名联储局官员发表讲话亦是焦点；企业业绩方面，CoreWeave、应用材料及思科系统将公布上季业绩。"
+  },
+  "tags": {
+   "zh_hant": [
+    "美股",
+    "通脹",
+    "聯儲局"
+   ],
+   "en": [
+    "US stocks",
+    "inflation",
+    "Federal Reserve"
+   ],
+   "zh_hans": [
+    "美股",
+    "通胀",
+    "联储局"
+   ]
+  }
+ },
+ {
+  "id": "20261109-senegal-boat-capsize-death-toll-34",
+  "category": "world",
+  "published_at": "2026-11-09T05:18:00+08:00",
+  "source": {
+   "name": "德國之聲",
+   "url": "https://www.dw.com/en/dozens-killed-after-migrant-boat-sinks-off-senegal/a-79890883"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "塞內加爾沉船增至最少34死　僅1人倖存　失蹤人數未明",
+   "en": "Senegal boat sinking death toll rises to at least 34; one survivor, number missing unknown",
+   "zh_hans": "塞内加尔沉船增至最少34死　仅1人幸存　失踪人数未明"
+  },
+  "summary": {
+   "zh_hant": "塞內加爾通訊社報道，西北部凱貝梅爾省附近海域發生的沉船事故，死亡人數已增至最少34人，另有數目未明的人失蹤，僅1人倖存。內政部早前表示，當局已尋回21具遺體，數字屬初步統計，搜救行動仍在繼續；隨着更多遇難者遺體被打撈上岸，死亡人數進一步上升。涉事小船載有準備前往西班牙加那利群島的移民，在凱貝梅爾省附近海域翻沉，船上人數至今未明；塞內加爾當局星期五亦在同類船隻上截獲142名移民，政府重申打擊偷渡網絡的決心。",
+   "en": "Senegal's press agency reported that the death toll from a boat sinking off Kébémer in the northwest has risen to at least 34, with an unknown number of people missing and only one survivor. The interior ministry had earlier said 21 bodies had been recovered, describing the figure as provisional while search and rescue operations continued; the toll rose as more bodies were recovered. The small boat, carrying migrants bound for Spain's Canary Islands, capsized off Kébémer, and the number of people on board remains unknown; Senegalese authorities also intercepted 142 migrants on a similar boat on Friday, and the government reaffirmed its determination to combat people-smuggling networks.",
+   "zh_hans": "塞内加尔通讯社报道，西北部凯贝梅尔省附近海域发生的沉船事故，死亡人数已增至最少34人，另有数目未明的人失踪，仅1人幸存。内政部早前表示，当局已寻回21具遗体，数字属初步统计，搜救行动仍在继续；随着更多遇难者遗体被打捞上岸，死亡人数进一步上升。涉事小船载有准备前往西班牙加那利群岛的移民，在凯贝梅尔省附近海域翻沉，船上人数至今未明；塞内加尔当局星期五亦在同类船只上截获142名移民，政府重申打击偷渡网络的决心。"
+  },
+  "tags": {
+   "zh_hant": [
+    "塞內加爾",
+    "沉船",
+    "偷渡"
+   ],
+   "en": [
+    "Senegal",
+    "boat sinking",
+    "people smuggling"
+   ],
+   "zh_hans": [
+    "塞内加尔",
+    "沉船",
+    "偷渡"
+   ]
+  }
+ },
+ {
   "id": "20261109-egypt-train-collision-death-toll-7",
   "category": "world",
   "published_at": "2026-11-09T03:57:00+08:00",
