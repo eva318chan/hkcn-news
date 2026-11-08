@@ -1,5 +1,116 @@
 [
  {
+  "id": "20261108-egypt-train-derailment-4-dead-88-injured",
+  "category": "world",
+  "published_at": "2026-11-08T22:46:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877043-20261108.htm"
+  },
+  "image_url": "https://newsstatic.rthk.hk/images/mfile_1877043_1_M_20261108224639.jpg",
+  "title": {
+   "zh_hant": "埃及列車出軌意外　衛生部稱四死88傷",
+   "en": "Egypt train derailment: health ministry says four dead, 88 injured",
+   "zh_hans": "埃及列车出轨意外　卫生部称四死88伤"
+  },
+  "summary": {
+   "zh_hant": "埃及傳媒報道，一列由首都開羅開往南部阿斯旺的列車，星期日在吉薩省發生意外，四節車廂出軌，衛生部說事故已造成4人死亡、88人受傷。總統塞西在社交媒體表示，正密切關注事件，已指示相關部門提供必要幫助、迅速調查意外原因，並追究所有失職者的責任。",
+   "en": "Egyptian media reported that a train travelling from the capital Cairo to the southern city of Aswan derailed in Giza province on Sunday, with four carriages leaving the tracks; the health ministry said four people had been killed and 88 injured. President Sisi said on social media that he was following the incident closely and had instructed the relevant departments to provide necessary assistance, investigate the cause swiftly and hold anyone at fault accountable.",
+   "zh_hans": "埃及传媒报道，一列由首都开罗开往南部阿斯旺的列车，星期日在吉萨省发生意外，四节车厢出轨，卫生部说事故已造成4人死亡、88人受伤。总统塞西在社交媒体表示，正密切关注事件，已指示相关部门提供必要帮助、迅速调查意外原因，并追究所有失职者的责任。"
+  },
+  "tags": {
+   "zh_hant": [
+    "埃及",
+    "列車出軌",
+    "吉薩"
+   ],
+   "en": [
+    "Egypt",
+    "train derailment",
+    "Giza"
+   ],
+   "zh_hans": [
+    "埃及",
+    "列车出轨",
+    "吉萨"
+   ]
+  }
+ },
+ {
+  "id": "20261108-paul-chan-future-science-awards-research-support",
+  "category": "hk",
+  "published_at": "2026-11-08T22:46:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877044-20261108.htm"
+  },
+  "image_url": "https://newsstatic.rthk.hk/images/mfile_1877044_1_M_20261108224655.jpg",
+  "title": {
+   "zh_hant": "陳茂波：香港繼續支持科研發展　讓科研成果獲認可培育",
+   "en": "Paul Chan: Hong Kong will keep supporting scientific research so results gain recognition and nurture",
+   "zh_hans": "陈茂波：香港继续支持科研发展　让科研成果获认可培育"
+  },
+  "summary": {
+   "zh_hant": "財政司司長陳茂波表示，香港將繼續發展成為國際創新科技中心，讓科研成果獲得認可、培育，以及成長所需的空間與時間。陳茂波在「未來科學大獎」晚宴致辭時，以1980年代的小型硬碟發展為例，指出新技術初期可能容量有限、市場吸引力不大，卻能隨着改良及開拓新市場，最終改變整個行業；科學研究同樣如此，今天看似艱深的研究，日後可能成為下一代探索的起點。他又說，未來科學大獎基金會在香港註冊，今年為期四天的大獎周亦在香港舉行，過去十年共有六名香港科學家獲獎，香港是這個科學社群的一分子。",
+   "en": "Financial Secretary Paul Chan said Hong Kong will continue developing into an international innovation and technology centre, giving scientific research the recognition, nurturing and room and time to grow. Speaking at the Future Science Prize dinner, Chan cited the development of small hard drives in the 1980s, noting that new technology may at first have limited capacity and little market appeal, yet can transform an entire industry as it improves and finds new markets; scientific research is the same, and research that looks abstruse today may become the starting point for the next generation's exploration. He added that the Future Science Prize Foundation is registered in Hong Kong, this year's four-day prize week is also being held in Hong Kong, and six Hong Kong scientists have won the prize over the past decade — Hong Kong is part of this scientific community.",
+   "zh_hans": "财政司司长陈茂波表示，香港将继续发展成为国际创新科技中心，让科研成果获得认可、培育，以及成长所需的空间与时间。陈茂波在「未来科学大奖」晚宴致辞时，以1980年代的小型硬盘发展为例，指出新技术初期可能容量有限、市场吸引力不大，却能随着改良及开拓新市场，最终改变整个行业；科学研究同样如此，今天看似艰深的研究，日后可能成为下一代探索的起点。他又说，未来科学大奖基金会在香港注册，今年为期四天的大奖周亦在香港举行，过去十年共有六名香港科学家获奖，香港是这个科学社群的一分子。"
+  },
+  "tags": {
+   "zh_hant": [
+    "陳茂波",
+    "科研",
+    "未來科學大獎"
+   ],
+   "en": [
+    "Paul Chan",
+    "scientific research",
+    "Future Science Prize"
+   ],
+   "zh_hans": [
+    "陈茂波",
+    "科研",
+    "未来科学大奖"
+   ]
+  }
+ },
+ {
+  "id": "20261108-pope-leo-uruguay-mass-respect-wives",
+  "category": "world",
+  "published_at": "2026-11-08T22:41:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877042-20261108.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "教宗良十四世烏拉圭主持彌撒　呼籲男性尊重妻子",
+   "en": "Pope Leo XIV celebrates Mass in Uruguay, urging men to respect their wives",
+   "zh_hans": "教宗良十四世乌拉圭主持弥撒　呼吁男性尊重妻子"
+  },
+  "summary": {
+   "zh_hant": "到訪烏拉圭的教宗良十四世，星期日在中南部城市佛羅里達主持露天彌撒，呼籲男性尊重妻子。聯合國數據顯示，拉丁美洲和加勒比海地區在2024年有超過3,800名女性因為性別而被殺，過去五年區內有近2萬名女性被殺，大部分兇手都是受害者的現任或前任伴侶。",
+   "en": "Pope Leo XIV, visiting Uruguay, celebrated an open-air Mass in the central-southern city of Florida on Sunday, calling on men to respect their wives. United Nations data shows that more than 3,800 women in Latin America and the Caribbean were killed because of their gender in 2024, and nearly 20,000 women have been killed in the region over the past five years, most of them by a current or former partner.",
+   "zh_hans": "到访乌拉圭的教宗良十四世，星期日在中南部城市佛罗里达主持露天弥撒，呼吁男性尊重妻子。联合国数据显示，拉丁美洲和加勒比海地区在2024年有超过3,800名女性因为性别而被杀，过去五年区内有近2万名女性被杀，大部分凶手都是受害者的现任或前任伴侣。"
+  },
+  "tags": {
+   "zh_hant": [
+    "教宗良十四世",
+    "烏拉圭",
+    "彌撒"
+   ],
+   "en": [
+    "Pope Leo XIV",
+    "Uruguay",
+    "Mass"
+   ],
+   "zh_hans": [
+    "教宗良十四世",
+    "乌拉圭",
+    "弥撒"
+   ]
+  }
+ },
+ {
   "id": "20261108-france-europe-russia-ukraine-talks",
   "category": "world",
   "published_at": "2026-11-08T21:25:00+08:00",
