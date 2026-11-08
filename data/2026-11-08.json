@@ -1,5 +1,116 @@
 [
  {
+  "id": "20261108-community-dining-hall-10-dollar-meals",
+  "category": "society",
+  "published_at": "2026-11-08T10:00:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/08/P2026110600618.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "社區飯堂計劃試行至今派逾四千餐　助識別隱蔽長者及照顧者",
+   "en": "Community dining hall serves over 4,000 meals, helping identify hidden elderly and carers",
+   "zh_hans": "社区饭堂计划试行至今派逾四千餐　助识别隐蔽长者及照顾者"
+  },
+  "summary": {
+   "zh_hant": "社區飯堂計劃今年3月在南區石排灣邨試行，至今已提供逾4,000餐，接觸近400名隱蔽或高風險人士。勞工及福利局希望藉計劃及早識別照顧者、獨居長者等隱蔽群組的需要，並及時提供支援。政府新聞處訪問了勞工及福利局代表，以及計劃營辦機構香港仔街坊福利會，了解計劃的目標、進展及用家反饋，相關專題報道由今日起在政府新聞網以文字及影片形式刊登。",
+   "en": "The Community Dining Hall initiative, launched as a pilot in March at Shek Pai Wan Estate in the Southern District, has served over 4,000 meals and reached nearly 400 hidden or high-risk individuals. The Labour and Welfare Bureau hopes the scheme will help identify the needs of carers, elderly people living alone and other hidden groups early, so timely support can be provided. News.gov.hk spoke to a representative of the bureau and the scheme operator, the Aberdeen Kai-fong Welfare Association, about the initiative's goals, progress and user feedback; the feature is available on the government news website in text and video from today.",
+   "zh_hans": "社区饭堂计划今年3月在南区石排湾邨试行，至今已提供逾4,000餐，接触近400名隐蔽或高风险人士。劳工及福利局希望藉计划及早识别照顾者、独居长者等隐蔽群组的需要，并及时提供支援。政府新闻处访问了劳工及福利局代表，以及计划营办机构香港仔街坊福利会，了解计划的目标、进展及用家反馈，相关专题报道由今日起在政府新闻网以文字及影片形式刊登。"
+  },
+  "tags": {
+   "zh_hant": [
+    "社區飯堂",
+    "石排灣邨",
+    "勞工及福利局"
+   ],
+   "en": [
+    "community dining hall",
+    "Shek Pai Wan Estate",
+    "Labour and Welfare Bureau"
+   ],
+   "zh_hans": [
+    "社区饭堂",
+    "石排湾邨",
+    "劳工及福利局"
+   ]
+  }
+ },
+ {
+  "id": "20261108-yellow-fire-danger-warning",
+  "category": "hk",
+  "published_at": "2026-11-08T09:49:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/08/P2026110800243.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "今日火災危險警告黃色　火災風險高　行山人士須提高警覺",
+   "en": "Yellow fire danger warning issued today; fire risk high, hikers urged to stay vigilant",
+   "zh_hans": "今日火灾危险警告黄色　火灾风险高　行山人士须提高警觉"
+  },
+  "summary": {
+   "zh_hant": "今日火災危險警告為黃色，火災風險高，市民應預防火警發生，行山人士亦須提高警覺。當局呼籲市民注意防火，並請傳媒向公眾發放完整訊息。",
+   "en": "The fire danger situation today is yellow and the risk of fire is high. People are urged to prevent fires from breaking out, and hikers should also stay vigilant. The authorities have asked the media to pass the full message to the public.",
+   "zh_hans": "今日火灾危险警告为黄色，火灾风险高，市民应预防火警发生，行山人士亦须提高警觉。当局呼吁市民注意防火，并请传媒向公众发放完整讯息。"
+  },
+  "tags": {
+   "zh_hant": [
+    "火災危險警告",
+    "黃色",
+    "行山"
+   ],
+   "en": [
+    "fire danger warning",
+    "yellow",
+    "hiking"
+   ],
+   "zh_hans": [
+    "火灾危险警告",
+    "黄色",
+    "行山"
+   ]
+  }
+ },
+ {
+  "id": "20261108-krakow-gunman-far-right-mourning",
+  "category": "world",
+  "published_at": "2026-11-08T06:55:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876982-20261108.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "克拉科夫槍擊案槍手疑受極右思想影響　波蘭宣布全國哀悼兩日",
+   "en": "Krakow gunman suspected of far-right influence; Poland declares two days of national mourning",
+   "zh_hans": "克拉科夫枪击案枪手疑受极右思想影响　波兰宣布全国哀悼两日"
+  },
+  "summary": {
+   "zh_hant": "波蘭內政部長凱爾溫斯基表示，所有跡象都表明在克拉科夫中央廣場駕車衝入人群開槍的槍手受到極右意識形態影響，警方及安全局特工已到槍擊現場及槍手住所搜證。槍擊在當地周末下午3時左右發生，造成6人死亡、15人受傷，部分傷者是外國人，至少兩名警員在與槍手駁火期間中槍受傷，槍手其後被警員制服拘捕。警方說，目前已知的唯一疑犯已被拘留，槍手是24歲波蘭公民，身穿軍用服裝，使用一支AR-15步槍犯案，並持有槍械許可證，駕駛的車輛存放大量武器和彈藥。當地傳媒引述國防部消息報道，槍手可能是一名退伍軍人。總理圖斯克已由首都華沙趕往克拉科夫跟進情況，表示當局在槍手住所發現兩名女子和一名男子死亡，很可能是槍手的家人。總統納夫羅茨基下令全面查明事件，並宣布當地星期日及星期一為全國哀悼日。",
+   "en": "Polish Interior Minister Marcin Kierwinski said all signs indicate the gunman who drove into crowds and opened fire in Krakow's Main Market Square was influenced by far-right ideology, and police and security agents have searched the scene and the gunman's home. The shooting happened at about 3pm local time on Saturday, killing six people and injuring 15, some of them foreign nationals; at least two police officers were shot during the exchange of fire before the gunman was subdued and arrested. Police said the only known suspect has been detained: a 24-year-old Polish citizen in military clothing who used an AR-15 rifle, held a firearms licence, and had large quantities of weapons and ammunition in his car. Local media, citing defence ministry sources, reported the gunman may be a military veteran. Prime Minister Donald Tusk has travelled from Warsaw to Krakow, saying the bodies of two women and one man were found at the gunman's home and are likely members of his family. President Karol Nawrocki has ordered a full investigation and declared Sunday and Monday days of national mourning.",
+   "zh_hans": "波兰内政部长凯尔温斯基表示，所有迹象都表明在克拉科夫中央广场驾车冲入人群开枪的枪手受到极右意识形态影响，警方及安全局特工已到枪击现场及枪手住所搜证。枪击在当地周末下午3时左右发生，造成6人死亡、15人受伤，部分伤者是外国人，至少两名警员在与枪手驳火期间中枪受伤，枪手其后被警员制服拘捕。警方说，目前已知的唯一疑犯已被拘留，枪手是24岁波兰公民，身穿军用服装，使用一支AR-15步枪犯案，并持有枪械许可证，驾驶的车辆存放大量武器和弹药。当地传媒引述国防部消息报道，枪手可能是一名退伍军人。总理图斯克已由首都华沙赶往克拉科夫跟进情况，表示当局在枪手住所发现两名女子和一名男子死亡，很可能是枪手的家人。总统纳夫罗茨基下令全面查明事件，并宣布当地星期日及星期一为全国哀悼日。"
+  },
+  "tags": {
+   "zh_hant": [
+    "克拉科夫",
+    "波蘭",
+    "槍擊案"
+   ],
+   "en": [
+    "Krakow",
+    "Poland",
+    "shooting"
+   ],
+   "zh_hans": [
+    "克拉科夫",
+    "波兰",
+    "枪击案"
+   ]
+  }
+ },
+ {
   "id": "20261108-trump-invites-dana-white-press-secretary",
   "category": "world",
   "published_at": "2026-11-08T06:35:00+08:00",
@@ -70,6 +181,80 @@
     "以色列",
     "埃森科特",
     "组阁"
+   ]
+  }
+ },
+ {
+  "id": "20261108-iran-lifts-missile-range-limit",
+  "category": "world",
+  "published_at": "2026-11-08T05:33:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876980-20261108.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "伊朗革命衛隊稱已解除導彈射程限制　能打擊敵人預想不到地點",
+   "en": "Iran's Revolutionary Guards say missile range limit lifted, can strike unexpected targets",
+   "zh_hans": "伊朗革命卫队称已解除导弹射程限制　能打击敌人预想不到地点"
+  },
+  "summary": {
+   "zh_hant": "伊朗伊斯蘭革命衛隊領導人近日強調，需要對任何程度或種類的威脅立即予以有效回擊，而不受地理因素限制。革命衛隊發言人穆赫比在當地周末的記者會表示，伊朗的導彈射程限制已經解除，能在一場不對稱戰爭中打擊敵人預想不到的地點，讓敵人陷入癱瘓。伊朗在今年2月底美國和以色列對伊發動大規模軍事攻擊前，曾與美國就核計劃舉行間接談判，外長阿拉格齊當時曾表示，伊朗已特意將導彈射程限制在2,000公里內，導彈純粹用於防禦和威懾，而非構成全球威脅。今次宣布只屬政策表態，未有證據顯示伊朗已部署射程超出舊有限制的導彈。",
+   "en": "The leader of Iran's Islamic Revolutionary Guard Corps recently stressed the need for an immediate and effective response to any threat, of any scale or kind, without geographical limits. Guard spokesman Hossein Mohebbi told a press conference at the weekend that the limit on Iran's missile range has been lifted, and that in an asymmetric war Iran could strike places the enemy would not expect and bring it to a standstill. Before the large-scale US and Israeli military attack on Iran at the end of February this year, Iran held indirect talks with the United States on its nuclear programme; Foreign Minister Abbas Araghchi said at the time that Iran had deliberately limited its missile range to 2,000 kilometres, purely for defence and deterrence rather than as a global threat. The latest announcement is a policy statement only, with no evidence that Iran has deployed a missile with a range beyond the old limit.",
+   "zh_hans": "伊朗伊斯兰革命卫队领导人近日强调，需要对任何程度或种类威胁立即予以有效回击，而不受地理因素限制。革命卫队发言人穆赫比在当地周末的记者会表示，伊朗的导弹射程限制已经解除，能在一场不对称战争中打击敌人预想不到的地点，让敌人陷入瘫痪。伊朗在今年2月底美国和以色列对伊发动大规模军事攻击前，曾与美国就核计划举行间接谈判，外长阿拉格齐当时曾表示，伊朗已特意将导弹射程限制在2,000公里内，导弹纯粹用于防御和威慑，而非构成全球威胁。今次宣布只属政策表态，未有证据显示伊朗已部署射程超出旧有限制的导弹。"
+  },
+  "tags": {
+   "zh_hant": [
+    "伊朗",
+    "革命衛隊",
+    "導彈"
+   ],
+   "en": [
+    "Iran",
+    "Revolutionary Guards",
+    "missiles"
+   ],
+   "zh_hans": [
+    "伊朗",
+    "革命卫队",
+    "导弹"
+   ]
+  }
+ },
+ {
+  "id": "20261108-zelenskyy-patriot-interceptors-shortage",
+  "category": "world",
+  "published_at": "2026-11-08T04:53:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1876979-20261108.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "澤連斯基稱烏克蘭嚴重缺乏愛國者攔截彈　正尋求加快交付",
+   "en": "Zelenskyy says Ukraine severely short of Patriot interceptors, seeking faster deliveries",
+   "zh_hans": "泽连斯基称乌克兰严重缺乏爱国者拦截弹　正寻求加快交付"
+  },
+  "summary": {
+   "zh_hant": "烏克蘭總統澤連斯基表示，俄軍在當地星期六的攻擊中發射36枚導彈，烏方僅成功攔截4枚，烏方目前仍嚴重缺乏愛國者防空系統攔截彈，正從各個層面尋求加快攔截彈交付，並已向美方傳遞相關訊息。另一方面，俄羅斯方面表示，根據烏克蘭財政部發布的數據計算，過去兩年間，烏克蘭利用被凍結的俄羅斯資產收益已獲得494億美元資金支持，單是今年就獲得105億美元。七國集團領導人前年同意以俄羅斯被凍結資產所產生的收益作為抵押，向烏克蘭提供500億美元貸款，克里姆林宮發言人曾表示，向烏克蘭移交有關收益的行為非法。",
+   "en": "Ukrainian President Volodymyr Zelenskyy said Russian forces fired 36 missiles in an attack on Saturday local time, of which Ukraine intercepted only four, and that Ukraine remains severely short of interceptors for its Patriot air defence systems. Kyiv is seeking faster deliveries of interceptors at every level and has passed the message to the United States. Russia, meanwhile, said that based on figures published by Ukraine's finance ministry, Ukraine has received 49.4 billion US dollars over the past two years from the proceeds of frozen Russian assets, including 10.5 billion this year. G7 leaders agreed two years ago to use the proceeds of frozen Russian assets as collateral for a 50-billion-dollar loan to Ukraine; a Kremlin spokesman has said transferring those proceeds to Ukraine is illegal.",
+   "zh_hans": "乌克兰总统泽连斯基表示，俄军在当地星期六的攻击中发射36枚导弹，乌方仅成功拦截4枚，乌方目前仍严重缺乏爱国者防空系统拦截弹，正从各个层面寻求加快拦截弹交付，并已向美方传递相关讯息。另一方面，俄罗斯方面表示，根据乌克兰财政部发布的数据计算，过去两年间，乌克兰利用被冻结的俄罗斯资产收益已获得494亿美元资金支持，单是今年就获得105亿美元。七国集团领导人前年同意以俄罗斯被冻结资产所产生的收益作为抵押，向乌克兰提供500亿美元贷款，克里姆林宫发言人曾表示，向乌克兰移交有关收益的行为非法。"
+  },
+  "tags": {
+   "zh_hant": [
+    "澤連斯基",
+    "烏克蘭",
+    "愛國者防空系統"
+   ],
+   "en": [
+    "Zelenskyy",
+    "Ukraine",
+    "Patriot air defence"
+   ],
+   "zh_hans": [
+    "泽连斯基",
+    "乌克兰",
+    "爱国者防空系统"
    ]
   }
  },
