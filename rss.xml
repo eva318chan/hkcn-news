@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>中港新聞速報</title><link>https://hkcn-news.vercel.app</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Mon, 09 Nov 2026 02:56:32 +0800</lastBuildDate>
+<title>中港新聞速報</title><link>https://hkcn-news.vercel.app</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Mon, 09 Nov 2026 04:47:19 +0800</lastBuildDate>
+<item>
+<title>埃及列車相撞增至最少7死逾110傷　鐵路局指一列火車追尾撞另一列</title>
+<link>https://hkcn-news.vercel.app/a/20261109-egypt-train-collision-death-toll-7.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261109-egypt-train-collision-death-toll-7.html</guid>
+<pubDate>Mon, 09 Nov 2026 03:57:00 +0800</pubDate>
+<description>埃及衛生部表示，吉薩省星期日發生的客運列車相撞事故，死亡人數增至最少7人，受傷人數升至超過110人，傷者已送往附近醫院治療，部分人已經出院，其餘傷者繼續接受治療及醫學觀察。根據埃及鐵路局，一列由吉薩開往法尤姆的火車，追尾撞上一列由開羅開往南部城市阿斯旺的列車，部分車廂出軌，鐵路局已派員到場清理，爭取盡快恢復雙向行車。總統塞西向遇難者家屬表示哀悼，並指示相關部門提供必要醫療救治，迅速調查事故原因，依法追究相關人士的責任；中國駐埃及大使館表示，事件中目前無中國公民傷亡報告。</description>
+</item>
 <item>
 <title>伊拉克代表團據報訪德黑蘭　轉達美方信息</title>
 <link>https://hkcn-news.vercel.app/a/20261109-iraq-delegation-tehran-us-message.html</link>
@@ -344,13 +351,6 @@
 <guid>https://hkcn-news.vercel.app/a/20261108-bd-tung-chung-west-pillars-30.html</guid>
 <pubDate>Sun, 08 Nov 2026 00:18:00 +0800</pubDate>
 <description>屋宇署表示，港鐵東涌西站月台層部分混凝土柱施工欠妥，截至上星期五，註冊結構工程師在所有板模拆除後共發現約30條混凝土柱出現有關情況，署方已要求對方在本月中提交調查報告及建議補救措施。署方人員上月27日例行視察時已發現兩條混凝土柱欠妥，當場要求全面調查及盡快糾正，港鐵亦已指令暫停相關施工；註冊結構工程師團隊其後在板模陸續拆除後再發現其他同類情況，並於上星期二向署方匯報。署方指出，由於樓板的臨時支撐尚未拆除，有關情況不會對車站結構構成危險，臨時支撐只可在工程師團隊滿意相關工程後才可拆除；初步檢視亦無發現證據顯示有人故意偏離圖則，或負責人員違反守則及條例。</description>
-</item>
-<item>
-<title>新西蘭議會選舉料執政聯盟取得足夠議席繼續執政</title>
-<link>https://hkcn-news.vercel.app/a/20261107-new-zealand-election-coalition-projected-win.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261107-new-zealand-election-coalition-projected-win.html</guid>
-<pubDate>Sat, 07 Nov 2026 20:32:00 +0800</pubDate>
-<description>新西蘭議會選舉點票工作接近完成，根據官方公布的初步結果，推算國家黨單獨取得42席，連同執政聯盟內的行動黨和新西蘭優先黨，預料可獲過半數議席，繼續執政。至於主要反對黨工黨，推算將獲得36席。國家黨黨魁、總理拉克森有望連任，他在奧克蘭向支持者表示感到振奮，但強調目前的結果仍屬初步，正式結果將於本月27日公布。領導工黨的前總理希普金斯說，初步結果表明，各方在下屆議會均需要妥協，合作尋找共同基礎。</description>
 </item>
 </channel>
 </rss>

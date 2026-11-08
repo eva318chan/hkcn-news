@@ -1,5 +1,42 @@
 [
  {
+  "id": "20261109-egypt-train-collision-death-toll-7",
+  "category": "world",
+  "published_at": "2026-11-09T03:57:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877053-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "埃及列車相撞增至最少7死逾110傷　鐵路局指一列火車追尾撞另一列",
+   "en": "Egypt train collision death toll rises to at least seven, more than 110 injured",
+   "zh_hans": "埃及列车相撞增至最少7死逾110伤　铁路局指一列火车追尾撞另一列"
+  },
+  "summary": {
+   "zh_hant": "埃及衛生部表示，吉薩省星期日發生的客運列車相撞事故，死亡人數增至最少7人，受傷人數升至超過110人，傷者已送往附近醫院治療，部分人已經出院，其餘傷者繼續接受治療及醫學觀察。根據埃及鐵路局，一列由吉薩開往法尤姆的火車，追尾撞上一列由開羅開往南部城市阿斯旺的列車，部分車廂出軌，鐵路局已派員到場清理，爭取盡快恢復雙向行車。總統塞西向遇難者家屬表示哀悼，並指示相關部門提供必要醫療救治，迅速調查事故原因，依法追究相關人士的責任；中國駐埃及大使館表示，事件中目前無中國公民傷亡報告。",
+   "en": "Egypt's health ministry said the death toll from Sunday's passenger train collision in Giza province has risen to at least seven, with more than 110 people injured. The injured were taken to nearby hospitals; some have been discharged, while the rest remain under treatment and observation. According to the Egyptian National Railways Authority, a train travelling from Giza to Fayoum ran into the back of a train travelling from Cairo to the southern city of Aswan, derailing several carriages; crews have been sent to clear the site and restore two-way services as soon as possible. President Abdel Fattah el-Sisi expressed condolences to the victims' families and ordered the authorities to provide medical care, swiftly investigate the cause and hold those responsible to account; the Chinese embassy in Egypt said no Chinese nationals have been reported hurt.",
+   "zh_hans": "埃及卫生部表示，吉萨省星期日发生的客运列车相撞事故，死亡人数增至最少7人，受伤人数升至超过110人，伤者已送往附近医院治疗，部分人已经出院，其余伤者继续接受治疗及医学观察。根据埃及铁路局，一列由吉萨开往法尤姆的火车，追尾撞上一列由开罗开往南部城市阿斯旺的列车，部分车厢出轨，铁路局已派员到场清理，争取尽快恢复双向行车。总统塞西向遇难者家属表示哀悼，并指示相关部门提供必要医疗救治，迅速调查事故原因，依法追究相关人士的责任；中国驻埃及大使馆表示，事件中目前无中国公民伤亡报告。"
+  },
+  "tags": {
+   "zh_hant": [
+    "埃及",
+    "列車相撞",
+    "吉薩省"
+   ],
+   "en": [
+    "Egypt",
+    "train collision",
+    "Giza province"
+   ],
+   "zh_hans": [
+    "埃及",
+    "列车相撞",
+    "吉萨省"
+   ]
+  }
+ },
+ {
   "id": "20261109-iraq-delegation-tehran-us-message",
   "category": "world",
   "published_at": "2026-11-09T02:21:00+08:00",
