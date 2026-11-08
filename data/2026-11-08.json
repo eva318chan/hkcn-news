@@ -1,5 +1,79 @@
 [
  {
+  "id": "20261108-france-europe-russia-ukraine-talks",
+  "category": "world",
+  "published_at": "2026-11-08T21:25:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877036-20261108.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "法國外長稱歐洲將參與美方斡旋俄烏會談",
+   "en": "French foreign minister says Europe will take part in US-mediated Russia-Ukraine talks",
+   "zh_hans": "法国外长称欧洲将参与美方斡旋俄乌会谈"
+  },
+  "summary": {
+   "zh_hant": "法國外長巴羅表示，歐洲將會參與即將在阿聯酋舉行、由美國斡旋的俄烏會談。美國將於星期二和星期三，在阿聯酋首都阿布扎比舉行美俄烏工作層級談判，推動結束俄烏戰事；巴羅接受電台訪問時說，歐洲會有代表出席，法國亦會前往當地參與會談。美國總統特朗普日前說，他認為非常接近解決俄烏問題，會達成重大協議；俄羅斯克里姆林宮較早時則說，由於商定的是三方會談模式，歐洲不會參與會談，但俄羅斯遲早要與歐洲國家就歐洲未來的安全體系展開對話。",
+   "en": "French Foreign Minister Barrot has said Europe will take part in the upcoming US-mediated Russia-Ukraine talks to be held in the United Arab Emirates. The United States will hold working-level talks between the US, Russia and Ukraine in Abu Dhabi on Tuesday and Wednesday to push for an end to the war; Barrot told a radio interview that Europe will be represented and France will also attend. US President Donald Trump said recently that he believes a solution is very close and a major agreement will be reached. The Kremlin in Russia said earlier that, as the agreed format is trilateral talks, Europe will not take part, but Russia will sooner or later have to discuss Europe's future security architecture with European countries.",
+   "zh_hans": "法国外长巴罗表示，欧洲将会参与即将在阿联酋举行、由美国斡旋的俄乌会谈。美国将于星期二和星期三，在阿联酋首都阿布扎比举行美俄乌工作层级谈判，推动结束俄乌战事；巴罗接受电台访问时说，欧洲会有代表出席，法国亦会前往当地参与会谈。美国总统特朗普日前说，他认为非常接近解决俄乌问题，会达成重大协议；俄罗斯克里姆林宫较早时则说，由于商定的是三方会谈模式，欧洲不会参与会谈，但俄罗斯迟早要与欧洲国家就欧洲未来的安全体系展开对话。"
+  },
+  "tags": {
+   "zh_hant": [
+    "法國",
+    "俄烏會談",
+    "歐洲"
+   ],
+   "en": [
+    "France",
+    "Russia-Ukraine talks",
+    "Europe"
+   ],
+   "zh_hans": [
+    "法国",
+    "俄乌会谈",
+    "欧洲"
+   ]
+  }
+ },
+ {
+  "id": "20261108-egypt-train-derailment-giza",
+  "category": "world",
+  "published_at": "2026-11-08T20:50:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877035-20261108.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "埃及列車吉薩省出軌　至少50人受傷　司機死亡",
+   "en": "Train derails in Egypt's Giza province, at least 50 injured; driver killed",
+   "zh_hans": "埃及列车吉萨省出轨　至少50人受伤　司机死亡"
+  },
+  "summary": {
+   "zh_hant": "埃及一列由首都開羅開往南部城市阿斯旺的列車，星期日在吉薩省發生意外，四節車廂出軌。意外造成至少50人受傷，列車司機死亡。",
+   "en": "A train travelling from the Egyptian capital Cairo to the southern city of Aswan derailed in Giza province on Sunday, with four carriages leaving the tracks. At least 50 people were injured and the train driver was killed.",
+   "zh_hans": "埃及一列由首都开罗开往南部城市阿斯旺的列车，星期日在吉萨省发生意外，四节车厢出轨。意外造成至少50人受伤，列车司机死亡。"
+  },
+  "tags": {
+   "zh_hant": [
+    "埃及",
+    "列車出軌",
+    "吉薩"
+   ],
+   "en": [
+    "Egypt",
+    "train derailment",
+    "Giza"
+   ],
+   "zh_hans": [
+    "埃及",
+    "列车出轨",
+    "吉萨"
+   ]
+  }
+ },
+ {
   "id": "20261108-sun-dong-congratulates-nancy-ip",
   "category": "hk",
   "published_at": "2026-11-08T20:19:00+08:00",
@@ -70,6 +144,43 @@
     "海关",
     "干鱼翅",
     "濒危物种"
+   ]
+  }
+ },
+ {
+  "id": "20261108-ning-han-hao-construction-fraud-response",
+  "category": "hk",
+  "published_at": "2026-11-08T19:18:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877027-20261108.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "甯漢豪回應建造業涉「造假」　強調要「是其是、非其非」",
+   "en": "Bernadette Linn responds to alleged construction fraud, stressing right is right and wrong is wrong",
+   "zh_hans": "甯汉豪回应建造业涉「造假」　强调要「是其是、非其非」"
+  },
+  "summary": {
+   "zh_hant": "發展局局長甯漢豪出席電視節目時，被問及近期建造業界接連被指出現涉嫌「造假」的個案。她回應說，要「是其是、非其非」，違規者會受到很大的懲處。",
+   "en": "Secretary for Development Bernadette Linn, appearing on a television programme, was asked about a series of alleged fraud cases in the construction industry. She said it was a matter of calling right right and wrong wrong, and that offenders would face severe punishment.",
+   "zh_hans": "发展局局长甯汉豪出席电视节目时，被问及近期建造业界接连被指出现涉嫌「造假」的个案。她回应说，要「是其是、非其非」，违规者会受到很大的惩处。"
+  },
+  "tags": {
+   "zh_hant": [
+    "甯漢豪",
+    "建造業",
+    "發展局"
+   ],
+   "en": [
+    "Bernadette Linn",
+    "construction industry",
+    "Development Bureau"
+   ],
+   "zh_hans": [
+    "甯汉豪",
+    "建造业",
+    "发展局"
    ]
   }
  },
