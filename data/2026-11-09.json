@@ -1,5 +1,227 @@
 [
  {
+  "id": "20261109-china-launches-satellite-internet-29-satellites",
+  "category": "china",
+  "published_at": "2026-11-09T08:38:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877072-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "中國成功發射衛星互聯網低軌29組衛星　長征十二號升空",
+   "en": "China successfully launches 29 low-orbit satellite internet satellites aboard Long March 12",
+   "zh_hans": "中国成功发射卫星互联网低轨29组卫星　长征十二号升空"
+  },
+  "summary": {
+   "zh_hant": "中國在凌晨4時24分，於海南商業航天發射場使用長征十二號運載火箭，成功將衛星互聯網低軌29組衛星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。",
+   "en": "At 4:24am, China used a Long March 12 carrier rocket at the Hainan Commercial Space Launch Site to successfully launch 29 low-orbit satellite internet satellites, which entered their planned orbit and completed the mission successfully.",
+   "zh_hans": "中国在凌晨4时24分，于海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨29组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。"
+  },
+  "tags": {
+   "zh_hant": [
+    "中國",
+    "衛星",
+    "航天"
+   ],
+   "en": [
+    "China",
+    "satellites",
+    "space"
+   ],
+   "zh_hans": [
+    "中国",
+    "卫星",
+    "航天"
+   ]
+  }
+ },
+ {
+  "id": "20261109-kwun-tong-line-equipment-fault-delays",
+  "category": "hk",
+  "published_at": "2026-11-09T08:37:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877071-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "觀塘綫列車設備故障　黃埔至調景嶺行車時間多8至10分鐘",
+   "en": "Kwun Tong line train equipment fault adds 8 to 10 minutes to journeys between Whampoa and Tiu Keng Leng",
+   "zh_hans": "观塘线列车设备故障　黄埔至调景岭行车时间多8至10分钟"
+  },
+  "summary": {
+   "zh_hant": "港鐵表示，何文田站有列車設備故障，現時觀塘綫來往黃埔站及調景嶺站的整體行車時間，預計需要額外8至10分鐘。港鐵呼籲乘客為行程預留充裕時間。",
+   "en": "The MTR said a train equipment fault at Ho Man Tin station means overall journey times on the Kwun Tong line between Whampoa and Tiu Keng Leng stations are expected to take an extra 8 to 10 minutes. Passengers are advised to allow extra time for their journeys.",
+   "zh_hans": "港铁表示，何文田站有列车设备故障，现时观塘线来往黄埔站及调景岭站的整体行车时间，预计需要额外8至10分钟。港铁呼吁乘客为行程预留充裕时间。"
+  },
+  "tags": {
+   "zh_hant": [
+    "港鐵",
+    "觀塘綫",
+    "交通"
+   ],
+   "en": [
+    "MTR",
+    "Kwun Tong line",
+    "transport"
+   ],
+   "zh_hans": [
+    "港铁",
+    "观塘线",
+    "交通"
+   ]
+  }
+ },
+ {
+  "id": "20261109-trump-iran-talks-unlikely-resume-strikes",
+  "category": "world",
+  "published_at": "2026-11-09T08:13:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877068-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "特朗普稱談判有進展將極不可能再襲伊朗　但美軍已準備就緒",
+   "en": "Trump says US very unlikely to resume strikes on Iran if talks progress, but military is ready",
+   "zh_hans": "特朗普称谈判有进展将极不可能再袭伊朗　但美军已准备就绪"
+  },
+  "summary": {
+   "zh_hant": "美國總統特朗普表示，只要美伊談判取得進展，美國極不可能恢復對伊朗的大規模軍事行動，但他同時強調駐中東美軍已準備就緒，並未排除再次動武的可能。特朗普說，美國是否動武，取決於美伊能否就伊朗核計劃和重新開放霍爾木茲海峽等簽署一份強而有力的協議。伊朗傳媒報道，伊朗南部阿巴斯港和格什姆島附近星期六晚聽到爆炸聲，伊朗官方未有回應。",
+   "en": "US President Donald Trump said the United States is very unlikely to resume large-scale military action against Iran as long as US-Iran talks make progress, while stressing that US forces in the Middle East are ready and not ruling out the use of force again. Trump said whether the US uses force depends on whether the two sides can sign a strong agreement on Iran's nuclear programme and the reopening of the Strait of Hormuz. Iranian media reported explosions heard near the southern port of Abbas and Qeshm Island on Saturday night; Iranian officials have not responded.",
+   "zh_hans": "美国总统特朗普表示，只要美伊谈判取得进展，美国极不可能恢复对伊朗的大规模军事行动，但他同时强调驻中东美军已准备就绪，并未排除再次动武的可能。特朗普说，美国是否动武，取决于美伊能否就伊朗核计划和重新开放霍尔木兹海峡等签署一份强而有力的协议。伊朗传媒报道，伊朗南部阿巴斯港和格什姆岛附近星期六晚听到爆炸声，伊朗官方未有回应。"
+  },
+  "tags": {
+   "zh_hant": [
+    "特朗普",
+    "伊朗",
+    "美伊談判"
+   ],
+   "en": [
+    "Donald Trump",
+    "Iran",
+    "US-Iran talks"
+   ],
+   "zh_hans": [
+    "特朗普",
+    "伊朗",
+    "美伊谈判"
+   ]
+  }
+ },
+ {
+  "id": "20261109-kospi-falls-about-1-percent",
+  "category": "finance",
+  "published_at": "2026-11-09T08:08:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877067-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "韓股初段跌約1%　首爾綜合指數跌46點報5013點",
+   "en": "South Korean stocks fall about 1% in early trading; KOSPI down 46 points at 5,013",
+   "zh_hans": "韩股初段跌约1%　首尔综合指数跌46点报5013点"
+  },
+  "summary": {
+   "zh_hant": "韓國股市在開市初段跌約1%，首爾綜合指數較早時報5013點，跌46點，跌幅0.92%。",
+   "en": "South Korean stocks fell about 1% in early trading, with the KOSPI at 5,013 points, down 46 points or 0.92%.",
+   "zh_hans": "韩国股市在开市初段跌约1%，首尔综合指数较早时报5013点，跌46点，跌幅0.92%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "韓股",
+    "首爾綜合指數",
+    "韓國股市"
+   ],
+   "en": [
+    "South Korean stocks",
+    "KOSPI",
+    "South Korea"
+   ],
+   "zh_hans": [
+    "韩股",
+    "首尔综合指数",
+    "韩国股市"
+   ]
+  }
+ },
+ {
+  "id": "20261109-nikkei-rises-over-1-percent",
+  "category": "finance",
+  "published_at": "2026-11-09T08:06:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877066-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "日股初段升逾1%　日經指數升684點報58118點",
+   "en": "Japanese stocks rise over 1% in early trading; Nikkei up 684 points at 58,118",
+   "zh_hans": "日股初段升逾1%　日经指数升684点报58118点"
+  },
+  "summary": {
+   "zh_hant": "日本股市在開市初段升逾1%，日經平均指數較早時報58118點，升684點，升幅1.19%。",
+   "en": "Japanese stocks rose more than 1% in early trading, with the Nikkei average at 58,118 points, up 684 points or 1.19%.",
+   "zh_hans": "日本股市在开市初段升逾1%，日经平均指数较早时报58118点，升684点，升幅1.19%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "日股",
+    "日經指數",
+    "日本股市"
+   ],
+   "en": [
+    "Japanese stocks",
+    "Nikkei",
+    "Japan"
+   ],
+   "zh_hans": [
+    "日股",
+    "日经指数",
+    "日本股市"
+   ]
+  }
+ },
+ {
+  "id": "20261109-krakow-shooting-prosecutor-terror-probe",
+  "category": "world",
+  "published_at": "2026-11-09T07:13:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877061-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "波蘭檢方確認克拉科夫槍手殺害父母及胞妹　檢獲11支槍　列恐怖主義犯罪調查",
+   "en": "Poland prosecutors say Krakow gunman killed his parents and sister; 11 guns seized as shooting probed as terrorism",
+   "zh_hans": "波兰检方确认克拉科夫枪手杀害父母及胞妹　检获11支枪　列恐怖主义犯罪调查"
+  },
+  "summary": {
+   "zh_hant": "波蘭國家檢察院表示，已就上星期六在克拉科夫發生的槍擊案展開調查，列為具恐怖主義性質的犯罪，同時涵蓋波蘭中南部一所住宅內三人被殺的案件。檢方確認，住宅內的死者是槍手的父母及妹妹，調查人員在屋內檢獲七支槍及大量彈藥，連同槍擊案現場檢獲的槍支，合共十一支。檢方計劃星期一上午開始為兩案九名死者驗屍，相關工作可能持續兩日。",
+   "en": "Poland's National Prosecutor's Office said it has opened an investigation into the shooting in Krakow last Saturday, treating it as a crime of a terrorist nature, alongside the killing of three people at a home in south-central Poland. Prosecutors confirmed the three dead at the home were the gunman's parents and sister, and investigators found seven guns and large amounts of ammunition there, bringing the total seized with those recovered at the shooting scene to 11. Autopsies of the nine dead in the two cases are due to begin on Monday morning and may take two days.",
+   "zh_hans": "波兰国家检察院表示，已就上星期六在克拉科夫发生的枪击案展开调查，列为具恐怖主义性质的犯罪，同时涵盖波兰中南部一所住宅内三人被杀的案件。检方确认，住宅内的死者是枪手的父母及妹妹，调查人员在屋内检获七支枪及大量弹药，连同枪击案现场检获的枪支，合共十一支。检方计划星期一上午开始为两案九名死者验尸，相关工作可能持续两日。"
+  },
+  "tags": {
+   "zh_hant": [
+    "波蘭",
+    "克拉科夫",
+    "槍擊案"
+   ],
+   "en": [
+    "Poland",
+    "Krakow",
+    "shooting"
+   ],
+   "zh_hans": [
+    "波兰",
+    "克拉科夫",
+    "枪击案"
+   ]
+  }
+ },
+ {
   "id": "20261109-jensen-huang-apology-board-investigation",
   "category": "tech",
   "published_at": "2026-11-09T06:16:00+08:00",
