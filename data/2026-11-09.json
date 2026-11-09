@@ -1,5 +1,412 @@
 [
  {
+  "id": "20261109-ocean-park-tower-breakdown-40-trapped",
+  "category": "hk",
+  "published_at": "2026-11-09T16:39:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877137-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "海洋公園海洋摩天塔機件故障　約40人一度被困",
+   "en": "Ocean Park's Ocean Tower breaks down; about 40 people briefly trapped",
+   "zh_hans": "海洋公园海洋摩天塔机件故障　约40人一度被困"
+  },
+  "summary": {
+   "zh_hant": "海洋公園的海洋摩天塔，下午約3時半發生機件故障，約有40人一度被困，其中有一名旅客感到不適求助。",
+   "en": "Ocean Park's Ocean Tower suffered a mechanical fault at about 3:30 this afternoon, leaving about 40 people briefly trapped, one of whom felt unwell and sought help.",
+   "zh_hans": "海洋公园的海洋摩天塔，下午约3时半发生机件故障，约有40人一度被困，其中有一名旅客感到不适求助。"
+  },
+  "tags": {
+   "zh_hant": [
+    "海洋公園",
+    "海洋摩天塔",
+    "機件故障"
+   ],
+   "en": [
+    "Ocean Park",
+    "Ocean Tower",
+    "breakdown"
+   ],
+   "zh_hans": [
+    "海洋公园",
+    "海洋摩天塔",
+    "机件故障"
+   ]
+  }
+ },
+ {
+  "id": "20261109-hang-seng-down-32-points-turnover-1737b",
+  "category": "finance",
+  "published_at": "2026-11-09T16:23:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877134-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "港股低收32點　成交減至1737億元",
+   "en": "Hang Seng closes 32 points lower; turnover shrinks to HK$173.7 billion",
+   "zh_hans": "港股低收32点　成交减至1737亿元"
+  },
+  "summary": {
+   "zh_hant": "港股高開低走，恒生指數初段最多升近260點，高見24738點，尾市轉跌，收報24448點，跌32點，跌幅0.13%。主板成交額減至1737億元，是逾1星期以來首次不足2000億元。科技指數早段曾升近2%，收市倒跌近1%，報4040點。ATMXJ都跌，美團急挫6.5%，是表現最差藍籌股。AI大模型股份反彈，晶片及醫藥股普遍向上，華虹、藥明康德、藥明生物都升2%以上。煤炭股造好，內需股個別發展，神華升逾1%，百威亞太升逾3%，李寧跌近3%。內房及手機設備股偏軟，汽車股個別發展，蔚來升近3%，零跑跌7%。",
+   "en": "Hong Kong stocks opened higher and closed lower, with the Hang Seng Index up as much as nearly 260 points early in the session to 24,738 before turning down to close at 24,448, down 32 points or 0.13 per cent. Main-board turnover fell to HK$173.7 billion, the first time in more than a week it has come in below HK$200 billion. The tech index was up nearly 2 per cent early on but closed down nearly 1 per cent at 4,040. All ATMXJ stocks fell, with Meituan tumbling 6.5 per cent, the worst-performing blue chip. AI large-model stocks rebounded, while chip and pharmaceutical stocks were mostly higher, with Hua Hong, WuXi AppTec and WuXi Biologics all up more than 2 per cent. Coal stocks did well and domestic-demand stocks were mixed, with Shenhua up more than 1 per cent, Budweiser APAC up more than 3 per cent and Li Ning down nearly 3 per cent. Property and handset-component stocks were soft, while car stocks were mixed, with Nio up nearly 3 per cent and Leapmotor down 7 per cent.",
+   "zh_hans": "港股高开低走，恒生指数初段最多升近260点，高见24738点，尾市转跌，收报24448点，跌32点，跌幅0.13%。主板成交额减至1737亿元，是逾1星期以来首次不足2000亿元。科技指数早段曾升近2%，收市倒跌近1%，报4040点。ATMXJ都跌，美团急挫6.5%，是表现最差蓝筹股。AI大模型股份反弹，芯片及医药股普遍向上，华虹、药明康德、药明生物都升2%以上。煤炭股造好，内需股个别发展，神华升逾1%，百威亚太升逾3%，李宁跌近3%。内房及手机设备股偏软，汽车股个别发展，蔚来升近3%，零跑跌7%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "港股",
+    "恒生指數",
+    "美團"
+   ],
+   "en": [
+    "Hang Seng",
+    "HSI",
+    "Meituan"
+   ],
+   "zh_hans": [
+    "港股",
+    "恒生指数",
+    "美团"
+   ]
+  }
+ },
+ {
+  "id": "20261109-robots-in-community-pilot-applications",
+  "category": "tech",
+  "published_at": "2026-11-09T16:17:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877133-20261109.htm"
+  },
+  "image_url": "https://newsstatic.rthk.hk/images/mfile_1877133_1_M_20261109163417.jpg",
+  "title": {
+   "zh_hant": "「機器人走入社區」試驗計劃接受申請　人形機器人參與社區活動",
+   "en": "'Robots in the Community' pilot opens for applications; humanoid robots to join community events",
+   "zh_hans": "「机器人走入社区」试验计划接受申请　人形机器人参与社区活动"
+  },
+  "summary": {
+   "zh_hant": "數字政策辦公室宣布，「機器人走入社區」試驗計劃即日起接受合資格機構申請借用機器人於免費社區活動展演，截止日期為本月20日，申請費用全免。試驗計劃透過免費借出名為「友智寶」的人形機器人，參與社區機構舉辦的活動，讓市民近距離接觸人形機器人，提升市民對具身智能的認知。申請機構須為在香港為公眾或地區居民服務而成立的機構，例如公司、會社、立法會或區議會議員辦事處、地區組織、社福機構等。本輪申請擬舉辦的社區活動須於今年12月15日至明年2月28日期間舉行，「友智寶」可在社區活動中表演跳舞、功夫，也可變身科普大使，跟參加者分享具身智能和其他數碼科技知識。",
+   "en": "The Digital Policy Office announced that the first round of the 'Robots in the Community' pilot programme is now open for applications from eligible organisations to borrow robots for free community events, with applications closing on 20 November and no application fee. The programme lends a humanoid robot named 'Smart Bot' free of charge to take part in events organised by community bodies, letting the public get close to humanoid robots and learn more about embodied intelligence. Applicants must be organisations established in Hong Kong to serve the public or local residents, such as companies, associations, Legislative Council or District Council members' offices, district organisations and social welfare agencies. Events in this round must be held between 15 December this year and 28 February next year; 'Smart Bot' can perform dancing and kung fu at community events and also act as a science ambassador, sharing knowledge about embodied intelligence and other digital technologies with participants.",
+   "zh_hans": "数字政策办公室宣布，「机器人走入社区」试验计划即日起接受合资格机构申请借用机器人于免费社区活动展演，截止日期为本月20日，申请费用全免。试验计划透过免费借出名为「友智宝」的人形机器人，参与社区机构举办的活动，让市民近距离接触人形机器人，提升市民对具身智能的认知。申请机构须为在香港为公众或地区居民服务而成立的机构，例如公司、会社、立法会或区议会议员办事处、地区组织、社福机构等。本轮申请拟举办的社区活动须于今年12月15日至明年2月28日期间举行，「友智宝」可在社区活动中表演跳舞、功夫，也可变身科普大使，跟参加者分享具身智能和其他数码科技知识。"
+  },
+  "tags": {
+   "zh_hant": [
+    "機器人",
+    "數字政策辦公室",
+    "具身智能"
+   ],
+   "en": [
+    "robots",
+    "Digital Policy Office",
+    "embodied AI"
+   ],
+   "zh_hans": [
+    "机器人",
+    "数字政策办公室",
+    "具身智能"
+   ]
+  }
+ },
+ {
+  "id": "20261109-kwong-wing-ice-room-licence-cancelled",
+  "category": "hk",
+  "published_at": "2026-11-09T16:11:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877132-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "元朗「光榮冰室」屢次違例　食環署取消牌照須即時停業",
+   "en": "Yuen Long's Kwong Wing Ice Room loses licence over repeated hygiene offences",
+   "zh_hans": "元朗「光荣冰室」屡次违例　食环署取消牌照须即时停业"
+  },
+  "summary": {
+   "zh_hant": "食環署表示，位於元朗的「光榮冰室」持牌人因食物室不潔及未有妥善維修其衞生設備，屢次違反《食物業規例》，今日被食環署署長取消牌照，須即時停業。有關食肆位於元朗安樂路10至12號、教育路44、46及50號兆明樓地下B舖。食環署發言人說，有關食肆經營者因上述違例事項，今年8月8次被法庭定罪，共罰款4000元。署方亦根據違例記分制記下持牌人65分，食肆因此被取消牌照。",
+   "en": "The Food and Environmental Hygiene Department said the licensee of Kwong Wing Ice Room in Yuen Long had its licence cancelled by the Director of Food and Environmental Hygiene today for repeated breaches of the Food Business Regulation, including an unclean food room and failure to properly maintain hygiene facilities, and the restaurant must close immediately. The restaurant is located at Shop B on the ground floor of Siu Ming Building, 44, 46 and 50 Kau Yuk Road and 10-12 Hong Lok Road, Yuen Long. An FEHD spokesman said the operator was convicted eight times in court in August this year for the offences and fined a total of HK$4,000, and the department also recorded 65 demerit points against the licensee under the demerit points system, leading to the licence cancellation.",
+   "zh_hans": "食环署表示，位于元朗的「光荣冰室」持牌人因食物室不洁及未有妥善维修其卫生设备，屡次违反《食物业规例》，今日被食环署署长取消牌照，须即时停业。有关食肆位于元朗安乐路10至12号、教育路44、46及50号兆明楼地下B铺。食环署发言人说，有关食肆经营者因上述违例事项，今年8月8次被法庭定罪，共罚款4000元。署方亦根据违例记分制记下持牌人65分，食肆因此被取消牌照。"
+  },
+  "tags": {
+   "zh_hant": [
+    "光榮冰室",
+    "食環署",
+    "食物牌照"
+   ],
+   "en": [
+    "Kwong Wing Ice Room",
+    "FEHD",
+    "food licence"
+   ],
+   "zh_hans": [
+    "光荣冰室",
+    "食环署",
+    "食物牌照"
+   ]
+  }
+ },
+ {
+  "id": "20261109-krakow-gunman-dies-hospital",
+  "category": "world",
+  "published_at": "2026-11-09T16:07:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877130-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "波蘭克拉科夫槍擊案　中槍被捕槍手延至凌晨不治",
+   "en": "Krakow shooting: gunman shot by police dies in hospital",
+   "zh_hans": "波兰克拉科夫枪击案　中枪被捕枪手延至凌晨不治"
+  },
+  "summary": {
+   "zh_hant": "波蘭警方通報，日前在克拉科夫槍擊事件中中槍被捕的槍手，延至今日凌晨在醫院死亡。案發在上星期六下午，一名24歲持槍男子駕車衝入第二大城市克拉科夫中央廣場，隨機向路人開槍，隨後被趕到的警員擊傷拘捕，事件造成六人死亡、超過十人受傷，當局定性為恐怖襲擊。警方其後在槍手的住所內發現三具遺體，證實屬於槍手的父母和妹妹，相信兩宗案件是同一人所為。",
+   "en": "Polish police said the gunman who was shot and arrested in the Krakow shooting died in hospital in the early hours of today. The attack happened on Saturday afternoon, when a 24-year-old armed man drove into the central square of Krakow, Poland's second-largest city, and opened fire at passers-by at random, before being shot and arrested by police officers who rushed to the scene. Six people were killed and more than ten injured, and the authorities have classified the incident as a terrorist attack. Police later found three bodies at the gunman's home, confirmed to be his parents and younger sister, and believe the same person was responsible for both cases.",
+   "zh_hans": "波兰警方通报，日前在克拉科夫枪击事件中中枪被捕的枪手，延至今日凌晨在医院死亡。案发在上星期六下午，一名24岁持枪男子驾车冲入第二大城市克拉科夫中央广场，随机向路人开枪，随后被赶到的警员击伤拘捕，事件造成六人死亡、超过十人受伤，当局定性为恐怖袭击。警方其后在枪手的住所内发现三具遗体，证实属于枪手的父母和妹妹，相信两宗案件是同一人所为。"
+  },
+  "tags": {
+   "zh_hant": [
+    "波蘭",
+    "克拉科夫",
+    "槍擊案"
+   ],
+   "en": [
+    "Poland",
+    "Krakow",
+    "shooting"
+   ],
+   "zh_hans": [
+    "波兰",
+    "克拉科夫",
+    "枪击案"
+   ]
+  }
+ },
+ {
+  "id": "20261109-customs-seizes-controlled-injections-16000",
+  "category": "hk",
+  "published_at": "2026-11-09T16:03:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877129-20261109.htm"
+  },
+  "image_url": "https://newsstatic.rthk.hk/images/mfile_1877129_1_M_20261109160948.jpg",
+  "title": {
+   "zh_hant": "海關檢獲約1.6萬元懷疑受管制針劑　兩人被捕",
+   "en": "Customs seizes suspected controlled injections worth about HK$16,000; two arrested",
+   "zh_hans": "海关检获约1.6万元怀疑受管制针剂　两人被捕"
+  },
+  "summary": {
+   "zh_hant": "海關本月初截獲兩宗輸入懷疑受管制針劑案件，檢獲懷疑屬藥劑製品的6支針劑，估計市值共約16,000元。海關人員於11月4日查驗兩件從英國經深圳灣口岸抵港的快遞包裹，經查驗後在包裹內發現該批懷疑屬藥劑製品的針劑。經跟進調查後，海關翌日分別拘捕兩名懷疑涉案的40歲男收貨人及41歲女收貨人。案件仍在調查中，兩名被捕人士現獲准保釋。",
+   "en": "Hong Kong Customs cracked two cases of imported suspected controlled injections earlier this month, seizing six suspected pharmaceutical injections with an estimated market value of about HK$16,000. On 4 November, officers examined two express parcels from the United Kingdom arriving via the Shenzhen Bay Control Point and found the suspected pharmaceutical injections inside. Follow-up investigations led to the arrest the next day of a 40-year-old male recipient and a 41-year-old female recipient. The cases are still under investigation and both arrested persons have been released on bail.",
+   "zh_hans": "海关本月初截获两宗输入怀疑受管制针剂案件，检获怀疑属药剂制品的6支针剂，估计市值共约16,000元。海关人员于11月4日查验两件从英国经深圳湾口岸抵港的快递包裹，经查验后在包裹内发现该批怀疑属药剂制品的针剂。经跟进调查后，海关于翌日分别拘捕两名怀疑涉案的40岁男收货人及41岁女收货人。案件仍在调查中，两名被捕人士现获准保释。"
+  },
+  "tags": {
+   "zh_hant": [
+    "海關",
+    "受管制藥物",
+    "深圳灣"
+   ],
+   "en": [
+    "Customs",
+    "controlled drugs",
+    "Shenzhen Bay"
+   ],
+   "zh_hans": [
+    "海关",
+    "受管制药物",
+    "深圳湾"
+   ]
+  }
+ },
+ {
+  "id": "20261109-tai-yat-lift-door-frames-720-criminal-probe",
+  "category": "hk",
+  "published_at": "2026-11-09T15:59:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877128-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "臺日電梯720部升降機漏裝門框組件　機電署：涉嚴重疏忽已報案",
+   "en": "Tai Yat lifts: 720 lifts missing door frame components; EMSD cites serious negligence and reports case to police",
+   "zh_hans": "台日电梯720部升降机漏装门框组件　机电署：涉严重疏忽已报案"
+  },
+  "summary": {
+   "zh_hant": "「臺日電梯」涉嫌漏裝門框事件，機電工程署署長潘國英表示，已完成巡查全港由「臺日」安裝的升降機，當中包括兩個租者置其屋計劃屋邨共11幢樓，以及另外38幢私樓，發現合共720部升降機並無按法例要求安裝有關門框組件，佔「臺日」安裝的升降機總數約九成。至於其他註冊承辦商安裝的升降機，署方說截至昨日已抽檢480幢樓宇共約900部升降機，確認全部均已安裝門框組件。潘國英又說，初步證據顯示「臺日」在升降機工程方面涉嫌觸犯嚴重疏忽及行為不當，署方會繼續調查，不會姑息違法行為。由於事件涉及欺詐和虛假陳述的刑事行為，警方已展開相關調查。",
+   "en": "In the Tai Yat lift door-frame case, the Director of Electrical and Mechanical Services said inspections of all lifts installed by Tai Yat across Hong Kong have been completed, covering 11 blocks in two Tenants Purchase Scheme estates and 38 other private buildings. A total of 720 lifts were found without the door frame components required by law, about 90 per cent of all lifts installed by Tai Yat. As for lifts installed by other registered contractors, the department said that as of yesterday it had spot-checked about 900 lifts in 480 buildings and confirmed all had the components installed. The director said preliminary evidence shows Tai Yat may have committed serious negligence and misconduct in lift works, and the department will continue its investigation and will not tolerate unlawful conduct. As the case involves fraud and false statements, the police have opened a criminal investigation.",
+   "zh_hans": "「台日电梯」涉嫌漏装门框事件，机电工程署署长潘国英表示，已完成巡查全港由「台日」安装的升降机，当中包括两个租者置其屋计划屋邨共11幢楼，以及另外38幢私楼，发现合共720部升降机并无按法例要求安装有关门框组件，占「台日」安装的升降机总数约九成。至于其他注册承办商安装的升降机，署方说截至昨日已抽检480幢楼宇共约900部升降机，确认全部均已安装门框组件。潘国英又说，初步证据显示「台日」在升降机工程方面涉嫌触犯严重疏忽及行为不当，署方会继续调查，不会姑息违法行为。由于事件涉及欺诈和虚假陈述的刑事行为，警方已展开相关调查。"
+  },
+  "tags": {
+   "zh_hant": [
+    "臺日電梯",
+    "升降機安全",
+    "機電工程署"
+   ],
+   "en": [
+    "Tai Yat lifts",
+    "lift safety",
+    "EMSD"
+   ],
+   "zh_hans": [
+    "台日电梯",
+    "升降机安全",
+    "机电工程署"
+   ]
+  }
+ },
+ {
+  "id": "20261109-nvidia-huang-china-spy-claims-groundless",
+  "category": "china",
+  "published_at": "2026-11-09T15:54:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877127-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "Nvidia查黃仁勳　中方指中國間諜論調是捕風捉影",
+   "en": "Nvidia probes Jensen Huang; Beijing says China-spy claims are groundless smears",
+   "zh_hans": "Nvidia查黄仁勋　中方指中国间谍论调是捕风捉影"
+  },
+  "summary": {
+   "zh_hant": "美國晶片製造商Nvidia行政總裁黃仁勳承認有婚外情，董事會正調查他是否曾經成為外國情報活動的目標，目前相信沒有涉及美國國家安全或公司的機密信息外洩。美國總統特朗普形容黃仁勳是好人、為人正直。《紐約時報》上月報道，黃仁勳與一名中國籍女商人關係密切，美國情報官員認為這名女子可能是中國間諜，特朗普亦曾接獲相關情報。在北京，外交部發言人郭嘉昆強調，所謂中國間諜的論調純粹捕風捉影、污蔑抹黑。對於特朗普預計下星期出席亞太經合組織會議期間會與中國國家主席習近平及俄羅斯總統普京會面，郭嘉昆說中方就中俄美元首會晤與相關方保持溝通。",
+   "en": "Nvidia chief executive Jensen Huang has admitted to an extramarital affair, and the board is investigating whether he was ever a target of foreign intelligence activity, while currently believing no US national security or company confidential information was leaked. US President Donald Trump described Huang as a good and upright man. The New York Times reported last month that Huang was close to a Chinese businesswoman whom US intelligence officials believed could be a Chinese spy, and Trump had also received related intelligence. In Beijing, foreign ministry spokesman Guo Jiakun stressed that the so-called China-spy claims are pure speculation and smears. On Trump expecting to meet Chinese President Xi Jinping and Russian President Vladimir Putin during next week's APEC meetings, Guo said China remains in communication with the relevant parties on meetings between the Chinese, Russian and US leaders.",
+   "zh_hans": "美国芯片制造商Nvidia行政总裁黄仁勋承认有婚外情，董事会正调查他是否曾经成为外国情报活动的目标，目前相信没有涉及美国国家安全或公司的机密信息外泄。美国总统特朗普形容黄仁勋是好人、为人正直。《纽约时报》上月报道，黄仁勋与一名中国籍女商人关系密切，美国情报官员认为这名女子可能是中国间谍，特朗普亦曾接获相关情报。在北京，外交部发言人郭嘉昆强调，所谓中国间谍的论调纯粹捕风捉影、污蔑抹黑。对于特朗普预计下星期出席亚太经合组织会议期间会与中国国家主席习近平及俄罗斯总统普京会面，郭嘉昆说中方就中俄美元首会晤与相关方保持沟通。"
+  },
+  "tags": {
+   "zh_hant": [
+    "黃仁勳",
+    "Nvidia",
+    "中美關係"
+   ],
+   "en": [
+    "Jensen Huang",
+    "Nvidia",
+    "China-US relations"
+   ],
+   "zh_hans": [
+    "黄仁勋",
+    "Nvidia",
+    "中美关系"
+   ]
+  }
+ },
+ {
+  "id": "20261109-northern-metropolis-bill-second-reading-wednesday",
+  "category": "hk",
+  "published_at": "2026-11-09T15:46:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877125-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "北都條例草案周三恢復二讀　梁美芬：草案具獨特歷史意義",
+   "en": "Northern Metropolis bill resumes second reading on Wednesday; Priscilla Leung says it carries unique historic significance",
+   "zh_hans": "北都条例草案周三恢复二读　梁美芬：草案具独特历史意义"
+  },
+  "summary": {
+   "zh_hant": "《北部都會區發展條例草案》將於本周三恢復二讀辯論。草案委員會主席梁美芬說，今次是香港有史以來首次為單一區域制定專屬法例，具有獨特歷史意義，草案旨在劃定北都範圍，推出便利措施，並賦權行政長官會同行政會議訂定附屬法例，目標是拆牆鬆綁，全面精簡土地規劃和地政程序，讓北都發展全速前進。梁美芬說，草案聚焦土地規劃和地政程序，不涵蓋稅務優惠、低空經濟、水域等領域，委員會已要求政府提交綜合性解說文件，向大眾、海外投資者及進駐北都人士整體解說此專屬法例。法案委員會為嚴格把關舉行了12次會議，審議約30小時，期間就主體條例及5條政府準備好的相關附屬法例，中英文版一起參考討論。",
+   "en": "Second-reading debate on the Northern Metropolis Development Bill will resume on Wednesday. Bills committee chairwoman Priscilla Leung said it is the first time Hong Kong has enacted dedicated legislation for a single region, giving it unique historic significance. The bill aims to delineate the Northern Metropolis area, introduce facilitation measures and empower the Chief Executive in Council to make subsidiary legislation, with the goal of cutting red tape and comprehensively streamlining land planning and land administration procedures so development can proceed at full speed. Leung said the bill focuses on land planning and land administration and does not cover tax incentives, the low-altitude economy or waters, and the committee has asked the government to produce a comprehensive explanatory document for the public, overseas investors and those moving into the Northern Metropolis. To scrutinise the bill rigorously, the committee held 12 meetings over about 30 hours, examining the principal ordinance and the five related subsidiary laws prepared by the government, in both Chinese and English.",
+   "zh_hans": "《北部都会区发展条例草案》将于本周三恢复二读辩论。草案委员会主席梁美芬说，今次是香港有史以来首次为单一区域制定专属法例，具有独特历史意义，草案旨在划定北都范围，推出便利措施，并赋权行政长官会同行政会议订定附属法例，目标是拆墙松绑，全面精简土地规划和地政程序，让北都发展全速前进。梁美芬说，草案聚焦土地规划和地政程序，不涵盖税务优惠、低空经济、水域等领域，委员会已要求政府提交综合性解说文件，向大众、海外投资者及进驻北都人士整体解说此专属法例。法案委员会为严格把关举行了12次会议，审议约30小时，期间就主体条例及5条政府准备好的相关附属法例，中英文版一起参考讨论。"
+  },
+  "tags": {
+   "zh_hant": [
+    "北部都會區",
+    "立法會",
+    "梁美芬"
+   ],
+   "en": [
+    "Northern Metropolis",
+    "Legislative Council",
+    "Priscilla Leung"
+   ],
+   "zh_hans": [
+    "北部都会区",
+    "立法会",
+    "梁美芬"
+   ]
+  }
+ },
+ {
+  "id": "20261109-china-oct-passenger-car-sales-down-27pct",
+  "category": "finance",
+  "published_at": "2026-11-09T15:06:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877122-20261109.htm"
+  },
+  "image_url": "https://newsstatic.rthk.hk/images/mfile_1877122_1_M_20261109150302.jpg",
+  "title": {
+   "zh_hant": "內地10月乘用車零售按年跌27%　新能源車滲透率67.5%創新高",
+   "en": "Mainland passenger car sales fall 27% in October; NEV penetration hits record 67.5%",
+   "zh_hans": "内地10月乘用车零售按年跌27%　新能源车渗透率67.5%创新高"
+  },
+  "summary": {
+   "zh_hant": "中國乘用車市場信息聯席分會公布，10月狹義乘用車市場零售164.3萬輛，按年下跌27.1%，按月則升1.5%。上月新能源車市場零售110.9萬輛，按年下跌13.7%，按月上升2.3%，新能源車國內零售滲透率升至67.5%，創歷來新高。今年1至10月狹義乘用車市場零售累計1497.8萬輛，按年下跌22.3%；新能源車市場零售886.9萬輛，按年下跌12.9%。",
+   "en": "The China Passenger Car Association said retail sales of narrowly defined passenger cars reached 1.643 million in October, down 27.1 per cent year on year but up 1.5 per cent month on month. New-energy vehicle retail sales were 1.109 million, down 13.7 per cent year on year and up 2.3 per cent month on month, with NEVs' share of domestic retail sales rising to 67.5 per cent, a record high. In the first ten months of the year, passenger car retail sales totalled 14.978 million, down 22.3 per cent year on year, while NEV retail sales reached 8.869 million, down 12.9 per cent.",
+   "zh_hans": "中国乘用车市场信息联席分会公布，10月狭义乘用车市场零售164.3万辆，按年下跌27.1%，按月则升1.5%。上月新能源车市场零售110.9万辆，按年下跌13.7%，按月上升2.3%，新能源车国内零售渗透率升至67.5%，创历来新高。今年1至10月狭义乘用车市场零售累计1497.8万辆，按年下跌22.3%；新能源车市场零售886.9万辆，按年下跌12.9%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "乘用車",
+    "新能源車",
+    "內地車市"
+   ],
+   "en": [
+    "passenger cars",
+    "new-energy vehicles",
+    "mainland car market"
+   ],
+   "zh_hans": [
+    "乘用车",
+    "新能源车",
+    "内地车市"
+   ]
+  }
+ },
+ {
+  "id": "20261109-nikkei-narrows-gains-2-3pct",
+  "category": "finance",
+  "published_at": "2026-11-09T14:41:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877121-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "日股全日升幅收窄至2.3%　日經指數升1340點",
+   "en": "Nikkei gains 2.3% as rally narrows; index up 1,340 points",
+   "zh_hans": "日股全日升幅收窄至2.3%　日经指数升1340点"
+  },
+  "summary": {
+   "zh_hant": "日本股市反彈，日經指數一度高見59440點，升約3.5%，收市報58775點，升1340點，升幅收窄至2.3%。",
+   "en": "Japanese stocks rebounded, with the Nikkei at one point reaching 59,440, up about 3.5 per cent, before closing at 58,775, up 1,340 points or 2.3 per cent.",
+   "zh_hans": "日本股市反弹，日经指数一度高见59440点，升约3.5%，收市报58775点，升1340点，升幅收窄至2.3%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "日股",
+    "日經指數",
+    "日本股市"
+   ],
+   "en": [
+    "Nikkei",
+    "Japanese stocks",
+    "Nikkei 225"
+   ],
+   "zh_hans": [
+    "日股",
+    "日经指数",
+    "日本股市"
+   ]
+  }
+ },
+ {
   "id": "20261109-kospi-down-0-8pct-third-day",
   "category": "finance",
   "published_at": "2026-11-09T14:39:00+08:00",
