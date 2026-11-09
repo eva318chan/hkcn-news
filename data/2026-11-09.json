@@ -1,5 +1,227 @@
 [
  {
+  "id": "20261109-kospi-down-0-8pct-third-day",
+  "category": "finance",
+  "published_at": "2026-11-09T14:39:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877120-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "韓股扭轉早段升勢　低收0.8%",
+   "en": "Korean stocks reverse early gains to close 0.8% lower",
+   "zh_hans": "韩股扭转早段升势　低收0.8%"
+  },
+  "summary": {
+   "zh_hant": "韓國股市低開後一度顯著反彈，首爾綜合指數最多升逾2.2%，高見5172點，尾市再度回軟，收市報5018點，跌40點，跌幅0.8%，連跌3個交易日。",
+   "en": "South Korean stocks opened lower before rebounding strongly, with the KOSPI at one point up more than 2.2 per cent to 5,172, but softened again late in the session to close at 5,018, down 40 points or 0.8 per cent, a third straight day of losses.",
+   "zh_hans": "韩国股市低开后一度显著反弹，首尔综合指数最多升逾2.2%，高见5172点，尾市再度回软，收市报5018点，跌40点，跌幅0.8%，连跌3个交易日。"
+  },
+  "tags": {
+   "zh_hant": [
+    "韓股",
+    "首爾綜合指數",
+    "韓國股市"
+   ],
+   "en": [
+    "KOSPI",
+    "South Korean stocks",
+    "Seoul Composite"
+   ],
+   "zh_hans": [
+    "韩股",
+    "首尔综合指数",
+    "韩国股市"
+   ]
+  }
+ },
+ {
+  "id": "20261109-paul-chan-human-machine-medical-robots",
+  "category": "hk",
+  "published_at": "2026-11-09T14:08:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877118-20261109.htm"
+  },
+  "image_url": "https://newsstatic.rthk.hk/images/mfile_1877118_1_M_20261109140802.jpg",
+  "title": {
+   "zh_hant": "陳茂波：「人機協作」將是未來醫療發展關鍵模式",
+   "en": "Paul Chan: 'human-machine collaboration' will be key model for future healthcare",
+   "zh_hans": "陈茂波：「人机协作」将是未来医疗发展关键模式"
+  },
+  "summary": {
+   "zh_hant": "財政司司長陳茂波表示，手術機械人經過二十多年發展，已能精準完成複雜手術，未來發展潛力龐大，但影響普及的主要障礙在於設計與成本；目前主流系統多針對資源充足的醫院設計，價格、佔用空間及培訓門檻限制了推廣使用。陳茂波出席「未來外科論壇」致辭時指出，手術機械人有其優勢，但至少目前仍然無法整合不同醫學領域見解，亦無法在作出決定時充分顧及患者感受與顧慮，認為「人機協作」將是未來醫療發展的關鍵模式。他表示，香港正全力建設成為國際醫療器械創新樞紐，包括透過人工智能技術推動基層醫療；當局正完善醫療規管體系，包括將於下月成立「香港藥物及醫療器械監督管理中心」。",
+   "en": "Financial Secretary Paul Chan said surgical robots, after more than two decades of development, can now perform complex operations with precision and hold enormous potential, but the main barriers to wider adoption are design and cost: most mainstream systems are designed for well-resourced hospitals, and their price, footprint and training requirements limit uptake. Speaking at the Surgical Futures Forum, Chan said surgical robots have clear advantages, but at least for now they cannot integrate insights across medical disciplines or fully take patients' feelings and concerns into account when decisions are made, and he believes 'human-machine collaboration' will be the key model for future healthcare. He said Hong Kong is working hard to become an international innovation hub for medical devices, including using AI to advance primary healthcare, and the authorities are improving the medical regulatory system, including setting up the Hong Kong Centre for Medical Products Regulation next month.",
+   "zh_hans": "财政司司长陈茂波表示，手术机械人经过二十多年发展，已能精准完成复杂手术，未来发展潜力庞大，但影响普及的主要障碍在于设计与成本；目前主流系统多针对资源充足的医院设计，价格、占用空间及培训门槛限制了推广使用。陈茂波出席「未来外科论坛」致辞时指出，手术机械人有其优势，但至少目前仍然无法整合不同医学领域见解，亦无法在作出决定时充分顾及患者感受与顾虑，认为「人机协作」将是未来医疗发展的关键模式。他表示，香港正全力建设成为国际医疗器械创新枢纽，包括透过人工智能技术推动基层医疗；当局正完善医疗规管体系，包括将于下月成立「香港药物及医疗器械监督管理中心」。"
+  },
+  "tags": {
+   "zh_hant": [
+    "陳茂波",
+    "醫療科技",
+    "手術機械人"
+   ],
+   "en": [
+    "Paul Chan",
+    "medical technology",
+    "surgical robots"
+   ],
+   "zh_hans": [
+    "陈茂波",
+    "医疗科技",
+    "手术机械人"
+   ]
+  }
+ },
+ {
+  "id": "20261109-taiwan-stocks-up-5pct-ends-7-day-slide",
+  "category": "finance",
+  "published_at": "2026-11-09T13:58:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877117-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "台股高收近5%　結束7日跌勢",
+   "en": "Taiwan stocks close up nearly 5%, ending seven-day slide",
+   "zh_hans": "台股高收近5%　结束7日跌势"
+  },
+  "summary": {
+   "zh_hant": "台灣股市結束連續7個交易日跌勢，反彈近半成收市，重上4萬點關口。加權指數高見42349點，升約6.7%，收市報41661點，升1960點，升幅4.94%。",
+   "en": "Taiwan stocks ended a seven-day losing streak, rebounding by nearly 5 per cent to close back above the 40,000 mark. The Taiex touched a high of 42,349, up about 6.7 per cent, before closing at 41,661, up 1,960 points or 4.94 per cent.",
+   "zh_hans": "台湾股市结束连续7个交易日跌势，反弹近半成收市，重上4万点关口。加权指数高见42349点，升约6.7%，收市报41661点，升1960点，升幅4.94%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "台股",
+    "台灣股市",
+    "加權指數"
+   ],
+   "en": [
+    "Taiwan stocks",
+    "Taiex",
+    "weighted index"
+   ],
+   "zh_hans": [
+    "台股",
+    "台湾股市",
+    "加权指数"
+   ]
+  }
+ },
+ {
+  "id": "20261109-north-point-fatal-accident-citybus-response",
+  "category": "hk",
+  "published_at": "2026-11-09T13:34:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877115-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "北角致命車禍　城巴：涉事巴士當時非營運",
+   "en": "North Point fatal crash: Citybus says bus involved was not in service",
+   "zh_hans": "北角致命车祸　城巴：涉事巴士当时非营运"
+  },
+  "summary": {
+   "zh_hant": "北角今早發生致命交通意外，一名61歲男子被巴士撞倒死亡，57歲巴士司機涉嫌危險駕駛引致他人死亡被捕。城巴表示，涉事的是一輛非營運中的巴士，公司對事故深感難過，並向死者家人致以慰問，正全力配合警方調查。警方表示，今早約8時，一輛巴士沿英皇道東行，駛至電廠街與英皇道交界時撞到該名男子；他頭部及身體多處嚴重受傷，昏迷送往東區醫院搶救，早上8時54分證實死亡。港島總區交通部特別調查隊正跟進調查案件。",
+   "en": "A fatal traffic accident in North Point this morning left a 61-year-old man dead after he was knocked down by a bus, and the 57-year-old bus driver was arrested for dangerous driving causing death. Citybus said the bus involved was not in service at the time, adding the company was deeply saddened by the accident, extended its condolences to the deceased's family and was fully cooperating with the police investigation. Police said that at about 8am, a bus travelling eastbound along King's Road knocked down the man at the junction with Tin Chong Street; he sustained serious head and multiple body injuries and was taken to Eastern Hospital in an unconscious state, where he was certified dead at 8:54am. The Special Investigation Team of Traffic, Hong Kong Island, is following up on the case.",
+   "zh_hans": "北角今早发生致命交通意外，一名61岁男子被巴士撞倒死亡，57岁巴士司机涉嫌危险驾驶引致他人死亡被捕。城巴表示，涉事的是一辆非营运中的巴士，公司对事故深感难过，并向死者家人致以慰问，正全力配合警方调查。警方表示，今早约8时，一辆巴士沿英皇道东行，驶至电厂街与英皇道交界时撞到该名男子；他头部及身体多处严重受伤，昏迷送往东区医院抢救，早上8时54分证实死亡。港岛总区交通部特别调查队正跟进调查案件。"
+  },
+  "tags": {
+   "zh_hant": [
+    "北角",
+    "交通意外",
+    "城巴"
+   ],
+   "en": [
+    "North Point",
+    "traffic accident",
+    "Citybus"
+   ],
+   "zh_hans": [
+    "北角",
+    "交通意外",
+    "城巴"
+   ]
+  }
+ },
+ {
+  "id": "20261109-dbs-chow-hung-lai-china-inflation-jobs",
+  "category": "finance",
+  "published_at": "2026-11-09T13:01:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877113-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "星展周洪禮：內地物價上升需要就業市場改善",
+   "en": "DBS's Chow Hung-lai: mainland prices need a better jobs market to rise",
+   "zh_hans": "星展周洪礼：内地物价上升需要就业市场改善"
+  },
+  "summary": {
+   "zh_hant": "內地10月通脹率0.7%，較9月放慢0.2個百分點；核心消費物價指數按年升幅放慢至0.8%，上游生產價格按年升幅則創近4年半新高。星展香港高級經濟師周洪禮認為，內地通脹要持續升溫，需要就業市場進一步改善，支持打工仔消費意欲。他指出，當局已推出不少支持經濟的措施，政策方向聚焦刺激企業營運、從而帶動就業，包括透過定向貸款支持企業渡過難關。不過他估計，當局未必會推出大規模刺激消費措施，因為較早時推出的政策，例如地方政府發債支持基建和高技術貸款的資金仍未用完，相信政策短期內會聚焦推動項目上馬。周洪禮又指，能源價格上升令營商前景不明朗，企業不敢大幅加價，利潤空間收窄，影響招聘意欲和加薪，物價仍面對一定壓力，加上反內卷措施需時見效，預計內地通脹會繼續保持低增速。",
+   "en": "Mainland China's inflation rate was 0.7 per cent in October, 0.2 percentage points slower than in September; core CPI growth eased to 0.8 per cent year on year, while upstream producer prices rose at their fastest pace in nearly four and a half years. DBS Hong Kong senior economist Chow Hung-lai said that for mainland inflation to keep warming up, the jobs market needs to improve further to support workers' willingness to spend. He noted the authorities have already rolled out a number of measures to support the economy, with policy focused on stimulating business operations and thereby employment, including targeted lending to help firms through difficulties. However, he expects no large-scale consumption stimulus, as funds from earlier policies — such as local government bond issuance for infrastructure and high-tech lending — have not yet been fully used, so policy will focus in the near term on getting projects under way. Chow added that rising energy prices have made the business outlook uncertain, leaving firms reluctant to raise prices sharply; squeezed profit margins are weighing on hiring and pay rises, prices still face some pressure, and with anti-involution measures taking time to work, he expects mainland inflation to stay at a low growth rate.",
+   "zh_hans": "内地10月通胀率0.7%，较9月放慢0.2个百分点；核心消费物价指数按年升幅放慢至0.8%，上游生产价格按年升幅则创近4年半新高。星展香港高级经济师周洪礼认为，内地通胀要持续升温，需要就业市场进一步改善，支持打工仔消费意欲。他指出，当局已推出不少支持经济的措施，政策方向聚焦刺激企业营运、从而带动就业，包括透过定向贷款支持企业渡过难关。不过他估计，当局未必会推出大规模刺激消费措施，因为较早时推出的政策，例如地方政府发债支持基建和高技术贷款的资金仍未用完，相信政策短期内会聚焦推动项目上马。周洪礼又指，能源价格上升令营商前景不明朗，企业不敢大幅加价，利润空间收窄，影响招聘意欲和加薪，物价仍面对一定压力，加上反内卷措施需时见效，预计内地通胀会继续保持低增速。"
+  },
+  "tags": {
+   "zh_hant": [
+    "內地通脹",
+    "星展",
+    "就業市場"
+   ],
+   "en": [
+    "mainland inflation",
+    "DBS",
+    "jobs market"
+   ],
+   "zh_hans": [
+    "内地通胀",
+    "星展",
+    "就业市场"
+   ]
+  }
+ },
+ {
+  "id": "20261109-lee-wai-king-legco-members-research-motions",
+  "category": "hk",
+  "published_at": "2026-11-09T12:52:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877111-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "李慧琼：明年起議員就無立法效力議案提交調研成果及倡議",
+   "en": "Lee Wai-king: lawmakers to submit research findings with non-binding motions from next year",
+   "zh_hans": "李慧琼：明年起议员就无立法效力议案提交调研成果及倡议"
+  },
+  "summary": {
+   "zh_hant": "立法會主席李慧琼預告，議員將自我提升，由明年起就提出無立法效力的議員議案，提供調研成果及倡議，以便政府及公眾掌握提案原意和理據，亦希望特區政府、行政長官及官員多吸納議員意見。立法會議員今日與行政長官李家超、行政會議成員及政府官員，在立法會綜合大樓宴會廳午宴。李慧琼致辭時表示，立法會其中一個憲制職能是辯論公共政策，另一主要工作是撥款，今年至目前已撥出1,300多億元，近三成用於北部都會區相關項目；北都已由藍圖變成落實的規劃，本周三將恢復二讀辯論北部都會區發展條例草案。她又說，明年是香港回歸祖國30周年，立法會將響應政府呼籲，推動所屬團體舉辦慶祝活動，說好國家和香港的故事。",
+   "en": "Legislative Council president Lee Wai-king said lawmakers will raise their game by, from next year, providing research findings and recommendations when they move motions without legislative effect, so the government and the public can understand the original intent and reasoning behind the proposals, and she hopes the SAR government, the Chief Executive and officials will take more of lawmakers' views on board. Lawmakers had lunch today with Chief Executive John Lee, Executive Council members and government officials at the Legislative Council Complex. Lee said one of the Council's constitutional functions is debating public policy and another major task is approving funding; more than HK$130 billion has been approved so far this year, nearly 30 per cent of it for Northern Metropolis projects, and the Northern Metropolis has moved from blueprint to implementation, with second-reading debate on the Northern Metropolis development bill resuming on Wednesday. She added that next year marks the 30th anniversary of Hong Kong's return to the motherland, and the Council will respond to the government's call by encouraging its affiliated groups to hold celebratory events and tell the stories of the country and Hong Kong well.",
+   "zh_hans": "立法会主席李慧琼预告，议员将自我提升，由明年起就提出无立法效力的议员议案，提供调研成果及倡议，以便政府及公众掌握提案原意和理据，亦希望特区政府、行政长官及官员多吸纳议员意见。立法会议员今日与行政长官李家超、行政会议成员及政府官员，在立法会综合大楼宴会厅午宴。李慧琼致辞时表示，立法会其中一个宪制职能是辩论公共政策，另一主要工作是拨款，今年至目前已拨出1,300多亿元，近三成用于北部都会区相关项目；北都已由蓝图变成落实的规划，本周三将恢复二读辩论北部都会区发展条例草案。她又说，明年是香港回归祖国30周年，立法会将响应政府呼吁，推动所属团体举办庆祝活动，说好国家和香港的故事。"
+  },
+  "tags": {
+   "zh_hant": [
+    "立法會",
+    "李慧琼",
+    "北部都會區"
+   ],
+   "en": [
+    "Legislative Council",
+    "Lee Wai-king",
+    "Northern Metropolis"
+   ],
+   "zh_hans": [
+    "立法会",
+    "李慧琼",
+    "北部都会区"
+   ]
+  }
+ },
+ {
   "id": "20261109-north-point-fatal-accident-driver-arrested",
   "category": "hk",
   "published_at": "2026-11-09T12:43:00+08:00",
