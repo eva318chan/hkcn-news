@@ -1,5 +1,523 @@
 [
  {
+  "id": "20261109-nikkei-midday-up-over-3-percent",
+  "category": "finance",
+  "published_at": "2026-11-09T10:37:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877094-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "日股半日升逾3%　日經指數升1976點報59411點",
+   "en": "Japanese stocks up over 3% at midday; Nikkei up 1,976 points at 59,411",
+   "zh_hans": "日股半日升逾3%　日经指数升1976点报59411点"
+  },
+  "summary": {
+   "zh_hant": "日本股市半日升逾3%，日經平均指數報59411點，升1976點，升幅3.44%。",
+   "en": "Japanese stocks rose more than 3% at midday, with the Nikkei average at 59,411 points, up 1,976 points or 3.44%.",
+   "zh_hans": "日本股市半日升逾3%，日经平均指数报59411点，升1976点，升幅3.44%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "日股",
+    "日經指數",
+    "日本股市"
+   ],
+   "en": [
+    "Japanese stocks",
+    "Nikkei",
+    "Japan"
+   ],
+   "zh_hans": [
+    "日股",
+    "日经指数",
+    "日本股市"
+   ]
+  }
+ },
+ {
+  "id": "20261109-chan-mo-po-supply-chain-diversification",
+  "category": "finance",
+  "published_at": "2026-11-09T10:32:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877093-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "陳茂波：企業加速供應鏈多元化　首10月121宗新股上市集資逾4000億",
+   "en": "Paul Chan: firms accelerating supply chain diversification; 121 IPOs in first 10 months raised over HK$400 billion",
+   "zh_hans": "陈茂波：企业加速供应链多元化　首10月121宗新股上市集资逾4000亿"
+  },
+  "summary": {
+   "zh_hant": "財政司司長陳茂波表示，在全球地緣政治不確定性下，企業正加速推動供應鏈多元化及分散投資，同時區域經濟聯繫日益緊密，對跨境可信財務資訊的需求大幅上升。他出席會財局區域監管論壇時說，今年首10個月，本港共有121宗新股上市，集資額超過4000億港元，比去年全年增加40%；約60%的新發行人擁有國際業務營運，部分更在招股章程中明確將上市所得款項用於海外擴張。陳茂波又說，人工智能可以高效承擔常規工作，但其局限性及基於假設的有效性都需要專業判斷嚴格審視，亦關注人工智能偽造文件的風險。",
+   "en": "Financial Secretary Paul Chan said that amid global geopolitical uncertainty, companies are accelerating supply chain diversification and spreading their investments, while regional economic ties grow closer and demand for trusted cross-border financial information rises sharply. Speaking at the Accounting and Financial Reporting Council's regional regulatory forum, Chan said Hong Kong saw 121 IPOs in the first 10 months of this year, raising more than HK$400 billion, up 40% from the whole of last year, with about 60% of new issuers having international operations. He added that while AI can handle routine work efficiently, its limitations and the validity of its assumptions need rigorous professional scrutiny, and he is also concerned about the risk of AI-forged documents.",
+   "zh_hans": "财政司司长陈茂波表示，在全球地缘政治不确定性下，企业正加速推动供应链多元化及分散投资，同时区域经济联系日益紧密，对跨境可信财务资讯的需求大幅上升。他出席会财局区域监管论坛时说，今年首10个月，本港共有121宗新股上市，集资额超过4000亿港元，比去年全年增加40%；约60%的新发行人拥有国际业务营运，部分更在招股章程中明确将上市所得款项用于海外扩张。陈茂波又说，人工智能可以高效承担常规工作，但其局限性及基于假设的有效性都需要专业判断严格审视，亦关注人工智能伪造文件的风险。"
+  },
+  "tags": {
+   "zh_hant": [
+    "陳茂波",
+    "新股",
+    "供應鏈"
+   ],
+   "en": [
+    "Paul Chan",
+    "IPO",
+    "supply chain"
+   ],
+   "zh_hans": [
+    "陈茂波",
+    "新股",
+    "供应链"
+   ]
+  }
+ },
+ {
+  "id": "20261109-north-point-fatal-bus-accident",
+  "category": "hk",
+  "published_at": "2026-11-09T10:23:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877089-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "北角英皇道男子被巴士撞倒　送院搶救後死亡",
+   "en": "Man hit by bus on King's Road in North Point dies after being taken to hospital",
+   "zh_hans": "北角英皇道男子被巴士撞倒　送院抢救后死亡"
+  },
+  "summary": {
+   "zh_hant": "北角發生致命交通意外，一名男子被一輛巴士撞倒，送院搶救後不治。警方在早上8時許接報，一輛城巴沿英皇道東行，當駛至電廠街交界時，撞倒一名男途人，他受傷昏迷，送東區醫院搶救後死亡。警方正調查意外原因。",
+   "en": "A fatal traffic accident occurred in North Point, where a man was hit by a bus and died after being taken to hospital. Police received a report at about 8am that a Citybus travelling east along King's Road hit a male pedestrian at the junction with Electric Street. The man was injured and unconscious and died after being taken to Eastern Hospital. Police are investigating the cause.",
+   "zh_hans": "北角发生致命交通意外，一名男子被一辆巴士撞倒，送院抢救后不治。警方在早上8时许接报，一辆城巴沿英皇道东行，当驶至电厂街交界时，撞倒一名男途人，他受伤昏迷，送东区医院抢救后死亡。警方正调查意外原因。"
+  },
+  "tags": {
+   "zh_hant": [
+    "交通意外",
+    "北角",
+    "城巴"
+   ],
+   "en": [
+    "traffic accident",
+    "North Point",
+    "Citybus"
+   ],
+   "zh_hans": [
+    "交通意外",
+    "北角",
+    "城巴"
+   ]
+  }
+ },
+ {
+  "id": "20261109-hung-shui-kiu-ha-tsuen-rezoning",
+  "category": "hk",
+  "published_at": "2026-11-09T10:22:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877092-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "屯門區議會討論洪水橋／厦村新發展區改劃　約98.5公頃土地改用途",
+   "en": "Tuen Mun council to discuss rezoning of Hung Shui Kiu/Ha Tsuen new development area covering about 98.5 hectares",
+   "zh_hans": "屯门区议会讨论洪水桥／厦村新发展区改划　约98.5公顷土地改用途"
+  },
+  "summary": {
+   "zh_hant": "屯門區議會今日開會討論洪水橋／厦村新發展區改劃用途建議。政府建議就新發展區內約98.5公頃的多幅土地改劃作相應土地用途地帶，規劃署會於短期內啟動有關法定城市規劃程序。六幅毗鄰港深西部鐵路厦村站及流浮山站的用地建議劃為「住宅（甲類）」地帶，最高地積比為6.5倍或6.8倍，最高建築物高度為主水平基準上140米或160米。兩幅佔地約19公頃、鄰近天水圍河道的用地建議改劃為「鐵路車站及車廠連住宅及商業發展」地帶。五幅住宅發展用地建議劃作「政府、機構或社區」地帶，將設有一間體育館、三間小學和兩間中學。",
+   "en": "The Tuen Mun District Council meets today to discuss rezoning proposals for the Hung Shui Kiu/Ha Tsuen New Development Area. The government proposes rezoning about 98.5 hectares of land in the area, with the Planning Department to start the statutory town planning process shortly. Six sites near the Ha Tsuen and Lau Fau Shan stations of the Hong Kong-Shenzhen Western Railway are proposed as 'Residential (Group A)' zones, with maximum plot ratios of 6.5 or 6.8 and maximum building heights of 140 or 160 metres above principal datum. Two sites of about 19 hectares near the Tin Shui Wai River are proposed as railway station and depot with residential and commercial development. Five residential sites are proposed as 'Government, Institution or Community' zones, with a sports centre, three primary schools and two secondary schools.",
+   "zh_hans": "屯门区议会今日开会讨论洪水桥／厦村新发展区改划用途建议。政府建议就新发展区内约98.5公顷的多幅土地改划作相应土地用途地带，规划署会于短期内启动有关法定城市规划程序。六幅毗邻港深西部铁路厦村站及流浮山站的用地建议划为「住宅（甲类）」地带，最高地积比为6.5倍或6.8倍，最高建筑物高度为主水平基准上140米或160米。两幅占地约19公顷、邻近天水围河道的用地建议改划为「铁路车站及车厂连住宅及商业发展」地带。五幅住宅发展用地建议划作「政府、机构或社区」地带，将设有一间体育馆、三间小学和两间中学。"
+  },
+  "tags": {
+   "zh_hant": [
+    "洪水橋",
+    "厦村",
+    "城市規劃"
+   ],
+   "en": [
+    "Hung Shui Kiu",
+    "Ha Tsuen",
+    "town planning"
+   ],
+   "zh_hans": [
+    "洪水桥",
+    "厦村",
+    "城市规划"
+   ]
+  }
+ },
+ {
+  "id": "20261109-china-october-cpi-ppi",
+  "category": "finance",
+  "published_at": "2026-11-09T10:09:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877086-20261109.htm"
+  },
+  "image_url": "https://newsstatic.rthk.hk/images/mfile_1877086_1_M_20261109100936.jpg",
+  "title": {
+   "zh_hant": "內地10月CPI按年升0.7%創3個月低位　PPI升5.7%創逾4年最高",
+   "en": "China's October CPI up 0.7% year on year, a three-month low; PPI up 5.7%, biggest rise in over four years",
+   "zh_hans": "内地10月CPI按年升0.7%创3个月低位　PPI升5.7%创逾4年最高"
+  },
+  "summary": {
+   "zh_hant": "國家統計局公布，內地10月居民消費價格指數按年上升0.7%，較9月跌0.2個百分點，低過市場預期，創3個月低位；上月食品價格按年跌2.9%，能源價格按年升9.9%，受汽油價格按年急升逾22%帶動。扣除食品和能源價格的核心CPI按年升0.8%，增速創9個月以來最慢。上月工業生產者出廠價格指數按年升5.7%，升幅較9月擴大0.7個百分點，高過市場預期，創近4年半以來最大升幅。",
+   "en": "The National Bureau of Statistics said China's consumer price index rose 0.7% year on year in October, down 0.2 percentage points from September, below market expectations and a three-month low. Food prices fell 2.9% year on year, while energy prices rose 9.9%, driven by petrol prices surging more than 22%. Core CPI, excluding food and energy, rose 0.8%, its slowest growth in nine months. The producer price index rose 5.7% year on year, 0.7 percentage points more than in September, above market expectations and the biggest increase in about four and a half years.",
+   "zh_hans": "国家统计局公布，内地10月居民消费价格指数按年上升0.7%，较9月跌0.2个百分点，低过市场预期，创3个月低位；上月食品价格按年跌2.9%，能源价格按年升9.9%，受汽油价格按年急升逾22%带动。扣除食品和能源价格的核心CPI按年升0.8%，增速创9个月以来最慢。上月工业生产者出厂价格指数按年升5.7%，升幅较9月扩大0.7个百分点，高过市场预期，创近4年半以来最大升幅。"
+  },
+  "tags": {
+   "zh_hant": [
+    "內地經濟",
+    "CPI",
+    "PPI"
+   ],
+   "en": [
+    "China economy",
+    "CPI",
+    "PPI"
+   ],
+   "zh_hans": [
+    "内地经济",
+    "CPI",
+    "PPI"
+   ]
+  }
+ },
+ {
+  "id": "20261109-fifth-plenum-decision-scholar-analysis",
+  "category": "china",
+  "published_at": "2026-11-09T10:06:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877087-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "學者分析五中全會《決定》：對黨及人事選用均非常重要",
+   "en": "Scholar on fifth plenum decision: very important for the party and personnel selection",
+   "zh_hans": "学者分析五中全会《决定》：对党及人事选用均非常重要"
+  },
+  "summary": {
+   "zh_hant": "中共二十屆五中全會審議通過有關持之以恆推進全面從嚴治黨的決定。城市大學公共及國際事務學系系主任曾敬涵接受本台節目《看神州》訪問時說，黨組織在中國政治體制中扮演非常重要角色，直接影響國家長遠發展，有關《決定》對整個黨的運作和人事選用等非常重要。他表示，只有從嚴治黨才能更好應對國內外挑戰。《決定》提出堅持正確的用人導向，確保貫徹黨的路線方針政策。對於全會增選軍委副主席張升民為政治局委員，同時紀律處分多名軍方人員，曾敬涵認為，反映中央從嚴治黨、從嚴治軍的決心。全會合共紀律處分34名高級官員，發出非常重要的信號。",
+   "en": "The fifth plenary session of the 20th Communist Party Central Committee adopted a decision on unswervingly advancing full and rigorous party governance. City University professor Tsang King-han told RTHK's 'China Watch' programme that party organisations play a very important role in China's political system and directly affect the country's long-term development, making the decision very important for the party's operation and personnel selection. He said only rigorous party governance can better meet domestic and international challenges. The decision calls for a correct orientation in appointing officials. On the plenum's election of Central Military Commission vice-chairman Zhang Shengmin to the Politburo and disciplinary action against several military officers, Tsang said it reflects Beijing's determination to govern both the party and the military strictly. The plenum disciplined 34 senior officials in total, sending a very important signal.",
+   "zh_hans": "中共二十届五中全会审议通过有关持之以恒推进全面从严治党的决定。城市大学公共及国际事务学系系主任曾敬涵接受本台节目《看神州》访问时说，党组织在中国政治体制中扮演非常重要角色，直接影响国家长远发展，有关《决定》对整个党的运作和人事选用等非常重要。他表示，只有从严治党才能更好应对国内外挑战。《决定》提出坚持正确的用人导向，确保贯彻党的路线方针政策。对于全会增选军委副主席张升民为政治局委员，同时纪律处分多名军方人员，曾敬涵认为，反映中央从严治党、从严治军的决心。全会合共纪律处分34名高级官员，发出非常重要的信号。"
+  },
+  "tags": {
+   "zh_hant": [
+    "五中全會",
+    "從嚴治黨",
+    "曾敬涵"
+   ],
+   "en": [
+    "fifth plenum",
+    "party governance",
+    "Tsang King-han"
+   ],
+   "zh_hans": [
+    "五中全会",
+    "从严治党",
+    "曾敬涵"
+   ]
+  }
+ },
+ {
+  "id": "20261109-ta-kwu-ling-university-town-75-hectares",
+  "category": "hk",
+  "published_at": "2026-11-09T09:58:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877085-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "打鼓嶺大學城校園區面積增至75公頃　首批土地料最快2030年產出",
+   "en": "Ta Kwu Ling university town campus area to grow to 75 hectares; first land expected as early as 2030",
+   "zh_hans": "打鼓岭大学城校园区面积增至75公顷　首批土地料最快2030年产出"
+  },
+  "summary": {
+   "zh_hant": "政府向北區區議會提交文件，指發展面積達1175公頃的打鼓嶺新發展區將分階段發展，當中優先發展區的面積略為擴大至約250公頃，打鼓嶺大學城校園區的面積由原先的40公頃大約倍增至75公頃。當局計劃明年第一季展開優先發展區的詳細設計及建造工程合約，適時向立法會財委會申請撥款，首批土地預計最早在2030年產出。校園區涵蓋10幅在平原河和深圳河河畔的用地，當中約7公頃會預留作興建香港演藝學院的第二校舍。",
+   "en": "The government told the North District Council that the 1,175-hectare Ta Kwu Ling New Development Area will be developed in phases, with the priority development area slightly expanded to about 250 hectares and the university town campus area roughly doubled from 40 to 75 hectares. The government plans to start detailed design and construction contracts for the priority area in the first quarter of next year, seek funding from the Legislative Council's Finance Committee in due course, and expects the first land to be available as early as 2030. The campus area covers 10 sites along the Ping Yuen River and Shenzhen River, with about 7 hectares reserved for a second campus of the Hong Kong Academy for Performing Arts.",
+   "zh_hans": "政府向北区区议会提交文件，指发展面积达1175公顷的打鼓岭新发展区将分阶段发展，当中优先发展区的面积略为扩大至约250公顷，打鼓岭大学城校园区的面积由原先的40公顷大约倍增至75公顷。当局计划明年第一季展开优先发展区的详细设计及建造工程合约，适时向立法会财委会申请拨款，首批土地预计最早在2030年产出。校园区涵盖10幅在平原河和深圳河河畔的用地，当中约7公顷会预留作兴建香港演艺学院的第二校舍。"
+  },
+  "tags": {
+   "zh_hant": [
+    "打鼓嶺",
+    "大學城",
+    "北部都會區"
+   ],
+   "en": [
+    "Ta Kwu Ling",
+    "university town",
+    "Northern Metropolis"
+   ],
+   "zh_hans": [
+    "打鼓岭",
+    "大学城",
+    "北部都会区"
+   ]
+  }
+ },
+ {
+  "id": "20261109-observatory-23-2-degrees-coldest-autumn",
+  "category": "hk",
+  "published_at": "2026-11-09T09:56:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877083-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "天文台今早錄得23.2度　今年入秋以來最低紀錄",
+   "en": "Observatory records 23.2 degrees this morning, the lowest since autumn began",
+   "zh_hans": "天文台今早录得23.2度　今年入秋以来最低纪录"
+  },
+  "summary": {
+   "zh_hant": "天文台表示，與冷鋒相關的強烈東北季候風正影響廣東沿岸，今早本港各區氣溫普遍較昨日低兩度左右。截至上午7時40分，天文台錄得最低氣溫23.2度，是今年入秋以來的最低紀錄。天文台又說，未來兩三日廣東沿岸普遍晴朗及非常乾燥，早上清涼，日夜溫差頗大；季候風會在本周後期緩和，氣溫回升，而高空擾動會在接近周末為華南帶來驟雨。",
+   "en": "The Observatory said a strong northeast monsoon associated with a cold front is affecting the Guangdong coast, with temperatures across Hong Kong generally about two degrees lower than yesterday this morning. As of 7:40am, the Observatory recorded a minimum temperature of 23.2 degrees, the lowest since autumn began this year. The next two to three days will be generally sunny and very dry along the Guangdong coast, with cool mornings and large day-night temperature differences; the monsoon will ease later in the week and temperatures will rise, while an upper-air disturbance will bring showers to southern China near the weekend.",
+   "zh_hans": "天文台表示，与冷锋相关的强烈东北季候风正影响广东沿岸，今早本港各区气温普遍较昨日低两度左右。截至上午7时40分，天文台录得最低气温23.2度，是今年入秋以来的最低纪录。天文台又说，未来两三日广东沿岸普遍晴朗及非常干燥，早上清凉，日夜温差颇大；季候风会在本周后期缓和，气温回升，而高空扰动会在接近周末为华南带来骤雨。"
+  },
+  "tags": {
+   "zh_hant": [
+    "天文台",
+    "氣溫",
+    "天氣"
+   ],
+   "en": [
+    "Observatory",
+    "temperature",
+    "weather"
+   ],
+   "zh_hans": [
+    "天文台",
+    "气温",
+    "天气"
+   ]
+  }
+ },
+ {
+  "id": "20261109-red-flags-hoisted-beaches",
+  "category": "hk",
+  "published_at": "2026-11-09T09:32:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/09/P2026110900231.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "大浪影響四泳灘掛紅旗　康文署籲泳客切勿下水",
+   "en": "Red flags hoisted at four beaches amid big waves; swimmers advised not to swim",
+   "zh_hans": "大浪影响四泳滩挂红旗　康文署吁泳客切勿下水"
+  },
+  "summary": {
+   "zh_hant": "康文署今日宣布，由於大浪，港島南區赤柱正灘及大浪灣泳灘，以及西貢區銀線灣泳灘及清水灣第二泳灘已懸掛紅旗。康文署呼籲泳客切勿在有關泳灘游泳。",
+   "en": "The Leisure and Cultural Services Department announced today that, due to big waves, red flags have been hoisted at Stanley Main Beach and Big Wave Bay Beach in Southern District, Hong Kong Island, as well as Silverstrand Beach and Clear Water Bay Second Beach in Sai Kung District. Beachgoers are advised not to swim at these beaches.",
+   "zh_hans": "康文署今日宣布，由于大浪，港岛南区赤柱正滩及大浪湾泳滩，以及西贡区银线湾泳滩及清水湾第二泳滩已悬挂红旗。康文署呼吁泳客切勿在有关泳滩游泳。"
+  },
+  "tags": {
+   "zh_hant": [
+    "康文署",
+    "紅旗",
+    "泳灘"
+   ],
+   "en": [
+    "LCSD",
+    "red flags",
+    "beaches"
+   ],
+   "zh_hans": [
+    "康文署",
+    "红旗",
+    "泳滩"
+   ]
+  }
+ },
+ {
+  "id": "20261109-pboc-182-billion-yuan-overnight-reverse-repo",
+  "category": "finance",
+  "published_at": "2026-11-09T09:30:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877080-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "人行開展1820億元隔夜逆回購　單日淨回籠440億元連續6日",
+   "en": "PBOC conducts 182 billion yuan in overnight reverse repos; net withdrawal of 44 billion yuan for sixth straight day",
+   "zh_hans": "人行开展1820亿元隔夜逆回购　单日净回笼440亿元连续6日"
+  },
+  "summary": {
+   "zh_hant": "人民銀行公開市場開展1820億元人民幣隔夜逆回購操作，利率維持1.25厘。對沖到期量後，單日淨回籠440億元，連續6日淨回籠。",
+   "en": "The People's Bank of China conducted 182 billion yuan in overnight reverse repo operations in the open market, with the interest rate unchanged at 1.25%. After offsetting maturities, the net withdrawal for the day was 44 billion yuan, the sixth consecutive day of net withdrawal.",
+   "zh_hans": "人民银行公开市场开展1820亿元人民币隔夜逆回购操作，利率维持1.25厘。对冲到期量后，单日净回笼440亿元，连续6日净回笼。"
+  },
+  "tags": {
+   "zh_hant": [
+    "人民銀行",
+    "逆回購",
+    "內地金融"
+   ],
+   "en": [
+    "People's Bank of China",
+    "reverse repo",
+    "China finance"
+   ],
+   "zh_hans": [
+    "人民银行",
+    "逆回购",
+    "内地金融"
+   ]
+  }
+ },
+ {
+  "id": "20261109-hang-seng-auction-up-143-points",
+  "category": "finance",
+  "published_at": "2026-11-09T09:26:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877079-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "恒指競價時段升143點報24625點　新股遠信儲能高招股價逾1倍",
+   "en": "Hang Seng Index up 143 points at 24,625 in pre-opening auction; new listing Yuanxin Energy Storage more than doubles IPO price",
+   "zh_hans": "恒指竞价时段升143点报24625点　新股远信储能高招股价逾1倍"
+  },
+  "summary": {
+   "zh_hant": "港股在競價時段上升，恒生指數報24625點，升143點，升幅0.59%；科技指數報4119點，升41點，升幅1.02%。遠信儲能首日掛牌，開市報21元，較招股價高逾1倍。",
+   "en": "Hong Kong stocks rose in the pre-opening auction, with the Hang Seng Index at 24,625 points, up 143 points or 0.59%, and the tech index at 4,119 points, up 41 points or 1.02%. Yuanxin Energy Storage debuted today, opening at HK$21, more than double its IPO price.",
+   "zh_hans": "港股在竞价时段上升，恒生指数报24625点，升143点，升幅0.59%；科技指数报4119点，升41点，升幅1.02%。远信储能首日挂牌，开市报21元，较招股价高逾1倍。"
+  },
+  "tags": {
+   "zh_hant": [
+    "恒指",
+    "港股",
+    "新股"
+   ],
+   "en": [
+    "Hang Seng Index",
+    "Hong Kong stocks",
+    "IPO"
+   ],
+   "zh_hans": [
+    "恒指",
+    "港股",
+    "新股"
+   ]
+  }
+ },
+ {
+  "id": "20261109-amcham-shanghai-us-midterms-china-us-ties",
+  "category": "china",
+  "published_at": "2026-11-09T09:12:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877076-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "上海美商會：共和黨中期選舉失利不致影響中美關係　冀構建穩定關係",
+   "en": "AmCham Shanghai: Republican midterm losses unlikely to affect US-China ties as both sides seek stability",
+   "zh_hans": "上海美商会：共和党中期选举失利不致影响中美关系　冀构建稳定关系"
+  },
+  "summary": {
+   "zh_hant": "中美元首預計下周趁出席在深圳舉行的亞太經合組織領導人非正式會議期間再度會晤。上海美國商會會長鄭藝表示，美國中期選舉中共和黨失利，民主黨取得國會參眾兩院控制權，但由於外交政策以總統主導，加上中美元首希望構建穩定關係，相信不會影響美資企業在華經營。他又說，隨着兩國希望構建穩定關係，中美關係的不確定性已不再是美資企業在華經營的最大挑戰，內地市場「內捲」激烈競爭才是最大關注。",
+   "en": "The Chinese and US presidents are expected to meet again next week on the sidelines of the APEC leaders' meeting in Shenzhen. AmCham Shanghai president Eric Zheng said that although Republicans lost the US midterm elections and Democrats took control of both houses of Congress, foreign policy is led by the president and both leaders want a stable relationship, so he does not expect it to affect American businesses operating in China. He added that uncertainty over US-China relations is no longer the biggest challenge for American firms in China; instead, intense 'involution' competition in the mainland market is their top concern.",
+   "zh_hans": "中美元首预计下周趁出席在深圳举行的亚太经合组织领导人非正式会议期间再度会晤。上海美国商会会长郑艺表示，美国中期选举中共和党失利，民主党取得国会参众两院控制权，但由于外交政策以总统主导，加上中美元首希望构建稳定关系，相信不会影响美资企业在华经营。他又说，随着两国希望构建稳定关系，中美关系的不确定性已不再是美资企业在华经营的最大挑战，内地市场「内卷」激烈竞争才是最大关注。"
+  },
+  "tags": {
+   "zh_hant": [
+    "中美關係",
+    "上海美國商會",
+    "亞太經合組織"
+   ],
+   "en": [
+    "US-China relations",
+    "AmCham Shanghai",
+    "APEC"
+   ],
+   "zh_hans": [
+    "中美关系",
+    "上海美国商会",
+    "亚太经合组织"
+   ]
+  }
+ },
+ {
+  "id": "20261109-taiwan-stocks-rise-near-3-percent",
+  "category": "finance",
+  "published_at": "2026-11-09T09:04:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877075-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "台股初段升近3%　加權指數升1116點報40818點",
+   "en": "Taiwan stocks rise nearly 3% in early trading; weighted index up 1,116 points at 40,818",
+   "zh_hans": "台股初段升近3%　加权指数升1116点报40818点"
+  },
+  "summary": {
+   "zh_hant": "台灣股市開市初段升近3%，加權指數較早時報40818點，升1116點，升幅2.81%。",
+   "en": "Taiwan stocks rose nearly 3% in early trading, with the weighted index at 40,818 points, up 1,116 points or 2.81%.",
+   "zh_hans": "台湾股市开市初段升近3%，加权指数较早时报40818点，升1116点，升幅2.81%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "台股",
+    "加權指數",
+    "台灣股市"
+   ],
+   "en": [
+    "Taiwan stocks",
+    "weighted index",
+    "Taiwan"
+   ],
+   "zh_hans": [
+    "台股",
+    "加权指数",
+    "台湾股市"
+   ]
+  }
+ },
+ {
+  "id": "20261109-kwun-tong-line-service-resuming-normal",
+  "category": "hk",
+  "published_at": "2026-11-09T09:00:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877074-20261109.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "觀塘綫故障列車已駛離行車綫　列車服務陸續恢復正常",
+   "en": "Kwun Tong line service gradually returning to normal after faulty train moved off the tracks",
+   "zh_hans": "观塘线故障列车已驶离行车线　列车服务陆续恢复正常"
+  },
+  "summary": {
+   "zh_hant": "港鐵表示，何文田站有故障的列車已駛離行車綫，觀塘綫列車服務陸續恢復正常。今早約8時半，港鐵一度表示因何文田站有列車設備故障，觀塘綫來往黃埔站及調景嶺站的整體行車時間一度需要額外10至15分鐘，呼籲乘客為行程預留充裕時間。",
+   "en": "The MTR said the faulty train at Ho Man Tin station has been moved off the tracks and Kwun Tong line service is gradually returning to normal. Earlier this morning at about 8:30am, the MTR said a train equipment fault at Ho Man Tin station had added 10 to 15 minutes to overall journey times between Whampoa and Tiu Keng Leng stations, and advised passengers to allow extra time.",
+   "zh_hans": "港铁表示，何文田站有故障的列车已驶离行车线，观塘线列车服务陆续恢复正常。今早约8时半，港铁一度表示因何文田站有列车设备故障，观塘线来往黄埔站及调景岭站的整体行车时间一度需要额外10至15分钟，呼吁乘客为行程预留充裕时间。"
+  },
+  "tags": {
+   "zh_hant": [
+    "港鐵",
+    "觀塘綫",
+    "交通"
+   ],
+   "en": [
+    "MTR",
+    "Kwun Tong line",
+    "transport"
+   ],
+   "zh_hans": [
+    "港铁",
+    "观塘线",
+    "交通"
+   ]
+  }
+ },
+ {
   "id": "20261109-china-launches-satellite-internet-29-satellites",
   "category": "china",
   "published_at": "2026-11-09T08:38:00+08:00",
