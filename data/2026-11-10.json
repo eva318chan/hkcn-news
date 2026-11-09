@@ -1,5 +1,264 @@
 [
  {
+  "id": "20261110-hk-stock-adrs-mixed",
+  "category": "finance",
+  "published_at": "2026-11-10T06:36:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877195-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "港股ADR與本港收市比較個別發展",
+   "en": "Hong Kong stock ADRs mixed against local close",
+   "zh_hans": "港股ADR与本港收市比较个别发展"
+  },
+  "summary": {
+   "zh_hant": "港股美國預託證券（ADR）與本港收市比較個別發展。金融股方面，滙控ADR較本港收市升逾3%，友邦升近1%；科技股方面，ATMXJ的ADR都較本港收市下跌，其中京東同阿里巴巴跌近1%或以上。",
+   "en": "Hong Kong stocks' American depositary receipts (ADRs) were mixed against their Hong Kong closes. Among financials, HSBC's ADR rose more than 3% against its local close and AIA gained nearly 1%; among technology stocks, the ADRs of ATMXJ all fell, with JD.com and Alibaba down nearly 1% or more.",
+   "zh_hans": "港股美国预托证券（ADR）与本港收市比较个别发展。金融股方面，汇控ADR较本港收市升逾3%，友邦升近1%；科技股方面，ATMXJ的ADR都较本港收市下跌，其中京东和阿里巴巴跌近1%或以上。"
+  },
+  "tags": {
+   "zh_hant": [
+    "港股",
+    "ADR",
+    "滙控"
+   ],
+   "en": [
+    "Hong Kong stocks",
+    "ADR",
+    "HSBC"
+   ],
+   "zh_hans": [
+    "港股",
+    "ADR",
+    "汇控"
+   ]
+  }
+ },
+ {
+  "id": "20261110-dollar-falls-risk-appetite-rises",
+  "category": "finance",
+  "published_at": "2026-11-10T06:35:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877194-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "美元下跌　市場風險偏好升溫",
+   "en": "Dollar falls as risk appetite picks up",
+   "zh_hans": "美元下跌　市场风险偏好升温"
+  },
+  "summary": {
+   "zh_hant": "美元兌主要貨幣下跌，油價向下，中東局勢憂慮紓緩，市場風險偏好升溫。美元指數在紐約尾市跌逾0.5%，報101.65；歐元兌美元升0.7%，較早時報1.1223美元；英鎊兌美元升近0.7%，報1.3439美元；美元兌日圓跌逾0.3%，報157.9日圓。市場亦關注周二公布的美國消費者物價指數，以及本周多名聯儲局官員講話。",
+   "en": "The US dollar fell against major currencies as oil prices declined, concerns over the Middle East eased and market risk appetite warmed up. The dollar index fell more than 0.5% in late New York trading to 101.65; the euro rose 0.7% against the dollar to 1.1223 earlier, sterling gained nearly 0.7% to 1.3439, and the dollar slipped more than 0.3% against the yen to 157.9. Markets are also watching US consumer price index data due on Tuesday and speeches by several Federal Reserve officials this week.",
+   "zh_hans": "美元兑主要货币下跌，油价向下，中东局势忧虑纾缓，市场风险偏好升温。美元指数在纽约尾市跌逾0.5%，报101.65；欧元兑美元升0.7%，较早时报1.1223美元；英镑兑美元升近0.7%，报1.3439美元；美元兑日圆跌逾0.3%，报157.9日圆。市场亦关注周二公布的美国消费者物价指数，以及本周多名联储局官员讲话。"
+  },
+  "tags": {
+   "zh_hant": [
+    "美元",
+    "匯市",
+    "聯儲局"
+   ],
+   "en": [
+    "US dollar",
+    "currency markets",
+    "Federal Reserve"
+   ],
+   "zh_hans": [
+    "美元",
+    "汇市",
+    "联储局"
+   ]
+  }
+ },
+ {
+  "id": "20261110-gold-up-2-percent-weaker-dollar-lower-oil",
+  "category": "finance",
+  "published_at": "2026-11-10T06:34:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877193-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "金價曾升2%　美元疲弱及油價下跌",
+   "en": "Gold rises as much as 2% on weaker dollar and lower oil prices",
+   "zh_hans": "金价曾升2%　美元疲弱及油价下跌"
+  },
+  "summary": {
+   "zh_hant": "金價上升，因美元疲弱，以及油價下跌紓緩通脹憂慮。現貨金一度升至近每盎司4,150美元水平，升幅2%，較早時報4,134.74美元，升幅1.7%；紐約期金收市報每盎司4,114.5美元，升幅近1%。",
+   "en": "Gold prices rose as a weaker US dollar and falling oil prices eased inflation concerns. Spot gold at one point climbed to near US$4,150 an ounce, up 2%, and was earlier quoted at US$4,134.74, up 1.7%; New York gold futures settled at US$4,114.5 an ounce, up nearly 1%.",
+   "zh_hans": "金价上升，因美元疲弱，以及油价下跌纾缓通胀忧虑。现货金一度升至近每盎司4150美元水平，升幅2%，较早时报4134.74美元，升幅1.7%；纽约期金收市报每盎司4114.5美元，升幅近1%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "金價",
+    "黃金",
+    "美元"
+   ],
+   "en": [
+    "gold prices",
+    "gold",
+    "US dollar"
+   ],
+   "zh_hans": [
+    "金价",
+    "黄金",
+    "美元"
+   ]
+  }
+ },
+ {
+  "id": "20261110-oil-prices-fall-trump-iran-restraint",
+  "category": "finance",
+  "published_at": "2026-11-10T06:33:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877191-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "國際油價低收逾4%至近6%　特朗普暗示將對伊朗克制",
+   "en": "Oil prices fall more than 4% to nearly 6% as Trump signals restraint on Iran",
+   "zh_hans": "国际油价低收逾4%至近6%　特朗普暗示将对伊朗克制"
+  },
+  "summary": {
+   "zh_hant": "國際油價跌逾4%至近6%收市，之前美國總統特朗普淡化再次對伊朗發動打擊的可能性。倫敦布蘭特期油收市報每桶92.57美元，跌5.75美元，跌幅5.8%；紐約期油報每桶86.85美元，跌3.98美元，跌幅近4.4%。",
+   "en": "International oil prices fell more than 4% to nearly 6% at the close, after US President Donald Trump played down the possibility of striking Iran again. Brent crude settled at US$92.57 a barrel, down US$5.75 or 5.8%; New York crude closed at US$86.85 a barrel, down US$3.98 or nearly 4.4%.",
+   "zh_hans": "国际油价跌逾4%至近6%收市，之前美国总统特朗普淡化再次对伊朗发动打击的可能性。伦敦布兰特期油收市报每桶92.57美元，跌5.75美元，跌幅5.8%；纽约期油报每桶86.85美元，跌3.98美元，跌幅近4.4%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "油價",
+    "特朗普",
+    "伊朗"
+   ],
+   "en": [
+    "oil prices",
+    "Donald Trump",
+    "Iran"
+   ],
+   "zh_hans": [
+    "油价",
+    "特朗普",
+    "伊朗"
+   ]
+  }
+ },
+ {
+  "id": "20261110-hko-lowest-17-8-degrees-since-autumn",
+  "category": "hk",
+  "published_at": "2026-11-10T06:23:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877196-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "天文台今晨錄得最低17.8度　入秋以來最低紀錄",
+   "en": "Observatory records 17.8°C this morning, lowest since autumn began",
+   "zh_hans": "天文台今晨录得最低17.8度　入秋以来最低纪录"
+  },
+  "summary": {
+   "zh_hant": "本港今早各區氣溫普遍較昨日低7度左右。截至上午5時30分，天文台錄得最低氣溫17.8度，是入秋以來的最低紀錄，新界普遍再低一、兩度。天文台預測今日天氣顯著轉涼，最高氣溫約23度，吹清勁偏北風，初時離岸及高地吹強風，稍後轉吹和緩東北風。",
+   "en": "Temperatures across Hong Kong were generally about 7 degrees lower this morning than yesterday. As of 5:30am, the Observatory recorded a minimum temperature of 17.8 degrees Celsius, the lowest since autumn began, with the New Territories generally one to two degrees cooler. The Observatory forecasts a marked drop in temperature today, with a maximum of about 23 degrees, fresh northerly winds, strong winds offshore and on high ground at first, easing to a moderate northeasterly later.",
+   "zh_hans": "本港今早各区气温普遍较昨日低7度左右。截至上午5时30分，天文台录得最低气温17.8度，是入秋以来的最低纪录，新界普遍再低一、两度。天文台预测今日天气显著转凉，最高气温约23度，吹清劲偏北风，初时离岸及高地吹强风，稍后转吹和缓东北风。"
+  },
+  "tags": {
+   "zh_hant": [
+    "天文台",
+    "氣溫",
+    "天氣"
+   ],
+   "en": [
+    "Hong Kong Observatory",
+    "temperature",
+    "weather"
+   ],
+   "zh_hans": [
+    "天文台",
+    "气温",
+    "天气"
+   ]
+  }
+ },
+ {
+  "id": "20261110-us-stocks-dow-up-1100-nasdaq-near-3-percent-nvidia-down",
+  "category": "finance",
+  "published_at": "2026-11-10T05:37:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877190-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "道指高收逾1100點　納指升近3%　Nvidia跌逾4%",
+   "en": "Dow closes up over 1,100 points, Nasdaq gains nearly 3%, Nvidia falls more than 4%",
+   "zh_hans": "道指高收逾1100点　纳指升近3%　Nvidia跌逾4%"
+  },
+  "summary": {
+   "zh_hant": "美股三大指數收市升逾2%至近3%，油價下跌，晶片股造好，但Nvidia受到醜聞拖累，低收逾4%。道瓊斯指數最多曾升近1,290點，收市報52,389點，升1,104點，升幅近2.2%；納斯達克指數收市報25,253點，升673點，升幅2.7%；標準普爾500指數報7,549點，升173點，升幅近2.4%。費城半導體指數急升近7%，應用材料同AMD升逾11%至13%，博通升近9%。",
+   "en": "The three major US stock indexes closed up more than 2% to nearly 3%, as oil prices fell and chip stocks rallied, though Nvidia dropped more than 4% amid a scandal. The Dow Jones Industrial Average rose as much as nearly 1,290 points intraday and closed at 52,389, up 1,104 points or nearly 2.2%; the Nasdaq closed at 25,253, up 673 points or 2.7%; the S&P 500 ended at 7,549, up 173 points or nearly 2.4%. The Philadelphia Semiconductor Index surged nearly 7%, with Applied Materials and AMD up more than 11% to 13% and Broadcom up nearly 9%.",
+   "zh_hans": "美股三大指数收市升逾2%至近3%，油价下跌，芯片股造好，但Nvidia受到丑闻拖累，低收逾4%。道琼斯指数最多曾升近1290点，收市报52389点，升1104点，升幅近2.2%；纳斯达克指数收市报25253点，升673点，升幅2.7%；标准普尔500指数报7549点，升173点，升幅近2.4%。费城半导体指数急升近7%，应用材料和AMD升逾11%至13%，博通升近9%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "美股",
+    "道指",
+    "Nvidia"
+   ],
+   "en": [
+    "US stocks",
+    "Dow Jones",
+    "Nvidia"
+   ],
+   "zh_hans": [
+    "美股",
+    "道指",
+    "Nvidia"
+   ]
+  }
+ },
+ {
+  "id": "20261110-europe-stocks-close-up-over-1-percent",
+  "category": "finance",
+  "published_at": "2026-11-10T05:36:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877189-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "歐股高收逾1%",
+   "en": "European stocks close up more than 1%",
+   "zh_hans": "欧股高收逾1%"
+  },
+  "summary": {
+   "zh_hant": "歐洲主要股市收市升逾1%，銀行股同國防股上升帶動大市。德國DAX指數報26,267點，升446點，升幅1.7%；法國CAC指數報8,233點，升94點，升幅近1.2%；英國富時100指數報10,782點，升108點，升幅1%。",
+   "en": "European stock markets closed up more than 1%, led higher by bank and defence shares. Germany's DAX ended at 26,267, up 446 points or 1.7%; France's CAC closed at 8,233, up 94 points or nearly 1.2%; Britain's FTSE 100 finished at 10,782, up 108 points or 1%.",
+   "zh_hans": "欧洲主要股市收市升逾1%，银行股和国防股上升带动大市。德国DAX指数报26267点，升446点，升幅1.7%；法国CAC指数报8233点，升94点，升幅近1.2%；英国富时100指数报10782点，升108点，升幅1%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "歐股",
+    "DAX",
+    "歐洲股市"
+   ],
+   "en": [
+    "European stocks",
+    "DAX",
+    "European markets"
+   ],
+   "zh_hans": [
+    "欧股",
+    "DAX",
+    "欧洲股市"
+   ]
+  }
+ },
+ {
   "id": "20261110-trump-midterms-voters-dislike-war-gas-prices",
   "category": "world",
   "published_at": "2026-11-10T03:45:00+08:00",
