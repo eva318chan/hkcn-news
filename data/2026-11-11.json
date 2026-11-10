@@ -1,5 +1,227 @@
 [
  {
+  "id": "20261111-israel-new-knesset-first-session",
+  "category": "world",
+  "published_at": "2026-11-11T02:44:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877320-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "以色列新一屆議會舉行首次會議　議員宣誓就職",
+   "en": "Israel's new Knesset holds first session as members sworn in",
+   "zh_hans": "以色列新一届议会举行首次会议　议员宣誓就职"
+  },
+  "summary": {
+   "zh_hant": "以色列新一屆議會120名議員星期二宣誓就職並舉行首次會議，其中46人首次當選。總理內塔尼亞胡領導的右翼陣營在上月27日選舉中失去多數議席，逾61名議員簽署請願，要求罷免議長奧哈納，並提名卡哈納接任。總統赫爾佐格已授權埃森科特組建新政府，限期28日，可延長14日；在新政府宣誓就職前，內塔尼亞胡繼續擔任看守總理。",
+   "en": "Israel's new Knesset held its first session on Tuesday, with all 120 members sworn in, 46 of them first-time lawmakers. Prime Minister Benjamin Netanyahu's right-wing bloc lost its majority in the election on 27 October, and more than 61 lawmakers have signed a petition to remove Speaker Amir Ohana and nominate Matan Kahana as his successor. President Isaac Herzog has tasked Gadi Eisenkot with forming a new government, with 28 days, extendable by 14; Netanyahu remains caretaker prime minister until the new government is sworn in.",
+   "zh_hans": "以色列新一届议会120名议员星期二宣誓就职并举行首次会议，其中46人首次当选。总理内塔尼亚胡领导的右翼阵营在上月27日选举中失去多数议席，逾61名议员签署请愿，要求罢免议长奥哈纳，并提名卡哈纳接任。总统赫尔佐格已授权埃森科特组建新政府，限期28日，可延长14日；在新政府宣誓就职前，内塔尼亚胡继续担任看守总理。"
+  },
+  "tags": {
+   "zh_hant": [
+    "以色列",
+    "議會",
+    "內塔尼亞胡"
+   ],
+   "en": [
+    "Israel",
+    "Knesset",
+    "Netanyahu"
+   ],
+   "zh_hans": [
+    "以色列",
+    "议会",
+    "内塔尼亚胡"
+   ]
+  }
+ },
+ {
+  "id": "20261111-zelenskyy-europe-join-ukraine-talks",
+  "category": "world",
+  "published_at": "2026-11-11T02:37:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877318-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "澤連斯基稱歐洲應參與結束俄烏戰事談判",
+   "en": "Zelenskyy says Europe should take part in talks to end Russia-Ukraine war",
+   "zh_hans": "泽连斯基称欧洲应参与结束俄乌战事谈判"
+  },
+  "summary": {
+   "zh_hant": "烏克蘭總統澤連斯基在丹麥議會發表演說，表示歐洲是烏克蘭主權和安全的保證者之一，應參與旨在結束俄烏戰事的談判。他指出，和平進程若沒有歐洲參與，不可能強大持久，戰後重建亦需要與歐洲合作及融入歐洲。澤連斯基又說，美俄烏三方會談在阿布扎比達成部分共識，政治決定取決於美國和俄羅斯總統。",
+   "en": "Ukrainian President Volodymyr Zelenskyy told the Danish parliament that Europe, as one of the guarantors of Ukraine's sovereignty and security, should take part in talks aimed at ending the Russia-Ukraine war. He said a peace process without Europe cannot be strong and lasting, and post-war reconstruction will also require cooperation and integration with Europe. Zelenskyy added that the US-Russia-Ukraine trilateral talks in Abu Dhabi reached partial consensus, with political decisions resting with the US and Russian presidents.",
+   "zh_hans": "乌克兰总统泽连斯基在丹麦议会发表演说，表示欧洲是乌克兰主权和安全的保证者之一，应参与旨在结束俄乌战事的谈判。他指出，和平进程若没有欧洲参与，不可能强大持久，战后重建亦需要与欧洲合作及融入欧洲。泽连斯基又说，美俄乌三方会谈在阿布扎比达成部分共识，政治决定取决于美国和俄罗斯总统。"
+  },
+  "tags": {
+   "zh_hant": [
+    "澤連斯基",
+    "烏克蘭",
+    "俄烏戰事"
+   ],
+   "en": [
+    "Zelenskyy",
+    "Ukraine",
+    "Russia-Ukraine war"
+   ],
+   "zh_hans": [
+    "泽连斯基",
+    "乌克兰",
+    "俄乌战事"
+   ]
+  }
+ },
+ {
+  "id": "20261111-china-us-hump-route-remains-handover",
+  "category": "china",
+  "published_at": "2026-11-11T01:53:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877317-20261111.htm"
+  },
+  "image_url": "https://newsstatic.rthk.hk/images/mfile_1877317_1_L_20261111015434.jpg",
+  "title": {
+   "zh_hant": "中方向美方移交駝峰航線美軍援華抗日飛行員遺骸",
+   "en": "China hands over remains of US Hump route airman to United States",
+   "zh_hans": "中方向美方移交驼峰航线美军援华抗日飞行员遗骸"
+  },
+  "summary": {
+   "zh_hant": "中方昨日在成都舉行移交儀式，向美方移交駝峰航線美軍援華抗日飛行員遺骸。遺骸今年9月在雲南滇緬公路旁一個村落被發現。中方自2019年起開展援華美軍烈士遺骸搜尋工作，至今已累計發現並移交十多具遺骸。",
+   "en": "China held a handover ceremony in Chengdu yesterday, returning to the United States the remains of a US airman who flew the Hump route supporting China in the war against Japan. The remains were discovered in September in a village beside the Burma Road in Yunnan. China has been searching for the remains of US servicemen who aided China since 2019, and has found and handed over more than ten sets of remains to date.",
+   "zh_hans": "中方昨日在成都举行移交仪式，向美方移交驼峰航线美军援华抗日飞行员遗骸。遗骸今年9月在云南滇缅公路旁一个村落被发现。中方自2019年起开展援华美军烈士遗骸搜寻工作，至今已累计发现并移交十多具遗骸。"
+  },
+  "tags": {
+   "zh_hant": [
+    "駝峰航線",
+    "中美",
+    "遺骸移交"
+   ],
+   "en": [
+    "Hump route",
+    "China-US",
+    "remains handover"
+   ],
+   "zh_hans": [
+    "驼峰航线",
+    "中美",
+    "遗骸移交"
+   ]
+  }
+ },
+ {
+  "id": "20261111-araghchi-us-war-iran-no-objective",
+  "category": "world",
+  "published_at": "2026-11-11T01:48:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877316-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "伊朗外長稱美國對伊朗戰事不可能實現任何目標",
+   "en": "Iranian foreign minister says US war on Iran could achieve no objective",
+   "zh_hans": "伊朗外长称美国对伊朗战事不可能实现任何目标"
+  },
+  "summary": {
+   "zh_hant": "伊朗外長阿拉格齊否認有關伊朗官員雷扎伊與美國副總統萬斯安排會面的報道，稱報道毫無根據。他表示，美國對伊朗發動戰事不可能實現任何目標，唯一解決辦法是以外交手段、使用尊重的語言，以及履行伊朗提出的要求和條件。",
+   "en": "Iranian Foreign Minister Abbas Araghchi denied reports that Iranian official Mohsen Rezaei had arranged a meeting with US Vice President JD Vance, calling the reports groundless. He said a US war against Iran could not achieve any objective, adding that the only solution is diplomacy, using respectful language and meeting the demands and conditions put forward by Iran.",
+   "zh_hans": "伊朗外长阿拉格齐否认有关伊朗官员雷扎伊与美国副总统万斯安排会面的报道，称报道毫无根据。他表示，美国对伊朗发动战事不可能实现任何目标，唯一解决办法以外交手段、使用尊重的语言，以及履行伊朗提出的要求和条件。"
+  },
+  "tags": {
+   "zh_hant": [
+    "伊朗",
+    "阿拉格齊",
+    "美國"
+   ],
+   "en": [
+    "Iran",
+    "Araghchi",
+    "United States"
+   ],
+   "zh_hans": [
+    "伊朗",
+    "阿拉格齐",
+    "美国"
+   ]
+  }
+ },
+ {
+  "id": "20261111-hegseth-impeachment-massie-political",
+  "category": "world",
+  "published_at": "2026-11-11T01:43:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877315-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "美防長指彈劾動議出於個人不滿及政治分歧",
+   "en": "Hegseth says impeachment push driven by personal grievance and political differences",
+   "zh_hans": "美防长指弹劾动议出于个人不满及政治分歧"
+  },
+  "summary": {
+   "zh_hant": "美國國防部長赫格塞思表示，眾議員梅西推動針對他的彈劾，是出於個人不滿及政治分歧，目的是打擊特朗普，形容為政治騷。他指梅西在離任前試圖損害政府及美軍利益，又稱彈劾將向伊朗等國釋放錯誤信號。特朗普已表明支持赫格塞思。",
+   "en": "US Defense Secretary Pete Hegseth said Representative Thomas Massie's push to impeach him stems from personal grievance and political differences, describing it as a political show aimed at Donald Trump. He said Massie was trying to damage the government and the US military before leaving office, adding that impeachment would send the wrong signal to countries including Iran. Trump has expressed support for Hegseth.",
+   "zh_hans": "美国国防部长赫格塞思表示，众议员梅西推动针对他的弹劾，是出于个人不满及政治分歧，目的是打击特朗普，形容为政治骚。他指梅西在离任前试图损害政府及美军利益，又称弹劾将向伊朗等国释放错误信号。特朗普已表明支持赫格塞思。"
+  },
+  "tags": {
+   "zh_hant": [
+    "赫格塞思",
+    "美國",
+    "彈劾"
+   ],
+   "en": [
+    "Hegseth",
+    "United States",
+    "impeachment"
+   ],
+   "zh_hans": [
+    "赫格塞思",
+    "美国",
+    "弹劾"
+   ]
+  }
+ },
+ {
+  "id": "20261111-najib-house-arrest-approved",
+  "category": "world",
+  "published_at": "2026-11-11T01:34:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877314-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "馬來西亞高院批准納吉布居家監禁服完剩餘刑期",
+   "en": "Malaysia's High Court approves house arrest for Najib to serve remainder of sentence",
+   "zh_hans": "马来西亚高院批准纳吉布居家监禁服完剩余刑期"
+  },
+  "summary": {
+   "zh_hant": "馬來西亞高等法院批准前總理納吉布以居家監禁方式，服完剩餘刑期至2028年8月23日。總理府法務部門9月18日宣布有條件特赦，納吉布繳納罰款後可居家服刑，最高元首強調特赦令明確無歧義，應尊重執行。納吉布2020年7月因挪用公款等7項罪名成立，被判監12年，2022年8月聯邦法院終審維持原判。",
+   "en": "Malaysia's High Court has approved former prime minister Najib Razak serving the remainder of his sentence under house arrest until 23 August 2028. The Prime Minister's Department's legal affairs division announced a conditional pardon on 18 September, allowing Najib to serve his sentence at home after paying a fine, and the King stressed that the pardon order was clear and unambiguous and should be respected and implemented. Najib was convicted in July 2020 on seven charges, including misappropriation of funds, and sentenced to 12 years in prison; the Federal Court upheld the verdict on final appeal in August 2022.",
+   "zh_hans": "马来西亚高等法院批准前总理纳吉布以居家监禁方式，服完剩余刑期至2028年8月23日。总理府法务部门9月18日宣布有条件特赦，纳吉布缴纳罚款后可居家服刑，最高元首强调特赦令明确无歧义，应尊重执行。纳吉布2020年7月因挪用公款等7项罪名成立，被判监12年，2022年8月联邦法院终审维持原判。"
+  },
+  "tags": {
+   "zh_hant": [
+    "納吉布",
+    "馬來西亞",
+    "居家監禁"
+   ],
+   "en": [
+    "Najib Razak",
+    "Malaysia",
+    "house arrest"
+   ],
+   "zh_hans": [
+    "纳吉布",
+    "马来西亚",
+    "居家监禁"
+   ]
+  }
+ },
+ {
   "id": "20261111-rubio-iran-sanctions-blockade-no-large-scale-war",
   "category": "world",
   "published_at": "2026-11-11T00:49:00+08:00",
