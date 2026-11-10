@@ -1,5 +1,449 @@
 [
  {
+  "id": "20261110-japan-imported-seafood-radiation-tests",
+  "category": "society",
+  "published_at": "2026-11-10T16:45:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/10/P2026111000501.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "食安中心檢測172個日本進口水產樣本　輻射水平全部合格",
+   "en": "Food safety centre tests 172 Japanese imported aquatic product samples; all pass radiation checks",
+   "zh_hans": "食安中心检测172个日本进口水产样本　辐射水平全部合格"
+  },
+  "summary": {
+   "zh_hant": "食安中心表示，由11月9日中午至今日中午，已對172個日本進口水產及其製品、海藻及海鹽食物樣本作輻射水平檢測，未有發現超出安全標準；同期漁護署對50個本地漁產品樣本作輻射檢測，全部合格，天文台亦已加強監測本港水域環境輻射水平，至今未發現異常。現時本港禁止源自日本10個都縣的水產、海鹽及海藻食品進口，其他日本水產須通過輻射檢測才可放行。自2023年8月24日至今，食安中心及漁護署已分別檢測共274,269個日本進口食物樣本及58,362個本地漁產品樣本，全部合格。",
+   "en": "The Centre for Food Safety said that from noon on November 9 to noon today, it tested 172 food samples of Japanese imported aquatic products and their products, seaweed and sea salt for radiation levels and found none exceeding safety standards; during the same period the Agriculture, Fisheries and Conservation Department tested 50 local fishery product samples, all of which passed, and the Hong Kong Observatory has stepped up monitoring of radiation levels in local waters with no abnormalities found so far. Hong Kong currently bans the import of aquatic products, sea salt and seaweed from 10 Japanese prefectures, while other Japanese aquatic products must pass radiation testing before being released for sale. Since August 24, 2023, the Centre for Food Safety and the AFCD have tested a total of 274,269 Japanese imported food samples and 58,362 local fishery product samples respectively, all of which passed.",
+   "zh_hans": "食安中心表示，由11月9日中午至今日中午，已对172个日本进口水产及其制品、海藻及海盐食物样本作辐射水平检测，未有发现超出安全标准；同期渔护署对50个本地渔产品样本作辐射检测，全部合格，天文台亦已加强监测本港水域环境辐射水平，至今未发现异常。现时本港禁止源自日本10个都县的水产、海盐及海藻食品进口，其他日本水产须通过辐射检测才可放行。自2023年8月24日至今，食安中心及渔护署已分别检测共274269个日本进口食物样本及58362个本地渔产品样本，全部合格。"
+  },
+  "tags": {
+   "zh_hant": [
+    "食物安全",
+    "日本進口水產",
+    "輻射檢測"
+   ],
+   "en": [
+    "food safety",
+    "Japanese imported seafood",
+    "radiation testing"
+   ],
+   "zh_hans": [
+    "食物安全",
+    "日本进口水产",
+    "辐射检测"
+   ]
+  }
+ },
+ {
+  "id": "20261110-hkma-scam-alert-ocbc-fraudulent-website",
+  "category": "society",
+  "published_at": "2026-11-10T16:35:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/10/P2026111000479.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "金管局提醒市民提防假冒華僑銀行網站及網上銀行登入畫面",
+   "en": "HKMA warns public over fraudulent OCBC website and internet banking login screen",
+   "zh_hans": "金管局提醒市民提防假冒华侨银行网站及网上银行登入画面"
+  },
+  "summary": {
+   "zh_hant": "金管局提醒市民提高警覺，留意華僑銀行（香港）有限公司就欺詐網站及網上銀行登入畫面發出的新聞稿，有關銀行已向金管局匯報事件。金管局提醒公眾，銀行不會透過短訊或電郵的超連結引領客戶到其網站進行交易，亦不會以電話、電郵或手機短訊要求客戶提供登入密碼及一次性密碼等敏感資料。任何人士如曾就有關騙案提供個人資料或進行交易，應利用有關新聞稿提供的資料聯絡銀行，並致電2860 5012向警方刑事總部資訊中心報案。",
+   "en": "The Hong Kong Monetary Authority has alerted the public to a press release issued by OCBC Bank (Hong Kong) Limited about a fraudulent website and internet banking login screen, which the bank has reported to the HKMA. The HKMA reminded the public that banks will not send SMS or emails with embedded hyperlinks directing customers to their websites to carry out transactions, and will not ask customers for sensitive information such as login passwords or one-time passwords by phone, email or SMS. Anyone who has provided personal information or conducted transactions in connection with the scam should contact the bank using the information in the press release and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012.",
+   "zh_hans": "金管局提醒市民提高警觉，留意华侨银行（香港）有限公司就欺诈网站及网上银行登入画面发出的新闻稿，有关银行已向金管局汇报事件。金管局提醒公众，银行不会透过短讯或电邮的超连结引领客户到其网站进行交易，亦不会以电话、电邮或手机短讯要求客户提供登入密码及一次性密码等敏感资料。任何人士如曾就有关骗案提供个人资料或进行交易，应利用有关新闻稿提供的资料联络银行，并致电2860 5012向警方刑事总部资讯中心报案。"
+  },
+  "tags": {
+   "zh_hant": [
+    "金管局",
+    "騙案",
+    "華僑銀行"
+   ],
+   "en": [
+    "HKMA",
+    "scam alert",
+    "OCBC"
+   ],
+   "zh_hans": [
+    "金管局",
+    "骗案",
+    "华侨银行"
+   ]
+  }
+ },
+ {
+  "id": "20261110-sme-business-survey-october-di-43-8",
+  "category": "finance",
+  "published_at": "2026-11-10T16:30:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/10/P2026111000265.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "中小企10月業務收益動向指數微升至43.8　仍處收縮區間",
+   "en": "SMEs' business receipts diffusion index edges up to 43.8 in October, still in contraction",
+   "zh_hans": "中小企10月业务收益动向指数微升至43.8　仍处收缩区间"
+  },
+  "summary": {
+   "zh_hant": "政府統計處發表10月份中小型企業業務狀況按月統計調查結果，中小企業務收益現時動向指數由9月的43.7微升至10月的43.8，仍處於50以下的收縮區間；未來一個月的業務收益展望動向指數為46.8。按行業分析，進出口貿易業的業務收益現時動向指數由43.3升至44.9，升幅較為明顯；進出口貿易業新訂單現時動向指數由9月的44.3升至10月的44.6，未來一個月新訂單展望動向指數為47.4。政府發言人表示，10月中小企營商氣氛大致穩定，整體就業人數動向指數連續第二個月改善；展望未來，香港經濟今年以來表現強勁，料將保持穩健增長，為營商信心提供支持，但外圍持續不確定因素仍可能影響短期氣氛。",
+   "en": "The Census and Statistics Department released the results of the Monthly Survey on Business Situation of Small and Medium-sized Enterprises for October 2026. The current diffusion index on business receipts amongst SMEs edged up from 43.7 in September to 43.8 in October, still in the contractionary zone below 50, while the one-month-ahead outlook diffusion index on business receipts was 46.8. By sector, the current diffusion index on business receipts for import and export trades rose from 43.3 to 44.9, a relatively notable increase; the current diffusion index on new orders for import and export trades rose from 44.3 in September to 44.6 in October, with the one-month-ahead outlook at 47.4. A government spokesman said business sentiment among SMEs was broadly stable in October and the overall diffusion index on employment improved for a second consecutive month; looking ahead, Hong Kong's economy has performed strongly so far this year and is expected to maintain solid growth, supporting business confidence, though persistent external uncertainties may still affect near-term sentiment.",
+   "zh_hans": "政府统计处发表10月份中小型企业业务状况按月统计调查结果，中小企业务收益现时动向指数由9月的43.7微升至10月的43.8，仍处于50以下的收缩区间；未来一个月的业务收益展望动向指数为46.8。按行业分析，进出口贸易业的业务收益现时动向指数由43.3升至44.9，升幅较为明显；进出口贸易业新订单现时动向指数由9月的44.3升至10月的44.6，未来一个月新订单展望动向指数为47.4。政府发言人表示，10月中小企营商气氛大致稳定，整体就业人数动向指数连续第二个月改善；展望未来，香港经济今年以来表现强劲，料将保持稳健增长，为营商信心提供支持，但外围持续不确定因素仍可能影响短期气氛。"
+  },
+  "tags": {
+   "zh_hant": [
+    "中小企",
+    "業務收益",
+    "統計處"
+   ],
+   "en": [
+    "SMEs",
+    "business receipts",
+    "Census and Statistics Department"
+   ],
+   "zh_hans": [
+    "中小企",
+    "业务收益",
+    "统计处"
+   ]
+  }
+ },
+ {
+  "id": "20261110-hang-seng-close-up-108-points",
+  "category": "finance",
+  "published_at": "2026-11-10T16:29:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877261-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "港股高收108點　金融及人工智能股造好　滙控升逾4%",
+   "en": "Hang Seng closes up 108 points as financial and AI stocks advance; HSBC up over 4%",
+   "zh_hans": "港股高收108点　金融及人工智能股造好　汇控升逾4%"
+  },
+  "summary": {
+   "zh_hant": "港股反彈，恒生指數最多升近230點，高見24,675點，收報24,557點，升108點；主板成交額約1,782億元，連續兩日不足2,000億元。科技指數收報4,084點，升約1.1%。晶片、人工智能相關股份及手機設備股上升，MINIMAX、智譜及天數智芯急升逾一成至逾一成半，舜宇升近6%，是表現最好的藍籌股。金融股造好，友邦及中銀香港升1%或以上，滙控升逾4%，渣打升5%。內地三大油股跌近2%至逾3%，內房股亦下跌。兩隻新股個別發展，登臨科技收報213元，較招股價跌近8%；芯德半導體報11.4元，升逾28%。",
+   "en": "Hong Kong stocks rebounded, with the Hang Seng Index rising as much as nearly 230 points to an intraday high of 24,675 before closing at 24,557, up 108 points; main board turnover was about HK$178.2 billion, below HK$200 billion for a second consecutive day. The Hang Seng Tech Index closed at 4,084, up about 1.1%. Chip, artificial intelligence-related and handset component stocks rose, with MiniMax, Zhipu and Tianshu Zhixin surging more than 10% to over 15%, while Sunny Optical rose nearly 6%, the best-performing blue chip. Financial stocks were strong: AIA and Bank of China (Hong Kong) rose 1% or more, HSBC rose over 4% and Standard Chartered rose 5%. The mainland's three major oil stocks fell nearly 2% to over 3%, and mainland property stocks also fell. Two new listings moved in opposite directions: Denglin Technology closed at HK$213, down nearly 8% from its offer price, while Xinde Semiconductor closed at HK$11.4, up over 28%.",
+   "zh_hans": "港股反弹，恒生指数最多升近230点，高见24675点，收报24557点，升108点；主板成交额约1782亿元，连续两日不足2000亿元。科技指数收报4084点，升约1.1%。芯片、人工智能相关股份及手机设备股上升，MINIMAX、智谱及天数智芯急升逾一成至逾一成半，舜宇升近6%，是表现最好的蓝筹股。金融股造好，友邦及中银香港升1%或以上，汇控升逾4%，渣打升5%。内地三大油股跌近2%至逾3%，内房股亦下跌。两只新股个别发展，登临科技收报213元，较招股价跌近8%；芯德半导体报11.4元，升逾28%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "港股",
+    "恒生指數",
+    "滙控"
+   ],
+   "en": [
+    "Hong Kong stocks",
+    "Hang Seng Index",
+    "HSBC"
+   ],
+   "zh_hans": [
+    "港股",
+    "恒生指数",
+    "汇控"
+   ]
+  }
+ },
+ {
+  "id": "20261110-abby-choi-trial-kwong-kong-kit-testimony",
+  "category": "society",
+  "published_at": "2026-11-10T16:28:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877263-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "蔡天鳳案：鄺港傑作供稱父親曾與蔡天鳳爭執　其後無再見面",
+   "en": "Abby Choi case: Kwong Kong-kit testifies his father once quarrelled with Choi and never saw her again",
+   "zh_hans": "蔡天凤案：邝港杰作供称父亲曾与蔡天凤争执　其后无再见面"
+  },
+  "summary": {
+   "zh_hant": "蔡天鳳案在高等法院續審，首被告、蔡天鳳的前大伯鄺港傑繼續作供。鄺港傑提到，蔡天鳳的母親曾於2022年向蔡天鳳表示，前夫鄺港智在內地有女朋友，蔡天鳳知悉後反應很大，要求鄺港智盡快返港，鄺港智約一個月後回港。鄺港傑又提到，約2022年6至7月，蔡天鳳的女兒發燒期間，蔡天鳳曾在房間責罵鄺港傑的母親，鄺球聽到後衝入房間與蔡天鳳對罵，須由家人分隔，其後鄺球與蔡天鳳關係惡劣，無再聯絡及見面。鄺港傑形容自己既是鄺家一員，亦是蔡天鳳的好朋友，曾協助照顧小朋友及打理家務。",
+   "en": "The trial in the Abby Choi case continued at the High Court, with the first defendant, Choi's former brother-in-law Kwong Kong-kit, continuing to give evidence. Kwong said Choi's mother told Choi in 2022 that her former husband Kwong Kong-chi had a girlfriend on the mainland; Choi reacted strongly and pressed Kwong Kong-chi to return to Hong Kong as soon as possible, and he returned about a month later. Kwong also said that around June to July 2022, when Choi's daughter had a fever, Choi scolded Kwong's mother in a room, and his father Kwong Kau rushed in and quarrelled with Choi, and family members had to separate them; after that, Kwong Kau and Choi were on bad terms and had no further contact or meetings. Kwong described his role as unusual: he was both a member of the Kwong family and a good friend of Choi, and had helped look after the children and run the household.",
+   "zh_hans": "蔡天凤案在高等法院续审，首被告、蔡天凤的前大伯邝港杰继续作供。邝港杰提到，蔡天凤的母亲曾于2022年向蔡天凤表示，前夫邝港智在内地有女朋友，蔡天凤知悉后反应很大，要求邝港智尽快返港，邝港智约一个月后回港。邝港杰又提到，约2022年6至7月，蔡天凤的女儿发烧期间，蔡天凤曾在房间责骂邝港杰的母亲，邝球听到后冲入房间与蔡天凤对骂，须由家人分隔，其后邝球与蔡天凤关系恶劣，无再联络及见面。邝港杰形容自己既是邝家一员，亦是蔡天凤的好朋友，曾协助照顾小朋友及打理家务。"
+  },
+  "tags": {
+   "zh_hant": [
+    "蔡天鳳案",
+    "高等法院",
+    "鄺港傑"
+   ],
+   "en": [
+    "Abby Choi case",
+    "High Court",
+    "Kwong Kong-kit"
+   ],
+   "zh_hans": [
+    "蔡天凤案",
+    "高等法院",
+    "邝港杰"
+   ]
+  }
+ },
+ {
+  "id": "20261110-china-us-leaders-interaction-communication",
+  "category": "china",
+  "published_at": "2026-11-10T16:27:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877262-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "外交部：中美雙方就兩國元首年內互動安排保持溝通",
+   "en": "Foreign Ministry: China and US remain in communication over leaders' interactions this year",
+   "zh_hans": "外交部：中美双方就两国元首年内互动安排保持沟通"
+  },
+  "summary": {
+   "zh_hant": "美國總統特朗普日前表示，將前往中國出席亞太經合組織領導人非正式會議，期間與國家主席習近平及俄羅斯總統普京會面。外交部發言人郭嘉昆在例行記者會回應有關中美元首會晤的提問時表示，中美雙方就兩國元首年內互動安排保持溝通。對於中國大熊貓「平平」與「福雙」已抵達美國亞特蘭大動物園展開為期10年的旅居生活，郭嘉昆說，中方很高興見到這對大熊貓近日正式與美國民眾見面，相信新一輪中美大熊貓合作將有助提升大熊貓等瀕危物種保護能力，推動全球生物多樣性保護及增進中美人民友誼。",
+   "en": "US President Donald Trump recently said he would travel to China to attend the APEC Economic Leaders' Meeting and meet President Xi Jinping and Russian President Vladimir Putin during the trip. Foreign Ministry spokesperson Guo Jiakun, responding to questions about a China-US leaders' meeting at a regular press briefing in Beijing, said China and the US remain in communication over arrangements for the two leaders' interactions this year. On the arrival of giant pandas Ping Ping and Fu Shuang at Zoo Atlanta for a 10-year stay, Guo said China is pleased to see the pair formally meet the American public, and believes the new round of China-US panda cooperation will help improve the protection of pandas and other endangered species, promote global biodiversity conservation and enhance friendship between the Chinese and American peoples.",
+   "zh_hans": "美国总统特朗普日前表示，将前往中国出席亚太经合组织领导人非正式会议，期间与国家主席习近平及俄罗斯总统普京会面。外交部发言人郭嘉昆在例行记者会回应有关中美元首会晤的提问时表示，中美双方就两国元首年内互动安排保持沟通。对于中国大熊猫「平平」与「福双」已抵达美国亚特兰大动物园展开为期10年的旅居生活，郭嘉昆说，中方很高兴见到这对大熊猫近日正式与美国民众见面，相信新一轮中美大熊猫合作将有助提升大熊猫等濒危物种保护能力，推动全球生物多样性保护及增进中美人民友谊。"
+  },
+  "tags": {
+   "zh_hant": [
+    "中美關係",
+    "外交部",
+    "習近平"
+   ],
+   "en": [
+    "China-US relations",
+    "Foreign Ministry",
+    "Xi Jinping"
+   ],
+   "zh_hans": [
+    "中美关系",
+    "外交部",
+    "习近平"
+   ]
+  }
+ },
+ {
+  "id": "20261110-sun-yat-sen-160th-anniversary-ceremony-thursday",
+  "category": "hk",
+  "published_at": "2026-11-10T16:09:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877259-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "李家超周四主持孫中山先生誕辰160周年紀念儀式",
+   "en": "John Lee to officiate at ceremony marking 160th anniversary of Dr Sun Yat-sen's birth on Thursday",
+   "zh_hans": "李家超周四主持孙中山先生诞辰160周年纪念仪式"
+  },
+  "summary": {
+   "zh_hant": "特區政府將於本周四上午10時在中山紀念公園舉行孫中山先生誕辰160周年紀念儀式，行政長官李家超將主持儀式並致辭。今年11月12日是孫中山先生誕辰160周年紀念日。出席人士包括政府高層官員、中央駐港機構代表、行政會議成員、立法會議員、港區全國人大代表、港區全國政協委員、區議員、制服團隊、青年代表及學生等；現場不設公眾觀禮區，香港電台電視31將直播儀式。另外，康文署與浸會大學合作於孫中山紀念館推出「日新萬象—孫中山形象的塑造與呈現」專題展覽，由11月13日起至明年7月7日舉行，免費入場，展出逾80套珍貴文物及約100項歷史圖片、剪報和檔案。",
+   "en": "The Government will hold a ceremony at Sun Yat Sen Memorial Park at 10am this Thursday to mark the 160th anniversary of the birth of Dr Sun Yat-sen, with Chief Executive John Lee officiating and delivering an address. November 12 this year marks the 160th anniversary of Dr Sun Yat-sen's birth. Those attending include senior government officials, representatives of central government offices in Hong Kong, Executive Council members, Legislative Council members, Hong Kong deputies to the National People's Congress, Hong Kong members of the CPPCC National Committee, District Council members, disciplined services, youth representatives and students; there will be no public viewing area, and RTHK TV 31 will broadcast the ceremony live. Separately, the Leisure and Cultural Services Department and Hong Kong Baptist University are presenting the thematic exhibition \"Timeless Impressions: The Making and Representation of Sun Yat-sen's Image\" at the Dr Sun Yat-sen Museum from November 13 to July 7 next year, with free admission, featuring more than 80 sets of precious artefacts and about 100 historical images, newspaper clippings and archives.",
+   "zh_hans": "特区政府将于本周四上午10时在中山纪念公园举行孙中山先生诞辰160周年纪念仪式，行政长官李家超将主持仪式并致辞。今年11月12日是孙中山先生诞辰160周年纪念日。出席人士包括政府高层官员、中央驻港机构代表、行政会议成员、立法会议员、港区全国人大代表、港区全国政协委员、区议员、制服团队、青年代表及学生等；现场不设公众观礼区，香港电台电视31将直播仪式。另外，康文署与浸会大学合作于孙中山纪念馆推出「日新万象—孙中山形象的塑造与呈现」专题展览，由11月13日起至明年7月7日举行，免费入场，展出逾80套珍贵文物及约100项历史图片、剪报和档案。"
+  },
+  "tags": {
+   "zh_hant": [
+    "孫中山",
+    "誕辰160周年",
+    "李家超"
+   ],
+   "en": [
+    "Sun Yat-sen",
+    "160th anniversary",
+    "John Lee"
+   ],
+   "zh_hans": [
+    "孙中山",
+    "诞辰160周年",
+    "李家超"
+   ]
+  }
+ },
+ {
+  "id": "20261110-contractors-fined-fatal-accident-yuen-long",
+  "category": "society",
+  "published_at": "2026-11-10T16:00:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/10/P2026111000451.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "兩承建商違反安全法例被判罰款　涉元朗拆卸村屋致命意外",
+   "en": "Two contractors fined for safety breaches over fatal Yuen Long village house demolition accident",
+   "zh_hans": "两承建商违反安全法例被判罚款　涉元朗拆卸村屋致命意外"
+  },
+  "summary": {
+   "zh_hant": "展鋒工程有限公司、一名承建商及鈞威機械工程有限公司因違反《工廠及工業經營條例》，被勞工處檢控，今日在粉嶺裁判法院分別被判罰款15.5萬元、15.5萬元及13萬元。案情涉及2025年11月5日在元朗一棟拆卸中的村屋發生的致命意外，一名女工在村屋磚砌圍牆外進行人手清理工作時，圍牆突然倒塌將其壓住，送院後證實不治。",
+   "en": "Cin Fung Engineering Limited, a contractor and Kwan Wai Machinery Engineering Limited were fined HK$155,000, HK$155,000 and HK$130,000 respectively at Fanling Magistrates' Courts today for violating the Factories and Industrial Undertakings Ordinance, following prosecutions by the Labour Department. The case involved a fatal accident on November 5, 2025, at a village house under demolition in Yuen Long: a female worker was conducting manual clearing work outside the brick perimeter wall of the house when the wall suddenly collapsed and pressed against her, and she was certified dead in hospital on the same day.",
+   "zh_hans": "展锋工程有限公司、一名承建商及钧威机械工程有限公司因违反《工厂及工业经营条例》，被劳工处检控，今日在粉岭裁判法院分别被判罚款15.5万元、15.5万元及13万元。案情涉及2025年11月5日在元朗一栋拆卸中的村屋发生的致命意外，一名女工在村屋砖砌围墙外进行人手清理工作时，围墙突然倒塌将其压住，送院后证实不治。"
+  },
+  "tags": {
+   "zh_hant": [
+    "工業安全",
+    "勞工處",
+    "致命意外"
+   ],
+   "en": [
+    "industrial safety",
+    "Labour Department",
+    "fatal accident"
+   ],
+   "zh_hans": [
+    "工业安全",
+    "劳工处",
+    "致命意外"
+   ]
+  }
+ },
+ {
+  "id": "20261110-abby-choi-trial-juror-withdraws",
+  "category": "society",
+  "published_at": "2026-11-10T15:54:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877257-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "蔡天鳳案一名陪審員退出　法官批准餘下8人繼續審理",
+   "en": "Abby Choi case: one juror steps down; judge allows trial to continue with eight jurors",
+   "zh_hans": "蔡天凤案一名陪审员退出　法官批准余下8人继续审理"
+  },
+  "summary": {
+   "zh_hant": "蔡天鳳案在高等法院續審，其中一名陪審員向法官申請退出並獲批准，案件現由餘下8名陪審員繼續審理。暫委法官祁彥輝表示，收到該名陪審員的中文信件要求退出，考慮後認為對方繼續參與審訊並不恰當，決定解除其職務，並要求對方在案件完結前不得向任何人透露案件詳情。案件今日繼續由首被告、蔡天鳳的前大伯鄺港傑作供。",
+   "en": "The trial in the Abby Choi case continued at the High Court, where one juror applied to step down and was allowed to do so, leaving eight jurors to continue hearing the case. Deputy Judge Keith Yeung said he had received a letter in Chinese from the juror requesting to withdraw, and having considered it, decided it was not appropriate for the juror to continue, so he discharged the juror and ordered that no details of the case be disclosed to anyone before the trial ends. The trial continued today with the first defendant, Choi's former brother-in-law Kwong Kong-kit, giving evidence.",
+   "zh_hans": "蔡天凤案在高等法院续审，其中一名陪审员向法官申请退出并获批准，案件现由余下8名陪审员继续审理。暂委法官祁彦辉表示，收到该名陪审员的中文信件要求退出，考虑后认为对方继续参与审讯并不恰当，决定解除其职务，并要求对方在案件完结前不得向任何人透露案件详情。案件今日继续由首被告、蔡天凤的前大伯邝港杰作供。"
+  },
+  "tags": {
+   "zh_hant": [
+    "蔡天鳳案",
+    "高等法院",
+    "陪審員"
+   ],
+   "en": [
+    "Abby Choi case",
+    "High Court",
+    "juror"
+   ],
+   "zh_hans": [
+    "蔡天凤案",
+    "高等法院",
+    "陪审员"
+   ]
+  }
+ },
+ {
+  "id": "20261110-shanghai-stocks-close-up-2-points",
+  "category": "finance",
+  "published_at": "2026-11-10T15:38:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877255-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "滬股全日升2點　創業板指數於2500點反覆",
+   "en": "Shanghai stocks edge up 2 points for the day; ChiNext fluctuates around 2,500",
+   "zh_hans": "沪股全日升2点　创业板指数于2500点反复"
+  },
+  "summary": {
+   "zh_hant": "內地股市三大指數高收，影視、遊戲及消費電子股造好，油氣、煤炭、保險及航運股下跌。上證指數收報3,663點，升2點；深證成份指數報11,241點，升96點，升幅0.86%；創業板指數於2,500點水平反覆，報2,494點，升35點，升幅1.46%。",
+   "en": "Mainland China's three major stock indices closed higher, with film and television, gaming and consumer electronics stocks performing well, while oil and gas, coal, insurance and shipping stocks fell. The Shanghai Composite closed at 3,663, up 2 points; the Shenzhen Component Index closed at 11,241, up 96 points or 0.86%; the ChiNext Index fluctuated around the 2,500 level, closing at 2,494, up 35 points or 1.46%.",
+   "zh_hans": "内地股市三大指数高收，影视、游戏及消费电子股造好，油气、煤炭、保险及航运股下跌。上证指数收报3663点，升2点；深证成份指数报11241点，升96点，升幅0.86%；创业板指数于2500点水平反复，报2494点，升35点，升幅1.46%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "滬股",
+    "上證指數",
+    "創業板"
+   ],
+   "en": [
+    "Shanghai stocks",
+    "Shanghai Composite",
+    "ChiNext"
+   ],
+   "zh_hans": [
+    "沪股",
+    "上证指数",
+    "创业板"
+   ]
+  }
+ },
+ {
+  "id": "20261110-mortgage-insurance-new-low-october",
+  "category": "finance",
+  "published_at": "2026-11-10T15:26:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877256-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "本港上月新批按保及新取用按保宗數均創逾10年新低",
+   "en": "New mortgage insurance approvals and drawdowns both hit over-10-year lows last month",
+   "zh_hans": "本港上月新批按保及新取用按保宗数均创逾10年新低"
+  },
+  "summary": {
+   "zh_hant": "按揭證券公司數字顯示，10月新批按揭保險宗數按月跌2.4%至701宗，創近11年新低，新批按保金額按月升1.1%至39億元；上月新取用按保宗數及金額均大跌逾40%，創逾10年低位。今年首10個月新批按保宗數10,408宗，金額570億元，按年分別減少23.8%及16.7%。中原按揭表示，10月新取用按保宗數大跌主因是年中後樓市連月消化整固，交投減少，按揭申請跟隨回落；平均新取用按保貸款金額約529萬元，按月跌約5.2%，當中一手物業佔11%，二手佔89%。分析指，樓按政策全面放寬後，銀行按揭成數上限恢復至七成，市場對高成數按揭保險的依賴出現結構性減少。",
+   "en": "Figures from the HKMC show new mortgage insurance approvals fell 2.4% month on month to 701 cases in October, the lowest in nearly 11 years, while the approved amount rose 1.1% to HK$3.9 billion; new drawdowns in both number and amount plunged more than 40%, also the lowest in over 10 years. In the first 10 months of the year, new approvals totalled 10,408 cases worth HK$57 billion, down 23.8% and 16.7% year on year. Centaline Mortgage said the sharp drop in drawdowns mainly reflected the property market digesting and consolidating for months since mid-year, with transactions falling and mortgage applications following suit; the average new drawdown loan was about HK$5.29 million, down about 5.2% month on month, of which primary properties accounted for 11% and secondary properties 89%. Analysts said that after mortgage policies were fully relaxed and banks' maximum loan-to-value ratio returned to 70%, the market's structural reliance on high loan-to-value mortgage insurance has declined.",
+   "zh_hans": "按揭证券公司数字显示，10月新批按揭保险宗数按月跌2.4%至701宗，创近11年新低，新批按保金额按月升1.1%至39亿元；上月新取用按保宗数及金额均大跌逾40%，创逾10年低位。今年首10个月新批按保宗数10408宗，金额570亿元，按年分别减少23.8%及16.7%。中原按揭表示，10月新取用按保宗数大跌主因是年中后楼市连月消化整固，交投减少，按揭申请跟随回落；平均新取用按保贷款金额约529万元，按月跌约5.2%，当中一手物业占11%，二手占89%。分析指，楼按政策全面放宽后，银行按揭成数上限恢复至七成，市场对高成数按揭保险的依赖出现结构性减少。"
+  },
+  "tags": {
+   "zh_hant": [
+    "按揭保險",
+    "樓市",
+    "按揭證券公司"
+   ],
+   "en": [
+    "mortgage insurance",
+    "property market",
+    "HKMC"
+   ],
+   "zh_hans": [
+    "按揭保险",
+    "楼市",
+    "按揭证券公司"
+   ]
+  }
+ },
+ {
+  "id": "20261110-symphony-of-lights-final-show-nov-18",
+  "category": "hk",
+  "published_at": "2026-11-10T15:08:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877254-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "幻彩詠香江11月18日上演最後一場　當晚加插煙火元素",
+   "en": "A Symphony of Lights to stage final show on November 18 with fireworks finale",
+   "zh_hans": "幻彩咏香江11月18日上演最后一场　当晚加插烟火元素"
+  },
+  "summary": {
+   "zh_hant": "旅發局宣布，年度旗艦盛事「香港繽紛冬日巡禮」將於11月18日揭幕，同日已有22年歷史的「幻彩詠香江」將上演最後一場，並加插煙火元素作結。旅發局主席林建岳表示，今年冬日巡禮是歷來最大規模、內容最豐富，「冬日小鎮」將擴展至中環、銅鑼灣及尖沙咀等多個地區，設不同主題及光影表演，旅發局亦聯同業界推出過百項冬日優惠。年尾壓軸活動為除夕倒數煙花匯演，將以慶祝香港特區成立30周年為主題。",
+   "en": "The Hong Kong Tourism Board has announced that its flagship annual event, Hong Kong WinterFest, will open on November 18, when the 22-year-old light-and-sound show A Symphony of Lights will stage its final performance, with fireworks added to mark the occasion. Tourism Board chairman Peter Lam said this year's WinterFest is the largest and most content-rich ever, with the Christmas Town expanding to Central, Causeway Bay and Tsim Sha Tsui with different themes and light shows, alongside more than 100 winter offers from the industry. The year-end highlight will be the New Year's Eve countdown fireworks, themed to celebrate the 30th anniversary of the Hong Kong SAR.",
+   "zh_hans": "旅发局宣布，年度旗舰盛事「香港缤纷冬日巡礼」将于11月18日揭幕，同日已有22年历史的「幻彩咏香江」将上演最后一场，并加插烟火元素作结。旅发局主席林建岳表示，今年冬日巡礼是历来最大规模、内容最丰富，「冬日小镇」将扩展至中环、铜锣湾及尖沙咀等多个地区，设不同主题及光影表演，旅发局亦联同业界推出过百项冬日优惠。年尾压轴活动为除夕倒数烟花汇演，将以庆祝香港特区成立30周年为主题。"
+  },
+  "tags": {
+   "zh_hant": [
+    "幻彩詠香江",
+    "旅發局",
+    "香港繽紛冬日巡禮"
+   ],
+   "en": [
+    "A Symphony of Lights",
+    "Hong Kong Tourism Board",
+    "Hong Kong WinterFest"
+   ],
+   "zh_hans": [
+    "幻彩咏香江",
+    "旅发局",
+    "香港缤纷冬日巡礼"
+   ]
+  }
+ },
+ {
   "id": "20261110-john-lee-uk-key-business-partner-northern-metropolis",
   "category": "hk",
   "published_at": "2026-11-10T14:39:00+08:00",
