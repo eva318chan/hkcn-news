@@ -1,5 +1,227 @@
 [
  {
+  "id": "20261110-trump-no-need-iran-military-action-now",
+  "category": "world",
+  "published_at": "2026-11-10T08:43:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877208-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "特朗普稱現階段沒必要再對伊朗採取軍事行動",
+   "en": "Trump says no further military action against Iran needed for now",
+   "zh_hans": "特朗普称现阶段没必要再对伊朗采取军事行动"
+  },
+  "summary": {
+   "zh_hant": "美國總統特朗普表示，美國重啟對伊朗軍事行動的可能性相當小，局勢正朝著結束衝突的積極方向發展。他星期一在白宮表示，現階段似乎無必要對伊朗採取軍事行動，伊朗戰事已經事實上結束，目前情況基本維持現狀，但美方嚴陣以待。特朗普同日與到訪的卡塔爾首相兼外交大臣穆罕默德會談，雙方深入討論伊朗議題；卡塔爾、沙特阿拉伯、阿聯酋、巴林、科威特等國都傾向維持現狀，繼續實施海上封鎖。",
+   "en": "US President Donald Trump said the likelihood of the United States resuming military action against Iran is quite small and the situation is moving in a positive direction towards ending the conflict. Speaking at the White House on Monday, Trump said there seemed no need for further military action against Iran for now and the war was effectively over, with the status quo largely maintained but the US ready to act if circumstances change. Trump also met visiting Qatari Prime Minister and Foreign Minister Mohammed the same day for in-depth talks on Iran; Qatar, Saudi Arabia, the United Arab Emirates, Bahrain, Kuwait and others favour maintaining the status quo, including continuing the maritime blockade.",
+   "zh_hans": "美国总统特朗普表示，美国重启对伊朗军事行动的可能性相当小，局势正朝着结束冲突的积极方向发展。他星期一在白宫表示，现阶段似乎无必要对伊朗采取军事行动，伊朗战事已经事实上结束，目前情况基本维持现状，但美方严阵以待。特朗普同日与到访的卡塔尔首相兼外交大臣穆罕默德会谈，双方深入讨论伊朗议题；卡塔尔、沙特阿拉伯、阿联酋、巴林、科威特等国都倾向维持现状，继续实施海上封锁。"
+  },
+  "tags": {
+   "zh_hant": [
+    "特朗普",
+    "伊朗",
+    "美國"
+   ],
+   "en": [
+    "Donald Trump",
+    "Iran",
+    "United States"
+   ],
+   "zh_hans": [
+    "特朗普",
+    "伊朗",
+    "美国"
+   ]
+  }
+ },
+ {
+  "id": "20261110-nikkei-up-over-2-percent-early",
+  "category": "finance",
+  "published_at": "2026-11-10T08:12:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877204-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "日股初段升逾2%",
+   "en": "Japanese stocks rise more than 2% in early trading",
+   "zh_hans": "日股初段升逾2%"
+  },
+  "summary": {
+   "zh_hant": "日本股市在開市初段升逾2%，日經平均指數重上6萬點水平，較早時報60,159點，升1,383點，升幅2.35%。",
+   "en": "Japanese stocks rose more than 2% in early trading, with the Nikkei average climbing back above the 60,000 level to 60,159 earlier, up 1,383 points or 2.35%.",
+   "zh_hans": "日本股市在开市初段升逾2%，日经平均指数重上6万点水平，较早时报60159点，升1383点，升幅2.35%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "日股",
+    "日經指數",
+    "日本股市"
+   ],
+   "en": [
+    "Japanese stocks",
+    "Nikkei",
+    "Japan markets"
+   ],
+   "zh_hans": [
+    "日股",
+    "日经指数",
+    "日本股市"
+   ]
+  }
+ },
+ {
+  "id": "20261110-kospi-up-over-5-percent-early",
+  "category": "finance",
+  "published_at": "2026-11-10T08:12:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877205-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "韓股初段升逾5%",
+   "en": "South Korean stocks rise more than 5% in early trading",
+   "zh_hans": "韩股初段升逾5%"
+  },
+  "summary": {
+   "zh_hant": "韓國股市在開市初段升逾半成，首爾綜合指數較早時報5,273點，升254點，升幅5.07%。",
+   "en": "South Korean stocks rose more than 5% in early trading, with the KOSPI index at 5,273 earlier, up 254 points or 5.07%.",
+   "zh_hans": "韩国股市在开市初段升逾半成，首尔综合指数较早时报5273点，升254点，升幅5.07%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "韓股",
+    "KOSPI",
+    "韓國股市"
+   ],
+   "en": [
+    "South Korean stocks",
+    "KOSPI",
+    "Korea markets"
+   ],
+   "zh_hans": [
+    "韩股",
+    "KOSPI",
+    "韩国股市"
+   ]
+  }
+ },
+ {
+  "id": "20261110-ukraine-delegation-arrives-abu-dhabi-talks",
+  "category": "world",
+  "published_at": "2026-11-10T08:08:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877203-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "烏克蘭談判代表團抵達阿布扎比參加俄美烏三方會談",
+   "en": "Ukrainian delegation arrives in Abu Dhabi for Russia-US-Ukraine trilateral talks",
+   "zh_hans": "乌克兰谈判代表团抵达阿布扎比参加俄美乌三方会谈"
+  },
+  "summary": {
+   "zh_hant": "烏克蘭總統澤連斯基表示，烏方談判代表團已經抵達阿聯酋首都阿布扎比，參加即將舉行的俄美烏三方會談。代表團將與歐洲伙伴單獨會晤，目標是促成真正的和平。烏方代表表示將重點討論人道主義議題，並希望雙方就下一階段交換戰俘達成共識。烏克蘭常駐聯合國代表梅利尼克說，重大決定仍需由烏俄領導人面對面會晤才能作出，澤連斯基願意在莫斯科以外的任何地方與普京會面。",
+   "en": "Ukrainian President Volodymyr Zelenskyy said the Ukrainian negotiating delegation has arrived in Abu Dhabi to take part in the upcoming Russia-US-Ukraine trilateral talks. The delegation will hold separate meetings with European partners, with the sole goal of achieving a genuine peace. Ukrainian representatives said humanitarian issues will be the focus and they hope both sides can agree on the next prisoner exchange. Ukraine's ambassador to the United Nations, Andrii Melnyk, said major decisions still require a face-to-face meeting between the Ukrainian and Russian leaders, adding that Zelenskyy is willing to meet Vladimir Putin anywhere except Moscow.",
+   "zh_hans": "乌克兰总统泽连斯基表示，乌方谈判代表团已经抵达阿联酋首都阿布扎比，参加即将举行的俄美乌三方会谈。代表团将与欧洲伙伴单独会晤，目标是促成真正的和平。乌方代表表示将重点讨论人道主义议题，并希望双方就下一阶段交换战俘达成共识。乌克兰常驻联合国代表梅利尼克说，重大决定仍需由乌俄领导人面对面会晤才能作出，泽连斯基愿意在莫斯科以外的任何地方与普京会面。"
+  },
+  "tags": {
+   "zh_hant": [
+    "烏克蘭",
+    "阿布扎比",
+    "三方會談"
+   ],
+   "en": [
+    "Ukraine",
+    "Abu Dhabi",
+    "trilateral talks"
+   ],
+   "zh_hans": [
+    "乌克兰",
+    "阿布扎比",
+    "三方会谈"
+   ]
+  }
+ },
+ {
+  "id": "20261110-ny-fed-survey-job-outlook-worries-rise",
+  "category": "finance",
+  "published_at": "2026-11-10T07:22:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877199-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "紐約聯儲調查：10月美國消費者對就業前景憂慮加劇",
+   "en": "New York Fed survey: US consumers' job worries grew in October",
+   "zh_hans": "纽约联储调查：10月美国消费者对就业前景忧虑加剧"
+  },
+  "summary": {
+   "zh_hant": "紐約聯邦儲備銀行公布10月消費者預期調查，預計一年後失業率上升的受訪者比例升至2020年4月以來最高，當時正值新冠疫情初期。受訪者認為10月非自願失業的可能性有所上升，但仍處於相對較低水平，同時認為失業後找到新工作的可能性亦有所增加。通脹預期方面，受訪者預計一年後通脹率3.9%，三年後3.3%，五年後3%，與9月調查結果一致。",
+   "en": "The Federal Reserve Bank of New York's October consumer expectations survey found the share of respondents expecting unemployment to rise over the next year at its highest since April 2020, at the start of the COVID-19 pandemic. Respondents saw a higher chance of involuntary job loss in October, though it remained relatively low, and also saw better odds of finding a new job if laid off. Inflation expectations were unchanged from September: 3.9% in one year, 3.3% in three years and 3% in five years.",
+   "zh_hans": "纽约联邦储备银行公布10月消费者预期调查，预计一年后失业率上升的受访者比例升至2020年4月以来最高，当时正值新冠疫情初期。受访者认为10月非自愿失业的可能性有所上升，但仍处于相对较低水平，同时认为失业后找到新工作的可能性亦有所增加。通胀预期方面，受访者预计一年后通胀率3.9%，三年后3.3%，五年后3%，与9月调查结果一致。"
+  },
+  "tags": {
+   "zh_hant": [
+    "紐約聯儲",
+    "就業",
+    "通脹預期"
+   ],
+   "en": [
+    "New York Fed",
+    "jobs",
+    "inflation expectations"
+   ],
+   "zh_hans": [
+    "纽约联储",
+    "就业",
+    "通胀预期"
+   ]
+  }
+ },
+ {
+  "id": "20261110-us-rep-massie-impeachment-resolution-hegseth",
+  "category": "world",
+  "published_at": "2026-11-10T07:18:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877198-20261110.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "美聯邦眾議員馬西提交決議案推動彈劾國防部長赫格塞思",
+   "en": "US Representative Massie files resolution to push impeachment of Defence Secretary Hegseth",
+   "zh_hans": "美联邦众议员马西提交决议案推动弹劾国防部长赫格塞思"
+  },
+  "summary": {
+   "zh_hant": "美國肯塔基州共和黨籍聯邦眾議員馬西向眾議院提交決議案，尋求推動全院就彈劾國防部長赫格塞思進行表決。議案涉及8項彈劾條款，包括未經國會批准就對伊朗發動戰事，以及其他濫權行為。眾議院民主黨領袖傑弗里斯表示強烈支持彈劾，認為赫格塞思必須離任；總統特朗普則表示對赫格塞思有信心，認為彈劾呼籲並不公平。",
+   "en": "Republican US Representative Thomas Massie of Kentucky has filed a resolution in the House of Representatives seeking a full vote on impeaching Defence Secretary Pete Hegseth. The resolution contains eight articles of impeachment, including waging war against Iran without congressional approval and other abuses of power. House Democratic leader Hakeem Jeffries said he strongly supports impeaching Hegseth and that he must leave office, while President Donald Trump said he has confidence in Hegseth and called the impeachment calls unfair.",
+   "zh_hans": "美国肯塔基州共和党籍联邦众议员马西向众议院提交决议案，寻求推动全院就弹劾国防部长赫格塞思进行表决。议案涉及8项弹劾条款，包括未经国会批准就对伊朗发动战事，以及其他滥权行为。众议院民主党领袖杰弗里斯表示强烈支持弹劾，认为赫格塞思必须离任；总统特朗普则表示对赫格塞思有信心，认为弹劾呼吁并不公平。"
+  },
+  "tags": {
+   "zh_hant": [
+    "彈劾",
+    "赫格塞思",
+    "美國國會"
+   ],
+   "en": [
+    "impeachment",
+    "Pete Hegseth",
+    "US Congress"
+   ],
+   "zh_hans": [
+    "弹劾",
+    "赫格塞思",
+    "美国国会"
+   ]
+  }
+ },
+ {
   "id": "20261110-hk-stock-adrs-mixed",
   "category": "finance",
   "published_at": "2026-11-10T06:36:00+08:00",
