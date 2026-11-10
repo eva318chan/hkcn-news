@@ -1,5 +1,338 @@
 [
  {
+  "id": "20261111-hk-adr-mostly-lower-than-hk-close",
+  "category": "finance",
+  "published_at": "2026-11-11T06:34:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877331-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "港股ADR普遍較本港收市下跌",
+   "en": "Hong Kong ADRs mostly lower than local close",
+   "zh_hans": "港股ADR普遍较本港收市下跌"
+  },
+  "summary": {
+   "zh_hant": "港股在美國掛牌的預託證券普遍低於本港收市價。金融股方面，滙控跌近2%，友邦及港交所跌近1%。科技股方面，阿里巴巴、騰訊、美團、小米及京東的預託證券亦跌近1%或以上。",
+   "en": "Hong Kong stocks' American depositary receipts mostly traded below their Hong Kong closing prices. HSBC's ADR fell nearly 2%, while AIA and HKEX were down nearly 1%. Tech names — Alibaba, Tencent, Meituan, Xiaomi and JD.com — were also down nearly 1% or more.",
+   "zh_hans": "港股在美国挂牌的预托证券普遍低于本港收市价。汇控跌近2%，友邦及港交所跌近1%。科技股方面，阿里巴巴、腾讯、美团、小米及京东的预托证券亦跌近1%或以上。"
+  },
+  "tags": {
+   "zh_hant": [
+    "港股",
+    "ADR",
+    "滙控"
+   ],
+   "en": [
+    "Hong Kong stocks",
+    "ADR",
+    "HSBC"
+   ],
+   "zh_hans": [
+    "港股",
+    "ADR",
+    "汇控"
+   ]
+  }
+ },
+ {
+  "id": "20261111-oil-prices-fall-two-month-low",
+  "category": "finance",
+  "published_at": "2026-11-11T06:34:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877330-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "國際油價低收近1%或以上　創逾兩個月低位",
+   "en": "Oil prices settle nearly 1% or more lower at over two-month low",
+   "zh_hans": "国际油价低收近1%或以上　创逾两个月低位"
+  },
+  "summary": {
+   "zh_hant": "國際油價收市創逾兩個月低位。美國官員淡化對伊朗採取進一步軍事行動的必要性，紓緩市場對中東供應中斷的憂慮。倫敦布蘭特期油收報每桶91.49美元，跌1.08美元，跌幅近1.2%；紐約期油報每桶86.04美元，跌81美仙，跌幅0.9%。",
+   "en": "Oil prices settled at their lowest in more than two months, after US officials played down the need for further military action against Iran, easing worries over Middle East supply disruptions. Brent crude closed at US$91.49 a barrel, down US$1.08 or nearly 1.2%, while US crude settled at US$86.04, down 81 US cents or 0.9%.",
+   "zh_hans": "国际油价收市创逾两个月低位。美国官员淡化对伊朗采取进一步军事行动的必要性，纾缓市场对中东供应中断的忧虑。伦敦布兰特期油收报每桶91.49美元，跌1.08美元，跌幅近1.2%；纽约期油报每桶86.04美元，跌81美仙，跌幅0.9%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "油價",
+    "布蘭特期油",
+    "伊朗"
+   ],
+   "en": [
+    "Oil prices",
+    "Brent crude",
+    "Iran"
+   ],
+   "zh_hans": [
+    "油价",
+    "布兰特期油",
+    "伊朗"
+   ]
+  }
+ },
+ {
+  "id": "20261111-uk-arrests-us-soldier-russia-spying",
+  "category": "world",
+  "published_at": "2026-11-11T06:33:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877332-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "英國反恐警方拘捕美軍士兵　涉為俄羅斯從事間諜活動",
+   "en": "UK counter-terror police arrest US soldier over alleged spying for Russia",
+   "zh_hans": "英国反恐警方拘捕美军士兵　涉为俄罗斯从事间谍活动"
+  },
+  "summary": {
+   "zh_hant": "英國反恐警方拘捕一名41歲美軍士兵，涉嫌為俄羅斯從事間諜活動。警方根據國家安全法第1及第3條拘捕涉案男子，涉及獲取或披露受保護訊息，以及協助外國情報機關，並在兩處地方搜查。英國廣播公司報道，涉案士兵先前駐紮的軍營是北約盟軍快速反應部隊總部的所在地。美國聯邦調查局局長帕特爾表示，今次拘捕涉及間諜指控，是美國與盟友高度關注的問題。",
+   "en": "UK counter-terrorism police have arrested a 41-year-old US soldier on suspicion of spying for Russia. He was arrested under sections 1 and 3 of the National Security Act, covering obtaining or disclosing protected information and assisting a foreign intelligence service, and searches are under way at two locations. The BBC reported the soldier had previously been based at the headquarters of NATO's Allied Rapid Reaction Corps. FBI Director Kash Patel said the arrest involved espionage allegations of serious concern to the US and its allies.",
+   "zh_hans": "英国反恐警方拘捕一名41岁美军士兵，涉嫌为俄罗斯从事间谍活动。警方根据国家安全法第1及第3条拘捕涉案男子，涉及获取或披露受保护讯息，以及协助外国情报机关，并在两处地方搜查。英国广播公司报道，涉案士兵先前驻扎的军营是北约盟军快速反应部队总部的所在地。美国联邦调查局局长帕特尔表示，今次拘捕涉及间谍指控，是美国与盟友高度关注的问题。"
+  },
+  "tags": {
+   "zh_hant": [
+    "英國",
+    "美軍",
+    "間諜"
+   ],
+   "en": [
+    "UK",
+    "US soldier",
+    "Espionage"
+   ],
+   "zh_hans": [
+    "英国",
+    "美军",
+    "间谍"
+   ]
+  }
+ },
+ {
+  "id": "20261111-dollar-treasury-yields-rise-inflation",
+  "category": "finance",
+  "published_at": "2026-11-11T06:12:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877329-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "美元和美債息上升　通脹數據強化加息預期",
+   "en": "Dollar and Treasury yields rise as inflation data strengthens rate-hike expectations",
+   "zh_hans": "美元和美债息上升　通胀数据强化加息预期"
+  },
+  "summary": {
+   "zh_hant": "美元和美債息上升。美國10月通脹數據略高於預期，鞏固聯儲局下月加息的預期。美元指數升逾0.5%，報102.24；10年期國債孳息率升逾13個基點，至4.99厘以上。聯儲局理事沃勒表示支持下月加息，對加息半厘亦持開放態度；達拉斯聯儲銀行總裁洛根表示，聯儲局最少需要再加息兩次，每次0.25厘。",
+   "en": "The US dollar and Treasury yields rose after October inflation data came in slightly above expectations, reinforcing expectations that the Federal Reserve will raise rates next month. The dollar index gained more than 0.5% to 102.24, while the 10-year Treasury yield rose more than 13 basis points to above 4.99%. Fed Governor Christopher Waller said he supports a rate rise next month and is open to a half-point move, while Dallas Fed President Lorie Logan said the Fed needs at least two more quarter-point rises.",
+   "zh_hans": "美元和美债息上升。美国10月通胀数据略高于预期，巩固联储局下月加息的预期。美元指数升逾0.5%，报102.24；10年期国债孳息率升逾13个基点，至4.99厘以上。联储局理事沃勒表示支持下月加息，对加息半厘亦持开放态度；达拉斯联储银行总裁洛根表示，联储局最少需要再加息两次，每次0.25厘。"
+  },
+  "tags": {
+   "zh_hant": [
+    "美元",
+    "美債",
+    "聯儲局"
+   ],
+   "en": [
+    "US dollar",
+    "Treasury yields",
+    "Federal Reserve"
+   ],
+   "zh_hans": [
+    "美元",
+    "美债",
+    "联储局"
+   ]
+  }
+ },
+ {
+  "id": "20261111-dow-down-157-nvidia-falls-over-5pct",
+  "category": "finance",
+  "published_at": "2026-11-11T06:11:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877327-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "道指低收157點　美國通脹略高過預期　Nvidia再跌逾5%",
+   "en": "Dow closes 157 points lower as US inflation beats forecasts; Nvidia falls over 5% again",
+   "zh_hans": "道指低收157点　美国通胀略高过预期　Nvidia再跌逾5%"
+  },
+  "summary": {
+   "zh_hant": "美股三大指數收市下跌。美國10月通脹數據略高於預期，有聯儲局官員表示對下月加息半厘持開放態度。道瓊斯指數收報52,231點，跌157點，跌幅0.3%；納斯達克指數跌187點，報25,065點；標準普爾500指數跌29點，報7,520點。晶片股個別發展，Nvidia再跌逾5%收市，微軟跌逾2%，蘋果跌近1%。",
+   "en": "Wall Street's three main indexes closed lower after US October inflation data came in slightly above expectations, with a Fed official saying he is open to a half-point rate rise next month. The Dow Jones Industrial Average closed at 52,231, down 157 points or 0.3%; the Nasdaq fell 187 points to 25,065, and the S&P 500 lost 29 points to 7,520. Chip stocks were mixed, with Nvidia falling more than 5% again, while Microsoft dropped over 2% and Apple nearly 1%.",
+   "zh_hans": "美股三大指数收市下跌。美国10月通胀数据略高于预期，有联储局官员表示对下月加息半厘持开放态度。道琼斯指数收报52,231点，跌157点，跌幅0.3%；纳斯达克指数跌187点，报25,065点；标准普尔500指数跌29点，报7,520点。晶片股个别发展，Nvidia再跌逾5%收市，微软跌逾2%，苹果跌近1%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "美股",
+    "道指",
+    "Nvidia"
+   ],
+   "en": [
+    "US stocks",
+    "Dow Jones",
+    "Nvidia"
+   ],
+   "zh_hans": [
+    "美股",
+    "道指",
+    "Nvidia"
+   ]
+  }
+ },
+ {
+  "id": "20261111-gold-falls-3pct-us-inflation-dollar",
+  "category": "finance",
+  "published_at": "2026-11-11T05:27:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877325-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "金價曾跌3%　美國通脹高過預期推升美元",
+   "en": "Gold falls as much as 3% as hotter US inflation lifts dollar",
+   "zh_hans": "金价曾跌3%　美国通胀高过预期推升美元"
+  },
+  "summary": {
+   "zh_hant": "金價下跌。美國最新通脹數據高於預期，推動美元及美債息向上。現貨金一度跌至每盎司4,013美元，跌幅3%，較早時報4,032.7美元，跌幅約2.6%；紐約期金收報每盎司4,030.2美元，跌幅2%。",
+   "en": "Gold prices fell after US inflation data came in hotter than expected, pushing the dollar and Treasury yields higher. Spot gold fell as much as 3% to US$4,013 an ounce, and was earlier at US$4,032.7, down about 2.6%. US gold futures closed at US$4,030.2 an ounce, down 2%.",
+   "zh_hans": "金价下跌。美国最新通胀数据高于预期，推动美元及美债息向上。现货金一度跌至每盎司4,013美元，跌幅3%，较早时报4,032.7美元，跌幅约2.6%；纽约期金收报每盎司4,030.2美元，跌幅2%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "金價",
+    "通脹",
+    "美元"
+   ],
+   "en": [
+    "Gold prices",
+    "Inflation",
+    "US dollar"
+   ],
+   "zh_hans": [
+    "金价",
+    "通胀",
+    "美元"
+   ]
+  }
+ },
+ {
+  "id": "20261111-china-issues-rmb-green-sovereign-bonds-canada",
+  "category": "finance",
+  "published_at": "2026-11-11T05:24:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877326-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "中國在加拿大成功發行人民幣綠色主權債券",
+   "en": "China successfully issues yuan green sovereign bonds in Canada",
+   "zh_hans": "中国在加拿大成功发行人民币绿色主权债券"
+  },
+  "summary": {
+   "zh_hant": "財政部代表中央政府，在加拿大成功發行40億元人民幣綠色主權債券，其中3年期及5年期各20億元，發行利率分別為1.4%及1.5%。今次發行受到市場歡迎，國際投資者認購踴躍，總認購金額達540.4億元，是發行金額的13.5倍。今次是財政部首次在加拿大發行人民幣綠色主權債券，是落實第二次中加經濟財金戰略對話的重要措施。",
+   "en": "China's Ministry of Finance has successfully issued 4 billion yuan in green sovereign bonds in Canada on behalf of the central government, split equally between three-year bonds at 1.4% and five-year bonds at 1.5%. The issue drew strong demand from international investors, with total subscriptions of 54.04 billion yuan, 13.5 times the amount issued. It is the first time the ministry has issued yuan green sovereign bonds in Canada, and an important step in implementing the second China-Canada Economic and Financial Strategic Dialogue.",
+   "zh_hans": "财政部代表中央政府，在加拿大成功发行40亿元人民币绿色主权债券，其中3年期及5年期各20亿元，发行利率分别为1.4%及1.5%。今次发行受到市场欢迎，国际投资者认购踊跃，总认购金额达540.4亿元，是发行金额的13.5倍。今次是财政部首次在加拿大发行人民币绿色主权债券，是落实第二次中加经济财金战略对话的重要措施。"
+  },
+  "tags": {
+   "zh_hant": [
+    "人民幣",
+    "綠色債券",
+    "加拿大"
+   ],
+   "en": [
+    "Yuan",
+    "Green bonds",
+    "Canada"
+   ],
+   "zh_hans": [
+    "人民币",
+    "绿色债券",
+    "加拿大"
+   ]
+  }
+ },
+ {
+  "id": "20261111-hk-temperatures-drop-18-degrees",
+  "category": "hk",
+  "published_at": "2026-11-11T05:14:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877324-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "市區今早降至18度左右　新界部分地區降至12度或以下",
+   "en": "City temperatures fall to around 18 degrees; parts of New Territories at 12 or below",
+   "zh_hans": "市区今早降至18度左右　新界部分地区降至12度或以下"
+  },
+  "summary": {
+   "zh_hant": "天文台表示，乾燥的東北季候風正影響廣東沿岸，本港今早市區氣溫降至18度左右。由於天朗氣清及風勢較弱，新界部分地區輻射冷卻較為明顯，氣溫降至12度或以下。天文台預測今日天晴乾燥，早上稍涼，日間最高氣溫約25度，吹和緩北至東北風。",
+   "en": "The Observatory said a dry northeast monsoon is affecting the Guangdong coast, with temperatures in the urban areas falling to around 18 degrees this morning. Clear skies and light winds brought stronger radiational cooling in parts of the New Territories, where temperatures dropped to 12 degrees or below. Today is forecast to be fine and dry, cool in the morning, with a top temperature of about 25 degrees and moderate northerly to northeasterly winds.",
+   "zh_hans": "天文台表示，干燥的东北季候风正影响广东沿岸，本港今早市区气温降至18度左右。由于天朗气清及风势较弱，新界部分地区辐射冷却较为明显，气温降至12度或以下。天文台预测今日天晴干燥，早上稍凉，日间最高气温约25度，吹和缓北至东北风。"
+  },
+  "tags": {
+   "zh_hant": [
+    "天氣",
+    "氣溫",
+    "天文台"
+   ],
+   "en": [
+    "Weather",
+    "Temperature",
+    "Observatory"
+   ],
+   "zh_hans": [
+    "天气",
+    "气温",
+    "天文台"
+   ]
+  }
+ },
+ {
+  "id": "20261111-european-stocks-mixed-close",
+  "category": "finance",
+  "published_at": "2026-11-11T05:13:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877323-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "歐股收市個別發展",
+   "en": "European stocks close mixed",
+   "zh_hans": "欧股收市个别发展"
+  },
+  "summary": {
+   "zh_hant": "歐洲主要股市收市個別發展。德國DAX指數升80點，報26,347點，升幅0.3%；法國CAC指數升45點，報8,278點，升幅近0.6%。英國富時100指數跌31點，報10,751點，跌幅近0.3%。",
+   "en": "European stocks closed mixed. Germany's DAX index rose 80 points to 26,347, up 0.3%, and France's CAC index gained 45 points to 8,278, up nearly 0.6%. Britain's FTSE 100 fell 31 points to 10,751, down nearly 0.3%.",
+   "zh_hans": "欧洲主要股市收市个别发展。德国DAX指数升80点，报26,347点，升幅0.3%；法国CAC指数升45点，报8,278点，升幅近0.6%。英国富时100指数跌31点，报10,751点，跌幅近0.3%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "歐股",
+    "DAX",
+    "富時100"
+   ],
+   "en": [
+    "European stocks",
+    "DAX",
+    "FTSE 100"
+   ],
+   "zh_hans": [
+    "欧股",
+    "DAX",
+    "富时100"
+   ]
+  }
+ },
+ {
   "id": "20261111-israel-new-knesset-first-session",
   "category": "world",
   "published_at": "2026-11-11T02:44:00+08:00",
