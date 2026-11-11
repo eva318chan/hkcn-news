@@ -1,5 +1,116 @@
 [
  {
+  "id": "20261111-us-house-blocks-hegseth-impeachment",
+  "category": "world",
+  "published_at": "2026-11-11T07:51:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877338-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "美國眾議院成功阻撓針對赫格塞斯彈劾案",
+   "en": "US House blocks impeachment case against Hegseth",
+   "zh_hans": "美国众议院成功阻挠针对赫格塞斯弹劾案"
+  },
+  "summary": {
+   "zh_hant": "美國眾議院以211票對204票通過程序動議，將針對國防部長赫格塞斯的彈劾案移交共和黨控制的司法委員會審議，變相拖延彈劾程序。彈劾案由共和黨眾議員梅西發起。赫格塞斯在五角大樓召開記者會，批評彈劾是一場針對總統特朗普的政治騷；特朗普同日在社交媒體發文支持赫格塞斯，並批評梅西。",
+   "en": "The US House of Representatives voted 211 to 204 on a procedural motion to refer the impeachment case against Defense Secretary Pete Hegseth to the Republican-controlled Judiciary Committee, effectively stalling the process. The case was initiated by Republican Representative Thomas Massie. Hegseth told a press conference at the Pentagon that the impeachment was a political show targeting President Donald Trump; Trump posted on social media the same day backing Hegseth and criticising Massie.",
+   "zh_hans": "美国众议院以211票对204票通过程序动议，将针对国防部长赫格塞斯的弹劾案移交共和党控制的司法委员会审议，变相拖延弹劾程序。弹劾案由共和党众议员梅西发起。赫格塞斯在五角大楼召开记者会，批评弹劾是一场针对总统特朗普的政治骚；特朗普同日在社交媒体发文支持赫格塞斯，并批评梅西。"
+  },
+  "tags": {
+   "zh_hant": [
+    "美國",
+    "赫格塞斯",
+    "彈劾"
+   ],
+   "en": [
+    "United States",
+    "Hegseth",
+    "Impeachment"
+   ],
+   "zh_hans": [
+    "美国",
+    "赫格塞斯",
+    "弹劾"
+   ]
+  }
+ },
+ {
+  "id": "20261111-nikkei-edges-up-early-trading",
+  "category": "finance",
+  "published_at": "2026-11-11T08:13:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877340-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "日股初段靠穩",
+   "en": "Nikkei edges up in early trading",
+   "zh_hans": "日股初段靠稳"
+  },
+  "summary": {
+   "zh_hant": "日本股市在開市初段靠穩，日經平均指數較早時報60,617點，升158點，升幅0.26%。",
+   "en": "Japanese stocks held steady in early trading, with the Nikkei average earlier at 60,617, up 158 points or 0.26%.",
+   "zh_hans": "日本股市在开市初段靠稳，日经平均指数较早时报60,617点，升158点，升幅0.26%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "日股",
+    "日經指數",
+    "日本股市"
+   ],
+   "en": [
+    "Japanese stocks",
+    "Nikkei",
+    "Tokyo market"
+   ],
+   "zh_hans": [
+    "日股",
+    "日经指数",
+    "日本股市"
+   ]
+  }
+ },
+ {
+  "id": "20261111-kospi-little-changed-early-trading",
+  "category": "finance",
+  "published_at": "2026-11-11T08:13:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877341-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "韓股初段變動不大",
+   "en": "South Korean stocks little changed in early trading",
+   "zh_hans": "韩股初段变动不大"
+  },
+  "summary": {
+   "zh_hant": "韓國股市在開市初段變動不大，首爾綜合指數較早時報5,246點，升7點，升幅0.14%。",
+   "en": "South Korean stocks were little changed in early trading, with the KOSPI earlier at 5,246, up 7 points or 0.14%.",
+   "zh_hans": "韩国股市在开市初段变动不大，首尔综合指数较早时报5,246点，升7点，升幅0.14%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "韓股",
+    "首爾綜合指數",
+    "韓國股市"
+   ],
+   "en": [
+    "South Korean stocks",
+    "KOSPI",
+    "Seoul market"
+   ],
+   "zh_hans": [
+    "韩股",
+    "首尔综合指数",
+    "韩国股市"
+   ]
+  }
+ },
+ {
   "id": "20261111-hk-adr-mostly-lower-than-hk-close",
   "category": "finance",
   "published_at": "2026-11-11T06:34:00+08:00",

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>中港新聞速報</title><link>https://hkcn-news.vercel.app</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Wed, 11 Nov 2026 06:52:23 +0800</lastBuildDate>
+<title>中港新聞速報</title><link>https://hkcn-news.vercel.app</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Wed, 11 Nov 2026 08:55:43 +0800</lastBuildDate>
+<item>
+<title>日股初段靠穩</title>
+<link>https://hkcn-news.vercel.app/a/20261111-nikkei-edges-up-early-trading.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261111-nikkei-edges-up-early-trading.html</guid>
+<pubDate>Wed, 11 Nov 2026 08:13:00 +0800</pubDate>
+<description>日本股市在開市初段靠穩，日經平均指數較早時報60,617點，升158點，升幅0.26%。</description>
+</item>
+<item>
+<title>韓股初段變動不大</title>
+<link>https://hkcn-news.vercel.app/a/20261111-kospi-little-changed-early-trading.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261111-kospi-little-changed-early-trading.html</guid>
+<pubDate>Wed, 11 Nov 2026 08:13:00 +0800</pubDate>
+<description>韓國股市在開市初段變動不大，首爾綜合指數較早時報5,246點，升7點，升幅0.14%。</description>
+</item>
+<item>
+<title>美國眾議院成功阻撓針對赫格塞斯彈劾案</title>
+<link>https://hkcn-news.vercel.app/a/20261111-us-house-blocks-hegseth-impeachment.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261111-us-house-blocks-hegseth-impeachment.html</guid>
+<pubDate>Wed, 11 Nov 2026 07:51:00 +0800</pubDate>
+<description>美國眾議院以211票對204票通過程序動議，將針對國防部長赫格塞斯的彈劾案移交共和黨控制的司法委員會審議，變相拖延彈劾程序。彈劾案由共和黨眾議員梅西發起。赫格塞斯在五角大樓召開記者會，批評彈劾是一場針對總統特朗普的政治騷；特朗普同日在社交媒體發文支持赫格塞斯，並批評梅西。</description>
+</item>
 <item>
 <title>港股ADR普遍較本港收市下跌</title>
 <link>https://hkcn-news.vercel.app/a/20261111-hk-adr-mostly-lower-than-hk-close.html</link>
@@ -330,27 +351,6 @@
 <guid>https://hkcn-news.vercel.app/a/20261110-ocean-park-tower-emsd-full-inspection.html</guid>
 <pubDate>Tue, 10 Nov 2026 17:33:00 +0800</pubDate>
 <description>海洋公園「海洋摩天塔」昨日發生故障，機電署表示涉事機動遊戲機過去亦曾發生停機事故，已要求園方全面檢查，包括檢視維修保養項目，並提交事故報告，防止同類事件再發生。涉事設施須經主管人員重複測試確保安全，並在署方人員核實後才能恢復運作，機電署會繼續密切監察。署方昨日下午約2時45分接獲通報後隨即派員調查，事發時41名乘客在塔上，40人經塔內通道安全返回地面，另1名感到不適的乘客由消防處協助帶回地面。</description>
-</item>
-<item>
-<title>38個年宵攤位下周一起底價出租　年宵市場明年1月31日開鑼</title>
-<link>https://hkcn-news.vercel.app/a/20261110-cny-fair-stalls-upset-prices-nov-17.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261110-cny-fair-stalls-upset-prices-nov-17.html</guid>
-<pubDate>Tue, 10 Nov 2026 17:10:00 +0800</pubDate>
-<description>食環署今日宣布，38個2027年年宵市場攤位將於11月17日至12月18日以底價先到先得方式出租。年宵市場於2027年1月31日至2月6日舉行，攤位包括4個快餐攤位、2個大型乾貨攤位及32個普通乾貨攤位。底價由450元至17,480元不等，其中維園普通乾貨攤位每個8,540元，東涌達東路花園每個450元，花墟公園快餐攤位17,480元。申請人須年滿18歲及通常居於香港，親身到相關食環署辦事處辦理，詳情可致電食環署熱線2868 0000。</description>
-</item>
-<item>
-<title>在岸人民幣兌美元創逾1星期新高　收報6.6682</title>
-<link>https://hkcn-news.vercel.app/a/20261110-yuan-offshore-1-week-high.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261110-yuan-offshore-1-week-high.html</guid>
-<pubDate>Tue, 10 Nov 2026 17:01:00 +0800</pubDate>
-<description>在岸人民幣收報6.6682兌1美元，較昨日收市升53點子，創逾1星期新高；中間價升至6.7167兌1美元，自逾半個月低位反彈，較市場預測偏弱約510點子。市場人士指，隔夜美股大升提振風險偏好，美元受壓帶動人民幣造好，但日內波幅有限，市場觀望稍後公布的美國通脹數據。另外，內地10月貿易順差逾千億美元，預料出口商結匯需求仍將推動人民幣上升，監管當局傾向平抑匯率升值幅度及節奏，預計匯價短期區間波動。</description>
-</item>
-<item>
-<title>廉署搗破圍標集團起訴23人分拆5案　首宗明開審</title>
-<link>https://hkcn-news.vercel.app/a/20261110-icac-bid-rigging-first-trial-wednesday.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261110-icac-bid-rigging-first-trial-wednesday.html</guid>
-<pubDate>Tue, 10 Nov 2026 16:51:00 +0800</pubDate>
-<description>廉署2023年採取「火網」行動，搗破一個貪污圍標集團，同年9月起訴23人，案件分拆5宗，本月起陸續在區域法院審理，首宗案件明日開審。被起訴者包括工程顧問、承建商、法團或業委會成員、中間人及物管職員，涉嫌串謀行賄受賄及串謀詐騙，涉及16個住宅及商用樓宇維修項目，合約總值約5.2億元，涉案賄款逾650萬元。廉署表示，2023年至今多次大型執法行動共拘捕逾200人，起訴35人及兩間公司，分9宗案件審理，並成功阻截批出逾5億元工程合約。</description>
 </item>
 </channel>
 </rss>
