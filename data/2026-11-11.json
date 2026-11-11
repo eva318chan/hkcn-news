@@ -1,5 +1,560 @@
 [
  {
+  "id": "20261111-northern-link-main-branch-merged-2034",
+  "category": "hk",
+  "published_at": "2026-11-11T10:37:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877357-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "北環綫主綫支綫合併推展　目標2034年或之前同步開通",
+   "en": "Northern Link main line and branch to be built together, targeting opening by 2034",
+   "zh_hans": "北环线主线支线合并推展　目标2034年或之前同步开通"
+  },
+  "summary": {
+   "zh_hant": "行政長官會同行政會議昨日批准北環綫項目第二部分財務安排，政府與港鐵簽訂全線項目協議，目標2034年或之前同步開通。北環綫主綫及支綫合併推展，通車時間較原預計提早約兩年，建造成本預算862億港元，較原預算低兩成八。北部都會區鐵路專員葉偉民表示，監察機制及績效指標不變，會在不同階段嚴謹把關，確保工程質量符合標準和法例。",
+   "en": "The Chief Executive in Council yesterday approved the second part of the Northern Link project's financial arrangements, with the government and the MTR signing a full-line project agreement targeting simultaneous opening by 2034 or earlier. Building the main line and branch together brings opening forward by about two years, with construction budgeted at HK$86.2 billion, 28 per cent below the original estimate. Northern Metropolis railway commissioner Yip Wai-man said monitoring mechanisms and performance indicators remain unchanged, with rigorous checks at each stage to ensure quality meets standards and the law.",
+   "zh_hans": "行政长官会同行政会议昨日批准北环线项目第二部分财务安排，政府与港铁签订全线项目协议，目标2034年或之前同步开通。北环线主线及支线合并推展，通车时间较原预计提早约两年，建造成本预算862亿港元，较原预算低两成八。北部都会区铁路专员叶伟民表示，监察机制及绩效指标不变，会在不同阶段严谨把关，确保工程质量符合标准和法例。"
+  },
+  "tags": {
+   "zh_hant": [
+    "北環綫",
+    "北部都會區",
+    "港鐵"
+   ],
+   "en": [
+    "Northern Link",
+    "Northern Metropolis",
+    "MTR"
+   ],
+   "zh_hans": [
+    "北环线",
+    "北部都会区",
+    "港铁"
+   ]
+  }
+ },
+ {
+  "id": "20261111-civil-service-family-care-leave-12-hours",
+  "category": "hk",
+  "published_at": "2026-11-11T10:03:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877356-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "政府擬推政府僱員照顧家庭假　每年最多12小時",
+   "en": "Government plans family care leave for civil servants, up to 12 hours a year",
+   "zh_hans": "政府拟推政府雇员照顾家庭假　每年最多12小时"
+  },
+  "summary": {
+   "zh_hant": "政府將由明年起為政府僱員推出「照顧家庭假」，成為第四類與照顧家庭相關的假期，預計明年1月起實施。每名僱員每年最多可享12小時，以小時為單位、每次申請1至4小時，涵蓋陪同家人應診、照顧患病家人、出席子女學校活動及處理家中突發事宜，一般情況下毋須提供證明文件。公務員事務局正敲定細節，諮詢職方後落實。",
+   "en": "The government will introduce family care leave for civil servants from next year, a fourth category of family-related leave expected to take effect in January. Each employee may take up to 12 hours a year, in hourly units of one to four hours per application, covering accompanying family members to medical appointments, caring for sick relatives, attending children's school activities and handling household emergencies; supporting documents are generally not required. The Civil Service Bureau is finalising details and will implement the scheme after consulting staff unions.",
+   "zh_hans": "政府将由明年起为政府雇员推出「照顾家庭假」，成为第四类与照顾家庭相关的假期，预计明年1月起实施。每名雇员每年最多可享12小时，以小时为单位、每次申请1至4小时，涵盖陪同家人应诊、照顾患病家人、出席子女学校活动及处理家中突发事宜，一般情况下毋须提供证明文件。公务员事务局正敲定细节，咨询职方后落实。"
+  },
+  "tags": {
+   "zh_hant": [
+    "照顧家庭假",
+    "公務員",
+    "施政報告"
+   ],
+   "en": [
+    "Family care leave",
+    "Civil servants",
+    "Policy Address"
+   ],
+   "zh_hans": [
+    "照顾家庭假",
+    "公务员",
+    "施政报告"
+   ]
+  }
+ },
+ {
+  "id": "20261111-tse-chin-wan-cop31-china-pavilion",
+  "category": "hk",
+  "published_at": "2026-11-11T10:00:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100043.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/11/P2026111100043_photo_1343445.jpg",
+  "title": {
+   "zh_hant": "謝展寰出席聯合國氣候大會中國館邊會　介紹香港綠色轉型",
+   "en": "Tse Chin-wan attends COP31 China Pavilion side event, showcases Hong Kong's green transformation",
+   "zh_hans": "谢展寰出席联合国气候大会中国馆边会　介绍香港绿色转型"
+  },
+  "summary": {
+   "zh_hant": "環境及生態局局長謝展寰在土耳其安塔利亞出席第31屆聯合國氣候變化大會，並在中國館邊會致開幕辭，介紹香港配合國家「十五五」規劃推動綠色轉型。謝展寰表示，香港總碳排放於2014年達峰，2024年較峰值減少27%，去年進一步減至32%。同日他亦會見烏茲別克斯坦總統環境事務顧問，氣候變化專員楊學明則出席廣東專場活動，見證粵港澳三方簽署碳足跡合作框架協議。",
+   "en": "Secretary for Environment and Ecology Tse Chin-wan attended the 31st United Nations Climate Change Conference in Antalya, Türkiye, and delivered the opening speech at the China Pavilion side event, outlining how Hong Kong is advancing its green transformation in line with the nation's 15th Five-Year Plan. Tse said Hong Kong's total carbon emissions peaked in 2014, falling 27 per cent by 2024 and further to 32 per cent last year. He also met the Uzbek President's adviser on environmental issues on the same day, while Commissioner for Climate Change Sammy Yeung attended a Guangdong session and witnessed a carbon footprint co-operation framework signed by Guangdong, Hong Kong and Macao.",
+   "zh_hans": "环境及生态局局长谢展寰在土耳其安塔利亚出席第31届联合国气候变化大会，并在中国馆边会致开幕辞，介绍香港配合国家「十五五」规划推动绿色转型。谢展寰表示，香港总碳排放于2014年达峰，2024年较峰值减少27%，去年进一步减至32%。同日他亦会见乌兹别克斯坦总统环境事务顾问，气候变化专员杨学明则出席广东专场活动，见证粤港澳三方签署碳足迹合作框架协议。"
+  },
+  "tags": {
+   "zh_hant": [
+    "謝展寰",
+    "聯合國氣候大會",
+    "綠色轉型"
+   ],
+   "en": [
+    "Tse Chin-wan",
+    "COP31",
+    "Green transformation"
+   ],
+   "zh_hans": [
+    "谢展寰",
+    "联合国气候大会",
+    "绿色转型"
+   ]
+  }
+ },
+ {
+  "id": "20261111-south-korea-bus-crash-48-injured",
+  "category": "world",
+  "published_at": "2026-11-11T09:59:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877355-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "韓國巴士連環相撞釀48人傷　其中6人重傷",
+   "en": "48 injured in South Korea bus pile-up, six seriously hurt",
+   "zh_hans": "韩国巴士连环相撞酿48人伤　其中6人重伤"
+  },
+  "summary": {
+   "zh_hant": "韓國京畿道城南市早上發生涉及巴士的連環相撞事故，包括巴士司機在內共48人受傷，其中6人重傷、42人輕傷。報道指事發巴士連續撞上30多部等候交通燈號的車輛。",
+   "en": "A pile-up involving a bus in Seongnam, Gyeonggi Province, South Korea, this morning left 48 people injured, including the bus driver, with six seriously hurt and 42 slightly injured. Reports said the bus hit more than 30 vehicles waiting at traffic lights.",
+   "zh_hans": "韩国京畿道城南市早上发生涉及巴士的连环相撞事故，包括巴士司机在内共48人受伤，其中6人重伤、42人轻伤。报道指事发巴士连续撞上30多部等候交通灯号的车辆。"
+  },
+  "tags": {
+   "zh_hant": [
+    "韓國",
+    "交通意外",
+    "巴士"
+   ],
+   "en": [
+    "South Korea",
+    "Traffic accident",
+    "Bus"
+   ],
+   "zh_hans": [
+    "韩国",
+    "交通意外",
+    "巴士"
+   ]
+  }
+ },
+ {
+  "id": "20261111-singles-day-ai-tokens-hot-selling",
+  "category": "china",
+  "published_at": "2026-11-11T09:48:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877354-20261111.htm"
+  },
+  "image_url": "https://newsstatic.rthk.hk/images/mfile_1877354_1_M_20261111094839.jpg",
+  "title": {
+   "zh_hant": "內地雙十一展開　AI「詞元」上架熱銷",
+   "en": "AI tokens go on sale as mainland Singles' Day shopping festival begins",
+   "zh_hans": "内地双十一展开　AI「词元」上架热销"
+  },
+  "summary": {
+   "zh_hant": "內地電商年度盛事「雙十一」展開，上架貨品包羅萬有，最新亦包括用於人工智能的「詞元」，多間大模型開發商在電商平台開店促銷。國家數據局數據顯示，內地今年3月日均「詞元」調用量突破140萬億，兩年間增長逾千倍，相關消費生態正逐漸形成。",
+   "en": "The mainland's annual Singles' Day shopping festival has begun, with everything from physical goods to AI tokens now on sale, as several large-model developers open stores on e-commerce platforms with promotional deals. Data from the National Data Administration shows daily average AI token usage in the mainland topped 140 trillion in March this year, up more than a thousandfold in two years, as a consumer ecosystem around the technology gradually takes shape.",
+   "zh_hans": "内地电商年度盛事「双十一」展开，上架货品包罗万有，最新亦包括用于人工智能的「词元」，多间大模型开发商在电商平台开店促销。国家数据局数据显示，内地今年3月日均「词元」调用量突破140万亿，两年间增长逾千倍，相关消费生态正逐渐形成。"
+  },
+  "tags": {
+   "zh_hant": [
+    "雙十一",
+    "人工智能",
+    "詞元"
+   ],
+   "en": [
+    "Singles' Day",
+    "Artificial intelligence",
+    "AI tokens"
+   ],
+   "zh_hans": [
+    "双十一",
+    "人工智能",
+    "词元"
+   ]
+  }
+ },
+ {
+  "id": "20261111-mainland-stocks-little-changed-early-trading",
+  "category": "finance",
+  "published_at": "2026-11-11T09:38:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877351-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "內地股市初段變動不大",
+   "en": "Mainland stocks little changed in early trading",
+   "zh_hans": "内地股市初段变动不大"
+  },
+  "summary": {
+   "zh_hant": "滬深股市開市初段變動不大，上證綜合指數較早時報3659點，跌4點，跌幅0.12%。深證成份指數報11206點，跌35點，跌幅0.31%；創業板指數報2498點，升3點，升幅0.16%。",
+   "en": "Mainland stocks were little changed in early trading, with the Shanghai Composite earlier at 3,659, down 4 points or 0.12 per cent. The Shenzhen Component Index stood at 11,206, down 35 points or 0.31 per cent, while the ChiNext Index was at 2,498, up 3 points or 0.16 per cent.",
+   "zh_hans": "沪深股市开市初段变动不大，上证综合指数较早时报3659点，跌4点，跌幅0.12%。深证成份指数报11206点，跌35点，跌幅0.31%；创业板指数报2498点，升3点，升幅0.16%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "內地股市",
+    "上證指數",
+    "深證成指"
+   ],
+   "en": [
+    "Mainland stocks",
+    "Shanghai Composite",
+    "Shenzhen Component"
+   ],
+   "zh_hans": [
+    "内地股市",
+    "上证指数",
+    "深证成指"
+   ]
+  }
+ },
+ {
+  "id": "20261111-shenzhen-hi-tech-smart-glasses-semiconductors",
+  "category": "china",
+  "published_at": "2026-11-11T09:36:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877352-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "深圳高新科技發展蓬勃　智能眼鏡及半導體技術達國際水平",
+   "en": "Shenzhen's hi-tech sector thrives as smart glasses and chip technology reach world-class levels",
+   "zh_hans": "深圳高新科技发展蓬勃　智能眼镜及半导体技术达国际水平"
+  },
+  "summary": {
+   "zh_hant": "即將舉行亞太經合組織峰會的深圳被譽為「中國創科第一城」，去年戰略新興產業增加值達1萬6700億元人民幣，佔全市GDP 43%。報道指智能眼鏡銷售增長強勁，中國相關技術水平位居世界前列、性價比高；半導體企業亦遠銷海外，華強北商圈每日平均人流達75萬人次。",
+   "en": "Shenzhen, which is about to host the APEC summit, is hailed as China's leading innovation city, with strategic emerging industries adding 1.67 trillion yuan last year, 43 per cent of the city's GDP. Smart glasses sales are growing strongly, with Chinese technology among the world's best and competitively priced, while semiconductor firms export overseas; the Huaqiangbei electronics district draws an average of 750,000 visitors a day.",
+   "zh_hans": "即将举行亚太经合组织峰会的深圳被誉为「中国创科第一城」，去年战略新兴产业增加值达1万6700亿元人民币，占全市GDP 43%。报道指智能眼镜销售增长强劲，中国相关技术水平位居世界前列、性价比高；半导体企业亦远销海外，华强北商圈每日平均人流达75万人次。"
+  },
+  "tags": {
+   "zh_hant": [
+    "深圳",
+    "高新科技",
+    "亞太經合組織"
+   ],
+   "en": [
+    "Shenzhen",
+    "High-tech",
+    "APEC"
+   ],
+   "zh_hans": [
+    "深圳",
+    "高新科技",
+    "亚太经合组织"
+   ]
+  }
+ },
+ {
+  "id": "20261111-pboc-187-billion-overnight-reverse-repo",
+  "category": "finance",
+  "published_at": "2026-11-11T09:36:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877350-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "人行開展1870億元人民幣隔夜逆回購操作",
+   "en": "PBOC conducts 187 billion yuan overnight reverse repo operation",
+   "zh_hans": "人行开展1870亿元人民币隔夜逆回购操作"
+  },
+  "summary": {
+   "zh_hant": "人民銀行公開市場開展1870億元人民幣隔夜逆回購操作，利率維持於1.25厘。對沖到期量後，單日轉為淨回籠，規模30億元。",
+   "en": "The People's Bank of China conducted a 187 billion yuan overnight reverse repo operation in the open market, with the interest rate unchanged at 1.25 per cent. After offsetting maturities, the operation resulted in a net withdrawal of 30 billion yuan for the day.",
+   "zh_hans": "人民银行公开市场开展1870亿元人民币隔夜逆回购操作，利率维持于1.25厘。对冲到期量后，单日转为净回笼，规模30亿元。"
+  },
+  "tags": {
+   "zh_hant": [
+    "人民銀行",
+    "逆回購",
+    "貨幣政策"
+   ],
+   "en": [
+    "People's Bank of China",
+    "Reverse repo",
+    "Monetary policy"
+   ],
+   "zh_hans": [
+    "人民银行",
+    "逆回购",
+    "货币政策"
+   ]
+  }
+ },
+ {
+  "id": "20261111-red-flags-hoisted-beaches",
+  "category": "society",
+  "published_at": "2026-11-11T09:33:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100179.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "大浪關係　三個泳灘懸掛紅旗",
+   "en": "Red flags hoisted at three beaches amid heavy swell",
+   "zh_hans": "大浪关系　三个泳滩悬挂红旗"
+  },
+  "summary": {
+   "zh_hant": "康文署今日宣布，由於大浪，港島南區赤柱正灘及大浪灣泳灘，以及西貢區銀線灣泳灘已懸掛紅旗。康文署呼籲泳客切勿在上述泳灘游泳。",
+   "en": "The Leisure and Cultural Services Department announced today that red flags have been hoisted at Stanley Main Beach and Big Wave Bay Beach in Southern District, Hong Kong Island, and Silverstrand Beach in Sai Kung, due to big waves. Swimmers are advised not to swim at these beaches.",
+   "zh_hans": "康文署今日宣布，由于大浪，港岛南区赤柱正滩及大浪湾泳滩，以及西贡区银线湾泳滩已悬挂红旗。康文署呼吁泳客切勿在上述泳滩游泳。"
+  },
+  "tags": {
+   "zh_hant": [
+    "紅旗",
+    "泳灘",
+    "康文署"
+   ],
+   "en": [
+    "Red flag",
+    "Beaches",
+    "LCSD"
+   ],
+   "zh_hans": [
+    "红旗",
+    "泳滩",
+    "康文署"
+   ]
+  }
+ },
+ {
+  "id": "20261111-hang-seng-down-202-points-opening-auction",
+  "category": "finance",
+  "published_at": "2026-11-11T09:26:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877349-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "恒指競價時段跌202點",
+   "en": "Hang Seng falls 202 points in opening auction",
+   "zh_hans": "恒指竞价时段跌202点"
+  },
+  "summary": {
+   "zh_hant": "港股競價時段下跌，恒生指數報24354點，跌202點，跌幅0.83%；科技指數報4045點，跌39點，跌幅0.96%。中藥飲片產品供應商新荷花首日掛牌，開市報51.3元，較招股價高近28%。",
+   "en": "Hong Kong stocks fell in the opening auction, with the Hang Seng Index at 24,354, down 202 points or 0.83 per cent, and the tech index at 4,045, down 39 points or 0.96 per cent. Chinese herbal medicine supplier Xinhehua debuted, opening at HK$51.30, nearly 28 per cent above its offer price.",
+   "zh_hans": "港股竞价时段下跌，恒生指数报24354点，跌202点，跌幅0.83%；科技指数报4045点，跌39点，跌幅0.96%。中药饮片产品供应商新荷花首日挂牌，开市报51.3元，较招股价高近28%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "恒生指數",
+    "港股",
+    "新股"
+   ],
+   "en": [
+    "Hang Seng Index",
+    "Hong Kong stocks",
+    "New listing"
+   ],
+   "zh_hans": [
+    "恒生指数",
+    "港股",
+    "新股"
+   ]
+  }
+ },
+ {
+  "id": "20261111-yuan-midpoint-three-week-low",
+  "category": "finance",
+  "published_at": "2026-11-11T09:22:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877347-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "人民幣兌美元中間價創近3周低位",
+   "en": "Yuan midpoint hits near three-week low against US dollar",
+   "zh_hans": "人民币兑美元中间价创近3周低位"
+  },
+  "summary": {
+   "zh_hant": "人民幣中間價報6.7191兌1美元，較上日中間價跌24點子，創近3星期低位。報道指中間價較市場預測偏弱約340點子。",
+   "en": "The yuan's midpoint was set at 6.7191 per US dollar, down 24 pips from the previous day and the lowest in nearly three weeks. The fixing was about 340 pips weaker than market forecasts, reports said.",
+   "zh_hans": "人民币中间价报6.7191兑1美元，较上日中间价跌24点子，创近3星期低位。报道指中间价较市场预测偏弱约340点子。"
+  },
+  "tags": {
+   "zh_hant": [
+    "人民幣",
+    "中間價",
+    "匯率"
+   ],
+   "en": [
+    "Yuan",
+    "Midpoint",
+    "Exchange rate"
+   ],
+   "zh_hans": [
+    "人民币",
+    "中间价",
+    "汇率"
+   ]
+  }
+ },
+ {
+  "id": "20261111-happy-valley-race-traffic-arrangements",
+  "category": "society",
+  "published_at": "2026-11-11T09:19:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100184.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "跑馬地賽馬日實施特別交通安排",
+   "en": "Special traffic arrangements in place for Happy Valley race meeting",
+   "zh_hans": "跑马地赛马日实施特别交通安排"
+  },
+  "summary": {
+   "zh_hant": "警方今日在跑馬地實施特別交通安排，直至賽馬完結、觀眾散去及交通恢復正常為止。措施包括日賽由中午起封閉黃泥涌道南行部分路段及多項改道安排；尾場開跑前約35分鐘起實施第二階段封路改道。",
+   "en": "Police have put special traffic arrangements in place in Happy Valley today until racing ends, spectators disperse and traffic returns to normal. Measures include closing part of Wong Nai Chung Road southbound from noon for day racing, along with various diversions; a second phase of road closures and diversions begins about 35 minutes before the last race.",
+   "zh_hans": "警方今日在跑马地实施特别交通安排，直至赛马完结、观众散去及交通恢复正常为止。措施包括日赛由中午起封闭黄泥涌道南行部分路段及多项改道安排；尾场开跑前约35分钟起实施第二阶段封路改道。"
+  },
+  "tags": {
+   "zh_hant": [
+    "跑馬地",
+    "賽馬",
+    "交通安排"
+   ],
+   "en": [
+    "Happy Valley",
+    "Horse racing",
+    "Traffic arrangements"
+   ],
+   "zh_hans": [
+    "跑马地",
+    "赛马",
+    "交通安排"
+   ]
+  }
+ },
+ {
+  "id": "20261111-taiwan-stocks-steady-early-trading",
+  "category": "finance",
+  "published_at": "2026-11-11T09:15:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877346-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "台股初段靠穩",
+   "en": "Taiwan stocks steady in early trading",
+   "zh_hans": "台股初段靠稳"
+  },
+  "summary": {
+   "zh_hant": "台灣股市開市初段靠穩，加權指數較早時報42961點，升249點，升幅0.58%。",
+   "en": "Taiwan stocks held steady in early trading, with the weighted index earlier at 42,961, up 249 points or 0.58 per cent.",
+   "zh_hans": "台湾股市开市初段靠稳，加权指数较早时报42961点，升249点，升幅0.58%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "台股",
+    "加權指數",
+    "台灣股市"
+   ],
+   "en": [
+    "Taiwan stocks",
+    "TAIEX",
+    "Taiwan market"
+   ],
+   "zh_hans": [
+    "台股",
+    "加权指数",
+    "台湾股市"
+   ]
+  }
+ },
+ {
+  "id": "20261111-merz-eu-ukraine-support-budget",
+  "category": "world",
+  "published_at": "2026-11-11T09:04:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877345-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "德國總理：歐盟須將對烏克蘭支持政策全面納入歐盟預算",
+   "en": "German Chancellor: EU must fully include Ukraine support in EU budget",
+   "zh_hans": "德国总理：欧盟须将对乌克兰支持政策全面纳入欧盟预算"
+  },
+  "summary": {
+   "zh_hant": "德國總理默茨表示，歐盟必須將對烏克蘭的支持政策全面納入歐盟預算，支持烏克蘭是歐盟共同、而非個別成員國的任務，預算談判成功的前提是就未來幾年如何支持烏克蘭達成基本共識。匈牙利、斯洛伐克及捷克方面持不同意見，斯洛伐克總理菲佐及捷克總理巴比什反對將進一步援助與歐盟長期預算捆綁。",
+   "en": "German Chancellor Friedrich Merz said the European Union must fully include its support policy for Ukraine in the EU budget, arguing that backing Ukraine is a shared EU task rather than one for individual member states, and that successful budget talks depend on a basic consensus on how to support Ukraine in the coming years. Hungary, Slovakia and the Czech Republic hold differing views, with Slovak Prime Minister Robert Fico and Czech Prime Minister Andrej Babis opposing tying further aid to the EU's long-term budget.",
+   "zh_hans": "德国总理默茨表示，欧盟必须将对乌克兰的支持政策全面纳入欧盟预算，支持乌克兰是欧盟共同、而非个别成员国的任务，预算谈判成功的前提是就未来几年如何支持乌克兰达成基本共识。匈牙利、斯洛伐克及捷克方面持不同意见，斯洛伐克总理菲佐及捷克总理巴比什反对将进一步援助与欧盟长期预算捆绑。"
+  },
+  "tags": {
+   "zh_hant": [
+    "德國",
+    "歐盟",
+    "烏克蘭"
+   ],
+   "en": [
+    "Germany",
+    "European Union",
+    "Ukraine"
+   ],
+   "zh_hans": [
+    "德国",
+    "欧盟",
+    "乌克兰"
+   ]
+  }
+ },
+ {
+  "id": "20261111-fed-officials-inflation-gradual-rate-hikes",
+  "category": "finance",
+  "published_at": "2026-11-11T08:50:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877342-20261111.htm"
+  },
+  "image_url": "https://newsstatic.rthk.hk/images/mfile_1877342_1_M_20261111082936.jpg",
+  "title": {
+   "zh_hant": "聯儲局官員關注通脹數據　未來可能逐步加息",
+   "en": "Fed officials flag inflation concerns, gradual rate hikes possible",
+   "zh_hans": "联储局官员关注通胀数据　未来可能逐步加息"
+  },
+  "summary": {
+   "zh_hant": "美國費城聯儲銀行總裁保爾森表示，聯儲局進一步逐步加息是合適，利率政策具體路徑視乎經濟發展趨勢，基礎通脹率徘徊於2.5%至3%，聯儲局在降低通脹方面仍有更多工作要做。芝加哥聯儲銀行總裁古爾斯比表示，通脹數據令人憂慮，特別是服務業通脹仍未回落，通脹預期頑固化將是重大隱憂。",
+   "en": "Philadelphia Federal Reserve President Anna Paulson said further gradual rate increases by the Federal Reserve would be appropriate, with the exact policy path depending on economic trends; underlying inflation is running at 2.5 to 3 per cent, leaving the Fed with more work to do on bringing inflation down. Chicago Fed President Austan Goolsbee said inflation data is worrying, particularly as services inflation has yet to ease, and entrenched inflation expectations would be a major concern.",
+   "zh_hans": "美国费城联储银行总裁保尔森表示，联储局进一步逐步加息是合适，利率政策具体路径视乎经济发展趋势，基础通胀率徘徊于2.5%至3%，联储局在降低通胀方面仍有更多工作要做。芝加哥联储银行总裁古尔斯比表示，通胀数据令人忧虑，特别是服务业通胀仍未回落，通胀预期顽固化将是重大隐忧。"
+  },
+  "tags": {
+   "zh_hant": [
+    "聯儲局",
+    "通脹",
+    "加息"
+   ],
+   "en": [
+    "Federal Reserve",
+    "Inflation",
+    "Rate hikes"
+   ],
+   "zh_hans": [
+    "联储局",
+    "通胀",
+    "加息"
+   ]
+  }
+ },
+ {
   "id": "20261111-us-house-blocks-hegseth-impeachment",
   "category": "world",
   "published_at": "2026-11-11T07:51:00+08:00",
