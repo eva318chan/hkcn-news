@@ -1,5 +1,79 @@
 [
  {
+  "id": "20261112-biden-pelted-ireland-protest-man-charged",
+  "category": "world",
+  "published_at": "2026-11-12T03:32:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877459-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "拜登於愛爾蘭被親巴勒斯坦示威者投擲物品　一名男子遭起訴",
+   "en": "Biden pelted by pro-Palestinian protesters in Ireland; one man charged",
+   "zh_hans": "拜登于爱尔兰被亲巴勒斯坦示威者投掷物品　一名男子遭起诉"
+  },
+  "summary": {
+   "zh_hant": "美國前總統拜登星期二在愛爾蘭首都都柏林出席活動時，被部分親巴勒斯坦示威者投擲物品，警方拘捕三名男子，其中一人已被起訴。拜登當日到訪都柏林聖三一大學，多名示威者在活動上發表演說，批評拜登政府應對加沙衝突的政策。當他與家人離開會場時，部分示威者高叫口號，並向拜登投擲牛奶盒等物品，現場有牛奶濺出，保安人員用雨傘抵擋。",
+   "en": "Former US President Joe Biden was pelted with items by pro-Palestinian protesters while attending an event in Dublin, the capital of Ireland, on Tuesday. Police arrested three men, one of whom has been charged. Biden was visiting Trinity College Dublin, where several protesters spoke at the event criticising his administration's handling of the Gaza conflict. As he left the venue with his family, some protesters chanted slogans and threw items including milk cartons at him, splashing milk, while security staff shielded him with umbrellas.",
+   "zh_hans": "美国前总统拜登星期二在爱尔兰首都都柏林出席活动时，被部分亲巴勒斯坦示威者投掷物品，警方拘捕三名男子，其中一人已被起诉。拜登当日到访都柏林圣三一大学，多名示威者在活动上发表演说，批评拜登政府应对加沙冲突的政策。当他与家人离开会场时，部分示威者高叫口号，并向拜登投掷牛奶盒等物品，现场有牛奶溅出，保安人员用雨伞抵挡。"
+  },
+  "tags": {
+   "zh_hant": [
+    "拜登",
+    "愛爾蘭",
+    "親巴勒斯坦示威"
+   ],
+   "en": [
+    "Joe Biden",
+    "Ireland",
+    "pro-Palestinian protest"
+   ],
+   "zh_hans": [
+    "拜登",
+    "爱尔兰",
+    "亲巴勒斯坦示威"
+   ]
+  }
+ },
+ {
+  "id": "20261112-trump-iran-war-ends-soon-rezaei-uranium",
+  "category": "world",
+  "published_at": "2026-11-12T03:24:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877458-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "特朗普稱美伊戰事很快結束　伊席高官強調不會容許濃縮鈾離境",
+   "en": "Trump says US-Iran war will end soon; senior Iranian official says enriched uranium will not leave the country",
+   "zh_hans": "特朗普称美伊战事很快结束　伊席高官强调不会容许浓缩铀离境"
+  },
+  "summary": {
+   "zh_hant": "美國總統特朗普為針對伊朗的軍事行動辯護，他出席退伍軍人節活動時強調，這場衝突並非由華盛頓、而是由德黑蘭發起，指伊朗自1979年就對美國發動戰爭，美軍採取行動是為了阻止伊朗發展核武。特朗普說，這場衝突很快結束，屆時整個世界將會變得更安全、更美好、更和平，又讚揚防長赫格塞思做得非常出色。另一方面，伊朗最高國家安全委員會秘書雷扎伊表示，如果美國犯下錯誤，發動針對伊朗核設施的襲擊，伊朗的反擊將不限於近距離的美軍基地，還會打擊美國所有遠程基地，又強調德黑蘭亦不會容許濃縮鈾離境。",
+   "en": "US President Donald Trump has defended the military action against Iran, telling a Veterans Day event that the conflict was started not by Washington but by Tehran, which he said had been waging war on the United States since 1979, and that US forces acted to stop Iran developing nuclear weapons. Trump said the conflict would end soon, making the world safer, better and more peaceful, and praised Defence Secretary Pete Hegseth. Meanwhile, Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said that if the US made the mistake of attacking Iran's nuclear facilities, Tehran's retaliation would go beyond nearby US bases to hit all American bases far away, and stressed that Iran would not allow its enriched uranium to leave the country.",
+   "zh_hans": "美国总统特朗普为针对伊朗的军事行动辩护，他出席退伍军人节活动时强调，这场冲突并非由华盛顿、而是由德黑兰发起，指伊朗自1979年就对美国发动战争，美军采取行动是为了阻止伊朗发展核武。特朗普说，这场冲突很快结束，届时整个世界将会变得更安全、更美好、更和平，又赞扬防长赫格塞思做得非常出色。另一方面，伊朗最高国家安全委员会秘书雷扎伊表示，如果美国犯下错误，发动针对伊朗核设施的袭击，伊朗的反击将不限于近距离的美军基地，还会打击美国所有远程基地，又强调德黑兰亦不会容许浓缩铀离境。"
+  },
+  "tags": {
+   "zh_hant": [
+    "特朗普",
+    "伊朗",
+    "濃縮鈾"
+   ],
+   "en": [
+    "Donald Trump",
+    "Iran",
+    "enriched uranium"
+   ],
+   "zh_hans": [
+    "特朗普",
+    "伊朗",
+    "浓缩铀"
+   ]
+  }
+ },
+ {
   "id": "20261112-us-ukraine-talks-kushner-witkoff-putin-zelenskyy",
   "category": "world",
   "published_at": "2026-11-12T02:22:00+08:00",
