@@ -1,5 +1,375 @@
 [
  {
+  "id": "20261112-hk-adr-mostly-lower-than-hk-close",
+  "category": "finance",
+  "published_at": "2026-11-12T06:27:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877470-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "港股ADR普遍較本港收市下跌　小米跌逾2%",
+   "en": "Hong Kong ADRs mostly lower than local close; Xiaomi down over 2%",
+   "zh_hans": "港股ADR普遍较本港收市下跌　小米跌逾2%"
+  },
+  "summary": {
+   "zh_hant": "港股美國預託證券普遍較本港收市下跌。科技股方面，ATMXJ的ADR較本港收市跌逾1%至逾2%，以小米集團跌幅較大。金融股方面，滙控ADR較本港收市微跌不足0.1%，友邦和港交所則跌近1%。",
+   "en": "Hong Kong stocks' American depositary receipts were mostly lower than their local market close. Among technology stocks, the ADRs of ATMXJ fell by more than 1 to over 2 percent, with Xiaomi posting the biggest drop. Among financials, HSBC's ADR edged down less than 0.1 percent, while AIA and HKEX fell nearly 1 percent.",
+   "zh_hans": "港股美国预托证券普遍较本港收市下跌。科技股方面，ATMXJ的ADR较本港收市跌逾1%至逾2%，以小米集团跌幅较大。金融股方面，汇控ADR较本港收市微跌不足0.1%，友邦和港交所则跌近1%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "港股ADR",
+    "小米",
+    "ATMXJ"
+   ],
+   "en": [
+    "Hong Kong ADRs",
+    "Xiaomi",
+    "ATMXJ"
+   ],
+   "zh_hans": [
+    "港股ADR",
+    "小米",
+    "ATMXJ"
+   ]
+  }
+ },
+ {
+  "id": "20261112-oil-prices-up-near-1pct",
+  "category": "finance",
+  "published_at": "2026-11-12T06:27:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877468-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "國際油價收市升近1%或以上　布蘭特期油升近1.4%",
+   "en": "Oil prices close up nearly 1% or more; Brent crude rises nearly 1.4%",
+   "zh_hans": "国际油价收市升近1%或以上　布兰特期油升近1.4%"
+  },
+  "summary": {
+   "zh_hant": "國際油價收市升近1%或以上，伊朗官員表示不會容許任何濃縮核材料運出。倫敦布蘭特期油收市報每桶92.76美元，升1.27美元，升幅近1.4%；紐約期油報每桶86.53美元，升49美仙，升幅近0.6%。",
+   "en": "International oil prices closed up nearly 1 percent or more, after Iranian officials said they would not allow any enriched nuclear material to leave the country. Brent crude closed at US$92.76 a barrel, up US$1.27 or nearly 1.4 percent, while New York crude stood at US$86.53 a barrel, up 49 US cents or nearly 0.6 percent.",
+   "zh_hans": "国际油价收市升近1%或以上，伊朗官员表示不会容许任何浓缩核材料运出。伦敦布兰特期油收市报每桶92.76美元，升1.27美元，升幅近1.4%；纽约期油报每桶86.53美元，升49美仙，升幅近0.6%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "油價",
+    "布蘭特期油",
+    "紐約期油"
+   ],
+   "en": [
+    "oil prices",
+    "Brent crude",
+    "WTI crude"
+   ],
+   "zh_hans": [
+    "油价",
+    "布兰特期油",
+    "纽约期油"
+   ]
+  }
+ },
+ {
+  "id": "20261112-spot-gold-below-4000-dollars",
+  "category": "finance",
+  "published_at": "2026-11-12T06:27:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877467-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "現貨金失守4000美元水平　受美元強勢影響",
+   "en": "Spot gold falls below US$4,000 level as strong dollar weighs",
+   "zh_hans": "现货金失守4000美元水平　受美元强势影响"
+  },
+  "summary": {
+   "zh_hant": "金價跌逾1%，失守每盎司4000美元水平，受美元強勢影響。現貨金較早時報3987.29美元，跌幅近1.1%；紐約期金收市報4000.5美元，跌幅0.7%。",
+   "en": "Gold prices fell more than 1 percent, with spot gold losing the US$4,000-an-ounce level under pressure from a strong US dollar. Spot gold was earlier quoted at US$3,987.29, down nearly 1.1 percent, while New York gold futures closed at US$4,000.50, down 0.7 percent.",
+   "zh_hans": "金价跌逾1%，失守每盎司4000美元水平，受美元强势影响。现货金较早时报3987.29美元，跌幅近1.1%；纽约期金收市报4000.5美元，跌幅0.7%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "金價",
+    "現貨金",
+    "美元"
+   ],
+   "en": [
+    "gold prices",
+    "spot gold",
+    "US dollar"
+   ],
+   "zh_hans": [
+    "金价",
+    "现货金",
+    "美元"
+   ]
+  }
+ },
+ {
+  "id": "20261112-han-zheng-climate-four-proposals",
+  "category": "china",
+  "published_at": "2026-11-12T06:16:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877469-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "韓正就應對氣候變化提出四點建議　中國堅定推進碳達峰碳中和",
+   "en": "Han Zheng puts forward four proposals on tackling climate change; China firmly advancing carbon peak and neutrality",
+   "zh_hans": "韩正就应对气候变化提出四点建议　中国坚定推进碳达峰碳中和"
+  },
+  "summary": {
+   "zh_hant": "國家副主席韓正在土耳其安塔利亞出席聯合國氣候變化大會領導人峰會，提出四點建議，包括錨定共同目標、強化集體行動，加快綠色轉型、推進低碳發展，防範氣候災害、提升氣候韌性，以及堅持開放普惠、深化國際合作。韓正表示，中國今年規劃了2030年非化石能源發電量佔比達到五成、電能佔終端能源消費比重達到三成半等目標，堅定不移推進碳達峰、碳中和；中方願意推動氣象智能預警方案「媽祖」在更多國家落實應用，助力各國防範和應對氣候風險。",
+   "en": "Vice President Han Zheng, attending the leaders' summit of the UN Climate Change Conference in Antalya, Turkiye, put forward four proposals: anchoring shared goals and strengthening collective action; accelerating green transition and low-carbon development; guarding against climate disasters and building climate resilience; and upholding openness and inclusiveness while deepening international cooperation. Han said China has set targets for 2030, including non-fossil energy accounting for half of power generation and electricity making up 35 percent of final energy consumption, and will firmly advance carbon peaking and carbon neutrality. China is also willing to promote its \"Mazu\" intelligent meteorological early-warning solution in more countries to help them prevent and respond to climate risks.",
+   "zh_hans": "国家副主席韩正在土耳其安塔利亚出席联合国气候变化大会领导人峰会，提出四点建议，包括锚定共同目标、强化集体行动，加快绿色转型、推进低碳发展，防范气候灾害、提升气候韧性，以及坚持开放普惠、深化国际合作。韩正表示，中国今年规划了2030年非化石能源发电量占比达到五成、电能占终端能源消费比重达到三成半等目标，坚定不移推进碳达峰、碳中和；中方愿意推动气象智能预警方案「妈祖」在更多国家落实应用，助力各国防范和应对气候风险。"
+  },
+  "tags": {
+   "zh_hant": [
+    "韓正",
+    "氣候變化",
+    "碳達峰碳中和"
+   ],
+   "en": [
+    "Han Zheng",
+    "climate change",
+    "carbon peak and neutrality"
+   ],
+   "zh_hans": [
+    "韩正",
+    "气候变化",
+    "碳达峰碳中和"
+   ]
+  }
+ },
+ {
+  "id": "20261112-dollar-18-month-high-rate-hike-bets",
+  "category": "finance",
+  "published_at": "2026-11-12T05:55:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877465-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "美元曾創逾1年半高位　市場對加息預期升溫",
+   "en": "US dollar hits over 1.5-year high as rate-hike bets grow",
+   "zh_hans": "美元曾创逾1年半高位　市场对加息预期升温"
+  },
+  "summary": {
+   "zh_hant": "美元兌主要貨幣上升，創逾1年半高位，市場對聯儲局下月加息預期升溫。美元指數高見102.96，在紐約尾市報102.91，升幅近0.7%。美國公布高過預期的通脹數據後，部分券商調整對聯儲局未來貨幣政策預期，高盛目前預計下月和明年3月將加息；德意志銀行則預計下月、明年1月和3月將加息。",
+   "en": "The US dollar rose against major currencies to its highest in more than a year and a half, as market expectations grew that the Federal Reserve will raise interest rates next month. The dollar index touched 102.96 and closed in New York at 102.91, up nearly 0.7 percent. After the US reported higher-than-expected inflation, some brokerages revised their expectations for Fed policy: Goldman Sachs now expects rate hikes next month and in March next year, while Deutsche Bank expects hikes next month and in January and March next year.",
+   "zh_hans": "美元兑主要货币上升，创逾1年半高位，市场对联储局下月加息预期升温。美元指数高见102.96，在纽约尾市报102.91，升幅近0.7%。美国公布高过预期的通胀数据后，部分券商调整对联储局未来货币政策预期，高盛目前预计下月和明年3月将加息；德意志银行则预计下月、明年1月和3月将加息。"
+  },
+  "tags": {
+   "zh_hant": [
+    "美元",
+    "聯儲局",
+    "加息"
+   ],
+   "en": [
+    "US dollar",
+    "Federal Reserve",
+    "interest rate hike"
+   ],
+   "zh_hans": [
+    "美元",
+    "联储局",
+    "加息"
+   ]
+  }
+ },
+ {
+  "id": "20261112-dow-up-254-nasdaq-nvidia-rebound",
+  "category": "finance",
+  "published_at": "2026-11-12T05:54:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877463-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "道指高收254點　納指升近2%　Nvidia反彈近3%",
+   "en": "Dow closes up 254 points; Nasdaq rises nearly 2% as Nvidia rebounds almost 3%",
+   "zh_hans": "道指高收254点　纳指升近2%　Nvidia反弹近3%"
+  },
+  "summary": {
+   "zh_hant": "美股3大指數收市上升，市場對人工智能相關交易興趣重燃。道瓊斯指數收市報52486點，升254點，升幅近0.5%；納斯達克指數報25466點，升400點，升幅1.6%；標準普爾500指數報7619點，升98點，升幅1.3%。Nvidia升近3%，結束兩日跌勢；費城半導體指數急升近6%，美光科技升近12%，英特爾和AMD升逾7%。",
+   "en": "All three major US stock indexes closed higher as interest in artificial-intelligence-related trades revived. The Dow Jones Industrial Average closed at 52,486, up 254 points or nearly 0.5 percent; the Nasdaq stood at 25,466, up 400 points or 1.6 percent; and the S&P 500 closed at 7,619, up 98 points or 1.3 percent. Nvidia rose nearly 3 percent, ending a two-day losing streak, while the Philadelphia Semiconductor Index surged nearly 6 percent, with Micron up nearly 12 percent and Intel and AMD up more than 7 percent.",
+   "zh_hans": "美股3大指数收市上升，市场对人工智能相关交易兴趣重燃。道琼斯指数收市报52486点，升254点，升幅近0.5%；纳斯达克指数报25466点，升400点，升幅1.6%；标准普尔500指数报7619点，升98点，升幅1.3%。Nvidia升近3%，结束两日跌势；费城半导体指数急升近6%，美光科技升近12%，英特尔和AMD升逾7%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "道指",
+    "納指",
+    "Nvidia"
+   ],
+   "en": [
+    "Dow Jones",
+    "Nasdaq",
+    "Nvidia"
+   ],
+   "zh_hans": [
+    "道指",
+    "纳指",
+    "Nvidia"
+   ]
+  }
+ },
+ {
+  "id": "20261112-european-stocks-up-near-1pct",
+  "category": "finance",
+  "published_at": "2026-11-12T05:54:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877462-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "歐股高收近1%或以上　能源及科技股上升",
+   "en": "European stocks close up nearly 1% or more, led by energy and technology",
+   "zh_hans": "欧股高收近1%或以上　能源及科技股上升"
+  },
+  "summary": {
+   "zh_hant": "歐洲主要股市收市升近1%或以上，能源和科技股上升。德國DAX指數報26662點，升315點，升幅1.2%；法國CAC指數報8332點，升54點，升幅近0.7%；英國富時100指數報10835點，升83點，升幅近0.8%。",
+   "en": "Major European stock markets closed up nearly 1 percent or more, with energy and technology stocks rising. Germany's DAX stood at 26,662, up 315 points or 1.2 percent; France's CAC was at 8,332, up 54 points or nearly 0.7 percent; and Britain's FTSE 100 closed at 10,835, up 83 points or nearly 0.8 percent.",
+   "zh_hans": "欧洲主要股市收市升近1%或以上，能源和科技股上升。德国DAX指数报26662点，升315点，升幅1.2%；法国CAC指数报8332点，升54点，升幅近0.7%；英国富时100指数报10835点，升83点，升幅近0.8%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "歐股",
+    "DAX",
+    "富時100"
+   ],
+   "en": [
+    "European stocks",
+    "DAX",
+    "FTSE 100"
+   ],
+   "zh_hans": [
+    "欧股",
+    "DAX",
+    "富时100"
+   ]
+  }
+ },
+ {
+  "id": "20261112-han-zheng-meets-erdogan-antalya",
+  "category": "china",
+  "published_at": "2026-11-12T05:53:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877466-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "韓正晤埃爾多安　讚揚土耳其推進全球氣候治理努力",
+   "en": "Han Zheng meets Erdogan, praises Turkiye's efforts to advance global climate governance",
+   "zh_hans": "韩正晤埃尔多安　赞扬土耳其推进全球气候治理努力"
+  },
+  "summary": {
+   "zh_hant": "國家主席習近平特別代表、國家副主席韓正在土耳其安塔利亞出席聯合國氣候變化大會期間，與土耳其總統埃爾多安會面。韓正表示，雙方要提高務實合作水平，中方願鼓勵更多中國企業按照市場化、商業化原則到土耳其投資興業；雙方在可再生能源、人工智能、生物科技等領域合作前景廣闊，可共同打造更多合作亮點，中方讚揚土方為推進全球氣候治理的努力，願意與土方推動大會取得成功。新華社引述埃爾多安表示，土方讚揚中方為促進世界和平發展作出重要貢獻，希望與中方加強溝通協作，共同促進中東和平穩定，攜手應對氣候變化等全球挑戰。",
+   "en": "Han Zheng, special representative of President Xi Jinping and Vice President of China, met Turkish President Recep Tayyip Erdogan in Antalya, Turkiye, during the UN Climate Change Conference. Han said the two sides should raise the level of practical cooperation, and that China is willing to encourage more Chinese enterprises to invest in Turkiye on market-oriented and commercial principles. Cooperation in renewable energy, artificial intelligence and biotechnology holds broad prospects, and the two sides can create more highlights together; China praised Turkiye's efforts to advance global climate governance and is willing to work with Turkiye to make the conference a success. Xinhua quoted Erdogan as saying Turkiye commends China's important contribution to world peace and development and hopes to strengthen communication and coordination with China to jointly promote peace and stability in the Middle East and tackle global challenges such as climate change.",
+   "zh_hans": "国家主席习近平特别代表、国家副主席韩正在土耳其安塔利亚出席联合国气候变化大会期间，与土耳其总统埃尔多安会面。韩正表示，双方要提高务实合作水平，中方愿鼓励更多中国企业按照市场化、商业化原则到土耳其投资兴业；双方在可再生能源、人工智能、生物科技等领域合作前景广阔，可共同打造更多合作亮点，中方赞扬土方为推进全球气候治理的努力，愿意与土方推动大会取得成功。新华社引述埃尔多安表示，土方赞扬中方为促进世界和平发展作出重要贡献，希望与中方加强沟通协作，共同促进中东和平稳定，携手应对气候变化等全球挑战。"
+  },
+  "tags": {
+   "zh_hant": [
+    "韓正",
+    "埃爾多安",
+    "土耳其"
+   ],
+   "en": [
+    "Han Zheng",
+    "Recep Tayyip Erdogan",
+    "Turkiye"
+   ],
+   "zh_hans": [
+    "韩正",
+    "埃尔多安",
+    "土耳其"
+   ]
+  }
+ },
+ {
+  "id": "20261112-white-house-counsel-warns-democrats-probes",
+  "category": "world",
+  "published_at": "2026-11-12T04:51:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877461-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "白宮法律顧問據報去信警告民主黨　指國會調查計劃或涉嫌犯罪",
+   "en": "White House counsel reportedly warns Democrats in letter that planned congressional probes could amount to crime",
+   "zh_hans": "白宫法律顾问据报去信警告民主党　指国会调查计划或涉嫌犯罪"
+  },
+  "summary": {
+   "zh_hant": "美國民主黨在中期選舉取勝後，計劃在新一屆國會調查總統特朗普的房地產項目和加密貨幣交易等問題。美國傳媒報道，白宮近日警告民主黨人，計劃對特朗普政府展開的國會調查可能涉嫌犯罪。報道指，白宮法律顧問沙夫去信眾議院監督委員會主席、民主黨的加西亞，指責民主黨人試圖利用國會調查程序恐嚇和騷擾政府官員；信中提到，如果有關調查旨在阻止行政部門官員履行公職，或以濫權來恐嚇調查對象，可能構成犯罪。加西亞回應時強調，國會權力來自憲法，而不是白宮的批准，國會擁有廣泛的調查和監督權，這項權力是立法職能的重要組成部分。",
+   "en": "After the Democrats' victory in the US midterm elections, the party plans to use the new Congress to investigate President Donald Trump's real estate projects and cryptocurrency dealings. US media reported that the White House has warned Democrats that the planned congressional investigations into the Trump administration could amount to a crime. The White House counsel wrote to House Oversight Committee chairman Garcia, accusing Democrats of trying to use congressional investigative procedures to intimidate and harass government officials, and saying the investigations could constitute a crime if they were aimed at stopping executive-branch officials from carrying out their duties or at intimidating targets through abuse of power. Garcia responded that Congress's power comes from the Constitution, not from White House approval, and that Congress has broad powers of investigation and oversight as an important part of its legislative function.",
+   "zh_hans": "美国民主党在中期选举取胜后，计划在新一届国会调查总统特朗普的房地产项目和加密货币交易等问题。美国传媒报道，白宫近日警告民主党人，计划对特朗普政府展开的国会调查可能涉嫌犯罪。报道指，白宫法律顾问沙夫去信众议院监督委员会主席、民主党的加西亚，指责民主党人试图利用国会调查程序恐吓和骚扰政府官员；信中提到，如果有关调查旨在阻止行政部门官员履行公职，或以滥权来恐吓调查对象，可能构成犯罪。加西亚回应时强调，国会权力来自宪法，而不是白宫的批准，国会拥有广泛的调查和监督权，这项权力是立法职能的重要组成部分。"
+  },
+  "tags": {
+   "zh_hant": [
+    "白宮",
+    "民主黨",
+    "國會調查"
+   ],
+   "en": [
+    "White House",
+    "Democratic Party",
+    "congressional investigation"
+   ],
+   "zh_hans": [
+    "白宫",
+    "民主党",
+    "国会调查"
+   ]
+  }
+ },
+ {
+  "id": "20261112-russian-ambassador-darchiev-chronic-illness",
+  "category": "world",
+  "published_at": "2026-11-12T04:41:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877460-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "俄外交部稱駐美大使達爾奇耶夫因慢性疾病離世",
+   "en": "Russian foreign ministry says ambassador to US Darchiev died of chronic illness",
+   "zh_hans": "俄外交部称驻美大使达尔奇耶夫因慢性疾病离世"
+  },
+  "summary": {
+   "zh_hant": "俄羅斯駐美國大使達爾奇耶夫突然去世，終年66歲。俄羅斯外交部發言人扎哈羅娃在社交媒體發文說，達爾奇耶夫星期三因為慢性疾病，在莫斯科離世。俄羅斯外交部形容，達爾奇耶夫是優秀外交官，亦是傑出的美國問題專家，他從事的工作是俄羅斯外交政策最關鍵的領域之一。達爾奇耶夫1992年進入俄羅斯外交部工作以來，一直從事涉及北美的外交工作，先後擔任駐美大使館公使銜參贊、駐加拿大大使及外交部北美司司長，去年3月獲總統普京任命為駐美大使。",
+   "en": "Russian Ambassador to the United States Alexander Darchiev has died suddenly at the age of 66. Russian foreign ministry spokeswoman Maria Zakharova said on social media that Darchiev died in Moscow on Wednesday from a chronic illness. The ministry described Darchiev as an outstanding diplomat and a leading expert on the United States, working in one of the most critical areas of Russian foreign policy. Darchiev joined the Russian foreign ministry in 1992 and worked on North American affairs throughout his career, serving as minister-counsellor at the Russian embassy in the US, ambassador to Canada and director of the ministry's North America department, before President Vladimir Putin appointed him ambassador to the US in March last year.",
+   "zh_hans": "俄罗斯驻美国大使达尔奇耶夫突然去世，终年66岁。俄罗斯外交部发言人扎哈罗娃在社交媒体发文说，达尔奇耶夫星期三因为慢性疾病，在莫斯科离世。俄罗斯外交部形容，达尔奇耶夫是优秀外交官，亦是杰出的美国问题专家，他从事的工作是俄罗斯外交政策最关键的领域之一。达尔奇耶夫1992年进入俄罗斯外交部工作以来，一直从事涉及北美的外交工作，先后担任驻美大使馆公使衔参赞、驻加拿大大使及外交部北美司司长，去年3月获总统普京任命为驻美大使。"
+  },
+  "tags": {
+   "zh_hant": [
+    "達爾奇耶夫",
+    "俄羅斯",
+    "駐美大使"
+   ],
+   "en": [
+    "Alexander Darchiev",
+    "Russia",
+    "ambassador to the US"
+   ],
+   "zh_hans": [
+    "达尔奇耶夫",
+    "俄罗斯",
+    "驻美大使"
+   ]
+  }
+ },
+ {
   "id": "20261112-biden-pelted-ireland-protest-man-charged",
   "category": "world",
   "published_at": "2026-11-12T03:32:00+08:00",
