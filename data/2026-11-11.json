@@ -1,5 +1,560 @@
 [
  {
+  "id": "20261111-legco-ohca-aed-survival-rates",
+  "category": "hk",
+  "published_at": "2026-11-11T12:48:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100285.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "院外心臟驟停求生率上升　旁觀者施救比例升至近35%",
+   "en": "Out-of-hospital cardiac arrest survival improves as bystander help rises to nearly 35 per cent",
+   "zh_hans": "院外心脏骤停求生率上升　旁观者施救比例升至近35%"
+  },
+  "summary": {
+   "zh_hant": "消防處過去三年處理的院外心臟驟停個案分別為2023年7,917宗、2024年7,348宗及2025年7,153宗；旁觀者施行心肺復甦或使用自動體外心臟去顫器的比例由33.3%升至34.7%，送院時有生命表徵的比率由6.6%升至9.6%。全港已有逾380個機構自願上載共4,617部自動體外心臟去顫器資料至「中央AED登記冊」；中學生數碼自動體外心臟去顫器及心肺復甦體驗計劃至今已有逾120間學校、約24,000名學生完成培訓。",
+   "en": "The Fire Services Department handled 7,917 out-of-hospital cardiac arrest cases in 2023, 7,348 in 2024 and 7,153 in 2025. The share of cases in which bystanders performed CPR or used an AED rose from 33.3 per cent to 34.7 per cent, while the proportion of patients showing signs of life on arrival at hospital climbed from 6.6 per cent to 9.6 per cent. More than 380 organisations have voluntarily registered 4,617 AEDs on the central registry, and about 24,000 secondary students from over 120 schools have completed the digital AED and CPR experiential programme.",
+   "zh_hans": "消防处过去三年处理的院外心脏骤停个案分别为2023年7,917宗、2024年7,348宗及2025年7,153宗；旁观者施行心肺复苏或使用自动体外心脏去颤器的比例由33.3%升至34.7%，送院时有生命表征的比率由6.6%升至9.6%。全港已有逾380个机构自愿上载共4,617部自动体外心脏去颤器资料至「中央AED登记册」；中学生数码自动体外心脏去颤器及心肺复苏体验计划至今已有逾120间学校、约24,000名学生完成培训。"
+  },
+  "tags": {
+   "zh_hant": [
+    "院外心臟驟停",
+    "心肺復甦",
+    "自動體外心臟去顫器"
+   ],
+   "en": [
+    "Out-of-hospital cardiac arrest",
+    "CPR",
+    "AED"
+   ],
+   "zh_hans": [
+    "院外心脏骤停",
+    "心肺复苏",
+    "自动体外心脏去颤器"
+   ]
+  }
+ },
+ {
+  "id": "20261111-legco-ai-era-youth-employment",
+  "category": "hk",
+  "published_at": "2026-11-11T12:40:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100304.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "議員關注人工智能時代青年就業　政府推三萬職位及實習計劃",
+   "en": "Lawmaker flags youth jobs in the AI era as government rolls out 30,000 jobs and internships",
+   "zh_hans": "议员关注人工智能时代青年就业　政府推三万职位及实习计划"
+  },
+  "summary": {
+   "zh_hant": "立法會議員張培剛關注人工智能普及令文書支援人手過剩、初級行政職位縮減，問政府如何支援青年在人工智能時代就業。勞工及福利局局長孫玉菡回覆指，教育局透過商校合作計劃及生涯規劃資訊網站協助學生認識新興行業；政府每五年進行人力推算並作中期更新，2026年9月的中期更新報告特別檢視人工智能對勞動市場的影響。2026年《施政報告》宣布聯同商界推出為期兩年三萬個青年職位及實習計劃，其中畢業生就業啟航計劃由2027年首季起兩年內額外提供10,000個為期六個月或以上的全職職位。",
+   "en": "Legislative Council member Cheung Pui-kong raised concerns that wider use of artificial intelligence is creating a surplus of clerical support workers and shrinking entry-level administrative posts, asking how the government will support young people finding work in the AI era. Secretary for Labour and Welfare Chris Sun said the Education Bureau helps students explore emerging industries through school-business partnerships and a career-planning website, while manpower projections are updated every five years with a mid-term review — the September 2026 update specifically examined AI's impact on the labour market. The 2026 Policy Address announced a two-year programme of 30,000 youth jobs and internships with the business sector, including 10,000 additional full-time posts of six months or more under a graduate employment scheme starting in the first quarter of 2027.",
+   "zh_hans": "立法会议员张培刚关注人工智能普及令文书支援人手过剩、初级行政职位缩减，问政府如何支援青年在人工智能时代就业。劳工及福利局局长孙玉菡回复指，教育局透过商校合作计划及生涯规划资讯网站协助学生认识新兴行业；政府每五年进行人力推算并作中期更新，2026年9月的中期更新报告特别检视人工智能对劳动市场的影响。2026年《施政报告》宣布联同商界推出为期两年三万个青年职位及实习计划，其中毕业生就业启航计划由2027年首季起两年内额外提供10,000个为期六个月或以上的全职职位。"
+  },
+  "tags": {
+   "zh_hant": [
+    "青年就業",
+    "人工智能",
+    "立法會"
+   ],
+   "en": [
+    "Youth employment",
+    "Artificial intelligence",
+    "Legislative Council"
+   ],
+   "zh_hans": [
+    "青年就业",
+    "人工智能",
+    "立法会"
+   ]
+  }
+ },
+ {
+  "id": "20261111-hing-tat-mansion-bid-rigging-trial",
+  "category": "society",
+  "published_at": "2026-11-11T12:32:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877373-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "興達大廈維修圍標案開審　五人否認串謀行賄控罪",
+   "en": "Hing Tat Mansion bid-rigging trial opens as five deny bribery conspiracy charges",
+   "zh_hans": "兴达大厦维修围标案开审　五人否认串谋行贿控罪"
+  },
+  "summary": {
+   "zh_hant": "五名男子涉嫌在觀塘興達大廈維修工程圍標，透過賄款取得工程合約，案件今日在區域法院開審，五人否認控罪。控罪指三名中間人莊聰圖、林雪邊及杜漢森，於2022年9月至2023年1月期間涉嫌向時任法團主席張建華、成員粘清波及其他法團成員提供約200萬元賄款，以取得約2,000萬元的大維修及物業管理合約。廉署2023年1月採取「火網」行動搗破貪污圍標集團，同年9月起訴23人，涉及16個樓宇維修項目、合約總值約5.2億元、賄款逾650萬元；案件分拆五宗處理，興達大廈案首宗開審。",
+   "en": "Five men accused of rigging bids for maintenance work at Kwun Tong's Hing Tat Mansion by offering bribes to secure the contract appeared in District Court today, all pleading not guilty. The charges allege that three middlemen — Chong Chung-to, Lam Suet-bin and To Hon-sum — offered about HK$2 million in bribes between September 2022 and January 2023 to then owners' corporation chairman Cheung Kin-wah, member Nim Ching-po and other members, to win a maintenance and property management contract worth about HK$20 million. The ICAC's Operation Fire Net in January 2023 broke up the corruption and bid-rigging syndicate, and 23 people were charged that September over 16 building maintenance projects worth about HK$520 million in contracts and more than HK$6.5 million in bribes; the cases were split into five trials, with Hing Tat Mansion heard first.",
+   "zh_hans": "五名男子涉嫌在观塘兴达大厦维修工程围标，透过贿款取得工程合约，案件今日在区域法院开审，五人否认控罪。控罪指三名中间人庄聪图、林雪边及杜汉森，于2022年9月至2023年1月期间涉嫌向时任法团主席张建华、成员粘清波及其他法团成员提供约200万元贿款，以取得约2,000万元的大维修及物业管理合约。廉署2023年1月采取「火网」行动捣破贪污围标集团，同年9月起诉23人，涉及16个楼宇维修项目、合约总值约5.2亿元、贿款逾650万元；案件分拆五宗处理，兴达大厦案首宗开审。"
+  },
+  "tags": {
+   "zh_hant": [
+    "興達大廈",
+    "圍標",
+    "廉署"
+   ],
+   "en": [
+    "Hing Tat Mansion",
+    "Bid-rigging",
+    "ICAC"
+   ],
+   "zh_hans": [
+    "兴达大厦",
+    "围标",
+    "廉署"
+   ]
+  }
+ },
+ {
+  "id": "20261111-legco-wong-tai-sin-diamond-hill-culture",
+  "category": "hk",
+  "published_at": "2026-11-11T12:30:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100240.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "黃大仙及鑽石山「三教合一」景點　政府研究廟宇文化深度遊路線",
+   "en": "Government explores temple culture trail for Wong Tai Sin and Diamond Hill's three-religion landmarks",
+   "zh_hans": "黄大仙及钻石山「三教合一」景点　政府研究庙宇文化深度游路线"
+  },
+  "summary": {
+   "zh_hant": "議員關注黃大仙及鑽石山一帶「三教合一」文化景點的推廣，文化體育及旅遊局局長羅淑佩回覆指，政府正研究以廟宇為核心串連各區具文化價值的歷史建築及古蹟，打造廟宇文化深度遊漫遊路線。旅發局已在旅遊資訊平台設立廟宇主題專頁，介紹黃大仙祠、志蓮淨苑及南蓮園池等景點，並針對泰國等客源市場宣傳。當局亦在黃大仙及鑽石山設置13支旅客指示標誌，黃大仙祠附近設有25個旅遊巴泊位，南蓮園池附近設有15個巴士泊位。",
+   "en": "A lawmaker asked about promoting the \"three religions in one\" cultural landmarks around Wong Tai Sin and Diamond Hill, and Secretary for Culture, Sports and Tourism Rosanna Law said the government is studying a temple-culture trail linking historic buildings and monuments across districts, with temples at its core. The Hong Kong Tourism Board has set up a temple-themed page on its travel platform introducing Wong Tai Sin Temple, Chi Lin Nunnery, Nan Lian Garden and other sites, and is promoting them in source markets such as Thailand. The authorities have also installed 13 visitor signposts in the two districts, with 25 coach parking spaces near Wong Tai Sin Temple and 15 bus spaces near Nan Lian Garden.",
+   "zh_hans": "议员关注黄大仙及钻石山一带「三教合一」文化景点的推广，文化体育及旅游局局长罗淑佩回复指，政府正研究以庙宇为核心串连各区具文化价值的历史建筑及古迹，打造庙宇文化深度游漫游路线。旅发局已在旅游资讯平台设立庙宇主题专页，介绍黄大仙祠、志莲净苑及南莲园池等景点，并针对泰国等客源市场宣传。当局亦在黄大仙及钻石山设置13支旅客指示标志，黄大仙祠附近设有25个旅游巴泊位，南莲园池附近设有15个巴士泊位。"
+  },
+  "tags": {
+   "zh_hant": [
+    "黃大仙",
+    "鑽石山",
+    "旅遊"
+   ],
+   "en": [
+    "Wong Tai Sin",
+    "Diamond Hill",
+    "Tourism"
+   ],
+   "zh_hans": [
+    "黄大仙",
+    "钻石山",
+    "旅游"
+   ]
+  }
+ },
+ {
+  "id": "20261111-contactless-e-channel-hzmb-expansion",
+  "category": "hk",
+  "published_at": "2026-11-11T12:26:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877372-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "入境處計劃擴展無感e-道至港珠澳大橋香港口岸",
+   "en": "Immigration Department plans to extend contactless e-Channel to Hong Kong-Zhuhai-Macao Bridge port",
+   "zh_hans": "入境处计划扩展无感e-道至港珠澳大桥香港口岸"
+  },
+  "summary": {
+   "zh_hant": "保安局局長鄧炳強書面回覆立法會質詢時表示，「無感e-道」推出以來運作暢順，入境處正計劃擴展服務至港珠澳大橋香港口岸入境大堂，並會探討推展至其他合適管制站，例如高鐵西九龍管制站。自推出至本月8日，已有逾7.9萬人登記使用，佔符合資格人士近八成，使用人次逾20萬。鄧炳強又指，港深雙方已達成共識，日後重建後的沙頭角口岸將採用「合作查驗、一次放行」通關模式。",
+   "en": "Secretary for Security Chris Tang told the Legislative Council in a written reply that the contactless e-Channel has run smoothly since its launch, and the Immigration Department plans to extend the service to the Hong Kong-Zhuhai-Macao Bridge Hong Kong Port arrival hall, and will explore rolling it out to other suitable control points such as the high-speed rail West Kowloon station. More than 79,000 people had registered by November 8, nearly 80 per cent of those eligible, with over 200,000 passages made. Tang added that Hong Kong and Shenzhen have agreed the rebuilt Sha Tau Kok port will adopt a \"co-operative inspection, single clearance\" model.",
+   "zh_hans": "保安局局长邓炳强书面回复立法会质询时表示，「无感e-道」推出以来运作畅顺，入境处正计划扩展服务至港珠澳大桥香港口岸入境大堂，并会探讨推展至其他合适管制站，例如高铁西九龙管制站。自推出至本月8日，已有逾7.9万人登记使用，占符合资格人士近八成，使用人次逾20万。邓炳强又指，港深双方已达成共识，日后重建后的沙头角口岸将采用「合作查验、一次放行」通关模式。"
+  },
+  "tags": {
+   "zh_hant": [
+    "無感e-道",
+    "港珠澳大橋",
+    "入境處"
+   ],
+   "en": [
+    "Contactless e-Channel",
+    "Hong Kong-Zhuhai-Macao Bridge",
+    "Immigration Department"
+   ],
+   "zh_hans": [
+    "无感e-道",
+    "港珠澳大桥",
+    "入境处"
+   ]
+  }
+ },
+ {
+  "id": "20261111-legco-arts-funding-reform",
+  "category": "hk",
+  "published_at": "2026-11-11T12:18:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100231.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "主要藝團資助制度改革　撥款與表現掛鈎　設五年過渡期",
+   "en": "Major arts groups face performance-linked funding under reform with five-year transition",
+   "zh_hans": "主要艺团资助制度改革　拨款与表现挂钩　设五年过渡期"
+  },
+  "summary": {
+   "zh_hant": "政府將改革主要演藝團體資助制度，引入與表現和藝術水平掛鈎的撥款及進出機制，設五年過渡期，由2027至28年度起逐步推行，至2032至33年度全面實行。20年間九個主要藝團年度撥款由約2.2億元倍增至約4.5億元，但購票觀眾由36萬人次跌至31萬人次，入座率由約77%降至69%。新機制下「基線資助金」佔比由約77%逐步下調至50%，餘下50%按非政府收入及關鍵績效指標計算；表現持續優秀的中型藝團可申請成為主要藝團，最快2031至32年度晉身。",
+   "en": "The government will reform funding for major performing arts groups, introducing performance- and artistic-standard-linked grants and an entry-and-exit mechanism, with a five-year transition from 2027-28 to full implementation in 2032-33. Annual funding for the nine major groups has more than doubled from about HK$220 million to HK$450 million over 20 years, while ticketed audiences fell from 360,000 to 310,000 and occupancy dropped from about 77 per cent to 69 per cent. Under the new system, baseline funding will gradually fall from about 77 per cent to 50 per cent of grants, with the rest tied to non-government income and key performance indicators; consistently strong medium-sized groups may apply to become major groups, the earliest in 2031-32.",
+   "zh_hans": "政府将改革主要演艺团体资助制度，引入与表现和艺术水平挂钩的拨款及进出机制，设五年过渡期，由2027至28年度起逐步推行，至2032至33年度全面实行。20年间九个主要艺团年度拨款由约2.2亿元倍增至约4.5亿元，但购票观众由36万人次跌至31万人次，入座率由约77%降至69%。新机制下「基线资助金」占比由约77%逐步下调至50%，余下50%按非政府收入及关键绩效指标计算；表现持续优秀的中型艺团可申请成为主要艺团，最快2031至32年度晋身。"
+  },
+  "tags": {
+   "zh_hant": [
+    "藝團資助",
+    "文化藝術",
+    "立法會"
+   ],
+   "en": [
+    "Arts funding",
+    "Culture and arts",
+    "Legislative Council"
+   ],
+   "zh_hans": [
+    "艺团资助",
+    "文化艺术",
+    "立法会"
+   ]
+  }
+ },
+ {
+  "id": "20261111-legco-veterinary-regulation",
+  "category": "hk",
+  "published_at": "2026-11-11T12:15:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100220.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "議員關注獸醫監管　五年無非法行醫檢控定罪",
+   "en": "Lawmaker flags veterinary regulation as no illegal-practice prosecutions recorded in five years",
+   "zh_hans": "议员关注兽医监管　五年无非法行医检控定罪"
+  },
+  "summary": {
+   "zh_hant": "議員關注有貓隻疑被非註冊人士施行絕育手術後死亡，署理環境及生態局局長黃淑嫻回覆指，警方正深入調查事件。過去五年獸醫管理局接獲涉及獸醫的投訴由2022年59宗增至2026年首九個月66宗，已完成研訊個案平均處理時間約九個月；同期接獲涉嫌非法提供獸醫服務舉報共23宗，五年內沒有根據《獸醫註冊條例》第16條提出檢控或定罪的個案。當局正探討設立獸醫助理註冊制度，並研究自願性登記方案。",
+   "en": "A lawmaker raised concerns after a cat reportedly died following neutering by an unregistered person, and acting Secretary for Environment and Ecology Alice Ng said police are investigating. Complaints received by the Veterinary Surgeons Board rose from 59 in 2022 to 66 in the first nine months of 2026, with completed disciplinary hearings taking about nine months on average. The board received 23 reports of suspected illegal veterinary services over the five years, with no prosecutions or convictions under section 16 of the Veterinary Surgeons Registration Ordinance. The authorities are exploring a registration system for veterinary assistants and studying a voluntary registration scheme.",
+   "zh_hans": "议员关注有猫只疑被非注册人士施行绝育手术后死亡，署理环境及生态局局长黄淑娴回复指，警方正深入调查事件。过去五年兽医管理局接获涉及兽医的投诉由2022年59宗增至2026年首九个月66宗，已完成研讯个案平均处理时间约九个月；同期接获涉嫌非法提供兽医服务举报共23宗，五年内没有根据《兽医注册条例》第16条提出检控或定罪的个案。当局正探讨设立兽医助理注册制度，并研究自愿性登记方案。"
+  },
+  "tags": {
+   "zh_hant": [
+    "獸醫",
+    "動物",
+    "立法會"
+   ],
+   "en": [
+    "Veterinarians",
+    "Animals",
+    "Legislative Council"
+   ],
+   "zh_hans": [
+    "兽医",
+    "动物",
+    "立法会"
+   ]
+  }
+ },
+ {
+  "id": "20261111-legco-food-surveillance-philippine-crabs",
+  "category": "society",
+  "published_at": "2026-11-11T12:15:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100202.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "菲律賓進口蟹兩度驗出鎘超標　食安中心扣檢涉事出口商產品",
+   "en": "Philippine crabs fail cadmium tests twice as food safety centre detains supplier's products",
+   "zh_hans": "菲律宾进口蟹两度验出镉超标　食安中心扣检涉事出口商产品"
+  },
+  "summary": {
+   "zh_hant": "食物安全中心過去一年抽取90個菲律賓進口水產品樣本，88個合格，兩個不合格樣本分別為藍蟹及紅蟹，鎘含量每百萬分之4.74及4.12，超出甲殼類動物每百萬分之2的法定上限。食安中心已指令進口商停售下架並追查來源，涉事蟹隻均為野生捕獲，現時在進口層面扣檢涉事出口商的藍蟹及紅蟹，待化驗結果滿意才放行。食安中心2025年共抽取約65,000個食物樣本。",
+   "en": "The Centre for Food Safety tested 90 samples of aquatic products imported from the Philippines over the past year, with 88 passing and two failing — a blue crab and a red crab with cadmium levels of 4.74 and 4.12 parts per million, above the legal limit of 2 ppm for crustaceans. The centre ordered the importer to stop sales and remove the products and traced their origin; both crabs were wild-caught, and the centre now detains blue and red crabs from the supplier at import until test results are satisfactory. The centre collected about 65,000 food samples in 2025.",
+   "zh_hans": "食物安全中心过去一年抽取90个菲律宾进口水产品样本，88个合格，两个不合格样本分别为蓝蟹及红蟹，镉含量每百万分之4.74及4.12，超出甲壳类动物每百万分之2的法定上限。食安中心已指令进口商停售下架并追查来源，涉事蟹只均为野生捕获，现时在进口层面扣检涉事出口商的蓝蟹及红蟹，待化验结果满意才放行。食安中心2025年共抽取约65,000个食物样本。"
+  },
+  "tags": {
+   "zh_hant": [
+    "食物安全",
+    "鎘",
+    "菲律賓"
+   ],
+   "en": [
+    "Food safety",
+    "Cadmium",
+    "Philippines"
+   ],
+   "zh_hans": [
+    "食物安全",
+    "镉",
+    "菲律宾"
+   ]
+  }
+ },
+ {
+  "id": "20261111-legco-wills-system",
+  "category": "society",
+  "published_at": "2026-11-11T12:10:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100280.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "議員倡設中央遺囑資料庫　政府：未必增法律保障",
+   "en": "Lawmaker proposes central wills registry; government says it may not add legal protection",
+   "zh_hans": "议员倡设中央遗嘱资料库　政府：未必增法律保障"
+  },
+  "summary": {
+   "zh_hant": "過去三年高等法院遺產承辦處完成處理的授予書申請分別為23,718宗、26,609宗及26,028宗，其中無遺囑個案佔大多數。民政事務總署遺產受益人支援組過去三年接獲確認通知書申請約5,400宗、4,800宗及4,800宗，平均處理時間約10個工作天。過去三年在銀行保管箱檢視中發現遺囑的比例僅約4%。民政及青年事務局表示，引入中央遺囑資料庫不一定能為繼承人提供額外法律保障，需進一步研究。",
+   "en": "The High Court Probate Registry completed 23,718 probate applications in 2023, 26,609 in 2024 and 26,028 in 2025, with intestate cases in the majority. The Home Affairs Department's Estate Beneficiaries Support Unit received about 5,400, 4,800 and 4,800 applications for confirmation notices over the three years, taking about 10 working days on average. Only about 4 per cent of safe-deposit box inspections over the past three years found a will. The Home and Youth Affairs Bureau said a central wills registry would not necessarily give beneficiaries extra legal protection and needs further study.",
+   "zh_hans": "过去三年高等法院遗产承办处完成处理的授予书申请分别为23,718宗、26,609宗及26,028宗，其中无遗嘱个案占大多数。民政事务总署遗产受益人支援组过去三年接获确认通知书申请约5,400宗、4,800宗及4,800宗，平均处理时间约10个工作天。过去三年在银行保管箱检视中发现遗嘱的比例仅约4%。民政及青年事务局表示，引入中央遗嘱资料库不一定能为继承人提供额外法律保障，需进一步研究。"
+  },
+  "tags": {
+   "zh_hant": [
+    "遺囑",
+    "遺產",
+    "立法會"
+   ],
+   "en": [
+    "Wills",
+    "Estates",
+    "Legislative Council"
+   ],
+   "zh_hans": [
+    "遗嘱",
+    "遗产",
+    "立法会"
+   ]
+  }
+ },
+ {
+  "id": "20261111-legco-gold-trading-market",
+  "category": "finance",
+  "published_at": "2026-11-11T11:58:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111000415.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "香港建國際黃金交易市場　結算系統明年首季正式啟用",
+   "en": "Hong Kong builds international gold trading market as clearing system goes live in early 2027",
+   "zh_hans": "香港建国际黄金交易市场　结算系统明年首季正式启用"
+  },
+  "summary": {
+   "zh_hant": "政府致力建立香港為國際黃金交易市場，香港黃金中央清算及結算系統今年7月開展試營運，由11家銀行作為臨時直接參與者，行政長官2026年《施政報告》宣布系統將於2027年第一季正式啟用。金管局正研究外匯基金適度增持黃金及參與香港現貨及期貨市場，並將現有黃金庫存逐步轉移至指定倉庫。政府亦已提交修例草案，擴大基金及單一家族辦公室優惠稅制的合資格投資範圍以包括貴金屬。",
+   "en": "The government is building Hong Kong into an international gold trading market, with the Hong Kong gold central clearing and settlement system starting trial operations in July with 11 banks as provisional direct participants; the 2026 Policy Address announced it will formally launch in the first quarter of 2027. The Hong Kong Monetary Authority is studying a measured increase in the Exchange Fund's gold holdings and participation in Hong Kong's spot and futures markets, and will gradually move its existing gold stock to designated vaults. The government has also tabled a bill to expand the eligible investments under fund and single family office tax concessions to include precious metals.",
+   "zh_hans": "政府致力建立香港为国际黄金交易市场，香港黄金中央清算及结算系统今年7月开展试营运，由11家银行作为临时直接参与者，行政长官2026年《施政报告》宣布系统将于2027年第一季正式启用。金管局正研究外汇基金适度增持黄金及参与香港现货及期货市场，并将现有黄金库存逐步转移至指定仓库。政府亦已提交修例草案，扩大基金及单一家族办公室优惠税制的合资格投资范围以包括贵金属。"
+  },
+  "tags": {
+   "zh_hant": [
+    "黃金",
+    "金管局",
+    "金融中心"
+   ],
+   "en": [
+    "Gold",
+    "HKMA",
+    "Financial centre"
+   ],
+   "zh_hans": [
+    "黄金",
+    "金管局",
+    "金融中心"
+   ]
+  }
+ },
+ {
+  "id": "20261111-commerce-africa-zero-tariff-five-year-plan",
+  "category": "china",
+  "published_at": "2026-11-11T11:30:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877366-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "商務部：十五五時期落實對非洲建交國全面實施零關稅",
+   "en": "Commerce Ministry: zero tariffs for all African countries with diplomatic ties during 15th Five-Year Plan",
+   "zh_hans": "商务部：十五五时期落实对非洲建交国全面实施零关税"
+  },
+  "summary": {
+   "zh_hant": "國家發改委舉行「奮進『十五五』」系列發布會，介紹共建「一帶一路」最新進展。自2013年以來，中國已與150多個國家及30多個國際組織簽署合作文件；2024年以來中國與共建國家貨物貿易額佔外貿總值比重穩定在50%以上，中歐班列累計開行逾14萬列。商務部表示，「十五五」時期將落實對非洲建交國全面實施零關稅，並給予與中國建交的最不發達國家零關稅待遇。",
+   "en": "The National Development and Reform Commission held a briefing on the 15th Five-Year Plan period, outlining the latest progress of the Belt and Road Initiative. Since 2013, China has signed co-operation documents with more than 150 countries and over 30 international organisations; since 2024, trade with Belt and Road partners has accounted for more than 50 per cent of China's total foreign trade, and China-Europe freight trains have made more than 140,000 trips. The Ministry of Commerce said that during the 15th Five-Year Plan period, China will implement zero tariffs for all African countries that have diplomatic relations with China, and extend zero-tariff treatment to least developed countries with diplomatic ties.",
+   "zh_hans": "国家发改委举行「奋进『十五五』」系列发布会，介绍共建「一带一路」最新进展。自2013年以来，中国已与150多个国家及30多个国际组织签署合作文件；2024年以来中国与共建国家货物贸易额占外贸总值比重稳定在50%以上，中欧班列累计开行逾14万列。商务部表示，「十五五」时期将落实对非洲建交国全面实施零关税，并给予与中国建交的最不发达国家零关税待遇。"
+  },
+  "tags": {
+   "zh_hant": [
+    "零關稅",
+    "非洲",
+    "十五五"
+   ],
+   "en": [
+    "Zero tariffs",
+    "Africa",
+    "15th Five-Year Plan"
+   ],
+   "zh_hans": [
+    "零关税",
+    "非洲",
+    "十五五"
+   ]
+  }
+ },
+ {
+  "id": "20261111-hkma-ia-ban-lim-ka-kit",
+  "category": "finance",
+  "published_at": "2026-11-11T11:15:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100247.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "保監局禁前銀行業務代表林嘉傑申請保險中介牌照九個月",
+   "en": "Insurance Authority bars former bank representative Lim Ka Kit from applying for intermediary licence for nine months",
+   "zh_hans": "保监局禁前银行业务代表林嘉杰申请保险中介牌照九个月"
+  },
+  "summary": {
+   "zh_hant": "保險業監管局與金管局採取聯合執法行動，禁止一間認可機構前業務代表林嘉傑申請保險中介人牌照九個月。金管局調查發現，林嘉傑透過電話銷售向八名客戶施壓，強迫他們在要求時間考慮的情況下購買醫療保險，並在兩次銷售中誘使客戶更改身高及體重資料以符合核保要求。保監局表示，個案彰顯合符道德銷售和公平待客的重要性。",
+   "en": "The Insurance Authority and the Hong Kong Monetary Authority have taken joint enforcement action, barring former authorised institution representative Lim Ka Kit from applying for an insurance intermediary licence for nine months. The HKMA's investigation found that Lim pressured eight customers by telephone into buying medical insurance even though they asked for time to consider, and in two sales induced customers to alter their height and weight information to meet underwriting requirements. The Insurance Authority said the case highlights the importance of ethical selling and fair treatment of customers.",
+   "zh_hans": "保险业监管局与金管局采取联合执法行动，禁止一间认可机构前业务代表林嘉杰申请保险中介人牌照九个月。金管局调查发现，林嘉杰透过电话销售向八名客户施压，强迫他们在要求时间考虑的情况下购买医疗保险，并在两次销售中诱使客户更改身高及体重资料以符合核保要求。保监局表示，个案彰显合符道德销售和公平待客的重要性。"
+  },
+  "tags": {
+   "zh_hant": [
+    "保監局",
+    "金管局",
+    "保險"
+   ],
+   "en": [
+    "Insurance Authority",
+    "HKMA",
+    "Insurance"
+   ],
+   "zh_hans": [
+    "保监局",
+    "金管局",
+    "保险"
+   ]
+  }
+ },
+ {
+  "id": "20261111-legco-hos-cash-compensation-redevelopment",
+  "category": "hk",
+  "published_at": "2026-11-11T11:08:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877363-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "議員倡以居屋加現金補償取代同區七年樓齡重建賠償",
+   "en": "Lawmaker suggests Home Ownership Scheme flat plus cash as alternative to seven-year flat compensation",
+   "zh_hans": "议员倡以居屋加现金补偿取代同区七年楼龄重建赔偿"
+  },
+  "summary": {
+   "zh_hant": "立法會地產及建造界代表黃浩明建議，可以考慮以一間居屋加上現金津貼作為市區重建賠償，現金賠償可參考市建局非住宅物業賠償，即現有價值再加35%。發展局正與市建局檢討「同區七年樓齡」現金收購機制及「樓換樓」安排，發展局局長甯漢豪早前表示，現行七年樓齡賠償很大機會不會維持，目標明年上半年提出具體建議並展開諮詢。",
+   "en": "Legislative Council member for the real estate and construction sector Wong Ho-ming suggested that urban renewal compensation could take the form of a Home Ownership Scheme flat plus a cash allowance, with the cash element based on the Urban Renewal Authority's compensation for non-domestic properties — existing value plus 35 per cent. The Development Bureau is reviewing the \"seven-year flat in the same district\" cash acquisition mechanism and flat-for-flat arrangements with the authority, and Secretary for Development Bernadette Linn has said the current seven-year compensation is very likely to change, with concrete proposals and consultation targeted for the first half of next year.",
+   "zh_hans": "立法会地产及建造界代表黄浩明建议，可以考虑以一间居屋加上现金津贴作为市区重建赔偿，现金赔偿可参考市建局非住宅物业赔偿，即现有价值再加35%。发展局正与市建局检讨「同区七年楼龄」现金收购机制及「楼换楼」安排，发展局局长甯汉豪早前表示，现行七年楼龄赔偿很大机会不会维持，目标明年上半年提出具体建议并展开咨询。"
+  },
+  "tags": {
+   "zh_hant": [
+    "市區重建",
+    "居屋",
+    "賠償"
+   ],
+   "en": [
+    "Urban renewal",
+    "Home Ownership Scheme",
+    "Compensation"
+   ],
+   "zh_hans": [
+    "市区重建",
+    "居屋",
+    "赔偿"
+   ]
+  }
+ },
+ {
+  "id": "20261111-hk-digital-ai-competitiveness-11th",
+  "category": "tech",
+  "published_at": "2026-11-11T11:00:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100168.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "香港數碼及人工智能競爭力排名全球第11位",
+   "en": "Hong Kong ranks 11th globally in digital and AI competitiveness",
+   "zh_hans": "香港数码及人工智能竞争力排名全球第11位"
+  },
+  "summary": {
+   "zh_hant": "國際管理發展學院今日發布《2026年世界數碼及人工智能排名》，香港在70個經濟體中排名全球第11位，亞洲第4位。香港在「勞動力發展」排名全球第2位、「效率」第5位、「科技與基礎設施」第10位，並在「技術框架」、「做法」及「教育與培訓」三個子因素排名全球第一。政府表示，沙嶺數據園區已動工，預計2032年或之前全面投入運作，算力將達每秒18萬千萬億次浮點運算，相當於現時本港算力36倍。",
+   "en": "The International Institute for Management Development today released its 2026 World Digital and AI Ranking, placing Hong Kong 11th among 70 economies and fourth in Asia. Hong Kong ranked second globally in workforce development, fifth in efficiency and tenth in technology and infrastructure, and first in the world in three sub-factors: technological framework, practices, and education and training. The government said the Sha Ling data park has broken ground and is expected to be fully operational by 2032 or earlier, delivering 180,000 PFLOPS of computing power — 36 times Hong Kong's current capacity.",
+   "zh_hans": "国际管理发展学院今日发布《2026年世界数码及人工智能排名》，香港在70个经济体中排名全球第11位，亚洲第4位。香港在「劳动力发展」排名全球第2位、「效率」第5位、「科技与基础设施」第10位，并在「技术框架」、「做法」及「教育与培训」三个子因素排名全球第一。政府表示，沙岭数据园区已动工，预计2032年或之前全面投入运作，算力将达每秒18万千万亿次浮点运算，相当于现时本港算力36倍。"
+  },
+  "tags": {
+   "zh_hant": [
+    "數碼競爭力",
+    "人工智能",
+    "創科"
+   ],
+   "en": [
+    "Digital competitiveness",
+    "Artificial intelligence",
+    "Innovation and technology"
+   ],
+   "zh_hans": [
+    "数码竞争力",
+    "人工智能",
+    "创科"
+   ]
+  }
+ },
+ {
+  "id": "20261111-bessent-us-china-ai-cooperation",
+  "category": "world",
+  "published_at": "2026-11-11T10:52:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877359-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "美財長：美中在人工智能領域尋求合作降風險　也爭取主導地位",
+   "en": "US Treasury chief: US and China seek AI co-operation to cut risks while vying for leadership",
+   "zh_hans": "美财长：美中在人工智能领域寻求合作降风险　也争取主导地位"
+  },
+  "summary": {
+   "zh_hant": "美國財長貝森特表示，美中兩國在人工智能問題上存在分歧，在尋求合作減輕技術風險的同時，兩國也在爭取人工智能領域的主導地位。貝森特下星期將隨同總統特朗普訪問中國，並與中國國家主席習近平會晤；下星期在深圳舉行的亞太經合組織領導人峰會期間，雙方將推動一項美中人工智能雙邊對話，以防範共同風險。雙方已同意建立直接溝通管道，以便在發生嚴重事件時相互通報。",
+   "en": "US Treasury Secretary Scott Bessent said the United States and China have differences over artificial intelligence, seeking co-operation to reduce technological risks while also competing for leadership in the field. Bessent will accompany President Donald Trump on a visit to China next week and meet Chinese President Xi Jinping; during the APEC leaders' summit in Shenzhen next week, the two sides will advance a bilateral AI dialogue to guard against shared risks. The two sides have agreed to set up a direct communication channel so they can notify each other in the event of a serious incident.",
+   "zh_hans": "美国财长贝森特表示，美中两国在人工智能问题上存在分歧，在寻求合作减轻技术风险的同时，两国也在争取人工智能领域的主导地位。贝森特下星期将随同总统特朗普访问中国，并与中国国家主席习近平会晤；下星期在深圳举行的亚太经合组织领导人峰会期间，双方将推动一项美中人工智能双边对话，以防范共同风险。双方已同意建立直接沟通管道，以便在发生严重事件时相互通报。"
+  },
+  "tags": {
+   "zh_hant": [
+    "貝森特",
+    "人工智能",
+    "美中關係"
+   ],
+   "en": [
+    "Scott Bessent",
+    "Artificial intelligence",
+    "US-China relations"
+   ],
+   "zh_hans": [
+    "贝森特",
+    "人工智能",
+    "美中关系"
+   ]
+  }
+ },
+ {
   "id": "20261111-northern-link-main-branch-merged-2034",
   "category": "hk",
   "published_at": "2026-11-11T10:37:00+08:00",
