@@ -1,5 +1,449 @@
 [
  {
+  "id": "20261111-kospi-up-2-6pct-close-5375",
+  "category": "finance",
+  "published_at": "2026-11-11T14:43:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877391-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "韓股高收2.6%　以近全日高位收市",
+   "en": "South Korean stocks close up 2.6 per cent near the day's high",
+   "zh_hans": "韩股高收2.6%　以近全日高位收市"
+  },
+  "summary": {
+   "zh_hant": "韓國股市低開高走，升幅持續擴大，以近全日高位收市。首爾綜合指數收報5,375點，升136點，升幅2.6%，連升兩日。",
+   "en": "South Korean shares opened lower but climbed through the session, closing near the day's high. The KOSPI ended at 5,375 points, up 136 points or 2.6 per cent, rising for a second straight day.",
+   "zh_hans": "韩国股市低开高走，升幅持续扩大，以近全日高位收市。首尔综合指数收报5,375点，升136点，升幅2.6%，连升两日。"
+  },
+  "tags": {
+   "zh_hant": [
+    "韓股",
+    "首爾綜合指數",
+    "股市"
+   ],
+   "en": [
+    "KOSPI",
+    "South Korean stocks",
+    "Stock markets"
+   ],
+   "zh_hans": [
+    "韩股",
+    "首尔综合指数",
+    "股市"
+   ]
+  }
+ },
+ {
+  "id": "20261111-nikkei-up-1-3pct-third-straight-gain",
+  "category": "finance",
+  "published_at": "2026-11-11T14:41:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877388-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "日股高收1.3%　連升三日",
+   "en": "Japanese stocks close up 1.3 per cent for a third straight day of gains",
+   "zh_hans": "日股高收1.3%　连升三日"
+  },
+  "summary": {
+   "zh_hant": "日股早段窄幅上落，其後顯著向上，日經指數最多升逾930點，收報61,248點，升789點，升幅1.3%，連升三日。",
+   "en": "Japanese shares traded in a narrow range early before pushing sharply higher, with the Nikkei rising more than 930 points at one stage to close at 61,248, up 789 points or 1.3 per cent, for a third consecutive day of gains.",
+   "zh_hans": "日股早段窄幅上落，其后显著向上，日经指数最多升逾930点，收报61,248点，升789点，升幅1.3%，连升三日。"
+  },
+  "tags": {
+   "zh_hant": [
+    "日股",
+    "日經指數",
+    "股市"
+   ],
+   "en": [
+    "Nikkei",
+    "Japanese stocks",
+    "Stock markets"
+   ],
+   "zh_hans": [
+    "日股",
+    "日经指数",
+    "股市"
+   ]
+  }
+ },
+ {
+  "id": "20261111-fsdc-patient-capital-southbound-bond-connect",
+  "category": "finance",
+  "published_at": "2026-11-11T14:38:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877390-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "金發局倡內地退休基金納入債券通「南向通」　吸引耐心資本",
+   "en": "FSDC proposes bringing mainland pension funds into Bond Connect's southbound leg to attract patient capital",
+   "zh_hans": "金发局倡内地退休基金纳入债券通「南向通」　吸引耐心资本"
+  },
+  "summary": {
+   "zh_hant": "金融發展局發表有關吸引耐心資本的研究報告，建議將內地退休基金納入債券通「南向通」。副主席丁晨表示，養老基金投資取態比保險資金更保守，偏好固定收益及債券類產品，考慮到境外債券息率較高，相信能增加基金收益。截至今年第三季，內地保險業總資產約44.6萬億元人民幣。金發局又建議推動私募股權及風險投資發展，亞洲家族辦公室對私募股權的配置比例普遍約5%，遠低於西方20%或以上水平。",
+   "en": "The Financial Services Development Council has published a report on attracting patient capital, proposing that mainland pension funds be included in Bond Connect's southbound channel. Vice-chairman Ding Chen said pension funds invest more conservatively than insurers and favour fixed-income and bond products, and higher offshore bond yields could lift their returns. Mainland insurers held total assets of about 44.6 trillion yuan as of the third quarter. The council also proposed developing private equity and venture capital; Asian family offices typically allocate only about 5 per cent to private equity, far below the 20 per cent or more seen in the West.",
+   "zh_hans": "金融发展局发表有关吸引耐心资本的研究报告，建议将内地退休基金纳入债券通「南向通」。副主席丁晨表示，养老基金投资取态比保险资金更保守，偏好固定收益及债券类产品，考虑到境外债券息率较高，相信能增加基金收益。截至今年第三季，内地保险业总资产约44.6万亿元人民币。金发局又建议推动私募股权及风险投资发展，亚洲家族办公室对私募股权的配置比例普遍约5%，远低于西方20%或以上水平。"
+  },
+  "tags": {
+   "zh_hant": [
+    "金發局",
+    "耐心資本",
+    "債券通"
+   ],
+   "en": [
+    "FSDC",
+    "Patient capital",
+    "Bond Connect"
+   ],
+   "zh_hans": [
+    "金发局",
+    "耐心资本",
+    "债券通"
+   ]
+  }
+ },
+ {
+  "id": "20261111-legco-fdh-job-hopping-investigations",
+  "category": "hk",
+  "published_at": "2026-11-11T14:35:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100283.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "外傭疑「跳槽」三年調查3,303宗　455宗申請被拒",
+   "en": "Suspected foreign domestic helper job-hopping cases probed 3,303 times in three years as 455 applications refused",
+   "zh_hans": "外佣疑「跳槽」三年调查3,303宗　455宗申请被拒"
+  },
+  "summary": {
+   "zh_hant": "立法會議員黃浩明關注外傭提早解約問題，勞工及福利局局長孫玉菡書面回覆指，入境處2013年6月成立專責小組，加強審核頻繁轉換僱主的外傭就業簽證申請。過去三年截至今年10月，專責小組調查疑似「跳槽」申請3,303宗，其中455宗最終被拒，259宗由申請人撤回或無法跟進；按年分，2024年調查1,183宗、拒批266宗，2025年1,218宗、93宗，今年截至10月902宗、96宗。入境處無按國籍分項的統計。勞工處2024年5月修訂《職業介紹所實務守則》，要求中介清楚列明外傭提早解約時會否退款、安排替工及會否收額外費用，違規可被撤銷或拒續牌照。",
+   "en": "Legislative Council member Augustine Wong raised concerns about foreign domestic helpers ending contracts early, and Secretary for Labour and Welfare Chris Sun said in a written reply that the Immigration Department set up a special duties team in June 2013 to scrutinise visa applications from helpers who change employers frequently. Over the past three years to October 2026, the team investigated 3,303 suspected job-hopping applications, of which 455 were eventually refused and 259 were withdrawn by applicants or could not be followed up. By year, 1,183 cases were investigated in 2024 with 266 refusals, 1,218 with 93 refusals in 2025, and 902 with 96 refusals in 2026 to October. The department keeps no breakdown by nationality. The Labour Department revised its Code of Practice for Employment Agencies in May 2024, requiring agencies to state clearly whether they will refund fees, arrange a replacement or charge extra when a helper ends a contract early; breaches can lead to licence revocation or refusal to renew.",
+   "zh_hans": "立法会议员黄浩明关注外佣提早解约问题，劳工及福利局局长孙玉菡书面回复指，入境处2013年6月成立专责小组，加强审核频繁转换雇主的外佣就业签证申请。过去三年截至今年10月，专责小组调查疑似「跳槽」申请3,303宗，其中455宗最终被拒，259宗由申请人撤回或无法跟进；按年分，2024年调查1,183宗、拒批266宗，2025年1,218宗、93宗，今年截至10月902宗、96宗。入境处无按国籍分项的统计。劳工处2024年5月修订《职业介绍所实务守则》，要求中介清楚列明外佣提早解约时会否退款、安排替工及会否收额外费用，违规可被撤销或拒续牌照。"
+  },
+  "tags": {
+   "zh_hant": [
+    "外傭",
+    "跳槽",
+    "立法會"
+   ],
+   "en": [
+    "Foreign domestic helpers",
+    "Job-hopping",
+    "Legislative Council"
+   ],
+   "zh_hans": [
+    "外佣",
+    "跳槽",
+    "立法会"
+   ]
+  }
+ },
+ {
+  "id": "20261111-dgca-airline-safety-symposium-zhoushan",
+  "category": "hk",
+  "published_at": "2026-11-11T14:30:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100225.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/11/P2026111100225_photo_1343450.jpg",
+  "title": {
+   "zh_hant": "民航處處長率團出席舟山航空營運安全研討會",
+   "en": "Civil aviation chief leads delegation to airline safety symposium in Zhoushan",
+   "zh_hans": "民航处处长率团出席舟山航空营运安全研讨会"
+  },
+  "summary": {
+   "zh_hant": "民航處處長昨日（11月10日）率領民航處代表團，出席在舟山舉行的第11屆航空營運安全研討會。研討會為期兩日，是美中航空合作項目倡議之一，今年主題為維修安全及品質管制，逾200名來自監管機構、飛機及部件製造商、維修機構及業界的代表出席。中國民用航空局總工程師及澳門民航局局長亦有出席。民航處處長在主題演講表示，香港飛機維修團隊經驗豐富，會繼續與民航局及其他民航當局保持緊密合作，並配合國家「十五五」規劃綱要。",
+   "en": "The Director-General of Civil Aviation yesterday (November 10) led a Civil Aviation Department delegation to the 11th Airline Operations Safety Symposium in Zhoushan. The two-day symposium is one of the initiatives under the US-China Aviation Cooperation Program, with this year's theme on maintenance safety and quality control, and more than 200 representatives from regulators, aircraft and component manufacturers, maintenance organisations and the industry attended. Chief Engineer Zhu Weimin of the Civil Aviation Administration of China and President Stanley Pun of the Macao Civil Aviation Authority also attended. The Director-General said in a keynote speech that Hong Kong's aircraft maintenance teams are highly experienced and will continue working closely with the mainland administration and other civil aviation authorities in line with the national 15th Five-Year Plan.",
+   "zh_hans": "民航处处长昨日（11月10日）率领民航处代表团，出席在舟山举行的第11届航空营运安全研讨会。研讨会为期两日，是美中航空合作项目倡议之一，今年主题为维修安全及品质管制，逾200名来自监管机构、飞机及部件制造商、维修机构及业界的代表出席。中国民用航空局总工程师朱伟民及澳门民航局局长潘华健亦有出席。民航处处长在主题演讲表示，香港飞机维修团队经验丰富，会继续与民航局及其他民航当局保持紧密合作，并配合国家「十五五」规划纲要。"
+  },
+  "tags": {
+   "zh_hant": [
+    "民航處",
+    "航空安全",
+    "舟山"
+   ],
+   "en": [
+    "Civil Aviation Department",
+    "Aviation safety",
+    "Zhoushan"
+   ],
+   "zh_hans": [
+    "民航处",
+    "航空安全",
+    "舟山"
+   ]
+  }
+ },
+ {
+  "id": "20261111-ce-joint-business-community-luncheon-speech",
+  "category": "hk",
+  "published_at": "2026-11-11T14:16:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100407.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/11/P2026111100407_photo_1343523.jpg",
+  "title": {
+   "zh_hant": "特首商界午餐會演說　首三季GDP升5.1%　五年同期最快",
+   "en": "Chief Executive tells business luncheon Hong Kong's GDP grew 5.1 per cent in the first three quarters, fastest in five years",
+   "zh_hans": "特首商界午餐会演说　首三季GDP升5.1%　五年同期最快"
+  },
+  "summary": {
+   "zh_hant": "行政長官李家超今日在商界聯席午餐會演說，現場約380人，代表5個本地商會及17個國際商會。李家超表示，香港經濟由負增長3.7%轉為去年正增長3.6%，今年首三季本地生產總值按年升5.1%，是五年同期最快；過去四年貨物出口升逾26%，每月就業收入中位數累計升20%。香港繼續是全球經濟自由度第一、人才競爭力第四，今年成為全球最大跨境財富管理中心、全球競爭力第二及全球三大金融中心之一。高端人才通行證計劃截至9月已批出逾145,000宗申請；香港有5間大學列全球首100名、3間列亞洲首五名。演說圍繞9月中公布的香港首份五年規劃「四中心一樞紐」，即國際金融、航運、貿易、創新科技中心及國際高端人才集聚高地。",
+   "en": "Chief Executive John Lee addressed the Joint Business Community Luncheon today, attended by about 380 people representing five local chambers and 17 international chambers. Lee said Hong Kong's economy had turned from a 3.7 per cent contraction to 3.6 per cent growth last year, and GDP rose 5.1 per cent year on year in the first three quarters of this year — the fastest for the period in five years. Goods exports are up more than 26 per cent over the past four years, while median monthly employment earnings have climbed a cumulative 20 per cent. Hong Kong remains first in the world for economic freedom and fourth for talent competitiveness, and this year became the world's largest cross-boundary wealth management centre, second in global competitiveness and one of the world's top three financial centres. The Top Talent Pass Scheme had approved more than 145,000 applications as of September, and Hong Kong has five universities among the world's top 100 and three among Asia's top five. The speech centred on Hong Kong's first Five-Year Plan, published in mid-September, built around four centres and one hub: international finance, shipping, trade, innovation and technology, and a hub for high-calibre talent.",
+   "zh_hans": "行政长官李家超今日在商界联席午餐会演说，现场约380人，代表5个本地商会及17个国际商会。李家超表示，香港经济由负增长3.7%转为去年正增长3.6%，今年首三季本地生产总值按年升5.1%，是五年同期最快；过去四年货物出口升逾26%，每月就业收入中位数累计升20%。香港继续是全球经济自由度第一、人才竞争力第四，今年成为全球最大跨境财富管理中心、全球竞争力第二及全球三大金融中心之一。高端人才通行证计划截至9月已批出逾145,000宗申请；香港有5间大学列全球首100名、3间列亚洲首五名。演说围绕9月中公布的香港首份五年规划「四中心一枢纽」，即国际金融、航运、贸易、创新科技中心及国际高端人才集聚高地。"
+  },
+  "tags": {
+   "zh_hant": [
+    "李家超",
+    "商界",
+    "五年規劃"
+   ],
+   "en": [
+    "John Lee",
+    "Business community",
+    "Five-Year Plan"
+   ],
+   "zh_hans": [
+    "李家超",
+    "商界",
+    "五年规划"
+   ]
+  }
+ },
+ {
+  "id": "20261111-linn-construction-key-process-photo-rules",
+  "category": "hk",
+  "published_at": "2026-11-11T14:00:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877387-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "收緊關鍵工序規管　承建商須拍片交屋宇署　明年1月實施",
+   "en": "Contractors to photograph key construction steps for Buildings Department as rules tighten from January",
+   "zh_hans": "收紧关键工序规管　承建商须拍片交屋宇署　明年1月实施"
+  },
+  "summary": {
+   "zh_hant": "赤柱ONE STANLEY獨立屋被發現部分鋼絲網及鋼筋配置與圖則不符，有關不符之處從未向屋宇署報告，發展局局長甯漢豪表示會就檢控工作徵詢律政司，屋宇署已勒令抽查同一屋苑另外15間獨立屋及6座住宅。甯漢豪表示，正準備進一步收緊關鍵工序規管，包括日後灌注混凝土前，承建商須拍攝照片或影片並提交予屋宇署，現正諮詢業界，計劃明年1月或之前落實，相信要求將所有紀錄提交屋宇署，對業界有一定阻嚇作用。另外，港鐵東涌延綫東涌西站月台層部分支柱石屎懷疑未有灌到頂，甯漢豪表示事件正反映監察及抽查機制發揮作用。",
+   "en": "Part of the steel mesh and reinforcement at a detached house in Stanley's ONE STANLEY development was found to deviate from the approved plans, and the discrepancy was never reported to the Buildings Department. Secretary for Development Bernadette Linn said she will seek legal advice on prosecution, and the department has ordered checks on 15 other detached houses and six residential blocks in the same development. Linn said the government is preparing to tighten regulation of key construction steps, requiring contractors to photograph or film work such as concrete pouring and submit the records to the Buildings Department. Industry consultation is under way, with implementation targeted by January next year, and she believes the requirement will deter the industry. She added that the discovery of suspected incomplete concrete pouring in some platform-level columns at MTR's Tung Chung West Station shows the monitoring and spot-check system is working.",
+   "zh_hans": "赤柱ONE STANLEY独立屋被发现部分钢丝网及钢筋配置与图则不符，有关不符之处从未向屋宇署报告，发展局局长甯汉豪表示会就检控工作征询律政司，屋宇署已勒令抽查同一屋苑另外15间独立屋及6座住宅。甯汉豪表示，正准备进一步收紧关键工序规管，包括日后灌注混凝土前，承建商须拍摄照片或影片并提交予屋宇署，现正咨询业界，计划明年1月或之前落实，相信要求将所有纪录提交屋宇署，对业界有一定阻吓作用。另外，港铁东涌延线东涌西站月台层部分支柱石屎怀疑未有灌到顶，甯汉豪表示事件正反映监察及抽查机制发挥作用。"
+  },
+  "tags": {
+   "zh_hant": [
+    "建築工程",
+    "屋宇署",
+    "甯漢豪"
+   ],
+   "en": [
+    "Construction works",
+    "Buildings Department",
+    "Bernadette Linn"
+   ],
+   "zh_hans": [
+    "建筑工程",
+    "屋宇署",
+    "甯汉豪"
+   ]
+  }
+ },
+ {
+  "id": "20261111-taiwan-stocks-up-near-4pct-third-day",
+  "category": "finance",
+  "published_at": "2026-11-11T13:50:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877383-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "台股連升三日　高收近4%",
+   "en": "Taiwan stocks close up nearly 4 per cent for a third straight day",
+   "zh_hans": "台股连升三日　高收近4%"
+  },
+  "summary": {
+   "zh_hant": "台灣股市高收近4%，加權指數報44,257點，升1,545點，升幅3.62%，連升三日。",
+   "en": "Taiwan shares closed nearly 4 per cent higher, with the weighted index at 44,257 points, up 1,545 points or 3.62 per cent, for a third consecutive day of gains.",
+   "zh_hans": "台湾股市高收近4%，加权指数报44,257点，升1,545点，升幅3.62%，连升三日。"
+  },
+  "tags": {
+   "zh_hant": [
+    "台股",
+    "加權指數",
+    "股市"
+   ],
+   "en": [
+    "Taiwan stocks",
+    "Weighted index",
+    "Stock markets"
+   ],
+   "zh_hans": [
+    "台股",
+    "加权指数",
+    "股市"
+   ]
+  }
+ },
+ {
+  "id": "20261111-li-ka-shing-histotripsy-kidney-cancer-trials",
+  "category": "society",
+  "published_at": "2026-11-11T13:48:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877385-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "李嘉誠向三院供30個臨床試驗名額　推動組織碎化技術治腎癌",
+   "en": "Li Ka Shing funds 30 clinical trial places at three hospitals to advance histotripsy kidney cancer treatment",
+   "zh_hans": "李嘉诚向三院供30个临床试验名额　推动组织碎化技术治肾癌"
+  },
+  "summary": {
+   "zh_hant": "李嘉誠基金會宣布，李嘉誠將向香港中文大學醫院、港怡醫院及養和醫院提供30個臨床試驗名額，令香港成為亞洲首個推行組織碎化技術腎臟癌臨床試驗的城市。基金會表示，過去兩年在香港已順利治療超過400名病人。港怡醫院和中大醫院正以組織碎化技術進行胰臟癌臨床試驗，港怡自今年3月31日起已完成20宗胰臟腫瘤個案，中大醫院自今年6月3日起完成6宗。",
+   "en": "The Li Ka Shing Foundation has announced that Li Ka Shing will fund 30 clinical trial places at the Chinese University of Hong Kong Hospital, Gleneagles Hospital and Hong Kong Sanatorium & Hospital, making Hong Kong the first city in Asia to run histotripsy clinical trials for kidney cancer. The foundation said more than 400 patients have been treated successfully in Hong Kong over the past two years. Gleneagles and the Chinese University hospital are also running pancreatic cancer trials using histotripsy, with 20 pancreatic tumour cases completed at Gleneagles since March 31 this year and six at the Chinese University hospital since June 3.",
+   "zh_hans": "李嘉诚基金会宣布，李嘉诚将向香港中文大学医院、港怡医院及养和医院提供30个临床试验名额，令香港成为亚洲首个推行组织碎化技术肾脏癌临床试验的城市。基金会表示，过去两年在香港已顺利治疗超过400名病人。港怡医院和中大医院正以组织碎化技术进行胰脏癌临床试验，港怡自今年3月31日起已完成20宗胰脏肿瘤个案，中大医院自今年6月3日起完成6宗。"
+  },
+  "tags": {
+   "zh_hant": [
+    "李嘉誠",
+    "組織碎化技術",
+    "腎癌"
+   ],
+   "en": [
+    "Li Ka Shing",
+    "Histotripsy",
+    "Kidney cancer"
+   ],
+   "zh_hans": [
+    "李嘉诚",
+    "组织碎化技术",
+    "肾癌"
+   ]
+  }
+ },
+ {
+  "id": "20261111-sim-card-real-name-registration-tightened",
+  "category": "hk",
+  "published_at": "2026-11-11T13:35:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877382-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "實名登記電話卡擬收緊　每人每電訊商上限由10張減至3張",
+   "en": "SIM card registration to tighten as cap falls from 10 to three prepaid cards per operator",
+   "zh_hans": "实名登记电话卡拟收紧　每人每电讯商上限由10张减至3张"
+  },
+  "summary": {
+   "zh_hant": "電話智能卡實名登記制2023年2月全面實施，商務及經濟發展局局長丘應樺表示，截至今年9月底，電訊商已攔截超過1.8萬個本地及非本地電話號碼。政府建議將個人用戶可登記的電話儲值卡數量上限，由現時每人可向每間電訊商最多登記10張，大幅減少至3張；根據電訊商數據分析，約98%個人用戶每間電訊商登記不多於3張儲值卡。政府亦建議將若干不正當使用已登記電話卡的行為刑事化，例如在沒有合法權限或合理辯解下，提供個人資料用作登記他人的電話智能卡，計劃未來數月諮詢公眾和業界意見。",
+   "en": "The real-name registration system for SIM cards took full effect in February 2023, and Secretary for Commerce and Economic Development Algernon Yau said telecom operators had intercepted more than 18,000 local and overseas phone numbers by the end of September this year. The government proposes cutting the cap on prepaid SIM cards an individual may register with each operator from 10 to three; operator data shows about 98 per cent of individual users register no more than three prepaid cards with any one operator. The government also proposes criminalising certain improper uses of registered SIM cards, such as providing personal data to register a card for someone else without lawful authority or reasonable excuse, and plans to consult the public and the industry in the coming months.",
+   "zh_hans": "电话智能卡实名登记制2023年2月全面实施，商务及经济发展局局长丘应桦表示，截至今年9月底，电讯商已拦截超过1.8万个本地及非本地电话号码。政府建议将个人用户可登记的电话储值卡数量上限，由现时每人可向每间电讯商最多登记10张，大幅减少至3张；根据电讯商数据分析，约98%个人用户每间电讯商登记不多于3张储值卡。政府亦建议将若干不正当使用已登记电话卡的行为刑事化，例如在没有合法权限或合理辩解下，提供个人资料用作登记他人的电话智能卡，计划未来数月咨询公众和业界意见。"
+  },
+  "tags": {
+   "zh_hant": [
+    "電話卡",
+    "實名登記",
+    "詐騙"
+   ],
+   "en": [
+    "SIM cards",
+    "Real-name registration",
+    "Fraud"
+   ],
+   "zh_hans": [
+    "电话卡",
+    "实名登记",
+    "诈骗"
+   ]
+  }
+ },
+ {
+  "id": "20261111-housing-authority-hos-mortgage-95pct-newborns",
+  "category": "hk",
+  "published_at": "2026-11-11T13:18:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877378-20261111.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "據悉下期居屋起白表新生嬰家庭按揭可升至95%",
+   "en": "White-form families with newborns may borrow up to 95 per cent on next Home Ownership Scheme sale, sources say",
+   "zh_hans": "据悉下期居屋起白表新生婴家庭按揭可升至95%"
+  },
+  "summary": {
+   "zh_hant": "房委會資助房屋小組委員會星期五開會，據了解將討論施政報告建議，由下期居屋銷售計劃起，將有新生嬰兒白表家庭申請者的最高按揭成數由90%提升至95%，與綠表申請者看齊，減少首期負擔；凡在相關居屋銷售計劃申請截止當日，申請表上有3歲或以下子女的家庭均可受惠。據悉會議亦會討論將2022年至2025年期間首次推售的資助出售單位轉讓限制年期由15年縮短至10年，涉及35,000個單位。如措施獲通過，房屋局將發出公告，並在相關單位的土地登記冊加入適當備註。",
+   "en": "The Housing Authority's Subsidised Housing Committee meets on Friday and is understood to be considering a Policy Address proposal to raise the maximum mortgage ratio for white-form families with newborns from 90 to 95 per cent, in line with green-form applicants, from the next Home Ownership Scheme sale, easing the down-payment burden. Families with children aged three or under on the application closing date would benefit. The meeting is also expected to discuss shortening the resale restriction on subsidised sale flats first sold between 2022 and 2025 from 15 to 10 years, covering 35,000 flats. If approved, the Housing Bureau will issue a notice and add appropriate remarks to the land register of the flats concerned.",
+   "zh_hans": "房委会资助房屋小组委员会星期五开会，据了解将讨论施政报告建议，由下期居屋销售计划起，将有新生婴儿白表家庭申请者的最高按揭成数由90%提升至95%，与绿表申请者看齐，减少首期负担；凡在相关居屋销售计划申请截止当日，申请表上有3岁或以下子女的家庭均可受惠。据悉会议亦会讨论将2022年至2025年期间首次推售的资助出售单位转让限制年期由15年缩短至10年，涉及35,000个单位。如措施获通过，房屋局将发出公告，并在相关单位的土地登记册加入适当备注。"
+  },
+  "tags": {
+   "zh_hant": [
+    "居屋",
+    "按揭",
+    "房委會"
+   ],
+   "en": [
+    "Home Ownership Scheme",
+    "Mortgage",
+    "Housing Authority"
+   ],
+   "zh_hans": [
+    "居屋",
+    "按揭",
+    "房委会"
+   ]
+  }
+ },
+ {
+  "id": "20261111-sexual-offences-bill-gazette-friday",
+  "category": "society",
+  "published_at": "2026-11-11T12:57:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100243.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "性罪行修例草案周五刊憲　新增針對兒童重複性侵罪行",
+   "en": "Sexual offences amendment bill to be gazetted on Friday with new offence for repeated abuse of children",
+   "zh_hans": "性罪行修例草案周五刊宪　新增针对儿童重复性侵罪行"
+  },
+  "summary": {
+   "zh_hant": "政府將於星期五（11月13日）刊憲《2026年性罪行法例（修訂）條例草案》，11月25日提交立法會作首讀及二讀，目標在本屆政府任期內完成立法，進一步加強保護性罪行受害人及令法例與時並進。現行不少性罪行條文源自1956年英格蘭法例，存在性別特定、性傾向區分、男女處理不一致、刑罰與嚴重性不相稱及用語過時等問題。政府7月7日諮詢立法會保安事務委員會獲全力支持，7月7日至8月5日公眾諮詢共收到6,228份書面意見，其中99.3%、即6,182份表示支持及正面評價。修例建議包括新增針對長期及重複性侵犯兒童的罪行，以及將「網絡露體」刑事化。",
+   "en": "The government will gazette the Sexual Offences Legislation (Amendment) Bill 2026 on Friday (November 13) and introduce it into the Legislative Council for first and second readings on November 25, aiming to complete the legislative exercise within the current term of government, to better protect victims of sexual offences and modernise the law. Many current sexual offence provisions are based on English laws enacted in 1956, with problems including gender-specific offences, distinctions based on sexual orientation, inconsistent treatment across genders, penalties not fully commensurate with the gravity of the acts, and outdated terminology. The government consulted the Legislative Council's Panel on Security on July 7 and received its full support, and a one-month public consultation from July 7 to August 5 drew 6,228 written submissions, of which 99.3 per cent — 6,182 submissions — expressed support and positive comments. The proposals include a new offence targeting prolonged and repeated sexual abuse of children, and criminalising cyberflashing.",
+   "zh_hans": "政府将于星期五（11月13日）刊宪《2026年性罪行法例（修订）条例草案》，11月25日提交立法会作首读及二读，目标在本届政府任期内完成立法，进一步加强保护性罪行受害人及令法例与时并进。现行不少性罪行条文源自1956年英格兰法例，存在性别特定、性倾向区分、男女处理不一致、刑罚与严重性不相称及用语过时等问题。政府7月7日咨询立法会保安事务委员会获全力支持，7月7日至8月5日公众咨询共收到6,228份书面意见，其中99.3%、即6,182份表示支持及正面评价。修例建议包括新增针对长期及重复性侵犯儿童的罪行，以及将「网络露体」刑事化。"
+  },
+  "tags": {
+   "zh_hant": [
+    "性罪行",
+    "立法",
+    "兒童保護"
+   ],
+   "en": [
+    "Sexual offences",
+    "Legislation",
+    "Child protection"
+   ],
+   "zh_hans": [
+    "性罪行",
+    "立法",
+    "儿童保护"
+   ]
+  }
+ },
+ {
   "id": "20261111-legco-ohca-aed-survival-rates",
   "category": "hk",
   "published_at": "2026-11-11T12:48:00+08:00",
