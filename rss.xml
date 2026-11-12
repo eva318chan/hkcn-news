@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>中港新聞速報</title><link>https://hkcn-news.vercel.app</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Thu, 12 Nov 2026 06:47:40 +0800</lastBuildDate>
+<title>中港新聞速報</title><link>https://hkcn-news.vercel.app</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Thu, 12 Nov 2026 08:42:58 +0800</lastBuildDate>
+<item>
+<title>韓股初段微跌</title>
+<link>https://hkcn-news.vercel.app/a/20261112-kospi-early-slight-down.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261112-kospi-early-slight-down.html</guid>
+<pubDate>Thu, 12 Nov 2026 08:18:00 +0800</pubDate>
+<description>韓國股市在開市初段微跌。首爾綜合指數較早時報5361點，跌14點，跌幅0.27%。</description>
+</item>
+<item>
+<title>日股初段偏軟</title>
+<link>https://hkcn-news.vercel.app/a/20261112-nikkei-early-soft.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261112-nikkei-early-soft.html</guid>
+<pubDate>Thu, 12 Nov 2026 08:18:00 +0800</pubDate>
+<description>日本股市在開市初段偏軟。日經平均指數較早時報61090點，跌158點，跌幅0.26%。</description>
+</item>
+<item>
+<title>美媒指黃仁勳涉及另一宗婚外情　Nvidia擬罷免其職務</title>
+<link>https://hkcn-news.vercel.app/a/20261112-huang-board-remove-second-affair.html</link>
+<guid>https://hkcn-news.vercel.app/a/20261112-huang-board-remove-second-affair.html</guid>
+<pubDate>Thu, 12 Nov 2026 07:25:00 +0800</pubDate>
+<description>《華爾街日報》引述知情人士報道，Nvidia董事會正準備罷免行政總裁黃仁勳，計劃最早於星期三召開會議，決定黃仁勳的去留問題。較早前《紐約時報》報道，黃仁勳曾與一名向其匯報工作的高層發生婚外情，對方是Nvidia負責醫療業務的一名副總裁，報道引述五名公司員工的說法。黃仁勳早前承認有婚外情，報道指對象為一名中國籍女商人。</description>
+</item>
 <item>
 <title>港股ADR普遍較本港收市下跌　小米跌逾2%</title>
 <link>https://hkcn-news.vercel.app/a/20261112-hk-adr-mostly-lower-than-hk-close.html</link>
@@ -330,27 +351,6 @@
 <guid>https://hkcn-news.vercel.app/a/20261111-legco-building-works-regulation-ordinance-amendments.html</guid>
 <pubDate>Wed, 11 Nov 2026 17:00:00 +0800</pubDate>
 <description>發展局局長甯漢豪書面回覆立法會質詢時表示，政府將於本月內向立法會發展事務委員會提交修訂《建築物條例》的建議，大幅提高嚴重偏離圖則等罪行的最高罰款、簡化紀律委員會組成及加快處理聆訊個案，並收緊註冊制度，包括在續牌時要求建築專業人士面試評核，以及向承建商批出較短續牌期。回覆又提到，過去三年約四成公共工程合約並非判予最低標價者，顧問合約更有逾六成並非最低價中標；公共工程合約禁止將整份合約分判，分判最多兩層。建造業議會將成立專責小組，全面檢視影響建造質素的因素。屋宇署就赤柱ONE STANLEY獨立屋鋼筋配置與圖則不符的調查已大致完成，將就檢控工作徵詢律政司。</description>
-</item>
-<item>
-<title>智慧交通基金批出1,790萬元　資助兩項目　包括AI巴士駕駛模擬訓練</title>
-<link>https://hkcn-news.vercel.app/a/20261111-smart-traffic-fund-two-projects-approved.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261111-smart-traffic-fund-two-projects-approved.html</guid>
-<pubDate>Wed, 11 Nov 2026 17:00:00 +0800</pubDate>
-<description>運輸署公布，智慧交通基金第27批申請批出兩個項目，合共資助約1,790萬元。獲批項目包括開發利用大型語言模型技術自動生成臨時交通安排的系統，協助制訂不同施工階段的臨時交通安排；以及開發巴士駕駛模擬器座艙及訓練系統，利用生成式人工智能分析巴士營運數據、駕駛片段及意外數據，模擬真實駕駛場景，為巴士司機提供個人化訓練，提升對潛在意外風險的意識。基金全年接受申請，資助本地機構及企業研究及應用創新科技，改善通勤便利、道路網絡效率及駕駛安全。</description>
-</item>
-<item>
-<title>港股低收241點　科指跌逾1%　ATMXJ全跌</title>
-<link>https://hkcn-news.vercel.app/a/20261111-hang-seng-down-241-points-close-24315.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261111-hang-seng-down-241-points-close-24315.html</guid>
-<pubDate>Wed, 11 Nov 2026 16:38:00 +0800</pubDate>
-<description>市場對美國加息預期升溫，港股受壓，恒生指數最多跌近290點，收市報24,315點，跌241點，跌幅0.98%；主板成交額逾1,807億元，連續3日不足2,000億元。科技指數報4,027點，跌幅1.4%；ATMXJ跌近1%至逾3%，美團跌幅較大；阿里巴巴計劃分拆晶片供應商平頭哥在港上市，股價跌近1%。汽車股偏軟，比亞迪股份跌近4%，理想、小鵬、蔚來跌逾3%；AI硬件及大模型股造好，中芯、智譜、MINIMAX升近4%或以上，聯想集團升逾2%。獲超額認購逾2,100倍的新荷花首日掛牌，收報69元，較招股價高近72%。</description>
-</item>
-<item>
-<title>私人駕駛教師新牌332個　接獲55,440宗申請　平均167人爭一個</title>
-<link>https://hkcn-news.vercel.app/a/20261111-legco-private-driving-instructors-licences.html</link>
-<guid>https://hkcn-news.vercel.app/a/20261111-legco-private-driving-instructors-licences.html</guid>
-<pubDate>Wed, 11 Nov 2026 16:37:00 +0800</pubDate>
-<description>署理運輸及物流局局長劉春珊書面回覆立法會質詢時表示，運輸署去年完成私人駕駛教師牌照定期檢討，建議發出332個新牌，申請於今年5月開放，共接獲55,440宗申請，平均每167名申請人獲發一個牌照，各組別及配額的申請數目均超出可發牌數目，運輸署正按抽籤次序處理申請。政府2020年全面檢討駕駛訓練政策後，維持駕駛學校及私人駕駛教師「雙軌並行」方針，第一組私人駕駛教師牌照基準由1,050個上調至1,170個；新牌中75%撥作公眾配額、25%撥作駕駛教師配額，相關修例2021年12月生效。</description>
 </item>
 </channel>
 </rss>

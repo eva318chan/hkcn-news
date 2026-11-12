@@ -1,5 +1,110 @@
 [
  {
+  "id": "20261112-kospi-early-slight-down",
+  "category": "finance",
+  "published_at": "2026-11-12T08:18:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877480-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "韓股初段微跌",
+   "en": "South Korean stocks edge lower in early trading",
+   "zh_hans": "韩股初段微跌"
+  },
+  "summary": {
+   "zh_hant": "韓國股市在開市初段微跌。首爾綜合指數較早時報5361點，跌14點，跌幅0.27%。",
+   "en": "South Korean stocks edged lower in early trading. The KOSPI was earlier quoted at 5,361, down 14 points or 0.27 percent.",
+   "zh_hans": "韩国股市在开市初段微跌。首尔综合指数较早时报5361点，跌14点，跌幅0.27%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "韓股",
+    "首爾綜合指數"
+   ],
+   "en": [
+    "KOSPI",
+    "South Korean stocks"
+   ],
+   "zh_hans": [
+    "韩股",
+    "首尔综合指数"
+   ]
+  }
+ },
+ {
+  "id": "20261112-nikkei-early-soft",
+  "category": "finance",
+  "published_at": "2026-11-12T08:18:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877479-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "日股初段偏軟",
+   "en": "Japanese stocks softer in early trading",
+   "zh_hans": "日股初段偏软"
+  },
+  "summary": {
+   "zh_hant": "日本股市在開市初段偏軟。日經平均指數較早時報61090點，跌158點，跌幅0.26%。",
+   "en": "Japanese stocks were softer in early trading. The Nikkei average was earlier quoted at 61,090, down 158 points or 0.26 percent.",
+   "zh_hans": "日本股市在开市初段偏软。日经平均指数较早时报61090点，跌158点，跌幅0.26%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "日股",
+    "日經平均指數"
+   ],
+   "en": [
+    "Nikkei",
+    "Japanese stocks"
+   ],
+   "zh_hans": [
+    "日股",
+    "日经平均指数"
+   ]
+  }
+ },
+ {
+  "id": "20261112-huang-board-remove-second-affair",
+  "category": "tech",
+  "published_at": "2026-11-12T07:25:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877474-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "美媒指黃仁勳涉及另一宗婚外情　Nvidia擬罷免其職務",
+   "en": "US media say Jensen Huang involved in another affair; Nvidia board said to be preparing to remove him",
+   "zh_hans": "美媒指黄仁勋涉及另一宗婚外情　Nvidia拟罢免其职务"
+  },
+  "summary": {
+   "zh_hant": "《華爾街日報》引述知情人士報道，Nvidia董事會正準備罷免行政總裁黃仁勳，計劃最早於星期三召開會議，決定黃仁勳的去留問題。較早前《紐約時報》報道，黃仁勳曾與一名向其匯報工作的高層發生婚外情，對方是Nvidia負責醫療業務的一名副總裁，報道引述五名公司員工的說法。黃仁勳早前承認有婚外情，報道指對象為一名中國籍女商人。",
+   "en": "The Wall Street Journal, citing people familiar with the matter, reported that Nvidia's board is preparing to remove chief executive Jensen Huang, with a meeting planned as early as Wednesday to decide his fate. The New York Times earlier reported that Huang had an affair with a senior executive who reported to him, a vice-president in charge of Nvidia's healthcare business, citing five company employees. Huang previously admitted to an extramarital affair, reported to involve a Chinese businesswoman.",
+   "zh_hans": "《华尔街日报》引述知情人士报道，Nvidia董事会正准备罢免行政总裁黄仁勋，计划最早于星期三召开会议，决定黄仁勋的去留问题。较早前《纽约时报》报道，黄仁勋曾与一名向其汇报工作的高层发生婚外情，对方是Nvidia负责医疗业务的一名副总裁，报道引述五名公司员工的说法。黄仁勋早前承认有婚外情，报道指对象为一名中国籍女商人。"
+  },
+  "tags": {
+   "zh_hant": [
+    "黃仁勳",
+    "Nvidia",
+    "董事會"
+   ],
+   "en": [
+    "Jensen Huang",
+    "Nvidia",
+    "board of directors"
+   ],
+   "zh_hans": [
+    "黄仁勋",
+    "Nvidia",
+    "董事会"
+   ]
+  }
+ },
+ {
   "id": "20261112-hk-adr-mostly-lower-than-hk-close",
   "category": "finance",
   "published_at": "2026-11-12T06:27:00+08:00",
