@@ -1,5 +1,298 @@
 [
  {
+  "id": "20261112-customs-duty-not-paid-cigarettes-jail",
+  "category": "society",
+  "published_at": "2026-11-12T12:30:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/12/P2026111200313.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/12/P2026111200313_photo_1343559.jpg",
+  "title": {
+   "zh_hant": "入境男旅客攜3萬支未完稅香煙　判監6個月罰款1000元",
+   "en": "Incoming male passenger jailed for six months over 30,000 duty-not-paid cigarettes",
+   "zh_hans": "入境男旅客携3万支未完税香烟　判监6个月罚款1000元"
+  },
+  "summary": {
+   "zh_hant": "一名29歲內地男旅客9月16日由日本東京抵港，海關在其個人行李檢獲3萬支未完稅香煙，估計市值約12.3萬元，應課稅款約9.9萬元。該名旅客今日在西九龍裁判法院被判監禁6個月及罰款1,000元，罪名是進口未完稅香煙及未向海關申報。海關表示，判刑具相當阻嚇作用，反映罪行嚴重性，並提醒市民香煙屬應課稅品，進口、管有或買賣未完稅香煙均屬違法，最高可罰款200萬元及監禁7年。",
+   "en": "A 29-year-old mainland male passenger who arrived in Hong Kong from Tokyo on September 16 was found with 30,000 duty-not-paid cigarettes in his personal baggage, with an estimated market value of about HK$123,000 and a duty potential of about HK$99,000. He was sentenced by the West Kowloon Magistrates' Courts on Thursday to six months' imprisonment and fined HK$1,000 for importing duty-not-paid cigarettes and failing to declare them to Customs officers. Customs said the custodial sentence has a considerable deterrent effect and reflects the seriousness of the offences, reminding the public that cigarettes are dutiable goods and that importing, possessing or buying duty-not-paid cigarettes is an offence punishable by a maximum fine of HK$2 million and seven years' imprisonment.",
+   "zh_hans": "一名29岁内地男旅客9月16日由日本东京抵港，海关在其个人行李检获3万支未完税香烟，估计市值约12.3万元，应课税款约9.9万元。该名旅客今日在西九龙裁判法院被判监禁6个月及罚款1,000元，罪名是进口未完税香烟及未向海关申报。海关表示，判刑具相当阻吓作用，反映罪行严重性，并提醒市民香烟属应课税品，进口、管有或买卖未完税香烟均属违法，最高可罚款200万元及监禁7年。"
+  },
+  "tags": {
+   "zh_hant": [
+    "海關",
+    "未完稅香煙",
+    "判刑"
+   ],
+   "en": [
+    "Customs",
+    "duty-not-paid cigarettes",
+    "sentencing"
+   ],
+   "zh_hans": [
+    "海关",
+    "未完税香烟",
+    "判刑"
+   ]
+  }
+ },
+ {
+  "id": "20261112-hsi-midday-down-223",
+  "category": "finance",
+  "published_at": "2026-11-12T12:19:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877505-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "恒指半日跌223點　失守24000點後回穩",
+   "en": "Hang Seng falls 223 points at midday after briefly dropping below 24,000",
+   "zh_hans": "恒指半日跌223点　失守24000点后回稳"
+  },
+  "summary": {
+   "zh_hant": "港股連跌兩日，恒生指數一度失守24000點關口，低見23988點，中午收市報24092點，跌223點，跌幅0.9%，半日主板成交額逾1056億元。科技指數跌至4000點以下，半日報3970點，跌幅1.4%，阿里巴巴跌近半成，是跌幅最大藍籌股，京東集團跌近4%，小米則升近1%。人工智能大模型股向下，MINIMAX和智譜跌4%至逾5%，國產GPU股顯著造好，天數智芯升11%，壁仞科技升近7%；醫藥股上升，藥明康德和百濟神州升近3%。",
+   "en": "Hong Kong stocks fell for a second straight day, with the Hang Seng Index briefly dropping below 24,000 to an intraday low of 23,988 before closing the morning session at 24,092, down 223 points or 0.9 percent, with main-board turnover of more than HK$105.6 billion. The Hang Seng Tech Index fell below 4,000 to 3,970, down 1.4 percent. Alibaba fell nearly 5 percent, the biggest blue-chip loser, while JD.com dropped nearly 4 percent and Xiaomi rose nearly 1 percent. AI model stocks fell, with MiniMax and Zhipu down 4 to over 5 percent, while domestic GPU stocks surged — MetaX rose 11 percent and Biren Technology gained nearly 7 percent. Pharmaceutical stocks rose, with WuXi AppTec and BeiGene up nearly 3 percent.",
+   "zh_hans": "港股连跌两日，恒生指数一度失守24000点关口，低见23988点，中午收市报24092点，跌223点，跌幅0.9%，半日主板成交额逾1056亿元。科技指数跌至4000点以下，半日报3970点，跌幅1.4%，阿里巴巴跌近半成，是跌幅最大蓝筹股，京东集团跌近4%，小米则升近1%。人工智能大模型股向下，MINIMAX和智谱跌4%至逾5%，国产GPU股显著造好，天数智芯升11%，壁仞科技升近7%；医药股上升，药明康德和百济神州升近3%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "恒指",
+    "科技指數",
+    "港股"
+   ],
+   "en": [
+    "Hang Seng Index",
+    "Hang Seng Tech Index",
+    "Hong Kong stocks"
+   ],
+   "zh_hans": [
+    "恒指",
+    "科技指数",
+    "港股"
+   ]
+  }
+ },
+ {
+  "id": "20261112-education-amendment-bill-gazette",
+  "category": "hk",
+  "published_at": "2026-11-12T12:19:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877508-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "《教育（修訂）條例草案》明日刊憲　教師須持註冊及執業證書",
+   "en": "Education (Amendment) Bill 2026 to be gazetted tomorrow; teachers must hold registration and practising certificate",
+   "zh_hans": "《教育（修订）条例草案》明日刊宪　教师须持注册及执业证书"
+  },
+  "summary": {
+   "zh_hant": "政府明日就《2026年教育（修訂）條例草案》刊憲，本月25日提交立法會首讀及二讀。修例引入教師執業證明書要求，完善教師註冊機制，規定所有公帑資助學校、私立學校、國際學校及幼稚園的教師，包括校長，必須持有教師註冊及執業證明書方可任教，執業證明書有效期不超逾3個學年。條例草案亦會設立機制，處理被裁定干犯危害國家安全罪行人士的教師註冊事宜，防止有關人士在學校任教，並要求教師符合持續專業發展要求。教育局自去年9月起諮詢業界，今年2月諮詢立法會教育事務委員會，持份者及議員普遍支持修例建議。",
+   "en": "The government will gazette the Education (Amendment) Bill 2026 tomorrow and present it to the Legislative Council for first and second readings on November 25. The bill introduces a teacher practising certificate requirement and improves the teacher registration system: all teachers, including principals, in government-funded, private and international schools and kindergartens must hold teacher registration and a practising certificate to teach, with certificates valid for no more than three school years. It also sets up a mechanism to handle the registration of people convicted of national security offences, preventing them from teaching in schools, and requires teachers to meet continuing professional development requirements. The Education Bureau consulted the sector from last September and the Legislative Council's education panel in February; stakeholders and legislators generally support the proposals.",
+   "zh_hans": "政府明日就《2026年教育（修订）条例草案》刊宪，本月25日提交立法会首读及二读。修例引入教师执业证明书要求，完善教师注册机制，规定所有公帑资助学校、私立学校、国际学校及幼儿园的教师，包括校长，必须持有教师注册及执业证明书方可任教，执业证明书有效期不超逾3个学年。条例草案亦会设立机制，处理被裁定干犯危害国家安全罪行人士的教师注册事宜，防止有关人士在学校任教，并要求教师符合持续专业发展要求。教育局自去年9月起咨询业界，今年2月咨询立法会教育事务委员会，持份者及议员普遍支持修例建议。"
+  },
+  "tags": {
+   "zh_hant": [
+    "教育條例",
+    "教師註冊",
+    "執業證明書"
+   ],
+   "en": [
+    "Education Bill",
+    "teacher registration",
+    "practising certificate"
+   ],
+   "zh_hans": [
+    "教育条例",
+    "教师注册",
+    "执业证明书"
+   ]
+  }
+ },
+ {
+  "id": "20261112-xi-sun-yat-sen-speech-taiwan-unity",
+  "category": "china",
+  "published_at": "2026-11-12T12:17:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877507-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "習近平：中國式現代化是實現孫中山振興中華理想必由之路",
+   "en": "Xi Jinping: Chinese modernisation is the only path to realising Sun Yat-sen's ideal of national rejuvenation",
+   "zh_hans": "习近平：中国式现代化是实现孙中山振兴中华理想必由之路"
+  },
+  "summary": {
+   "zh_hant": "紀念孫中山先生誕辰160周年大會在北京舉行，中共中央總書記、國家主席、中央軍委主席習近平出席並發表重要講話。習近平表示，孫中山先生始終堅持維護國家統一、民族團結，堅決反對一切分裂國家、分裂民族的言論和行為；解決台灣問題、實現祖國完全統一是中國共產黨矢志不渝的歷史任務，是全體中華兒女的共同願望。他表示，海峽兩岸同胞都是中國人，只要有話好好說、有事多商量，就沒有化解不了的矛盾分歧；將堅持和平統一、「一國兩制」方針，在堅持一個中國原則和九二共識的基礎上，願意與台灣各界有識之士就兩岸關係和國家統一開展對話協商，但絕不會為各種形式的台獨分裂活動留下任何空間。他認為，以中國式現代化全面推進強國建設、民族復興偉業，是實現孫中山先生振興中華理想的必由之路。",
+   "en": "At a ceremony in Beijing marking the 160th anniversary of the birth of Sun Yat-sen, Xi Jinping, general secretary of the Communist Party of China Central Committee, Chinese president and chairman of the Central Military Commission, attended and delivered an important speech. Xi said Sun Yat-sen always upheld national unity and ethnic solidarity and firmly opposed any words or acts that split the country or the nation, adding that resolving the Taiwan question and achieving complete national reunification is a historic mission of the Communist Party of China and the common aspiration of all Chinese people. He said compatriots on both sides of the Taiwan Strait are all Chinese, and that as long as they talk things through and consult more, no differences are unresolvable. China will adhere to peaceful reunification and the 'one country, two systems' policy, and, on the basis of the one-China principle and the 1992 Consensus, is willing to hold dialogue and consultation with people from all walks of life in Taiwan on cross-Strait relations and national reunification, but will never leave any room for separatist activities in any form. He said comprehensively advancing the building of a strong country and national rejuvenation through Chinese modernisation is the only path to realising Sun Yat-sen's ideal of national rejuvenation.",
+   "zh_hans": "纪念孙中山先生诞辰160周年大会在北京举行，中共中央总书记、国家主席、中央军委主席习近平出席并发表重要讲话。习近平表示，孙中山先生始终坚持维护国家统一、民族团结，坚决反对一切分裂国家、分裂民族的言论和行为；解决台湾问题、实现祖国完全统一是中国共产党矢志不渝的历史任务，是全体中华儿女的共同愿望。他表示，海峡两岸同胞都是中国人，只要有话好好说、有事多商量，就没有化解不了的矛盾分歧；将坚持和平统一、「一国两制」方针，在坚持一个中国原则和九二共识的基础上，愿意与台湾各界有识之士就两岸关系和国家统一开展对话协商，但绝不会为各种形式的台独分裂活动留下任何空间。他认为，以中国式现代化全面推进强国建设、民族复兴伟业，是实现孙中山先生振兴中华理想的必由之路。"
+  },
+  "tags": {
+   "zh_hant": [
+    "孫中山",
+    "習近平",
+    "台灣問題"
+   ],
+   "en": [
+    "Sun Yat-sen",
+    "Xi Jinping",
+    "Taiwan question"
+   ],
+   "zh_hans": [
+    "孙中山",
+    "习近平",
+    "台湾问题"
+   ]
+  }
+ },
+ {
+  "id": "20261112-kwong-kong-kit-choi-tin-fung-trial",
+  "category": "society",
+  "published_at": "2026-11-12T12:04:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877504-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "蔡天鳳案｜鄺港傑稱事發後如「當機」　只按父指示做　回想應報警",
+   "en": "Abby Choi case: Kwong Kong-kit says he froze after the incident and only followed his father's instructions; in hindsight he should have called police",
+   "zh_hans": "蔡天凤案｜邝港杰称事发后如「当机」　只按父指示做　回想应报警"
+  },
+  "summary": {
+   "zh_hant": "蔡天鳳案在高等法院續審，首被告、即蔡天鳳前大伯鄺港傑繼續作供。他昨日稱2023年2月21日案發當日，是弟弟鄺港智殺害蔡天鳳。鄺港傑今日供稱，事發當日下午約3時駕車前往大美督停車場途中，想起要安排人到學校接蔡天鳳的女兒放學，多次致電母親李瑞香但無人接聽。被問到現在回想當時最應該致電誰，他說至少應該報警或者召喚救護車，現在回想當時應該更勇敢理智，事情可能不致現在般惡劣。他又指，抵達大美督停車場後，父親鄺球拉開靠近蔡天鳳座位的車門上車，他望向駕駛座後方乘客位，見到蔡天鳳躺在車廂內地下，披頭散髮，見不到臉容，無發出任何聲音或動靜；父親嘗試觸碰蔡天鳳檢視有沒有心跳，弟弟鄺港智則坐在車廂內發呆。鄺港傑之後按父親指示，將車駛回村屋，並從父親車尾箱取出膠箱；由蔡天鳳被弟弟襲擊至抵達村屋期間約20分鐘，時間很短但發生很多事，自己猶如「當機」一樣，只跟隨父親指示做。",
+   "en": "The trial of the Abby Choi murder case continued at the High Court, with the first defendant, Kwong Kong-kit — the victim's former brother-in-law — continuing his testimony. He said on Wednesday that it was his younger brother, Kwong Kong-chi, who killed Choi on February 21, 2023, the day of the incident. Kwong said that at about 3pm that day, while driving to the Tai Mei Tuk car park, he remembered he needed someone to pick up Choi's daughter from school and called his mother, Lee Sui-heung, several times without answer. Asked whom he should have called, he said he should at least have called the police or an ambulance, and that in hindsight he should have been braver and more level-headed, as things might not have become so bad. He said that when they arrived at the car park, his father, Kwong Kau, opened the door near Choi's seat and got in; Kwong looked at the rear passenger seat where Choi had been sitting and saw her lying on the floor of the vehicle, her hair dishevelled, her face not visible, making no sound or movement. His father tried to feel whether Choi had a heartbeat, while his brother sat in the vehicle in a daze. Kwong then drove the car back to the village house on his father's instructions and took a plastic box from his father's car boot. About 20 minutes passed between the attack on Choi and their arrival at the village house — a short time in which a lot happened, and he felt as if he had 'frozen', only following his father's instructions.",
+   "zh_hans": "蔡天凤案在高等法院续审，首被告、即蔡天凤前大伯邝港杰继续作供。他昨日称2023年2月21日案发当日，是弟弟邝港智杀害蔡天凤。邝港杰今日供称，事发当日下午约3时驾车前往大美督停车场途中，想起要安排人到学校接蔡天凤的女儿放学，多次致电母亲李瑞香但无人接听。被问到现在回想当时最应该致电谁，他说至少应该报警或者召唤救护车，现在回想当时应该更勇敢理智，事情可能不致现在般恶劣。他又指，抵达大美督停车场后，父亲邝球拉开靠近蔡天凤座位的车门上车，他望向驾驶座后方乘客位，见到蔡天凤躺在车厢内地下，披头散发，见不到脸容，无发出任何声音或动静；父亲尝试触碰蔡天凤检视有没有心跳，弟弟邝港智则坐在车厢内发呆。邝港杰之后按父亲指示，将车驶回村屋，并从父亲车尾箱取出胶箱；由蔡天凤被弟弟袭击至抵达村屋期间约20分钟，时间很短但发生很多事，自己犹如「当机」一样，只跟随父亲指示做。"
+  },
+  "tags": {
+   "zh_hant": [
+    "蔡天鳳案",
+    "鄺港傑",
+    "高等法院"
+   ],
+   "en": [
+    "Abby Choi case",
+    "Kwong Kong-kit",
+    "High Court"
+   ],
+   "zh_hans": [
+    "蔡天凤案",
+    "邝港杰",
+    "高等法院"
+   ]
+  }
+ },
+ {
+  "id": "20261112-mainland-stocks-midday-steady",
+  "category": "finance",
+  "published_at": "2026-11-12T11:43:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877503-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "內地股市半日靠穩　上證升7點",
+   "en": "Mainland stocks steady at midday; Shanghai Composite up 7 points",
+   "zh_hans": "内地股市半日靠稳　上证升7点"
+  },
+  "summary": {
+   "zh_hant": "滬深股市半日走勢靠穩，燃氣、半導體、醫療服務等股份上升；貴金屬、遊戲、影視院線等股份下跌。上證綜合指數半日收報3688點，升7點，升幅0.2%；深證成份指數報11396點，升7點，升幅0.06%；創業板指數報2573點，升1點，升幅0.06%。",
+   "en": "Mainland stock markets were steady at midday, with gas, semiconductor and medical services stocks rising, while precious metals, gaming and cinema stocks fell. The Shanghai Composite Index closed the morning session at 3,688, up 7 points or 0.2 percent; the Shenzhen Component Index stood at 11,396, up 7 points or 0.06 percent; and the ChiNext Index was at 2,573, up 1 point or 0.06 percent.",
+   "zh_hans": "沪深股市半日走势靠稳，燃气、半导体、医疗服务等股份上升；贵金属、游戏、影视院线等股份下跌。上证综合指数半日收报3688点，升7点，升幅0.2%；深证成份指数报11396点，升7点，升幅0.06%；创业板指数报2573点，升1点，升幅0.06%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "內地股市",
+    "上證指數",
+    "深證成指"
+   ],
+   "en": [
+    "mainland stocks",
+    "Shanghai Composite",
+    "Shenzhen Component"
+   ],
+   "zh_hans": [
+    "内地股市",
+    "上证指数",
+    "深证成指"
+   ]
+  }
+ },
+ {
+  "id": "20261112-fung-chuen-chung-family-care-leave",
+  "category": "hk",
+  "published_at": "2026-11-12T11:26:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877500-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "馮傳宗：照顧家庭假可提升士氣　不擔心員工濫用",
+   "en": "Fung Chuen-chung: family care leave can boost morale; no concern about abuse",
+   "zh_hans": "冯传宗：照顾家庭假可提升士气　不担心员工滥用"
+  },
+  "summary": {
+   "zh_hant": "公務員事務局建議，為每名政府僱員提供每年可享最多12小時的「照顧家庭假」。香港公務員總工會主席馮傳宗表示，普遍公務員歡迎有關措施，認為可令僱員在工作之餘，亦能照顧家庭需要。他在本台節目《千禧年代》說，相信措施能吸引人才加入政府，亦能提升員工的工作效率及士氣，不擔心會有員工濫用。他提出措施實施一段時間後可作檢視，亦期望商界仿傚做法，讓私營機構僱員同樣享有類似照顧家庭的假期。",
+   "en": "The Civil Service Bureau has proposed giving every government employee up to 12 hours of 'family care leave' a year. Fung Chuen-chung, chairman of the Hong Kong Civil Servants General Union, said most civil servants welcome the measure, as it lets employees look after family needs alongside work. Speaking on RTHK's Millennium programme, Fung said he believes the measure can attract talent to the government and improve staff efficiency and morale, and he is not worried that employees will abuse it. He suggested the measure be reviewed after it has been in place for some time, and said he hopes the business sector will follow suit so private-sector employees can enjoy similar leave.",
+   "zh_hans": "公务员事务局建议，为每名政府雇员提供每年可享最多12小时的「照顾家庭假」。香港公务员总工会主席冯传宗表示，普遍公务员欢迎有关措施，认为可令雇员在工作之余，亦能照顾家庭需要。他在本台节目《千禧年代》说，相信措施能吸引人才加入政府，亦能提升员工的工作效率及士气，不担心会有员工滥用。他提出措施实施一段时间后可作检视，亦期望商界仿傚做法，让私营机构雇员同样享有类似照顾家庭的假期。"
+  },
+  "tags": {
+   "zh_hant": [
+    "照顧家庭假",
+    "公務員",
+    "馮傳宗"
+   ],
+   "en": [
+    "family care leave",
+    "civil servants",
+    "Fung Chuen-chung"
+   ],
+   "zh_hans": [
+    "照顾家庭假",
+    "公务员",
+    "冯传宗"
+   ]
+  }
+ },
+ {
+  "id": "20261112-nikkei-midday-up-near-1pct",
+  "category": "finance",
+  "published_at": "2026-11-12T10:49:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877496-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "日股半日升近1%　日經報61714點",
+   "en": "Nikkei up nearly 1% at midday to 61,714",
+   "zh_hans": "日股半日升近1%　日经报61714点"
+  },
+  "summary": {
+   "zh_hant": "日本股市半日升近1%，日經平均指數上午收市報61714點，升465點，升幅0.76%。",
+   "en": "Japanese stocks rose nearly 1 percent at midday, with the Nikkei average closing the morning session at 61,714, up 465 points or 0.76 percent.",
+   "zh_hans": "日本股市半日升近1%，日经平均指数上午收市报61714点，升465点，升幅0.76%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "日股",
+    "日經指數"
+   ],
+   "en": [
+    "Japanese stocks",
+    "Nikkei"
+   ],
+   "zh_hans": [
+    "日股",
+    "日经指数"
+   ]
+  }
+ },
+ {
   "id": "20261112-sfst-iais-annual-conference-remarks",
   "category": "finance",
   "published_at": "2026-11-12T10:23:00+08:00",
@@ -70,6 +363,43 @@
     "孙中山",
     "习近平",
     "北京"
+   ]
+  }
+ },
+ {
+  "id": "20261112-lee-sun-yat-sen-ceremony-hk",
+  "category": "hk",
+  "published_at": "2026-11-12T10:15:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877494-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "孫中山誕辰160周年　李家超：繼承振興中華精神屬最好紀念方式",
+   "en": "Sun Yat-sen's 160th birth anniversary: John Lee says carrying forward the spirit of national rejuvenation is the best way to commemorate him",
+   "zh_hans": "孙中山诞辰160周年　李家超：继承振兴中华精神属最好纪念方式"
+  },
+  "summary": {
+   "zh_hant": "特區政府舉行孫中山先生誕辰160周年紀念儀式，行政長官李家超致辭說，紀念孫中山先生的最好方式是學習和繼承其振興中華的偉大方向，以及熱愛祖國的崇高精神。他期望大家將愛國愛港精神化為行動，為以中國式現代化全面推進強國建設、為實現中華民族偉大復興團結奮鬥，貢獻香港力量。李家超表示，孫中山先生一生以革命為己任，立志救國救民，提出三民主義；辛亥革命在他領導及影響之下取得成功，推翻清皇朝，傳播民主共和理念，促進中華民族思想解放，推動中國社會變革。紀念儀式早上10時在中山紀念公園舉行，出席人士包括中聯辦主任周霽、特區政府官員及多位團體代表；儀式開始前，眾人先肅立面向國旗及特區區旗，並奏唱國歌。",
+   "en": "The Hong Kong government held a ceremony marking the 160th anniversary of the birth of Sun Yat-sen, at which Chief Executive John Lee said the best way to commemorate Sun is to learn from and carry forward his great direction of rejuvenating China and his noble spirit of loving the country. He urged everyone to turn the spirit of loving the country and Hong Kong into action, contributing Hong Kong's strength to advancing the building of a strong country through Chinese modernisation and to the great rejuvenation of the Chinese nation. Lee said Sun devoted his life to revolution, determined to save the country and its people, and put forward the Three Principles of the People; the 1911 Revolution, under his leadership and influence, overthrew the Qing dynasty, spread the ideals of democracy and republicanism, and promoted the emancipation of the Chinese people's minds. The ceremony was held at 10am at Sun Yat-sen Memorial Park and was attended by Zhou Ji, director of the Liaison Office of the Central People's Government in Hong Kong, government officials and representatives of various organisations. Before the ceremony began, attendees stood facing the national and regional flags and sang the national anthem.",
+   "zh_hans": "特区政府举行孙中山先生诞辰160周年纪念仪式，行政长官李家超致辞说，纪念孙中山先生的最好方式是学习和继承其振兴中华的伟大方向，以及热爱祖国的崇高精神。他期望大家将爱国爱港精神化为行动，为以中国式现代化全面推进强国建设、为实现中华民族伟大复兴团结奋斗，贡献香港力量。李家超表示，孙中山先生一生以革命为己任，立志救国救民，提出三民主义；辛亥革命在他领导及影响之下取得成功，推翻清皇朝，传播民主共和理念，促进中华民族思想解放，推动中国社会变革。纪念仪式早上10时在中山纪念公园举行，出席人士包括中联办主任周霁、特区政府官员及多位团体代表；仪式开始前，众人先肃立面向国旗及特区区旗，并奏唱国歌。"
+  },
+  "tags": {
+   "zh_hant": [
+    "孫中山",
+    "李家超",
+    "紀念儀式"
+   ],
+   "en": [
+    "Sun Yat-sen",
+    "John Lee",
+    "commemoration ceremony"
+   ],
+   "zh_hans": [
+    "孙中山",
+    "李家超",
+    "纪念仪式"
    ]
   }
  },
