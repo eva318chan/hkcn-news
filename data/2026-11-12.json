@@ -407,6 +407,191 @@
   }
  },
  {
+  "id": "20261112-washington-shooting-five-shot-gunman-barricaded",
+  "category": "world",
+  "published_at": "2026-11-12T23:37:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877599-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "華盛頓槍擊案至少5人中槍　槍手匿藏建築物內　白宮以北大封鎖",
+   "en": "At least five shot in Washington shooting; gunman barricaded inside building north of the White House",
+   "zh_hans": "华盛顿枪击案至少5人中枪　枪手匿藏建筑物内　白宫以北大封锁"
+  },
+  "summary": {
+   "zh_hant": "美國首都華盛頓發生槍擊案，至少五人中槍，未知情況，槍手把自己關在一幢建築物內。事發在當地星期四早上，現場是位於白宮以北大約1.5公里的洛根環島街區，大批警員封鎖附近街道，多名手持步槍的警員部署在附近建築物上，周邊停泊了幾十輛警車，直升機在上空盤旋，警方提醒民眾遠離有關區域。有地方議員在社交平台發文，指槍擊事件發生在一間健身室，多人中槍；有目擊者說，原本以為是健身球爆裂的聲音，後來才知道有人中槍。",
+   "en": "A shooting in the US capital Washington has left at least five people shot, with their conditions unknown, and the gunman barricaded inside a building. The incident happened on Thursday morning local time in the Logan Circle neighbourhood, about 1.5 kilometres north of the White House. Large numbers of police sealed off nearby streets, officers armed with rifles were deployed on surrounding buildings, dozens of police vehicles were parked nearby and a helicopter circled overhead; police urged the public to stay away from the area. A local councillor wrote on social media that the shooting took place in a gym and that several people had been shot; a witness said they first thought the sound was a fitness ball bursting, only later realising someone had been shot.",
+   "zh_hans": "美国首都华盛顿发生枪击案，至少五人中枪，未知情况，枪手把自己关在一幢建筑物内。事发在当地星期四早上，现场是位于白宫以北大约1.5公里的洛根环岛街区，大批警员封锁附近街道，多名手持步枪的警员部署在附近建筑物上，周边停泊了几十辆警车，直升机在上空盘旋，警方提醒民众远离有关区域。有地方议员在社交平台发文，指枪击事件发生在一间健身室，多人中枪；有目击者说，原本以为是健身球爆裂的声音，后来才知道有人中枪。"
+  },
+  "tags": {
+   "zh_hant": [
+    "華盛頓",
+    "槍擊案",
+    "美國"
+   ],
+   "en": [
+    "Washington",
+    "shooting",
+    "United States"
+   ],
+   "zh_hans": [
+    "华盛顿",
+    "枪击案",
+    "美国"
+   ]
+  }
+ },
+ {
+  "id": "20261112-us-existing-home-sales-16-year-low",
+  "category": "finance",
+  "published_at": "2026-11-12T23:24:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877598-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "美國10月二手樓銷售創逾16年新低　買家觀望　首次置業僅佔29%",
+   "en": "US existing-home sales hit lowest in more than 16 years in October as buyers hold back",
+   "zh_hans": "美国10月二手楼销售创逾16年新低　买家观望　首次置业仅占29%"
+  },
+  "summary": {
+   "zh_hant": "全美不動產協會數據顯示，美國10月二手樓銷售按月跌5.5%，經季節調整後以年率計375萬間，創逾16年新低，低於市場預期。數據亦顯示，二手樓庫存按月增加1.3%，以年率計159萬間，按年升4.6%。按10月銷售速度計算，5.1個月就會完全消化現有庫存，是約11年以來最長，多於9月的4.7個月。分析認為，按揭貸款利率上升、樓價仍處於高位，令潛在買家持觀望態度；首次置業人士佔總銷量比例降至29%，分析指比例需達到40%，樓市才能保持強勁。",
+   "en": "Data from the National Association of Realtors show US existing-home sales fell 5.5% month on month in October to a seasonally adjusted annual rate of 3.75 million units, the lowest in more than 16 years and below market expectations. Inventory rose 1.3% from the previous month to 1.59 million units at an annual rate, up 4.6% year on year. At October's sales pace, it would take 5.1 months to clear the existing inventory, the longest in about 11 years and up from 4.7 months in September. Analysts said higher mortgage rates and still-elevated home prices are keeping potential buyers on the sidelines; first-time buyers accounted for 29% of total sales, and analysts said the share needs to reach 40% for the housing market to stay strong.",
+   "zh_hans": "全美不动产协会数据显示，美国10月二手楼销售按月跌5.5%，经季节调整后以年率计375万间，创逾16年新低，低于市场预期。数据亦显示，二手楼库存按月增加1.3%，以年率计159万间，按年升4.6%。按10月销售速度计算，5.1个月就会完全消化现有库存，是约11年以来最长，多于9月的4.7个月。分析认为，按揭贷款利率上升、楼价仍处于高位，令潜在买家持观望态度；首次置业人士占总销量比例降至29%，分析指比例需达到40%，楼市才能保持强劲。"
+  },
+  "tags": {
+   "zh_hant": [
+    "美國樓市",
+    "二手樓",
+    "按揭利率"
+   ],
+   "en": [
+    "US housing market",
+    "existing-home sales",
+    "mortgage rates"
+   ],
+   "zh_hans": [
+    "美国楼市",
+    "二手楼",
+    "按揭利率"
+   ]
+  }
+ },
+ {
+  "id": "20261112-he-lifeng-meets-invesco-chief-financial-opening",
+  "category": "finance",
+  "published_at": "2026-11-12T22:57:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877589-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "何立峰晤景順總裁　中國深入推進金融高質量發展　擴大高水平開放",
+   "en": "He Lifeng meets Invesco chief; China pushing ahead with high-quality financial development and wider opening up",
+   "zh_hans": "何立峰晤景顺总裁　中国深入推进金融高质量发展　扩大高水平开放"
+  },
+  "summary": {
+   "zh_hant": "中共中央政治局委員、國務院副總理何立峰在北京人民大會堂，與美國景順集團總裁兼首席執行官施洛斯伯格會面。何立峰說，當前中國經濟動能向新、結構向優，展現出強大韌性與活力；「十五五」時期是建設金融強國的重要階段，中國正深入推進金融高質量發展，擴大金融高水平開放，歡迎包括景順集團在內的各國企業繼續深化對華投資合作，實現互利共贏。據新華社報道，施洛斯伯格表示，看好中國經濟發展前景，願意繼續深耕中國市場，拓展務實合作。",
+   "en": "He Lifeng, a member of the Political Bureau of the Communist Party of China Central Committee and Vice-Premier of the State Council, met Andrew Schlossberg, president and chief executive officer of US asset manager Invesco, at the Great Hall of the People in Beijing. He said China's economy is gaining new momentum and improving in structure, showing strong resilience and vitality; the 15th Five-Year Plan period is an important stage in building a financial powerhouse, and China is pushing ahead with high-quality financial development and expanding high-standard opening up of the financial sector. He welcomed companies from all countries, including Invesco, to deepen investment co-operation in China for mutual benefit. According to Xinhua, Schlossberg said he was optimistic about China's economic prospects and was willing to continue deepening Invesco's presence in the Chinese market and expanding practical co-operation.",
+   "zh_hans": "中共中央政治局委员、国务院副总理何立峰在北京人民大会堂，与美国景顺集团总裁兼首席执行官施洛斯伯格会面。何立峰说，当前中国经济动能向新、结构向优，展现出强大韧性与活力；「十五五」时期是建设金融强国的重要阶段，中国正深入推进金融高质量发展，扩大金融高水平开放，欢迎包括景顺集团在内的各国企业继续深化对华投资合作，实现互利共赢。据新华社报道，施洛斯伯格表示，看好中国经济发展前景，愿意继续深耕中国市场，拓展务实合作。"
+  },
+  "tags": {
+   "zh_hant": [
+    "何立峰",
+    "金融開放",
+    "景順"
+   ],
+   "en": [
+    "He Lifeng",
+    "financial opening up",
+    "Invesco"
+   ],
+   "zh_hans": [
+    "何立峰",
+    "金融开放",
+    "景顺"
+   ]
+  }
+ },
+ {
+  "id": "20261112-central-wounding-reclassified-murder",
+  "category": "hk",
+  "published_at": "2026-11-12T22:49:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/12/P2026111200721.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "康樂廣場外籍男遇襲亡　傷人案改列謀殺　兩疑犯被捕還押",
+   "en": "Central wounding case reclassified as murder after foreign man dies; two suspects remanded",
+   "zh_hans": "康乐广场外籍男遇袭亡　伤人案改列谋杀　两疑犯被捕还押"
+  },
+  "summary": {
+   "zh_hant": "警方將11月7日在中環發生的一宗傷人案改列為謀殺案。案中一名41歲外籍男子當晚約8時58分在康樂廣場對開暈倒，頭部受傷，昏迷送往瑪麗醫院治理，初步調查顯示他懷疑曾被人以拳腳襲擊，施襲者其後逃去。警方翌日在九龍城及灣仔分別拘捕兩名44歲及52歲外籍男子，涉嫌傷人，兩人已被暫控一項「意圖造成身體嚴重傷害而傷人」罪，本月10日在東區裁判法院提堂，現時還押懲教署看管。由於傷者今日下午被證實死亡，警方經進一步調查後將案件改列為謀殺案，稍後安排驗屍，中區警區重案組正積極調查。",
+   "en": "Police have reclassified a wounding case in Central on November 7 as murder. A 41-year-old foreign man collapsed outside Connaught Place at about 8.58pm that night with head injuries and was rushed to Queen Mary Hospital in an unconscious state; initial investigation suggested he had been assaulted with fists and feet, and the assailants fled. Police arrested two foreign men, aged 44 and 52, in Kowloon City and Wan Chai respectively the next day on suspicion of wounding. Both have been charged with one count of wounding with intent to do grievous bodily harm, appeared at Eastern Magistrates' Courts on November 10 and are remanded in Correctional Services Department custody. As the injured man was certified dead this afternoon, police reclassified the case as murder after further investigation. A post-mortem will be arranged, and the Central District crime squad is actively investigating.",
+   "zh_hans": "警方将11月7日在中环发生的一宗伤人案改列为谋杀案。案中一名41岁外籍男子当晚约8时58分在康乐广场对开晕倒，头部受伤，昏迷送往玛丽医院治理，初步调查显示他怀疑曾被人以拳脚袭击，施袭者其后逃去。警方翌日在九龙城及湾仔分别拘捕两名44岁及52岁外籍男子，涉嫌伤人，两人已被暂控一项「意图造成身体严重伤害而伤人」罪，本月10日在东区裁判法院提堂，现时还押惩教署看管。由于伤者今日下午被证实死亡，警方经进一步调查后将案件改列为谋杀案，稍后安排验尸，中区警区重案组正积极调查。"
+  },
+  "tags": {
+   "zh_hant": [
+    "中環",
+    "謀殺案",
+    "康樂廣場"
+   ],
+   "en": [
+    "Central",
+    "murder",
+    "Connaught Place"
+   ],
+   "zh_hans": [
+    "中环",
+    "谋杀案",
+    "康乐广场"
+   ]
+  }
+ },
+ {
+  "id": "20261112-us-stocks-soft-nvidia-tumbles-14pct",
+  "category": "finance",
+  "published_at": "2026-11-12T22:48:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877596-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "Nvidia曾急挫逾14%　市值失守4萬億美元　美股初段偏軟",
+   "en": "US stocks soften in early trade; Nvidia tumbles more than 14% and market value falls below US$4 trillion",
+   "zh_hans": "Nvidia曾急挫逾14%　市值失守4万亿美元　美股初段偏软"
+  },
+  "summary": {
+   "zh_hant": "美股初段偏軟。道瓊斯指數較早時報52,457點，跌29點，跌幅0.06%；標普500指數報7,596點，跌22點，跌幅0.3%；納斯達克指數報25,357點，跌108點，跌幅0.43%。Nvidia在開市後曾急挫逾14%，跌穿150美元關口，低見148.8美元，其後收復160美元水平，跌幅收窄至約8%。Nvidia市值失守4萬億美元，是自去年7月以來首次。Nvidia董事會在開市前宣布，黃仁勳即日起辭去行政總裁及董事職務，已啟動行政總裁遴選工作；現任執行副總裁、財務總監Colette Kress將出任臨時行政總裁，集團亦任命Harvey C. Jones為董事會首位主席。",
+   "en": "US stocks were soft in early trading. The Dow Jones Industrial Average was at 52,457, down 29 points or 0.06%; the S&P 500 was at 7,596, down 22 points or 0.3%; and the Nasdaq was at 25,357, down 108 points or 0.43%. Nvidia tumbled more than 14% after the open, falling below US$150 to a low of US$148.80, before recovering above US$160 with the loss narrowing to about 8%. Its market value fell below US$4 trillion, the first time since July last year. Before the open, Nvidia's board announced that Jensen Huang had resigned as chief executive and director with immediate effect and had begun the search for a new chief executive; executive vice-president and chief financial officer Colette Kress will serve as interim chief executive, and Harvey C. Jones has been appointed as the board's first chairman.",
+   "zh_hans": "美股初段偏软。道琼斯指数较早时报52,457点，跌29点，跌幅0.06%；标普500指数报7,596点，跌22点，跌幅0.3%；纳斯达克指数报25,357点，跌108点，跌幅0.43%。Nvidia在开市后曾急挫逾14%，跌穿150美元关口，低见148.8美元，其后收复160美元水平，跌幅收窄至约8%。Nvidia市值失守4万亿美元，是自去年7月以来首次。Nvidia董事会在开市前宣布，黄仁勋即日起辞去行政总裁及董事职务，已启动行政总裁遴选工作；现任执行副总裁、财务总监Colette Kress将出任临时行政总裁，集团亦任命Harvey C. Jones为董事会首位主席。"
+  },
+  "tags": {
+   "zh_hant": [
+    "美股",
+    "Nvidia",
+    "黃仁勳"
+   ],
+   "en": [
+    "US stocks",
+    "Nvidia",
+    "Jensen Huang"
+   ],
+   "zh_hans": [
+    "美股",
+    "Nvidia",
+    "黄仁勋"
+   ]
+  }
+ },
+ {
   "id": "20261112-nvidia-huang-resigns-ceo-effective-immediately",
   "category": "tech",
   "published_at": "2026-11-12T21:58:00+08:00",

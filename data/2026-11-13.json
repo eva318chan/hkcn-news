@@ -1,76 +1,150 @@
 [
-  {
-    "id": "20261113-nvidia-huang-resigns",
-    "category": "tech",
-    "published_at": "2026-11-13T00:20:00+08:00",
-    "source": {
-      "name": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
-    },
-    "image_url": "https://hkcnexpress.com/assets/design/20261113-nvidia-huang-resigns-design.jpg",
-    "title": {
-      "en": "Nvidia's Jensen Huang resigns as CEO effective immediately; CFO Colette Kress named interim chief",
-      "zh_hant": "輝達震撼換帥　黃仁勳即日辭任行政總裁　財務總監暫代掌舵",
-      "zh_hans": "辉达震撼换帅　黄仁勋即日辞任行政总裁　财务总监暂代掌舵"
-    },
-    "summary": {
-      "en": "Nvidia's board has announced that founder Jensen Huang has resigned as president, chief executive officer and a member of the board, effective immediately, ending his 33-year tenure at the helm. The board has launched a formal search for a permanent CEO, considering both internal and external candidates. Until a successor is named, Executive Vice President and Chief Financial Officer Colette Kress will serve as interim CEO, and Harvey C. Jones has been appointed as the company's first-ever chair of the board. The board thanked Huang for his contributions over 33 years and said it expects operations, customer commitments and the product roadmap to continue without interruption. Kress has led Nvidia's finance team since September 2013, after nearly 25 years in finance roles at Cisco and Microsoft; Jones has more than 30 years of experience as an entrepreneur, technology executive and venture investor, and previously served as executive chairman and CEO of Synopsys.",
-      "zh_hant": "輝達董事會宣布，創辦人黃仁勳即日起辭去總裁、行政總裁及董事職務，結束 33 年掌舵生涯。董事會已啟動正式行政總裁遴選程序，將同時考慮內部及外部人選；在正式繼任人出爐前，由執行副總裁兼財務總監 Colette Kress 暫代行政總裁，並任命 Harvey C. Jones 為公司首位董事會主席。聲明感謝黃仁勳過去 33 年的貢獻，強調公司營運、客戶承諾及產品路線圖將繼續順利推進。Kress 自 2013 年 9 月起領導集團財務團隊，此前在思科及微軟從事財務工作近 25 年；Jones 擁有逾 30 年企業家、科技主管及創投經驗，曾任新思科技執行主席兼行政總裁。",
-      "zh_hans": "辉达董事会宣布，创办人黄仁勋即日起辞去总裁、行政总裁及董事职务，结束 33 年掌舵生涯。董事会已启动正式行政总裁遴选程序，将同时考虑内部及外部人选；在正式继任人出炉前，由执行副总裁兼财务总监 Colette Kress 暂代行政总裁，并任命 Harvey C. Jones 为公司首位董事会主席。声明感谢黄仁勋过去 33 年的贡献，强调公司营运、客户承诺及产品路线图将继续顺利推进。Kress 自 2013 年 9 月起领导集团财务团队，此前在思科及微软从事财务工作近 25 年；Jones 拥有逾 30 年企业家、科技主管及创投经验，曾任新思科技执行主席兼行政总裁。"
-    },
-    "tags": {
-      "en": [
-        "Nvidia",
-        "Jensen Huang",
-        "CEO"
-      ],
-      "zh_hant": [
-        "輝達",
-        "黃仁勳",
-        "Nvidia"
-      ],
-      "zh_hans": [
-        "辉达",
-        "黄仁勋",
-        "Nvidia"
-      ]
-    }
+ {
+  "id": "20261113-nvidia-huang-resigns",
+  "category": "tech",
+  "published_at": "2026-11-13T00:20:00+08:00",
+  "source": {
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
   },
-  {
-    "id": "20261113-hengfa-lingnan-assault",
-    "category": "society",
-    "published_at": "2026-11-13T00:15:00+08:00",
-    "source": {
-      "name": "Dim Sum Daily",
-      "url": "https://www.dimsumdaily.hk/family-alleges-group-bullying-at-lingnan-secondary-school-confirms-clash-penalty-seen-as-too-light/"
-    },
-    "image_url": "https://hkcnexpress.com/assets/design/20261113-hengfa-school-assault-design.jpg",
-    "title": {
-      "en": "13-year-old boy allegedly assaulted at Heng Fa Chuen school; Education Bureau orders follow-up, no arrests yet",
-      "zh_hant": "杏花邨13歲男生校內疑被襲　教育局要求學校跟進　暫未有人被捕",
-      "zh_hans": "杏花邨13岁男生校内疑被袭　教育局要求学校跟进　暂未有人被捕"
-    },
-    "summary": {
-      "en": "A 13-year-old boy was allegedly struck by hand at Lingnan Secondary School in Heng Fa Chuen on Tuesday (10 November) and was taken to hospital conscious for examination. Police have classified the case as common assault and assigned it to the Eastern District anti-triad unit; no arrests have been made. The school said it activated its crisis-management mechanism immediately after learning of the incident, investigated and contacted the parents, and accompanied them to report the matter to police the next day. The school said it is fully cooperating with the police investigation, staying in close contact with the Education Bureau, and will provide appropriate support to the students involved. The Education Bureau has asked the school to follow up.",
-      "zh_hant": "杏花邨嶺南中學一名13歲男生，本周二（10日）在校內懷疑被人用手襲擊，事後清醒送院檢查。警方初步調查後將案件列為「普通襲擊」，交由東區警區反三合會行動組跟進，暫未有人被捕。校方稱知悉事件後即時啟動危機處理機制調查，並聯絡涉事學生家長，翌日陪同家長報警；校方表示會全力配合警方調查，與教育局保持緊密聯繫，並為相關學生提供適切支援。教育局已要求學校跟進事件。",
-      "zh_hans": "杏花邨岭南中学一名13岁男生，本周二（10日）在校内怀疑被人用手袭击，事后清醒送院检查。警方初步调查后将案件列为「普通袭击」，交由东区警区反三合会行动组跟进，暂未有人被捕。校方称知悉事件后即时启动危机处理机制调查，并联络涉事学生家长，翌日陪同家长报警；校方表示会全力配合警方调查，与教育局保持紧密联系，并为相关学生提供適切支援。教育局已要求学校跟进事件。"
-    },
-    "tags": {
-      "en": [
-        "Heng Fa Chuen",
-        "Lingnan Secondary School",
-        "school assault"
-      ],
-      "zh_hant": [
-        "杏花邨",
-        "嶺南中學",
-        "校園襲擊"
-      ],
-      "zh_hans": [
-        "杏花邨",
-        "岭南中学",
-        "校园袭击"
-      ]
-    }
+  "image_url": "https://hkcnexpress.com/assets/design/20261113-nvidia-huang-resigns-design.jpg",
+  "title": {
+   "en": "Nvidia's Jensen Huang resigns as CEO effective immediately; CFO Colette Kress named interim chief",
+   "zh_hant": "輝達震撼換帥　黃仁勳即日辭任行政總裁　財務總監暫代掌舵",
+   "zh_hans": "辉达震撼换帅　黄仁勋即日辞任行政总裁　财务总监暂代掌舵"
+  },
+  "summary": {
+   "en": "Nvidia's board has announced that founder Jensen Huang has resigned as president, chief executive officer and a member of the board, effective immediately, ending his 33-year tenure at the helm. The board has launched a formal search for a permanent CEO, considering both internal and external candidates. Until a successor is named, Executive Vice President and Chief Financial Officer Colette Kress will serve as interim CEO, and Harvey C. Jones has been appointed as the company's first-ever chair of the board. The board thanked Huang for his contributions over 33 years and said it expects operations, customer commitments and the product roadmap to continue without interruption. Kress has led Nvidia's finance team since September 2013, after nearly 25 years in finance roles at Cisco and Microsoft; Jones has more than 30 years of experience as an entrepreneur, technology executive and venture investor, and previously served as executive chairman and CEO of Synopsys.",
+   "zh_hant": "輝達董事會宣布，創辦人黃仁勳即日起辭去總裁、行政總裁及董事職務，結束 33 年掌舵生涯。董事會已啟動正式行政總裁遴選程序，將同時考慮內部及外部人選；在正式繼任人出爐前，由執行副總裁兼財務總監 Colette Kress 暫代行政總裁，並任命 Harvey C. Jones 為公司首位董事會主席。聲明感謝黃仁勳過去 33 年的貢獻，強調公司營運、客戶承諾及產品路線圖將繼續順利推進。Kress 自 2013 年 9 月起領導集團財務團隊，此前在思科及微軟從事財務工作近 25 年；Jones 擁有逾 30 年企業家、科技主管及創投經驗，曾任新思科技執行主席兼行政總裁。",
+   "zh_hans": "辉达董事会宣布，创办人黄仁勋即日起辞去总裁、行政总裁及董事职务，结束 33 年掌舵生涯。董事会已启动正式行政总裁遴选程序，将同时考虑内部及外部人选；在正式继任人出炉前，由执行副总裁兼财务总监 Colette Kress 暂代行政总裁，并任命 Harvey C. Jones 为公司首位董事会主席。声明感谢黄仁勋过去 33 年的贡献，强调公司营运、客户承诺及产品路线图将继续顺利推进。Kress 自 2013 年 9 月起领导集团财务团队，此前在思科及微软从事财务工作近 25 年；Jones 拥有逾 30 年企业家、科技主管及创投经验，曾任新思科技执行主席兼行政总裁。"
+  },
+  "tags": {
+   "en": [
+    "Nvidia",
+    "Jensen Huang",
+    "CEO"
+   ],
+   "zh_hant": [
+    "輝達",
+    "黃仁勳",
+    "Nvidia"
+   ],
+   "zh_hans": [
+    "辉达",
+    "黄仁勋",
+    "Nvidia"
+   ]
   }
+ },
+ {
+  "id": "20261113-hengfa-lingnan-assault",
+  "category": "society",
+  "published_at": "2026-11-13T00:15:00+08:00",
+  "source": {
+   "name": "Dim Sum Daily",
+   "url": "https://www.dimsumdaily.hk/family-alleges-group-bullying-at-lingnan-secondary-school-confirms-clash-penalty-seen-as-too-light/"
+  },
+  "image_url": "https://hkcnexpress.com/assets/design/20261113-hengfa-school-assault-design.jpg",
+  "title": {
+   "en": "13-year-old boy allegedly assaulted at Heng Fa Chuen school; Education Bureau orders follow-up, no arrests yet",
+   "zh_hant": "杏花邨13歲男生校內疑被襲　教育局要求學校跟進　暫未有人被捕",
+   "zh_hans": "杏花邨13岁男生校内疑被袭　教育局要求学校跟进　暂未有人被捕"
+  },
+  "summary": {
+   "en": "A 13-year-old boy was allegedly struck by hand at Lingnan Secondary School in Heng Fa Chuen on Tuesday (10 November) and was taken to hospital conscious for examination. Police have classified the case as common assault and assigned it to the Eastern District anti-triad unit; no arrests have been made. The school said it activated its crisis-management mechanism immediately after learning of the incident, investigated and contacted the parents, and accompanied them to report the matter to police the next day. The school said it is fully cooperating with the police investigation, staying in close contact with the Education Bureau, and will provide appropriate support to the students involved. The Education Bureau has asked the school to follow up.",
+   "zh_hant": "杏花邨嶺南中學一名13歲男生，本周二（10日）在校內懷疑被人用手襲擊，事後清醒送院檢查。警方初步調查後將案件列為「普通襲擊」，交由東區警區反三合會行動組跟進，暫未有人被捕。校方稱知悉事件後即時啟動危機處理機制調查，並聯絡涉事學生家長，翌日陪同家長報警；校方表示會全力配合警方調查，與教育局保持緊密聯繫，並為相關學生提供適切支援。教育局已要求學校跟進事件。",
+   "zh_hans": "杏花邨岭南中学一名13岁男生，本周二（10日）在校内怀疑被人用手袭击，事后清醒送院检查。警方初步调查后将案件列为「普通袭击」，交由东区警区反三合会行动组跟进，暂未有人被捕。校方称知悉事件后即时启动危机处理机制调查，并联络涉事学生家长，翌日陪同家长报警；校方表示会全力配合警方调查，与教育局保持紧密联系，并为相关学生提供適切支援。教育局已要求学校跟进事件。"
+  },
+  "tags": {
+   "en": [
+    "Heng Fa Chuen",
+    "Lingnan Secondary School",
+    "school assault"
+   ],
+   "zh_hant": [
+    "杏花邨",
+    "嶺南中學",
+    "校園襲擊"
+   ],
+   "zh_hans": [
+    "杏花邨",
+    "岭南中学",
+    "校园袭击"
+   ]
+  }
+ },
+ {
+  "id": "20261113-zelensky-europe-permanent-negotiating-party",
+  "category": "world",
+  "published_at": "2026-11-13T00:32:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877604-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "澤連斯基：歐洲必須成為談判固定參與方　絕不承認俄佔領烏領土",
+   "en": "Zelenskyy: Europe must become a permanent party to talks; Ukraine will never recognise Russian occupation",
+   "zh_hans": "泽连斯基：欧洲必须成为谈判固定参与方　绝不承认俄占领乌领土"
+  },
+  "summary": {
+   "zh_hant": "烏克蘭總統澤連斯基表示，根據烏方代表團反饋，日前在阿聯酋首都阿布扎比舉行的烏俄美三方會談期間，各方討論了安全保障問題，烏方認為美國與俄羅斯討論建立俄歐新安全秩序的做法有點奇怪。澤連斯基在愛爾蘭首都都柏林舉行的歐洲政治共同體領導人會議上表示，當美俄討論安全保障問題時，涉及的不單止是對烏克蘭的安全保障，實際上更多涉及歐洲與俄羅斯之間某種新的安全框架；歐洲目前尚未直接參與有俄方代表在場的談判，但已介入相關進程，需要確保歐洲能夠成為談判的固定參與方。他又說，烏軍使用的星盾衛星通信系統在烏克蘭暫時被佔的領土再遭到限速，影響烏軍攔截俄羅斯無人機的能力，烏方正向美方了解詳情，強調絕不會以任何方式承認俄羅斯對烏克蘭領土的佔領。",
+   "en": "Ukrainian President Volodymyr Zelenskyy said that, according to feedback from Ukraine's delegation, security guarantees were discussed during the recent trilateral talks between Ukraine, Russia and the United States in Abu Dhabi, the capital of the United Arab Emirates, and that Kyiv found it somewhat strange for the US and Russia to discuss building a new security order between Russia and Europe. Speaking at a European Political Community leaders' meeting in Dublin, the capital of Ireland, Zelenskyy said that when the US and Russia discuss security guarantees, the issue goes beyond guarantees for Ukraine and is in fact largely about a new security framework between Europe and Russia. Europe has not yet taken part directly in negotiations with Russian representatives present, but is already involved in the process, and it must be ensured that Europe becomes a permanent party to the talks. He added that the Starlink satellite communications system used by Ukrainian forces had again been speed-limited in Ukrainian territory temporarily occupied by Russia, affecting Kyiv's ability to intercept Russian drones; Ukraine is seeking details from the US side, and he stressed that Ukraine will never, in any way, recognise Russia's occupation of Ukrainian territory.",
+   "zh_hans": "乌克兰总统泽连斯基表示，根据乌方代表团反馈，日前在阿联酋首都阿布扎比举行的乌俄美三方会谈期间，各方讨论了安全保障问题，乌方认为美国与俄罗斯讨论建立俄欧新安全秩序的做法有点奇怪。泽连斯基在爱尔兰首都都柏林举行的欧洲政治共同体领导人会议上表示，当美俄讨论安全保障问题时，涉及的不单止是对乌克兰的安全保障，实际上更多涉及欧洲与俄罗斯之间某种新的安全框架；欧洲目前尚未直接参与有俄方代表在场的谈判，但已介入相关进程，需要确保欧洲能够成为谈判的固定参与方。他又说，乌军使用的星盾卫星通信系统在乌克兰暂时被占的领土再遭到限速，影响乌军拦截俄罗斯无人机的能力，乌方正向美方了解详情，强调绝不会以任何方式承认俄罗斯对乌克兰领土的占领。"
+  },
+  "tags": {
+   "zh_hant": [
+    "澤連斯基",
+    "俄烏局勢",
+    "歐洲"
+   ],
+   "en": [
+    "Zelenskyy",
+    "Russia-Ukraine",
+    "Europe"
+   ],
+   "zh_hans": [
+    "泽连斯基",
+    "俄乌局势",
+    "欧洲"
+   ]
+  }
+ },
+ {
+  "id": "20261113-ny-building-collapse-death-toll-eight",
+  "category": "world",
+  "published_at": "2026-11-13T00:09:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877601-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "紐約樓房倒塌增至8死17傷　200人徹夜廢墟搜救",
+   "en": "New York building collapse death toll rises to eight, 17 injured as rescuers search rubble through the night",
+   "zh_hans": "纽约楼房倒塌增至8死17伤　200人彻夜废墟搜救"
+  },
+  "summary": {
+   "zh_hant": "美國紐約市一幢三層高樓房倒塌，市長馬姆達尼說，增至八人死亡、17人受傷，傷者包括消防員。事發在當地星期三下午，倒塌的樓房位於布魯克林區一處工地附近；警方說，倒塌建築內和施工現場都有人被困，200多名消防和應急人員徹夜在廢墟中搜救。市消防局局長說，將會全面搜索，確保找到所有被困人士。受事件影響，相鄰建築物的一側牆壁亦受損，內部梯間和公寓結構外露。",
+   "en": "A three-storey building has collapsed in New York City, and Mayor Mamdani said the death toll has risen to eight, with 17 people injured, including firefighters. The collapse happened on Wednesday afternoon local time near a construction site in Brooklyn; police said people were trapped both inside the collapsed building and at the construction site, and more than 200 firefighters and emergency personnel searched through the rubble overnight. The fire commissioner said a full search would be carried out to ensure all trapped people are found. A side wall of a neighbouring building was also damaged, exposing its internal stairwell and apartment structures.",
+   "zh_hans": "美国纽约市一幢三层高楼房倒塌，市长马姆达尼说，增至八人死亡、17人受伤，伤者包括消防员。事发在当地星期三下午，倒塌的楼房位于布鲁克林区一处工地附近；警方说，倒塌建筑内和施工现场都有人被困，200多名消防和应急人员彻夜在废墟中搜救。市消防局局长说，将会全面搜索，确保找到所有被困人士。受事件影响，相邻建筑物的一侧墙壁亦受损，内部梯间和公寓结构外露。"
+  },
+  "tags": {
+   "zh_hant": [
+    "紐約",
+    "樓房倒塌",
+    "布魯克林"
+   ],
+   "en": [
+    "New York",
+    "building collapse",
+    "Brooklyn"
+   ],
+   "zh_hans": [
+    "纽约",
+    "楼房倒塌",
+    "布鲁克林"
+   ]
+  }
+ }
 ]
