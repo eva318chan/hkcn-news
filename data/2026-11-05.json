@@ -2893,7 +2893,7 @@
    "name": "香港電台",
    "url": "https://news.rthk.hk/rthk/ch/component/k2/1876601-20261105.htm"
   },
-  "image_url": "https://hkcn-news.vercel.app/assets/design/20261105-trump-midterms-remarks.jpg",
+  "image_url": "https://hkcnexpress.com/assets/design/20261105-trump-midterms-remarks.jpg",
   "title": {
    "en": "Trump says he would have won easily had his name been on the midterm ballot, unfazed by impeachment threat",
    "zh_hans": "特朗普形容若中期选举选票上有其名字早就获胜　称毫不担心被弹劾",
@@ -2967,7 +2967,7 @@
    "name": "香港電台",
    "url": "https://news.rthk.hk/rthk/ch/component/k2/1876604-20261105.htm"
   },
-  "image_url": "https://hkcn-news.vercel.app/assets/design/20261105-eu-ukraine-reconstruction-talks.jpg",
+  "image_url": "https://hkcnexpress.com/assets/design/20261105-eu-ukraine-reconstruction-talks.jpg",
   "title": {
    "en": "EU hosts multilateral talks on Ukraine's post-war reconstruction and economic development",
    "zh_hans": "欧盟委员会举行多方会谈　讨论乌克兰战后重建与经济发展",
@@ -3036,7 +3036,7 @@
  {
   "category": "finance",
   "id": "20261105-kospi-morning-drop",
-  "image_url": "https://hkcn-news.vercel.app/assets/design/20261105-kospi-morning-drop.jpg",
+  "image_url": "https://hkcnexpress.com/assets/design/20261105-kospi-morning-drop.jpg",
   "published_at": "2026-11-05T08:08:00+08:00",
   "source": {
    "name": "香港電台",
