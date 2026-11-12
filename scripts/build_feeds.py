@@ -3,7 +3,7 @@
 兩站通用 feed 生成器：由 data/*.json 生成 sitemap.xml + rss.xml。
 用法: python3 build_feeds.py <repo> <site_url>
   repo: eva318chan/hkcn-news | eva318chan/hkcn-sports-news
-  site_url: https://hkcn-news.vercel.app | https://hksports.hk
+  site_url: https://hkcnexpress.com | https://hksports.hk
 讀取 live GitHub raw data，輸出寫去 stdout 旁嘅 sitemap.xml / rss.xml（當前目錄）。
 """
 import sys, json, urllib.request, html

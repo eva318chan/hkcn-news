@@ -2,7 +2,7 @@
 
 香港及中國綜合新聞聚合網站，每 4 小時自動更新。純靜態網站，無後端、無 build step。
 
-- 線上網址：https://hkcn-news.vercel.app
+- 線上網址：https://hkcnexpress.com
 
 ## 技術棧
 
@@ -96,7 +96,7 @@
 
 ## Deploy
 
-Vercel 已連接本 repo 的 `main` branch：任何 push 上 `main` 會自動 deploy 到 https://hkcn-news.vercel.app，無需手動操作或額外設定。
+Vercel 已連接本 repo 的 `main` branch：任何 push 上 `main` 會自動 deploy 到 https://hkcnexpress.com，無需手動操作或額外設定。
 
 ## 維護注意事項
 
