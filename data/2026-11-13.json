@@ -1,0 +1,39 @@
+[
+  {
+    "id": "20261113-hengfa-lingnan-assault",
+    "category": "society",
+    "published_at": "2026-11-13T00:15:00+08:00",
+    "source": {
+      "name": "Dim Sum Daily",
+      "url": "https://www.dimsumdaily.hk/family-alleges-group-bullying-at-lingnan-secondary-school-confirms-clash-penalty-seen-as-too-light/"
+    },
+    "image_url": "https://hkcn-news.vercel.app/assets/design/20261113-hengfa-school-assault-design.jpg",
+    "title": {
+      "en": "13-year-old boy allegedly assaulted at Heng Fa Chuen school; Education Bureau orders follow-up, no arrests yet",
+      "zh_hant": "杏花邨13歲男生校內疑被襲　教育局要求學校跟進　暫未有人被捕",
+      "zh_hans": "杏花邨13岁男生校内疑被袭　教育局要求学校跟进　暂未有人被捕"
+    },
+    "summary": {
+      "en": "A 13-year-old boy was allegedly struck by hand at Lingnan Secondary School in Heng Fa Chuen on Tuesday (10 November) and was taken to hospital conscious for examination. Police have classified the case as common assault and assigned it to the Eastern District anti-triad unit; no arrests have been made. The school said it activated its crisis-management mechanism immediately after learning of the incident, investigated and contacted the parents, and accompanied them to report the matter to police the next day. The school said it is fully cooperating with the police investigation, staying in close contact with the Education Bureau, and will provide appropriate support to the students involved. The Education Bureau has asked the school to follow up.",
+      "zh_hant": "杏花邨嶺南中學一名13歲男生，本周二（10日）在校內懷疑被人用手襲擊，事後清醒送院檢查。警方初步調查後將案件列為「普通襲擊」，交由東區警區反三合會行動組跟進，暫未有人被捕。校方稱知悉事件後即時啟動危機處理機制調查，並聯絡涉事學生家長，翌日陪同家長報警；校方表示會全力配合警方調查，與教育局保持緊密聯繫，並為相關學生提供適切支援。教育局已要求學校跟進事件。",
+      "zh_hans": "杏花邨岭南中学一名13岁男生，本周二（10日）在校内怀疑被人用手袭击，事后清醒送院检查。警方初步调查后将案件列为「普通袭击」，交由东区警区反三合会行动组跟进，暂未有人被捕。校方称知悉事件后即时启动危机处理机制调查，并联络涉事学生家长，翌日陪同家长报警；校方表示会全力配合警方调查，与教育局保持紧密联系，并为相关学生提供適切支援。教育局已要求学校跟进事件。"
+    },
+    "tags": {
+      "en": [
+        "Heng Fa Chuen",
+        "Lingnan Secondary School",
+        "school assault"
+      ],
+      "zh_hant": [
+        "杏花邨",
+        "嶺南中學",
+        "校園襲擊"
+      ],
+      "zh_hans": [
+        "杏花邨",
+        "岭南中学",
+        "校园袭击"
+      ]
+    }
+  }
+]
