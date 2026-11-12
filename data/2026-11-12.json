@@ -37,6 +37,336 @@
   }
  },
  {
+  "id": "20261112-nikkei-close-down-0-7pct",
+  "category": "finance",
+  "published_at": "2026-11-12T14:38:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877528-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "日股低收0.7%　結束3日升勢",
+   "en": "Nikkei closes down 0.7%, ending three-day winning streak",
+   "zh_hans": "日股低收0.7%　结束3日升势"
+  },
+  "summary": {
+   "zh_hant": "日股高開低走，結束3日升勢。日經指數最多升約0.9%，高見61788點，午後顯著向下，收報60819點，跌429點，跌幅0.7%。",
+   "en": "Japanese stocks opened higher but closed lower, ending a three-day winning streak. The Nikkei rose as much as about 0.9 percent to an intraday high of 61,788 before falling sharply in the afternoon to close at 60,819, down 429 points or 0.7 percent.",
+   "zh_hans": "日股高开低走，结束3日升势。日经指数最多升约0.9%，高见61788点，午后显著向下，收报60819点，跌429点，跌幅0.7%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "日股",
+    "日經指數"
+   ],
+   "en": [
+    "Japanese stocks",
+    "Nikkei"
+   ],
+   "zh_hans": [
+    "日股",
+    "日经指数"
+   ]
+  }
+ },
+ {
+  "id": "20261112-kim-jong-un-naval-base-east-coast",
+  "category": "world",
+  "published_at": "2026-11-12T14:12:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877526-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "金正恩現場指導東海岸重要海軍基地建設工作",
+   "en": "Kim Jong Un inspects construction of key naval base on east coast",
+   "zh_hans": "金正恩现场指导东海岸重要海军基地建设工作"
+  },
+  "summary": {
+   "zh_hant": "朝中社報道，朝鮮勞動黨總書記、國務委員長金正恩昨日現場指導東海岸重要海軍基地建設工作，聽取工程進展匯報，並強調海軍基地建設的戰略重要性。金正恩表示，現代化海軍基地建設直接關係維護國家安全和海上主權，提出基地實現現代化、多功能化、要塞化的指導方針，並要求擴充工程指揮力量和建設力量以加快軍港建設。朝中社另一報道指，位於朝鮮東海岸的江原道通川郡一帶正進行大規模海軍基地建設。",
+   "en": "North Korea's KCNA reported that Kim Jong Un, general secretary of the Workers' Party of Korea and chairman of the State Affairs Commission, inspected construction work at a key naval base on the country's east coast on Wednesday, receiving a briefing on progress and stressing the strategic importance of the base. Kim said building a modern naval base is directly tied to safeguarding national security and maritime sovereignty, setting out guidance for the base to become modernised, multifunctional and fortified, and calling for expanded command and construction capacity to speed up the naval port project. A separate KCNA report said large-scale naval base construction is under way around Tongchon county in Kangwon province on the east coast.",
+   "zh_hans": "朝中社报道，朝鲜劳动党总书记、国务委员长金正恩昨日现场指导东海岸重要海军基地建设工作，听取工程进展汇报，并强调海军基地建设的战略重要性。金正恩表示，现代化海军基地建设直接关系维护国家安全和海上主权，提出基地实现现代化、多功能化、要塞化的指导方针，并要求扩充工程指挥力量和建设力量以加快军港建设。朝中社另一报道指，位于朝鲜东海岸的江原道通川郡一带正进行大规模海军基地建设。"
+  },
+  "tags": {
+   "zh_hant": [
+    "金正恩",
+    "朝鮮",
+    "海軍基地"
+   ],
+   "en": [
+    "Kim Jong Un",
+    "North Korea",
+    "naval base"
+   ],
+   "zh_hans": [
+    "金正恩",
+    "朝鲜",
+    "海军基地"
+   ]
+  }
+ },
+ {
+  "id": "20261112-alphabet-hkd-sgd-bonds-50bn-subscriptions",
+  "category": "finance",
+  "published_at": "2026-11-12T13:55:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877524-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "Alphabet擬首發港元和坡元債券　初步獲約50億美元認購",
+   "en": "Alphabet plans debut Hong Kong dollar and Singapore dollar bond issues, drawing about US$5 billion in initial orders",
+   "zh_hans": "Alphabet拟首发港元和坡元债券　初步获约50亿美元认购"
+  },
+  "summary": {
+   "zh_hant": "外電報道，Google母公司Alphabet首次發行港元和新加坡元債券，初步認購額約50億美元。路透報道指，3筆港元債券認購金額逾240億港元，即約31億美元，包括2年期、5年期及10年期，初始價格指引分別約4.6厘至5.5厘；4筆坡元債券認購金額逾25億坡元，即約19億美元，分別為2年期、5年期、10年期和30年期，價格指引分別約2.75厘至4厘。報道提到，Alphabet正考慮港元債券最低發行規模80億港元，坡元債券最低發行規模15億坡元，最終發行規模及定價尚未公布。債券定於下周四交割，預計穆迪及標準普爾分別給予「Aa2」及「AA+」評級。",
+   "en": "Foreign media reported that Alphabet, the parent company of Google, is issuing Hong Kong dollar and Singapore dollar bonds for the first time, drawing initial subscriptions of about US$5 billion. Reuters reported that three Hong Kong dollar tranches attracted more than HK$24 billion, or about US$3.1 billion, in orders, spanning two, five and ten years, with initial price guidance of about 4.6 to 5.5 percent. Four Singapore dollar tranches drew more than S$2.5 billion, or about US$1.9 billion, spanning two, five, ten and thirty years, with guidance of about 2.75 to 4 percent. Alphabet is considering a minimum issue size of HK$8 billion for the Hong Kong dollar bonds and S$1.5 billion for the Singapore dollar bonds, with final size and pricing yet to be announced. The bonds are due to settle next Thursday, with Moody's and S&P expected to assign ratings of Aa2 and AA+ respectively.",
+   "zh_hans": "外电报道，Google母公司Alphabet首次发行港元和新加坡元债券，初步认购额约50亿美元。路透报道指，3笔港元债券认购金额逾240亿港元，即约31亿美元，包括2年期、5年期及10年期，初始价格指引分别约4.6厘至5.5厘；4笔坡元债券认购金额逾25亿坡元，即约19亿美元，分别为2年期、5年期、10年期和30年期，价格指引分别约2.75厘至4厘。报道提到，Alphabet正考虑港元债券最低发行规模80亿港元，坡元债券最低发行规模15亿坡元，最终发行规模及定价尚未公布。债券定于下周四交割，预计穆迪及标准普尔分别给予「Aa2」及「AA+」评级。"
+  },
+  "tags": {
+   "zh_hant": [
+    "Alphabet",
+    "債券",
+    "港元債券"
+   ],
+   "en": [
+    "Alphabet",
+    "bonds",
+    "Hong Kong dollar bonds"
+   ],
+   "zh_hans": [
+    "Alphabet",
+    "债券",
+    "港元债券"
+   ]
+  }
+ },
+ {
+  "id": "20261112-northern-metropolis-bill-third-reading",
+  "category": "hk",
+  "published_at": "2026-11-12T13:30:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877522-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "立法會三讀通過《北部都會區發展條例草案》",
+   "en": "Legislative Council passes Northern Metropolis development bill on third reading",
+   "zh_hans": "立法会三读通过《北部都会区发展条例草案》"
+  },
+  "summary": {
+   "zh_hant": "立法會三讀通過《北部都會區發展條例草案》。發展局局長甯漢豪在立法會三讀前發言說，政府原定目標是今年年底通過草案，現時提前一個半月通過，反映行政立法互動良好，為北都發展提速提效共同貢獻力量。甯漢豪說，北都帶來無限機遇也有很多挑戰，相信有很多可能性未必現在一一可以預見，現階段不需要追求包羅萬有、處理無限想像情境的新條例，而是實事求是做到既進取亦務實，日後隨北都進入不同階段，當局會適時按需要引入新法例。她表示，政府會盡快爭取明年1月向立法會提交相關附屬法例，爭取便利措施明年第一季生效。多名議員發言支持草案，認為這是香港首次為單一大型區域制定專屬法例，做到拆牆鬆綁、提速提效。",
+   "en": "The Legislative Council passed the Northern Metropolis Development Bill on its third reading. Secretary for Development Bernadette Linn told the Council before the vote that the government had aimed to pass the bill by the end of the year, and passing it a month and a half early reflects good executive-legislative interaction and a joint effort to speed up the Northern Metropolis. Linn said the Northern Metropolis offers unlimited opportunities but also many challenges, and that not every possibility can be foreseen now, so there is no need to pursue an all-encompassing law covering every imaginable scenario; the approach is to be both ambitious and pragmatic, with new legislation introduced as needed as the Northern Metropolis advances. She said the government will seek to submit the relevant subsidiary legislation to the Council in January next year, with a view to the facilitation measures taking effect in the first quarter. Several lawmakers spoke in support, describing the bill as Hong Kong's first dedicated law for a single large region, cutting red tape and improving efficiency.",
+   "zh_hans": "立法会三读通过《北部都会区发展条例草案》。发展局局长甯汉豪在立法会三读前发言说，政府原定目标是今年年底通过草案，现时提前一个半月通过，反映行政立法互动良好，为北都发展提速提效共同贡献力量。甯汉豪说，北都带来无限机遇也有很多挑战，相信有很多可能性未必现在一一可以预见，现阶段不需要追求包罗万有、处理无限想像情境的新条例，而是实事求是做到既进取亦务实，日后随北都进入不同阶段，当局会适时按需要引入新法例。她表示，政府会尽快争取明年1月向立法会提交相关附属法例，争取便利措施明年第一季生效。多名议员发言支持草案，认为这是香港首次为单一大型区域制定专属法例，做到拆墙松绑、提速提效。"
+  },
+  "tags": {
+   "zh_hant": [
+    "北部都會區",
+    "立法會",
+    "甯漢豪"
+   ],
+   "en": [
+    "Northern Metropolis",
+    "Legislative Council",
+    "Bernadette Linn"
+   ],
+   "zh_hans": [
+    "北部都会区",
+    "立法会",
+    "甯汉豪"
+   ]
+  }
+ },
+ {
+  "id": "20261112-gold-price-support-3870-analysis",
+  "category": "finance",
+  "published_at": "2026-11-12T13:24:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877520-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "分析料金價降至3870美元附近有支持",
+   "en": "Analyst expects gold to find support near US$3,870 an ounce",
+   "zh_hans": "分析料金价降至3870美元附近有支持"
+  },
+  "summary": {
+   "zh_hant": "金價回落至每盎司4000美元以下，現貨金較早時報3971.14美元，跌幅0.4%。獨立外匯商品分析師盧楚仁指出，美國本周公布的10月通脹數據按月升幅放緩，但仍然高過預期，聯儲局官員的言論亦較預期鷹派，再次推高美國加息預期，導致金價從4000美元關口回落。他認為，近日國際油價已見回落，美國未必需要繼續進取地加息，預計美元稍後將會回軟，而黃金的投資需求仍然較強，相信金價降至每盎司3870美元附近有支持。",
+   "en": "Gold fell back below US$4,000 an ounce, with spot gold trading at US$3,971.14 earlier, down 0.4 percent. Independent foreign exchange and commodities analyst Aaron Lo said US inflation data for October released this week showed a slower monthly rise but still came in above expectations, while comments from Federal Reserve officials were more hawkish than expected, pushing US rate-hike expectations higher and dragging gold below the US$4,000 level. He said international oil prices have recently eased, so the United States may not need to keep raising rates aggressively, and expects the US dollar to soften later, while investment demand for gold remains strong — suggesting gold should find support near US$3,870 an ounce.",
+   "zh_hans": "金价回落至每盎司4000美元以下，现货金较早时报3971.14美元，跌幅0.4%。独立外汇商品分析师卢楚仁指出，美国本周公布的10月通胀数据按月升幅放缓，但仍然高过预期，联储局官员的言论亦较预期鹰派，再次推高美国加息预期，导致金价从4000美元关口回落。他认为，近日国际油价已见回落，美国未必需要继续进取地加息，预计美元稍后将会回软，而黄金的投资需求仍然较强，相信金价降至每盎司3870美元附近有支持。"
+  },
+  "tags": {
+   "zh_hant": [
+    "金價",
+    "黃金",
+    "聯儲局"
+   ],
+   "en": [
+    "gold price",
+    "gold",
+    "Federal Reserve"
+   ],
+   "zh_hans": [
+    "金价",
+    "黄金",
+    "联储局"
+   ]
+  }
+ },
+ {
+  "id": "20261112-link-reit-hk-retail-income-down-3pct",
+  "category": "finance",
+  "published_at": "2026-11-12T13:24:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877512-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "領展上半年度香港物業零售收益跌3%　料收入仍會下跌",
+   "en": "Link REIT's Hong Kong retail revenue falls 3% in first half; income expected to keep declining",
+   "zh_hans": "领展上半年度香港物业零售收益跌3%　料收入仍会下跌"
+  },
+  "summary": {
+   "zh_hant": "領展截至9月底止上半年度香港物業零售收益總額近36億元，按年跌3%。截至9月底，租用率97%，較3月底跌0.8個百分點。上半年香港零售物業組合續租率約82%，續租租金下跌7.5%；商舖續租租金按年跌7.3%，跌幅擴大1.4個百分點；街市或熟食檔位續租租金跌幅收窄至8.4%。截至9月底，香港零售物業組合平均每月呎租59.4元，較3月底跌逾1%。上半財年內地物業組合總收益以港元計按年升2.9%，物業收入淨額升5%，受惠人民幣升值；撇除匯率影響，分別跌2.9%和1.2%。領展主席歐敦勤預計，收入仍會輕微下跌，當中包括佔整體物業組合約一半的香港零售業務，認為當前利率環境充滿挑戰，但核心物業組合部分業務已初現回穩跡象。",
+   "en": "Link REIT's Hong Kong retail revenue for the half year ended September totalled nearly HK$3.6 billion, down 3 percent year on year. Occupancy stood at 97 percent at the end of September, down 0.8 percentage points from the end of March. The Hong Kong retail portfolio's retention rate was about 82 percent in the half year, with reversion rates down 7.5 percent; shop reversion rates fell 7.3 percent year on year, widening by 1.4 percentage points, while the decline for market and cooked-food stalls narrowed to 8.4 percent. Average monthly unit rent for the Hong Kong retail portfolio was HK$59.4 per square foot at the end of September, down more than 1 percent from end-March. The mainland portfolio's total revenue rose 2.9 percent in Hong Kong dollar terms, with net property income up 5 percent, helped by the renminbi's appreciation; excluding currency effects, they fell 2.9 percent and 1.2 percent respectively. Link REIT chairman Nicholas Allen expects income to continue falling slightly, including in the Hong Kong retail business, which accounts for about half of the overall portfolio, saying the interest rate environment remains challenging but parts of the core portfolio are showing early signs of stabilising.",
+   "zh_hans": "领展截至9月底止上半年度香港物业零售收益总额近36亿元，按年跌3%。截至9月底，租用率97%，较3月底跌0.8个百分点。上半年香港零售物业组合续租率约82%，续租租金下跌7.5%；商铺续租租金按年跌7.3%，跌幅扩大1.4个百分点；街市或熟食档位续租租金跌幅收窄至8.4%。截至9月底，香港零售物业组合平均每月呎租59.4元，较3月底跌逾1%。上半财年内地物业组合总收益以港元计按年升2.9%，物业收入净额升5%，受惠人民币升值；撇除汇率影响，分别跌2.9%和1.2%。领展主席欧敦勤预计，收入仍会轻微下跌，当中包括占整体物业组合约一半的香港零售业务，认为当前利率环境充满挑战，但核心物业组合部分业务已初现回稳迹象。"
+  },
+  "tags": {
+   "zh_hant": [
+    "領展",
+    "零售收益",
+    "租金"
+   ],
+   "en": [
+    "Link REIT",
+    "retail revenue",
+    "rental"
+   ],
+   "zh_hans": [
+    "领展",
+    "零售收益",
+    "租金"
+   ]
+  }
+ },
+ {
+  "id": "20261112-hsi-afternoon-down-over-200",
+  "category": "finance",
+  "published_at": "2026-11-12T13:07:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877519-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "恒指下午初段跌逾200點",
+   "en": "Hang Seng falls more than 200 points in early afternoon trading",
+   "zh_hans": "恒指下午初段跌逾200点"
+  },
+  "summary": {
+   "zh_hant": "港股下午開市初段下跌，恒生指數較早時報24112點，跌203點，跌幅0.84%。科技指數報3966點，跌60點，跌幅1.49%。",
+   "en": "Hong Kong stocks fell in early afternoon trading, with the Hang Seng Index at 24,112 earlier, down 203 points or 0.84 percent. The Hang Seng Tech Index stood at 3,966, down 60 points or 1.49 percent.",
+   "zh_hans": "港股下午开市初段下跌，恒生指数较早时报24112点，跌203点，跌幅0.84%。科技指数报3966点，跌60点，跌幅1.49%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "恒指",
+    "科技指數",
+    "港股"
+   ],
+   "en": [
+    "Hang Seng Index",
+    "Hang Seng Tech Index",
+    "Hong Kong stocks"
+   ],
+   "zh_hans": [
+    "恒指",
+    "科技指数",
+    "港股"
+   ]
+  }
+ },
+ {
+  "id": "20261112-ia-16pct-hk-medical-spending",
+  "category": "finance",
+  "published_at": "2026-11-12T12:53:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877516-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "保監局：保險佔本港醫療開支約16%　政府補貼逾半",
+   "en": "Insurance Authority: insurance covers about 16% of Hong Kong medical spending; government subsidises over half",
+   "zh_hans": "保监局：保险占本港医疗开支约16%　政府补贴逾半"
+  },
+  "summary": {
+   "zh_hant": "保險業監管局行政總監張雲正表示，香港正步入超高齡社會，衍生出退休生活及醫療等議題，提到香港約700萬人口中，僅約一半有買保險，其餘需要依賴政府照顧。他出席國際保險監督官協會年會時說，目前保險僅佔本港整體醫療開支約16%，政府補貼51%；65歲或以上長者中，僅兩成受保險保障。面對高達每年10%的醫療通脹率，政府長遠將難以支撐，認為各界須作出更多努力。他說，監管理念在於從「規管」轉變為爭取「協同」，嘗試與各方合作，包括支持保險公司推出年金計劃，讓香港市民可選擇在內地退休養休。",
+   "en": "Clement Cheung, chief executive of the Insurance Authority, said Hong Kong is entering a super-aged society, raising issues around retirement living and medical care, noting that of Hong Kong's roughly seven million people, only about half have insurance, with the rest relying on government support. Speaking at the International Association of Insurance Supervisors annual conference, Cheung said insurance currently accounts for only about 16 percent of Hong Kong's total medical spending, while the government subsidises 51 percent, and only two in ten people aged 65 or above are covered by insurance. With medical inflation running as high as 10 percent a year, the government will struggle to sustain the burden in the long term, he said, adding that all sectors need to do more. He said the regulatory approach is shifting from 'regulation' to 'collaboration', including supporting insurers to launch annuity plans so Hong Kong residents can choose to retire on the mainland.",
+   "zh_hans": "保险业监管局行政总监张云正表示，香港正步入超高龄社会，衍生出退休生活及医疗等议题，提到香港约700万人口中，仅约一半有买保险，其余需要依赖政府照顾。他出席国际保险监督官协会年会时说，目前保险仅占本港整体医疗开支约16%，政府补贴51%；65岁或以上长者中，仅两成受保险保障。面对高达每年10%的医疗通胀率，政府长远将难以支撑，认为各界须作出更多努力。他说，监管理念在于从「规管」转变为争取「协同」，尝试与各方合作，包括支持保险公司推出年金计划，让香港市民可选择在内地退休养老。"
+  },
+  "tags": {
+   "zh_hant": [
+    "保監局",
+    "醫療開支",
+    "保險"
+   ],
+   "en": [
+    "Insurance Authority",
+    "medical spending",
+    "insurance"
+   ],
+   "zh_hans": [
+    "保监局",
+    "医疗开支",
+    "保险"
+   ]
+  }
+ },
+ {
+  "id": "20261112-chinese-tourist-missing-mount-fuji",
+  "category": "world",
+  "published_at": "2026-11-12T12:53:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877515-20261112.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "日媒：一名中國男遊客在富士山失聯",
+   "en": "Japanese media: Chinese male tourist goes missing on Mount Fuji",
+   "zh_hans": "日媒：一名中国男游客在富士山失联"
+  },
+  "summary": {
+   "zh_hant": "日本朝日電視台報道，一名20多歲的中國男遊客日前在富士山失聯，可能已遇險。報道稱，男子本月8日上午獨自登山，隨後失聯；警方、消防等部門星期二早上起進行搜尋，但未發現其蹤跡。新華社引述中國駐日本大使館表示，男子家屬計劃前往日本搜尋，使館正提供協助。",
+   "en": "Japan's TV Asahi reported that a Chinese male tourist in his twenties went missing on Mount Fuji in recent days and may be in danger. The man climbed the mountain alone on the morning of November 8 and has not been heard from since; police, firefighters and other departments have been searching since Tuesday morning but have found no trace of him. Xinhua cited the Chinese embassy in Japan as saying the man's family plans to travel to Japan to join the search and the embassy is providing assistance.",
+   "zh_hans": "日本朝日电视台报道，一名20多岁的中国男游客日前在富士山失联，可能已遇险。报道称，男子本月8日上午独自登山，随后失联；警方、消防等部门星期二早上起进行搜寻，但未发现其踪迹。新华社引述中国驻日本大使馆表示，男子家属计划前往日本搜寻，使馆正提供协助。"
+  },
+  "tags": {
+   "zh_hant": [
+    "富士山",
+    "失聯",
+    "中國遊客"
+   ],
+   "en": [
+    "Mount Fuji",
+    "missing",
+    "Chinese tourist"
+   ],
+   "zh_hans": [
+    "富士山",
+    "失联",
+    "中国游客"
+   ]
+  }
+ },
+ {
   "id": "20261112-hsi-midday-down-223",
   "category": "finance",
   "published_at": "2026-11-12T12:19:00+08:00",
