@@ -486,6 +486,178 @@
   }
  },
  {
+  "id": "20261113-us-ppi-october-6-5-percent",
+  "category": "finance",
+  "published_at": "2026-11-13T22:29:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877742-20261113.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "美國10月PPI按年升6.5%創近4年新高　按月升幅顯著放緩",
+   "en": "US October PPI rises 6.5% year on year, fastest in nearly four years, as monthly gain slows sharply",
+   "zh_hans": "美国10月PPI按年升6.5%创近4年新高　按月升幅显著放缓"
+  },
+  "summary": {
+   "zh_hant": "美國10月上游物價通脹率創近4年新高，物價按月升幅則顯著放緩。10月最終需求生產物價指數按年升幅加快至6.5%，略低於市場預期；撇除食品及能源的核心生產物價指數按年升幅維持5%，符合預期。按月比較，生產物價指數升0.3%，升幅略低於預期，比9月的1.4%顯著放緩；核心生產物價指數按月升0.3%，符合預期，升幅比9月的0.8%有所放緩。",
+   "en": "US upstream price inflation hit its highest in nearly four years in October, though the monthly increase slowed sharply. The final-demand producer price index rose 6.5 per cent year on year in October, slightly below market expectations; core PPI, excluding food and energy, rose 5 per cent year on year, in line with expectations. Month on month, PPI rose 0.3 per cent, slightly below expectations and sharply slower than September's 1.4 per cent; core PPI rose 0.3 per cent month on month, in line with expectations and slower than September's 0.8 per cent.",
+   "zh_hans": "美国10月上游物价通胀率创近4年新高，物价按月升幅则显著放缓。10月最终需求生产物价指数按年升幅加快至6.5%，略低于市场预期；撇除食品及能源的核心生产物价指数按年升幅维持5%，符合预期。按月比较，生产物价指数升0.3%，升幅略低于预期，比9月的1.4%显著放缓；核心生产物价指数按月升0.3%，符合预期，升幅比9月的0.8%有所放缓。"
+  },
+  "tags": {
+   "zh_hant": [
+    "美國PPI",
+    "通脹",
+    "美國經濟",
+    "物價",
+    "聯儲局"
+   ],
+   "en": [
+    "US PPI",
+    "inflation",
+    "US economy",
+    "prices",
+    "Federal Reserve"
+   ],
+   "zh_hans": [
+    "美国PPI",
+    "通胀",
+    "美国经济",
+    "物价",
+    "联储局"
+   ]
+  }
+ },
+ {
+  "id": "20261113-missing-girl-ma-on-shan-found",
+  "category": "hk",
+  "published_at": "2026-11-13T22:16:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/13/P2026111300760.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "失蹤兩日終尋回！14歲女童蕭樂瑤天水圍現身　無受傷無可疑",
+   "en": "Missing 14-year-old girl Siu Lok-yiu found safe in Tin Shui Wai after two days",
+   "zh_hans": "失踪两日终寻回！14岁女童萧乐瑶天水围现身　无受伤无可疑"
+  },
+  "summary": {
+   "zh_hant": "警方表示，14歲少女蕭樂瑤星期三（11月11日）早上離開馬鞍山耀安邨住所後失蹤，家人同日報案。警方今日（11月13日）下午在天水圍天瑞邨尋回她，她沒有受傷，案件亦沒有可疑情況。警方早前曾發出呼籲，呼籲市民提供消息協助尋找該名女童。",
+   "en": "Police said 14-year-old Siu Lok-yiu went missing after leaving her home in Yiu On Estate, Ma On Shan, on the morning of Wednesday (November 11), and her family reported her missing the same day. She was located in Tin Shui Estate, Tin Shui Wai, this afternoon (November 13). She sustained no injuries and no suspicious circumstances were detected. Police had earlier appealed to the public for information to help find her.",
+   "zh_hans": "警方表示，14岁少女萧乐瑶星期三（11月11日）早上离开马鞍山耀安邨住所后失踪，家人同日报案。警方今日（11月13日）下午在天水围天瑞邨寻回她，她没有受伤，案件亦没有可疑情况。警方早前曾发出呼吁，呼吁市民提供消息协助寻找该名女童。"
+  },
+  "tags": {
+   "zh_hant": [
+    "失蹤女童",
+    "蕭樂瑤",
+    "馬鞍山",
+    "天水圍",
+    "警方"
+   ],
+   "en": [
+    "missing girl",
+    "Siu Lok-yiu",
+    "Ma On Shan",
+    "Tin Shui Wai",
+    "police"
+   ],
+   "zh_hans": [
+    "失踪女童",
+    "萧乐瑶",
+    "马鞍山",
+    "天水围",
+    "警方"
+   ]
+  }
+ },
+ {
+  "id": "20261113-chai-wan-schoolboy-assault",
+  "category": "hk",
+  "published_at": "2026-11-13T21:51:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877741-20261113.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "又爆校園襲擊！柴灣11歲男生疑校內被打傷　警列刑案暫無人被捕",
+   "en": "11-year-old boy allegedly assaulted at Chai Wan school; police classify case as assault occasioning actual bodily harm, no arrests yet",
+   "zh_hans": "又爆校园袭击！柴湾11岁男生疑校内被打伤　警列刑案暂无人被捕"
+  },
+  "summary": {
+   "zh_hant": "警方早前接報，指一名11歲男生上月21日在柴灣一間學校內懷疑被人用手襲擊，男童報稱受傷，送往東區醫院治理。警方經初步調查後，將案件列為「襲擊致造成身體傷害」，由東區警區刑事調查隊第一隊跟進，暫時未有人被捕。教育局表示十分關注事件，接獲學校通報後已提醒學校嚴肅跟進，為有需要學生提供支援及輔導；學校已啟動危機處理小組跟進，並與有關學生家長保持聯繫。教育局重申對校園欺凌採取「零容忍」政策。",
+   "en": "Police received a report earlier that an 11-year-old boy was allegedly assaulted by hand at a school in Chai Wan on October 21. The boy reported being injured and was taken to Eastern Hospital for treatment. After a preliminary investigation, police classified the case as assault occasioning actual bodily harm; it is being followed up by the first team of the Eastern District Criminal Investigation Unit, and no arrests have been made so far. The Education Bureau said it is very concerned about the incident and, after receiving the school's report, reminded the school to follow up seriously and provide support and counselling to students in need; the school has activated its crisis management team and is liaising with the parents concerned. The bureau reiterated its zero-tolerance policy on school bullying.",
+   "zh_hans": "警方早前接报，指一名11岁男生上月21日在柴湾一间学校内怀疑被人用手袭击，男童报称受伤，送往东区医院治理。警方经初步调查后，将案件列为「袭击致造成身体伤害」，由东区警区刑事调查队第一队跟进，暂时未有人被捕。教育局表示十分关注事件，接获学校通报后已提醒学校严肃跟进，为有需要学生提供支援及辅导；学校已启动危机处理小组跟进，并与有关学生家长保持联系。教育局重申对校园欺凌采取「零容忍」政策。"
+  },
+  "tags": {
+   "zh_hant": [
+    "校園襲擊",
+    "柴灣",
+    "學童安全",
+    "教育局",
+    "警方"
+   ],
+   "en": [
+    "school assault",
+    "Chai Wan",
+    "student safety",
+    "Education Bureau",
+    "police"
+   ],
+   "zh_hans": [
+    "校园袭击",
+    "柴湾",
+    "学童安全",
+    "教育局",
+    "警方"
+   ]
+  }
+ },
+ {
+  "id": "20261113-wang-yi-south-korea-fm-meeting",
+  "category": "china",
+  "published_at": "2026-11-13T21:40:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877738-20261113.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "王毅晤韓外長趙顯：中韓關係重回改善軌道　期待下周深圳APEC領袖會晤",
+   "en": "Wang Yi meets South Korean foreign minister Cho Hyun: China-South Korea ties back on track of improvement; leaders' meeting expected in Shenzhen next week",
+   "zh_hans": "王毅晤韩外长赵显：中韩关系重回改善轨道　期待下周深圳APEC领袖会晤"
+  },
+  "summary": {
+   "zh_hant": "中共中央政治局委員、外長王毅在北京與韓國外長趙顯舉行會談。王毅表示，中韓關係已重回改善發展軌道，中方願同韓方攜手努力，繼續保持高層交往。趙顯表示，朝鮮半島問題關乎韓國切身利益，半島和平與穩定符合韓中兩國共同利益，韓方願同中方繼續加強戰略溝通，推動半島局勢取得積極進展。兩人均期待兩國領導人下星期在深圳出席亞太經合組織第三十三次領導人非正式會議期間會晤。",
+   "en": "Wang Yi, a member of the Political Bureau of the Communist Party of China Central Committee and Foreign Minister, held talks in Beijing with South Korean Foreign Minister Cho Hyun. Wang said China-South Korea relations have returned to a track of improvement and development, and China is willing to work with South Korea to maintain high-level exchanges. Cho said the Korean Peninsula issue concerns South Korea's vital interests and that peace and stability on the peninsula serve the common interests of both countries; South Korea is willing to continue strengthening strategic communication with China to achieve positive progress on the peninsula situation. Both looked forward to the two countries' leaders meeting next week in Shenzhen on the sidelines of the 33rd APEC Economic Leaders' Meeting.",
+   "zh_hans": "中共中央政治局委员、外长王毅在北京与韩国外长赵显举行会谈。王毅表示，中韩关系已重回改善发展轨道，中方愿同韩方携手努力，继续保持高层交往。赵显表示，朝鲜半岛问题关乎韩国切身利益，半岛和平与稳定符合韩中两国共同利益，韩方愿同中方继续加强战略沟通，推动半岛局势取得积极进展。两人均期待两国领导人下星期在深圳出席亚太经合组织第三十三次领导人非正式会议期间会晤。"
+  },
+  "tags": {
+   "zh_hant": [
+    "王毅",
+    "中韓關係",
+    "趙顯",
+    "APEC",
+    "深圳"
+   ],
+   "en": [
+    "Wang Yi",
+    "China-South Korea relations",
+    "Cho Hyun",
+    "APEC",
+    "Shenzhen"
+   ],
+   "zh_hans": [
+    "王毅",
+    "中韩关系",
+    "赵显",
+    "APEC",
+    "深圳"
+   ]
+  }
+ },
+ {
   "id": "20261113-microsoft-outage-sfc-hkex-response",
   "category": "tech",
   "published_at": "2026-11-13T20:03:00+08:00",
