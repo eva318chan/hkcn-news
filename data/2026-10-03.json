@@ -74,7 +74,7 @@
   }
  },
  {
-  "category": "society",
+  "category": "hk",
   "id": "20261004-golden-week-day3-crossings",
   "image_url": "https://newsstatic.rthk.hk/images/mfile_1872588_1_M_20261003232152.jpg",
   "published_at": "2026-10-03T22:39:00+08:00",
@@ -559,7 +559,7 @@
  },
  {
   "id": "20261003-one-stanley-rebar",
-  "category": "society",
+  "category": "hk",
   "published_at": "2026-10-03T19:47:00+08:00",
   "source": {
    "name": "香港01",
@@ -670,7 +670,7 @@
  },
  {
   "id": "20261003-times-square-goldenweek",
-  "category": "society",
+  "category": "hk",
   "published_at": "2026-10-03T18:55:00+08:00",
   "source": {
    "name": "香港01",
@@ -1299,7 +1299,7 @@
  },
  {
   "id": "20261003-golden-week-hk-511k-mainland-visitors",
-  "category": "society",
+  "category": "hk",
   "published_at": "2026-10-03T12:12:00+08:00",
   "source": {
    "name": "香港01",
@@ -1595,7 +1595,7 @@
  },
  {
   "id": "20261003-tsim-sha-tsui-woman-sea-death",
-  "category": "society",
+  "category": "hk",
   "published_at": "2026-10-03T08:09:00+08:00",
   "source": {
    "name": "星島日報",
@@ -1669,7 +1669,7 @@
  },
  {
   "id": "20261003-tuen-mun-truck-traffic-light",
-  "category": "society",
+  "category": "hk",
   "published_at": "2026-10-03T07:58:00+08:00",
   "source": {
    "name": "HK01",
@@ -1857,7 +1857,7 @@
  },
  {
   "id": "20261003-hko-sai-kung-lantau-flooding",
-  "category": "society",
+  "category": "hk",
   "published_at": "2026-10-03T04:45:00+08:00",
   "source": {
    "name": "香港電台",
@@ -2177,7 +2177,7 @@
  },
  {
   "id": "20261003-hk-scam-cases-jan-aug",
-  "category": "society",
+  "category": "hk",
   "published_at": "2026-10-03T00:12:00+08:00",
   "source": {
    "name": "香港電台",

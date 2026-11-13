@@ -27,7 +27,7 @@
 `data/YYYY-MM-DD.json` 內每篇：
 
 - `id`：`YYYYMMDD-英文slug`，全站唯一
-- `category`：`hk`／`china`／`world`／`finance`／`tech`／`society`／`entertainment`／`others`（定義見 `assets/app.js` 的 `CATS`，唔好自創 key）
+- `category`：`hk`／`china`／`world`／`finance`／`tech`／`entertainment`／`others`（定義見 `assets/app.js` 的 `CATS`，唔好自創 key；2026-11-13 起取消 `society` 分類，香港社會新聞一律歸入 `hk` 港聞）
 - `published_at`：ISO 8601，時區 `+08:00`
 - `source`：`{name, url}`（註：早期有少量資料只係字串，`app.js` 內有兼容處理，新資料一律用 object）
 - `image_url`：圖片連結，可空；空則文章頁顯示 fallback
