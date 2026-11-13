@@ -1,358 +1,377 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>中港新聞速報</title><link>https://hkcnexpress.com</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Sat, 14 Nov 2026 02:55:01 +0800</lastBuildDate>
+<title>中港新聞速報</title>
+<link>https://hkcnexpress.com/</link>
+<description>中港新聞速報 — 最新新聞</description>
+<language>zh-HK</language>
+<atom:link href="https://hkcnexpress.com/rss.xml" rel="self" type="application/rss+xml" />
+<lastBuildDate>Sat, 14 Nov 2026 04:20:00 +0800</lastBuildDate>
+<item>
+<title>美中貿易理事會首次開會 特朗普政府冀建公平平衡貿易關係</title>
+<link>https://hkcnexpress.com/a/20261114-us-china-trade-council-first-meeting.html</link>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261114-us-china-trade-council-first-meeting.html</guid>
+<description>美國貿易代表辦公室表示，美中官員星期五舉行美中貿易理事會首次正式會議，特朗普政府期待繼續與中國接觸，努力在世界兩大經濟體之間建立公平與平衡的貿易關係。國家主席習近平今年5月在北京與訪華的美國總統特朗普舉行峰會時，商定成立兩國貿易理事會。商務部早前表示，雙方將透過貿易理事會討論產品降稅等問題。</description>
+<pubDate>Sat, 14 Nov 2026 04:20:00 +0800</pubDate>
+</item>
+<item>
+<title>王毅晤中美政黨對話美方代表 倡不間斷對話擴大互利合作</title>
+<link>https://hkcnexpress.com/a/20261114-wang-yi-china-us-party-dialogue.html</link>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261114-wang-yi-china-us-party-dialogue.html</guid>
+<description>中共中央政治局委員、中央外辦主任王毅昨日在北京會見出席中美政黨對話的美方代表。王毅表示，中美兩個大國應透過不間斷的對話交流，明確共同努力的目標，擴大互利合作的領域，夯實雙邊關係的基礎，致力維護世界和平穩定。他又說，雙方應秉持相互尊重、和平共處、合作共贏的理念，將國家主席習近平與美國總統特朗普關於構建「基於尊重、公平、對等的中美建設性戰略穩定關係」的共識落到實處。</description>
+<pubDate>Sat, 14 Nov 2026 03:12:00 +0800</pubDate>
+<enclosure url="https://newsstatic.rthk.hk/images/mfile_1877762_1_M_20261114031233.jpg" type="image/jpeg" />
+</item>
 <item>
 <title>微軟365死機一日仍未完全恢復 公司致歉：技術問題 與網攻AI無關</title>
 <link>https://hkcnexpress.com/a/20261114-microsoft-365-outage-apology-cause.html</link>
-<guid>https://hkcnexpress.com/a/20261114-microsoft-365-outage-apology-cause.html</guid>
-<pubDate>Sat, 14 Nov 2026 02:33:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261114-microsoft-365-outage-apology-cause.html</guid>
 <description>微軟旗下微軟365多項服務大範圍故障大約一日，至今仍未完全恢復正常。微軟向受影響用戶致歉，指故障屬於技術問題，與網絡攻擊或人工智能無關。發言人表示，今次事件是由於早前網絡容量升級過程中出現的問題導致，由於需求規模較大，公司採取逐步恢復服務的方式，雖然耗時較長，但有助確保系統穩定恢復，會在完成評估後提供完整報告。故障由本港時間星期五凌晨開始出現，導致辦公通訊應用Teams、電郵服務Outlook及人工智能軟件Copilot等，在全球至少70個國家或地區無法使用，影響多國政府機構、企業和個人用戶。</description>
+<pubDate>Sat, 14 Nov 2026 02:33:00 +0800</pubDate>
 </item>
 <item>
 <title>土耳其卡塔爾簽共同防禦協議 埃爾多安：防海灣再爆戰爭</title>
 <link>https://hkcnexpress.com/a/20261114-turkey-qatar-defence-pact.html</link>
-<guid>https://hkcnexpress.com/a/20261114-turkey-qatar-defence-pact.html</guid>
-<pubDate>Sat, 14 Nov 2026 02:12:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261114-turkey-qatar-defence-pact.html</guid>
 <description>土耳其與卡塔爾簽署共同防禦協議。土耳其總統府發表聲明，指總統埃爾多安星期五在伊斯坦布爾，與到訪的卡塔爾埃米爾塔米姆簽署共同防禦協議，但未有披露協議具體內容。埃爾多安表示，雙方將會繼續努力，防止海灣地區再次爆發戰爭。塔米姆此行是參加土耳其－卡塔爾高級戰略委員會會議，雙方亦簽署貿易、教育、消費者保護和外交合作等領域的四項協議。</description>
+<pubDate>Sat, 14 Nov 2026 02:12:00 +0800</pubDate>
 </item>
 <item>
 <title>歐洲五國將加入下輪烏克蘭和談 克宮即潑冷水：未同意歐洲參加</title>
 <link>https://hkcnexpress.com/a/20261114-europe-five-ukraine-talks-russia-objects.html</link>
-<guid>https://hkcnexpress.com/a/20261114-europe-five-ukraine-talks-russia-objects.html</guid>
-<pubDate>Sat, 14 Nov 2026 01:29:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261114-europe-five-ukraine-talks-russia-objects.html</guid>
 <description>歐盟領袖在愛爾蘭都柏林舉行峰會，達成共識，在下一輪烏克蘭問題會談中，由英國、法國、德國、意大利、波蘭及歐盟共同代表歐洲，集中探討與俄羅斯談判的具體內容。美國總統特朗普的女婿庫什納較早時說，俄羅斯總統普京願意讓歐洲參與俄烏和平談判，特使威特科夫亦說歐洲代表將參與下一輪談判。不過，克里姆林宮發言人佩斯科夫星期五表示，俄方尚未同意讓歐洲參與談判；外交部發言人扎哈羅娃亦表示，俄方在與威特科夫及庫什納的會晤中，未有討論歐洲參與的事宜。</description>
+<pubDate>Sat, 14 Nov 2026 01:29:00 +0800</pubDate>
 </item>
 <item>
 <title>貝森特爆料：四部門撐將Megaspeed列黑名單 商務部卻未表態</title>
 <link>https://hkcnexpress.com/a/20261114-bessent-megaspeed-blacklist-commerce.html</link>
-<guid>https://hkcnexpress.com/a/20261114-bessent-megaspeed-blacklist-commerce.html</guid>
-<pubDate>Sat, 14 Nov 2026 00:55:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261114-bessent-megaspeed-blacklist-commerce.html</guid>
 <description>美國財長貝森特表示，在是否將捲入輝達晶片風波的新加坡公司Megaspeed列入貿易黑名單的問題上，財政部、國防部、國務院和美國貿易代表辦公室四個部門過去幾個月一直支持，但負責相關事務的商務部並不在其中，決定權在商務部手上。貝森特又說，特朗普政府正致力堵塞晶片出口體系的漏洞，並質疑輝達在審查合作夥伴時有否盡應有責任。</description>
+<pubDate>Sat, 14 Nov 2026 00:55:00 +0800</pubDate>
 </item>
 <item>
 <title>莫斯科汽車炸彈襲擊　親普京烏克蘭前總理顧問受傷　聖彼得堡前一日亦有同類爆炸</title>
 <link>https://hkcnexpress.com/a/20261114-moscow-car-bomb-zavorotny.html</link>
-<guid>https://hkcnexpress.com/a/20261114-moscow-car-bomb-zavorotny.html</guid>
-<pubDate>Sat, 14 Nov 2026 00:25:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261114-moscow-car-bomb-zavorotny.html</guid>
 <description>俄羅斯首都莫斯科發生汽車炸彈襲擊，導致烏克蘭前總理顧問扎沃羅特內受傷。事發在星期五上午，俄羅斯偵查委員會通報說，爆炸事件發生在莫斯科南部基洛沃格勒大街，當時扎沃羅特內坐在駕駛座上，被送院救治，當局已立案調查。72歲的扎沃羅特內是一名記者，曾任親俄羅斯總統普京的烏克蘭前總理阿扎羅夫顧問。在這宗汽車炸彈襲擊發生的前一日，聖彼得堡亦發生類似爆炸事件，導致一名俄羅斯軍人喪生。</description>
+<pubDate>Sat, 14 Nov 2026 00:25:00 +0800</pubDate>
 </item>
 <item>
 <title>微軟死機波及航空公司　國泰快運旅客或收唔到電郵　籲改用其他電郵提早到機場</title>
 <link>https://hkcnexpress.com/a/20261113-cathay-hk-express-microsoft-email.html</link>
-<guid>https://hkcnexpress.com/a/20261113-cathay-hk-express-microsoft-email.html</guid>
-<pubDate>Fri, 13 Nov 2026 23:53:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-cathay-hk-express-microsoft-email.html</guid>
 <description>美國微軟公司旗下Microsoft 365多項服務大範圍故障，涉及電郵服務Outlook及人工智能助手Copilot等，影響多個國家或地區的政府機構、企業和個人用戶。在本港，國泰航空、香港快運、香港航空和大灣區航空都表示航班運作正常，但國泰和快運說，使用微軟服務例如電郵帳戶的旅客，可能無法收到航空公司發出的航班通知電郵。國泰表示正透過應用程式、短訊及電郵向顧客發出電子登機證；快運建議旅客在「管理我的訂位」將聯絡電郵改為其他服務供應商的電郵，以便接收航班通知，並預留時間提早抵達機場。</description>
+<pubDate>Fri, 13 Nov 2026 23:53:00 +0800</pubDate>
 </item>
 <item>
 <title>65歲女子長洲碼頭失蹤　家人報警求助　警方公開特徵籲市民提供線索</title>
 <link>https://hkcnexpress.com/a/20261113-missing-woman-cheung-chau-leung-pui-lan.html</link>
-<guid>https://hkcnexpress.com/a/20261113-missing-woman-cheung-chau-leung-pui-lan.html</guid>
-<pubDate>Fri, 13 Nov 2026 23:25:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-missing-woman-cheung-chau-leung-pui-lan.html</guid>
 <description>警方今日呼籲市民提供消息，協助尋找一名在長洲失蹤的65歲女子梁佩蘭。她11月11日下午最後在長洲碼頭出現後失去蹤影，家人今日向警方報案。梁佩蘭身高約1.6米、體重約60公斤，中等身材，圓面、黃皮膚、短黑啡色頭髮；失蹤時穿黑色長袖衫、藍色格仔外套、綠色長褲及黑鞋，孭黑色背囊。警方呼籲知情者致電新界南總區失蹤人口調查組3661 1176，或電郵rmpu-nts-2@police.gov.hk，或聯絡任何警署。</description>
+<pubDate>Fri, 13 Nov 2026 23:25:00 +0800</pubDate>
+<enclosure url="https://gia.info.gov.hk/general/202611/13/P2026111300796_photo_1343636.jpg" type="image/jpeg" />
 </item>
 <item>
 <title>李強訪泰晤阿努廷　加緊磋商新版經貿合作五年規劃　力推新能源半導體合作</title>
 <link>https://hkcnexpress.com/a/20261113-li-qiang-anutin-bangkok-talks.html</link>
-<guid>https://hkcnexpress.com/a/20261113-li-qiang-anutin-bangkok-talks.html</guid>
-<pubDate>Fri, 13 Nov 2026 22:57:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-li-qiang-anutin-bangkok-talks.html</guid>
 <description>展開訪問泰國行程的國務院總理李強，在曼谷與泰國總理阿努廷會談。李強表示，中方願同泰方推進高質量共建「一帶一路」，實施好中泰鐵路等重大項目，加緊磋商新版經貿合作五年規劃，推動新能源、半導體、人工智能等合作，實現互利共贏；中方願進口泰方更多優質產品，鼓勵中國企業赴泰投資興業。阿努廷表示，泰方願同中方加強高層交往，擴大雙邊貿易規模，深化互利合作，並加強雙方執法安全合作，打擊網賭電詐等犯罪活動，保障中國遊客安全。會談後，雙方共同見證簽署多項合作文件。</description>
+<pubDate>Fri, 13 Nov 2026 22:57:00 +0800</pubDate>
+<enclosure url="https://newsstatic.rthk.hk/images/mfile_1877745_1_M_20261113224550.jpg" type="image/jpeg" />
 </item>
 <item>
 <title>粉嶺貨倉晚間大火　近兩小時救熄　消防籲受煙霧影響市民關窗留在室內</title>
 <link>https://hkcnexpress.com/a/20261113-fanling-ping-che-warehouse-fire.html</link>
-<guid>https://hkcnexpress.com/a/20261113-fanling-ping-che-warehouse-fire.html</guid>
-<pubDate>Fri, 13 Nov 2026 22:57:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-fanling-ping-che-warehouse-fire.html</guid>
 <description>消防處晚上8時18分接報，粉嶺坪輋路一個貨倉發生火警，火勢晚上9時58分大致救熄，消防人員正進行射水降溫及排煙。消防處呼籲，如市民受到隨風飄散的煙霧和異味影響，應留在室內、關好門窗及保持鎮定。</description>
+<pubDate>Fri, 13 Nov 2026 22:57:00 +0800</pubDate>
 </item>
 <item>
 <title>美股初段個別發展　道指曾升逾200點　蘋果股價創新高</title>
 <link>https://hkcnexpress.com/a/20261113-us-stocks-early-dow-apple-record.html</link>
-<guid>https://hkcnexpress.com/a/20261113-us-stocks-early-dow-apple-record.html</guid>
-<pubDate>Fri, 13 Nov 2026 22:55:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-us-stocks-early-dow-apple-record.html</guid>
 <description>美股初段個別發展。道瓊斯指數開市後曾升逾220點，其後升幅收窄，較早時報52372點，升75點，升幅0.14%。標普500指數及納指扭轉初段升勢，標普500指數報7571點，跌21點，跌幅0.28%；納斯達克指數報25205點，跌160點，跌幅0.63%。Nvidia跌逾2%，雲計算供應商CoreWeave跌近8%；晶片及光通信股份沽壓大，Coherent、Sandisk及AMD跌逾5%至近7%。蘋果股價創新高，一度升近2%。</description>
+<pubDate>Fri, 13 Nov 2026 22:55:00 +0800</pubDate>
 </item>
 <item>
 <title>美國10月PPI按年升6.5%創近4年新高　按月升幅顯著放緩</title>
 <link>https://hkcnexpress.com/a/20261113-us-ppi-october-6-5-percent.html</link>
-<guid>https://hkcnexpress.com/a/20261113-us-ppi-october-6-5-percent.html</guid>
-<pubDate>Fri, 13 Nov 2026 22:29:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-us-ppi-october-6-5-percent.html</guid>
 <description>美國10月上游物價通脹率創近4年新高，物價按月升幅則顯著放緩。10月最終需求生產物價指數按年升幅加快至6.5%，略低於市場預期；撇除食品及能源的核心生產物價指數按年升幅維持5%，符合預期。按月比較，生產物價指數升0.3%，升幅略低於預期，比9月的1.4%顯著放緩；核心生產物價指數按月升0.3%，符合預期，升幅比9月的0.8%有所放緩。</description>
+<pubDate>Fri, 13 Nov 2026 22:29:00 +0800</pubDate>
 </item>
 <item>
 <title>失蹤兩日終尋回！14歲女童蕭樂瑤天水圍現身　無受傷無可疑</title>
 <link>https://hkcnexpress.com/a/20261113-missing-girl-ma-on-shan-found.html</link>
-<guid>https://hkcnexpress.com/a/20261113-missing-girl-ma-on-shan-found.html</guid>
-<pubDate>Fri, 13 Nov 2026 22:16:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-missing-girl-ma-on-shan-found.html</guid>
 <description>警方表示，14歲少女蕭樂瑤星期三（11月11日）早上離開馬鞍山耀安邨住所後失蹤，家人同日報案。警方今日（11月13日）下午在天水圍天瑞邨尋回她，她沒有受傷，案件亦沒有可疑情況。警方早前曾發出呼籲，呼籲市民提供消息協助尋找該名女童。</description>
+<pubDate>Fri, 13 Nov 2026 22:16:00 +0800</pubDate>
+<enclosure url="https://gia.info.gov.hk/general/202611/13/P2026111300281_photo_1343611.jpg" type="image/jpeg" />
 </item>
 <item>
 <title>又爆校園襲擊！柴灣11歲男生疑校內被打傷　警列刑案暫無人被捕</title>
 <link>https://hkcnexpress.com/a/20261113-chai-wan-schoolboy-assault.html</link>
-<guid>https://hkcnexpress.com/a/20261113-chai-wan-schoolboy-assault.html</guid>
-<pubDate>Fri, 13 Nov 2026 21:51:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-chai-wan-schoolboy-assault.html</guid>
 <description>警方早前接報，指一名11歲男生上月21日在柴灣一間學校內懷疑被人用手襲擊，男童報稱受傷，送往東區醫院治理。警方經初步調查後，將案件列為「襲擊致造成身體傷害」，由東區警區刑事調查隊第一隊跟進，暫時未有人被捕。教育局表示十分關注事件，接獲學校通報後已提醒學校嚴肅跟進，為有需要學生提供支援及輔導；學校已啟動危機處理小組跟進，並與有關學生家長保持聯繫。教育局重申對校園欺凌採取「零容忍」政策。</description>
+<pubDate>Fri, 13 Nov 2026 21:51:00 +0800</pubDate>
 </item>
 <item>
 <title>王毅晤韓外長趙顯：中韓關係重回改善軌道　期待下周深圳APEC領袖會晤</title>
 <link>https://hkcnexpress.com/a/20261113-wang-yi-south-korea-fm-meeting.html</link>
-<guid>https://hkcnexpress.com/a/20261113-wang-yi-south-korea-fm-meeting.html</guid>
-<pubDate>Fri, 13 Nov 2026 21:40:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-wang-yi-south-korea-fm-meeting.html</guid>
 <description>中共中央政治局委員、外長王毅在北京與韓國外長趙顯舉行會談。王毅表示，中韓關係已重回改善發展軌道，中方願同韓方攜手努力，繼續保持高層交往。趙顯表示，朝鮮半島問題關乎韓國切身利益，半島和平與穩定符合韓中兩國共同利益，韓方願同中方繼續加強戰略溝通，推動半島局勢取得積極進展。兩人均期待兩國領導人下星期在深圳出席亞太經合組織第三十三次領導人非正式會議期間會晤。</description>
+<pubDate>Fri, 13 Nov 2026 21:40:00 +0800</pubDate>
 </item>
 <item>
 <title>微軟大規模死機　證監會已聯絡持牌機構評估影響　港交所確認市場有序運作</title>
 <link>https://hkcnexpress.com/a/20261113-microsoft-outage-sfc-hkex-response.html</link>
-<guid>https://hkcnexpress.com/a/20261113-microsoft-outage-sfc-hkex-response.html</guid>
-<pubDate>Fri, 13 Nov 2026 20:03:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-microsoft-outage-sfc-hkex-response.html</guid>
 <description>證監會表示，正密切注視微軟服務大規模中斷引發的情況，並已聯絡持牌機構及市場參與者，評估對業務運作的影響。證監會將繼續評估有關狀況，根據需要採取適當行動。證監會強調，基本職能繼續正常運作，網上服務及市場監察等運作均保持正常；不過，鑑於微軟服務大規模中斷，部分通訊可能受到影響。證監會又說，港交所已確認，香港市場有序運作。</description>
+<pubDate>Fri, 13 Nov 2026 20:03:00 +0800</pubDate>
 </item>
 <item>
 <title>14個月大女嬰染甲流不治　今年第3宗兒童流感死亡　今季29宗重症</title>
 <link>https://hkcnexpress.com/a/20261113-paediatric-flu-girl-dies-third-case.html</link>
-<guid>https://hkcnexpress.com/a/20261113-paediatric-flu-girl-dies-third-case.html</guid>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-paediatric-flu-girl-dies-third-case.html</guid>
+<description>衞生署衞生防護中心宣布，一名14個月大女嬰感染甲型流感，今日（11月13日）不治。衞生防護中心早於10月29日公布該個案為兒童甲型流感嚴重個案，這是本港今年第三宗兒童流感死亡個案。本港自今年6月底進入流感季節至今已超過4個月，最新監測數據顯示整體流感活躍程度有所回落，但仍高於基線水平；今個流感季節累計錄得29宗兒童流感嚴重個案，其中22人已康復出院、2人情況穩定、2人危殆、3人不治。衞生防護中心總監徐樂堅提醒市民，本港仍處於流感季節，呼籲所有6個月或以上、沒有已知禁忌症的人士盡快接種季節性流感疫苗；上年度數據顯示，未接種疫苗的兒童感染流感後出現嚴重併發症或死亡的比率，約為已接種兒童的5倍。今年的季節性流感疫苗計劃已推行約兩個月，公私營界別疫苗供應充足，合資格人士可於全港約270個公營服務點接種，包括衞生署約110間指定診所（其中29間母嬰健康院為6個月至未滿2歲兒童接種）、醫管局76間家庭醫學診所及38間公立醫院，以及基層醫療署45個地區康健中心及服務點；另有逾1,900名私家醫生參與疫苗資助計劃，於全港逾3,200個服務點提供接種。兒童患流感後病情可迅速惡化，家長須密切留意，如出現氣促、喘鳴、嘴唇發紫、胸痛、神志不清、持續發燒或抽搐等徵狀，應立即帶同子女到急症室求醫。</description>
 <pubDate>Fri, 13 Nov 2026 20:01:00 +0800</pubDate>
-<description>衞生署衞生防護中心宣布，一名14個月大女嬰感染甲型流感，今日（11月13日）不治。衞生防護中心早於10月29日公布該個案為兒童甲型流感嚴重個案，這是本港今年第三宗兒童流感死亡個案。本港自今年6月底進入流感季節至今已超過4個月，最新監測數據顯示整體流感活躍程度有所回落，但仍高於基線水平；今個流感季節累計錄得29宗兒童流感嚴重個案，其中22人已康復出院、2人情況穩定、2人危殆、3人不治。衞生防護中心總監徐樂堅提醒市民，本港仍處於流感季節，呼籲所有6個月或以上、沒有已知禁忌症的人士盡快接種季節性流感疫苗；上年度數據顯示，未接種疫苗的兒童感染流感後出現嚴重併發症或死亡的比率，約為已接種兒童的5倍。今年</description>
 </item>
 <item>
 <title>陳茂波：保險業要增強自身強韌性　應對不明朗環境</title>
 <link>https://hkcnexpress.com/a/20261113-chan-mo-po-insurance-resilience.html</link>
-<guid>https://hkcnexpress.com/a/20261113-chan-mo-po-insurance-resilience.html</guid>
-<pubDate>Fri, 13 Nov 2026 19:40:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-chan-mo-po-insurance-resilience.html</guid>
 <description>財政司司長陳茂波表示，在充滿不確定性的環境中，保險業需要增強自身的強韌性。國家金融監督管理總局副局長叢林表示，近年內地的保險業高質量發展取得明顯進展，國家願與各地推進區域保險交流合作。</description>
+<pubDate>Fri, 13 Nov 2026 19:40:00 +0800</pubDate>
+<enclosure url="https://gia.info.gov.hk/general/202611/13/P2026111300414_photo_1343626.jpg" type="image/jpeg" />
 </item>
 <item>
 <title>香港海運週十周年　下周日開鑼　逾1.8萬人聚首　60場活動撐國際航運中心</title>
 <link>https://hkcnexpress.com/a/20261113-hk-maritime-week-10th-anniversary.html</link>
-<guid>https://hkcnexpress.com/a/20261113-hk-maritime-week-10th-anniversary.html</guid>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-hk-maritime-week-10th-anniversary.html</guid>
+<description>第十屆香港海運週將於11月15日（星期日）至21日一連七日舉行，預計吸引逾18,000名來自世界各地的政策制定者、主要國際航運組織領袖、商界決策者、專家及業界精英參與，包括「一帶一路」國家的高級政府官員。運輸及物流局將在海運週期間公布多項重要的海運相關成果；國家「十五五」規劃綱要明確支持香港鞏固和提升國際航運中心及國際航空樞紐雙樞紐地位，而特區政府今年9月公布的《香港第一個五年規劃》亦主動對接國家「十五五」規劃的戰略方向，訂出未來五年海事及航空等範疇的目標。香港海運週首辦於2016年，現已發展成為海事、港口及物流界首屈一指的國際盛事；當局將在今屆十周年之際公布新一批夥伴港口，並簽署多份海運相關合作備忘錄。今屆海運週由特區政府統籌、香港海運港口發展局主辦，香港船東會及香港海事博物館協辦，香港貿易發展局及投資推廣署為合作夥伴；逾80個本地、內地及海外海事組織合辦逾60項活動，涵蓋旗艦論壇、高層研討會、業界展覽及商務交流。重點活動包括下星期一（11月16日）舉行的海運週開幕典禮及世界航商大會、下星期一至二舉行的亞洲物流航運及空運會議2026，以及下星期二舉行的第二屆香港海運港口發展局旗艦峰會；其他重點活動包括第三屆國際航運公會香港全球海運貿易峰會及國際燃油工業協會香港替代船用燃料論壇，波羅的海國際航運公會亦首次參與海運週，與國際調解院合辦綠色航運合約發展專題研討會。運輸及物流局與無綫電視合作製作10集宣傳劇集《乘風啟航》，將於11月16日至27日逢星期一至五在三個無綫頻道（包括81、82及83台）播出，以戲劇元素介紹海事職業實況及行業創新發展。此外，海運港口發展局與香港海事博物館合辦「Project Art Container」展覽，「一容器一故事」繪畫比賽優勝作品已製成20呎藝術貨櫃裝置，將於11月15日至25日在香港海事博物館中庭展出，其後沿國際航線啟航；海事主題嘉年華則於11月21日及22日舉行。</description>
 <pubDate>Fri, 13 Nov 2026 19:40:00 +0800</pubDate>
-<description>第十屆香港海運週將於11月15日（星期日）至21日一連七日舉行，預計吸引逾18,000名來自世界各地的政策制定者、主要國際航運組織領袖、商界決策者、專家及業界精英參與，包括「一帶一路」國家的高級政府官員。運輸及物流局將在海運週期間公布多項重要的海運相關成果；國家「十五五」規劃綱要明確支持香港鞏固和提升國際航運中心及國際航空樞紐雙樞紐地位，而特區政府今年9月公布的《香港第一個五年規劃》亦主動對接國家「十五五」規劃的戰略方向，訂出未來五年海事及航空等範疇的目標。香港海運週首辦於2016年，現已發展成為海事、港口及物流界首屈一指的國際盛事；當局將在今屆十周年之際公布新一批夥伴港口，並簽署多份海運相關</description>
 </item>
 <item>
 <title>34歲男輸入猴痘確診　情況穩定　本港累計120宗　衞生防護中心籲高危群組打針</title>
 <link>https://hkcnexpress.com/a/20261113-mpox-imported-case-34yo-man.html</link>
-<guid>https://hkcnexpress.com/a/20261113-mpox-imported-case-34yo-man.html</guid>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-mpox-imported-case-34yo-man.html</guid>
+<description>衞生署衞生防護中心正調查一宗輸入猴痘個案，強烈呼籲高風險目標群組接種猴痘疫苗。個案涉及一名34歲男子，他於11月9日出現發燒、疲倦及手臂出疹，皮疹其後擴散至身體多處，包括生殖器、腹部及胸部；11月11日到伊利沙伯醫院急症室求診並入院隔離治療，現時情況穩定，衞生防護中心公共衞生化驗服務處化驗證實其臨床樣本對猴痘病毒呈陽性反應。病人表示在潛伏期內曾在香港以外與其他男性有高風險性接觸，流行病學調查仍在進行中，個案將向世界衞生組織報告。自2022年以來，本港共錄得120宗猴痘個案（94宗本地、26宗輸入），全部患者為男性；自8月以來錄得的27宗個案，全部患者在潛伏期內曾進行高風險性行為，包括與男性陌生人或多名伴侶發生性行為及無使用安全套，大部分未接種猴痘疫苗。自8月以來的本地個案患者多使用特定約會應用程式尋找臨時男性性伴侶，部分人在確診後無法聯絡新認識的性伴侶，影響追蹤工作；衞生防護中心已加強社交媒體宣傳，並與相關約會應用程式營運商合作，定期向香港所有用戶推送猴痘預防及接種資訊。研究顯示接種兩劑猴痘疫苗可減低感染風險82%，本地數據顯示已接種患者出現病毒擴散至身體其他部位的機會低87%。自9月底起，衞生防護中心除常規接種場地外，另於衞生防護中心大樓增設猴痘疫苗接種中心，並與非政府機構合作提供外展接種服務；自9月28日以來，逾1,000名高風險人士已在常規及新增接種場地接種猴痘疫苗。猴痘熱線2125 2373繼續為高風險人士提供健康評估及建議，每日上午9時至下午6時運作。猴痘一般不會經呼吸道飛沫或氣溶膠傳播，也不會經社交接觸傳播；相關病徵包括皮疹、發燒、發冷、淋巴結腫大、疲倦、肌肉疼痛及嚴重頭痛。</description>
 <pubDate>Fri, 13 Nov 2026 19:23:00 +0800</pubDate>
-<description>衞生署衞生防護中心正調查一宗輸入猴痘個案，強烈呼籲高風險目標群組接種猴痘疫苗。個案涉及一名34歲男子，他於11月9日出現發燒、疲倦及手臂出疹，皮疹其後擴散至身體多處，包括生殖器、腹部及胸部；11月11日到伊利沙伯醫院急症室求診並入院隔離治療，現時情況穩定，衞生防護中心公共衞生化驗服務處化驗證實其臨床樣本對猴痘病毒呈陽性反應。病人表示在潛伏期內曾在香港以外與其他男性有高風險性接觸，流行病學調查仍在進行中，個案將向世界衞生組織報告。自2022年以來，本港共錄得120宗猴痘個案（94宗本地、26宗輸入），全部患者為男性；自8月以來錄得的27宗個案，全部患者在潛伏期內曾進行高風險性行為，包括與男性陌生</description>
 </item>
 <item>
 <title>茶百道繼續停牌！設獨立委員會查證監會關注事項 IPO疑遭操縱</title>
 <link>https://hkcnexpress.com/a/20261113-chabaidao-special-committee-suspension.html</link>
-<guid>https://hkcnexpress.com/a/20261113-chabaidao-special-committee-suspension.html</guid>
-<pubDate>Fri, 13 Nov 2026 18:27:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-chabaidao-special-committee-suspension.html</guid>
 <description>茶百道11月13日晚在港交所公告，董事會決議成立獨立特別委員會，就證監會提出的關注事項進行獨立調查，評估對公司業務營運及財務狀況的可能影響，並向董事會匯報及建議適當措施；公司股份繼續停牌。委員會由全體現任獨立非執行董事楊志達、唐勇、程麗組成，楊志達任主席，委員會正物色合適的獨立專業顧問開展調查。茶百道約一個月前因監管調查被緊急停牌，證監會10月13日指該股首次公開招股可能曾被人為操縱，有關可疑集團涉嫌參與茶百道、撥康視雲、天聚地合等新股的欺詐計劃。</description>
+<pubDate>Fri, 13 Nov 2026 18:27:00 +0800</pubDate>
 </item>
 <item>
 <title>米埔兩環境樣本驗出H5禽流感　漁護署加強監察　3公里內無雞場</title>
 <link>https://hkcnexpress.com/a/20261113-mai-po-h5-bird-flu-samples.html</link>
-<guid>https://hkcnexpress.com/a/20261113-mai-po-h5-bird-flu-samples.html</guid>
-<pubDate>Fri, 13 Nov 2026 18:25:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-mai-po-h5-bird-flu-samples.html</guid>
 <description>漁農自然護理署表示，香港大學公共衞生學院研究團隊與漁護署合作，定期在米埔自然護理區採集樣本作禽流感監測；11月11日採集的兩個環境樣本證實對H5高致病性禽流感病毒呈陽性，港大於11月12日通知漁護署。協助管理米埔的世界自然基金會香港分會已加強清潔消毒遊客設施，包括觀鳥屋及浮橋，並在入口放置消毒墊供遊客消毒鞋底；漁護署正密切監察米埔雀鳥情況，並張貼告示提醒遊客注意個人衞生。樣本採集地點3公里內沒有雞場；漁護署已加強禽流感監測，密切監察本地雞場及批發市場情況。市民應避免接觸野鳥及活家禽及其糞便，接觸後徹底洗手；如發現疑似患病或死亡雀鳥，可致電1823通知漁護署跟進。</description>
+<pubDate>Fri, 13 Nov 2026 18:25:00 +0800</pubDate>
 </item>
 <item>
 <title>假網站冒充銀行同業結算　呃FPS用戶交銀行資料　官方籲認清真網址</title>
 <link>https://hkcnexpress.com/a/20261113-hkicl-fraud-websites-warning.html</link>
-<guid>https://hkcnexpress.com/a/20261113-hkicl-fraud-websites-warning.html</guid>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-hkicl-fraud-websites-warning.html</guid>
+<description>香港銀行同業結算有限公司提醒市民，有兩個欺詐網站冒充與該公司有關，分別是tk.f2g4h.cn及fps.852789.cc，該公司與有關欺詐網站並無任何關連。該等網站假冒「買家網上保障」，提供買家退款、未經授權網上交易舉報及網上交易支援等服務，並誘使市民提供銀行名稱、銀行帳戶號碼及帳戶持有人姓名，以便在平台虛擬錢包增值及提款，更會引導市民聯絡假冒的客戶服務人員。結算公司強調不會直接向個別市民提供轉數快服務，一般情況下亦不會主動聯絡個別市民；真正的官方網站是www.hkicl.com.hk及fps.hkicl.com.hk。市民如收到可疑通訊，可致電2533 1111核實；懷疑受騙應盡快向警方舉報。</description>
 <pubDate>Fri, 13 Nov 2026 18:20:00 +0800</pubDate>
-<description>香港銀行同業結算有限公司提醒市民，有兩個欺詐網站冒充與該公司有關，分別是tk.f2g4h.cn及fps.852789.cc，該公司與有關欺詐網站並無任何關連。該等網站假冒「買家網上保障」，提供買家退款、未經授權網上交易舉報及網上交易支援等服務，並誘使市民提供銀行名稱、銀行帳戶號碼及帳戶持有人姓名，以便在平台虛擬錢包增值及提款，更會引導市民聯絡假冒的客戶服務人員。結算公司強調不會直接向個別市民提供轉數快服務，一般情況下亦不會主動聯絡個別市民；真正的官方網站是www.hkicl.com.hk及fps.hkicl.com.hk。市民如收到可疑通訊，可致電2533 1111核實；懷疑受騙應盡快向警方舉</description>
 </item>
 <item>
 <title>漁護署明日起突擊查狗主　大狗唔用短繩牽引最高罰2.5萬囚3個月</title>
 <link>https://hkcnexpress.com/a/20261113-afcd-dog-control-enforcement.html</link>
-<guid>https://hkcnexpress.com/a/20261113-afcd-dog-control-enforcement.html</guid>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-afcd-dog-control-enforcement.html</guid>
+<description>漁農自然護理署宣布，為提高狗主在公眾地方妥善控制狗隻的意識，並減少因不當控制狗隻而引致的狗隻襲擊事件，將於11月14日及21日在全港狗隻出沒地點進行特別巡查及執法行動。行動期間，漁護署人員會加強在狗隻聚集的公眾地方巡查及執法，如發現狗主未有按法例要求妥善控制狗隻，會即時採取執法行動，不會預先警告，同時藉機會推廣負責任寵物主人的訊息。根據《狂犬病條例》，狗隻在公眾地方時必須以狗帶牽引或以其他有效方式控制，違例者最高可被判罰款1萬元；《危險狗隻規例》更明確規定，體重達20公斤或以上的大型狗隻在公眾地方時，必須由人以一條長度不超逾兩米的狗帶穩妥牽引，違例者可被判罰款25,000元及監禁3個月。所有超過5個月大的狗隻必須植入晶片、接種狂犬病疫苗及領有牌照，其後每隔不超過3年再次接種疫苗及續牌。</description>
 <pubDate>Fri, 13 Nov 2026 18:10:00 +0800</pubDate>
-<description>漁農自然護理署宣布，為提高狗主在公眾地方妥善控制狗隻的意識，並減少因不當控制狗隻而引致的狗隻襲擊事件，將於11月14日及21日在全港狗隻出沒地點進行特別巡查及執法行動。行動期間，漁護署人員會加強在狗隻聚集的公眾地方巡查及執法，如發現狗主未有按法例要求妥善控制狗隻，會即時採取執法行動，不會預先警告，同時藉機會推廣負責任寵物主人的訊息。根據《狂犬病條例》，狗隻在公眾地方時必須以狗帶牽引或以其他有效方式控制，違例者最高可被判罰款1萬元；《危險狗隻規例》更明確規定，體重達20公斤或以上的大型狗隻在公眾地方時，必須由人以一條長度不超逾兩米的狗帶穩妥牽引，違例者可被判罰款25,000元及監禁3個月。所有超</description>
 </item>
 <item>
 <title>57歲男機場手提行李藏7公斤大麻花　市值146萬　明日提堂</title>
 <link>https://hkcnexpress.com/a/20261113-customs-airport-cannabis-7kg.html</link>
-<guid>https://hkcnexpress.com/a/20261113-customs-airport-cannabis-7kg.html</guid>
-<pubDate>Fri, 13 Nov 2026 17:55:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-customs-airport-cannabis-7kg.html</guid>
 <description>海關今日在香港國際機場偵破一宗旅客販毒案，檢獲約7公斤懷疑大麻花，估計市值約146萬元。海關在機場進行緝毒行動期間，截查一名57歲內地男旅客，在其手提行李內發現一批懷疑大麻花，隨即將他拘捕。被捕男子已被控一項販運危險藥物罪，案件將於明日（11月14日）在西九龍裁判法院提堂。海關表示會繼續透過情報分析加強打擊販毒活動，並提醒市民切勿為金錢報酬參與販毒，不要接受他人聘用或委託將受管制物品帶進或帶出香港，亦不要替他人攜帶不知名物品。根據《危險藥物條例》，販運危險藥物屬嚴重罪行，一經定罪最高可被判罰款500萬元及終身監禁。</description>
+<pubDate>Fri, 13 Nov 2026 17:55:00 +0800</pubDate>
+<enclosure url="https://gia.info.gov.hk/general/202611/13/P2026111300536_photo_1343629.jpg" type="image/jpeg" />
 </item>
 <item>
 <title>港交所下月推數碼支付新方案　用數碼港元繳收市後按金　24小時運作</title>
 <link>https://hkcnexpress.com/a/20261113-hkex-digital-payment-cbdc.html</link>
-<guid>https://hkcnexpress.com/a/20261113-hkex-digital-payment-cbdc.html</guid>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-hkex-digital-payment-cbdc.html</guid>
+<description>香港交易所公布，將於12月14日推出新的數碼支付方案，便利結算參與者在衍生產品市場收市後交易時段支付預繳按金。新服務建基於港交所6月與金管局探索使用數碼港元的合作計劃，採用24/7運作模式的批發層面央行數碼貨幣，支付收市後交易時段的預繳按金。新方案推出後，合資格期貨結算公司結算參與者可選用這個數碼支付方式，於下午5時至凌晨1時30分提交預繳按金申請，以便款項用於相應的收市後交易時段。延長後的支付時段將作為現有支付安排的補充，讓結算參與者可於一般銀行營業時間以外，更靈活管理以資本額釐定的持倉限額使用情況。港交所已與金管局、交收銀行及結算參與者試行真實交易，驗證技術及營運安排已準備就緒。這項靈活的支付方式將配合港交所計劃於明年3月起延長衍生產品市場收市後交易時段的安排。</description>
 <pubDate>Fri, 13 Nov 2026 17:55:00 +0800</pubDate>
-<description>香港交易所公布，將於12月14日推出新的數碼支付方案，便利結算參與者在衍生產品市場收市後交易時段支付預繳按金。新服務建基於港交所6月與金管局探索使用數碼港元的合作計劃，採用24/7運作模式的批發層面央行數碼貨幣，支付收市後交易時段的預繳按金。新方案推出後，合資格期貨結算公司結算參與者可選用這個數碼支付方式，於下午5時至凌晨1時30分提交預繳按金申請，以便款項用於相應的收市後交易時段。延長後的支付時段將作為現有支付安排的補充，讓結算參與者可於一般銀行營業時間以外，更靈活管理以資本額釐定的持倉限額使用情況。港交所已與金管局、交收銀行及結算參與者試行真實交易，驗證技術及營運安排已準備就緒。這項靈活的</description>
 </item>
 <item>
 <title>APEC深圳峰會將至　港設臨時限飛區　無人機直升機11月17至20日禁飛</title>
 <link>https://hkcnexpress.com/a/20261113-apec-temporary-restricted-flying-zones.html</link>
-<guid>https://hkcnexpress.com/a/20261113-apec-temporary-restricted-flying-zones.html</guid>
-<pubDate>Fri, 13 Nov 2026 17:47:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-apec-temporary-restricted-flying-zones.html</guid>
 <description>警方及民航處今日提醒市民，因應第33屆亞太經合組織經濟領袖會議在深圳舉行，香港將於11月17日凌晨零時01分至11月20日晚上11時59分設立臨時限制飛行區。A區（新界北）除特別許可外，禁止無人機、滑翔傘、飛艇、風箏、繫留氣球及大量放氣球；B區（全港）除政府飛行服務隊外，禁止所有直升機及輕型飛機進行任何飛行活動。民航處已透過航空資料刊物補充資料向航空公司及機師公布有關安排，並已將小型無人機的限制飛行區資料上載至小型無人機電子平台「eSUA」。警方及民航處提醒市民，未經特別許可在限制飛行區內進行飛行活動即屬違法，一經定罪可被罰款及監禁，呼籲市民切勿以身試法。</description>
+<pubDate>Fri, 13 Nov 2026 17:47:00 +0800</pubDate>
 </item>
 <item>
 <title>沙田石門地皮下周五招標　8015平方米　12月18日截標</title>
 <link>https://hkcnexpress.com/a/20261113-sha-tin-shek-mun-site-tender.html</link>
-<guid>https://hkcnexpress.com/a/20261113-sha-tin-shek-mun-site-tender.html</guid>
-<pubDate>Fri, 13 Nov 2026 17:47:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-sha-tin-shek-mun-site-tender.html</guid>
 <description>地政總署宣布，列入2026-27年度賣地計劃的沙田地段第626號用地，將以公開招標方式出售，招標期為11月20日至12月18日。該地皮位於沙田石門大涌橋路與安睦街交界，面積約8,015平方米，指定作非工業用途（貨倉、酒店及加油站除外），最低及最高樓面面積分別為29,816平方米及49,693平方米。招標文件包括投標表格、招標公告、賣地條件及賣地圖，可於11月20日起在地政總署網站下載，賣地圖亦可於同日起供市民查閱，印刷本可於北角政府合署6樓地政總署測繪處購買；招標詳情將於11月20日刊憲。</description>
+<pubDate>Fri, 13 Nov 2026 17:47:00 +0800</pubDate>
 </item>
 <item>
 <title>衞生署署長會見國家藥檢院院長　加強藥品監管合作　36項中藥標準已制定</title>
 <link>https://hkcnexpress.com/a/20261113-director-health-nidc-meeting.html</link>
-<guid>https://hkcnexpress.com/a/20261113-director-health-nidc-meeting.html</guid>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-director-health-nidc-meeting.html</guid>
+<description>衞生署署長林文健醫生今日會見到訪的國家藥品監督管理局藥品檢驗研究院院長安福東及代表團，雙方同意進一步加強在藥品監管、資訊數碼轉型及生物製品檢測能力建設等範疇的合作與交流。雙方討論了《中醫藥發展五年行動計劃（2026-2030）》、中醫藥發展、政府中藥檢測中心及《醫療產品規管條例草案》。自2024年簽署《中藥標準研究及中藥標本合作協議》以來，雙方透過技術、人才及學術交流不斷加強聯繫；今年8月，藥品檢驗研究院為衞生署及政府化驗所專業人員舉辦為期4星期的生物製品檢測培訓。藥品檢驗研究院及其指定的內地檢測機構積極參與香港中藥材標準計劃，至今已制定36項中藥材參考標準，並指定多間市級藥品檢驗機構為香港中成藥註冊的認可檢測機構，以及向香港提供藥品標準物質。林文健亦向代表團介紹衞生署將於今年成立的醫療產品規管中心，將系統整合西藥、中藥及醫療器械的規管職能，全面提升科學規管能力，完善醫療產品審批機制，支持香港發展成為國際健康及醫療創新樞紐。</description>
 <pubDate>Fri, 13 Nov 2026 17:45:00 +0800</pubDate>
-<description>衞生署署長林文健醫生今日會見到訪的國家藥品監督管理局藥品檢驗研究院院長安福東及代表團，雙方同意進一步加強在藥品監管、資訊數碼轉型及生物製品檢測能力建設等範疇的合作與交流。雙方討論了《中醫藥發展五年行動計劃（2026-2030）》、中醫藥發展、政府中藥檢測中心及《醫療產品規管條例草案》。自2024年簽署《中藥標準研究及中藥標本合作協議》以來，雙方透過技術、人才及學術交流不斷加強聯繫；今年8月，藥品檢驗研究院為衞生署及政府化驗所專業人員舉辦為期4星期的生物製品檢測培訓。藥品檢驗研究院及其指定的內地檢測機構積極參與香港中藥材標準計劃，至今已制定36項中藥材參考標準，並指定多間市級藥品檢驗機構為香港中</description>
+<enclosure url="https://gia.info.gov.hk/general/202611/13/P2026111300532_photo_1343622.jpg" type="image/jpeg" />
 </item>
 <item>
 <title>AI產品佔本港出口約75%　政府經濟顧問：出口續強勁　留意投資波動</title>
 <link>https://hkcnexpress.com/a/20261113-ai-exports-75pct-economy-outlook.html</link>
-<guid>https://hkcnexpress.com/a/20261113-ai-exports-75pct-economy-outlook.html</guid>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-ai-exports-75pct-economy-outlook.html</guid>
+<description>政府經濟顧問范婉兒表示，展望本港經濟前景維持正面，鄰近主要製造半導體的國家或地區上月出口數據強勁，而人工智能電子產品佔本港出口75%，預期本港今年出口會維持相當強勁增長。她表示，雖然近期市場對人工智能相關投資有所波動，屬風險因素，但未實際影響實體經濟，政府密切關注；根據美國半導體協會對會員的全球銷售數據，明年會有高雙位數的半導體產品銷售增長，預料將支持本港較好出口表現。她指出，本港上月旅客初步估計按年升11%，勞工收入持續上升，消費氣氛穩健，認為本港經濟今年有較強勁增長；不過仍要留意下行風險，因國際油價反覆。考慮到首三季經濟強勁並高於預期，第四季經濟預料穩健增長，當局因此上調全年經濟增長預測至4.8%；至於基本消費物價通脹就向下修訂，由2.5%降至1.9%，與國際油價上升對燃料項目傳導較預期慢有關，但預料會繼續傳導至明年。被問及美國聯儲局潛在加息的影響，她表示要視乎是否進入急速加息周期；市場預計年內或再加息一次，加25點子，明年中或再加息一次，但並不預期會急速加息，估計對本港經濟影響較為輕微。</description>
 <pubDate>Fri, 13 Nov 2026 17:38:00 +0800</pubDate>
-<description>政府經濟顧問范婉兒表示，展望本港經濟前景維持正面，鄰近主要製造半導體的國家或地區上月出口數據強勁，而人工智能電子產品佔本港出口75%，預期本港今年出口會維持相當強勁增長。她表示，雖然近期市場對人工智能相關投資有所波動，屬風險因素，但未實際影響實體經濟，政府密切關注；根據美國半導體協會對會員的全球銷售數據，明年會有高雙位數的半導體產品銷售增長，預料將支持本港較好出口表現。她指出，本港上月旅客初步估計按年升11%，勞工收入持續上升，消費氣氛穩健，認為本港經濟今年有較強勁增長；不過仍要留意下行風險，因國際油價反覆。考慮到首三季經濟強勁並高於預期，第四季經濟預料穩健增長，當局因此上調全年經濟增長預測至</description>
 </item>
 <item>
 <title>內地10月貸款減1000億　時隔兩月再收縮　M2增速創年半最慢</title>
 <link>https://hkcnexpress.com/a/20261113-mainland-oct-loans-down-100b.html</link>
-<guid>https://hkcnexpress.com/a/20261113-mainland-oct-loans-down-100b.html</guid>
-<pubDate>Fri, 13 Nov 2026 17:31:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-mainland-oct-loans-down-100b.html</guid>
 <description>路透根據人民銀行數字測算，內地10月人民幣貸款再度轉跌，單月減少1000億元，是時隔兩個月再度下跌；首10個月新增貸款11.42萬億元。截至10月底，人民幣貸款餘額按年升4.7%，廣義貨幣供應量（M2）按年升7.1%，創逾1年半最慢增速。截至10月底，社會融資規模存量469.16萬億元，按年升7.2%；首10個月累計增量28.61萬億元，按年少2.29萬億元；路透測算，上月社會融資規模增量1.15萬億元，低於預期。另外，路透根據人行數據計算，至10月底，央行口徑外匯佔款餘額21.72萬億元人民幣，單月減少20.02億元，連續4個月減少。</description>
+<pubDate>Fri, 13 Nov 2026 17:31:00 +0800</pubDate>
 </item>
 <item>
 <title>蔡天鳳案　鄺港傑認信件內容捏造　圖減輕罪責　花兩年寫信</title>
 <link>https://hkcnexpress.com/a/20261113-choi-tin-fung-trial-kwong-letter.html</link>
-<guid>https://hkcnexpress.com/a/20261113-choi-tin-fung-trial-kwong-letter.html</guid>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-choi-tin-fung-trial-kwong-letter.html</guid>
+<description>蔡天鳳案在高等法院續審，首被告、蔡天鳳前大伯鄺港傑接受另外兩名被告的代表律師盤問。鄺港傑早前作供指，接載蔡天鳳前往接小朋友放學期間，蔡天鳳被同車的弟弟鄺港智襲擊；蔡天鳳前夫鄺港智的代表律師呈上一封數星期前，鄺港傑經另一犯人轉交予鄺港智的信件，指內容與鄺港傑庭上作供有出入，行文非常詳細、思慮周全。信中提及事發前兩兄弟曾經在咖啡室見面、當七人車行駛至獅子山隧道，蔡天鳳叫他致電鄺球「攤牌」或「講數」，又指「知道爸爸也在大埔，就去找爸爸」。鄺港傑回應，自咖啡室後很多內容也是用小聰明創作，並非真實，在庭上作供的內容才是真實版本。律師追問捏造信件內容的原因，鄺港傑解釋，由被捕至還押期間，起初未有法律代表，自己思考如何將各人罪責減輕，與弟弟溝通數次後，利用小聰明花大約兩年時間撰寫信件，以為得出一個好版本；其後有法律代表，向律師交代信件內容，被對方提醒這是非常愚蠢的行為，因此最後決定在庭上說出真相，信件內容非常仔細，不代表是真確。他又確認，父親與蔡天鳳發生爭執，主要是由於照顧小朋友的事情，與加多利山物業無關；殺害蔡天鳳對自己和父親也沒有好處。審訊星期一繼續。</description>
 <pubDate>Fri, 13 Nov 2026 17:28:00 +0800</pubDate>
-<description>蔡天鳳案在高等法院續審，首被告、蔡天鳳前大伯鄺港傑接受另外兩名被告的代表律師盤問。鄺港傑早前作供指，接載蔡天鳳前往接小朋友放學期間，蔡天鳳被同車的弟弟鄺港智襲擊；蔡天鳳前夫鄺港智的代表律師呈上一封數星期前，鄺港傑經另一犯人轉交予鄺港智的信件，指內容與鄺港傑庭上作供有出入，行文非常詳細、思慮周全。信中提及事發前兩兄弟曾經在咖啡室見面、當七人車行駛至獅子山隧道，蔡天鳳叫他致電鄺球「攤牌」或「講數」，又指「知道爸爸也在大埔，就去找爸爸」。鄺港傑回應，自咖啡室後很多內容也是用小聰明創作，並非真實，在庭上作供的內容才是真實版本。律師追問捏造信件內容的原因，鄺港傑解釋，由被捕至還押期間，起初未有法律代表，</description>
 </item>
 <item>
 <title>東張女神梁敏巧為台慶400米狂操 盆骨收窄6.7cm 假胯寬拜拜</title>
 <link>https://hkcnexpress.com/a/20261113-maggie-leung-la-health.html</link>
-<guid>https://hkcnexpress.com/a/20261113-maggie-leung-la-health.html</guid>
-<pubDate>Fri, 13 Nov 2026 17:05:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-maggie-leung-la-health.html</guid>
 <description>無綫《東張西望》主持梁敏巧（Maggie）有「東張女神」之稱，近日為立康醫療拍攝平面及視頻廣告，推廣其中醫體態修復組合療程。Maggie即場試做「盆骨收窄小臀術」及痛症療程「痛即消」，前者以獨門手法配合OUSI儀器收窄盆骨、塑造小臀效果，後者即時紓緩痛症。佢亦係無綫台慶59周年「東張女神盃」六位參賽跑女之一，將於11月19日台慶當晚出戰400米賽跑。
 
-臨近台慶，Maggie話樣貌同身材都要一齊準備，先後試咗幾樣療程。佢話首先做咗穴位埋線，「第一次做的時候做了兩三次，除了腰之外，手臂、大腿等也有做過穴位埋線，整個療程瘦了三十厘米。」三十厘米係佢原話，指成個療程喺腰、手臂、大腿等多個部位累計嘅數</description>
+臨近台慶，Maggie話樣貌同身材都要一齊準備，先後試咗幾樣療程。佢話首先做咗穴位埋線，「第一次做的時候做了兩三次，除了腰之外，手臂、大腿等也有做過穴位埋線，整個療程瘦了三十厘米。」三十厘米係佢原話，指成個療程喺腰、手臂、大腿等多個部位累計嘅數字，唔係單一部位。
+
+之後佢再做盆骨收窄術。Maggie話好多女生都有「假胯寬」嘅問題，「做完一次之後我已經瘦了3.2厘米，做完整個療程總共收窄了6.7厘米，啲假胯寬都改善咗。」除咗身形，佢話樣都要靚，所以亦做咗韓方水光素顏針，「做完之後，其實我覺得而家見到我都好靚。」</description>
+<pubDate>Fri, 13 Nov 2026 17:05:00 +0800</pubDate>
+<enclosure url="https://hkcnexpress.hk/assets/design/20261113-maggie-leung-lahealth-cover.jpg" type="image/jpeg" />
 </item>
 <item>
 <title>陳茂波：研究立法設受保護單元公司　拓展海上保險　航運風險池已保逾千船</title>
 <link>https://hkcnexpress.com/a/20261113-chan-mo-po-protected-cell-company.html</link>
-<guid>https://hkcnexpress.com/a/20261113-chan-mo-po-protected-cell-company.html</guid>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-chan-mo-po-protected-cell-company.html</guid>
+<description>財政司司長陳茂波在亞洲保險論壇上致辭時表示，保險業正在開拓的其中一個市場是海上保險，去年5家保險公司聯合推出「航運專項風險池」，為香港和內地船東提供戰爭與相關風險保障，現時已承保超過1000艘船舶，政府及保監局將與業界合作，擴大風險池承保能力。他指出，本港正積極發展保險掛鈎證券，正研究透過立法建立一種「受保護單元公司」架構，讓多宗交易在同一家公司內進行，同時在法律上分隔各自的資產與負債，簡化相關安排並降低設立成本；政府亦會拓展專項保險，配合黃金、綠色燃料及低空經濟發展。他提到，當局將降低保險公司投資本港及內地認可基建項目要求，今年底生效，有助釋放更多資源，服務北部都會區等基建。他強調，基建投資需要長線融資，保險公司則需要投資資產，有關舉措可同時兼顧長期承諾，以及保障投保客戶利益。他說，地緣政治局勢正重塑供應鏈和貿易版圖，氣候變化、數碼攻擊、人工智能等，正改變保險業承保範圍和運作模式，業界需要增強韌性和能力。他又提到，國家金融監管總局支持內地保險機構通過滬深港通投資本港交易所買賣基金（ETF），有助擴闊內地保險機構的投資選擇，增強本港資本市場流動性。</description>
 <pubDate>Fri, 13 Nov 2026 16:56:00 +0800</pubDate>
-<description>財政司司長陳茂波在亞洲保險論壇上致辭時表示，保險業正在開拓的其中一個市場是海上保險，去年5家保險公司聯合推出「航運專項風險池」，為香港和內地船東提供戰爭與相關風險保障，現時已承保超過1000艘船舶，政府及保監局將與業界合作，擴大風險池承保能力。他指出，本港正積極發展保險掛鈎證券，正研究透過立法建立一種「受保護單元公司」架構，讓多宗交易在同一家公司內進行，同時在法律上分隔各自的資產與負債，簡化相關安排並降低設立成本；政府亦會拓展專項保險，配合黃金、綠色燃料及低空經濟發展。他提到，當局將降低保險公司投資本港及內地認可基建項目要求，今年底生效，有助釋放更多資源，服務北部都會區等基建。他強調，基建投資</description>
 </item>
 <item>
 <title>新資本投資者計劃申請破5000宗　料吸1500億投資　逾3000宗已批</title>
 <link>https://hkcnexpress.com/a/20261113-cies-5000-applications-150b.html</link>
-<guid>https://hkcnexpress.com/a/20261113-cies-5000-applications-150b.html</guid>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-cies-5000-applications-150b.html</guid>
+<description>財經事務及庫務局表示，至10月底，新資本投資者入境計劃接獲申請突破5000宗，預計可為香港帶來超過1500億元投資金額，當中超過3000宗申請已獲核實完成投資，並得到正式批准。財庫局表示，自2024年3月實施新資本投資者入境計劃以來，持續吸引環球高淨值人士及資本落戶香港，近年資本投資者與家族辦公室落戶香港都錄得強勁增長。政府已先後落實一系列優化計劃的措施，而為締造更具競爭力的稅務環境，早前已向立法會提交有關優化基金、家族投資控權工具及附帶權益的優惠稅制的立法建議。財庫局指出，考慮到審議法案過程中收到的意見，政府將提出修正案，包括放寬「貴金屬」作為可獲免稅的合資格投資的20%投資額上限，以及擴大「基金」的定義，以納入沒有募資截止日期的「永續基金」等；當局預期能夠回應業界訴求，為基金與家辦提供更大彈性和便利，政府目標今年內通過相關條例草案。</description>
 <pubDate>Fri, 13 Nov 2026 16:46:00 +0800</pubDate>
-<description>財經事務及庫務局表示，至10月底，新資本投資者入境計劃接獲申請突破5000宗，預計可為香港帶來超過1500億元投資金額，當中超過3000宗申請已獲核實完成投資，並得到正式批准。財庫局表示，自2024年3月實施新資本投資者入境計劃以來，持續吸引環球高淨值人士及資本落戶香港，近年資本投資者與家族辦公室落戶香港都錄得強勁增長。政府已先後落實一系列優化計劃的措施，而為締造更具競爭力的稅務環境，早前已向立法會提交有關優化基金、家族投資控權工具及附帶權益的優惠稅制的立法建議。財庫局指出，考慮到審議法案過程中收到的意見，政府將提出修正案，包括放寬「貴金屬」作為可獲免稅的合資格投資的20%投資額上限，以及擴大</description>
 </item>
 <item>
 <title>京都爆發高致病性禽流感　食安中心即時停進口京都家禽肉及禽蛋</title>
 <link>https://hkcnexpress.com/a/20261113-kyoto-poultry-suspended-bird-flu.html</link>
-<guid>https://hkcnexpress.com/a/20261113-kyoto-poultry-suspended-bird-flu.html</guid>
-<pubDate>Fri, 13 Nov 2026 16:42:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-kyoto-poultry-suspended-bird-flu.html</guid>
 <description>食物環境衞生署食物安全中心宣布，因應日本農林水產省通報京都府爆發高致病性H5禽流感，即時指示業界暫停從該區進口家禽肉及產品，包括禽蛋，以保障香港公眾健康。據政府統計處資料，今年首九個月香港從日本進口約1,030噸急凍家禽肉及約2.4994億隻禽蛋。食安中心表示已就事件聯絡日本當局，並會密切留意世界動物衞生組織及相關當局發布的禽流感疫情資訊，因應情況發展採取適當行動。</description>
+<pubDate>Fri, 13 Nov 2026 16:42:00 +0800</pubDate>
 </item>
 <item>
 <title>二手樓價連跌5周　CCL創5個月低位　新界西一周跌1.68%</title>
 <link>https://hkcnexpress.com/a/20261113-ccl-down-5-month-low.html</link>
-<guid>https://hkcnexpress.com/a/20261113-ccl-down-5-month-low.html</guid>
-<pubDate>Fri, 13 Nov 2026 16:41:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-ccl-down-5-month-low.html</guid>
 <description>反映本港二手樓價走勢的中原城市領先指數（CCL）最新報158.61點，按周跌0.31%，連跌5個星期，累計回落1.61%，指數創5個月以來低位。大型屋苑和中小型單位樓價分別按周跌約0.5%和0.4%，大型單位按周升0.15%，結束連續4周下跌。四區樓價中，新界西按周跌1.68%，九龍跌0.4%，港島及新界東變動不大。CCL今年以來累計升10.06%，港島和新界東升幅接近12%。中原地產表示，多個一手新盤低價熱銷，攤薄二手購買力，加上港股下跌，業主態度開始軟化，需要擴大議價空間才獲買家承接，影響樓價持續調整回軟。</description>
+<pubDate>Fri, 13 Nov 2026 16:41:00 +0800</pubDate>
 </item>
 <item>
 <title>內地客攜2萬支未完稅煙闖關　西九龍裁判法院判囚4個月罰款2000元</title>
 <link>https://hkcnexpress.com/a/20261113-passenger-jailed-duty-free-cigarettes.html</link>
-<guid>https://hkcnexpress.com/a/20261113-passenger-jailed-duty-free-cigarettes.html</guid>
-<pubDate>Fri, 13 Nov 2026 16:40:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-passenger-jailed-duty-free-cigarettes.html</guid>
 <description>一名入境男旅客今日（11月13日）在西九龍裁判法院被判監禁4個月及罰款2,000元，罪名是進口未完稅香煙及未有向海關人員申報，違反《應課稅品條例》。海關人員昨日（11月12日）在香港國際機場截查一名37歲內地男旅客，他由柬埔寨金邊經越南胡志明市抵港，海關在其個人行李搜出約2萬支未完稅香煙，估計市值約9萬元，應課稅值約6.6萬元，該名旅客隨後被捕。海關歡迎判刑，認為監禁刑罰具相當阻嚇作用，反映罪行嚴重性，並提醒市民香煙屬應課稅品，進口、處理、管有、售賣或購買私煙均屬違法，一經定罪最高可被罰款200萬元及監禁7年。</description>
+<pubDate>Fri, 13 Nov 2026 16:40:00 +0800</pubDate>
+<enclosure url="https://gia.info.gov.hk/general/202611/13/P2026111300497_photo_1343625.jpg" type="image/jpeg" />
 </item>
 <item>
 <title>入境處連環反黑工行動　突擊餐廳裝修單位按摩院　拘15人包括僱主</title>
 <link>https://hkcnexpress.com/a/20261113-anti-illegal-worker-15-arrested.html</link>
-<guid>https://hkcnexpress.com/a/20261113-anti-illegal-worker-15-arrested.html</guid>
-<pubDate>Fri, 13 Nov 2026 16:30:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-anti-illegal-worker-15-arrested.html</guid>
 <description>入境處11月9日至昨日（11月12日）展開全港反非法勞工行動，代號「Twilight」、「Fastrack」及「Lightshadow」，並與警方展開代號「Champion」的聯合行動，突擊多個目標地點，包括餐廳、裝修中單位及按摩院，共拘捕15人，包括12名疑似非法勞工、1名疑似僱主及2名逾期逗留人士。被捕疑似非法勞工為2男10女，年齡31至58歲，其中1名男子持有不允許受僱的擔保書，2名女子涉嫌使用及管有偽造香港身份證；43歲女子涉嫌聘用非法勞工被捕；2名逾期逗留女子分別42及46歲。當局表示會繼續調查疑似僱主，不排除再有人被捕。</description>
+<pubDate>Fri, 13 Nov 2026 16:30:00 +0800</pubDate>
+<enclosure url="https://gia.info.gov.hk/general/202611/13/P2026111300469_photo_1343624.jpg" type="image/jpeg" />
 </item>
 <item>
 <title>第三季經濟勁增5.2%　全年增長預測上調至4.8%　通脹預測降至1.9%</title>
 <link>https://hkcnexpress.com/a/20261113-hk-gdp-q3-2026-forecast-4-8pct.html</link>
-<guid>https://hkcnexpress.com/a/20261113-hk-gdp-q3-2026-forecast-4-8pct.html</guid>
-<pubDate>Fri, 13 Nov 2026 16:30:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-hk-gdp-q3-2026-forecast-4-8pct.html</guid>
 <description>政府今日發表《2026年第三季經濟報告》連同修訂數字。第三季本地生產總值按年實質增長5.2%，較第二季4.2%加快；首三季合計增長5.1%，是五年來同期最快。貨品出口受惠人工智能相關電子產品需求強勁，實質按年急升30.3%，服務輸出增4.3%，私人消費增2.9%連續第六季擴張，整體投資開支升7.5%，經季節性調整失業率微升至3.9%。政府將全年經濟增長預測由8月覆檢的3.5%至4.5%上調至4.8%，基本通脹率及整體通脹率預測則分別由2.5%及2.6%下調至1.9%及2.0%。</description>
+<pubDate>Fri, 13 Nov 2026 16:30:00 +0800</pubDate>
+<enclosure url="https://gia.info.gov.hk/general/202611/13/P2026111300306_photo_1343633.jpg" type="image/jpeg" />
 </item>
 <item>
 <title>洪水橋物流圈接16份意向書　首批5幅地　32公頃打造現代物流樞紐</title>
 <link>https://hkcnexpress.com/a/20261113-hung-shui-kiu-logistics-eoi-16.html</link>
-<guid>https://hkcnexpress.com/a/20261113-hung-shui-kiu-logistics-eoi-16.html</guid>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-hung-shui-kiu-logistics-eoi-16.html</guid>
+<description>運輸及物流局聯同土木工程拓展署於今年8月13日，邀請物流業界及其他持份者就洪水橋／廈村新發展區現代物流圈選定地塊的發展提交意向書；提交意向書今日（11月13日）截止，共接獲16份，分別來自發展商、物流營運商、物流業界團體及專業服務提供者。政府在洪水橋／廈村新發展區預留約32公頃土地發展現代物流圈，位處北部都會區西部，鄰近深圳灣口岸，連接香港國際機場及葵青貨櫃碼頭，位置優越。物流圈發展採用「企業主導」原則，匯聚物流企業及相關配套服務，推動現代化、高增值、智慧及綠色物流服務發展，鞏固香港作為國際物流樞紐的地位。今次邀請提交意向書涵蓋物流圈內首批5幅選定地塊，旨在了解市場對發展該等地塊的興趣，並收集業界對發展要求及賣地安排的意見，為賣地工作作準備。</description>
 <pubDate>Fri, 13 Nov 2026 16:30:00 +0800</pubDate>
-<description>運輸及物流局聯同土木工程拓展署於今年8月13日，邀請物流業界及其他持份者就洪水橋／廈村新發展區現代物流圈選定地塊的發展提交意向書；提交意向書今日（11月13日）截止，共接獲16份，分別來自發展商、物流營運商、物流業界團體及專業服務提供者。政府在洪水橋／廈村新發展區預留約32公頃土地發展現代物流圈，位處北部都會區西部，鄰近深圳灣口岸，連接香港國際機場及葵青貨櫃碼頭，位置優越。物流圈發展採用「企業主導」原則，匯聚物流企業及相關配套服務，推動現代化、高增值、智慧及綠色物流服務發展，鞏固香港作為國際物流樞紐的地位。今次邀請提交意向書涵蓋物流圈內首批5幅選定地塊，旨在了解市場對發展該等地塊的興趣，並收集</description>
 </item>
 <item>
 <title>港股連跌3日　恒指失守24000點　低收370點　全星期累跌3.5%</title>
 <link>https://hkcnexpress.com/a/20261113-hsi-close-down-370-third-day.html</link>
-<guid>https://hkcnexpress.com/a/20261113-hsi-close-down-370-third-day.html</guid>
-<pubDate>Fri, 13 Nov 2026 16:27:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-hsi-close-down-370-third-day.html</guid>
 <description>港股連跌第三日，恒生指數失守24000點，創逾一星期新低。午後跌幅擴大，最多跌逾410點，收報23637點，跌370點，跌幅約1.6%，主板成交約1959億元。科技指數收報3813點，跌3%；晶片、AI大模型及硬件股沽壓大，華虹、聯想、MINIMAX、智譜跌逾6%至10%，中芯績後跌約0.5%；汽車股跌勢未止，比亞迪、理想、小鵬、蔚來跌近4%至逾5%；石油股普遍反彈，中石化及中石油分別升近2%及近3%。總結全星期，恒指累跌約3.5%，科指跌6.5%，雙雙扭轉上星期升勢。</description>
+<pubDate>Fri, 13 Nov 2026 16:27:00 +0800</pubDate>
 </item>
 <item>
 <title>微軟大規模死機波及逾70國　Outlook、Copilot癱瘓逾10小時　修復未如理想</title>
 <link>https://hkcnexpress.com/a/20261113-microsoft-outage-70-countries.html</link>
-<guid>https://hkcnexpress.com/a/20261113-microsoft-outage-70-countries.html</guid>
-<pubDate>Fri, 13 Nov 2026 16:26:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-microsoft-outage-70-countries.html</guid>
 <description>微軟多項服務全球大規模死機，電郵系統Outlook及人工智能Copilot等服務受連線問題影響。公司表示今次並非網絡安全事故引起，正努力修復。據英國廣播公司報道，監測網站顯示事件影響超過70個國家用戶，已持續超過10小時；星期四單是Outlook故障宗數最高約14萬宗，後來回落至2.8萬宗。微軟稱故障原因是多台伺服器因負載過高意外離線，正盡可能將流量轉移至其他路徑及簡化流程，令伺服器恢復上線，但承認目前修復措施未達預期效果。報道指超過4.3億人使用Microsoft 365應用程式，OpenAI及Anthropic亦表示因今次事故遭遇問題。</description>
+<pubDate>Fri, 13 Nov 2026 16:26:00 +0800</pubDate>
 </item>
 <item>
 <title>濱崎真緒疑遭落藥後復工 廣東話拍《李寶安》讚麥沛東勁</title>
 <link>https://hkcnexpress.com/a/20261113-mao-hamasaki-hoy-li-bao-an.html</link>
-<guid>https://hkcnexpress.com/a/20261113-mao-hamasaki-hoy-li-bao-an.html</guid>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-mao-hamasaki-hoy-li-bao-an.html</guid>
+<description>前日本AV女優濱崎真緒11月1日凌晨在尖沙咀一間娛樂場所工作期間懷疑遭人落藥，飲下兩杯雞尾酒後約一小時突然失去意識、全身抽搐，送往伊利沙伯醫院深切治療部搶救，體內驗出四種毒品反應；警方11月2日在中區拘捕一名61歲男子，涉嫌施用毒藥。她留院一日後出院，休養後已經復工，11月10日在社交平台表示已康復。復工後她客串HOY處境劇《你的保安 李寶安》第10集《幸福の崎遇》，首次挑戰全廣東話演出，坦言每句對白都要先理解意思再記發音，事前獲楊詩敏傳授地道廣東話。她大讚拍檔麥沛東演技厲害，兩人大量對手戲，麥沛東誇張搞笑的演法帶動她入戲；她今年5月取得香港身份證並定居香港，希望以後有更多機會在港發展，並提醒大家出外要小心、看管好飲品。</description>
 <pubDate>Fri, 13 Nov 2026 16:20:00 +0800</pubDate>
-<description>前日本AV女優濱崎真緒11月1日凌晨在尖沙咀一間娛樂場所工作期間懷疑遭人落藥，飲下兩杯雞尾酒後約一小時突然失去意識、全身抽搐，送往伊利沙伯醫院深切治療部搶救，體內驗出四種毒品反應；警方11月2日在中區拘捕一名61歲男子，涉嫌施用毒藥。她留院一日後出院，休養後已經復工，11月10日在社交平台表示已康復。復工後她客串HOY處境劇《你的保安 李寶安》第10集《幸福の崎遇》，首次挑戰全廣東話演出，坦言每句對白都要先理解意思再記發音，事前獲楊詩敏傳授地道廣東話。她大讚拍檔麥沛東演技厲害，兩人大量對手戲，麥沛東誇張搞笑的演法帶動她入戲；她今年5月取得香港身份證並定居香港，希望以後有更多機會在港發展，並提醒</description>
+<enclosure url="https://hkcnexpress.com/assets/design/20261113-mao-hamasaki-hoy-photo.jpg" type="image/jpeg" />
 </item>
 <item>
 <title>美推晶片法案堵中國取算力　外交部：中方一貫反對濫用出口管制</title>
 <link>https://hkcnexpress.com/a/20261113-foreign-ministry-export-controls-chips.html</link>
-<guid>https://hkcnexpress.com/a/20261113-foreign-ministry-export-controls-chips.html</guid>
-<pubDate>Fri, 13 Nov 2026 16:13:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-foreign-ministry-export-controls-chips.html</guid>
 <description>外交部表示，中美雙方應當共同落實好兩國元首達成的重要共識，維護中美經貿關係穩定發展態勢。在外交部例行記者會上，有記者提問，美國議員與商務部正推動通過晶片法案，阻止中國公司透過國外渠道獲取美國算力，詢問中方是否認為有關限制違反中美貿易休戰協議，以及鑑於APEC峰會即將召開，中方有何回應。發言人毛寧重申，中方一貫反對濫用出口管制措施，擾亂全球產供鏈穩定，有關做法不符合任何一方利益。</description>
+<pubDate>Fri, 13 Nov 2026 16:13:00 +0800</pubDate>
 </item>
 <item>
 <title>微軟死機波及本港　付貨人：接單確認受阻　議員倡做好後備方案</title>
 <link>https://hkcnexpress.com/a/20261113-microsoft-outage-hk-shippers-impact.html</link>
-<guid>https://hkcnexpress.com/a/20261113-microsoft-outage-hk-shippers-impact.html</guid>
-<pubDate>Fri, 13 Nov 2026 16:03:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-microsoft-outage-hk-shippers-impact.html</guid>
 <description>微軟多項服務發生大規模死機，持續多個小時，大批用戶受影響。香港付貨人委員會主席許彼得表示，不少行內人士包括製造業及物流業公司都表示受影響，主要是通訊方面，例如公司接單及確認進度等都受不同程度影響，生意上未至於停擺，但因通訊延誤造成不同程度損失。立法會議員吳傑莊表示，全球不少機構、企業甚至學校都有使用微軟系統電郵或辦公軟件，立法會電郵同樣一度未能使用，但因有另一系統支援而無影響通訊。他認為經過今次事件，任何機構及政府公共設施都應該做好後備方案，不能依靠單一系統，否則有機會令服務被迫暫停，短時間內難以恢復。</description>
+<pubDate>Fri, 13 Nov 2026 16:03:00 +0800</pubDate>
 </item>
 <item>
 <title>港珠澳大橋半馬周日開跑　特別交通安排明起分階段實施</title>
 <link>https://hkcnexpress.com/a/20261113-hzmb-half-marathon-traffic.html</link>
-<guid>https://hkcnexpress.com/a/20261113-hzmb-half-marathon-traffic.html</guid>
-<pubDate>Fri, 13 Nov 2026 16:01:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-hzmb-half-marathon-traffic.html</guid>
 <description>警方宣布，為配合港珠澳大橋（香港段）半馬拉松2026，將於周六至周日實施特別交通安排，呼籲市民及早規劃行程。首階段周六下午4時起，港珠澳大橋香港連接路往香港方向左線及中線封閉，前往香港的駕駛者須使用右線。港珠澳大橋香港口岸貨車出境通關廣場後一段貨車出境通道，將於周六晚上約9時至周日下午約3時臨時封閉。警方會視乎當區交通及人流情況實施交通安排，市民應保持忍讓及遵從現場警務人員指示。</description>
+<pubDate>Fri, 13 Nov 2026 16:01:00 +0800</pubDate>
 </item>
 <item>
 <title>蔡樹強升任副廉政專員兼執行處首長　11月17日生效　接替丘樹春</title>
 <link>https://hkcnexpress.com/a/20261113-icac-choi-shu-keung-deputy-commissioner.html</link>
-<guid>https://hkcnexpress.com/a/20261113-icac-choi-shu-keung-deputy-commissioner.html</guid>
-<pubDate>Fri, 13 Nov 2026 16:00:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-icac-choi-shu-keung-deputy-commissioner.html</guid>
 <description>廉政專員胡英明公布，執行處處長蔡樹強獲委任為副廉政專員，同時出任執行處首長，本月17日起生效，接替同日展開退休前休假的丘樹春。胡英明表示，蔡樹強投身廉署28年，在公私營領域反貪均累積深厚經驗，具備卓越領導才能及豐富行政管理知識，深信他能帶領執行處維持高度專業反貪水平，繼續有效打擊貪污，維護香港作為全球廉潔之都的美譽。現年54歲的蔡樹強於1998年加入廉署任職調查主任，2012年晉升執行處助理處長，2022年起出任執行處處長。胡英明同時感謝丘樹春逾30年堅守反貪使命，過去10年出任副廉政專員及執行處首長期間帶領執行處打擊貪污，在廉政建設作出貢獻。</description>
+<pubDate>Fri, 13 Nov 2026 16:00:00 +0800</pubDate>
 </item>
 <item>
 <title>APEC深圳峰會下周登場　外交部：期待各方凝聚共識　達成領導人宣言</title>
 <link>https://hkcnexpress.com/a/20261113-apec-shenzhen-declaration-expectation.html</link>
-<guid>https://hkcnexpress.com/a/20261113-apec-shenzhen-declaration-expectation.html</guid>
-<pubDate>Fri, 13 Nov 2026 15:45:00 +0800</pubDate>
+<guid isPermaLink="true">https://hkcnexpress.com/a/20261113-apec-shenzhen-declaration-expectation.html</guid>
 <description>國家主席習近平將出席下星期在深圳舉行的亞太經合組織第三十三次領導人非正式會議及相關活動。外交部發言人毛寧表示，今年是中國相隔12年再次擔任APEC東道主，中方期待各方進一步凝聚共識，達成領導人深圳宣言，在貿易、互聯互通、數字經濟和人工智能等重要領域取得更多務實成果，為亞太以至全球繁榮增長注入強勁動力。對於中美俄元首會晤提問，毛寧表示中方與相關方保持溝通，如有進一步資訊會及時發布。</description>
-</item>
-<item>
-<title>麗港城擬用人臉識別門禁　涉8000戶　私隱公署主動循規審查</title>
-<link>https://hkcnexpress.com/a/20261113-laguna-city-facial-recognition-privacy.html</link>
-<guid>https://hkcnexpress.com/a/20261113-laguna-city-facial-recognition-privacy.html</guid>
-<pubDate>Fri, 13 Nov 2026 15:35:00 +0800</pubDate>
-<description>個人資料私隱專員公署表示，留意到負責管理麗港城屋苑的物業管理公司計劃引入人臉識別門禁系統，引起部分住戶對個人資料私隱的關注。公署指出，面容影像屬於敏感個人資料，加上可能涉及8000多戶，為確保住戶個人資料獲得充分保障，已主動對有關系統進行循規審查，要求相關機構提供進一步資料，確保其在收集、持有、處理或使用生物辨識資料時遵從《個人資料（私隱）條例》及有關保障資料原則，特別是資料保安規定。</description>
-</item>
-<item>
-<title>亞裔民族文化匯演下周六免費入場　30國歌舞美食齊聚文化中心</title>
-<link>https://hkcnexpress.com/a/20261113-asian-ethnic-cultural-performances-2026.html</link>
-<guid>https://hkcnexpress.com/a/20261113-asian-ethnic-cultural-performances-2026.html</guid>
-<pubDate>Fri, 13 Nov 2026 15:25:00 +0800</pubDate>
-<description>戶外嘉年華「亞裔民族文化匯演+ 2026」將於11月22日下午2時至6時在香港文化中心露天廣場及大堂舉行，免費入場。活動是「亞藝無疆」藝術節2026壓軸節目，匯聚約30個「一帶一路」國家及地區代表，包括孟加拉、白俄羅斯、文萊、柬埔寨、埃及、匈牙利、印尼、伊朗、哈薩克、韓國、科威特、老撾、馬來西亞、緬甸、尼泊爾、尼日利亞、巴基斯坦、菲律賓、卡塔爾、俄羅斯、沙特阿拉伯、新加坡、斯里蘭卡、泰國、土耳其、烏拉圭、越南及津巴布韋等，現場有不同民族歌舞表演、文化攤位及工作坊，展示各地手工藝及特色小食。同期11月22日至29日在文化中心大堂舉行八日民族文化展覽，展出編織、油畫及瓷器等手工藝品。</description>
+<pubDate>Fri, 13 Nov 2026 15:45:00 +0800</pubDate>
 </item>
 </channel>
 </rss>

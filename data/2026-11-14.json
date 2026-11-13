@@ -1,5 +1,85 @@
 [
  {
+  "id": "20261114-wang-yi-china-us-party-dialogue",
+  "category": "china",
+  "published_at": "2026-11-14T03:12:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877762-20261114.htm"
+  },
+  "image_url": "https://newsstatic.rthk.hk/images/mfile_1877762_1_M_20261114031233.jpg",
+  "title": {
+   "en": "Wang Yi meets US party dialogue delegation, urges uninterrupted dialogue to expand cooperation",
+   "zh_hant": "王毅晤中美政黨對話美方代表 倡不間斷對話擴大互利合作",
+   "zh_hans": "王毅晤中美政党对话美方代表 倡不间断对话扩大互利合作"
+  },
+  "summary": {
+   "en": "Wang Yi, a member of the Political Bureau of the CPC Central Committee and director of the Central Foreign Affairs Office, met in Beijing on Thursday with the US delegation attending the China-US party dialogue. Wang said the two major countries should use uninterrupted dialogue and exchanges to set clear common goals, expand areas of mutually beneficial cooperation, consolidate the foundation of bilateral relations and work to safeguard world peace and stability. He added that both sides should uphold mutual respect, peaceful coexistence and win-win cooperation, and put into practice the consensus reached by President Xi Jinping and US President Donald Trump on building a constructive strategic stability relationship between China and the US based on respect, fairness and reciprocity.",
+   "zh_hant": "中共中央政治局委員、中央外辦主任王毅昨日在北京會見出席中美政黨對話的美方代表。王毅表示，中美兩個大國應透過不間斷的對話交流，明確共同努力的目標，擴大互利合作的領域，夯實雙邊關係的基礎，致力維護世界和平穩定。他又說，雙方應秉持相互尊重、和平共處、合作共贏的理念，將國家主席習近平與美國總統特朗普關於構建「基於尊重、公平、對等的中美建設性戰略穩定關係」的共識落到實處。",
+   "zh_hans": "中共中央政治局委员、中央外办主任王毅昨日在北京会见出席中美政党对话的美方代表。王毅表示，中美两个大国应透过不间断的对话交流，明确共同努力的目标，扩大互利合作的领域，夯实双边关系的基础，致力维护世界和平稳定。他又说，双方应秉持相互尊重、和平共处、合作共赢的理念，将国家主席习近平与美国总统特朗普关于构建「基于尊重、公平、对等的中美建设性战略稳定关系」的共识落到实处。"
+  },
+  "tags": {
+   "en": [
+    "Wang Yi",
+    "China-US relations",
+    "party dialogue",
+    "Xi-Trump consensus"
+   ],
+   "zh_hant": [
+    "王毅",
+    "中美關係",
+    "政黨對話",
+    "習特共識"
+   ],
+   "zh_hans": [
+    "王毅",
+    "中美关系",
+    "政党对话",
+    "习特共识"
+   ]
+  }
+ },
+ {
+  "id": "20261114-us-china-trade-council-first-meeting",
+  "category": "finance",
+  "published_at": "2026-11-14T04:20:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877764-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "US-China Trade Council holds first formal meeting as Trump administration seeks fair and balanced trade ties",
+   "zh_hant": "美中貿易理事會首次開會 特朗普政府冀建公平平衡貿易關係",
+   "zh_hans": "美中贸易理事会首次开会 特朗普政府冀建公平平衡贸易关系"
+  },
+  "summary": {
+   "en": "The Office of the US Trade Representative said US and Chinese officials held the first formal meeting of the US-China Trade Council on Friday, adding that the Trump administration looks forward to continued engagement with China and to building a fair and balanced trade relationship between the world's two largest economies. President Xi Jinping and visiting US President Donald Trump agreed to set up the council when they met at a summit in Beijing in May. China's Ministry of Commerce said earlier that the two sides would use the council to discuss issues including tariff cuts on products.",
+   "zh_hant": "美國貿易代表辦公室表示，美中官員星期五舉行美中貿易理事會首次正式會議，特朗普政府期待繼續與中國接觸，努力在世界兩大經濟體之間建立公平與平衡的貿易關係。國家主席習近平今年5月在北京與訪華的美國總統特朗普舉行峰會時，商定成立兩國貿易理事會。商務部早前表示，雙方將透過貿易理事會討論產品降稅等問題。",
+   "zh_hans": "美国贸易代表办公室表示，美中官员星期五举行美中贸易理事会首次正式会议，特朗普政府期待继续与中国接触，努力在世界两大经济体之间建立公平与平衡的贸易关系。国家主席习近平今年5月在北京与访华的美国总统特朗普举行峰会时，商定成立两国贸易理事会。商务部早前表示，双方将透过贸易理事会讨论产品降税等问题。"
+  },
+  "tags": {
+   "en": [
+    "US-China Trade Council",
+    "Trump",
+    "Xi-Trump summit",
+    "tariffs"
+   ],
+   "zh_hant": [
+    "美中貿易理事會",
+    "特朗普",
+    "習特峰會",
+    "關稅"
+   ],
+   "zh_hans": [
+    "美中贸易理事会",
+    "特朗普",
+    "习特峰会",
+    "关税"
+   ]
+  }
+ },
+ {
   "id": "20261114-microsoft-365-outage-apology-cause",
   "category": "tech",
   "published_at": "2026-11-14T02:33:00+08:00",
