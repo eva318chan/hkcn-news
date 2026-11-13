@@ -86,6 +86,49 @@
   }
  },
  {
+  "id": "20261113-missing-girl-ma-on-shan-found",
+  "category": "hk",
+  "published_at": "2026-11-13T22:16:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/13/P2026111300760.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/13/P2026111300281_photo_1343611.jpg",
+  "title": {
+   "zh_hant": "失蹤兩日終尋回！14歲女童蕭樂瑤天水圍現身　無受傷無可疑",
+   "en": "Missing 14-year-old girl Siu Lok-yiu found safe in Tin Shui Wai after two days",
+   "zh_hans": "失踪两日终寻回！14岁女童萧乐瑶天水围现身　无受伤无可疑"
+  },
+  "summary": {
+   "zh_hant": "警方表示，14歲少女蕭樂瑤星期三（11月11日）早上離開馬鞍山耀安邨住所後失蹤，家人同日報案。警方今日（11月13日）下午在天水圍天瑞邨尋回她，她沒有受傷，案件亦沒有可疑情況。警方早前曾發出呼籲，呼籲市民提供消息協助尋找該名女童。",
+   "en": "Police said 14-year-old Siu Lok-yiu went missing after leaving her home in Yiu On Estate, Ma On Shan, on the morning of Wednesday (November 11), and her family reported her missing the same day. She was located in Tin Shui Estate, Tin Shui Wai, this afternoon (November 13). She sustained no injuries and no suspicious circumstances were detected. Police had earlier appealed to the public for information to help find her.",
+   "zh_hans": "警方表示，14岁少女萧乐瑶星期三（11月11日）早上离开马鞍山耀安邨住所后失踪，家人同日报案。警方今日（11月13日）下午在天水围天瑞邨寻回她，她没有受伤，案件亦没有可疑情况。警方早前曾发出呼吁，呼吁市民提供消息协助寻找该名女童。"
+  },
+  "tags": {
+   "zh_hant": [
+    "失蹤女童",
+    "蕭樂瑤",
+    "馬鞍山",
+    "天水圍",
+    "警方"
+   ],
+   "en": [
+    "missing girl",
+    "Siu Lok-yiu",
+    "Ma On Shan",
+    "Tin Shui Wai",
+    "police"
+   ],
+   "zh_hans": [
+    "失踪女童",
+    "萧乐瑶",
+    "马鞍山",
+    "天水围",
+    "警方"
+   ]
+  }
+ },
+ {
   "id": "20261113-chan-mo-po-insurance-resilience",
   "category": "finance",
   "published_at": "2026-11-13T19:40:00+08:00",
@@ -830,49 +873,6 @@
   }
  },
  {
-  "id": "20261113-missing-girl-ma-on-shan-found",
-  "category": "hk",
-  "published_at": "2026-11-13T22:16:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/13/P2026111300760.htm"
-  },
-  "image_url": "",
-  "title": {
-   "zh_hant": "失蹤兩日終尋回！14歲女童蕭樂瑤天水圍現身　無受傷無可疑",
-   "en": "Missing 14-year-old girl Siu Lok-yiu found safe in Tin Shui Wai after two days",
-   "zh_hans": "失踪两日终寻回！14岁女童萧乐瑶天水围现身　无受伤无可疑"
-  },
-  "summary": {
-   "zh_hant": "警方表示，14歲少女蕭樂瑤星期三（11月11日）早上離開馬鞍山耀安邨住所後失蹤，家人同日報案。警方今日（11月13日）下午在天水圍天瑞邨尋回她，她沒有受傷，案件亦沒有可疑情況。警方早前曾發出呼籲，呼籲市民提供消息協助尋找該名女童。",
-   "en": "Police said 14-year-old Siu Lok-yiu went missing after leaving her home in Yiu On Estate, Ma On Shan, on the morning of Wednesday (November 11), and her family reported her missing the same day. She was located in Tin Shui Estate, Tin Shui Wai, this afternoon (November 13). She sustained no injuries and no suspicious circumstances were detected. Police had earlier appealed to the public for information to help find her.",
-   "zh_hans": "警方表示，14岁少女萧乐瑶星期三（11月11日）早上离开马鞍山耀安邨住所后失踪，家人同日报案。警方今日（11月13日）下午在天水围天瑞邨寻回她，她没有受伤，案件亦没有可疑情况。警方早前曾发出呼吁，呼吁市民提供消息协助寻找该名女童。"
-  },
-  "tags": {
-   "zh_hant": [
-    "失蹤女童",
-    "蕭樂瑤",
-    "馬鞍山",
-    "天水圍",
-    "警方"
-   ],
-   "en": [
-    "missing girl",
-    "Siu Lok-yiu",
-    "Ma On Shan",
-    "Tin Shui Wai",
-    "police"
-   ],
-   "zh_hans": [
-    "失踪女童",
-    "萧乐瑶",
-    "马鞍山",
-    "天水围",
-    "警方"
-   ]
-  }
- },
- {
   "id": "20261113-chai-wan-schoolboy-assault",
   "category": "hk",
   "published_at": "2026-11-13T21:51:00+08:00",
@@ -1127,6 +1127,46 @@
     "输入个案",
     "疫苗",
     "伊利沙伯医院"
+   ]
+  }
+ },
+ {
+  "id": "20261113-chabaidao-special-committee-suspension",
+  "category": "finance",
+  "published_at": "2026-11-13T18:27:00+08:00",
+  "source": {
+   "name": "京報網",
+   "url": "https://news.bjd.com.cn/2026/11/13/12029600.shtml"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Chabaidao shares stay suspended as board sets up special committee to probe SFC concerns",
+   "zh_hant": "茶百道繼續停牌！設獨立委員會查證監會關注事項 IPO疑遭操縱",
+   "zh_hans": "茶百道继续停牌！设独立委员会查证监会关注事项 IPO疑遭操纵"
+  },
+  "summary": {
+   "en": "Chabaidao announced on the Hong Kong stock exchange on the evening of November 13 that its board has resolved to set up an independent special committee to investigate the concerns raised by the Securities and Futures Commission, assess their possible impact on the company's business and finances, and report back to the board with recommendations on appropriate action. Its shares will remain suspended. The committee comprises all the company's incumbent independent non-executive directors — Yang Zhida, Tang Yong and Cheng Li — with Yang as chairman, and is identifying suitable independent professional advisers to carry out the investigation. Chabaidao was suspended urgently about a month ago; on October 13 the SFC said the stock's IPO may have been manipulated, with a suspicious group allegedly involved in IPO fraud schemes covering Chabaidao and other new listings.",
+   "zh_hant": "茶百道11月13日晚在港交所公告，董事會決議成立獨立特別委員會，就證監會提出的關注事項進行獨立調查，評估對公司業務營運及財務狀況的可能影響，並向董事會匯報及建議適當措施；公司股份繼續停牌。委員會由全體現任獨立非執行董事楊志達、唐勇、程麗組成，楊志達任主席，委員會正物色合適的獨立專業顧問開展調查。茶百道約一個月前因監管調查被緊急停牌，證監會10月13日指該股首次公開招股可能曾被人為操縱，有關可疑集團涉嫌參與茶百道、撥康視雲、天聚地合等新股的欺詐計劃。",
+   "zh_hans": "茶百道11月13日晚在港交所公告，董事会决议成立独立特别委员会，就证监会提出的关注事项进行独立调查，评估对公司业务营运及财务状况的可能影响，并向董事会汇报及建议适当措施；公司股份继续停牌。委员会由全体现任独立非执行董事杨志达、唐勇、程丽组成，杨志达任主席，委员会正物色合适的独立专业顾问开展调查。茶百道约一个月前因监管调查被紧急停牌，证监会10月13日指该股首次公开招股可能曾被人为操纵，有关可疑集团涉嫌参与茶百道、拨康视云、天聚地合等新股的欺诈计划。"
+  },
+  "tags": {
+   "en": [
+    "Chabaidao",
+    "trading suspension",
+    "SFC",
+    "IPO"
+   ],
+   "zh_hant": [
+    "茶百道",
+    "停牌",
+    "證監會",
+    "IPO"
+   ],
+   "zh_hans": [
+    "茶百道",
+    "停牌",
+    "证监会",
+    "IPO"
    ]
   }
  },

@@ -1,5 +1,165 @@
 [
  {
+  "id": "20261114-microsoft-365-outage-apology-cause",
+  "category": "tech",
+  "published_at": "2026-11-14T02:33:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877760-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Microsoft 365 still not fully restored after day-long outage; firm blames technical fault, not cyberattack or AI",
+   "zh_hant": "微軟365死機一日仍未完全恢復 公司致歉：技術問題 與網攻AI無關",
+   "zh_hans": "微软365死机一日仍未完全恢复 公司致歉：技术问题 与网攻AI无关"
+  },
+  "summary": {
+   "en": "Microsoft 365 services have suffered a widespread outage for about a day and are still not fully restored. Microsoft apologised to affected users, saying the fault was a technical problem unrelated to a cyberattack or artificial intelligence. A spokesman said the incident was caused by a problem during an earlier network capacity upgrade, and that services are being restored gradually because of the scale of demand, which takes longer but helps ensure a stable recovery. A full report will be provided after the assessment. The outage began in the early hours of Friday Hong Kong time, leaving Teams, Outlook and Copilot unusable in at least 70 countries and regions, affecting government bodies, businesses and individual users in many countries.",
+   "zh_hant": "微軟旗下微軟365多項服務大範圍故障大約一日，至今仍未完全恢復正常。微軟向受影響用戶致歉，指故障屬於技術問題，與網絡攻擊或人工智能無關。發言人表示，今次事件是由於早前網絡容量升級過程中出現的問題導致，由於需求規模較大，公司採取逐步恢復服務的方式，雖然耗時較長，但有助確保系統穩定恢復，會在完成評估後提供完整報告。故障由本港時間星期五凌晨開始出現，導致辦公通訊應用Teams、電郵服務Outlook及人工智能軟件Copilot等，在全球至少70個國家或地區無法使用，影響多國政府機構、企業和個人用戶。",
+   "zh_hans": "微软旗下微软365多项服务大范围故障大约一日，至今仍未完全恢复正常。微软向受影响用户致歉，指故障属于技术问题，与网络攻击或人工智能无关。发言人表示，今次事件是由于早前网络容量升级过程中出现的问题导致，由于需求规模较大，公司采取逐步恢复服务的方式，虽然耗时较长，但有助确保系统稳定恢复，会在完成评估后提供完整报告。故障由本港时间星期五凌晨开始出现，导致办公通讯应用Teams、电邮服务Outlook及人工智能软件Copilot等，在全球至少70个国家或地区无法使用，影响多国政府机构、企业和个人用户。"
+  },
+  "tags": {
+   "en": [
+    "Microsoft 365",
+    "outage",
+    "Teams",
+    "Outlook"
+   ],
+   "zh_hant": [
+    "微軟365",
+    "大規模死機",
+    "Teams",
+    "Outlook"
+   ],
+   "zh_hans": [
+    "微软365",
+    "大规模死机",
+    "Teams",
+    "Outlook"
+   ]
+  }
+ },
+ {
+  "id": "20261114-turkey-qatar-defence-pact",
+  "category": "world",
+  "published_at": "2026-11-14T02:12:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877759-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Türkiye and Qatar sign mutual defence pact as Erdogan vows to prevent another Gulf war",
+   "zh_hant": "土耳其卡塔爾簽共同防禦協議 埃爾多安：防海灣再爆戰爭",
+   "zh_hans": "土耳其卡塔尔签共同防御协议 埃尔多安：防海湾再爆战争"
+  },
+  "summary": {
+   "en": "Türkiye and Qatar have signed a mutual defence agreement. The Turkish presidency said President Recep Tayyip Erdogan met visiting Qatari Emir Sheikh Tamim bin Hamad Al Thani in Istanbul on Friday and signed the pact, without disclosing its details. Erdogan said the two sides will keep working to prevent another war breaking out in the Gulf region. Tamim was in Türkiye for a meeting of the Türkiye-Qatar High Strategic Committee, and the two sides also signed four agreements covering trade, education, consumer protection and diplomatic cooperation.",
+   "zh_hant": "土耳其與卡塔爾簽署共同防禦協議。土耳其總統府發表聲明，指總統埃爾多安星期五在伊斯坦布爾，與到訪的卡塔爾埃米爾塔米姆簽署共同防禦協議，但未有披露協議具體內容。埃爾多安表示，雙方將會繼續努力，防止海灣地區再次爆發戰爭。塔米姆此行是參加土耳其－卡塔爾高級戰略委員會會議，雙方亦簽署貿易、教育、消費者保護和外交合作等領域的四項協議。",
+   "zh_hans": "土耳其与卡塔尔签署共同防御协议。土耳其总统府发表声明，指总统埃尔多安星期五在伊斯坦布尔，与到访的卡塔尔埃米尔塔米姆签署共同防御协议，但未有披露协议具体内容。埃尔多安表示，双方将会继续努力，防止海湾地区再次爆发战争。塔米姆此行是参加土耳其－卡塔尔高级战略委员会会议，双方亦签署贸易、教育、消费者保护和外交合作等领域的四项协议。"
+  },
+  "tags": {
+   "en": [
+    "Türkiye",
+    "Qatar",
+    "defence pact",
+    "Gulf"
+   ],
+   "zh_hant": [
+    "土耳其",
+    "卡塔爾",
+    "防禦協議",
+    "海灣"
+   ],
+   "zh_hans": [
+    "土耳其",
+    "卡塔尔",
+    "防御协议",
+    "海湾"
+   ]
+  }
+ },
+ {
+  "id": "20261114-europe-five-ukraine-talks-russia-objects",
+  "category": "world",
+  "published_at": "2026-11-14T01:29:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877756-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Five European states to join next Ukraine talks, but Kremlin says it never agreed",
+   "zh_hant": "歐洲五國將加入下輪烏克蘭和談 克宮即潑冷水：未同意歐洲參加",
+   "zh_hans": "欧洲五国将加入下轮乌克兰和谈 克宫即泼冷水：未同意欧洲参加"
+  },
+  "summary": {
+   "en": "EU leaders meeting in Dublin agreed that Britain, France, Germany, Italy and Poland, together with the EU, will jointly represent Europe at the next round of Ukraine talks, so Europe can focus on the substance of negotiating with Russia. US President Donald Trump's son-in-law Jared Kushner had earlier said Russian President Vladimir Putin was willing to let Europe take part, and envoy Steve Witkoff said European representatives would join the next round. But Kremlin spokesman Dmitry Peskov said on Friday that Russia has not agreed to European participation, and foreign ministry spokeswoman Maria Zakharova said the matter was not discussed in the meetings with Witkoff and Kushner.",
+   "zh_hant": "歐盟領袖在愛爾蘭都柏林舉行峰會，達成共識，在下一輪烏克蘭問題會談中，由英國、法國、德國、意大利、波蘭及歐盟共同代表歐洲，集中探討與俄羅斯談判的具體內容。美國總統特朗普的女婿庫什納較早時說，俄羅斯總統普京願意讓歐洲參與俄烏和平談判，特使威特科夫亦說歐洲代表將參與下一輪談判。不過，克里姆林宮發言人佩斯科夫星期五表示，俄方尚未同意讓歐洲參與談判；外交部發言人扎哈羅娃亦表示，俄方在與威特科夫及庫什納的會晤中，未有討論歐洲參與的事宜。",
+   "zh_hans": "欧盟领袖在爱尔兰都柏林举行峰会，达成共识，在下一轮乌克兰问题会谈中，由英国、法国、德国、意大利、波兰及欧盟共同代表欧洲，集中探讨与俄罗斯谈判的具体内容。美国总统特朗普的女婿库什纳较早时说，俄罗斯总统普京愿意让欧洲参与俄乌和平谈判，特使威特科夫亦说欧洲代表将参与下一轮谈判。不过，克里姆林宫发言人佩斯科夫星期五表示，俄方尚未同意让欧洲参与谈判；外交部发言人扎哈罗娃亦表示，俄方在与威特科夫及库什纳的会晤中，未有讨论欧洲参与的事宜。"
+  },
+  "tags": {
+   "en": [
+    "Ukraine talks",
+    "Europe",
+    "Russia",
+    "Kremlin"
+   ],
+   "zh_hant": [
+    "烏克蘭和談",
+    "歐洲",
+    "俄羅斯",
+    "克里姆林宮"
+   ],
+   "zh_hans": [
+    "乌克兰和谈",
+    "欧洲",
+    "俄罗斯",
+    "克里姆林宫"
+   ]
+  }
+ },
+ {
+  "id": "20261114-bessent-megaspeed-blacklist-commerce",
+  "category": "tech",
+  "published_at": "2026-11-14T00:55:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877755-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Bessent: Four US agencies back blacklisting Megaspeed, but Commerce stays silent",
+   "zh_hant": "貝森特爆料：四部門撐將Megaspeed列黑名單 商務部卻未表態",
+   "zh_hans": "贝森特爆料：四部门撑将Megaspeed列黑名单 商务部却未表态"
+  },
+  "summary": {
+   "en": "US Treasury Secretary Scott Bessent said four US departments — Treasury, Defence, State and the US Trade Representative — have for months backed adding Singapore firm Megaspeed, caught up in the Nvidia chip controversy, to the Commerce Department's entity list. But the decision rests with Commerce, which is not among the four, and Bessent said reporters should ask how it is handling the matter internally. He added the Trump administration is working to plug loopholes in the chip export system and questioned whether Nvidia did its due diligence when vetting partners.",
+   "zh_hant": "美國財長貝森特表示，在是否將捲入輝達晶片風波的新加坡公司Megaspeed列入貿易黑名單的問題上，財政部、國防部、國務院和美國貿易代表辦公室四個部門過去幾個月一直支持，但負責相關事務的商務部並不在其中，決定權在商務部手上。貝森特又說，特朗普政府正致力堵塞晶片出口體系的漏洞，並質疑輝達在審查合作夥伴時有否盡應有責任。",
+   "zh_hans": "美国财长贝森特表示，在是否将卷入辉达芯片风波的新加坡公司Megaspeed列入贸易黑名单的问题上，财政部、国防部、国务院和美国贸易代表办公室四个部门过去几个月一直支持，但负责相关事务的商务部并不在其中，决定权在商务部手上。贝森特又说，特朗普政府正致力堵塞芯片出口体系的漏洞，并质疑辉达在审查合作伙伴时有否尽应有责任。"
+  },
+  "tags": {
+   "en": [
+    "Bessent",
+    "Megaspeed",
+    "Nvidia",
+    "chip export controls"
+   ],
+   "zh_hant": [
+    "貝森特",
+    "Megaspeed",
+    "輝達",
+    "晶片出口管制"
+   ],
+   "zh_hans": [
+    "贝森特",
+    "Megaspeed",
+    "辉达",
+    "芯片出口管制"
+   ]
+  }
+ },
+ {
   "id": "20261114-moscow-car-bomb-zavorotny",
   "category": "world",
   "published_at": "2026-11-14T00:25:00+08:00",

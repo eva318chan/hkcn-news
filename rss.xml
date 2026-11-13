@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>中港新聞速報</title><link>https://hkcnexpress.com</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Sat, 14 Nov 2026 00:51:56 +0800</lastBuildDate>
+<title>中港新聞速報</title><link>https://hkcnexpress.com</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Sat, 14 Nov 2026 02:55:01 +0800</lastBuildDate>
+<item>
+<title>微軟365死機一日仍未完全恢復 公司致歉：技術問題 與網攻AI無關</title>
+<link>https://hkcnexpress.com/a/20261114-microsoft-365-outage-apology-cause.html</link>
+<guid>https://hkcnexpress.com/a/20261114-microsoft-365-outage-apology-cause.html</guid>
+<pubDate>Sat, 14 Nov 2026 02:33:00 +0800</pubDate>
+<description>微軟旗下微軟365多項服務大範圍故障大約一日，至今仍未完全恢復正常。微軟向受影響用戶致歉，指故障屬於技術問題，與網絡攻擊或人工智能無關。發言人表示，今次事件是由於早前網絡容量升級過程中出現的問題導致，由於需求規模較大，公司採取逐步恢復服務的方式，雖然耗時較長，但有助確保系統穩定恢復，會在完成評估後提供完整報告。故障由本港時間星期五凌晨開始出現，導致辦公通訊應用Teams、電郵服務Outlook及人工智能軟件Copilot等，在全球至少70個國家或地區無法使用，影響多國政府機構、企業和個人用戶。</description>
+</item>
+<item>
+<title>土耳其卡塔爾簽共同防禦協議 埃爾多安：防海灣再爆戰爭</title>
+<link>https://hkcnexpress.com/a/20261114-turkey-qatar-defence-pact.html</link>
+<guid>https://hkcnexpress.com/a/20261114-turkey-qatar-defence-pact.html</guid>
+<pubDate>Sat, 14 Nov 2026 02:12:00 +0800</pubDate>
+<description>土耳其與卡塔爾簽署共同防禦協議。土耳其總統府發表聲明，指總統埃爾多安星期五在伊斯坦布爾，與到訪的卡塔爾埃米爾塔米姆簽署共同防禦協議，但未有披露協議具體內容。埃爾多安表示，雙方將會繼續努力，防止海灣地區再次爆發戰爭。塔米姆此行是參加土耳其－卡塔爾高級戰略委員會會議，雙方亦簽署貿易、教育、消費者保護和外交合作等領域的四項協議。</description>
+</item>
+<item>
+<title>歐洲五國將加入下輪烏克蘭和談 克宮即潑冷水：未同意歐洲參加</title>
+<link>https://hkcnexpress.com/a/20261114-europe-five-ukraine-talks-russia-objects.html</link>
+<guid>https://hkcnexpress.com/a/20261114-europe-five-ukraine-talks-russia-objects.html</guid>
+<pubDate>Sat, 14 Nov 2026 01:29:00 +0800</pubDate>
+<description>歐盟領袖在愛爾蘭都柏林舉行峰會，達成共識，在下一輪烏克蘭問題會談中，由英國、法國、德國、意大利、波蘭及歐盟共同代表歐洲，集中探討與俄羅斯談判的具體內容。美國總統特朗普的女婿庫什納較早時說，俄羅斯總統普京願意讓歐洲參與俄烏和平談判，特使威特科夫亦說歐洲代表將參與下一輪談判。不過，克里姆林宮發言人佩斯科夫星期五表示，俄方尚未同意讓歐洲參與談判；外交部發言人扎哈羅娃亦表示，俄方在與威特科夫及庫什納的會晤中，未有討論歐洲參與的事宜。</description>
+</item>
+<item>
+<title>貝森特爆料：四部門撐將Megaspeed列黑名單 商務部卻未表態</title>
+<link>https://hkcnexpress.com/a/20261114-bessent-megaspeed-blacklist-commerce.html</link>
+<guid>https://hkcnexpress.com/a/20261114-bessent-megaspeed-blacklist-commerce.html</guid>
+<pubDate>Sat, 14 Nov 2026 00:55:00 +0800</pubDate>
+<description>美國財長貝森特表示，在是否將捲入輝達晶片風波的新加坡公司Megaspeed列入貿易黑名單的問題上，財政部、國防部、國務院和美國貿易代表辦公室四個部門過去幾個月一直支持，但負責相關事務的商務部並不在其中，決定權在商務部手上。貝森特又說，特朗普政府正致力堵塞晶片出口體系的漏洞，並質疑輝達在審查合作夥伴時有否盡應有責任。</description>
+</item>
 <item>
 <title>莫斯科汽車炸彈襲擊　親普京烏克蘭前總理顧問受傷　聖彼得堡前一日亦有同類爆炸</title>
 <link>https://hkcnexpress.com/a/20261114-moscow-car-bomb-zavorotny.html</link>
@@ -106,6 +134,13 @@
 <guid>https://hkcnexpress.com/a/20261113-mpox-imported-case-34yo-man.html</guid>
 <pubDate>Fri, 13 Nov 2026 19:23:00 +0800</pubDate>
 <description>衞生署衞生防護中心正調查一宗輸入猴痘個案，強烈呼籲高風險目標群組接種猴痘疫苗。個案涉及一名34歲男子，他於11月9日出現發燒、疲倦及手臂出疹，皮疹其後擴散至身體多處，包括生殖器、腹部及胸部；11月11日到伊利沙伯醫院急症室求診並入院隔離治療，現時情況穩定，衞生防護中心公共衞生化驗服務處化驗證實其臨床樣本對猴痘病毒呈陽性反應。病人表示在潛伏期內曾在香港以外與其他男性有高風險性接觸，流行病學調查仍在進行中，個案將向世界衞生組織報告。自2022年以來，本港共錄得120宗猴痘個案（94宗本地、26宗輸入），全部患者為男性；自8月以來錄得的27宗個案，全部患者在潛伏期內曾進行高風險性行為，包括與男性陌生</description>
+</item>
+<item>
+<title>茶百道繼續停牌！設獨立委員會查證監會關注事項 IPO疑遭操縱</title>
+<link>https://hkcnexpress.com/a/20261113-chabaidao-special-committee-suspension.html</link>
+<guid>https://hkcnexpress.com/a/20261113-chabaidao-special-committee-suspension.html</guid>
+<pubDate>Fri, 13 Nov 2026 18:27:00 +0800</pubDate>
+<description>茶百道11月13日晚在港交所公告，董事會決議成立獨立特別委員會，就證監會提出的關注事項進行獨立調查，評估對公司業務營運及財務狀況的可能影響，並向董事會匯報及建議適當措施；公司股份繼續停牌。委員會由全體現任獨立非執行董事楊志達、唐勇、程麗組成，楊志達任主席，委員會正物色合適的獨立專業顧問開展調查。茶百道約一個月前因監管調查被緊急停牌，證監會10月13日指該股首次公開招股可能曾被人為操縱，有關可疑集團涉嫌參與茶百道、撥康視雲、天聚地合等新股的欺詐計劃。</description>
 </item>
 <item>
 <title>米埔兩環境樣本驗出H5禽流感　漁護署加強監察　3公里內無雞場</title>
@@ -318,41 +353,6 @@
 <guid>https://hkcnexpress.com/a/20261113-asian-ethnic-cultural-performances-2026.html</guid>
 <pubDate>Fri, 13 Nov 2026 15:25:00 +0800</pubDate>
 <description>戶外嘉年華「亞裔民族文化匯演+ 2026」將於11月22日下午2時至6時在香港文化中心露天廣場及大堂舉行，免費入場。活動是「亞藝無疆」藝術節2026壓軸節目，匯聚約30個「一帶一路」國家及地區代表，包括孟加拉、白俄羅斯、文萊、柬埔寨、埃及、匈牙利、印尼、伊朗、哈薩克、韓國、科威特、老撾、馬來西亞、緬甸、尼泊爾、尼日利亞、巴基斯坦、菲律賓、卡塔爾、俄羅斯、沙特阿拉伯、新加坡、斯里蘭卡、泰國、土耳其、烏拉圭、越南及津巴布韋等，現場有不同民族歌舞表演、文化攤位及工作坊，展示各地手工藝及特色小食。同期11月22日至29日在文化中心大堂舉行八日民族文化展覽，展出編織、油畫及瓷器等手工藝品。</description>
-</item>
-<item>
-<title>滬股低收約0.6%　創業板急跌逾3%　全星期齊跌扭轉上周升勢</title>
-<link>https://hkcnexpress.com/a/20261113-shanghai-stocks-down-chinext-3pct.html</link>
-<guid>https://hkcnexpress.com/a/20261113-shanghai-stocks-down-chinext-3pct.html</guid>
-<pubDate>Fri, 13 Nov 2026 15:13:00 +0800</pubDate>
-<description>內地股市低收，創業板指數跌幅較大；算力硬件及元件等股份下跌，銀行、保險、白酒、影視及豬肉股造好。上證指數收報3634點，跌21點，跌幅約0.6%；深證成份指數報10968點，跌229點，跌幅約2%；創業板指數報2426點，跌83點，跌幅逾3.3%。總結全星期，滬股跌0.4%，深證成指跌約1.9%，創業板指數跌約1.6%，全部扭轉前星期升勢。</description>
-</item>
-<item>
-<title>瑪麗升降機風波　議員斥層層隱瞞　把關人如合上眼簽名　局方解畫</title>
-<link>https://hkcnexpress.com/a/20261113-mary-hospital-lift-legco-criticism.html</link>
-<guid>https://hkcnexpress.com/a/20261113-mary-hospital-lift-legco-criticism.html</guid>
-<pubDate>Fri, 13 Nov 2026 15:08:00 +0800</pubDate>
-<description>立法會發展事務委員會討論瑪麗醫院新臨床大樓升降機工程問題調查報告。建築署署長李翹彥表示，去年7月因大樓升降機發生工業意外，才知道更多項目情況；去年底找獨立註冊升降機工程師檢查，結論是「有瑕疵、符合法例、可繼續運行」；今年3月聘請廣東省特種設備檢測研究院詳細檢測，才得悉升降機井道有偏差及工藝欠妥。機電署署長潘國英表示，去年2月檢查L3升降機發現金屬切割，覺得事態嚴重，當時首次知道安裝有工程問題，隨即暫時吊銷涉事工程師註冊資格並展開調查。民建聯陳學鋒形容事件為「完美風暴」，一層隱瞞一層；陳凱欣批評把關的人像合上眼照簽名，又質疑為何直至今年9月發展局才首次提到井道問題。發展局局長甯漢豪表示，發展局一</description>
-</item>
-<item>
-<title>蔡天鳳案續審　鄺港傑：從未親眼見屍首殘肢　膠袋內有疑似骨頭湯渣</title>
-<link>https://hkcnexpress.com/a/20261113-choi-tin-fung-trial-kwong-no-body-seen.html</link>
-<guid>https://hkcnexpress.com/a/20261113-choi-tin-fung-trial-kwong-no-body-seen.html</guid>
-<pubDate>Fri, 13 Nov 2026 14:25:00 +0800</pubDate>
-<description>蔡天鳳案在高等法院續審，首被告、蔡天鳳的前大伯鄺港傑繼續作供，表示自己與父親鄺球和弟弟鄺港智無計劃在2023年2月21日殺害蔡天鳳或對她造成非常嚴重身體傷害，自己從來沒有親眼目擊蔡天鳳的屍首和殘肢。鄺港傑說，案發翌日晚上跟隨父親到大埔村屋，見到廚房爐頭有兩個煲正在加熱，但無查找煲內情況，鋅盤有紅蘿蔔和青蘿蔔；當晚再在洗手間協助父親清潔刀具，聽到切割聲音，但沒有與父親對話。鄺港傑又說，案發後曾經將廚房外的黑色膠袋打結包好，連同染血手套和紙巾掉出村屋外的大型垃圾箱，見到袋內有類似骨頭及青、紅蘿蔔的湯渣。對於警方在電鋸說明書和村屋雪櫃發現他的指紋，鄺港傑解釋，最後一次打開雪櫃是案發之前，事發前兩星期</description>
-</item>
-<item>
-<title>強積金修例刊憲　拖供款120日未清加徵10%附加費　違規受託人最高罰1000萬</title>
-<link>https://hkcnexpress.com/a/20261113-mpf-bill-gazetted-two-tier-surcharge.html</link>
-<guid>https://hkcnexpress.com/a/20261113-mpf-bill-gazetted-two-tier-surcharge.html</guid>
-<pubDate>Fri, 13 Nov 2026 14:00:00 +0800</pubDate>
-<description>政府今日刊憲《2026年強制性公積金計劃（修訂）條例草案》，加強追討拖欠強積金供款及完善強積金規管制度。草案建議引入兩級附加費機制：僱主除咗要繳現有5%附加費，如果喺供款日後第120日之前仍未繳清欠款及首級附加費，須就欠款總額另繳10%第二級附加費；積金局亦可書面要求僱主喺不少於14日內提供僱員收入資料，違者可被處定額罰款。草案同時建議賦權積金局制裁違規受託人，包括罰款最高1,000萬港元或違規所得利潤或避免損失的三倍（以較高者為準）、公開譴責或兩者兼施，並公開執法行動及加強規管中介人，以及放寬強積金投資管理彈性。草案將於11月25日提交立法會首讀。</description>
-</item>
-<item>
-<title>習近平：國企黨建要持之以恆從嚴治黨　為做強做優做大國企提供保障</title>
-<link>https://hkcnexpress.com/a/20261113-xi-soe-party-building-instruction.html</link>
-<guid>https://hkcnexpress.com/a/20261113-xi-soe-party-building-instruction.html</guid>
-<pubDate>Fri, 13 Nov 2026 13:53:00 +0800</pubDate>
-<description>中共中央總書記、國家主席、中央軍委主席習近平對國有企業黨的建設工作作出重要指示，強調要持之以恆推進全面從嚴治黨，為做強做優做大國有企業和國有資本提供堅強保障。國有企業黨的建設工作座談會在北京召開，會上傳達習近平重要指示，指出要著力完善中國特色現代企業制度，推動黨的領導更好融入公司治理各環節；著力增強黨組織政治功能和組織功能，促進黨建工作與生產經營深度融合；著力加強領導班子建設，鍛造高素質專業化幹部人才隊伍；著力落實管黨治黨政治責任，堅定不移正風肅紀反腐，營造風清氣正、幹事創業的良好氛圍。</description>
 </item>
 </channel>
 </rss>
