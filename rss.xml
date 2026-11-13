@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>中港新聞速報</title><link>https://hkcnexpress.com</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Fri, 13 Nov 2026 07:02:07 +0800</lastBuildDate>
+<title>中港新聞速報</title><link>https://hkcnexpress.com</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Fri, 13 Nov 2026 08:54:58 +0800</lastBuildDate>
+<item>
+<title>韓股初段飆近3%　首爾綜合指數升144點　三星、SK海力士升近5%</title>
+<link>https://hkcnexpress.com/a/20261113-kospi-up-near-3pct-early.html</link>
+<guid>https://hkcnexpress.com/a/20261113-kospi-up-near-3pct-early.html</guid>
+<pubDate>Fri, 13 Nov 2026 08:25:00 +0800</pubDate>
+<description>韓國股市今早開市初段升近3%，首爾綜合指數較早時報5487點，升144點，升幅2.71%。三星電子和SK海力士升近4%至近5%。</description>
+</item>
+<item>
+<title>日股初段升逾1%　日經指數升689點報61508點</title>
+<link>https://hkcnexpress.com/a/20261113-nikkei-up-1pct-early.html</link>
+<guid>https://hkcnexpress.com/a/20261113-nikkei-up-1pct-early.html</guid>
+<pubDate>Fri, 13 Nov 2026 08:25:00 +0800</pubDate>
+<description>日本股市今早開市初段升逾1%，日經平均指數較早時報61508點，升689點，升幅1.13%。</description>
+</item>
+<item>
+<title>IMF：聯儲局需維持限制性貨幣政策　AI投資＋能源價格推高通脹</title>
+<link>https://hkcnexpress.com/a/20261113-imf-fed-restrictive-policy.html</link>
+<guid>https://hkcnexpress.com/a/20261113-imf-fed-restrictive-policy.html</guid>
+<pubDate>Fri, 13 Nov 2026 07:51:00 +0800</pubDate>
+<description>國際貨幣基金組織表示，美國聯儲局仍需維持限制性貨幣政策立場，推動通脹回落至2%的目標水平，組織支持聯儲局以維護物價穩定作為政策重點。發言人科扎克表示，美國通脹並非由工資增長推動，主要是受到能源價格高企，以及人工智能投資熱潮持續的影響；她指人工智能股票估值仍面臨市場對其長期盈利能力重新評估的風險，目前判斷人工智能行業最新動向對通脹壓力的影響仍為時尚早。基金組織認為，人工智能投資和數據中心建設所帶來的需求增長，是推動美國通脹的兩大主要因素之一，另一因素是伊朗戰爭及霍爾木茲海峽封鎖導致的能源價格上升。</description>
+</item>
+<item>
+<title>美國10月預算赤字4040億美元創同月新高　按年急增42%</title>
+<link>https://hkcnexpress.com/a/20261113-us-oct-budget-deficit-record.html</link>
+<guid>https://hkcnexpress.com/a/20261113-us-oct-budget-deficit-record.html</guid>
+<pubDate>Fri, 13 Nov 2026 07:48:00 +0800</pubDate>
+<description>美國財政部數據顯示，美國10月錄得4040億美元預算赤字，創同月紀錄新高，按年增加42%，因收入減少及支出急增所致。10月財政收入減少9%至3690億美元，其中海關淨稅收減少39%至192億美元。期內支出創同月新高，按年增加12%至7730億美元，來自農業救助補貼、軍費、營運、維護和採購等項目的支出都有所增加。</description>
+</item>
+<item>
+<title>港股ADR普遍跌　滙控跌近1%　ATMXJ除京東外跌逾1至2%</title>
+<link>https://hkcnexpress.com/a/20261113-hk-adr-down.html</link>
+<guid>https://hkcnexpress.com/a/20261113-hk-adr-down.html</guid>
+<pubDate>Fri, 13 Nov 2026 06:59:00 +0800</pubDate>
+<description>港股美國預託證券普遍較本港收市下跌。金融股方面，滙控ADR較本港收市跌近1%。科技股方面，除京東之外，ATMXJ其餘股份都較本港收市跌逾1%至2%，以美團跌幅較大。</description>
+</item>
+<item>
+<title>金價插水逾3%　創去年10月以來新低　美元衝高拖累</title>
+<link>https://hkcnexpress.com/a/20261113-gold-1-year-low.html</link>
+<guid>https://hkcnexpress.com/a/20261113-gold-1-year-low.html</guid>
+<pubDate>Fri, 13 Nov 2026 06:58:00 +0800</pubDate>
+<description>金價跌至逾1年低位，連跌3個交易日，因美元觸及逾1年半高位。現貨金一度跌至每盎司3852美元水平，創去年10月初以來低位，跌幅3.3%，較早時報3879.71美元，跌幅2.7%。紐約期金收市報每盎司3885.3美元，跌幅近2.9%。</description>
+</item>
 <item>
 <title>油價飆近3%　沙特能源設施遇襲　霍爾木茲海峽航運受阻</title>
 <link>https://hkcnexpress.com/a/20261113-oil-up-3pct-saudi-attack.html</link>
@@ -157,6 +199,13 @@
 <description>全美不動產協會數據顯示，美國10月二手樓銷售按月跌5.5%，經季節調整後以年率計375萬間，創逾16年新低，低於市場預期。數據亦顯示，二手樓庫存按月增加1.3%，以年率計159萬間，按年升4.6%。按10月銷售速度計算，5.1個月就會完全消化現有庫存，是約11年以來最長，多於9月的4.7個月。分析認為，按揭貸款利率上升、樓價仍處於高位，令潛在買家持觀望態度；首次置業人士佔總銷量比例降至29%，分析指比例需達到40%，樓市才能保持強勁。</description>
 </item>
 <item>
+<title>將軍澳站黑衣男突襲港鐵職員　男職員口鼻流血　3人送院</title>
+<link>https://hkcnexpress.com/a/20261113-tko-mtr-staff-attacked.html</link>
+<guid>https://hkcnexpress.com/a/20261113-tko-mtr-staff-attacked.html</guid>
+<pubDate>Thu, 12 Nov 2026 23:06:00 +0800</pubDate>
+<description>11月12日晚上約7時許，一名戴口罩、穿深色外套的男子在將軍澳站C出入口附近的票務大堂，突然襲擊一名當值男職員，先扯住對方衣領將他摔倒在地，再連環揮拳打向頭部，男職員口鼻流血；一名馬尾女職員上前協助時亦被扯頭髮，幾乎被扯到跪地。四名職員嘗試制止亦一同倒地糾纏，多名乘客包括外籍旅客及西裝男上前協助，最終合力將男子按住。港鐵表示，一名當值職員突然被附近一名男子襲擊，另兩名上前制止的職員亦受傷，三人送院治理，公司譴責任何針對職員的暴力行為。警方晚上7時21分接報，到場以涉嫌「襲擊致造成身體傷害」拘捕一名男子，事件起因仍在調查。</description>
+</item>
+<item>
 <title>何立峰晤景順總裁　中國深入推進金融高質量發展　擴大高水平開放</title>
 <link>https://hkcnexpress.com/a/20261112-he-lifeng-meets-invesco-chief-financial-opening.html</link>
 <guid>https://hkcnexpress.com/a/20261112-he-lifeng-meets-invesco-chief-financial-opening.html</guid>
@@ -302,55 +351,6 @@
 <guid>https://hkcnexpress.com/a/20261112-hpv-catch-up-programme-ends-dec-31.html</guid>
 <pubDate>Thu, 12 Nov 2026 19:38:00 +0800</pubDate>
 <description>政府於2024年推出的一次性人類乳頭瘤病毒（HPV）疫苗補種計劃將於今年12月31日結束，衞生署衞生防護中心呼籲已接種第一劑疫苗的合資格女性香港居民把握時間，完成餘下接種，以免錯過免費接種的最後機會。補種計劃下，在2004年至2008年出生而未完成接種HPV疫苗的合資格女性可免費接種兩劑疫苗，免疫力弱的人士則需接種三劑，兩劑建議相隔至少五個月；合資格人士可先登記「醫健通」，再透過網頁或電話（2855 1333）預約到樂妍站或指定地區康健中心／站接種。衞生防護中心總監徐樂堅表示，補種計劃推出將近兩年，累計接種超過74,000劑疫苗；接種HPV疫苗可有效預防可致命的子宮頸癌，世界衞生組織及海外衞生</description>
-</item>
-<item>
-<title>新皇崗口岸開通一個月　出入境人員334萬人次</title>
-<link>https://hkcnexpress.com/a/20261112-new-huanggang-port-3-34-million-crossings.html</link>
-<guid>https://hkcnexpress.com/a/20261112-new-huanggang-port-3-34-million-crossings.html</guid>
-<pubDate>Thu, 12 Nov 2026 19:37:00 +0800</pubDate>
-<description>新皇崗口岸開通一個月，深圳邊檢總站表示，首月共錄得出入境人員334萬人次，日均逾11萬人次，較口岸升級前升逾一倍。深港雙方近期已在多個口岸設立亞太經合組織峰會的專用櫃枱，運輸及物流局局長陳美寶表示，會提供清晰訊息及指示，讓旅客高效過關直接抵達會議會場。</description>
-</item>
-<item>
-<title>紐約有建築物倒塌　釀最少兩死十多人傷</title>
-<link>https://hkcnexpress.com/a/20261112-new-york-building-collapse-two-dead.html</link>
-<guid>https://hkcnexpress.com/a/20261112-new-york-building-collapse-two-dead.html</guid>
-<pubDate>Thu, 12 Nov 2026 19:37:00 +0800</pubDate>
-<description>美國紐約布魯克林區一棟有90多年歷史的三層高建築物倒塌，最少兩人死亡，十多人受傷。當局正調查事故原因，又透露事發時倒塌建築物旁的地盤正進行挖掘工程。</description>
-</item>
-<item>
-<title>印尼發行百億元人民幣主權熊貓債　7年期債首次面世</title>
-<link>https://hkcnexpress.com/a/20261112-indonesia-10bn-rmb-panda-bonds.html</link>
-<guid>https://hkcnexpress.com/a/20261112-indonesia-10bn-rmb-panda-bonds.html</guid>
-<pubDate>Thu, 12 Nov 2026 19:33:00 +0800</pubDate>
-<description>印尼在中國銀行間債券市場發行100億元人民幣主權熊貓債，創銀行間債市主權熊貓債發行規模新高。牽頭主承銷商及牽頭簿記管理人中金公司表示，印尼發行的熊貓債涵蓋3個年期，3年期發行規模57億元，票面利率1.96厘；5年期佔37億元，票面利率2.15厘；7年期佔6億元，票面利率2.5厘。中金公司指出，過往主權熊貓債以3年及5年期為主，今次首次發行7年期品種，相信可以補齊主權熊貓債長期限短板，完善市場孳息率曲線，亦幫助發行人鎖定中長期融資成本，獲取穩定的中長期人民幣資金，優化外債期限結構。據外電報道，今年7月下旬印尼亦在中國銀行間市場發行70億元人民幣熊貓債，涵蓋3年及5年期，票面利率分別1.9厘及2.</description>
-</item>
-<item>
-<title>瑪麗醫院升降機報告：頻繁故障涉四原因　其他違法行為已轉交調查</title>
-<link>https://hkcnexpress.com/a/20261112-queen-mary-hospital-lift-report-four-causes.html</link>
-<guid>https://hkcnexpress.com/a/20261112-queen-mary-hospital-lift-report-four-causes.html</guid>
-<pubDate>Thu, 12 Nov 2026 19:14:00 +0800</pubDate>
-<description>立法會發展事務委員會明日舉行特別會議，政府將交代瑪麗醫院新臨床大樓升降機工程問題的調查報告結果及後續跟進行動。發展局向立法會提交的文件指出，所有28部升降機均出現不同程度的問題，出現頻繁故障的主因包括升降機井道牆身尺寸和垂直度出現偏差、升降機導軌垂直度在不同樓層出現偏差、升降機機廂重心不平衡導致機廂不完全垂直，以及升降機安裝工藝質素欠妥。發展局將按規管機制啟動內部程序，分別向涉事承建商、分判商和顧問公司採取進一步懲處行動；由於調查過程中發現事件有可能涉及其他違法行為，局方已交由有關執法部門進一步調查。文件又指出，工程問題按現行監察機制理應可及早發現並作出糾正，但未有在施工階段得到應有重視和及時</description>
-</item>
-<item>
-<title>全球交易公司IMC 13個月內兩度擴充香港業務　鞏固亞太區營運樞紐地位</title>
-<link>https://hkcnexpress.com/a/20261112-imc-second-hong-kong-expansion-13-months.html</link>
-<guid>https://hkcnexpress.com/a/20261112-imc-second-hong-kong-expansion-13-months.html</guid>
-<pubDate>Thu, 12 Nov 2026 19:12:00 +0800</pubDate>
-<description>投資推廣署今日宣布，全球交易公司IMC 13個月內第二度擴充香港業務，辦公室面積擴大近三倍至近20,000平方呎，設於國際金融中心二期；團隊人數將增加一倍至逾100人，鞏固香港作為亞太區營運樞紐的地位，並以香港為系統化股票業務的亞太區樞紐。IMC以先進技術及研究為全球金融市場提供流通量，新辦公室將支援招聘量化研究員、軟件工程師及交易員。財政司司長許正宇在新辦公室開幕禮致辭時表示，香港會繼續推動金融市場高質量發展，正籌備現金市場T+1結算周期，並推進批發央行數碼貨幣用於收市後衍生工具交易。投資推廣署署長劉凱旋表示，香港的國際連通性、穩健法律制度及人才庫，為業務發展提供堅實基礎。IMC自1989年</description>
-</item>
-<item>
-<title>駐迪拜經貿辦慶祝成立五周年　持續深化香港與中東夥伴合作關係</title>
-<link>https://hkcnexpress.com/a/20261112-dubai-eto-fifth-anniversary.html</link>
-<guid>https://hkcnexpress.com/a/20261112-dubai-eto-fifth-anniversary.html</guid>
-<pubDate>Thu, 12 Nov 2026 19:00:00 +0800</pubDate>
-<description>駐迪拜經濟貿易辦事處於迪拜時間11月9日在迪拜舉行成立五周年晚宴，逾350名嘉賓出席，慶祝香港與中東夥伴關係持續深化。駐迪拜經貿辦處長陳尚文表示，經貿辦是特區政府在中東地區首個經貿辦，覆蓋阿聯酋及海灣阿拉伯國家合作委員會成員國，致力促進兩地經貿及文化聯繫；過去五年香港與阿聯酋雙邊貿易平均每年增長8.2%，阿聯酋是香港在中東最大的貿易夥伴，香港亦是阿聯酋非石油出口增長最快的市場之一。文化交流方面，阿聯酋參與香港書展及青年交流，經貿辦連續五年在阿聯酋舉辦香港電影節，今年迪拜河龍舟挑戰賽吸引62支隊伍參賽。晚宴亦安排人形機械人同步群舞表演，以及香港中東音樂組合The Saffron演出。經貿辦於20</description>
-</item>
-<item>
-<title>中芯第3季盈利按年急升1.2倍　按季跌近11%</title>
-<link>https://hkcnexpress.com/a/20261112-smic-q3-profit-up-1-2-times.html</link>
-<guid>https://hkcnexpress.com/a/20261112-smic-q3-profit-up-1-2-times.html</guid>
-<pubDate>Thu, 12 Nov 2026 18:53:00 +0800</pubDate>
-<description>中芯國際第3季盈利4.28億美元，按年急升1.23倍，按季下跌10.6%。上季收入31.9億美元，按年及按季分別增長33.9%和6.1%；毛利率29.9%，按年升7.9個百分點，按季升4.6個百分點。集團預計，第4季收入按季增長4%至6%，毛利率指引介乎26%至28%。</description>
 </item>
 </channel>
 </rss>

@@ -74,6 +74,225 @@
   }
  },
  {
+  "id": "20261113-kospi-up-near-3pct-early",
+  "category": "finance",
+  "published_at": "2026-11-13T08:25:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877639-20261113.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "韓股初段飆近3%　首爾綜合指數升144點　三星、SK海力士升近5%",
+   "en": "South Korean stocks jump nearly 3% in early trade; KOSPI up 144 points as Samsung and SK Hynix rise nearly 5%",
+   "zh_hans": "韩股初段飙近3%　首尔综合指数升144点　三星、SK海力士升近5%"
+  },
+  "summary": {
+   "zh_hant": "韓國股市今早開市初段升近3%，首爾綜合指數較早時報5487點，升144點，升幅2.71%。三星電子和SK海力士升近4%至近5%。",
+   "en": "South Korean stocks rose nearly 3% in early trading this morning, with the KOSPI index at 5,487 points, up 144 points or 2.71%. Samsung Electronics and SK Hynix rose nearly 4% to nearly 5%.",
+   "zh_hans": "韩国股市今早开市初段升近3%，首尔综合指数较早时报5487点，升144点，升幅2.71%。三星电子和SK海力士升近4%至近5%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "韓股",
+    "三星",
+    "SK海力士"
+   ],
+   "en": [
+    "South Korean stocks",
+    "Samsung",
+    "SK Hynix"
+   ],
+   "zh_hans": [
+    "韩股",
+    "三星",
+    "SK海力士"
+   ]
+  }
+ },
+ {
+  "id": "20261113-nikkei-up-1pct-early",
+  "category": "finance",
+  "published_at": "2026-11-13T08:25:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877638-20261113.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "日股初段升逾1%　日經指數升689點報61508點",
+   "en": "Japanese stocks rise more than 1% in early trade; Nikkei up 689 points at 61,508",
+   "zh_hans": "日股初段升逾1%　日经指数升689点报61508点"
+  },
+  "summary": {
+   "zh_hant": "日本股市今早開市初段升逾1%，日經平均指數較早時報61508點，升689點，升幅1.13%。",
+   "en": "Japanese stocks rose more than 1% in early trading this morning, with the Nikkei average at 61,508 points, up 689 points or 1.13%.",
+   "zh_hans": "日本股市今早开市初段升逾1%，日经平均指数较早时报61508点，升689点，升幅1.13%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "日股",
+    "日經指數"
+   ],
+   "en": [
+    "Japanese stocks",
+    "Nikkei"
+   ],
+   "zh_hans": [
+    "日股",
+    "日经指数"
+   ]
+  }
+ },
+ {
+  "id": "20261113-imf-fed-restrictive-policy",
+  "category": "finance",
+  "published_at": "2026-11-13T07:51:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877636-20261113.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "IMF：聯儲局需維持限制性貨幣政策　AI投資＋能源價格推高通脹",
+   "en": "IMF says Fed must keep restrictive monetary policy as AI investment and energy prices drive inflation",
+   "zh_hans": "IMF：联储局需维持限制性货币政策　AI投资＋能源价格推高通胀"
+  },
+  "summary": {
+   "zh_hant": "國際貨幣基金組織表示，美國聯儲局仍需維持限制性貨幣政策立場，推動通脹回落至2%的目標水平，組織支持聯儲局以維護物價穩定作為政策重點。發言人科扎克表示，美國通脹並非由工資增長推動，主要是受到能源價格高企，以及人工智能投資熱潮持續的影響；她指人工智能股票估值仍面臨市場對其長期盈利能力重新評估的風險，目前判斷人工智能行業最新動向對通脹壓力的影響仍為時尚早。基金組織認為，人工智能投資和數據中心建設所帶來的需求增長，是推動美國通脹的兩大主要因素之一，另一因素是伊朗戰爭及霍爾木茲海峽封鎖導致的能源價格上升。",
+   "en": "The International Monetary Fund said the US Federal Reserve still needs to maintain a restrictive monetary policy stance to bring inflation back down to its 2% target, adding that it supports the Fed's focus on price stability. IMF spokesperson Julie Kozak said US inflation is not being driven by wage growth but mainly by high energy prices and the continuing boom in artificial intelligence investment; she said AI stock valuations still face the risk of markets reassessing their long-term profitability, and that it is too early to judge how the latest developments in the AI sector will affect inflationary pressures. The IMF sees demand growth from AI investment and data-centre construction as one of the two main drivers of US inflation, with the other being higher energy prices caused by the war involving Iran and the blockade of the Strait of Hormuz.",
+   "zh_hans": "国际货币基金组织表示，美国联储局仍需维持限制性货币政策立场，推动通胀回落至2%的目标水平，组织支持联储局以维护物价稳定作为政策重点。发言人科扎克表示，美国通胀并非由工资增长推动，主要是受到能源价格高企，以及人工智能投资热潮持续的影响；她指人工智能股票估值仍面临市场对其长期盈利能力重新评估的风险，目前判断人工智能行业最新动向对通胀压力的影响仍为时尚早。基金组织认为，人工智能投资和数据中心建设所带来的需求增长，是推动美国通胀的两大主要因素之一，另一因素是伊朗战争及霍尔木兹海峡封锁导致的能源价格上升。"
+  },
+  "tags": {
+   "zh_hant": [
+    "IMF",
+    "聯儲局",
+    "通脹"
+   ],
+   "en": [
+    "IMF",
+    "Federal Reserve",
+    "inflation"
+   ],
+   "zh_hans": [
+    "IMF",
+    "联储局",
+    "通胀"
+   ]
+  }
+ },
+ {
+  "id": "20261113-us-oct-budget-deficit-record",
+  "category": "finance",
+  "published_at": "2026-11-13T07:48:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877629-20261113.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "美國10月預算赤字4040億美元創同月新高　按年急增42%",
+   "en": "US October budget deficit hits record US$404 billion for the month, up 42% year on year",
+   "zh_hans": "美国10月预算赤字4040亿美元创同月新高　按年急增42%"
+  },
+  "summary": {
+   "zh_hant": "美國財政部數據顯示，美國10月錄得4040億美元預算赤字，創同月紀錄新高，按年增加42%，因收入減少及支出急增所致。10月財政收入減少9%至3690億美元，其中海關淨稅收減少39%至192億美元。期內支出創同月新高，按年增加12%至7730億美元，來自農業救助補貼、軍費、營運、維護和採購等項目的支出都有所增加。",
+   "en": "US Treasury data show the United States recorded a budget deficit of US$404 billion in October, a record for the month and up 42% from a year earlier, as revenue fell and spending surged. Fiscal revenue in October fell 9% to US$369 billion, with net customs receipts down 39% to US$19.2 billion. Spending hit a record for the month, rising 12% year on year to US$773 billion, with higher outlays on farm aid subsidies, the military, operations, maintenance and procurement.",
+   "zh_hans": "美国财政部数据显示，美国10月录得4040亿美元预算赤字，创同月纪录新高，按年增加42%，因收入减少及支出急增所致。10月财政收入减少9%至3690亿美元，其中海关净税收减少39%至192亿美元。期内支出创同月新高，按年增加12%至7730亿美元，来自农业救助补贴、军费、营运、维护和采购等项目的支出都有所增加。"
+  },
+  "tags": {
+   "zh_hant": [
+    "美國",
+    "預算赤字",
+    "財政部"
+   ],
+   "en": [
+    "United States",
+    "budget deficit",
+    "Treasury"
+   ],
+   "zh_hans": [
+    "美国",
+    "预算赤字",
+    "财政部"
+   ]
+  }
+ },
+ {
+  "id": "20261113-hk-adr-down",
+  "category": "finance",
+  "published_at": "2026-11-13T06:59:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877627-20261113.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "港股ADR普遍跌　滙控跌近1%　ATMXJ除京東外跌逾1至2%",
+   "en": "Hong Kong ADRs broadly lower; HSBC down nearly 1% as ATMXJ stocks fall over 1-2% except JD.com",
+   "zh_hans": "港股ADR普遍跌　汇控跌近1%　ATMXJ除京东外跌逾1至2%"
+  },
+  "summary": {
+   "zh_hant": "港股美國預託證券普遍較本港收市下跌。金融股方面，滙控ADR較本港收市跌近1%。科技股方面，除京東之外，ATMXJ其餘股份都較本港收市跌逾1%至2%，以美團跌幅較大。",
+   "en": "Hong Kong stocks' American depositary receipts were broadly lower than their Hong Kong closes. Among financials, HSBC's ADR was down nearly 1% from its Hong Kong close. Among technology stocks, all ATMXJ constituents except JD.com were down more than 1% to 2% from their Hong Kong closes, with Meituan falling the most.",
+   "zh_hans": "港股美国预托证券普遍较本港收市下跌。金融股方面，汇控ADR较本港收市跌近1%。科技股方面，除京东之外，ATMXJ其余股份都较本港收市跌逾1%至2%，以美团跌幅较大。"
+  },
+  "tags": {
+   "zh_hant": [
+    "港股",
+    "ADR",
+    "滙控"
+   ],
+   "en": [
+    "Hong Kong stocks",
+    "ADR",
+    "HSBC"
+   ],
+   "zh_hans": [
+    "港股",
+    "ADR",
+    "汇控"
+   ]
+  }
+ },
+ {
+  "id": "20261113-gold-1-year-low",
+  "category": "finance",
+  "published_at": "2026-11-13T06:58:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877626-20261113.htm"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "金價插水逾3%　創去年10月以來新低　美元衝高拖累",
+   "en": "Gold plunges over 3% to lowest since last October as dollar hits 18-month high",
+   "zh_hans": "金价插水逾3%　创去年10月以来新低　美元冲高拖累"
+  },
+  "summary": {
+   "zh_hant": "金價跌至逾1年低位，連跌3個交易日，因美元觸及逾1年半高位。現貨金一度跌至每盎司3852美元水平，創去年10月初以來低位，跌幅3.3%，較早時報3879.71美元，跌幅2.7%。紐約期金收市報每盎司3885.3美元，跌幅近2.9%。",
+   "en": "Gold fell to its lowest in more than a year, down for a third consecutive trading day, as the US dollar touched a high of more than a year and a half. Spot gold fell at one point to around US$3,852 an ounce, its lowest since early October last year and down 3.3%, and was later at US$3,879.71, down 2.7%. New York gold futures closed at US$3,885.30 an ounce, down nearly 2.9%.",
+   "zh_hans": "金价跌至逾1年低位，连跌3个交易日，因美元触及逾1年半高位。现货金一度跌至每盎司3852美元水平，创去年10月初以来低位，跌幅3.3%，较早时报3879.71美元，跌幅2.7%。纽约期金收市报每盎司3885.3美元，跌幅近2.9%。"
+  },
+  "tags": {
+   "zh_hant": [
+    "金價",
+    "美元",
+    "現貨金"
+   ],
+   "en": [
+    "gold prices",
+    "US dollar",
+    "spot gold"
+   ],
+   "zh_hans": [
+    "金价",
+    "美元",
+    "现货金"
+   ]
+  }
+ },
+ {
   "id": "20261113-oil-up-3pct-saudi-attack",
   "category": "finance",
   "published_at": "2026-11-13T06:28:00+08:00",
@@ -736,6 +955,43 @@
     "纽约",
     "楼房倒塌",
     "布鲁克林"
+   ]
+  }
+ },
+ {
+  "id": "20261113-tko-mtr-staff-attacked",
+  "category": "society",
+  "published_at": "2026-11-12T23:06:00+08:00",
+  "source": {
+   "name": "Dim Sum Daily",
+   "url": "https://www.dimsumdaily.hk/masked-man-assaults-mtr-staff-at-tseung-kwan-o-station/"
+  },
+  "image_url": "",
+  "title": {
+   "zh_hant": "將軍澳站黑衣男突襲港鐵職員　男職員口鼻流血　3人送院",
+   "en": "Masked man attacks MTR staff at Tseung Kwan O Station; three sent to hospital",
+   "zh_hans": "将军澳站黑衣男突袭港铁职员　男职员口鼻流血　3人送院"
+  },
+  "summary": {
+   "zh_hant": "11月12日晚上約7時許，一名戴口罩、穿深色外套的男子在將軍澳站C出入口附近的票務大堂，突然襲擊一名當值男職員，先扯住對方衣領將他摔倒在地，再連環揮拳打向頭部，男職員口鼻流血；一名馬尾女職員上前協助時亦被扯頭髮，幾乎被扯到跪地。四名職員嘗試制止亦一同倒地糾纏，多名乘客包括外籍旅客及西裝男上前協助，最終合力將男子按住。港鐵表示，一名當值職員突然被附近一名男子襲擊，另兩名上前制止的職員亦受傷，三人送院治理，公司譴責任何針對職員的暴力行為。警方晚上7時21分接報，到場以涉嫌「襲擊致造成身體傷害」拘捕一名男子，事件起因仍在調查。",
+   "en": "At about 7pm on November 12, a masked man in a dark jacket suddenly attacked a male MTR staff member on duty in the ticket hall near Exit C at Tseung Kwan O Station, grabbing his collar, throwing him to the floor and punching him repeatedly in the head until his mouth and nose bled; a female colleague with a ponytail who rushed in to help had her hair pulled and was forced almost to her knees. Four staff members tried to intervene and ended up in a tangled struggle on the floor, until passengers — including a foreign traveller and a man in a suit — stepped in and pinned the attacker down. MTR said a duty staff member was suddenly attacked and two other staff who intervened were also hurt, with three employees sent to hospital, and condemned any violence against staff. Police received a report at about 7.21pm and arrested a man for assault occasioning actual bodily harm; the cause of the outburst is still under investigation.",
+   "zh_hans": "11月12日晚上约7时许，一名戴口罩、穿深色外套的男子在将军澳站C出入口附近的票务大堂，突然袭击一名当值男职员，先扯住对方衣领将他摔倒在地，再连环挥拳打向头部，男职员口鼻流血；一名马尾女职员上前协助时亦被扯头发，几乎被扯到跪地。四名职员尝试制止亦一同倒地纠缠，多名乘客包括外籍旅客及西装男上前协助，最终合力将男子按住。港铁表示，一名当值职员突然被附近一名男子袭击，另两名上前制止的职员亦受伤，三人送院治理，公司谴责任何针对职员的暴力行为。警方晚上7时21分接报，到场以涉嫌「袭击致造成身体伤害」拘捕一名男子，事件起因仍在调查。"
+  },
+  "tags": {
+   "zh_hant": [
+    "將軍澳",
+    "港鐵",
+    "襲擊"
+   ],
+   "en": [
+    "Tseung Kwan O",
+    "MTR",
+    "assault"
+   ],
+   "zh_hans": [
+    "将军澳",
+    "港铁",
+    "袭击"
    ]
   }
  }
