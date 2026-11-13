@@ -375,6 +375,43 @@
   }
  },
  {
+  "id": "20261113-debt-restructure-scam",
+  "category": "hk",
+  "published_at": "2026-11-13T04:30:00+08:00",
+  "source": {
+   "name": "明報",
+   "url": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20261113/s00002/1794509221916/%E6%89%AE%E9%8A%80%E8%A1%8C%E8%81%B7%E5%93%A1%E8%AA%98%E5%82%B5%E5%8B%99%E9%87%8D%E7%B5%84-%E5%A5%B3%E5%AD%90%E9%A8%996%E4%BA%BA490%E8%90%AC%E5%85%83%E8%A2%AB%E6%8D%95"
+  },
+  "image_url": "https://hkcnexpress.hk/assets/design/20261113-debt-restructure-scam.jpg",
+  "title": {
+   "en": "Woman Arrested for Impersonating Bank Staff in Debt Restructuring Scam, Defrauding 6 People of HK$4.9 Million",
+   "zh_hant": "扮銀行職員呃債務重組 女子騙6人490萬被捕",
+   "zh_hans": "扮银行职员呃债务重组 女子骗6人490万被捕"
+  },
+  "summary": {
+   "en": "Three victims reported receiving calls from fraudsters impersonating bank staff, claiming they could help with debt restructuring. The victims met people posing as accounting firm staff at shared offices in Mong Kok and Cheung Sha Wan and handed over money, only to find their debts unchanged. Police reviewed CCTV and intelligence and arrested a 45-year-old unemployed woman in Sham Shui Po on Tuesday (10th), seizing about HK$1 million in cash believed to be proceeds of the fraud. Police believe she is linked to at least six similar cases involving about HK$4.9 million, with the largest single loss around HK$2.8 million. She has been charged with conspiracy to defraud and appeared at West Kowloon Magistrates' Courts yesterday.",
+   "zh_hant": "3名事主早前報案，指收到偽冒銀行職員來電，訛稱可協助債務重組。事主按指示到旺角及長沙灣共享辦公室，與自稱會計師樓職員會面並交錢，之後發現債務毫無變動，始知受騙。警方翻查閉路電視及情報分析，周二（10日）在深水埗拘捕一名45歲無業女子，身上搜出約100萬元現金，相信為騙款。警方相信她至少涉及6宗同類案件，騙取約490萬元，最大單一損失約280萬元。被捕女子被控一項串謀詐騙罪，昨日在西九龍裁判法院提堂。",
+   "zh_hans": "3名事主早前报案，指收到伪冒银行职员来电，讹称可协助债务重组。事主按指示到旺角及长沙湾共享办公室，与自称会计师楼职员会面并交钱，之后发现债务毫无变动，始知受骗。警方翻查闭路电视及情报分析，周二（10日）在深水埗拘捕一名45岁无业女子，身上搜出约100万元现金，相信为骗款。警方相信她至少涉及6宗同类案件，骗取约490万元，最大单一损失约280万元。被捕女子被控一项串谋诈骗罪，昨日在西九龙裁判法院提堂。"
+  },
+  "tags": {
+   "en": [
+    "fraud",
+    "debt restructuring",
+    "Hong Kong police"
+   ],
+   "zh_hant": [
+    "詐騙",
+    "債務重組",
+    "警方"
+   ],
+   "zh_hans": [
+    "诈骗",
+    "债务重组",
+    "警方"
+   ]
+  }
+ },
+ {
   "id": "20261113-nvidia-huang-resigns",
   "category": "tech",
   "published_at": "2026-11-13T00:20:00+08:00",
