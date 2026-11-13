@@ -40,6 +40,255 @@
   }
  },
  {
+  "id": "20261114-us-stocks-week-nvidia-sixth-weekly-fall",
+  "category": "finance",
+  "published_at": "2026-11-14T06:14:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877771-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "US stocks gain over 2% for the week as Nvidia slides nearly 13% for a sixth straight weekly loss",
+   "zh_hant": "美股三大指數全周升逾2% Nvidia單周瀉近13% 連跌六周",
+   "zh_hans": "美股三大指数全周升逾2% Nvidia单周泻近13% 连跌六周"
+  },
+  "summary": {
+   "en": "All three major US stock indices rose this week, with the Dow up nearly 2.1% to end a two-week losing streak, and the Nasdaq and S&P 500 up nearly 2.3% and 2.5% respectively, both ending four straight weeks of losses. The Philadelphia Semiconductor Index fell more than 3% on the day, and Nvidia closed 2% lower, down nearly 13% for the week for a sixth consecutive weekly decline. Chip stocks were broadly under pressure, with AMD down nearly 9% and Broadcom down nearly 5%, while Cisco fell more than 6%, the biggest drop among Dow components. Airline stocks also fell in extended trading after the FAA issued a nationwide ground stop.",
+   "zh_hant": "美股三大指數本周全線上升，道指升近2.1%，結束兩周跌勢；納指及標普500指數分別升近2.3%及2.5%，雙雙結束連跌四周。費城半導體指數單日跌逾3%，Nvidia收市跌2%，全周累跌近13%，連跌六個星期。晶片股普遍受壓，AMD跌近9%，博通跌近5%；思科低收逾6%，是跌幅最大的道指成份股。另外，美國聯邦航空管理局發布全國停飛令後，航空股在延長交易時段下跌。",
+   "zh_hans": "美股三大指数本周全线上升，道指升近2.1%，结束两周跌势；纳指及标普500指数分别升近2.3%及2.5%，双双结束连跌四周。费城半导体指数单日跌逾3%，Nvidia收市跌2%，全周累跌近13%，连跌六个星期。芯片股普遍受压，AMD跌近9%，博通跌近5%；思科低收逾6%，是跌幅最大的道指成份股。另外，美国联邦航空管理局发布全国停飞令后，航空股在延长交易时段下跌。"
+  },
+  "tags": {
+   "en": [
+    "US stocks",
+    "Nvidia",
+    "Dow Jones",
+    "Nasdaq",
+    "chip stocks"
+   ],
+   "zh_hant": [
+    "美股",
+    "Nvidia",
+    "道瓊斯",
+    "納斯達克",
+    "晶片股"
+   ],
+   "zh_hans": [
+    "美股",
+    "Nvidia",
+    "道琼斯",
+    "纳斯达克",
+    "芯片股"
+   ]
+  }
+ },
+ {
+  "id": "20261114-flag-day-community-chest",
+  "category": "hk",
+  "published_at": "2026-11-14T06:00:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/14/P2026111200396.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Territory-wide flag day today as Community Chest raises funds, public warned against bogus collectors",
+   "zh_hant": "全港賣旗日今早上演 公益金籌款 社署提醒提防假賣旗",
+   "zh_hans": "全港卖旗日今早上演 公益金筹款 社署提醒提防假卖旗"
+  },
+  "summary": {
+   "en": "The Community Chest of Hong Kong is holding its territory-wide flag day today from 7am to 12:30pm, with a public subscription permit issued by the Social Welfare Department. The department said the permit and contact details of the flag-selling organisations are posted on its website, with the latest information also available on the government website. Anyone who suspects bogus flag selling should not donate and should call police immediately; enquiries can be made on the department's hotline 2343 2255 or the 1823 call centre.",
+   "zh_hant": "香港公益金今日上午7時至下午12時30分舉行全港賣旗日，社會福利署已發出公開募捐許可證。社署表示，賣旗日的許可證及賣旗機構聯絡方法已上載社署網站，最新資料亦已上載政府網站供市民參考。市民如懷疑遇上欺詐性賣旗活動，切勿捐款並立即報警；查詢可致電社署熱線2343 2255或1823電話中心。",
+   "zh_hans": "香港公益金今日上午7时至下午12时30分举行全港卖旗日，社会福利署已发出公开募捐许可证。社署表示，卖旗日的许可证及卖旗机构联络方法已上载社署网站，最新资料亦已上载政府网站供市民参考。市民如怀疑遇上欺诈性卖旗活动，切勿捐款并立即报警；查询可致电社署热线2343 2255或1823电话中心。"
+  },
+  "tags": {
+   "en": [
+    "Flag Day",
+    "Community Chest",
+    "Social Welfare Department",
+    "fundraising"
+   ],
+   "zh_hant": [
+    "賣旗日",
+    "公益金",
+    "社會福利署",
+    "籌款"
+   ],
+   "zh_hans": [
+    "卖旗日",
+    "公益金",
+    "社会福利署",
+    "筹款"
+   ]
+  }
+ },
+ {
+  "id": "20261114-europe-stocks-week-gains",
+  "category": "finance",
+  "published_at": "2026-11-14T05:57:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877768-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "European stocks end mixed but gain over 2% for the week as German shares rise 3.6%",
+   "zh_hant": "歐股收市個別發展 全周累升逾2% 德股升3.6%連升三周",
+   "zh_hans": "欧股收市个别发展 全周累升逾2% 德股升3.6%连升三周"
+  },
+  "summary": {
+   "en": "Major European stock markets closed mixed, with Germany's DAX down 21 points, France's CAC up 7 points and Britain's FTSE 100 up 39 points. For the week, German shares gained 3.6% and French shares 2.8%, both rising for a third straight week, while British shares rose 2.1%.",
+   "zh_hant": "歐洲主要股市收市個別發展，德國DAX指數跌21點，法國CAC指數升7點，英國富時100指數升39點。全星期計，德股累升3.6%，法股升2.8%，兩者均連升三個星期；英股升2.1%。",
+   "zh_hans": "欧洲主要股市收市个别发展，德国DAX指数跌21点，法国CAC指数升7点，英国富时100指数升39点。全星期计，德股累升3.6%，法股升2.8%，两者均连升三个星期；英股升2.1%。"
+  },
+  "tags": {
+   "en": [
+    "European stocks",
+    "DAX",
+    "FTSE 100",
+    "stock market"
+   ],
+   "zh_hant": [
+    "歐股",
+    "DAX",
+    "富時100",
+    "股市"
+   ],
+   "zh_hans": [
+    "欧股",
+    "DAX",
+    "富时100",
+    "股市"
+   ]
+  }
+ },
+ {
+  "id": "20261114-trump-xi-putin-shenzhen-trilateral",
+  "category": "world",
+  "published_at": "2026-11-14T05:49:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877772-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Trump to meet Xi and Putin in Shenzhen on Thursday with nuclear arms control expected on trilateral agenda",
+   "zh_hant": "特朗普周四深圳會習近平普京 三方峰會料談核武管控",
+   "zh_hans": "特朗普周四深圳会习近平普京 三方峰会料谈核武管控"
+  },
+  "summary": {
+   "en": "The New York Post reports that US President Donald Trump will hold a trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen on Thursday, on the sidelines of the APEC meeting, with a nuclear arms control agreement expected to top the agenda and issues involving North Korea and Iran possibly also discussed. Trump has said publicly that he plans to meet the Chinese and Russian leaders to discuss denuclearisation and other issues. The White House and the Chinese embassy in Washington have not yet responded, while Chinese foreign ministry spokesperson Mao Ning said yesterday that China remains in communication with the relevant parties and will release further information in due course.",
+   "zh_hant": "美國《紐約郵報》報道，美國總統特朗普將於星期四在深圳出席亞太經合組織會議期間，與中國國家主席習近平及俄羅斯總統普京舉行三方會談，預計重點討論制定核武管控協議，議題亦可能涉及朝鮮及伊朗戰事。特朗普早前已公開表示，計劃與中俄領導人會面，討論無核化等議題。白宮及中國駐華盛頓大使館暫未回應；中國外交部發言人毛寧昨日表示，中方與相關方保持溝通，如有進一步資訊會及時發布。",
+   "zh_hans": "美国《纽约邮报》报道，美国总统特朗普将于星期四在深圳出席亚太经合组织会议期间，与中国国家主席习近平及俄罗斯总统普京举行三方会谈，预计重点讨论制定核武管控协议，议题亦可能涉及朝鲜及伊朗战事。特朗普早前已公开表示，计划与中俄领导人会面，讨论无核化等议题。白宫及中国驻华盛顿大使馆暂未回应；中国外交部发言人毛宁昨日表示，中方与相关方保持沟通，如有进一步资讯会及时发布。"
+  },
+  "tags": {
+   "en": [
+    "Trump",
+    "Xi Jinping",
+    "Putin",
+    "trilateral summit",
+    "APEC",
+    "nuclear arms control"
+   ],
+   "zh_hant": [
+    "特朗普",
+    "習近平",
+    "普京",
+    "三方會談",
+    "APEC",
+    "核武管控"
+   ],
+   "zh_hans": [
+    "特朗普",
+    "习近平",
+    "普京",
+    "三方会谈",
+    "APEC",
+    "核武管控"
+   ]
+  }
+ },
+ {
+  "id": "20261114-new-orleans-cruise-ship-tanker-collision",
+  "category": "world",
+  "published_at": "2026-11-14T05:37:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877770-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Cruise ship carrying over 120 tourists collides with oil tanker in New Orleans, lists and partially sinks with casualties unknown",
+   "zh_hant": "新奧爾良郵輪撞運油輪傾側沉沒 逾120遊客受困 傷亡未明",
+   "zh_hans": "新奥尔良邮轮撞运油轮倾侧沉没 逾120游客受困 伤亡未明"
+  },
+  "summary": {
+   "en": "A cruise ship carrying more than 120 tourists collided with an oil tanker near the Port of New Orleans in Louisiana, leaving the cruise ship listing and partially submerged, with casualties still unknown. The accident happened on Friday afternoon local time, when the tanker struck the cruise ship as it was docking, and large numbers of rescuers rushed to the scene. A city spokesperson said several people had been rescued and the rescue operation was continuing. Louisiana Governor Jeff Landry said he was aware of the incident on the Mississippi River, was in close contact with local officials and law enforcement, and was heading to New Orleans.",
+   "zh_hant": "美國路易斯安那州新奧爾良港附近，一艘載有超過120名遊客的郵輪與一艘運油輪相撞，郵輪傾側並局部沉沒，傷亡情況未明。事發在當地星期五下午，運油輪撞向正在停靠的郵輪，大批救援人員到場，市政府發言人表示多人已被救起，救援行動持續。州長蘭德里表示已獲悉密西西比河上發生的事故，正與當地官員及執法部門密切聯繫，並正前往新奧爾良了解情況。",
+   "zh_hans": "美国路易斯安那州新奥尔良港附近，一艘载有超过120名游客的邮轮与一艘运油轮相撞，邮轮倾侧并局部沉没，伤亡情况未明。事发在当地星期五下午，运油轮撞向正在停靠的邮轮，大批救援人员到场，市政府发言人表示多人已被救起，救援行动持续。州长兰德里表示已获悉密西西比河上发生的事故，正与当地官员及执法部门密切联系，并正前往新奥尔良了解情况。"
+  },
+  "tags": {
+   "en": [
+    "New Orleans",
+    "cruise ship",
+    "collision",
+    "Mississippi River"
+   ],
+   "zh_hant": [
+    "新奧爾良",
+    "郵輪",
+    "撞船",
+    "密西西比河"
+   ],
+   "zh_hans": [
+    "新奥尔良",
+    "邮轮",
+    "撞船",
+    "密西西比河"
+   ]
+  }
+ },
+ {
+  "id": "20261114-faa-nationwide-ground-stop",
+  "category": "world",
+  "published_at": "2026-11-14T05:12:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877767-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "FAA orders nationwide ground stop after air traffic control communications failure, second nationwide stop since 9/11",
+   "zh_hant": "美空管通訊故障 全國停飛令生效 911以來第二次全國停飛",
+   "zh_hans": "美空管通讯故障 全国停飞令生效 911以来第二次全国停飞"
+  },
+  "summary": {
+   "en": "The US Federal Aviation Administration has issued a nationwide ground stop on safety grounds after serious air traffic control communications problems, halting departures at all airports across the country. Transport Secretary Sean Duffy said the communications failure affected all air route traffic control centres, and the FAA had earlier suspended flights in the Chicago area. Reuters reports this is only the second nationwide ground stop since the 9/11 attacks in 2001, after a stop of under two hours in January 2023. Congress approved US$12.5 billion last year to repair the FAA's ageing communications systems, and the FAA and the White House on Friday asked Congress for a further US$30.1 billion to address other problems.",
+   "zh_hant": "美國聯邦航空管理局因空中交通管制通訊出現嚴重問題，出於安全理由發布全國地面停飛令，全美所有機場航班暫停起飛。交通部長達菲表示，通訊問題影響所有航道交通管制中心，管理局早前已暫停芝加哥地區航班運作。路透社報道，今次是自2001年911恐怖襲擊以來，美國第二次實施全國範圍地面停飛令，對上一次在2023年1月，停飛不足兩小時。國會去年已批准125億美元修復管理局老舊通訊系統，管理局與白宮星期五再向國會申請301億美元解決其他問題。",
+   "zh_hans": "美国联邦航空管理局因空中交通管制通讯出现严重问题，出于安全理由发布全国地面停飞令，全美所有机场航班暂停起飞。交通部长达菲表示，通讯问题影响所有航道交通管制中心，管理局早前已暂停芝加哥地区航班运作。路透社报道，今次是自2001年911恐怖袭击以来，美国第二次实施全国范围地面停飞令，对上一次在2023年1月，停飞不足两小时。国会去年已批准125亿美元修复管理局老旧通讯系统，管理局与白宫星期五再向国会申请301亿美元解决其他问题。"
+  },
+  "tags": {
+   "en": [
+    "FAA",
+    "ground stop",
+    "air traffic control",
+    "aviation"
+   ],
+   "zh_hant": [
+    "美國聯邦航空局",
+    "停飛令",
+    "空中交通管制",
+    "航空"
+   ],
+   "zh_hans": [
+    "美国联邦航空局",
+    "停飞令",
+    "空中交通管制",
+    "航空"
+   ]
+  }
+ },
+ {
   "id": "20261114-us-china-trade-council-first-meeting",
   "category": "finance",
   "published_at": "2026-11-14T04:20:00+08:00",
