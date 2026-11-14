@@ -510,6 +510,49 @@
   }
  },
  {
+  "id": "20261113-ce-apg-ceremony-hk-team-41-medals",
+  "category": "hk",
+  "published_at": "2026-11-13T12:09:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877672-20261113.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/13/P2026111300361_photo_1343616.jpg",
+  "title": {
+   "zh_hant": "亞殘運港隊41面獎牌凱旋　李家超嘉許：永不言敗香港精神",
+   "en": "Hong Kong Asian Para Games team returns with 41 medals as Chief Executive John Lee praises their never-give-up spirit",
+   "zh_hans": "亚残运港队41面奖牌凯旋　李家超嘉许：永不言败香港精神"
+  },
+  "summary": {
+   "zh_hant": "第五屆亞洲殘疾人運動會中國香港代表團嘉許禮今日舉行，行政長官李家超頒發嘉許狀。李家超致辭表示，中國香港代表團今屆派出超過150人，包括80名精英運動員出戰多個比賽項目，贏得3金14銀24銅，合共41面獎牌，表現卓越。他表示運動員的奮力拼搏，充分展現香港殘疾運動員的實力和風采，運動員以行動證明，真正的強大在於不斷堅持、敢於突破，展現堅韌不屈、永不言敗的香港精神。李家超又說，特區政府一直支持殘疾人士參與體育活動，2026/27年度政府就培訓殘疾精英運動員向體院提供約7100萬元，預算開支較5年前增加超過五成；自去年4月起，政府將所有精英運動員包括殘疾運動員的直接資助額全面調升8.3%，同時在殘疾運動精英級別中增設成年隊級別，進一步完善培訓階梯。",
+   "en": "The commendation ceremony for Hong Kong, China's delegation to the 5th Asian Para Games was held today, with Chief Executive John Lee presenting commendations. Lee said the delegation sent more than 150 people, including 80 elite athletes, winning 3 gold, 14 silver and 24 bronze medals — 41 in total — in an outstanding performance. He said the athletes' efforts fully demonstrated the strength and spirit of Hong Kong's para athletes, proving through action that true strength lies in perseverance and daring to break through, embodying the never-give-up Hong Kong spirit. Lee added that the government continues to support people with disabilities in sport, providing about HK$71 million to the Hong Kong Sports Institute in 2026/27 for training elite para athletes, up more than 50% from five years ago; since April last year, direct funding for all elite athletes, including para athletes, has been raised by 8.3%, with a new adult squad level added for para sports.",
+   "zh_hans": "第五届亚洲残疾人运动会中国香港代表团嘉许礼今日举行，行政长官李家超颁发嘉许状。李家超致辞表示，中国香港代表团今届派出超过150人，包括80名精英运动员出战多个比赛项目，赢得3金14银24铜，合共41面奖牌，表现卓越。他表示运动员的奋力拼搏，充分展现香港残疾运动员的实力和风采，运动员以行动证明，真正的强大在于不断坚持、敢于突破，展现坚韧不屈、永不言败的香港精神。李家超又说，特区政府一直支持残疾人士参与体育活动，2026/27年度政府就培训残疾精英运动员向体院提供约7100万元，预算开支较5年前增加超过五成；自去年4月起，政府将所有精英运动员包括残疾运动员的直接资助额全面调升8.3%，同时在残疾运动精英级别中增设成年队级别，进一步完善培训阶梯。"
+  },
+  "tags": {
+   "zh_hant": [
+    "亞殘運",
+    "李家超",
+    "香港代表團",
+    "殘疾運動",
+    "體院"
+   ],
+   "en": [
+    "Asian Para Games",
+    "John Lee",
+    "Hong Kong delegation",
+    "para sports",
+    "Sports Institute"
+   ],
+   "zh_hans": [
+    "亚残运",
+    "李家超",
+    "香港代表团",
+    "残疾运动",
+    "体院"
+   ]
+  }
+ },
+ {
   "id": "20261113-missing-girl-ma-on-shan-appeal",
   "category": "hk",
   "published_at": "2026-11-13T11:37:00+08:00",
@@ -2586,49 +2629,6 @@
     "科技股",
     "中芯国际",
     "成交额"
-   ]
-  }
- },
- {
-  "id": "20261113-ce-apg-ceremony-hk-team-41-medals",
-  "category": "hk",
-  "published_at": "2026-11-13T12:09:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877672-20261113.htm"
-  },
-  "image_url": "",
-  "title": {
-   "zh_hant": "亞殘運港隊41面獎牌凱旋　李家超嘉許：永不言敗香港精神",
-   "en": "Hong Kong Asian Para Games team returns with 41 medals as Chief Executive John Lee praises their never-give-up spirit",
-   "zh_hans": "亚残运港队41面奖牌凯旋　李家超嘉许：永不言败香港精神"
-  },
-  "summary": {
-   "zh_hant": "第五屆亞洲殘疾人運動會中國香港代表團嘉許禮今日舉行，行政長官李家超頒發嘉許狀。李家超致辭表示，中國香港代表團今屆派出超過150人，包括80名精英運動員出戰多個比賽項目，贏得3金14銀24銅，合共41面獎牌，表現卓越。他表示運動員的奮力拼搏，充分展現香港殘疾運動員的實力和風采，運動員以行動證明，真正的強大在於不斷堅持、敢於突破，展現堅韌不屈、永不言敗的香港精神。李家超又說，特區政府一直支持殘疾人士參與體育活動，2026/27年度政府就培訓殘疾精英運動員向體院提供約7100萬元，預算開支較5年前增加超過五成；自去年4月起，政府將所有精英運動員包括殘疾運動員的直接資助額全面調升8.3%，同時在殘疾運動精英級別中增設成年隊級別，進一步完善培訓階梯。",
-   "en": "The commendation ceremony for Hong Kong, China's delegation to the 5th Asian Para Games was held today, with Chief Executive John Lee presenting commendations. Lee said the delegation sent more than 150 people, including 80 elite athletes, winning 3 gold, 14 silver and 24 bronze medals — 41 in total — in an outstanding performance. He said the athletes' efforts fully demonstrated the strength and spirit of Hong Kong's para athletes, proving through action that true strength lies in perseverance and daring to break through, embodying the never-give-up Hong Kong spirit. Lee added that the government continues to support people with disabilities in sport, providing about HK$71 million to the Hong Kong Sports Institute in 2026/27 for training elite para athletes, up more than 50% from five years ago; since April last year, direct funding for all elite athletes, including para athletes, has been raised by 8.3%, with a new adult squad level added for para sports.",
-   "zh_hans": "第五届亚洲残疾人运动会中国香港代表团嘉许礼今日举行，行政长官李家超颁发嘉许状。李家超致辞表示，中国香港代表团今届派出超过150人，包括80名精英运动员出战多个比赛项目，赢得3金14银24铜，合共41面奖牌，表现卓越。他表示运动员的奋力拼搏，充分展现香港残疾运动员的实力和风采，运动员以行动证明，真正的强大在于不断坚持、敢于突破，展现坚韧不屈、永不言败的香港精神。李家超又说，特区政府一直支持残疾人士参与体育活动，2026/27年度政府就培训残疾精英运动员向体院提供约7100万元，预算开支较5年前增加超过五成；自去年4月起，政府将所有精英运动员包括残疾运动员的直接资助额全面调升8.3%，同时在残疾运动精英级别中增设成年队级别，进一步完善培训阶梯。"
-  },
-  "tags": {
-   "zh_hant": [
-    "亞殘運",
-    "李家超",
-    "香港代表團",
-    "殘疾運動",
-    "體院"
-   ],
-   "en": [
-    "Asian Para Games",
-    "John Lee",
-    "Hong Kong delegation",
-    "para sports",
-    "Sports Institute"
-   ],
-   "zh_hans": [
-    "亚残运",
-    "李家超",
-    "香港代表团",
-    "残疾运动",
-    "体院"
    ]
   }
  },
