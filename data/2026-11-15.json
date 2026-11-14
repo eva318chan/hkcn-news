@@ -1,5 +1,45 @@
 [
   {
+    "category": "world",
+    "id": "20261115-us-air-traffic-recovery-cause",
+    "image_url": "",
+    "published_at": "2026-11-15T05:19:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877852-20261115.htm"
+    },
+    "summary": {
+      "en": "The head of the US Federal Aviation Administration said air transport across the country is expected to return to normal by Sunday night local time, apologising to the public and saying the worst is over. Transport Secretary Sean Duffy said investigators are examining whether human error caused the communications failure, which happened while an FAA contractor was upgrading lines by replacing copper cables with fibre optics. The FAA issued a nationwide ground stop on Friday after a major communications failure, with airlines cancelling nearly 10,000 flights and more than 7,000 delayed; the stop lasted nearly five hours, the longest nationwide ground stop since the 9/11 attacks in 2001. US media reported Delta, United and American Airlines cancelled about 20 percent of Saturday flights, and JetBlue about 40 percent.",
+      "zh_hans": "美国联邦航空局局长贝德福德表示，全美航空运输预计可于当地星期日晚上恢复正常，又就今次事故向公众致歉，指最坏时间已经过去。美国交通部长达菲表示，正调查今次通讯故障是否由人为操作失误引发，事发时联邦航空局的承办商正为通讯线路升级，将铜缆更换为光纤。联邦航空局上星期五因大规模通讯故障发布全国航班停飞令，航空公司已取消近一万架次航班，另有超过七千架次延误；停飞持续近五小时，是二〇〇一年九一一事件以来全美持续时间最长的一次停飞。据美国传媒报道，达美、联合及美国航空星期六取消约两成航班，捷蓝航空取消约四成。",
+      "zh_hant": "美國聯邦航空局局長貝德福德表示，全美航空運輸預計可於當地星期日晚上恢復正常，又就今次事故向公眾致歉，指最壞時間已經過去。美國交通部長達菲表示，正調查今次通訊故障是否由人為操作失誤引發，事發時聯邦航空局的承辦商正為通訊線路升級，將銅纜更換為光纖。聯邦航空局上星期五因大規模通訊故障發布全國航班停飛令，航空公司已取消近一萬架次航班，另有超過七千架次延誤；停飛持續近五小時，是二〇〇一年九一一事件以來全美持續時間最長的一次停飛。據美國傳媒報道，達美、聯合及美國航空星期六取消約兩成航班，捷藍航空取消約四成。"
+    },
+    "tags": {
+      "en": [
+        "US flights",
+        "air traffic control",
+        "ground stop",
+        "FAA"
+      ],
+      "zh_hans": [
+        "美国航班",
+        "航空管制",
+        "航班停飞",
+        "联邦航空局"
+      ],
+      "zh_hant": [
+        "美國航班",
+        "航空管制",
+        "航班停飛",
+        "聯邦航空局"
+      ]
+    },
+    "title": {
+      "en": "US air traffic fault probe points to cable upgrade work as authorities expect flights back to normal by Sunday night",
+      "zh_hans": "美空管故障调查指向换线工程 当局料周日晚航班复常",
+      "zh_hant": "美空管故障調查指向換線工程 當局料周日晚航班復常"
+    }
+  },
+  {
     "id": "20261115-eu-gaza-aid-unimpeded",
     "category": "world",
     "published_at": "2026-11-15T01:43:00+08:00",

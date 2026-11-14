@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>中港新聞速報</title><link>https://hkcnexpress.com/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Sun, 15 Nov 2026 02:45:10 +0800</lastBuildDate>
+<title>中港新聞速報</title><link>https://hkcnexpress.com/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Sun, 15 Nov 2026 06:44:45 +0800</lastBuildDate>
+<item>
+<title>美空管故障調查指向換線工程 當局料周日晚航班復常</title>
+<link>https://hkcnexpress.com/a/20261115-us-air-traffic-recovery-cause.html</link>
+<guid>https://hkcnexpress.com/a/20261115-us-air-traffic-recovery-cause.html</guid>
+<pubDate>Sun, 15 Nov 2026 05:19:00 +0800</pubDate>
+<description>美國聯邦航空局局長貝德福德表示，全美航空運輸預計可於當地星期日晚上恢復正常，又就今次事故向公眾致歉，指最壞時間已經過去。美國交通部長達菲表示，正調查今次通訊故障是否由人為操作失誤引發，事發時聯邦航空局的承辦商正為通訊線路升級，將銅纜更換為光纖。聯邦航空局上星期五因大規模通訊故障發布全國航班停飛令，航空公司已取消近一萬架次航班，另有超過七千架次延誤；停飛持續近五小時，是二〇〇一年九一一事件以來全美持續時間最長的一次停飛。據美國傳媒報道，達美、聯合及美國航空星期六取消約兩成航班，捷藍航空取消約四成。</description>
+</item>
 <item>
 <title>歐盟促以色列放行加沙援助 洪災寒冬加劇人道危機</title>
 <link>https://hkcnexpress.com/a/20261115-eu-gaza-aid-unimpeded.html</link>
@@ -344,13 +351,6 @@
 <guid>https://hkcnexpress.com/a/20261114-trump-xi-putin-shenzhen-trilateral.html</guid>
 <pubDate>Sat, 14 Nov 2026 05:49:00 +0800</pubDate>
 <description>美國《紐約郵報》報道，美國總統特朗普將於星期四在深圳出席亞太經合組織會議期間，與中國國家主席習近平及俄羅斯總統普京舉行三方會談，預計重點討論制定核武管控協議，議題亦可能涉及朝鮮及伊朗戰事。特朗普早前已公開表示，計劃與中俄領導人會面，討論無核化等議題。白宮及中國駐華盛頓大使館暫未回應；中國外交部發言人毛寧昨日表示，中方與相關方保持溝通，如有進一步資訊會及時發布。</description>
-</item>
-<item>
-<title>新奧爾良郵輪撞運油輪傾側沉沒 逾120遊客受困 傷亡未明</title>
-<link>https://hkcnexpress.com/a/20261114-new-orleans-cruise-ship-tanker-collision.html</link>
-<guid>https://hkcnexpress.com/a/20261114-new-orleans-cruise-ship-tanker-collision.html</guid>
-<pubDate>Sat, 14 Nov 2026 05:37:00 +0800</pubDate>
-<description>美國路易斯安那州新奧爾良港附近，一艘載有超過120名遊客的郵輪與一艘運油輪相撞，郵輪傾側並局部沉沒，傷亡情況未明。事發在當地星期五下午，運油輪撞向正在停靠的郵輪，大批救援人員到場，市政府發言人表示多人已被救起，救援行動持續。州長蘭德里表示已獲悉密西西比河上發生的事故，正與當地官員及執法部門密切聯繫，並正前往新奧爾良了解情況。</description>
 </item>
 </channel>
 </rss>
