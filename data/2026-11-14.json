@@ -1,5 +1,48 @@
 [
  {
+  "id": "20261114-cheuk-hau-yip-police-passing-out",
+  "category": "hk",
+  "published_at": "2026-11-14T10:32:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877787-20261114.htm"
+  },
+  "image_url": "https://gia.info.gov.hk/general/202611/14/P2026111400380_photo_1343638.jpg",
+  "title": {
+   "en": "Over 140 police cadets graduate at passing-out parade; Cheuk Hau-yip urges them to stay loyal to national security and brave in safeguarding homes",
+   "zh_hant": "140警員畢業結業會操 卓孝業勉勵：忠誠護國安 勇毅保家園",
+   "zh_hans": "140警员毕业结业会操 卓孝业勉励：忠诚护国安 勇毅保家园"
+  },
+  "summary": {
+   "en": "Deputy Secretary for Security Cheuk Hau-yip inspected the Police College passing-out parade, where more than 140 cadets graduated. He said this year marks the start of both the national 15th Five-Year Plan and Hong Kong’s first five-year plan, and he believes the Police Force will continue to play a key role in safeguarding Hong Kong. The 2019 unrest highlighted the importance of national security, he said, and while Hong Kong now enjoys peace, the city must remain vigilant in times of stability. He urged the graduates to carry on the Force’s spirit of loyalty, courage and caring for society, and to live up to “loyalty to national security, courage in safeguarding homes”. He also told them to stay mission-driven, hold the line, and always ask themselves whether their words and actions, on or off duty, will strengthen public trust in the police, and to act with team spirit, empathy and communication skills.",
+   "zh_hant": "保安局副局長卓孝業出席警察學院結業會操擔任檢閱官，今屆超過140人畢業。他致辭表示，今年是國家十五五規劃開局之年，亦是香港首個五年規劃開展之年，相信警隊會繼續發揮關鍵作用守護香港；黑暴事件突顯國家安全的重要，目前看來歲月靜好，但仍然要居安思危。他勉勵畢業學員傳承警隊忠誠勇毅、心繫社會的精神，做到「忠誠護國安、勇毅保家園」。卓孝業又勉勵學員以使命為本、堅守底線，不論當值還是休班，都要撫心自問自己的言行會否令市民對警隊更有信任和信心，時刻發揮團隊精神、以人為本，具備同理心和溝通技巧。",
+   "zh_hans": "保安局副局长卓孝业出席警察学院结业会操担任检阅官，今届超过140人毕业。他致辞表示，今年是国家十五五规划开局之年，亦是香港首个五年规划开展之年，相信警队会继续发挥关键作用守护香港；黑暴事件突显国家安全的重要，目前看来岁月静好，但仍然要居安思危。他勉励毕业学员传承警队忠诚勇毅、心系社会的精神，做到“忠诚护国安、勇毅保家园”。卓孝业又勉励学员以使命为本、坚守底线，不论当值还是休班，都要抚心自问自己的言行会否令市民对警队更有信任和信心，时刻发挥团队精神、以人为本，具备同理心和沟通技巧。"
+  },
+  "tags": {
+   "en": [
+    "Police College",
+    "passing-out parade",
+    "Cheuk Hau-yip",
+    "national security",
+    "police"
+   ],
+   "zh_hant": [
+    "警察學院",
+    "結業會操",
+    "卓孝業",
+    "國家安全",
+    "警隊"
+   ],
+   "zh_hans": [
+    "警察学院",
+    "结业会操",
+    "卓孝业",
+    "国家安全",
+    "警队"
+   ]
+  }
+ },
+ {
   "id": "20261114-wang-yi-china-us-party-dialogue",
   "category": "china",
   "published_at": "2026-11-14T03:12:00+08:00",
@@ -36,6 +79,393 @@
     "中美关系",
     "政党对话",
     "习特共识"
+   ]
+  }
+ },
+ {
+  "id": "20261114-digital-policy-office-software-outage",
+  "category": "hk",
+  "published_at": "2026-11-14T14:44:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877811-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Digital Policy Office closely monitoring software outage; no government systems reported affected so far",
+   "zh_hant": "軟件系統故障事件 數字辦高度關注 暫未接獲政府部門系統受影響",
+   "zh_hans": "软件系统故障事件 数字办高度关注 暂未接获政府部门系统受影响"
+  },
+  "summary": {
+   "en": "The Digital Policy Office said in response to enquiries that it is closely monitoring a software system failure, and has so far received no reports of government systems being affected; it will continue to monitor the situation closely and provide support and advice to departments. As to whether Hong Kong’s critical infrastructure has been affected, the Security Bureau said the Government has drawn on the experience of the mainland and other jurisdictions and, in light of local legal requirements, has carefully considered appropriate information disclosure arrangements; for security reasons, the Government will not disclose the list of critical infrastructure operators or related matters.",
+   "zh_hant": "數字政策辦公室回覆查詢時表示，高度關注軟件系統故障事件，暫時未有接獲政府部門系統受影響報告，會繼續密切監察情況，向部門提供支援及意見。至於本港關鍵基礎設施有否受影響，保安局表示，政府參考內地及不同司法管轄區的經驗，並因應本港相關法律規定，審慎考慮適當的資訊披露安排，基於保安考慮，政府不會對外公布關鍵基礎設施營運者的名單或相關事宜。",
+   "zh_hans": "数字政策办公室回复查询时表示，高度关注软件系统故障事件，暂时未有接获政府部门系统受影响报告，会继续密切监察情况，向部门提供支援及意见。至于本港关键基础设施有否受影响，保安局表示，政府参考内地及不同司法管辖区的经验，并因应本港相关法律规定，审慎考虑适当的资讯披露安排，基于保安考虑，政府不会对外公布关键基础设施运营者的名单或相关事宜。"
+  },
+  "tags": {
+   "en": [
+    "Digital Policy Office",
+    "software outage",
+    "government systems",
+    "critical infrastructure",
+    "Security Bureau"
+   ],
+   "zh_hant": [
+    "數字辦",
+    "軟件故障",
+    "政府系統",
+    "關鍵基礎設施",
+    "保安局"
+   ],
+   "zh_hans": [
+    "数字办",
+    "软件故障",
+    "政府系统",
+    "关键基础设施",
+    "保安局"
+   ]
+  }
+ },
+ {
+  "id": "20261114-ireland-explosive-device-leaders-dinner",
+  "category": "world",
+  "published_at": "2026-11-14T14:36:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877808-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Explosive device found near dinner venue for European leaders in Dublin; Irish police investigate after bomb disposal",
+   "zh_hant": "多國領袖晚宴場地附近查獲爆炸裝置 愛爾蘭拆彈調查 馬克龍等多國領袖曾出席",
+   "zh_hans": "多国领袖晚宴场地附近查获爆炸装置 爱尔兰拆弹调查 马克龙等多国领袖曾出席"
+  },
+  "summary": {
+   "en": "The European Political Community leaders’ meeting was held in Dublin, Ireland, on Thursday, with leaders from many countries attending a dinner at the National Gallery of Ireland. Irish police found an improvised explosive device near the dinner venue the next day, and military bomb disposal experts made it safe. Police received a report on Friday local time about a suspicious device in an office building on Merrion Square in central Dublin; reports described the device as crudely made but capable of detonating. An investigation is under way and the authorities have not disclosed when the device was placed. French President Emmanuel Macron, the British prime minister, Canadian Prime Minister Mark Carney and other leaders attended Thursday’s dinner, during which a security cordon was set up around the gallery and nearby roads were closed.",
+   "zh_hant": "歐洲政治共同體領導人會議過去星期四在愛爾蘭首都都柏林舉行，多國領導人在愛爾蘭國家美術館出席晚宴。愛爾蘭警方翌日在晚宴場地附近查獲一枚簡易爆炸裝置，軍方拆彈專家到場安全處置。愛爾蘭警方在當地星期五接報，稱在位於都柏林市中心的梅里恩廣場一棟辦公大樓內發現可疑裝置，報道形容這枚裝置製作粗糙，但具備引爆能力。當局正調查，未有披露爆炸裝置的放置時間等細節。法國總統馬克龍、英國首相、加拿大總理卡尼等多國領導人都有出席星期四這場晚宴，期間美術館周邊設置安全警戒線，附近道路封閉。",
+   "zh_hans": "欧洲政治共同体领导人会议过去星期四在爱尔兰首都都柏林举行，多国领导人在爱尔兰国家美术馆出席晚宴。爱尔兰警方翌日在晚宴场地附近查获一枚简易爆炸装置，军方拆弹专家到场安全处置。爱尔兰警方在当地星期五接报，称在位于都柏林市中心的梅里恩广场一栋办公大楼内发现可疑装置，报道形容这枚装置制作粗糙，但具备引爆能力。当局正调查，未有披露爆炸装置的放置时间等细节。法国总统马克龙、英国首相、加拿大总理卡尼等多国领导人都有出席星期四这场晚宴，期间美术馆周边设置安全警戒线，附近道路封闭。"
+  },
+  "tags": {
+   "en": [
+    "Ireland",
+    "Dublin",
+    "explosive device",
+    "European Political Community",
+    "Macron"
+   ],
+   "zh_hant": [
+    "愛爾蘭",
+    "都柏林",
+    "爆炸裝置",
+    "歐洲政治共同體",
+    "馬克龍"
+   ],
+   "zh_hans": [
+    "爱尔兰",
+    "都柏林",
+    "爆炸装置",
+    "欧洲政治共同体",
+    "马克龙"
+   ]
+  }
+ },
+ {
+  "id": "20261114-mtr-northern-link-8-sites-funding",
+  "category": "hk",
+  "published_at": "2026-11-14T14:15:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877810-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Northern Link to cost HK$86.2 billion, 28% less than budget; eight sites granted to MTR for financing, says CEO, with no rush to sell",
+   "zh_hant": "北環綫造價862億慳28% 當局批8幅地助港鐵融資 楊美珍：無時間壓力推地",
+   "zh_hans": "北环线造价862亿悭28% 当局批8幅地助港铁融资 杨美珍：无时间压力推地"
+  },
+  "summary": {
+   "en": "The Government has signed the full project agreement for the Northern Link with the MTR Corporation, with total construction cost budgeted at HK$86.2 billion, 28 per cent less than the original estimate. MTR chief executive Jodie Yeung said on a television programme that the savings come from building phase one and phase two — the main line and the spur line — at the same time, using prefabricated components, and adopting new railway standards incorporating national standards for greater flexibility. The Government has granted eight sites to the MTR as financial support; Yeung said there is no time pressure to bring them to market, as the project will take a long time from construction to development and timing will depend on market conditions. On whether the sites could be released by 2034, when the line is due to open, she said further study is needed, including on site readiness, but land near Kwu Tung Station, which has better supporting facilities, will be a higher priority. Separately, MTR inspections of the Tung Chung West Station under construction found quality problems with some platform-level pillars; Yeung said she was disappointed with the contractor and the priority now is to make it explain the cause and fix the problem as soon as possible, adding that any investigation updates will be disclosed immediately.",
+   "zh_hant": "政府與港鐵簽訂北環綫全線項目協議，整體建造成本預算862億港元，較原先預算少28%。港鐵行政總裁楊美珍在一個電視節目說，可以減省成本是由於一期及二期、亦即主綫及支綫工程同步進行，其次是使用預製組件，加上採用新的鐵路標準，引入國家標準，可以有更多彈性。當局批出8幅用地予港鐵作為財務資助，楊美珍表示，港鐵沒有時間壓力要將這些用地推出市場，因為整個項目由建造到發展需時很長，同時要視乎市場情況，在較適合的時候才會推出發展。對於北環綫目標在2034年通車，這8幅地有否機會在2034年或更早推出，她表示仍要詳細研究包括土地的成熟程度，但部分土地有較好配套，例如古洞站附近，將有較高的推出優次。另外，港鐵早前巡視興建中的東涌西站，發現月台層部分支柱有施工質量問題，楊美珍表示對承建商的工作感到失望，目前最重要是督責對方解釋原因及盡快想方法做好，她又說如有調查最新進展，一定會第一時間對外交代。",
+   "zh_hans": "政府与港铁签订北环线全线项目协议，整体建造成本预算862亿港元，较原先预算少28%。港铁行政总裁杨美珍在一个电视节目说，可以减省成本是由于一期及二期、亦即主线及支线工程同步进行，其次是使用预制组件，加上采用新的铁路标准，引入国家标准，可以有更多弹性。当局批出8幅用地予港铁作为财务资助，杨美珍表示，港铁没有时间压力要将这些用地推出市场，因为整个项目由建造到发展需时很长，同时要视乎市场情况，在较适合的时候才会推出发展。对于北环线目标在2034年通车，这8幅地有否机会在2034年或更早推出，她表示仍要详细研究包括土地的成熟程度，但部分土地有较好配套，例如古洞站附近，将有较高的推出优次。另外，港铁早前巡视兴建中的东涌西站，发现月台层部分支柱有施工质量问题，杨美珍表示对承建商的工作感到失望，目前最重要是督责对方解释原因及尽快想方法做好，她又说如有调查最新进展，一定会第一时间对外交代。"
+  },
+  "tags": {
+   "en": [
+    "Northern Link",
+    "MTR",
+    "Jodie Yeung",
+    "Kwu Tung",
+    "Tung Chung West"
+   ],
+   "zh_hant": [
+    "北環綫",
+    "港鐵",
+    "楊美珍",
+    "古洞",
+    "東涌西站"
+   ],
+   "zh_hans": [
+    "北环线",
+    "港铁",
+    "杨美珍",
+    "古洞",
+    "东涌西站"
+   ]
+  }
+ },
+ {
+  "id": "20261114-fu-cong-shipping-lanes-dialogue",
+  "category": "china",
+  "published_at": "2026-11-14T14:14:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877805-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "China backs dialogue to resolve shipping-lane disputes and opposes politicising key waterways, envoy tells UN Security Council",
+   "zh_hant": "中方：支持對話協商解決航道爭端 反對將關鍵航道政治化軍事化",
+   "zh_hans": "中方：支持对话协商解决航道争端 反对将关键航道政治化军事化"
+  },
+  "summary": {
+   "en": "China’s Permanent Representative to the United Nations, Fu Cong, told an open Security Council meeting on the situation in the Middle East and the Gulf that the international community should hold firm to peace, strengthen unity and work together for a comprehensive and effective solution. Fu said the precondition for resolving regional problems is an immediate ceasefire and an end to the unlawful use of force and unilateral military action. The smooth flow of key international shipping lanes is closely tied to the peace of surrounding regions, especially coastal states; China advocates exercising navigation rights granted by international law in good faith, supports resolving shipping-lane disputes through dialogue on an equal footing, and opposes politicising, militarising or instrumentalising key waterways. Fu added that the Middle East and the Gulf should not become an arena for great-power rivalry, and China remains committed to stopping war and promoting peace through political and diplomatic means.",
+   "zh_hant": "中國常駐聯合國代表傅聰在安理會中東海灣局勢公開會表示，國際社會應堅定和平信念，加強團結協作，共同尋求綜合、全面、有效的解決之道。傅聰發言時說，解決地區問題的前提是立即停火止戰，制止非法使用武力和單邊軍事行動。國際關鍵航道暢通，與周邊地區、特別是沿岸國的和平安寧密切相關，中方主張善意行使國際法賦予的航行權利，支持各國通過平等對話協商解決航道爭端，反對將關鍵航道政治化、軍事化、工具化。傅聰又說，中東海灣不應成為大國博弈和地緣衝突的角力場，地區的和平穩定需要各方共同營造呵護，中方始終致力於止戰促和，倡導通過政治外交途徑化解爭端，願意同地區各方溝通協調，為早日走出戰爭陰霾、實現長治久安發揮建設性作用。",
+   "zh_hans": "中国常驻联合国代表傅聪在安理会中东海湾局势公开会表示，国际社会应坚定和平信念，加强团结协作，共同寻求综合、全面、有效的解决之道。傅聪发言时说，解决地区问题的前提是立即停火止战，制止非法使用武力和单边军事行动。国际关键航道畅通，与周边地区、特别是沿岸国的和平安宁密切相关，中方主张善意行使国际法赋予的航行权利，支持各国通过平等对话协商解决航道争端，反对将关键航道政治化、军事化、工具化。傅聪又说，中东海湾不应成为大国博弈和地缘冲突的角力场，地区的和平稳定需要各方共同营造呵护，中方始终致力于止战促和，倡导通过政治外交途径化解争端，愿意同地区各方沟通协调，为早日走出战争阴霾、实现长治久安发挥建设性作用。"
+  },
+  "tags": {
+   "en": [
+    "Fu Cong",
+    "United Nations",
+    "shipping lanes",
+    "Middle East",
+    "Gulf"
+   ],
+   "zh_hant": [
+    "傅聰",
+    "聯合國",
+    "航道",
+    "中東",
+    "海灣"
+   ],
+   "zh_hans": [
+    "傅聪",
+    "联合国",
+    "航道",
+    "中东",
+    "海湾"
+   ]
+  }
+ },
+ {
+  "id": "20261114-airport-authority-us-flights-cancelled-delayed",
+  "category": "hk",
+  "published_at": "2026-11-14T14:01:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877809-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "US ground stop fallout continues as four Hong Kong-US flights cancelled and 13 delayed; Airport Authority expects disruption today and tomorrow",
+   "zh_hant": "美停飛令餘波未了 港美航班4班取消13班延誤 機管局料今明兩日續受影響",
+   "zh_hans": "美停飞令余波未了 港美航班4班取消13班延误 机管局料今明两日续受影响"
+  },
+  "summary": {
+   "en": "The US Federal Aviation Administration ordered all flights nationwide grounded, lifting the order after about four hours. Hong Kong’s Airport Authority said 16 flights from the United States were scheduled to arrive today and 17 were scheduled to depart Hong Kong for the United States; as of noon, two arriving flights had been cancelled and seven delayed, while two departing flights had been cancelled and six delayed. The Authority said the Civil Aviation Department had confirmed the US air traffic restrictions had been lifted, but it expects flights between the US and Hong Kong to be affected to some extent today and tomorrow, and urged passengers to check airlines’ latest announcements.",
+   "zh_hant": "美國聯邦航空管理局一度下令全美所有航班停飛，停飛令維持約4小時後解除。本港機管局表示，今日原定有16班航班由美國抵港，以及17班航班由香港出發前往美國，截至中午12時，有2班由美國抵港的航班取消、7班延誤；離港前往美國有2班航班取消、6班延誤。機管局表示，獲民航處最新通知，美國相關航空交通限制已經解除，但預計今明兩日來往美國及香港的航班將受到一定程度影響，呼籲旅客留意航空公司的最新公布。",
+   "zh_hans": "美国联邦航空管理局一度下令全美所有航班停飞，停飞令维持约4小时后解除。本港机管局表示，今日原定有16班航班由美国抵港，以及17班航班由香港出发前往美国，截至中午12时，有2班由美国抵港的航班取消、7班延误；离港前往美国有2班航班取消、6班延误。机管局表示，获民航处最新通知，美国相关航空交通限制已经解除，但预计今明两日来往美国及香港的航班将受到一定程度影响，呼吁旅客留意航空公司的最新公布。"
+  },
+  "tags": {
+   "en": [
+    "Airport Authority",
+    "US flights",
+    "cancellations",
+    "delays",
+    "ground stop"
+   ],
+   "zh_hant": [
+    "機管局",
+    "美國航班",
+    "取消",
+    "延誤",
+    "停飛令"
+   ],
+   "zh_hans": [
+    "机管局",
+    "美国航班",
+    "取消",
+    "延误",
+    "停飞令"
+   ]
+  }
+ },
+ {
+  "id": "20261114-shenzhen-apec-wang-xi-preparations",
+  "category": "china",
+  "published_at": "2026-11-14T13:54:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877807-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Shenzhen APEC summit opens next Wednesday; Wang Xi says preparations are ready and he is confident of a high-level event",
+   "zh_hant": "深圳APEC下周三開鑼 王曦：籌備就緒有信心呈現高水平盛會",
+   "zh_hans": "深圳APEC下周三开锣 王曦：筹备就绪有信心呈现高水平盛会"
+  },
+  "summary": {
+   "en": "The 33rd APEC Economic Leaders’ Meeting will be held in Shenzhen next Wednesday and Thursday. Wang Xi, a member of the Standing Committee of the CPC Guangdong Provincial Committee and deputy head and office director of the Guangdong preparatory leadership group for the APEC meeting, said all preparations are ready and he is confident of presenting a high-level event to the world. Speaking at a media briefing, Wang said this is the third time China has hosted APEC and the first in 12 years, and Guangdong and Shenzhen have pursued the highest standards in preparations and services. The work emphasises green empowerment, making full use of existing resources to upgrade venues and promoting green travel, as well as technology empowerment, applying artificial intelligence and other digital technologies to reception services and city visits, including smart navigation, smart translation, digital customs clearance and smart dispatch. Core venues include the Shenzhen International Exchange Centre, the Shenzhen Bay Cultural Plaza, the Qianhai International Conference Centre and bilateral meeting venues, whose layouts have been upgraded with comprehensive drills across all scenarios.",
+   "zh_hant": "亞太經合組織第三十三次領導人非正式會議將於下星期三至四在深圳舉行。廣東省委常委、APEC會議廣東省籌備工作領導小組副組長兼辦公室主任王曦表示，目前各項籌備工作已經就緒，有信心向世界呈現一屆高水平的盛會。王曦在中外媒體吹風會表示，這是中國第三次、也是時隔12年再次擔任APEC東道主，廣東、深圳堅持最高標準、最嚴要求，全力推進會議籌備和服務保障工作。籌備工作突出綠色賦能，充分利用現有資源做好場館改造提升，積極倡導綠色出行；亦突出科技賦能，將人工智能等數字技術融入接待服務、城市參訪等環節，廣泛運用智能導航、智能翻譯、數字通關、智慧調度等技術。核心場館包括深圳國際交流中心、深圳灣文化廣場、前海國際會議中心及雙邊會見場地，功能佈局已優化提升，並加強各場景綜合演練。",
+   "zh_hans": "亚太经合组织第三十三次领导人非正式会议将于下星期三至四在深圳举行。广东省委常委、APEC会议广东省筹备工作领导小组副组长兼办公室主任王曦表示，目前各项筹备工作已经就绪，有信心向世界呈现一届高水平的盛会。王曦在中外媒体吹风会表示，这是中国第三次、也是时隔12年再次担任APEC东道主，广东、深圳坚持最高标准、最严要求，全力推进会议筹备和服务保障工作。筹备工作突出绿色赋能，充分利用现有资源做好场馆改造提升，积极倡导绿色出行；亦突出科技赋能，将人工智能等数字技术融入接待服务、城市参访等环节，广泛运用智能导航、智能翻译、数字通关、智慧调度等技术。核心场馆包括深圳国际交流中心、深圳湾文化广场、前海国际会议中心及双边会见场地，功能布局已优化提升，并加强各场景综合演练。"
+  },
+  "tags": {
+   "en": [
+    "APEC",
+    "Shenzhen",
+    "Wang Xi",
+    "summit",
+    "China"
+   ],
+   "zh_hant": [
+    "APEC",
+    "深圳",
+    "王曦",
+    "領導人會議",
+    "中國"
+   ],
+   "zh_hans": [
+    "APEC",
+    "深圳",
+    "王曦",
+    "领导人会议",
+    "中国"
+   ]
+  }
+ },
+ {
+  "id": "20261114-raf-lakenheath-drone-activity",
+  "category": "world",
+  "published_at": "2026-11-14T13:44:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877804-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Suspected unauthorised drone activity at RAF Lakenheath prompts US response and shelter-in-place order; MoD investigating",
+   "zh_hant": "英空軍基地現疑似無人機活動 美軍應對一度下令就地避險 國防部正調查",
+   "zh_hans": "英空军基地现疑似无人机活动 美军应对一度下令就地避险 国防部正调查"
+  },
+  "summary": {
+   "en": "Unauthorised drone activity was suspected at RAF Lakenheath in Suffolk, eastern England, on Friday evening, prompting a response from US security personnel stationed at the base. Sky News reported that personnel were briefly told to shelter in place. The UK Ministry of Defence said the situation had been resolved and it is investigating with the US military. A US Air Force spokesperson said no personnel, aircraft or infrastructure were affected. The Wall Street Journal reported earlier, citing sources, that the US Congress had received a briefing on an Iranian threat and that the US military had withdrawn tanker aircraft from RAF Mildenhall in Britain.",
+   "zh_hant": "位於英國東部薩福克郡的皇家空軍萊肯希思基地，當地星期五晚疑似出現未經授權的無人機活動，駐紮基地的美軍安全人員隨即應對。天空新聞台報道，基地人員一度收到就地避險指令。英國國防部隨後表示，相關情況已得到解決，正與美軍合作調查。美國空軍發言人表示，沒有人員、飛機或基礎設施在事件中受到影響。美國《華爾街日報》日前引述消息報道，美國國會早前收到有關伊朗威脅的簡報，美軍從位於英國的米爾登霍爾空軍基地撤走加油機。",
+   "zh_hans": "位于英国东部萨福克郡的皇家空军莱肯希思基地，当地星期五晚疑似出现未经授权的无人机活动，驻扎基地的美军安全人员随即应对。天空新闻台报道，基地人员一度收到就地避险指令。英国国防部随后表示，相关情况已得到解决，正与美军合作调查。美国空军发言人表示，没有人员、飞机或基础设施在事件中受到影响。美国《华尔街日报》日前引述消息报道，美国国会早前收到有关伊朗威胁的简报，美军从位于英国的米尔登霍尔空军基地撤走加油机。"
+  },
+  "tags": {
+   "en": [
+    "RAF Lakenheath",
+    "drone",
+    "US Air Force",
+    "UK",
+    "Iran"
+   ],
+   "zh_hant": [
+    "萊肯希思空軍基地",
+    "無人機",
+    "美國空軍",
+    "英國",
+    "伊朗"
+   ],
+   "zh_hans": [
+    "莱肯希思空军基地",
+    "无人机",
+    "美国空军",
+    "英国",
+    "伊朗"
+   ]
+  }
+ },
+ {
+  "id": "20261114-cathay-us-flights-delayed",
+  "category": "hk",
+  "published_at": "2026-11-14T12:57:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877803-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "US ground stop hits Cathay Pacific as two US-Hong Kong flights delayed; Delta Los Angeles flight cancelled",
+   "zh_hant": "美停飛令拖累國泰 兩班由美返港航班延誤 達美赴洛杉磯航班取消",
+   "zh_hans": "美停飞令拖累国泰 两班由美返港航班延误 达美赴洛杉矶航班取消"
+  },
+  "summary": {
+   "en": "The US Federal Aviation Administration ordered all flights nationwide grounded, lifting the order after about four hours; nearly 15,000 flights were delayed or cancelled and tens of thousands of passengers were stranded. Cathay Pacific said two flights from the United States to Hong Kong, CX807 and CX879, were delayed, while all its remaining US flights today are operating on schedule. Cathay said it is working with air traffic control and airport authorities to clear the congestion caused by the ground stop, and some flights may still be delayed. Separately, a Delta Air Lines flight scheduled to depart for Los Angeles at 10:45am was cancelled.",
+   "zh_hant": "美國聯邦航空管理局一度下令全美所有航班停飛，停飛令維持約4小時後解除，受影響航班近1萬5千架次，數萬名旅客滯留機場。國泰航空表示，有兩班由美國返港的航班CX807及CX879延誤，今天餘下所有往返美國的國泰航班目前均按原定時間運作。國泰又表示，正與航空交通管制部門及機場管理當局合作，處理早前因停飛令造成的航班擠塞，部分航班因此可能出現延誤。另外，美國達美航空一班原定早上10時45分前往洛杉磯的航班取消。",
+   "zh_hans": "美国联邦航空管理局一度下令全美所有航班停飞，停飞令维持约4小时后解除，受影响航班近1万5千架次，数万名旅客滞留机场。国泰航空表示，有两班由美国返港的航班CX807及CX879延误，今天余下所有往返美国的国泰航班目前均按原定时间运作。国泰又表示，正与航空交通管制部门及机场管理当局合作，处理早前因停飞令造成的航班挤塞，部分航班因此可能出现延误。另外，美国达美航空一班原定早上10时45分前往洛杉矶的航班取消。"
+  },
+  "tags": {
+   "en": [
+    "Cathay Pacific",
+    "US ground stop",
+    "flight delays",
+    "CX807",
+    "Delta Air Lines"
+   ],
+   "zh_hant": [
+    "國泰航空",
+    "美國停飛令",
+    "航班延誤",
+    "CX807",
+    "達美航空"
+   ],
+   "zh_hans": [
+    "国泰航空",
+    "美国停飞令",
+    "航班延误",
+    "CX807",
+    "达美航空"
+   ]
+  }
+ },
+ {
+  "id": "20261114-cuba-diaz-canel-resist-invasion",
+  "category": "world",
+  "published_at": "2026-11-14T12:49:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877798-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Cuban president says Cuba is determined to resist any foreign military aggression as US threats prompt defence preparations",
+   "zh_hant": "古巴總統：決心抵制任何外國軍事侵略 美威脅促使古巴加強國防準備",
+   "zh_hans": "古巴总统：决心抵制任何外国军事侵略 美威胁促使古巴加强国防准备"
+  },
+  "summary": {
+   "en": "Cuban President Miguel Diaz-Canel said repeated US threats of military aggression have prompted Cuba to begin defence preparations to safeguard its all-people’s war defence strategy and strengthen every part of its territorial defence system, stressing that Cuba is determined to resist any foreign attempt at military aggression against it. Speaking at a defence preparation event in Havana province on Friday, Diaz-Canel also said Cuba demands the US government lift its blockade and end its collective punishment of the Cuban people, a position shared by the international community. When the UN General Assembly recently voted on Cuba’s draft resolution against the blockade, Washington pressured some countries to change their votes but failed to shake international support. He reiterated that Cuba threatens and invades no country, and that the fabricated pretexts are aimed at creating public opinion favourable to aggression against Cuba.",
+   "zh_hant": "古巴國家主席迪亞斯卡內爾表示，美國近日一再發出軍事侵略威脅，促使古巴展開國防準備工作，以保障全民戰爭的防禦戰略，加強領土防禦體系各組成部分，強調古巴決心抵制任何外國對古巴發動軍事侵略的企圖。迪亞斯卡內爾當地星期五在哈瓦那省參加國防準備活動時又說，古巴要求美國政府解除對古巴封鎖，停止對古巴人民的集體懲罰，這亦是國際社會的立場。聯合國大會最近就古巴提出的反對封鎖決議草案進行表決時，美國政府施壓試圖促使部分國家改變支持古巴的投票立場，但未能動搖國際社會對古巴的支持。他重申，古巴不威脅及不侵略任何國家，那些被編造出來的藉口，旨在製造有利於對古巴發動侵略的輿論導向，具有誹謗性質。",
+   "zh_hans": "古巴国家主席迪亚斯卡内尔表示，美国近日一再发出军事侵略威胁，促使古巴展开国防准备工作，以保障全民战争的防御战略，加强领土防御体系各组成部分，强调古巴决心抵制任何外国对古巴发动军事侵略的企图。迪亚斯卡内尔当地星期五在哈瓦那省参加国防准备活动时又说，古巴要求美国政府解除对古巴封锁，停止对古巴人民的集体惩罚，这亦是国际社会的立场。联合国大会最近就古巴提出的反对封锁决议草案进行表决时，美国政府施压试图促使部分国家改变支持古巴的投票立场，但未能动摇国际社会对古巴的支持。他重申，古巴不威胁及不侵略任何国家，那些被编造出来的借口，旨在制造有利于对古巴发动侵略的舆论导向，具有诽谤性质。"
+  },
+  "tags": {
+   "en": [
+    "Cuba",
+    "Diaz-Canel",
+    "US",
+    "blockade",
+    "defence"
+   ],
+   "zh_hant": [
+    "古巴",
+    "迪亞斯卡內爾",
+    "美國",
+    "封鎖",
+    "國防"
+   ],
+   "zh_hans": [
+    "古巴",
+    "迪亚斯卡内尔",
+    "美国",
+    "封锁",
+    "国防"
    ]
   }
  },
@@ -208,49 +638,6 @@
     "杏花邨",
     "警方",
     "普通袭击"
-   ]
-  }
- },
- {
-  "id": "20261114-cheuk-hau-yip-police-passing-out",
-  "category": "hk",
-  "published_at": "2026-11-14T10:32:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877787-20261114.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Over 140 police cadets graduate at passing-out parade; Cheuk Hau-yip urges them to stay loyal to national security and brave in safeguarding homes",
-   "zh_hant": "140警員畢業結業會操 卓孝業勉勵：忠誠護國安 勇毅保家園",
-   "zh_hans": "140警员毕业结业会操 卓孝业勉励：忠诚护国安 勇毅保家园"
-  },
-  "summary": {
-   "en": "Deputy Secretary for Security Cheuk Hau-yip inspected the Police College passing-out parade, where more than 140 cadets graduated. He said this year marks the start of both the national 15th Five-Year Plan and Hong Kong’s first five-year plan, and he believes the Police Force will continue to play a key role in safeguarding Hong Kong. The 2019 unrest highlighted the importance of national security, he said, and while Hong Kong now enjoys peace, the city must remain vigilant in times of stability. He urged the graduates to carry on the Force’s spirit of loyalty, courage and caring for society, and to live up to “loyalty to national security, courage in safeguarding homes”. He also told them to stay mission-driven, hold the line, and always ask themselves whether their words and actions, on or off duty, will strengthen public trust in the police, and to act with team spirit, empathy and communication skills.",
-   "zh_hant": "保安局副局長卓孝業出席警察學院結業會操擔任檢閱官，今屆超過140人畢業。他致辭表示，今年是國家十五五規劃開局之年，亦是香港首個五年規劃開展之年，相信警隊會繼續發揮關鍵作用守護香港；黑暴事件突顯國家安全的重要，目前看來歲月靜好，但仍然要居安思危。他勉勵畢業學員傳承警隊忠誠勇毅、心繫社會的精神，做到「忠誠護國安、勇毅保家園」。卓孝業又勉勵學員以使命為本、堅守底線，不論當值還是休班，都要撫心自問自己的言行會否令市民對警隊更有信任和信心，時刻發揮團隊精神、以人為本，具備同理心和溝通技巧。",
-   "zh_hans": "保安局副局长卓孝业出席警察学院结业会操担任检阅官，今届超过140人毕业。他致辞表示，今年是国家十五五规划开局之年，亦是香港首个五年规划开展之年，相信警队会继续发挥关键作用守护香港；黑暴事件突显国家安全的重要，目前看来岁月静好，但仍然要居安思危。他勉励毕业学员传承警队忠诚勇毅、心系社会的精神，做到“忠诚护国安、勇毅保家园”。卓孝业又勉励学员以使命为本、坚守底线，不论当值还是休班，都要抚心自问自己的言行会否令市民对警队更有信任和信心，时刻发挥团队精神、以人为本，具备同理心和沟通技巧。"
-  },
-  "tags": {
-   "en": [
-    "Police College",
-    "passing-out parade",
-    "Cheuk Hau-yip",
-    "national security",
-    "police"
-   ],
-   "zh_hant": [
-    "警察學院",
-    "結業會操",
-    "卓孝業",
-    "國家安全",
-    "警隊"
-   ],
-   "zh_hans": [
-    "警察学院",
-    "结业会操",
-    "卓孝业",
-    "国家安全",
-    "警队"
    ]
   }
  },
