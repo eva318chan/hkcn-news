@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>中港新聞速報</title><link>https://hkcnexpress.com/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Sat, 14 Nov 2026 22:54:25 +0800</lastBuildDate>
+<title>中港新聞速報</title><link>https://hkcnexpress.com/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Sun, 15 Nov 2026 00:47:38 +0800</lastBuildDate>
+<item>
+<title>美國空管故障餘波 周六逾3300班機取消 達美削近兩成</title>
+<link>https://hkcnexpress.com/a/20261114-us-flights-saturday-3300-cancelled.html</link>
+<guid>https://hkcnexpress.com/a/20261114-us-flights-saturday-3300-cancelled.html</guid>
+<pubDate>Sat, 14 Nov 2026 22:46:00 +0800</pubDate>
+<description>美國航空通訊系統故障，導致全美航班上周五一度停飛約4小時，影響延續至周六。航班追蹤網站數據顯示，周六美國境內及往返美國的航班已有逾3300班次取消；截至美東時間周六早上6時，達美航空已取消當日近兩成計劃航班，聯合航空及美國航空亦各取消約一成多。交通部長達菲表示，故障源於舊有網絡系統問題，呼籲公眾毋須恐慌；國土安全部長馬林強調，事件與微軟早前服務故障無關，亦無證據顯示涉及網絡攻擊或人工智能干預，系統老化及數據超載才是真正的國家安全隱患。</description>
+</item>
 <item>
 <title>迪士尼票務系統疑存漏洞 專家：黑客大量擷取第三方平台有效憑證</title>
 <link>https://hkcnexpress.com/a/20261114-disney-ticket-vulnerability-fong-po-kiu.html</link>
@@ -344,13 +351,6 @@
 <guid>https://hkcnexpress.com/a/20261114-microsoft-365-outage-apology-cause.html</guid>
 <pubDate>Sat, 14 Nov 2026 02:33:00 +0800</pubDate>
 <description>微軟旗下微軟365多項服務大範圍故障大約一日，至今仍未完全恢復正常。微軟向受影響用戶致歉，指故障屬於技術問題，與網絡攻擊或人工智能無關。發言人表示，今次事件是由於早前網絡容量升級過程中出現的問題導致，由於需求規模較大，公司採取逐步恢復服務的方式，雖然耗時較長，但有助確保系統穩定恢復，會在完成評估後提供完整報告。故障由本港時間星期五凌晨開始出現，導致辦公通訊應用Teams、電郵服務Outlook及人工智能軟件Copilot等，在全球至少70個國家或地區無法使用，影響多國政府機構、企業和個人用戶。</description>
-</item>
-<item>
-<title>土耳其卡塔爾簽共同防禦協議 埃爾多安：防海灣再爆戰爭</title>
-<link>https://hkcnexpress.com/a/20261114-turkey-qatar-defence-pact.html</link>
-<guid>https://hkcnexpress.com/a/20261114-turkey-qatar-defence-pact.html</guid>
-<pubDate>Sat, 14 Nov 2026 02:12:00 +0800</pubDate>
-<description>土耳其與卡塔爾簽署共同防禦協議。土耳其總統府發表聲明，指總統埃爾多安星期五在伊斯坦布爾，與到訪的卡塔爾埃米爾塔米姆簽署共同防禦協議，但未有披露協議具體內容。埃爾多安表示，雙方將會繼續努力，防止海灣地區再次爆發戰爭。塔米姆此行是參加土耳其－卡塔爾高級戰略委員會會議，雙方亦簽署貿易、教育、消費者保護和外交合作等領域的四項協議。</description>
 </item>
 </channel>
 </rss>

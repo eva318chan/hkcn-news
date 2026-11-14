@@ -458,6 +458,46 @@
   }
  },
  {
+  "id": "20261114-us-flights-saturday-3300-cancelled",
+  "category": "world",
+  "published_at": "2026-11-14T22:46:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1877844-20261114.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "US air traffic fault fallout continues with over 3,300 Saturday cancellations; Delta cuts nearly 20% of flights",
+   "zh_hant": "美國空管故障餘波 周六逾3300班機取消 達美削近兩成",
+   "zh_hans": "美国空管故障余波 周六逾3300班机取消 达美削近两成"
+  },
+  "summary": {
+   "en": "A fault in the US aviation communications system forced a nationwide ground stop of about four hours on Friday, and the disruption carried into Saturday. Flight-tracking data shows more than 3,300 flights within and to and from the United States had already been cancelled on Saturday. As of 6am Eastern Time on Saturday, Delta Air Lines had cancelled nearly 20% of its scheduled flights, while United Airlines and American Airlines had each cancelled more than 10%. Transport Secretary Duffy said the fault stemmed from problems with the legacy network system and urged the public not to panic. Homeland Security Secretary Marlin said the incident was unrelated to Microsoft’s earlier service outage, with no evidence of a cyberattack or AI interference, and stressed that ageing systems and data overload were the real national security risk.",
+   "zh_hant": "美國航空通訊系統故障，導致全美航班上周五一度停飛約4小時，影響延續至周六。航班追蹤網站數據顯示，周六美國境內及往返美國的航班已有逾3300班次取消；截至美東時間周六早上6時，達美航空已取消當日近兩成計劃航班，聯合航空及美國航空亦各取消約一成多。交通部長達菲表示，故障源於舊有網絡系統問題，呼籲公眾毋須恐慌；國土安全部長馬林強調，事件與微軟早前服務故障無關，亦無證據顯示涉及網絡攻擊或人工智能干預，系統老化及數據超載才是真正的國家安全隱患。",
+   "zh_hans": "美国航空通讯系统故障，导致全美航班上周五一度停飞约4小时，影响延续至周六。航班追踪网站数据显示，周六美国境内及往返美国的航班已有逾3300班次取消；截至美东时间周六早上6时，达美航空已取消当日近两成计划航班，联合航空及美国航空亦各取消约一成多。交通部长达菲表示，故障源于旧有网络系统问题，呼吁公众毋须恐慌；国土安全部长马林强调，事件与微软早前服务故障无关，亦无证据显示涉及网络攻击或人工智能干预，系统老化及数据超载才是真正的国家安全隐患。"
+  },
+  "tags": {
+   "en": [
+    "US flight cancellations",
+    "air traffic system fault",
+    "Delta Air Lines",
+    "Sean Duffy"
+   ],
+   "zh_hant": [
+    "美國航班取消",
+    "空管系統故障",
+    "達美航空",
+    "達菲"
+   ],
+   "zh_hans": [
+    "美国航班取消",
+    "空管系统故障",
+    "达美航空",
+    "达菲"
+   ]
+  }
+ },
+ {
   "id": "20261114-disney-ticket-vulnerability-fong-po-kiu",
   "category": "tech",
   "published_at": "2026-11-14T22:11:00+08:00",
