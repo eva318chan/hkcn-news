@@ -83,6 +83,49 @@
     }
   },
   {
+    "id": "20261115-hzmb-half-marathon-celebrities",
+    "category": "entertainment",
+    "published_at": "2026-11-15T11:00:00+08:00",
+    "source": {
+      "name": "中國香港田徑總會",
+      "url": "https://www.hzmb-halfmarathon.com/"
+    },
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261115-hzmb-celebrities-hero.jpg",
+    "title": {
+      "en": "Sharon Chan Runs the Bridge with Her Son | Nancy Wu Follows Joel Chan in the Dark | Aska Cheung's 'Urgent' Dash to Second Place",
+      "zh_hant": "陳敏之帶囝囝溫馨跑大橋 ｜ 胡定欣成陳山聰「背後女人」摸黑出戰 ｜ 張馳豪「急」贏亞軍",
+      "zh_hans": "陈敏之带囝囝温馨跑大桥 ｜ 胡定欣成陈山聪「背后女人」摸黑出战 ｜ 张驰豪「急」赢亚军"
+    },
+    "summary": {
+      "en": "The Bank of China (Hong Kong) Hong Kong-Zhuhai-Macao Bridge (Hong Kong Section) Half Marathon took place this morning on the Hong Kong Link Road, with Nancy Wu, Joel Chan, Aska Cheung, Wong Ting-fung and Tsang Kam-san taking part in the 2km Honour Cup, while Sharon Chan joined the \"Family MAX Fun Run\" with her young son. Chan said she had wanted to run the 2km herself, but her son's age meant they could only join the family run — and she is already thinking of bringing her husband along next year. Cheung, meanwhile, powered to second place in the 2km Honour Cup, crediting his recent Hyrox training — and one rather \"urgent\" physical reason.",
+      "zh_hant": "中國銀行（香港）港珠澳大橋（香港段）半馬拉松今早喺港珠澳大橋香港連接路舉行，胡定欣、陳山聰、張馳豪、黃庭鋒同曾錦燊齊齊出戰 2 公里榮譽盃；陳敏之就帶埋兒子雷子樂，參加「親子 MAX Fun 一起跑」。陳敏之話原本想跑 2 公里，可惜仔仔年紀太細，只可以參加親子跑，仲話明年想拉埋老公一齊上陣。張馳豪就憑住為 Hyrox 操練返嚟嘅體能，加上一個「生理原因」，勇奪 2 公里榮譽盃亞軍。",
+      "zh_hans": "中国银行（香港）港珠澳大桥（香港段）半程马拉松今早在港珠澳大桥香港连接路举行，胡定欣、陈山聪、张驰豪、黄庭锋和曾锦燊齐齐出战 2 公里荣誉杯；陈敏之则带同儿子雷子乐，参加「亲子 MAX Fun 一起跑」。陈敏之说原本想跑 2 公里，可惜儿子年纪太小，只能参加亲子跑，还说明年想拉上老公一起上阵。张驰豪则凭着为 Hyrox 操练回来的体能，加上一个「生理原因」，勇夺 2 公里荣誉杯亚军。"
+    },
+    "tags": {
+      "en": [
+        "HZMB Half Marathon",
+        "Sharon Chan",
+        "Nancy Wu",
+        "Joel Chan",
+        "Aska Cheung"
+      ],
+      "zh_hant": [
+        "港珠澳大橋半馬",
+        "陳敏之",
+        "胡定欣",
+        "陳山聰",
+        "張馳豪"
+      ],
+      "zh_hans": [
+        "港珠澳大桥半马",
+        "陈敏之",
+        "胡定欣",
+        "陈山聪",
+        "张驰豪"
+      ]
+    }
+  },
+  {
     "id": "20261115-victoria-harbour-swim-injuries-135",
     "category": "hk",
     "published_at": "2026-11-15T15:30:00+08:00",
