@@ -212,6 +212,92 @@
     }
   },
   {
+    "id": "20261115-huanggang-citybus-sign-collision",
+    "category": "hk",
+    "published_at": "2026-11-15T21:37:00+08:00",
+    "source": {
+      "name": "新假期",
+      "url": "https://www.weekendhk.com/%e7%9f%9a%e7%9b%ae%e8%a9%b1%e9%a1%8c/%e6%96%b0%e7%9a%87%e5%b4%97%e5%8f%a3%e5%b2%b8%e5%9f%8e%e5%b7%b4%e6%92%9e%e5%8f%8a%e6%87%b8%e6%8e%9b%e6%8c%87%e7%a4%ba%e7%89%8c-%e5%95%9f%e7%94%a8%e4%b8%80%e5%80%8b%e6%9c%88%e5%85%a7%e5%90%8c%e9%a1%9e-3543432/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Citybus Hits Hanging Sign at New Huanggang Port as Third Such Crash in a Month Raises Safety Questions",
+      "zh_hant": "新皇崗口岸城巴撞指示牌壓車頂 一個月內第三宗同類事故 九巴早前兩度中招",
+      "zh_hans": "新皇岗口岸城巴撞指示牌压车顶 一个月内第三宗同类事故 九巴早前两度中招"
+    },
+    "summary": {
+      "en": "A Citybus hit a hanging sign at the new Huanggang Port bus stop, the third similar incident within a month of the port opening, with no one injured. Police received a report at 6.51pm today that the bus had struck the sign at the port bus stop; footage circulating online shows the sign tilted and resting on the bus roof, with no obvious damage to the bus. Two earlier incidents both involved KMB buses: on October 18, a B10 bus suspected of taking the wrong lane had its upper-deck windscreen smashed by a ceiling sign in the cross-boundary bus waiting area, and on October 31 a B11 bus also suspected of taking the wrong lane hit a suspended sign. The new Huanggang Port officially opened on the morning of October 12.",
+      "zh_hant": "新皇崗口岸一輛城巴撞及懸掛指示牌，指示牌歪斜壓在車頂，警方於今日傍晚6時51分接報，無人受傷。口岸10月12日早上正式啟用至今一個月內，已錄得至少三宗雙層巴士撞及懸掛指示牌事故。此前兩宗同類事故均涉及九巴：10月18日早上11時36分，一輛B10線九巴疑入錯線，在惇裕路聯檢大樓底層跨境巴士候車區被天花指示牌撞破上層擋風玻璃；10月31日，B11線九巴亦疑入錯線撞及懸吊指示牌，無人受傷。網上流傳的現場影像顯示，涉事城巴行駛期間車頂疑觸及天花懸掛的指示牌，巴士本身未見明顯損毀。",
+      "zh_hans": "新皇岗口岸一辆城巴撞及悬挂指示牌，指示牌歪斜压在车顶，警方于今日傍晚6时51分接报，无人受伤。口岸10月12日早上正式启用至今一个月内，已录得至少三宗双层巴士撞及悬挂指示牌事故。此前两宗同类事故均涉及九巴：10月18日早上11时36分，一辆B10线九巴疑入错线，在惇裕路联检大楼底层跨境巴士候车区被天花指示牌撞破上层挡风玻璃；10月31日，B11线九巴亦疑入错线撞及悬吊指示牌，无人受伤。网上流传的现场影像显示，涉事城巴行驶期间车顶疑触及天花悬挂的指示牌，巴士本身未见明显损毁。"
+    },
+    "tags": {
+      "en": [
+        "Huanggang Port",
+        "Citybus",
+        "KMB",
+        "traffic incident",
+        "cross-boundary bus"
+      ],
+      "zh_hant": [
+        "新皇崗口岸",
+        "城巴",
+        "九巴",
+        "交通意外",
+        "跨境巴士"
+      ],
+      "zh_hans": [
+        "新皇岗口岸",
+        "城巴",
+        "九巴",
+        "交通意外",
+        "跨境巴士"
+      ]
+    }
+  },
+  {
+    "id": "20261115-asean-south-china-sea-code-80-pct-agreed",
+    "category": "world",
+    "published_at": "2026-11-15T20:53:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877900-20261115.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "ASEAN Summit Opens in Manila as Philippines Says About 80% of South China Sea Code of Conduct Is Agreed and Singapore Will Carry Talks Forward",
+      "zh_hant": "東盟峰會馬尼拉揭幕 菲外長：南海行為準則已談妥約八成 明年新加坡接手續推",
+      "zh_hans": "东盟峰会马尼拉揭幕 菲外长：南海行为准则已谈妥约八成 明年新加坡接手续推"
+    },
+    "summary": {
+      "en": "The ASEAN Summit and related meetings are being held over three days in the Philippine capital Manila, with discussions expected to focus on the South China Sea dispute, the Myanmar situation, the Korean Peninsula, the Middle East and Ukraine. Philippine Foreign Secretary Lazaro said the parties have reached consensus on about 80% of the Code of Conduct in the South China Sea, and Singapore, which takes over as ASEAN chair next year, will continue to advance the negotiations. Lazaro did not disclose the specific disputes that remain unresolved this year, but stressed leaders remain committed to peace, security and stability in the South China Sea. The Associated Press, citing a draft summit statement, reported leaders are expected to call again for restraint and peaceful settlement of disputes, while no breakthrough is expected.",
+      "zh_hant": "東盟峰會及系列會議一連三日在菲律賓首都馬尼拉舉行，會議預料聚焦南海爭議、緬甸局勢、朝鮮半島、中東及烏克蘭局勢等議題。菲律賓外長拉札羅表示，各方已就《南海行為準則》約八成內容達成共識，明年接任東盟主席國的新加坡，將會繼續推進談判。拉札羅未有具體透露今年未能最終敲定的具體爭議及障礙，但強調各國領導人依然致力於維護南中國海的和平、安全與穩定。美聯社引述峰會聲明草稿報道，領導人預計將再次呼籲各方保持克制，和平解決南海爭端、緬甸衝突，以及中東和烏克蘭的戰事，但預計不會取得突破性進展。",
+      "zh_hans": "东盟峰会及系列会议一连三日在菲律宾首都马尼拉举行，会议预料聚焦南海争议、缅甸局势、朝鲜半岛、中东及乌克兰局势等议题。菲律宾外长拉札罗表示，各方已就《南海行为准则》约八成内容达成共识，明年接任东盟主席国的新加坡，将会继续推进谈判。拉札罗未有具体透露今年未能最终敲定的具体争议及障碍，但强调各国领导人依然致力于维护南中国海的和平、安全与稳定。美联社引述峰会声明草稿报道，领导人预计将再次呼吁各方保持克制，和平解决南海争端、缅甸冲突，以及中东和乌克兰的战事，但预计不会取得突破性进展。"
+    },
+    "tags": {
+      "en": [
+        "ASEAN Summit",
+        "South China Sea",
+        "Code of Conduct",
+        "Manila",
+        "Singapore"
+      ],
+      "zh_hant": [
+        "東盟峰會",
+        "南海",
+        "行為準則",
+        "馬尼拉",
+        "新加坡"
+      ],
+      "zh_hans": [
+        "东盟峰会",
+        "南海",
+        "行为准则",
+        "马尼拉",
+        "新加坡"
+      ]
+    }
+  },
+  {
     "id": "20261115-jordan-church-attack-death-sentences",
     "category": "world",
     "published_at": "2026-11-15T19:57:00+08:00",
@@ -298,6 +384,49 @@
     }
   },
   {
+    "id": "20261115-new-world-rights-issue-1-for-11-249b",
+    "category": "finance",
+    "published_at": "2026-11-15T19:20:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877895-20261115.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "New World Proposes 1-for-11 Rights Issue to Raise HK$24.9 Billion at HK$0.90 a Share and Targets Cutting Debt by Up to HK$50 Billion by 2031",
+      "zh_hant": "新世界「1供11」大折讓供股集資249億 供股價0.9元較停牌前低八成 目標2031年前減債400億",
+      "zh_hans": "新世界「1供11」大折让供股集资249亿 供股价0.9元较停牌前低八成 目标2031年前减债400亿"
+    },
+    "summary": {
+      "en": "New World Development has proposed a fully underwritten 1-for-11 rights issue to raise about HK$24.9 billion, with the net proceeds to be used for bank loan refinancing, debt repayment and funding projects under development. The rights price of HK$0.90 represents a discount of about 81.5% to the pre-suspension closing price of HK$4.87, and about 26.9% to the theoretical ex-rights price of HK$1.23. Underwriters are controlling shareholder Chow Tai Fook Enterprises, HSBC and DBS. The group also proposes to immediately repay 10% of the outstanding principal of its HK$82 billion targeted offshore bank loans and extend the maturity of the remaining roughly HK$73.8 billion by two years, targeting HK$150-200 billion in contracted sales and asset disposal income and a HK$40-50 billion debt reduction by the end of 2031.",
+      "zh_hant": "新世界發展公布，建議以「1供11」方式進行全額包銷供股，集資約249億元，所得款項淨額將用於銀行貸款再融資、償付債務及為待發展項目提供資金。每股供股價0.9元，較停牌前收市價4.87元折讓約81.5%，並較每股1.23元的理論除權價折讓約26.9%。供股由控股股東周大福企業、滙豐及星展擔任包銷商。新世界又建議，即時提前償還820億元目標境外銀行貸款未償還本金的10%，並將餘下約738億元未償還本金的現有最終到期日延長兩年，以優化債務到期分佈。集團目標於2031年底前，實現合共1,500至2,000億元的合約銷售及資產處置收入，並將總債務削減400至500億元。",
+      "zh_hans": "新世界发展公布，建议以「1供11」方式进行全额包销供股，集资约249亿元，所得款项净额将用于银行贷款再融资、偿付债务及为待发展项目提供资金。每股供股价0.9元，较停牌前收市价4.87元折让约81.5%，并较每股1.23元的理论除权价折让约26.9%。供股由控股股东周大福企业、汇丰及星展担任包销商。新世界又建议，即时提前偿还820亿元目标境外银行贷款未偿还本金的10%，并将余下约738亿元未偿还本金的现有最终到期日延长两年，以优化债务到期分布。集团目标于2031年底前，实现合共1,500至2,000亿元的合约销售及资产处置收入，并将总债务削减400至500亿元。"
+    },
+    "tags": {
+      "en": [
+        "New World Development",
+        "rights issue",
+        "Chow Tai Fook",
+        "debt reduction",
+        "Hong Kong property"
+      ],
+      "zh_hant": [
+        "新世界發展",
+        "供股",
+        "周大福企業",
+        "減債",
+        "香港地產"
+      ],
+      "zh_hans": [
+        "新世界发展",
+        "供股",
+        "周大福企业",
+        "减债",
+        "香港地产"
+      ]
+    }
+  },
+  {
     "id": "20261115-megaspeed-huang-le-resigned",
     "category": "finance",
     "published_at": "2026-11-15T19:11:00+08:00",
@@ -337,6 +466,49 @@
         "辉达",
         "芯片出口管制",
         "黄仁勋"
+      ]
+    }
+  },
+  {
+    "id": "20261115-jinan-supercomputing-centre-nvidia-chips",
+    "category": "tech",
+    "published_at": "2026-11-15T18:43:00+08:00",
+    "source": {
+      "name": "工商時報",
+      "url": "https://www.ctee.com.tw/news/20261115700597-430801"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Sanctioned Jinan Supercomputing Centre Bought Nvidia AI Chips as Procurement Notice Lists RTX 5090 and DGX Spark",
+      "zh_hant": "被美列管制名單 濟南超算中心仍購得輝達AI晶片 採購公告現RTX 5090 版本未明惹關注",
+      "zh_hans": "被美列管制名单 济南超算中心仍购得辉达AI芯片 采购公告现RTX 5090 版本未明惹关注"
+    },
+    "summary": {
+      "en": "A US media investigation of Chinese government procurement records found that the National Supercomputing Center in Jinan, which is on the US Entity List, bought Nvidia AI chip products in a procurement deal this year. A procurement result notice published on the Chinese government procurement website in June shows the purchase of Nvidia RTX 5090 graphics cards and a DGX Spark desktop AI computing system for RMB 148,500, bought by Qiyuan Jiasu (Tianjin) Technology. The RTX 5090 is a US-controlled item that cannot be shipped to China without a licence, although Nvidia designed the RTX 5090 D and RTX 5090 Dv2 variants for the Chinese market; the notice only says \"RTX 5090\", so it cannot be confirmed which version was bought. The Jinan centre was placed on the Entity List in April 2021, before the US imposed broad chip restrictions on China in 2022.",
+      "zh_hant": "美媒調查中國政府採購資料發現，被列入實體清單的山東省計算中心（國家超級計算濟南中心），今年一項AI設備採購案的成交公告中，出現被美國列入出口管制實體清單的輝達AI晶片產品。中國政府採購網今年6月發布一項採購結果公告，採購貨品為輝達RTX 5090顯卡及DGX Spark桌面AI計算系統，價格為人民幣14.85萬元，採購者為啟源加速（天津）科技有限公司。RTX 5090顯卡原屬於美國管制商品，未經許可不得輸往中國；輝達為進入中國市場，設計了RTX 5090 D、RTX 5090 Dv2版本銷往中國。濟南中心的採購公告只寫「RTX 5090」，無法確認採購的是原版或銷中版本。濟南中心於2021年4月被列入實體清單，時間早於美國在2022年開始實施的對中晶片廣泛出口限制。",
+      "zh_hans": "美媒调查中国政府采购资料发现，被列入实体清单的山东省计算中心（国家超级计算济南中心），今年一项AI设备采购案的成交公告中，出现被美国列入出口管制实体清单的辉达AI芯片产品。中国政府采购网今年6月发布一项采购结果公告，采购货品为辉达RTX 5090显卡及DGX Spark桌面AI计算系统，价格为人民币14.85万元，采购者为启源加速（天津）科技有限公司。RTX 5090显卡原属于美国管制商品，未经许可不得输往中国；辉达为进入中国市场，设计了RTX 5090 D、RTX 5090 Dv2版本销往中国。济南中心的采购公告只写「RTX 5090」，无法确认采购的是原版或销中版本。济南中心于2021年4月被列入实体清单，时间早于美国在2022年开始实施的对中芯片广泛出口限制。"
+    },
+    "tags": {
+      "en": [
+        "Nvidia",
+        "RTX 5090",
+        "Jinan",
+        "export controls",
+        "Entity List"
+      ],
+      "zh_hant": [
+        "輝達",
+        "RTX 5090",
+        "濟南",
+        "出口管制",
+        "實體清單"
+      ],
+      "zh_hans": [
+        "辉达",
+        "RTX 5090",
+        "济南",
+        "出口管制",
+        "实体清单"
       ]
     }
   },
@@ -417,6 +589,49 @@
         "深圳",
         "地铁",
         "峰会"
+      ]
+    }
+  },
+  {
+    "id": "20261115-nick-cheung-coliseum-show-2027",
+    "category": "entertainment",
+    "published_at": "2026-11-15T17:16:00+08:00",
+    "source": {
+      "name": "新假期",
+      "url": "https://www.weekendhk.com/entertainment/%E5%BC%B5%E5%AE%B6%E8%BC%9D-%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%83-%E5%BC%B5%E5%AE%B6%E8%BC%9D%E5%A4%A7%E5%A8%9B%E6%A8%82%E9%A8%B7-3543399/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Nick Cheung to Make Coliseum Debut Over Lunar New Year 2027 With Three-Night Variety Show Reviving Classic Lines and Songs",
+      "zh_hant": "張家輝2027農曆新年首登紅館連開三場 「多元宇宙」重現化骨龍金句 修哥任嘉賓大改造",
+      "zh_hans": "张家辉2027农历新年首登红馆连开三场 「多元宇宙」重现化骨龙金句 修哥任嘉宾大改造"
+    },
+    "summary": {
+      "en": "Actor Nick Cheung will make his Hong Kong Coliseum debut over the Lunar New Year in 2027, staging three shows of \"The Nick Cheung Big Entertainment Show\". At a press conference in Tsim Sha Tsui yesterday, Cheung unveiled the \"Nick Cheung multiverse\" concept, promising singing, dancing and comedy in one show, with a trailer showing him playing five classic characters including Bone Dragon, Cheap Fai and Fat Chai. Asked whether he would revive the famous line from \"The Tricky Master 1999\", he performed it on the spot and clarified he bears no ill will towards ATV. Fan favourites such as \"Eyes Want to Travel\" and a comic version of \"Give Me a Cup of Forget Love Water\" are expected to feature, and his godfather Woo Fung will appear as a guest in a makeover. His wife Esther Kwan will watch from the audience and will not perform.",
+      "zh_hant": "影帝張家輝宣布將於2027年農曆新年期間，首度強勢登陸紅館，舉行一連三場的《張家輝大娛樂騷》。昨日（14日）家輝現身尖沙咀出席記者會造勢，今次大搞「張家輝多元宇宙」，節目集齊唱歌、跳舞及搞笑於一身，宣傳片中他一人分飾五角，包括「化骨龍」、「賤輝」、「發仔」等經典角色。提到網民最期待的電影金句，家輝即場演繹《賭俠1999》的爆粗台詞，並澄清對亞視無反感。網民敲碗的心水歌單《眼睛想旅行》及搞笑版《忘情水》都有望在台上重現；他又預告邀得契爺胡楓任嘉賓，並會為修哥大改造，不再以傳統財神爺造型示人。太太關詠荷只會做座上客，不會上台。",
+      "zh_hans": "影帝张家辉宣布将于2027年农历新年期间，首度强势登陆红馆，举行一连三场的《张家辉大娱乐骚》。昨日（14日）家辉现身尖沙咀出席记者会造势，今次大搞「张家辉多元宇宙」，节目集齐唱歌、跳舞及搞笑于一身，宣传片中他一人分饰五角，包括「化骨龙」、「贱辉」、「发仔」等经典角色。提到网民最期待的电影金句，家辉即场演绎《赌侠1999》的爆粗台词，并澄清对亚视无反感。网民敲碗的心水歌单《眼睛想旅行》及搞笑版《忘情水》都有望在台上重现；他又预告邀得契爷胡枫任嘉宾，并会为修哥大改造，不再以传统财神爷造型示人。太太关咏荷只会做座上客，不会上台。"
+    },
+    "tags": {
+      "en": [
+        "Nick Cheung",
+        "Hong Kong Coliseum",
+        "concert",
+        "Woo Fung",
+        "Esther Kwan"
+      ],
+      "zh_hant": [
+        "張家輝",
+        "紅館",
+        "演唱會",
+        "胡楓",
+        "關詠荷"
+      ],
+      "zh_hans": [
+        "张家辉",
+        "红馆",
+        "演唱会",
+        "胡枫",
+        "关咏荷"
       ]
     }
   },
@@ -989,6 +1204,49 @@
         "工商领导人峰会",
         "习近平",
         "深圳倡议"
+      ]
+    }
+  },
+  {
+    "id": "20261115-janice-vidal-coliseum-out-of-frame",
+    "category": "entertainment",
+    "published_at": "2026-11-15T11:54:00+08:00",
+    "source": {
+      "name": "明周",
+      "url": "https://www.mpweekly.com/entertainment/article/%e8%a1%9b%e8%98%ad%e7%b4%85%e9%a4%a8%e9%a8%b7%e9%96%8b%e5%9b%9b%e9%9d%a2%e5%8f%b0%e5%8d%8a%e7%a9%ba%e7%8d%bb%e5%94%b1%e5%96%8a%e9%a9%9a%e3%80%80%e9%bb%8e%e6%98%8e%e8%8a%b1%e7%b1%83%e8%a3%9d%e6%bb%bf"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Janice Vidal Returns to the Coliseum After Four Years With Four Sold-Out Shows, a Four-Sided Stage and a Mid-Air Platform",
+      "zh_hant": "衛蘭相隔四年重返紅館連開四場 四面台半空獻唱喊驚 80人和唱加草蜢任嘉賓",
+      "zh_hans": "卫兰相隔四年重返红馆连开四场 四面台半空献唱喊惊 80人和唱加草蜢任嘉宾"
+    },
+    "summary": {
+      "en": "Janice Vidal returned to the Hong Kong Coliseum last night after four years, opening the Hong Kong leg of her \"OUT OF FRAME\" world tour with four sold-out shows. The run marks her 20th anniversary in music and her first Coliseum return since becoming an independent artist. The Hong Kong stage uses a four-sided design, with an aerial moving platform suspended by steel cables lifting her to mid-level height among the audience and rotating 360 degrees, plus an 80-strong choir. She opened in a dark-queen look with \"Break-a-way\", \"My Cookie Can\" and \"One Grid\", followed by karaoke favourites including \"Running Away From Home\" and \"Streetlight Dinner\", a long-distance duet with Feanna Wong, and Grasshopper's Calvin Choy and Remus Choy as guests singing \"Lonely\". Former boss Leon Lai sent a flower basket filled with snacks.",
+      "zh_hant": "衛蘭時隔四年再踏紅館舞台，昨晚（14日）正式揭開《衛蘭 OUT OF FRAME 世界巡迴演唱會》香港站序幕，一連四場演出全場爆滿。這場亦是她出道二十周年紀念巡演，更是轉做獨立音樂人之後，首度重返紅館開騷。香港站舞台全面升級，採用四面台設計，更特別加入高空移動機關——由鋼索吊住的圓形小型平台，讓她升到觀眾席中層高度，360度環迴旋轉移動，近距離接觸各區樂迷，另有80人和唱。演出一開場，衛蘭以暗黑女王造型登場，率先獻唱《Break-a-way》、《My Cookie Can》及《一格格》，其後K歌環節唱出《離家出走》、《街燈晚餐》、《殘酷遊戲》等金曲，並與台下的黃淑蔓隔空合唱；草蜢的蔡一傑及蔡一智擔任嘉賓合唱《Lonely》，前老闆黎明則送上裝滿零食的花籃。",
+      "zh_hans": "卫兰时隔四年再踏红馆舞台，昨晚（14日）正式揭开《卫兰 OUT OF FRAME 世界巡回演唱会》香港站序幕，一连四场演出全场爆满。这场亦是她出道二十周年纪念巡演，更是转做独立音乐人之后，首度重返红馆开骚。香港站舞台全面升级，采用四面台设计，更特别加入高空移动机关——由钢索吊住的圆形小型平台，让她升到观众席中层高度，360度环回旋转移动，近距离接触各区乐迷，另有80人和唱。演出一开场，卫兰以暗黑女王造型登场，率先献唱《Break-a-way》、《My Cookie Can》及《一格格》，其后K歌环节唱出《离家出走》、《街灯晚餐》、《残酷游戏》等金曲，并与台下的黄淑蔓隔空合唱；草蜢的蔡一杰及蔡一智担任嘉宾合唱《Lonely》，前老板黎明则送上装满零食的花篮。"
+    },
+    "tags": {
+      "en": [
+        "Janice Vidal",
+        "Hong Kong Coliseum",
+        "concert",
+        "Grasshopper",
+        "Leon Lai"
+      ],
+      "zh_hant": [
+        "衛蘭",
+        "紅館",
+        "演唱會",
+        "草蜢",
+        "黎明"
+      ],
+      "zh_hans": [
+        "卫兰",
+        "红馆",
+        "演唱会",
+        "草蜢",
+        "黎明"
       ]
     }
   },
