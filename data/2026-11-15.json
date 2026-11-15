@@ -1,5 +1,45 @@
 [
   {
+    "id": "20261115-chan-maritime-trade-summit-speech",
+    "category": "finance",
+    "published_at": "2026-11-15T15:10:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/15/P2026111500404.htm"
+    },
+    "image_url": "https://gia.info.gov.hk/general/202611/15/P2026111500404_photo_1343652.jpg",
+    "title": {
+      "en": "Paul Chan proposes three ways to build shipping resilience as Hong Kong-ASEAN trade tops HK$1.8 trillion in nine months",
+      "zh_hant": "陳茂波海事峰會倡三招穩航運 港與東盟貿易首九月破1.8萬億創新高",
+      "zh_hans": "陈茂波海事峰会倡三招稳航运 港与东盟贸易首九月破1.8万亿创新高"
+    },
+    "summary": {
+      "en": "Financial Secretary Paul Chan told the Hong Kong Global Maritime Trade Summit's closed-door dialogue that trade is becoming more regional, with trade between the Chinese Mainland and ASEAN up 24 per cent to about RMB 7.7 trillion in the first 10 months of the year, while Hong Kong's trade with ASEAN topped HK$1.8 trillion in the first nine months, a record. Chan said the green transition and artificial intelligence are reshaping shipping, noting Hong Kong has bunkered more than 382,000 tonnes of green marine fuel and that close to 10,000 enterprises have joined its Port Community System. He proposed three ways to build resilience together — keeping rules aligned, turning goodwill between ports into partnerships, and investing in people — and said the Hong Kong Maritime and Port Development Board will sign a memorandum with the International Chamber of Shipping Academy to train a multi-skilled maritime workforce.",
+      "zh_hant": "財政司司長陳茂波今日在香港全球海事貿易峰會閉門對話上致辭，指貿易格局正變得更區域化，今年首十個月內地與東盟貿易增長24%至約人民幣7.7萬億元，本港與東盟貿易首九個月亦已超過1.8萬億港元，創歷年新高。陳茂波表示，綠色轉型及人工智能正重塑海運業，本港至今已加注逾38.2萬噸綠色船用燃料，港口社區系統亦已有近萬間企業加入。他提出三項建議，包括保持規則一致、將港口間善意轉化為夥伴合作，以及投資人才；香港海事及港口發展局將與國際航運公會學院簽署備忘錄，培訓多技能海事人才。",
+      "zh_hans": "财政司司长陈茂波今日在香港全球海事贸易峰会闭门对话上致辞，指贸易格局正变得更区域化，今年首十个月内地与东盟贸易增长24%至约人民币7.7万亿元，本港与东盟贸易首九个月亦已超过1.8万亿港元，创历年新高。陈茂波表示，绿色转型及人工智能正重塑海运业，本港至今已加注逾38.2万吨绿色船用燃料，港口社区系统亦已有近万间企业加入。他提出三项建议，包括保持规则一致、将港口间善意转化为伙伴合作，以及投资人才；香港海事及港口发展局将与国际航运公会学院签署备忘录，培训多技能海事人才。"
+    },
+    "tags": {
+      "en": [
+        "Paul Chan",
+        "maritime trade",
+        "shipping",
+        "ASEAN"
+      ],
+      "zh_hant": [
+        "陳茂波",
+        "海事貿易",
+        "航運",
+        "東盟"
+      ],
+      "zh_hans": [
+        "陈茂波",
+        "海事贸易",
+        "航运",
+        "东盟"
+      ]
+    }
+  },
+  {
     "id": "20261115-chan-mo-po-finance-trade-value",
     "category": "finance",
     "published_at": "2026-11-15T11:03:00+08:00",
@@ -39,6 +79,117 @@
         "港交所",
         "海运周",
         "金融贸易"
+      ]
+    }
+  },
+  {
+    "id": "20261115-victoria-harbour-swim-injuries-135",
+    "category": "hk",
+    "published_at": "2026-11-15T15:30:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877886-20261115.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "About 135 swimmers suffer minor injuries at Victoria Harbour swim as some 4,000 take part",
+      "zh_hant": "維港泳約4000人參與 135人受輕傷多為擦傷抽筋",
+      "zh_hans": "维港泳约4000人参与 135人受轻伤多为擦伤抽筋"
+    },
+    "summary": {
+      "en": "About 4,000 people took part in this morning's Victoria Harbour swim, with 135 suffering injuries, mostly minor grazes and cramps, the organisers said. The race was held in competitive and leisure categories, and the last leisure heat had earlier been cancelled over safety and time constraints, affecting about 700 people.",
+      "zh_hant": "今早舉行的維港泳共約4000人參與，大會表示有135人在活動中受傷，主要為輕微擦傷、抽筋等。賽事分競賽組與優悠組舉行，較早前優悠組最後一組賽事因安全及時間限制取消，影響約700人。",
+      "zh_hans": "今早举行的维港泳共约4000人参与，大会表示有135人在活动中受伤，主要为轻微擦伤、抽筋等。赛事分竞赛组与优悠组举行，较早前优悠组最后一组赛事因安全及时间限制取消，影响约700人。"
+    },
+    "tags": {
+      "en": [
+        "Victoria Harbour swim",
+        "swimming",
+        "injuries"
+      ],
+      "zh_hant": [
+        "維港泳",
+        "游泳",
+        "受傷"
+      ],
+      "zh_hans": [
+        "维港泳",
+        "游泳",
+        "受伤"
+      ]
+    }
+  },
+  {
+    "id": "20261115-xia-baolong-shenzhen-briefing",
+    "category": "china",
+    "published_at": "2026-11-15T15:24:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877885-20261115.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Xia Baolong hears work briefing in Shenzhen, joined by Xu Qifang",
+      "zh_hant": "夏寶龍深圳聽取工作匯報 徐啟方一同參與",
+      "zh_hans": "夏宝龙深圳听取工作汇报 徐启方一同参与"
+    },
+    "summary": {
+      "en": "Xia Baolong, deputy head of the Central Leading Group on Hong Kong and Macao Affairs and director of the Hong Kong and Macao Affairs Office of the State Council, heard a briefing on work in Shenzhen today. Xu Qifang, deputy director of the Hong Kong and Macao Affairs Office in charge of day-to-day work, also took part.",
+      "zh_hant": "中央港澳工作領導小組副組長、中央港澳辦主任、國務院港澳辦主任夏寶龍，今日在深圳聽取有關工作情況匯報。中央港澳辦、國務院港澳辦分管日常工作的副主任徐啟方亦有參與。",
+      "zh_hans": "中央港澳工作领导小组副组长、中央港澳办主任、国务院港澳办主任夏宝龙，今日在深圳听取有关工作情况汇报。中央港澳办、国务院港澳办分管日常工作的副主任徐启方亦有参与。"
+    },
+    "tags": {
+      "en": [
+        "Xia Baolong",
+        "Hong Kong and Macao Affairs Office",
+        "Shenzhen"
+      ],
+      "zh_hant": [
+        "夏寶龍",
+        "港澳辦",
+        "深圳"
+      ],
+      "zh_hans": [
+        "夏宝龙",
+        "港澳办",
+        "深圳"
+      ]
+    }
+  },
+  {
+    "id": "20261115-asean-summit-manila-opens",
+    "category": "world",
+    "published_at": "2026-11-15T15:00:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877884-20261115.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "ASEAN summit opens in Manila with South China Sea, Middle East and Ukraine in focus, but no breakthrough expected",
+      "zh_hant": "東盟峰會馬尼拉開鑼 南海中東俄烏成焦點 料難有突破",
+      "zh_hans": "东盟峰会马尼拉开锣 南海中东俄乌成焦点 料难有突破"
+    },
+    "summary": {
+      "en": "The ASEAN summit is being held in Manila for three days, with a series of meetings and expanded sessions with Asian and Western leaders, and is expected to discuss the South China Sea situation as well as the Middle East and Russia-Ukraine wars. The Associated Press, citing a draft of the closing statement, reported that ASEAN leaders are expected to again call on all parties to exercise restraint and settle the South China Sea dispute, the Myanmar conflict and the wars in the Middle East and Ukraine peacefully, but no breakthrough is expected. Philippine President Ferdinand Marcos Jr., whose country holds the rotating ASEAN chair, said the bloc's 11 members remain committed to unity, which matters all the more amid geopolitical tensions, economic uncertainty, new technologies, climate change and transnational threats.",
+      "zh_hant": "東盟峰會一連三日在菲律賓首都馬尼拉舉行，將舉行多場會談及與亞洲和西方國家元首的擴大會議，預計討論南海局勢，以及中東和俄烏戰爭等議題。美聯社引述會後聲明草稿報道，東盟領導人預計將再次呼籲各方保持克制，和平解決南海爭端、緬甸衝突，以及中東和烏克蘭的戰事，但預計不會取得突破性進展。東盟輪值主席國菲律賓總統小馬可斯表示，東盟11個成員國始終致力保持團結，面對地緣政治緊張、經濟不確定性等挑戰，團結承諾顯得愈發重要。",
+      "zh_hans": "东盟峰会一连三日在菲律宾首都马尼拉举行，将举行多场会谈及与亚洲和西方国家元首的扩大会议，预计讨论南海局势，以及中东和俄乌战争等议题。美联社引述会后声明草稿报道，东盟领导人预计将再次呼吁各方保持克制，和平解决南海争端、缅甸冲突，以及中东和乌克兰的战事，但预计不会取得突破性进展。东盟轮值主席国菲律宾总统小马科斯表示，东盟11个成员国始终致力保持团结，面对地缘政治紧张、经济不确定性等挑战，团结承诺显得愈发重要。"
+    },
+    "tags": {
+      "en": [
+        "ASEAN",
+        "Manila",
+        "South China Sea"
+      ],
+      "zh_hant": [
+        "東盟",
+        "馬尼拉",
+        "南海"
+      ],
+      "zh_hans": [
+        "东盟",
+        "马尼拉",
+        "南海"
       ]
     }
   },
