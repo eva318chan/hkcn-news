@@ -1,5 +1,163 @@
 [
   {
+    "id": "20261115-elderly-day-benefits",
+    "category": "hk",
+    "published_at": "2026-11-15T10:36:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877868-20261115.htm"
+    },
+    "image_url": "",
+    "image_caption": null,
+    "title": {
+      "zh_hant": "今日長者日 65歲以上免費搭車搭船 多個景點康文設施免費入場",
+      "en": "Elderly Day today: over-65s ride public transport free and enjoy free entry to attractions and leisure facilities",
+      "zh_hans": "今日长者日 65岁以上免费搭车搭船 多个景点康文设施免费入场"
+    },
+    "summary": {
+      "zh_hant": "今日是長者日，長者乘搭公共交通、到訪景點、使用康文設施等，都享有不同優惠。65歲或以上長者以樂悠咭、長者八達通或個人八達通，可免費乘搭港鐵、輕鐵、九巴、城巴、龍運及新大嶼山巴士；乘坐電車出示長者咭或身份證亦可享免費。天星小輪方面，長者出示長者咭或身份證，可與一名同行人士享有免費。山頂纜車、海洋公園、香港摩天輪、香港濕地公園等亦為長者提供免費入場優惠；康文署轄下博物館及游泳池設施為60歲或以上持有樂悠咭、長者咭或身份證人士提供免費入場，長者到香港科學館和太空館亦可與一位同行人士享有免費入場。",
+      "en": "Today is Elderly Day, and older people can enjoy a range of concessions on public transport, at attractions and at leisure facilities. People aged 65 or above can ride the MTR, Light Rail, KMB, Citybus, Long Win and New Lantao buses free with a JoyYou Card, Elder Octopus or Personalised Octopus, and can ride trams free by showing an Elder Card or identity card. On the Star Ferry, an elderly passenger showing an Elder Card or identity card can bring one companion free. The Peak Tram, Ocean Park, the Hong Kong Observation Wheel and Hong Kong Wetland Park are also offering free admission to elderly visitors, while LCSD museums and swimming pools are free for those aged 60 or above holding a JoyYou Card, Elder Card or identity card, and elderly visitors to the Hong Kong Science Museum and Space Museum can also bring one companion free.",
+      "zh_hans": "今日是长者日，长者乘搭公共交通、到访景点、使用康文设施等，都享有不同优惠。65岁或以上长者以乐悠咭、长者八达通或个人八达通，可免费乘搭港铁、轻铁、九巴、城巴、龙运及新大屿山巴士；乘坐电车出示长者咭或身份证亦可享免费。天星小轮方面，长者出示长者咭或身份证，可与一名同行人士享有免费。山顶缆车、海洋公园、香港摩天轮、香港湿地公园等亦为长者提供免费入场优惠；康文署辖下博物馆及游泳池设施为60岁或以上持有乐悠咭、长者咭或身份证人士提供免费入场，长者到香港科学馆和太空馆亦可与一位同行人士享有免费入场。"
+    },
+    "tags": {
+      "zh_hant": [
+        "長者日",
+        "長者優惠",
+        "公共交通"
+      ],
+      "en": [
+        "Elderly Day",
+        "elderly concessions",
+        "public transport"
+      ],
+      "zh_hans": [
+        "长者日",
+        "长者优惠",
+        "公共交通"
+      ]
+    }
+  },
+  {
+    "id": "20261115-un-fertilizer-hormuz",
+    "category": "world",
+    "published_at": "2026-11-15T10:06:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877863-20261115.htm"
+    },
+    "image_url": "",
+    "image_caption": null,
+    "title": {
+      "zh_hant": "霍爾木茲海峽化肥運輸停擺 聯合國警告4500萬人恐陷嚴重糧食危機",
+      "en": "UN warns 45 million face severe food insecurity as fertiliser shipments stall at Strait of Hormuz",
+      "zh_hans": "霍尔木兹海峡化肥运输停摆 联合国警告4500万人恐陷严重粮食危机"
+    },
+    "summary": {
+      "zh_hant": "聯合國項目事務廳執行主任達席爾瓦表示，伊朗和美國應立即允許化肥運輸通過霍爾木茲海峽，以緩解脆弱國家面臨的危機。他指出，美伊衝突前全球三分之一化肥經海峽運輸，自今年兩國衝突以來，全球化肥價格已上漲約三成。達席爾瓦警告，多個國家正因化肥供應問題受到衝擊，如果繼續錯過各地種植季，全球可能有4500萬人面臨嚴重糧食不安全，3000萬人被迫陷入貧困。他呼籲每日至少通行5艘化肥船，又稱聯合國現有機制可在7至10日內恢復化肥運輸。",
+      "en": "The head of the United Nations Office for Project Services, Jorge Moreira da Silva, said Iran and the United States should immediately allow fertiliser shipments through the Strait of Hormuz to ease the crisis facing vulnerable countries. He noted that before the US-Iran conflict, one third of the world's fertiliser moved through the strait, and global fertiliser prices have risen about 30% since the conflict began this year. Da Silva warned that many countries are already suffering from fertiliser supply problems and that if planting seasons continue to be missed, 45 million people worldwide could face severe food insecurity and 30 million could be pushed into poverty. He called for at least five fertiliser ships to pass through each day, adding that existing UN mechanisms could restore fertiliser transport within seven to ten days.",
+      "zh_hans": "联合国项目事务厅执行主任达席尔瓦表示，伊朗和美国应立即允许化肥运输通过霍尔木兹海峡，以缓解脆弱国家面临的危机。他指出，美伊冲突前全球三分之一化肥经海峡运输，自今年两国冲突以来，全球化肥价格已上涨约三成。达席尔瓦警告，多个国家正因化肥供应问题受到冲击，如果继续错过各地种植季，全球可能有4500万人面临严重粮食不安全，3000万人被迫陷入贫困。他呼吁每日至少通行5艘化肥船，又称联合国现有机制可在7至10日内恢复化肥运输。"
+    },
+    "tags": {
+      "zh_hant": [
+        "霍爾木茲海峽",
+        "化肥",
+        "聯合國",
+        "糧食危機"
+      ],
+      "en": [
+        "Strait of Hormuz",
+        "fertiliser",
+        "United Nations",
+        "food crisis"
+      ],
+      "zh_hans": [
+        "霍尔木兹海峡",
+        "化肥",
+        "联合国",
+        "粮食危机"
+      ]
+    }
+  },
+  {
+    "id": "20261115-yau-ying-wah-ai-slowdown",
+    "category": "finance",
+    "published_at": "2026-11-15T09:47:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877864-20261115.htm"
+    },
+    "image_url": "",
+    "image_caption": null,
+    "title": {
+      "zh_hant": "9月出口升64.9%創40年最快 丘應樺料AI發展或放緩籲港勿「等運到」",
+      "en": "Hong Kong exports jump 64.9% in September, fastest in over 40 years, as minister warns AI growth may slow and urges city not to wait",
+      "zh_hans": "9月出口升64.9%创40年最快 丘应桦料AI发展或放缓吁港勿「等运到」"
+    },
+    "summary": {
+      "zh_hant": "本港9月出口按年升64.9%，創超過40年以來最快單月增速，9月份進口按年亦升57.8%。商務及經濟發展局局長丘應樺形容數字亮麗，主要受人工智能相關電子產品貿易帶動。丘應樺出席一個電台節目時表示，轉口貿易對香港非常重要，是經濟的壓艙點，國家「十五五」規劃亦要求香港鞏固及提升國際貿易中心及國際航空樞紐地位。他提到本港受全球格局影響，各國對人工智能發展意見不一，未來人工智能發展或會放緩，強調香港不能「等運到」，要自強不息，不斷發掘新機遇。",
+      "en": "Hong Kong's exports rose 64.9% year on year in September, the fastest monthly growth in more than 40 years, while imports rose 57.8%. Secretary for Commerce and Economic Development Yau Ying-wah described the figures as impressive, driven mainly by trade in artificial intelligence-related electronic products. Speaking on a radio programme, Yau said re-export trade is vital to Hong Kong and acts as a ballast for the economy, adding that the national 15th Five-Year Plan also calls on Hong Kong to consolidate and enhance its status as an international trade centre and aviation hub. He noted that Hong Kong is affected by the global landscape, with countries holding different views on AI development, and that AI growth may slow in future, stressing that Hong Kong cannot afford to wait for opportunities to come and must keep finding new ones.",
+      "zh_hans": "本港9月出口按年升64.9%，创超过40年以来最快单月增速，9月份进口按年亦升57.8%。商务及经济发展局局长丘应桦形容数字亮丽，主要受人工智能相关电子产品贸易带动。丘应桦出席一个电台节目时表示，转口贸易对香港非常重要，是经济的压舱点，国家「十五五」规划亦要求香港巩固及提升国际贸易中心及国际航空枢纽地位。他提到本港受全球格局影响，各国对人工智能发展意见不一，未来人工智能发展或会放缓，强调香港不能「等运到」，要自强不息，不断发掘新机遇。"
+    },
+    "tags": {
+      "zh_hant": [
+        "香港出口",
+        "丘應樺",
+        "人工智能"
+      ],
+      "en": [
+        "Hong Kong exports",
+        "Yau Ying-wah",
+        "artificial intelligence"
+      ],
+      "zh_hans": [
+        "香港出口",
+        "丘应桦",
+        "人工智能"
+      ]
+    }
+  },
+  {
+    "id": "20261115-iran-tankers-mine-blast",
+    "category": "world",
+    "published_at": "2026-11-15T09:25:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877859-20261115.htm"
+    },
+    "image_url": "",
+    "image_caption": null,
+    "title": {
+      "zh_hant": "兩運油輪熄導航闖霍爾木茲海峽觸水雷爆炸起火 另兩艘接警告折返",
+      "en": "Two oil tankers hit mines and catch fire after switching off navigation to slip through Strait of Hormuz; two more turn back after warning",
+      "zh_hans": "两运油轮熄导航闯霍尔木兹海峡触水雷爆炸起火 另两艘接警告折返"
+    },
+    "summary": {
+      "zh_hant": "伊朗伊斯蘭革命衛隊海軍表示，兩艘運油輪違反相關規定，關閉導航系統和自動識別系統，試圖秘密通過霍爾木茲海峽，期間觸碰水雷發生爆炸，引發大火。另外兩艘同樣試圖秘密通過海峽的運油輪在爆炸發生後收到警告，調轉航向，返回波斯灣海域。美軍中央司令部表示，海灣地區的合作夥伴在美方保護下，已通過霍爾木茲海峽運輸超過17億桶原油。",
+      "en": "Iran's Islamic Revolutionary Guard Corps navy said two oil tankers broke the rules by switching off their navigation and automatic identification systems in an attempt to pass secretly through the Strait of Hormuz, and struck mines during the attempt, triggering explosions and a fire. Two other tankers that were also trying to pass through the strait secretly received a warning after the explosions, turned around and returned to Gulf waters. US Central Command said partners in the Gulf region have shipped more than 1.7 billion barrels of crude oil through the Strait of Hormuz under US protection.",
+      "zh_hans": "伊朗伊斯兰革命卫队海军表示，两艘运油轮违反相关规定，关闭导航系统和自动识别系统，试图秘密通过霍尔木兹海峡，期间触碰水雷发生爆炸，引发大火。另外两艘同样试图秘密通过海峡的运油轮在爆炸发生后收到警告，调转航向，返回波斯湾海域。美军中央司令部表示，海湾地区的合作伙伴在美方保护下，已通过霍尔木兹海峡运输超过17亿桶原油。"
+    },
+    "tags": {
+      "zh_hant": [
+        "霍爾木茲海峽",
+        "伊朗",
+        "運油輪",
+        "水雷"
+      ],
+      "en": [
+        "Strait of Hormuz",
+        "Iran",
+        "oil tanker",
+        "naval mine"
+      ],
+      "zh_hans": [
+        "霍尔木兹海峡",
+        "伊朗",
+        "运油轮",
+        "水雷"
+      ]
+    }
+  },
+  {
     "category": "hk",
     "id": "20261115-hzmb-half-marathon-held",
     "image_url": "",
