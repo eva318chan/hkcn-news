@@ -86,6 +86,46 @@
     }
   },
   {
+    "id": "20261115-choi-cathay-hackathon-closing",
+    "category": "tech",
+    "published_at": "2026-11-15T18:00:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/15/P2026111300570.htm"
+    },
+    "image_url": "https://gia.info.gov.hk/general/202611/15/P2026111300570_photo_1343656.jpg",
+    "title": {
+      "en": "Cathay Hackathon marks 10th anniversary as tech chief says first five-year plan puts innovation at the core",
+      "zh_hant": "國泰黑客松踏入十周年 創科常秘：五年規劃以創科為核心引擎",
+      "zh_hans": "国泰黑客松踏入十周年 创科常秘：五年规划以创科为核心引擎"
+    },
+    "summary": {
+      "en": "Permanent Secretary for Innovation, Technology and Industry Kevin Choi told the Cathay Hackathon 2026 awards ceremony that participants used artificial intelligence and data analytics over 24 hours to tackle real aviation challenges, showing the creativity and strength of Hong Kong's innovation talent. He said Hong Kong's first five-year plan puts innovation and technology at the centre of high-quality development, aiming to basically establish an international innovation and technology centre based in the Greater Bay Area after 2030, with the Loop Hong Kong Park set to become a world-class innovation hub. Choi added that the hackathon, now celebrating its 10th anniversary, is a key platform for nurturing the next generation of innovators, and the government will keep supporting the ecosystem through policy, funding and talent development.",
+      "zh_hant": "創新科技及工業局常任秘書長Kevin Choi今日在國泰黑客松2026頒獎禮致閉幕辭，指參賽者在24小時內運用人工智能及數據分析，應對航空業實際挑戰，展現本港創科人才的創意與實力。他表示，香港首個五年規劃將創科置於高質量發展的核心，目標是2030年後基本建成以大灣區為基地、服務國家及連接世界的國際創科中心，其中河套香港園區將發展成世界級創科樞紐。他又指，國泰黑客松踏入十周年，是培育新一代創科人才的重要平台，政府會繼續透過政策、資金及人才培育支持創科生態。",
+      "zh_hans": "创新科技及工业局常任秘书长Kevin Choi今日在国泰黑客松2026颁奖礼致闭幕辞，指参赛者在24小时内运用人工智能及数据分析，应对航空业实际挑战，展现本港创科人才的创意与实力。他表示，香港首个五年规划将创科置于高质量发展的核心，目标是2030年后基本建成以大湾区为基地、服务国家及连接世界的国际创科中心，其中河套香港园区将发展成世界级创科枢纽。他又指，国泰黑客松踏入十周年，是培育新一代创科人才的重要平台，政府会继续透过政策、资金及人才培育支持创科生态。"
+    },
+    "tags": {
+      "en": [
+        "Cathay Hackathon",
+        "innovation and technology",
+        "five-year plan",
+        "aviation technology"
+      ],
+      "zh_hant": [
+        "國泰黑客松",
+        "創科",
+        "五年規劃",
+        "航空科技"
+      ],
+      "zh_hans": [
+        "国泰黑客松",
+        "创科",
+        "五年规划",
+        "航空科技"
+      ]
+    }
+  },
+  {
     "id": "20261115-chan-maritime-trade-summit-speech",
     "category": "finance",
     "published_at": "2026-11-15T15:10:00+08:00",
@@ -509,46 +549,6 @@
         "济南",
         "出口管制",
         "实体清单"
-      ]
-    }
-  },
-  {
-    "id": "20261115-choi-cathay-hackathon-closing",
-    "category": "tech",
-    "published_at": "2026-11-15T18:00:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/15/P2026111300570.htm"
-    },
-    "image_url": "",
-    "title": {
-      "en": "Cathay Hackathon marks 10th anniversary as tech chief says first five-year plan puts innovation at the core",
-      "zh_hant": "國泰黑客松踏入十周年 創科常秘：五年規劃以創科為核心引擎",
-      "zh_hans": "国泰黑客松踏入十周年 创科常秘：五年规划以创科为核心引擎"
-    },
-    "summary": {
-      "en": "Permanent Secretary for Innovation, Technology and Industry Kevin Choi told the Cathay Hackathon 2026 awards ceremony that participants used artificial intelligence and data analytics over 24 hours to tackle real aviation challenges, showing the creativity and strength of Hong Kong's innovation talent. He said Hong Kong's first five-year plan puts innovation and technology at the centre of high-quality development, aiming to basically establish an international innovation and technology centre based in the Greater Bay Area after 2030, with the Loop Hong Kong Park set to become a world-class innovation hub. Choi added that the hackathon, now celebrating its 10th anniversary, is a key platform for nurturing the next generation of innovators, and the government will keep supporting the ecosystem through policy, funding and talent development.",
-      "zh_hant": "創新科技及工業局常任秘書長Kevin Choi今日在國泰黑客松2026頒獎禮致閉幕辭，指參賽者在24小時內運用人工智能及數據分析，應對航空業實際挑戰，展現本港創科人才的創意與實力。他表示，香港首個五年規劃將創科置於高質量發展的核心，目標是2030年後基本建成以大灣區為基地、服務國家及連接世界的國際創科中心，其中河套香港園區將發展成世界級創科樞紐。他又指，國泰黑客松踏入十周年，是培育新一代創科人才的重要平台，政府會繼續透過政策、資金及人才培育支持創科生態。",
-      "zh_hans": "创新科技及工业局常任秘书长Kevin Choi今日在国泰黑客松2026颁奖礼致闭幕辞，指参赛者在24小时内运用人工智能及数据分析，应对航空业实际挑战，展现本港创科人才的创意与实力。他表示，香港首个五年规划将创科置于高质量发展的核心，目标是2030年后基本建成以大湾区为基地、服务国家及连接世界的国际创科中心，其中河套香港园区将发展成世界级创科枢纽。他又指，国泰黑客松踏入十周年，是培育新一代创科人才的重要平台，政府会继续透过政策、资金及人才培育支持创科生态。"
-    },
-    "tags": {
-      "en": [
-        "Cathay Hackathon",
-        "innovation and technology",
-        "five-year plan",
-        "aviation technology"
-      ],
-      "zh_hant": [
-        "國泰黑客松",
-        "創科",
-        "五年規劃",
-        "航空科技"
-      ],
-      "zh_hans": [
-        "国泰黑客松",
-        "创科",
-        "五年规划",
-        "航空科技"
       ]
     }
   },

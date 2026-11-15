@@ -121,6 +121,49 @@
     }
   },
   {
+    "id": "20261116-zelenskyy-starshield-winter-limits",
+    "category": "world",
+    "published_at": "2026-11-16T03:14:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877913-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Starshield Speed Limits Let Russian Drones Through, Zelenskyy Urges US to Lift Curbs Before Winter",
+      "zh_hant": "星盾限速害烏軍追唔上俄無人機 澤連斯基促美解限保能源設施過冬",
+      "zh_hans": "星盾限速害乌军追不上俄无人机 泽连斯基促美解限保能源设施过冬"
+    },
+    "summary": {
+      "en": "Ukrainian President Volodymyr Zelenskyy said Russia struck energy and rail infrastructure in eight Ukrainian regions overnight, with some attacks succeeding because the Starshield service Ukraine uses is speed-limited. Ukrainian interceptor drones lose contact with operators at 161 km/h and cannot catch Russia's jet-powered drones. Zelenskyy has asked officials to work closely with the US government and SpaceX to lift the limits before winter to protect civilians and energy infrastructure. Starshield is a US government-provided satellite communications system that shares some technology with the commercial Starlink network.",
+      "zh_hant": "烏克蘭總統澤連斯基表示，俄羅斯夜間襲擊烏克蘭8個地區的能源及鐵路基建，部分攻擊得逞是因為烏方使用的「星盾」服務受限。烏方攔截無人機飛到時速161公里便與操作員斷線，無法追上俄羅斯噴射動力無人機。澤連斯基已要求官員與美國政府及太空探索技術公司SpaceX緊密合作，希望限制在冬季前解除，以保障民眾安全及能源基建。「星盾」是由美國政府向烏克蘭提供的衛星通訊系統，與商業「星鏈」共用部分技術。",
+      "zh_hans": "乌克兰总统泽连斯基表示，俄罗斯夜间袭击乌克兰8个地区的能源及铁路基建，部分攻击得逞是因为乌方使用的「星盾」服务受限。乌方拦截无人机飞到时速161公里便与操作员断线，无法追上俄罗斯喷射动力无人机。泽连斯基已要求官员与美国政府及太空探索技术公司SpaceX紧密合作，希望限制在冬季前解除，以保障民众安全及能源基建。「星盾」是由美国政府向乌克兰提供的卫星通讯系统，与商业「星链」共用部分技术。"
+    },
+    "tags": {
+      "en": [
+        "Zelenskyy",
+        "Starshield",
+        "Ukraine",
+        "Russia",
+        "Energy Infrastructure"
+      ],
+      "zh_hant": [
+        "澤連斯基",
+        "星盾",
+        "烏克蘭",
+        "俄羅斯",
+        "能源基建"
+      ],
+      "zh_hans": [
+        "泽连斯基",
+        "星盾",
+        "乌克兰",
+        "俄罗斯",
+        "能源基建"
+      ]
+    }
+  },
+  {
     "id": "20261116-korea-ai-exam-cheating-scandal",
     "category": "world",
     "published_at": "2026-11-16T01:16:00+08:00",
