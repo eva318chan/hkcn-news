@@ -1,5 +1,125 @@
 [
   {
+    "category": "hk",
+    "id": "20261115-hzmb-half-marathon-held",
+    "image_url": "",
+    "published_at": "2026-11-15T08:29:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877858-20261115.htm"
+    },
+    "summary": {
+      "en": "The Hong Kong-Zhuhai-Macao Bridge (Hong Kong section) half marathon was held this morning. Secretary for Justice Paul Lam, Secretary for Education Christine Choi, legislator Kenneth Fok and his wife Guo Jingjing joined the 2km Honour Cup. Lam said the weather was pleasant and the atmosphere good, adding he was delighted to run on the bridge and hoping Hong Kong hosts more major events to showcase its strengths. The race included a 10km challenge group, which set off at 6:15am, plus half-marathon challenge and open groups. Police imposed temporary traffic arrangements on the Hong Kong Link Road between the Hong Kong port and the Guangdong-Hong Kong boundary until the race finished and the road reopened.",
+      "zh_hans": "港珠澳大桥（香港段）半程马拉松今早举行，律政司司长林定国、教育局局长蔡若莲、立法会议员霍启刚与太太郭晶晶等，参加「2公里荣誉杯」。林定国表示今日天气舒服、现场气氛良好，很开心有机会在港珠澳大桥跑步，又希望香港举办更多大型赛事，彰显实力。赛事设十公里挑战组、半马挑战组及公开组，十公里挑战组早上6时15分起步；警方在港珠澳大桥香港连接路实施临时交通安排，直至比赛完毕、道路重开为止。",
+      "zh_hant": "港珠澳大橋（香港段）半馬拉松今早舉行，律政司司長林定國、教育局局長蔡若蓮、立法會議員霍啟剛與太太郭晶晶等，參加「2公里榮譽盃」。林定國表示今日天氣舒服、現場氣氛良好，很開心有機會在港珠澳大橋跑步，又希望香港舉辦更多大型賽事，彰顯實力。賽事設十公里挑戰組、半馬挑戰組及公開組，十公里挑戰組早上6時15分起步；警方在港珠澳大橋香港連接路實施臨時交通安排，直至比賽完畢、道路重開為止。"
+    },
+    "tags": {
+      "en": [
+        "HZMB half marathon",
+        "Paul Lam",
+        "Guo Jingjing",
+        "major events"
+      ],
+      "zh_hans": [
+        "港珠澳大桥半马",
+        "林定国",
+        "郭晶晶",
+        "大型赛事"
+      ],
+      "zh_hant": [
+        "港珠澳大橋半馬",
+        "林定國",
+        "郭晶晶",
+        "大型賽事"
+      ]
+    },
+    "title": {
+      "en": "Hong Kong-Zhuhai-Macao Bridge half marathon held today as justice chief hopes city hosts more major events",
+      "zh_hans": "港珠澳大桥半马今早开跑 林定国冀香港办更多大赛显实力",
+      "zh_hant": "港珠澳大橋半馬今早開跑 林定國冀香港辦更多大賽顯實力"
+    }
+  },
+  {
+    "category": "hk",
+    "id": "20261115-victoria-harbour-swim-2026",
+    "image_url": "",
+    "published_at": "2026-11-15T07:58:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877857-20261115.htm"
+    },
+    "summary": {
+      "en": "The 2026 Victoria Harbour Swim was held this morning. About 300 swimmers in the racing category set off first, starting from the Golden Bauhinia Square public pier in Wan Chai and finishing at the Avenue of Stars in Tsim Sha Tsui, a course of about one kilometre. Around 3,700 people took part in the leisure category, setting off in four groups. Special marine and land traffic arrangements were in place in Wan Chai North and Tsim Sha Tsui; water taxis and ferry services were suspended, with the Wan Chai to Tsim Sha Tsui ferry halted from the first sailing until 11am and Central to Hung Hom sailings cancelled until 11:10am.",
+      "zh_hans": "维港泳2026今早举行，竞赛组约300名选手率先开赛，由湾仔金紫荆广场公众码头出发，游往尖沙咀星光大道，全长约1公里；优悠组约3,700人参与，分4组出发。湾仔北及尖沙咀实施特别交通及运输安排，期间水上的士及渡轮航线暂停服务；来往湾仔至尖沙咀的渡轮由首班船起至上午11时停航，中环至红磡航线亦取消航班至早上11时10分。",
+      "zh_hant": "維港泳2026今早舉行，競賽組約300名選手率先開賽，由灣仔金紫荊廣場公眾碼頭出發，游往尖沙咀星光大道，全長約1公里；優悠組約3,700人參與，分4組出發。灣仔北及尖沙咀實施特別交通及運輸安排，期間水上的士及渡輪航線暫停服務；來往灣仔至尖沙咀的渡輪由首班船起至上午11時停航，中環至紅磡航線亦取消航班至早上11時10分。"
+    },
+    "tags": {
+      "en": [
+        "Victoria Harbour Swim",
+        "Victoria Harbour",
+        "traffic arrangements",
+        "ferry"
+      ],
+      "zh_hans": [
+        "维港泳",
+        "维多利亚港",
+        "交通安排",
+        "渡轮"
+      ],
+      "zh_hant": [
+        "維港泳",
+        "維多利亞港",
+        "交通安排",
+        "渡輪"
+      ]
+    },
+    "title": {
+      "en": "Harbour swim draws thousands today as 300 racers lead off from Golden Bauhinia to Avenue of Stars",
+      "zh_hans": "维港泳今早举行数千人落水 竞赛组300人率先由金紫荆游往星光大道",
+      "zh_hant": "維港泳今早舉行數千人落水 競賽組300人率先由金紫荊游往星光大道"
+    }
+  },
+  {
+    "category": "tech",
+    "id": "20261115-italy-fines-meta-805m-euro",
+    "image_url": "",
+    "published_at": "2026-11-15T07:01:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877853-20261115.htm"
+    },
+    "summary": {
+      "en": "Italy's data protection authority has fined Meta Ireland, a subsidiary of US company Meta, 805 million euros, saying its Facebook app on Android devices read photos, videos and related metadata stored on Italian users' phones without specific consent and without adequately informing users. The feature, in place since 2023, used photos and videos from users' phone albums as recommended posting content; it was on by default and relied on a general authorisation to access albums rather than seeking separate consent for that use, affecting about 20 million Android users in Italy. The authority ordered Meta to complete rectification within 60 days, switching the feature off by default and seeking consent in a separate, clear way.",
+      "zh_hans": "意大利个人资料保护局宣布，对美国Meta公司旗下的Meta爱尔兰公司处以8亿5百万欧元罚款，指该公司透过Android设备上的Facebook应用程序，在未取得专项同意、未充分知会使用者的情况下，读取意大利使用者手机储存的照片、片段及相关元数据。涉事功能自2023年推出，将用户手机相簿照片及片段用作推荐发布的内容，属默认开启，应用程序以一项通用授权获取相簿存取权限，未就有关用途单独征求用户同意，涉及意大利约2千万名Android用户。局方要求Meta在60日内完成整顿，将有关功能设为默认关闭，并以独立、明确的方式征求使用者同意。",
+      "zh_hant": "意大利個人資料保護局宣布，對美國Meta公司旗下的Meta愛爾蘭公司處以8億5百萬歐元罰款，指該公司透過Android設備上的Facebook應用程式，在未取得專項同意、未充分知會使用者的情況下，讀取意大利使用者手機儲存的照片、片段及相關元數據。涉事功能自2023年推出，將用戶手機相簿照片及片段用作推薦發布內容，屬默認開啟，應用程式以一項通用授權獲取相簿存取權限，未就有關用途單獨徵求用戶同意，涉及意大利約2千萬名Android用戶。局方要求Meta在60日內完成整頓，將有關功能設為默認關閉，並以獨立、明確方式徵求使用者同意。"
+    },
+    "tags": {
+      "en": [
+        "Meta",
+        "Italy",
+        "data protection",
+        "fine"
+      ],
+      "zh_hans": [
+        "Meta",
+        "意大利",
+        "个人资料",
+        "罚款"
+      ],
+      "zh_hant": [
+        "Meta",
+        "意大利",
+        "個人資料",
+        "罰款"
+      ]
+    },
+    "title": {
+      "en": "Italy fines Meta 805 million euros over phone photo access as 20 million users affected and 60-day fix ordered",
+      "zh_hans": "意大利重罚Meta 8亿欧元 偷读2千万用户手机相簿 限60日内整改",
+      "zh_hant": "意大利重罰Meta 8億歐元 偷讀2千萬用戶手機相簿 限60日內整改"
+    }
+  },
+  {
     "category": "world",
     "id": "20261115-us-air-traffic-recovery-cause",
     "image_url": "",
