@@ -1,5 +1,46 @@
 [
   {
+    "id": "20261116-alibaba-happy-shrimp-ai-music",
+    "category": "finance",
+    "published_at": "2026-11-16T01:44:00+08:00",
+    "source": {
+      "name": "阿里巴巴",
+      "url": "https://finance.biggo.com/news/d9ceea84-a2de-4490-bbad-8efba6d8d075"
+    },
+    "source_url": null,
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261116-alibaba-happy-shrimp-ai-music.jpg",
+    "title": {
+      "en": "Alibaba's AI music platform HappyShrimp launches: one sentence creates a full song, from RMB 30 a month",
+      "zh_hant": "阿里AI音樂創作平台「快樂蝦米」上線 一句話生一首歌 內地月費30元起",
+      "zh_hans": "阿里AI音乐创作平台「快乐虾米」上线 一句话生一首歌 内地月费30元起"
+    },
+    "summary": {
+      "en": "Alibaba's AI music creation platform HappyShrimp launched its mobile app on 13 November, arriving simultaneously on iOS and Android. Users simply describe an emotion, a story or a music style in natural language, and the AI completes the full process — lyrics, composition, arrangement and vocals — in one go, with no musical background needed to create a complete song. HappyShrimp is the third product in Alibaba's \"Happy\" series of AI models, built around end-to-end, full-song generation; a web beta was released in August. On pricing, standard membership in mainland China costs about RMB 30 a month for 150 songs — around RMB 0.2 per song — while overseas membership starts at US$14.9 a month, with credit packs from US$9.9.",
+      "zh_hant": "阿里巴巴旗下AI音樂創作平台「快樂蝦米」（HappyShrimp）11月13日正式推出手機應用程式，同步登陸iOS及Android平台。用戶只需以自然語言描述想表達的情緒、故事或音樂風格，AI即可一氣呵成完成歌詞、作曲、編曲與人聲演唱，毋須任何音樂基礎就能生成一整首歌。快樂蝦米是阿里「Happy系列」AI模型的第三個產品，主打端到端整曲一體化生成，今年8月已先推出網頁測試版。收費方面，內地標準會員每月約30元人民幣，可生成150首歌，平均每首約0.2元；海外會員月費14.9美元起，積分包9.9美元起。",
+      "zh_hans": "阿里巴巴旗下AI音乐创作平台「快乐虾米」（HappyShrimp）11月13日正式推出手机应用程序，同步登陆iOS及Android平台。用户只需以自然语言描述想表达的情绪、故事或音乐风格，AI即可一气呵成完成歌词、作曲、编曲与人声演唱，无须任何音乐基础就能生成一整首歌。快乐虾米是阿里「Happy系列」AI模型的第三个产品，主打端到端整曲一体化生成，今年8月已先推出网页测试版。收费方面，内地标准会员每月约30元人民币，可生成150首歌，平均每首约0.2元；海外会员月费14.9美元起，积分包9.9美元起。"
+    },
+    "tags": {
+      "en": [
+        "HappyShrimp",
+        "Alibaba",
+        "AI music",
+        "Alibaba 9988"
+      ],
+      "zh_hant": [
+        "快樂蝦米",
+        "阿里巴巴",
+        "AI音樂",
+        "HappyShrimp"
+      ],
+      "zh_hans": [
+        "快乐虾米",
+        "阿里巴巴",
+        "AI音乐",
+        "HappyShrimp"
+      ]
+    }
+  },
+  {
     "id": "20261116-wong-tai-sin-three-fires-one-day",
     "category": "hk",
     "published_at": "2026-11-15T22:43:00+08:00",
