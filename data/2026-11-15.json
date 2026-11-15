@@ -1,5 +1,48 @@
 [
   {
+    "id": "20261115-ccida-hong-kong-pavilion-shanghai-book-fair",
+    "category": "hk",
+    "published_at": "2026-11-15T18:55:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/15/P2026111500540.htm"
+    },
+    "image_url": "https://gia.info.gov.hk/general/202611/15/P2026111500540_photo_1343653.jpg",
+    "title": {
+      "en": "Hong Kong Illustrators Shine at Shanghai Children's Book Fair as Pavilion Draws 40,000 Visitors and Local Talent Makes Global Top 50",
+      "zh_hant": "港繪本插畫家上海童書展大放異彩 香港館三日吸4萬人次 本地新秀躋身國際賽50強",
+      "zh_hans": "港绘本插画家上海童书展大放异彩 香港馆三日吸4万人次 本地新秀跻身国际赛50强"
+    },
+    "summary": {
+      "en": "The Cultural and Creative Industries Development Agency sponsored the industry to set up the \"Go! Illustrators - Hong Kong Pavilion\" at the Shanghai International Children's Book Fair, showcasing works by 30 Hong Kong picture book illustrators and drawing around 40,000 visitors over the three-day fair. Eight illustrators selected under the third edition of the Go! Illustrators scheme were funded to attend the Bologna Children's Book Fair in Italy in April, and hosted sharing sessions in Shanghai. Local illustrator Jess Lau's \"The Whale Who Came Home\" was shortlisted among the top 50 from over 2,000 entries across 73 countries and regions at the Golden Pinwheel Young Illustrators Competition.",
+      "zh_hant": "文創產業發展處贊助業界，於上海國際童書展設立「Go! Illustrators — 香港館」，展出30位香港繪本插畫家的作品，三日展期吸引約4萬名訪客。其中8位插畫家入選第三屆「Go! Illustrators」計劃，今年4月獲資助赴意大利博洛尼亞童書展，並在上海舉行分享會及拜訪出版社。本地插畫家Jess Lau憑《The Whale Who Came Home》在金風車國際青年插畫家大賽中，從73個國家及地區逾2,000份作品中入選50強。",
+      "zh_hans": "文创产业发展处赞助业界，于上海国际童书展设立「Go! Illustrators — 香港馆」，展出30位香港绘本插画家的作品，三日展期吸引约4万名访客。其中8位插画家入选第三届「Go! Illustrators」计划，今年4月获资助赴意大利博洛尼亚童书展，并在上海举行分享会及拜访出版社。本地插画家Jess Lau凭《The Whale Who Came Home》在金风车国际青年插画家大赛中，从73个国家及地区逾2,000份作品中入选50强。"
+    },
+    "tags": {
+      "en": [
+        "CCIDA",
+        "Shanghai Children's Book Fair",
+        "picture book illustrators",
+        "Jess Lau",
+        "Hong Kong Pavilion"
+      ],
+      "zh_hant": [
+        "文創產業發展處",
+        "上海國際童書展",
+        "繪本插畫家",
+        "Jess Lau",
+        "香港館"
+      ],
+      "zh_hans": [
+        "文创产业发展处",
+        "上海国际童书展",
+        "绘本插画家",
+        "Jess Lau",
+        "香港馆"
+      ]
+    }
+  },
+  {
     "id": "20261115-pakho-chau-macau-blooming-chapter",
     "category": "entertainment",
     "published_at": "2026-11-15T18:21:48+08:00",
@@ -169,6 +212,135 @@
     }
   },
   {
+    "id": "20261115-jordan-church-attack-death-sentences",
+    "category": "world",
+    "published_at": "2026-11-15T19:57:00+08:00",
+    "source": {
+      "name": "商業電台",
+      "url": "https://www.881903.com/news/international/2659613"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Jordan Sentences Three Gunmen to Death by Hanging Over Church Attack That Killed Nine",
+      "zh_hant": "約旦教堂槍擊案3槍手判絞刑 9死34傷 兄弟姻親涉恐襲 判決未終審可上訴",
+      "zh_hans": "约旦教堂枪击案3枪手判绞刑 9死34伤 兄弟姻亲涉恐袭 判决未终审可上诉"
+    },
+    "summary": {
+      "en": "Jordan's State Security Court has sentenced three gunmen to death by hanging over a church attack last month that killed nine people and injured 34. The gunmen opened fire during a funeral at a Greek Orthodox church in the southern governorate of Karak on October 23. The court convicted the three of multiple terrorism-related offences, including carrying out a terrorist attack and promoting the ideology of a terrorist group, with one also convicted of financing terrorism. The ruling is not final: the defendants may appeal and the case will be automatically reviewed by the Court of Cassation. Authorities have not disclosed a motive, confirming only that the three are a pair of Jordanian brothers and one in-law.",
+      "zh_hant": "約旦國家安全法院判處3名槍手絞刑死刑，他們涉嫌上月23日在南部卡拉克省一座希臘正教教堂舉行喪禮期間亂槍掃射，造成9人死亡、34人受傷。法院裁定3人多項恐怖主義相關罪成，包括實施恐怖襲擊及宣揚恐怖組織意識形態，其中1人另被裁定資助恐怖活動罪成。裁決並非終審結果，被告仍可上訴，案件亦須交由最高法院自動覆核；當局未公布犯案動機，只確認3人是一對約旦籍兄弟和1名姻親。",
+      "zh_hans": "约旦国家安全法院判处3名枪手绞刑死刑，他们涉嫌上月23日在南部卡拉克省一座希腊正教教堂举行丧礼期间乱枪扫射，造成9人死亡、34人受伤。法院裁定3人多项恐怖主义相关罪成，包括实施恐怖袭击及宣扬恐怖组织意识形态，其中1人另被裁定资助恐怖活动罪成。裁决并非终审结果，被告仍可上诉，案件亦须交由最高法院自动覆核；当局未公布犯案动机，只确认3人是一对约旦籍兄弟和1名姻亲。"
+    },
+    "tags": {
+      "en": [
+        "Jordan",
+        "church attack",
+        "death sentence",
+        "terrorism",
+        "Karak"
+      ],
+      "zh_hant": [
+        "約旦",
+        "教堂槍擊案",
+        "死刑",
+        "恐怖襲擊",
+        "卡拉克"
+      ],
+      "zh_hans": [
+        "约旦",
+        "教堂枪击案",
+        "死刑",
+        "恐怖袭击",
+        "卡拉克"
+      ]
+    }
+  },
+  {
+    "id": "20261115-takaichi-cabinet-approval-50-4",
+    "category": "world",
+    "published_at": "2026-11-15T19:21:00+08:00",
+    "source": {
+      "name": "商業電台",
+      "url": "https://www.881903.com/news/international/2659611"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Takaichi Cabinet Approval Rebounds to 50.4% as Most Say Consumption Tax Cut Will Do Little on Prices and Fault Slow Cyberattack Response",
+      "zh_hant": "高市內閣支持率回升至50.4% 六成三人認減消費稅難抑物價 近六成批政府應對網攻太慢",
+      "zh_hans": "高市内阁支持率回升至50.4% 六成三人认减消费税难抑物价 近六成批政府应对网攻太慢"
+    },
+    "summary": {
+      "en": "A Kyodo News poll shows Japanese Prime Minister Sanae Takaichi's cabinet approval rating has rebounded to 50.4%, up 1.3 percentage points from last month, while the disapproval rating also rose to 34.4%. On the consumption tax cut currently before the upper house, 63.5% of respondents said it would do little to hold down prices, and 85.6% said Takaichi needs to explain the funding sources for the tax cut and the details of a new subsidy payment scheme. On the recent series of corporate cyberattacks, 59% said the government's response has been slow. The ruling Liberal Democratic Party led party support at 34.9%, while 25% said they support no party.",
+      "zh_hant": "日本共同社最新民調顯示，首相高市早苗內閣支持率回升至50.4%，較上月上升1.3個百分點；不支持率亦上升至34.4%。對於正在參議院審議的消費稅減免，63.5%受訪者認為抑制物價的效果較小，85.6%認為高市需要解釋減稅資金來源及新補貼支付制度的細節。至於近期一連串企業網絡攻擊，59%受訪者認為政府應對速度緩慢；執政自民黨支持率以34.9%位列最高，25%受訪者表示不支持任何政黨。",
+      "zh_hans": "日本共同社最新民调显示，首相高市早苗内阁支持率回升至50.4%，较上月上升1.3个百分点；不支持率亦上升至34.4%。对于正在参议院审议的消费税减免，63.5%受访者认为抑制物价的效果较小，85.6%认为高市需要解释减税资金来源及新补贴支付制度的细节。至于近期一连串企业网络攻击，59%受访者认为政府应对速度缓慢；执政自民党支持率以34.9%位列最高，25%受访者表示不支持任何政党。"
+    },
+    "tags": {
+      "en": [
+        "Sanae Takaichi",
+        "Japan",
+        "cabinet approval",
+        "consumption tax",
+        "cyberattacks"
+      ],
+      "zh_hant": [
+        "高市早苗",
+        "日本",
+        "內閣支持率",
+        "消費稅",
+        "網絡攻擊"
+      ],
+      "zh_hans": [
+        "高市早苗",
+        "日本",
+        "内阁支持率",
+        "消费税",
+        "网络攻击"
+      ]
+    }
+  },
+  {
+    "id": "20261115-megaspeed-huang-le-resigned",
+    "category": "finance",
+    "published_at": "2026-11-15T19:11:00+08:00",
+    "source": {
+      "name": "商業電台",
+      "url": "https://www.881903.com/news/international/2659610"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Megaspeed Says Huang Le Left in August Last Year and Stresses Business Is Lawful as External Lawyers Probe Chip Claims",
+      "zh_hant": "Megaspeed澄清黃樂去年8月已離職 強調業務合法合規 已聘外部律師徹查晶片指控",
+      "zh_hans": "Megaspeed澄清黄乐去年8月已离职 强调业务合法合规 已聘外部律师彻查芯片指控"
+    },
+    "summary": {
+      "en": "Megaspeed, the Singapore cloud company that formerly employed Chinese businesswoman Huang Le, said in a statement that she formally left on August 30 last year and currently holds no position at the company. Huang Le has been described as a suspected Chinese spy and the former mistress of Nvidia's ex-chief executive Jensen Huang. Responding to reports that Megaspeed allegedly helped Chinese clients obtain Nvidia AI chips subject to US export controls, the company stressed its business is legitimate and lawful, has engaged external legal counsel to conduct a thorough internal investigation, and reiterated that its operations and supply chain comply with all applicable laws and regulations, including US export controls.",
+      "zh_hant": "被指是中國間諜及輝達前行政總裁黃仁勳外遇對象的中國女商人黃樂，她曾任職的新加坡雲端公司Megaspeed發聲明，指黃樂已於去年8月30日正式離職，目前在公司沒有擔任任何職務。對於報道指公司涉嫌協助中國客戶取得受美國出口管制的輝達人工智能晶片，Megaspeed強調公司業務正當及合法，已委聘外部法律顧問展開徹底的內部調查，重申營運及供應鏈符合所有適用的法律法規，包括美國的出口管制要求。",
+      "zh_hans": "被指是中国间谍及辉达前行政总裁黄仁勋外遇对象的中国女商人黄乐，她曾任职的新加坡云端公司Megaspeed发声明，指黄乐已于去年8月30日正式离职，目前在公司没有任何职务。对于报道指公司涉嫌协助中国客户取得受美国出口管制的辉达人工智能芯片，Megaspeed强调公司业务正当及合法，已委聘外部法律顾问展开彻底的内部调查，重申营运及供应链符合所有适用的法律法规，包括美国的出口管制要求。"
+    },
+    "tags": {
+      "en": [
+        "Megaspeed",
+        "Huang Le",
+        "Nvidia",
+        "chip export controls",
+        "Jensen Huang"
+      ],
+      "zh_hant": [
+        "Megaspeed",
+        "黃樂",
+        "輝達",
+        "晶片出口管制",
+        "黃仁勳"
+      ],
+      "zh_hans": [
+        "Megaspeed",
+        "黄乐",
+        "辉达",
+        "芯片出口管制",
+        "黄仁勋"
+      ]
+    }
+  },
+  {
     "id": "20261115-choi-cathay-hackathon-closing",
     "category": "tech",
     "published_at": "2026-11-15T18:00:00+08:00",
@@ -285,6 +457,49 @@
         "能源",
         "石油",
         "亚洲"
+      ]
+    }
+  },
+  {
+    "id": "20261115-arts-in-the-park-grand-finale",
+    "category": "hk",
+    "published_at": "2026-11-15T16:39:00+08:00",
+    "source": {
+      "name": "Dim Sum Daily",
+      "url": "https://www.dimsumdaily.hk/night-parade-brings-fairytales-to-life-in-causeway-bay-as-crowds-gather/"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Arts in the Park Night Parade Lights Up Causeway Bay as Grand Finale Parade Brings 500 Young Performers to the Streets Today",
+      "zh_hant": "渣打藝聚公園夜巡昨晚銅鑼灣登場 五巨型木偶照亮童話夜 今午大巡遊500青年壓軸",
+      "zh_hans": "渣打艺聚公园夜巡昨晚铜锣湾登场 五巨型木偶照亮童话夜 今午大巡游500青年压轴"
+    },
+    "summary": {
+      "en": "The Standard Chartered Arts in the Park 2026 Night Parade transformed the Lee Gardens area in Causeway Bay last night, with five illuminated giant puppets bringing classic fairytales to life and a juggling team, marching band and rope-skipping troupe joining the procession for the first time, drawing large crowds of residents and overseas visitors. This year's cast expanded to more than 150 performers, about one and a half times the size of previous editions. The Grand Finale Parade begins at 2.30pm today in Victoria Park, with ten four-metre-tall giant puppets hand-crafted by local students and professional artists, joined by more than 500 young performers.",
+      "zh_hant": "渣打藝聚公園2026夜巡昨晚在銅鑼灣利園區登場，五座發光巨型木偶演繹經典童話故事，雜耍隊、步操樂隊及跳繩隊首次加入巡遊，吸引大批市民及海外遊客。演出陣容增至逾150人，約為往屆一點五倍。今午2時半壓軸大巡遊在維園起步，沿記利佐治街經崇光至東角道折返，十座四米高巨型木偶由本地學生及專業藝術家親手製作，逾500名青年表演者參與。",
+      "zh_hans": "渣打艺聚公园2026夜巡昨晚在铜锣湾利园区登场，五座发光巨型木偶演绎经典童话故事，杂耍队、步操乐队及跳绳队首次加入巡游，吸引大批市民及海外游客。演出阵容增至逾150人，约为往届一点五倍。今午2时半压轴大巡游在维园起步，沿记利佐治街经崇光至东角道折返，十座四米高巨型木偶由本地学生及专业艺术家亲手制作，逾500名青年表演者参与。"
+    },
+    "tags": {
+      "en": [
+        "Arts in the Park",
+        "Causeway Bay",
+        "night parade",
+        "giant puppets",
+        "Victoria Park"
+      ],
+      "zh_hant": [
+        "藝聚公園",
+        "銅鑼灣",
+        "夜巡",
+        "巨型木偶",
+        "維園"
+      ],
+      "zh_hans": [
+        "艺聚公园",
+        "铜锣湾",
+        "夜巡",
+        "巨型木偶",
+        "维园"
       ]
     }
   },
@@ -982,6 +1197,49 @@
     }
   },
   {
+    "id": "20261115-us-lawmakers-nvidia-chip-curbs-ndaa",
+    "category": "finance",
+    "published_at": "2026-11-15T10:34:00+08:00",
+    "source": {
+      "name": "商業電台",
+      "url": "https://www.881903.com/news/international/2659557"
+    },
+    "image_url": "",
+    "title": {
+      "en": "US Lawmakers Seize on Huang's Exit to Push Chip Export Curbs Into Defence Bill and Urge Nvidia's New Leadership to Put National Security First",
+      "zh_hant": "美議員藉黃仁勳下台發難 擬將晶片出口管制寫入國防法案 輝達新帥被促國家安全行先",
+      "zh_hans": "美议员藉黄仁勋下台发难 拟将芯片出口管制写入国防法案 辉达新帅被促国家安全行先"
+    },
+    "summary": {
+      "en": "China hawks in the US Congress are seizing on Nvidia chief executive Jensen Huang's resignation to push tighter AI chip export restrictions into the year-end defence bill, including requiring chips to be able to detect smuggling and restricting China's access to chipmaking equipment. John Moolenaar, chairman of the House Select Committee on China, called on Nvidia's new leadership to put national security first. CNN reported that US intelligence agencies, while investigating Huang Le early this year, had already found she was having an affair with an American man, later revealed to be Huang; Secretary of State Marco Rubio briefed President Donald Trump verbally about the matter on Air Force One in May.",
+      "zh_hant": "美國國會對華鷹派藉輝達行政總裁黃仁勳辭任，重新推動將收緊AI晶片出口的措施納入年底國防法案，包括要求晶片具備偵測走私功能及限制中國取得晶片製造設備。眾議院中國問題特別委員會主席穆勒納爾呼籲，輝達新領導層必須將國家安全放在首位。另據美國有線新聞網報道，情報機構早於今年初調查黃樂時，已發現她與一名美國男子有婚外情，其後揭露對方是黃仁勳；國務卿魯比奧今年5月曾在空軍一號上向總統特朗普口頭簡報事件。",
+      "zh_hans": "美国国会对华鹰派藉辉达行政总裁黄仁勋辞任，重新推动将收紧AI芯片出口的措施纳入年底国防法案，包括要求芯片具备侦测走私功能及限制中国取得芯片制造设备。众议院中国问题特别委员会主席穆勒纳尔呼吁，辉达新领导层必须将国家安全放在首位。另据美国有线新闻网报道，情报机构早于今年初调查黄乐时，已发现她与一名美国男子有婚外情，其后揭露对方是黄仁勋；国务卿鲁比奥今年5月曾在空军一号上向总统特朗普口头简报事件。"
+    },
+    "tags": {
+      "en": [
+        "Nvidia",
+        "Jensen Huang",
+        "chip export controls",
+        "US Congress",
+        "defence bill"
+      ],
+      "zh_hant": [
+        "輝達",
+        "黃仁勳",
+        "晶片出口管制",
+        "美國國會",
+        "國防法案"
+      ],
+      "zh_hans": [
+        "辉达",
+        "黄仁勋",
+        "芯片出口管制",
+        "美国国会",
+        "国防法案"
+      ]
+    }
+  },
+  {
     "id": "20261115-un-fertilizer-hormuz",
     "category": "world",
     "published_at": "2026-11-15T10:06:00+08:00",
@@ -1019,6 +1277,49 @@
         "化肥",
         "联合国",
         "粮食危机"
+      ]
+    }
+  },
+  {
+    "id": "20261115-france-protests-fifth-weekend",
+    "category": "world",
+    "published_at": "2026-11-15T09:48:00+08:00",
+    "source": {
+      "name": "商業電台",
+      "url": "https://www.881903.com/news/international/2659556"
+    },
+    "image_url": "",
+    "title": {
+      "en": "France Sees Fifth Straight Weekend of Nationwide Protests as Some Turn Violent and 220 Are Detained",
+      "zh_hant": "法國連續五個周末全國示威 部分演變成衝突 220人被拘 葡萄牙32城同步上街",
+      "zh_hans": "法国连续五个周末全国示威 部分演变成冲突 220人被拘 葡萄牙32城同步上街"
+    },
+    "summary": {
+      "en": "France has seen nationwide protests for a fifth consecutive weekend, with some turning violent. The Interior Ministry said around 106,000 people took to the streets nationwide, including 24,000 in Paris, the smallest turnout in recent weeks, while unions put the figure at 200,000. Protesters are demonstrating against the rising cost of living and against greater legal protections for police; in Paris, Bordeaux and Nantes, police fired tear gas after protesters set off fireworks, and nearly 220 people were detained nationwide. In Portugal, protests also erupted in 32 cities, demanding stronger rent controls and more investment in affordable public housing.",
+      "zh_hant": "法國連續第五個周末爆發全國示威，部分演變成衝突。內政部指全國約10.6萬人上街，巴黎有2.4萬人，是近幾星期最少；工會則稱有20萬人參與。示威者抗議生活成本上漲，亦不滿警察獲得更多法律保護；巴黎、波爾多和南特均有示威者施放煙火後警方發射催淚氣體，全國近220人被拘留。葡萄牙全國32個城市同日亦爆發示威，要求政府加強租金管制及增加可負擔公營房屋。",
+      "zh_hans": "法国连续第五个周末爆发全国示威，部分演变成冲突。内政部指全国约10.6万人上街，巴黎有2.4万人，是近几星期最少；工会则称有20万人参与。示威者抗议生活成本上涨，亦不满警察获得更多法律保护；巴黎、波尔多和南特均有示威者施放烟火后警方发射催泪气体，全国近220人被拘留。葡萄牙全国32个城市同日亦爆发示威，要求政府加强租金管制及增加可负担公营房屋。"
+    },
+    "tags": {
+      "en": [
+        "France",
+        "protests",
+        "cost of living",
+        "Portugal",
+        "rent controls"
+      ],
+      "zh_hant": [
+        "法國",
+        "示威",
+        "生活成本",
+        "葡萄牙",
+        "租金管制"
+      ],
+      "zh_hans": [
+        "法国",
+        "示威",
+        "生活成本",
+        "葡萄牙",
+        "租金管制"
       ]
     }
   },
