@@ -121,6 +121,126 @@
     }
   },
   {
+    "id": "20261116-nikkei-falls-460-kospi-down",
+    "category": "finance",
+    "published_at": "2026-11-16T08:38:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877926-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Nikkei Gives Up Early Gains to Fall as Much as 460 Points, Down 0.5% at 60,834",
+      "zh_hant": "日股高開低走曾瀉460點 報60834點跌半成",
+      "zh_hans": "日股高开低走曾泻460点 报60834点跌半成"
+    },
+    "summary": {
+      "en": "Japanese and South Korean stocks started Monday on a soft note. Japan's Nikkei 225 opened higher but reversed course, falling as much as 460 points in early trading before paring losses to 308 points at 60,834, down 0.5%. South Korea's KOSPI was down 11 points, or 0.22%, at 5,279.",
+      "zh_hant": "日韓股市今早初段偏軟。日經指數高開低走，初段曾跌460點，較早時報60834點，跌308點，跌幅0.5%。首爾綜合指數報5279點，跌11點，跌幅0.22%。",
+      "zh_hans": "日韩股市今早初段偏软。日经指数高开低走，初段曾跌460点，较早时报60834点，跌308点，跌幅0.5%。首尔综合指数报5279点，跌11点，跌幅0.22%。"
+    },
+    "tags": {
+      "en": [
+        "Nikkei",
+        "KOSPI",
+        "Japan Stocks",
+        "Korea Stocks"
+      ],
+      "zh_hant": [
+        "日經指數",
+        "韓股",
+        "日股",
+        "亞洲股市"
+      ],
+      "zh_hans": [
+        "日经指数",
+        "韩股",
+        "日股",
+        "亚洲股市"
+      ]
+    }
+  },
+  {
+    "id": "20261116-huang-discusses-nvidia-return-ft",
+    "category": "finance",
+    "published_at": "2026-11-16T07:41:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877921-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Huang Reportedly Discusses Returning as Nvidia CEO as Bessent Gives Board 10 Days to Respond",
+      "zh_hant": "傳黃仁勳考慮重返Nvidia掌舵 貝森特限董事會10日內交代",
+      "zh_hans": "传黄仁勋考虑重返Nvidia掌舵 贝森特限董事会10日内交代"
+    },
+    "summary": {
+      "en": "Jensen Huang is considering returning as chief executive of Nvidia and has discussed the possibility with people close to him, the Financial Times reported, citing sources, with Silicon Valley executives reportedly assembling a team to lobby for his return and seek White House support. A petition website has called on Nvidia's board to reinstate Huang, and billionaire Elon Musk has publicly backed the move. US Treasury Secretary Scott Bessent said on Sunday that Nvidia must look outside the company for a new chief executive and that the board and its outside counsel must respond within 10 days on the company's compliance culture around export controls. Foreign media also reported that the board has approached ARM chief executive Rene Haas as a potential successor, though the board said no formal process has begun.",
+      "zh_hant": "英國《金融時報》引述消息人士報道，黃仁勳正考慮重返Nvidia擔任行政總裁，並已與身邊人士討論可能性；據報矽谷科技業高層正籌組團隊游說他回巢，並試圖爭取白宮支持。近日有網站發起聯署要求董事會恢復黃仁勳職務，富商馬斯克亦公開表態支持。美國財長貝森特周日表示，Nvidia必須從外部尋找新任行政總裁，董事會與外部法律顧問須在10天內就公司遵守出口限制的企業文化問題作出回應；另有報道指董事會已接觸ARM行政總裁Rene Haas作潛在繼任人，董事會則稱尚未啟動任何正式程序。",
+      "zh_hans": "英国《金融时报》引述消息人士报道，黄仁勋正考虑重返Nvidia担任行政总裁，并已与身边人士讨论可能性；据报硅谷科技业高层正筹组团队游说他回巢，并试图争取白宫支持。近日有网站发起联署要求董事会恢复黄仁勋职务，富商马斯克亦公开表态支持。美国财长贝森特周日表示，Nvidia必须从外部寻找新任行政总裁，董事会与外部法律顾问须在10天内就公司遵守出口限制的企业文化问题作出回应；另有报道指董事会已接触ARM行政总裁Rene Haas作潜在继任人，董事会则称尚未启动任何正式程序。"
+    },
+    "tags": {
+      "en": [
+        "Nvidia",
+        "Jensen Huang",
+        "CEO",
+        "ARM"
+      ],
+      "zh_hant": [
+        "Nvidia",
+        "黃仁勳",
+        "行政總裁",
+        "ARM"
+      ],
+      "zh_hans": [
+        "Nvidia",
+        "黄仁勋",
+        "行政总裁",
+        "ARM"
+      ]
+    }
+  },
+  {
+    "id": "20261116-vulcan-rocket-amazon-satellites-fail",
+    "category": "tech",
+    "published_at": "2026-11-16T07:31:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877919-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Vulcan Rocket Malfunctions 10 Minutes After Liftoff, Failing to Deliver 40 Amazon Satellites to Orbit",
+      "zh_hant": "火神火箭升空10分鐘出事 40顆亞馬遜衛星送唔到軌道",
+      "zh_hans": "火神火箭升空10分钟出事 40颗亚马逊卫星送不到轨道"
+    },
+    "summary": {
+      "en": "United Launch Alliance's Vulcan rocket suffered an anomaly about 10 minutes after liftoff on Sunday on its first mission to launch Amazon's low-Earth-orbit satellites, failing to deliver the 40 broadband satellites to their planned orbit. The rocket lifted off from Cape Canaveral Space Force Station in Florida at around 12:40pm Eastern Time, and the company confirmed the anomaly from flight data, saying it would work with the customer and other agencies to determine the cause and corrective measures. The mission was the first of 38 contracted Vulcan launches for Amazon, whose satellite broadband project aims to deploy thousands of satellites in low Earth orbit to provide fast, reliable internet services worldwide.",
+      "zh_hant": "美國聯合發射聯盟公司的「火神」運載火箭，當地星期日首次執行亞馬遜低地軌道衛星發射任務，但升空約10分鐘後出現異常，未能將搭載的40顆寬頻通信衛星送入預定軌道。火箭於美國東部時間當日中午12時40分左右，從佛羅里達州卡納維拉爾角太空軍基地發射升空，公司其後根據飛行數據確認異常，將與客戶及其他相關機構密切合作查明原因，確定相應糾正措施。今次任務是聯合發射聯盟與亞馬遜簽訂的38次「火神」火箭發射合約中的首次任務，亞馬遜的衛星寬頻網絡項目目標是通過在低地軌道部署幾千顆衛星，為全球用戶提供快速、可靠的互聯網服務。",
+      "zh_hans": "美国联合发射联盟公司的「火神」运载火箭，当地星期日首次执行亚马逊低地轨道卫星发射任务，但升空约10分钟后出现异常，未能将搭载的40颗宽频通信卫星送入预定轨道。火箭于美国东部时间当日中午12时40分左右，从佛罗里达州卡纳维拉尔角太空军基地发射升空，公司其后根据飞行数据确认异常，将与客户及其他相关机构密切合作查明原因，确定相应纠正措施。今次任务是联合发射联盟与亚马逊签订的38次「火神」火箭发射合约中的首次任务，亚马逊的卫星宽频网络项目目标是通过在低地轨道部署几千颗卫星，为全球用户提供快速、可靠的互联网服务。"
+    },
+    "tags": {
+      "en": [
+        "Vulcan Rocket",
+        "Amazon",
+        "Satellites",
+        "ULA"
+      ],
+      "zh_hant": [
+        "火神火箭",
+        "亞馬遜",
+        "衛星",
+        "ULA"
+      ],
+      "zh_hans": [
+        "火神火箭",
+        "亚马逊",
+        "卫星",
+        "ULA"
+      ]
+    }
+  },
+  {
     "id": "20261116-nvidia-week-focus-anthropic-ipo",
     "category": "finance",
     "published_at": "2026-11-16T06:19:00+08:00",
