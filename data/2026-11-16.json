@@ -121,6 +121,286 @@
     }
   },
   {
+    "id": "20261116-china-property-investment-record-fall",
+    "category": "china",
+    "published_at": "2026-11-16T10:25:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877946-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "China's Property Investment Falls 21.6% in First 10 Months, Biggest Drop on Record",
+      "zh_hant": "內地房地產投資首10月跌21.6% 再創歷來最大跌幅 銷售面積跌13.7%",
+      "zh_hans": "内地房地产投资首10月跌21.6% 再创历来最大跌幅 销售面积跌13.7%"
+    },
+    "summary": {
+      "en": "National Bureau of Statistics data show property development investment in China fell 21.6% year on year in the first 10 months, the biggest drop on record, with the decline widening by 1 percentage point from the first nine months. New commercial housing sales area and sales value fell 13.7% and 14.3% respectively over the same period. The bureau said funds available to property developers fell 21.9%, while the decline in new construction starts narrowed to 24.4%.",
+      "zh_hant": "國家統計局數據顯示，內地首10個月房地產開發投資按年跌21.6%，再創歷來最大跌幅，跌幅比首9個月擴大1個百分點。期內新建商品房銷售面積及銷售額，按年分別跌13.7%及14.3%。統計局指出，房地產開發企業到位資金按年跌幅擴大至21.9%，新開工面積跌幅收窄至24.4%。",
+      "zh_hans": "国家统计局数据显示，内地首10个月房地产开发投资按年跌21.6%，再创历来最大跌幅，跌幅比首9个月扩大1个百分点。期内新建商品房销售面积及销售额，按年分别跌13.7%及14.3%。统计局指出，房地产开发企业到位资金按年跌幅扩大至21.9%，新开工面积跌幅收窄至24.4%。"
+    },
+    "tags": {
+      "en": [
+        "Property",
+        "Housing Market",
+        "NBS",
+        "Investment"
+      ],
+      "zh_hant": [
+        "房地產",
+        "樓市",
+        "國家統計局",
+        "投資"
+      ],
+      "zh_hans": [
+        "房地产",
+        "楼市",
+        "国家统计局",
+        "投资"
+      ]
+    }
+  },
+  {
+    "id": "20261116-china-oct-economy-slows",
+    "category": "china",
+    "published_at": "2026-11-16T10:20:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877945-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "China's October Economy Slows Further as Retail Sales Rise Just 0.4% and Fixed Investment Falls 8.1%",
+      "zh_hant": "內地10月經濟再放緩 消費僅升0.4%固投跌8.1% 官方認供強需弱仍突出",
+      "zh_hans": "内地10月经济再放缓 消费仅升0.4%固投跌8.1% 官方认供强需弱仍突出"
+    },
+    "summary": {
+      "en": "China's key October economic indicators slowed again and came in below expectations. Retail sales rose 0.4% year on year, 0.7 percentage points slower than in September, while industrial output grew 4.8%, also 0.7 points slower. Fixed-asset investment in the first 10 months fell 8.1% year on year, with the decline widening by 0.9 points from the first nine months. The National Bureau of Statistics said the economy remained generally stable in October, but weak domestic demand relative to supply was still pronounced and some enterprises faced operational difficulties.",
+      "zh_hant": "內地10月主要經濟數據再度放緩，並低於預期。社會消費品零售總額按年增長0.4%，比9月減慢0.7個百分點；規模以上工業增加值增長4.8%，放緩0.7個百分點。首10個月固定資產投資按年跌8.1%，跌幅比首9個月擴大0.9個百分點。國家統計局表示，10月國民經濟總體平穩，但國內供強需弱仍較突出，部分企業生產經營困難，仍要鞏固經濟穩中向好基礎。",
+      "zh_hans": "内地10月主要经济数据再度放缓，并低于预期。社会消费品零售总额按年增长0.4%，比9月减慢0.7个百分点；规模以上工业增加值增长4.8%，放缓0.7个百分点。首10个月固定资产投资按年跌8.1%，跌幅比首9个月扩大0.9个百分点。国家统计局表示，10月国民经济总体平稳，但国内供强需弱仍较突出，部分企业生产经营困难，仍要巩固经济稳中向好基础。"
+    },
+    "tags": {
+      "en": [
+        "China Economy",
+        "Retail Sales",
+        "Fixed Investment",
+        "NBS"
+      ],
+      "zh_hant": [
+        "內地經濟",
+        "消費",
+        "固定資產投資",
+        "國家統計局"
+      ],
+      "zh_hans": [
+        "内地经济",
+        "消费",
+        "固定资产投资",
+        "国家统计局"
+      ]
+    }
+  },
+  {
+    "id": "20261116-japan-q3-gdp-contracts",
+    "category": "world",
+    "published_at": "2026-11-16T09:47:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877935-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Japan's Economy Contracts 0.1% Annualised in Q3, First Shrinkage in a Year as Consumption Falls",
+      "zh_hant": "日本第三季經濟年率跌0.1% 一年來首現收縮 私人消費跌0.3%拖累",
+      "zh_hans": "日本第三季经济年率跌0.1% 一年来首现收缩 私人消费跌0.3%拖累"
+    },
+    "summary": {
+      "en": "Japan's economy shrank 0.1% on an annualised basis in the third quarter, its first contraction in four quarters and far worse than the market's forecast of 0.3% growth, and well below the revised 1.7% growth in the second quarter. Real GDP was flat quarter on quarter. Persistent inflation dragged private consumption down 0.3%; domestic demand contributed 0.6 percentage points to growth while external demand dragged it by 0.6 points. Capital expenditure rose 1.6%, slightly above expectations, boosted by AI-related investment.",
+      "zh_hant": "日本第3季經濟以年率計按季跌0.1%，是4個季度以來首次收縮，遠差過市場原先估計增長0.3%，亦遠差於第2季經修訂後的增長1.7%。撇除物價變動，第3季實質國內生產總值按季持平。通脹壓力持續拖累私人消費跌0.3%，內需對經濟貢獻0.6個百分點，外需則拖累0.6個百分點；不過資本開支增長1.6%，略高於預期，受惠人工智能相關項目投資帶動。",
+      "zh_hans": "日本第3季经济以年率计按季跌0.1%，是4个季度以来首次收缩，远差过市场原先估计增长0.3%，亦远差于第2季经修订后的增长1.7%。撇除物价变动，第3季实质国内生产总值按季持平。通胀压力持续拖累私人消费跌0.3%，内需对经济贡献0.6个百分点，外需则拖累0.6个百分点；不过资本开支增长1.6%，略高于预期，受惠人工智能相关项目投资带动。"
+    },
+    "tags": {
+      "en": [
+        "Japan Economy",
+        "GDP",
+        "Inflation",
+        "Consumption"
+      ],
+      "zh_hant": [
+        "日本經濟",
+        "GDP",
+        "通脹",
+        "私人消費"
+      ],
+      "zh_hans": [
+        "日本经济",
+        "GDP",
+        "通胀",
+        "私人消费"
+      ]
+    }
+  },
+  {
+    "id": "20261116-hsi-new-world-plunges-45",
+    "category": "finance",
+    "published_at": "2026-11-16T09:24:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877938-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Hang Seng Opens 71 Points Higher as New World Plunges Over 45% on Resumption After HK$24.9bn Rights Issue",
+      "zh_hant": "港股升71點開市 新世界復牌急挫逾45% 1供11集資249億折讓逾八成",
+      "zh_hans": "港股升71点开市 新世界复牌急挫逾45% 1供11集资249亿折让逾八成"
+    },
+    "summary": {
+      "en": "Hong Kong stocks opened steady, with the Hang Seng Index at 23,708 in the opening auction, up 71 points or 0.3%, while the tech index was at 3,828, up 15 points or 0.41%. New World Development resumed trading at HK$2.655, plunging over 45% at the open. The group announced last night a 1-for-11 rights issue to raise HK$24.9 billion at HK$0.90 per share, a discount of more than 81% to Friday's closing price.",
+      "zh_hant": "港股開市靠穩，恒生指數競價時段報23708點，升71點，升幅0.3%；科技指數報3828點，升15點，升幅0.41%。新世界發展復牌，開市報2.655元，急挫逾45%。集團昨晚宣布，以1供11股方式供股集資249億元，每股供股價0.9元，較上星期五收市價折讓逾81%。",
+      "zh_hans": "港股开市靠稳，恒生指数竞价时段报23708点，升71点，升幅0.3%；科技指数报3828点，升15点，升幅0.41%。新世界发展复牌，开市报2.655元，急挫逾45%。集团昨晚宣布，以1供11股方式供股集资249亿元，每股供股价0.9元，较上星期五收市价折让逾81%。"
+    },
+    "tags": {
+      "en": [
+        "Hang Seng",
+        "New World",
+        "Rights Issue",
+        "Hong Kong Stocks"
+      ],
+      "zh_hant": [
+        "港股",
+        "新世界",
+        "供股",
+        "恒生指數"
+      ],
+      "zh_hans": [
+        "港股",
+        "新世界",
+        "供股",
+        "恒生指数"
+      ]
+    }
+  },
+  {
+    "id": "20261116-xi-putin-trump-shenzhen-thursday",
+    "category": "china",
+    "published_at": "2026-11-16T09:11:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877934-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Xi to Meet Putin and Trump in Shenzhen on Thursday, With US-Iran War and Nuclear Cuts on Agenda",
+      "zh_hant": "習近平周四深圳會晤普京特朗普 三方聚焦美伊戰事及削減核武",
+      "zh_hans": "习近平周四深圳会晤普京特朗普 三方聚焦美伊战事及削减核武"
+    },
+    "summary": {
+      "en": "Foreign Ministry spokesperson announced that President Xi Jinping will meet Russian President Vladimir Putin and US President Donald Trump in Shenzhen on Thursday for a trilateral China-Russia-US leaders' meeting. The Kremlin said earlier that the three sides had agreed to hold the talks during the APEC summit in Shenzhen, and the White House said Trump will discuss the US-Iran war and nuclear arms reductions with Xi and Putin.",
+      "zh_hant": "外交部發言人宣布，國家主席習近平將於星期四在深圳，與俄羅斯總統普京及美國總統特朗普舉行中俄美元首會晤。俄羅斯克里姆林宮較早時表示，三方已達成一致，將在深圳舉行的亞太經合組織峰會期間舉行三方會談。美國白宮早前亦表示，特朗普將與習近平及普京討論美伊戰事及削減核武問題。",
+      "zh_hans": "外交部发言人宣布，国家主席习近平将于星期四在深圳，与俄罗斯总统普京及美国总统特朗普举行中俄美元首会晤。俄罗斯克里姆林宫较早时表示，三方已达成一致，将在深圳举行的亚太经合组织峰会期间举行三方会谈。美国白宫早前亦表示，特朗普将与习近平及普京讨论美伊战事及削减核武问题。"
+    },
+    "tags": {
+      "en": [
+        "Xi Jinping",
+        "Putin",
+        "Trump",
+        "APEC"
+      ],
+      "zh_hant": [
+        "習近平",
+        "普京",
+        "特朗普",
+        "APEC"
+      ],
+      "zh_hans": [
+        "习近平",
+        "普京",
+        "特朗普",
+        "APEC"
+      ]
+    }
+  },
+  {
+    "id": "20261116-paperless-securities-launch",
+    "category": "finance",
+    "published_at": "2026-11-16T08:55:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877930-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Paperless Securities Market Takes Effect Today as Real-Name IPO Applicants No Longer Get Share Certificates",
+      "zh_hant": "無紙證券市場今日實施 實名抽新股唔再收實物股票 2700公司五年內分批無紙化",
+      "zh_hans": "无纸证券市场今日实施 实名抽新股不再收实物股票 2700公司五年内分批无纸化"
+    },
+    "summary": {
+      "en": "Hong Kong's paperless securities market takes effect today, a milestone for the market. Investors can now hold shares electronically in their own name and will no longer hold physical share certificates. The SFC said the IPO market is the first to go paperless: investors applying for new shares in their own name under the white form will not receive a physical certificate; their holdings will be recorded electronically in an e-IPO account at the share registrar. More than 2,700 listed companies incorporated in the mainland, Hong Kong, Bermuda or the Cayman Islands will go paperless in batches over five years, with the first batch expected in February next year. The SFC warned investors to beware of fraudsters impersonating brokers, banks or SFC staff to obtain personal information.",
+      "zh_hant": "香港今日起實施無紙證券市場，踏入市場發展重要里程碑。投資者今後可以用電子方式，以自己名義持有股票，不再持有實物股票。證監會表示，率先參與無紙化的是新股市場，投資者以「白表」實名抽新股，不會收到實物股票，而是以電子方式記錄在股份過戶處的「持股易」戶口。現時在內地、香港、百慕達或開曼群島註冊、在港上市的2700多間上市公司實物股票，將在5年內分批落實無紙化，首批預計明年2月無紙化。證監會提醒投資者提防騙徒冒充經紀、銀行甚至證監會職員索取個人資料。",
+      "zh_hans": "香港今日起实施无纸证券市场，踏入市场发展重要里程碑。投资者今后可以用电子方式，以自己名义持有股票，不再持有实物股票。证监会表示，率先参与无纸化的是新股市场，投资者以「白表」实名抽新股，不会收到实物股票，而是以电子方式记录在股份过户处的「持股易」户口。现时在内地、香港、百慕达或开曼群岛注册、在港上市的2700多间上市公司实物股票，将在5年内分批落实无纸化，首批预计明年2月无纸化。证监会提醒投资者提防骗徒冒充经纪、银行甚至证监会职员索取个人资料。"
+    },
+    "tags": {
+      "en": [
+        "Paperless Securities",
+        "SFC",
+        "IPO",
+        "Share Certificates"
+      ],
+      "zh_hant": [
+        "無紙證券",
+        "證監會",
+        "新股",
+        "持股易"
+      ],
+      "zh_hans": [
+        "无纸证券",
+        "证监会",
+        "新股",
+        "持股易"
+      ]
+    }
+  },
+  {
+    "id": "20261116-hkex-offshore-rmb-bond-index",
+    "category": "finance",
+    "published_at": "2026-11-16T08:54:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877929-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "HKEX Launches Offshore Yuan Bond Index, Its First Named Fixed-Income Benchmark, as Dim Sum Market Tops RMB590bn",
+      "zh_hant": "港交所推離岸人民幣債券指數 首個冠名固收指數 點心債規模逾5900億",
+      "zh_hans": "港交所推离岸人民币债券指数 首个冠名固收指数 点心债规模逾5900亿"
+    },
+    "summary": {
+      "en": "HKEX has launched an offshore yuan bond index, its first named fixed-income index and Hong Kong's first benchmark tracking dim sum bonds issued in the city, giving investors a transparent and representative market reference and supporting product innovation. HKEX is working with Bloomberg on index management, calculation and promotion, and several asset managers have completed index licensing arrangements and are preparing ETFs and index funds tracking the index. As of the end of September, offshore yuan bond issuance exceeded RMB590 billion; total bonds issued on HKEX this year is up 18.6% on last year's full-year total.",
+      "zh_hant": "港交所推出離岸人民幣債券指數，是交易所首個冠名固定收益指數，也是香港首個追蹤在港發行點心債的基準指數，為投資者提供透明且具代表性的市場參考，並支持產品創新。港交所與彭博合作支持指數管理、計算及推廣發展，多家資產管理公司已完成指數授權安排，並積極籌備推出相關交易所買賣基金及指數基金。截至9月底，離岸人民幣債券發行規模逾5900億元人民幣，今年在港交所發行債券的總額較去年全年增加18.6%。",
+      "zh_hans": "港交所推出离岸人民币债券指数，是交易所首个冠名固定收益指数，也是香港首个追踪在港发行点心债的基准指数，为投资者提供透明且具代表性的市场参考，并支持产品创新。港交所与彭博合作支持指数管理、计算及推广发展，多家资产管理公司已完成指数授权安排，并积极筹备推出相关交易所买卖基金及指数基金。截至9月底，离岸人民币债券发行规模逾5900亿元人民币，今年在港交所发行债券的总额较去年全年增加18.6%。"
+    },
+    "tags": {
+      "en": [
+        "HKEX",
+        "Offshore Yuan",
+        "Dim Sum Bonds",
+        "Bond Index"
+      ],
+      "zh_hant": [
+        "港交所",
+        "離岸人民幣",
+        "點心債",
+        "債券指數"
+      ],
+      "zh_hans": [
+        "港交所",
+        "离岸人民币",
+        "点心债",
+        "债券指数"
+      ]
+    }
+  },
+  {
     "id": "20261116-nikkei-falls-460-kospi-down",
     "category": "finance",
     "published_at": "2026-11-16T08:38:00+08:00",
