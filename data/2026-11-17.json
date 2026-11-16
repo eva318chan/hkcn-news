@@ -1,5 +1,153 @@
 [
   {
+    "id": "20261117-us-ai-chip-rule-third-country",
+    "category": "tech",
+    "published_at": "2026-11-17T06:31:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878056-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "US Unveils New Rule to Block Remote Use of Advanced AI Chips via Third Countries | China Access May Be Affected",
+      "zh_hant": "美國出新規堵截AI晶片轉口 第三國遙距調用亦受限 或影響中國取貨",
+      "zh_hans": "美国出新规堵截AI芯片转口 第三国遥距调用亦受限 或影响中国取货"
+    },
+    "summary": {
+      "en": "The US Department of Commerce has announced a new rule to prevent third countries from remotely using advanced artificial intelligence chips, closing a loophole that could circumvent existing restrictions. The department said the rule aims to ensure that remote computing through data centres in third countries cannot be used to evade US limits on sensitive technology. Reuters reported the rule may affect China's access to advanced AI chips. Beijing's foreign ministry said last week that China firmly opposes the US generalising national security, creating discriminatory lists under various pretexts and unjustifiably suppressing Chinese entities.",
+      "zh_hant": "美國商務部宣布新規定，防止第三方國家遙距調用先進人工智能晶片，堵塞繞過現有限制的漏洞。商務部表示，新規定旨在確保不能透過第三方國家數據中心的遙距計算，規避美國對敏感技術使用的限制。路透社報道，新規定可能會影響中國獲取先進人工智能晶片。中國外交部上星期表示，中方在美國輸華晶片問題上立場一貫，堅決反對美方泛化國家安全概念，劃設各種名目的歧視清單，無理打壓中國機構。",
+      "zh_hans": "美国商务部宣布新规定，防止第三方国家遥距调用先进人工智能芯片，堵塞绕过现有限制的漏洞。商务部表示，新规定旨在确保不能透过第三方国家数据中心的遥距计算，规避美国对敏感技术使用的限制。路透社报道，新规定可能会影响中国获取先进人工智能芯片。中国外交部上星期表示，中方在美国输华芯片问题上立场一贯，坚决反对美方泛化国家安全概念，划设各种名目的歧视清单，无理打压中国机构。"
+    },
+    "tags": {
+      "en": [
+        "AI chips",
+        "US Commerce Department",
+        "export controls"
+      ],
+      "zh_hant": [
+        "AI晶片",
+        "美國商務部",
+        "出口管制"
+      ],
+      "zh_hans": [
+        "AI芯片",
+        "美国商务部",
+        "出口管制"
+      ]
+    }
+  },
+  {
+    "id": "20261117-us-stocks-dow-739-nvidia-board",
+    "category": "finance",
+    "published_at": "2026-11-17T05:39:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878054-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "US Stocks Plunge as Dow Tumbles 739 Points Below 52,000 | Nvidia Board Reportedly Has No Plans to Bring Back Huang",
+      "zh_hant": "美股三大指數急挫 道指瀉739點失守52000關 傳Nvidia董事會無意請回黃仁勳",
+      "zh_hans": "美股三大指数急挫 道指泻739点失守52000关 传Nvidia董事会无意请回黄仁勋"
+    },
+    "summary": {
+      "en": "US stocks fell sharply on Monday, with all three major indices down more than 1% to over 2% to their lowest in more than a week. The Dow Jones Industrial Average closed at 51,608, down 739 points or 1.4%, after briefly falling below 52,000; the S&P 500 fell 1.9% to 7,416 and the Nasdaq dropped 2.5% to 24,509, the third straight daily fall for both. Chip stocks bore the brunt, with the Philadelphia Semiconductor Index plunging more than 5% and Nvidia down over 4% ahead of its earnings. Reuters cited sources as saying Nvidia's board has no intention of restoring Jensen Huang as chief executive, while US President Donald Trump said he was open to Huang returning.",
+      "zh_hant": "美股三大指數星期一齊跌逾1%至逾2%，創逾一星期新低。道瓊斯指數收報51,608點，跌739點，跌幅1.4%，一度失守52,000點；標普500指數跌1.9%，收報7,416點；納斯達克指數跌2.5%，收報24,509點，標普及納指連跌三日。晶片股成重災區，費城半導體指數急挫逾5%，Nvidia跌逾4%，市場觀望即將公布的業績。路透引述消息人士指，Nvidia董事會無意讓黃仁勳恢復擔任行政總裁；美國總統特朗普則表示，對黃仁勳重返Nvidia持開放態度。",
+      "zh_hans": "美股三大指数星期一齐跌逾1%至逾2%，创逾一星期新低。道琼斯指数收报51,608点，跌739点，跌幅1.4%，一度失守52,000点；标普500指数跌1.9%，收报7,416点；纳斯达克指数跌2.5%，收报24,509点，标普及纳指连跌三日。芯片股成重灾区，费城半导体指数急挫逾5%，Nvidia跌逾4%，市场观望即将公布的业绩。路透引述消息人士指，Nvidia董事会无意让黄仁勋恢复担任行政总裁；美国总统特朗普则表示，对黄仁勋重返Nvidia持开放态度。"
+    },
+    "tags": {
+      "en": [
+        "US stocks",
+        "Dow Jones",
+        "Nvidia"
+      ],
+      "zh_hant": [
+        "美股",
+        "道指",
+        "Nvidia"
+      ],
+      "zh_hans": [
+        "美股",
+        "道指",
+        "Nvidia"
+      ]
+    }
+  },
+  {
+    "id": "20261117-nathan-road-car-hits-taxis",
+    "category": "hk",
+    "published_at": "2026-11-17T05:29:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878053-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Car Fleeing Police Check on Nathan Road Hits Four Taxis in Early Hours | One Driver Hospitalised",
+      "zh_hant": "彌敦道凌晨驚魂 私家車疑避截查倒車撞四的士 一司機頸痛送院",
+      "zh_hans": "弥敦道凌晨惊魂 私家车疑避截查倒车撞四的士 一司机颈痛送院"
+    },
+    "summary": {
+      "en": "A traffic accident occurred on Nathan Road in the early hours, when a private car suspected of fleeing a police check hit four taxis as it drove away, sending one taxi driver to hospital. At about 1am, police were stopping suspicious vehicles near Nathan Road and Hillwood Road when the car apparently tried to evade the check, reversing towards Hillwood Road and hitting four taxis; one driver complained of neck pain and was taken to hospital, and police are still tracing the driver. The section of Nathan Road towards Salisbury Road between Hillwood Road and Austin Road was temporarily closed in both directions, with some bus routes diverted, until it reopened at about 3am.",
+      "zh_hant": "彌敦道凌晨發生交通意外，一架私家車懷疑逃避警方截查，駛離現場時撞到四架的士，一名的士司機送院。事發在凌晨約1時，警方在彌敦道近山林道一帶截查可疑車輛，涉事私家車懷疑逃避截查，倒車往山林道方向逃去，期間撞到四架的士，一名的士司機報稱頸痛送院，警方仍在追查涉案司機下落。受事故影響，彌敦道往梳士巴利道方向介乎山林道與柯士甸道之間一度全線封閉，部分巴士路線改道，至凌晨約3時全線解封。",
+      "zh_hans": "弥敦道凌晨发生交通意外，一架私家车怀疑逃避警方截查，驶离现场时撞到四架的士，一名的士司机送院。事发在凌晨约1时，警方在弥敦道近山林道一带截查可疑车辆，涉事私家车怀疑逃避截查，倒车往山林道方向逃去，期间撞到四架的士，一名的士司机报称颈痛送院，警方仍在追查涉案司机下落。受事故影响，弥敦道往梳士巴利道方向介乎山林道与柯士甸道之间一度全线封闭，部分巴士路线改道，至凌晨约3时全线解封。"
+    },
+    "tags": {
+      "en": [
+        "traffic accident",
+        "Nathan Road",
+        "police check"
+      ],
+      "zh_hant": [
+        "交通意外",
+        "彌敦道",
+        "警方截查"
+      ],
+      "zh_hans": [
+        "交通意外",
+        "弥敦道",
+        "警方截查"
+      ]
+    }
+  },
+  {
+    "id": "20261117-russia-trilateral-talks-continue",
+    "category": "world",
+    "published_at": "2026-11-17T05:08:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878052-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Russia Confirms Trilateral Talks Will Continue | European Participation Not Yet Negotiated",
+      "zh_hant": "俄方證實三方會談繼續開 歐洲參與未有商量 澤連斯基稱下輪歐洲加入",
+      "zh_hans": "俄方证实三方会谈继续开 欧洲参与未有商量 泽连斯基称下轮欧洲加入"
+    },
+    "summary": {
+      "en": "Russian presidential aide Yuri Ushakov has said Russia-US-Ukraine trilateral talks will continue, but Russia has not negotiated with any party on expanding the talks to include European countries. The three sides held talks in Abu Dhabi last week, reportedly with significant differences remaining on key issues. Ushakov said Abu Dhabi was a suitable venue, but several more rounds of trilateral talks may be needed before the format is expanded. Ukrainian President Volodymyr Zelenskyy earlier said Europe would send representatives to the next round directly, while European Council President Antonio Costa said the negotiating team would comprise the EU and representatives from the UK, France, Germany, Italy and Poland.",
+      "zh_hant": "俄羅斯總統助理烏沙科夫表示，會繼續舉行俄美烏三方會談，但是否擴大規模、加入歐洲國家參與，俄方暫時未與任何一方協商。俄美烏上星期在阿聯酋阿布扎比舉行三方會談，據報在關鍵問題上仍然有顯著分歧。烏沙科夫認為阿布扎比是適合的會談地點，但擴大談判規模之前可能要再舉行多輪三方會談。烏克蘭總統澤連斯基早前表示，歐洲將派代表直接參與下一輪三方會談；歐洲理事會主席科斯塔則說，談判團隊將由歐盟及英國、法國、德國、意大利和波蘭五國代表組成。",
+      "zh_hans": "俄罗斯总统助理乌沙科夫表示，会继续举行俄美乌三方会谈，但是否扩大规模、加入欧洲国家参与，俄方暂时未与任何一方协商。俄美乌上星期在阿联酋阿布扎比举行三方会谈，据报在关键问题上仍然有显著分歧。乌沙科夫认为阿布扎比是适合的会谈地点，但扩大谈判规模之前可能要再举行多轮三方会谈。乌克兰总统泽连斯基早前表示，欧洲将派代表直接参与下一轮三方会谈；欧洲理事会主席科斯塔则说，谈判团队将由欧盟及英国、法国、德国、意大利和波兰五国代表组成。"
+    },
+    "tags": {
+      "en": [
+        "Russia-Ukraine war",
+        "trilateral talks",
+        "Europe"
+      ],
+      "zh_hant": [
+        "俄烏戰爭",
+        "三方會談",
+        "歐洲"
+      ],
+      "zh_hans": [
+        "俄乌战争",
+        "三方会谈",
+        "欧洲"
+      ]
+    }
+  },
+  {
     "id": "20261117-pope-leo-south-america-visit-peru",
     "category": "world",
     "published_at": "2026-11-17T04:10:00+08:00",

@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>中港新聞速報</title><link>https://hkcnexpress.com</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Tue, 17 Nov 2026 04:44:40 +0800</lastBuildDate>
+<title>中港新聞速報</title><link>https://hkcnexpress.com/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Tue, 17 Nov 2026 06:51:33 +0800</lastBuildDate>
+<item>
+<title>美國出新規堵截AI晶片轉口 第三國遙距調用亦受限 或影響中國取貨</title>
+<link>https://hkcnexpress.com/a/20261117-us-ai-chip-rule-third-country.html</link>
+<guid>https://hkcnexpress.com/a/20261117-us-ai-chip-rule-third-country.html</guid>
+<pubDate>Tue, 17 Nov 2026 06:31:00 +0800</pubDate>
+<description>美國商務部宣布新規定，防止第三方國家遙距調用先進人工智能晶片，堵塞繞過現有限制的漏洞。商務部表示，新規定旨在確保不能透過第三方國家數據中心的遙距計算，規避美國對敏感技術使用的限制。路透社報道，新規定可能會影響中國獲取先進人工智能晶片。中國外交部上星期表示，中方在美國輸華晶片問題上立場一貫，堅決反對美方泛化國家安全概念，劃設各種名目的歧視清單，無理打壓中國機構。</description>
+</item>
+<item>
+<title>美股三大指數急挫 道指瀉739點失守52000關 傳Nvidia董事會無意請回黃仁勳</title>
+<link>https://hkcnexpress.com/a/20261117-us-stocks-dow-739-nvidia-board.html</link>
+<guid>https://hkcnexpress.com/a/20261117-us-stocks-dow-739-nvidia-board.html</guid>
+<pubDate>Tue, 17 Nov 2026 05:39:00 +0800</pubDate>
+<description>美股三大指數星期一齊跌逾1%至逾2%，創逾一星期新低。道瓊斯指數收報51,608點，跌739點，跌幅1.4%，一度失守52,000點；標普500指數跌1.9%，收報7,416點；納斯達克指數跌2.5%，收報24,509點，標普及納指連跌三日。晶片股成重災區，費城半導體指數急挫逾5%，Nvidia跌逾4%，市場觀望即將公布的業績。路透引述消息人士指，Nvidia董事會無意讓黃仁勳恢復擔任行政總裁；美國總統特朗普則表示，對黃仁勳重返Nvidia持開放態度。</description>
+</item>
+<item>
+<title>彌敦道凌晨驚魂 私家車疑避截查倒車撞四的士 一司機頸痛送院</title>
+<link>https://hkcnexpress.com/a/20261117-nathan-road-car-hits-taxis.html</link>
+<guid>https://hkcnexpress.com/a/20261117-nathan-road-car-hits-taxis.html</guid>
+<pubDate>Tue, 17 Nov 2026 05:29:00 +0800</pubDate>
+<description>彌敦道凌晨發生交通意外，一架私家車懷疑逃避警方截查，駛離現場時撞到四架的士，一名的士司機送院。事發在凌晨約1時，警方在彌敦道近山林道一帶截查可疑車輛，涉事私家車懷疑逃避截查，倒車往山林道方向逃去，期間撞到四架的士，一名的士司機報稱頸痛送院，警方仍在追查涉案司機下落。受事故影響，彌敦道往梳士巴利道方向介乎山林道與柯士甸道之間一度全線封閉，部分巴士路線改道，至凌晨約3時全線解封。</description>
+</item>
+<item>
+<title>俄方證實三方會談繼續開 歐洲參與未有商量 澤連斯基稱下輪歐洲加入</title>
+<link>https://hkcnexpress.com/a/20261117-russia-trilateral-talks-continue.html</link>
+<guid>https://hkcnexpress.com/a/20261117-russia-trilateral-talks-continue.html</guid>
+<pubDate>Tue, 17 Nov 2026 05:08:00 +0800</pubDate>
+<description>俄羅斯總統助理烏沙科夫表示，會繼續舉行俄美烏三方會談，但是否擴大規模、加入歐洲國家參與，俄方暫時未與任何一方協商。俄美烏上星期在阿聯酋阿布扎比舉行三方會談，據報在關鍵問題上仍然有顯著分歧。烏沙科夫認為阿布扎比是適合的會談地點，但擴大談判規模之前可能要再舉行多輪三方會談。烏克蘭總統澤連斯基早前表示，歐洲將派代表直接參與下一輪三方會談；歐洲理事會主席科斯塔則說，談判團隊將由歐盟及英國、法國、德國、意大利和波蘭五國代表組成。</description>
+</item>
 <item>
 <title>教宗良十四世完成南美三國訪問 秘魯150萬人集會聆聽演講</title>
 <link>https://hkcnexpress.com/a/20261117-pope-leo-south-america-visit-peru.html</link>
@@ -49,7 +77,7 @@
 <link>https://hkcnexpress.com/a/20261116-csrc-advisory-committee-shanghai-2030.html</link>
 <guid>https://hkcnexpress.com/a/20261116-csrc-advisory-committee-shanghai-2030.html</guid>
 <pubDate>Mon, 16 Nov 2026 23:22:00 +0800</pubDate>
-<description>中國證監會國際顧問委員會第23次會議在上海召開，主席霍華德·戴維斯、副主席史美倫等14名顧委會委員出席，中證監主席吳清、副主席劉浩凌等亦有出席，人民銀行、國家金融監管總局及上海市政府代表亦有參與。今次會議主題為「面向2030的中國資本市場——構建包容生態、增強市場韌性、完善全球治理」，委員普遍認為，中證監自去年以來面對高度不確定的外部環境，推進防風險、強監管、促高質量發展各項工作取得積極成效；委員一致建議，中國資本市場在「十五五」時期應秉持安全、規範、透明、開放、有活力、有韌性的發展方向，為完善全球金融治理貢獻更多中國方案及智慧。委員亦就擴大中長期資金來源渠道及入市方式、暢通私募基金循環、把握人工智能機遇與挑戰、加快提高監管智能化水平及深化高水平制度型開放等方面提出意見。</description>
+<description>中國證監會國際顧問委員會第23次會議在上海召開，主席霍華德·戴維斯、副主席史美倫等14名顧委會委員出席，中證監主席吳清、副主席劉浩凌等亦有出席，人民銀行、國家金融監管總局及上海市政府代表亦有參與。今次會議主題為「面向2030的中國資本市場——構建包容生態、增強市場韌性、完善全球治理」，委員普遍認為，中證監自去年以來面對高度不確定的外部環境，推進防風險、強監管、促高質量發展各項工作取得積極成效；委員一致建議，中國資本市場在「十五五」時期應秉持安全、規範、透明、開放、有活力、有韌性的發展方向，為完善全球金融治理貢獻更多中國方案及智慧。委員亦就擴大中長期資金來源渠道及入市方式、暢通私募基金循環、把握</description>
 </item>
 <item>
 <title>東京中野街頭女子遭刺頸亡 20多歲女送院不治 男疑犯逃走後被捕</title>
@@ -231,14 +259,14 @@
 <link>https://hkcnexpress.com/a/20261116-anwar-china-visit-xi-bilateral.html</link>
 <guid>https://hkcnexpress.com/a/20261116-anwar-china-visit-xi-bilateral.html</guid>
 <pubDate>Mon, 16 Nov 2026 16:00:00 +0800</pubDate>
-<description>馬來西亞首相安華將於11月18日起訪華三日，到深圳出席亞太經合組織第33次領導人非正式會議，並與中國國家主席習近平舉行雙邊會談。安華18日上午將出席APEC工商領導人峰會開幕式，發表題為《重新思考開放：共建亞太共同繁榮》的演講；當晚出席習近平偕夫人彭麗媛在深圳國際交流中心舉行的歡迎晚宴。11月20日，安華將在深圳麒麟山莊國賓館與習近平雙邊會晤。已確定的雙邊會晤對象包括新西蘭總理拉克森及香港特首李家超。雙方預計討論貿易投資、東海岸鐵路計劃、「兩國雙園」、技職教育、數字經濟與人工智能、半導體、旅遊及港口合作。這是安華2022年出任首相以來第6次訪華；中國連續17年是大馬最大貿易夥伴，2025年雙邊貿易總額增長11.8%至5,415.4億令吉。</description>
+<description>馬來西亞首相安華將於11月18日起訪華三日，到深圳出席亞太經合組織第33次領導人非正式會議，並與中國國家主席習近平舉行雙邊會談。安華18日上午將出席APEC工商領導人峰會開幕式，發表題為《重新思考開放：共建亞太共同繁榮》的演講；當晚出席習近平偕夫人彭麗媛在深圳國際交流中心舉行的歡迎晚宴。11月20日，安華將在深圳麒麟山莊國賓館與習近平雙邊會晤。已確定的雙邊會晤對象包括新西蘭總理拉克森及香港特首李家超。雙方預計討論貿易投資、東海岸鐵路計劃、「兩國雙園」、技職教育、數字經濟與人工智能、半導體、旅遊及港口合作。這是安華2022年出任首相以來第6次訪華；中國連續17年是大馬最大貿易夥伴，2025年雙邊</description>
 </item>
 <item>
 <title>海運周開幕李家超：香港是航運界可靠避風港 與希臘比雷埃夫斯港建綠色走廊</title>
 <link>https://hkcnexpress.com/a/20261116-maritime-week-opens-ce-speech.html</link>
 <guid>https://hkcnexpress.com/a/20261116-maritime-week-opens-ce-speech.html</guid>
 <pubDate>Mon, 16 Nov 2026 15:38:00 +0800</pubDate>
-<description>行政長官李家超為香港海運周2026暨世界航商大會開幕典禮致辭，表示國際航運業正處於前所未有的變革期，面對地緣政治變局及供應鏈重塑，香港正是國際航運界可靠的避風港。香港在國際航運中心發展指數排名全球第四，連續七年位列最前列，每周約270班國際貨櫃班輪服務連接全球約600個目的地。李家超宣布，香港港口與希臘比雷埃夫斯港簽署協議建立綠色航運走廊，並將與海南及廣東湛江簽署諒解備忘錄。運輸及物流局局長陳美寶表示，本港將深化與粵港澳大灣區港口合作，並成立發展綠色船用燃料交易平台工作小組；她在香港全球海事貿易峰會閉幕致辭時指出，峰會首次在港舉行，匯聚約900名領袖及約500間公司，會上簽署《香港國際海事貿易宣言》。</description>
+<description>行政長官李家超為香港海運周2026暨世界航商大會開幕典禮致辭，表示國際航運業正處於前所未有的變革期，面對地緣政治變局及供應鏈重塑，香港正是國際航運界可靠的避風港。香港在國際航運中心發展指數排名全球第四，連續七年位列最前列，每周約270班國際貨櫃班輪服務連接全球約600個目的地。李家超宣布，香港港口與希臘比雷埃夫斯港簽署協議建立綠色航運走廊，並將與海南及廣東湛江簽署諒解備忘錄。運輸及物流局局長陳美寶表示，本港將深化與粵港澳大灣區港口合作，並成立發展綠色船用燃料交易平台工作小組；她在香港全球海事貿易峰會閉幕致辭時指出，峰會首次在港舉行，匯聚約900名領袖及約500間公司，會上簽署《香港國際海事貿易</description>
 </item>
 <item>
 <title>陳茂波：恒指今年升四成 新股集資逾400億美元居全球首位 資金正重新配置亞洲</title>
@@ -323,34 +351,6 @@
 <guid>https://hkcnexpress.com/a/20261116-mainland-youth-sports-training-rules.html</guid>
 <pubDate>Mon, 16 Nov 2026 13:17:00 +0800</pubDate>
 <description>內地近年提高體能測試在升學考核中的比重，不少家長在校外為子女報讀體能班。國家體育總局早前頒布實施《青少年體育培訓行為規範》，對培訓機構的師資、收費、安保措施等訂立硬指標。有家長表示，新規範有助他們為子女物色合適的訓練機構；法律界人士認為，新規範是要解決過往市場壓低成本所衍生的亂象。</description>
-</item>
-<item>
-<title>深圳APEC新聞中心變科技展場 人形機械人沖咖啡 AI配眼鏡吸睛 兩分鐘雪糕送到手</title>
-<link>https://hkcnexpress.com/a/20261116-apec-media-centre-robots-ai-glasses.html</link>
-<guid>https://hkcnexpress.com/a/20261116-apec-media-centre-robots-ai-glasses.html</guid>
-<pubDate>Mon, 16 Nov 2026 13:06:00 +0800</pubDate>
-<description>深圳APEC新聞中心成為高新科技展示場地。場內有人形機械人可直接操作商用咖啡機，完成取杯、製作及交付等連續動作，亦可製作其他飲品，產品已落地香港蘭桂坊。另有公司展示軟件配合機械手臂，客人安坐約兩分鐘，雪糕便會送到，期望未來兩至三年在大灣區部署2000部機械人。場內亦有公司展示以人工智能配眼鏡的技術。</description>
-</item>
-<item>
-<title>謝鋒：中美年內有望四度會晤 盼香港做超級聯繫人 闖中美合作新高地</title>
-<link>https://hkcnexpress.com/a/20261116-xie-feng-hk-us-forum-connector.html</link>
-<guid>https://hkcnexpress.com/a/20261116-xie-feng-hk-us-forum-connector.html</guid>
-<pubDate>Mon, 16 Nov 2026 12:48:00 +0800</pubDate>
-<description>中美交流基金會在港舉辦「香港中美論壇」，中國駐美大使謝鋒以視像致辭表示，今年是中美關係的「大年」，國家主席習近平與美國總統特朗普於半年內實現國事互訪，年內有望四次會晤，為雙方關係發展帶來新機遇。他期望香港充分發揮「超級聯繫人」和「超級增值人」的獨特優勢，在中美合作的廣闊天地中開拓進取，打造合作共贏的新高地。</description>
-</item>
-<item>
-<title>港股半日升197點結束三日跌勢　新世界跌幅收窄至38%　晶片股逆市急瀉</title>
-<link>https://hkcnexpress.com/a/20261116-hsi-midday-up-197-new-world-narrows.html</link>
-<guid>https://hkcnexpress.com/a/20261116-hsi-midday-up-197-new-world-narrows.html</guid>
-<pubDate>Mon, 16 Nov 2026 12:23:00 +0800</pubDate>
-<description>港股結束三日跌勢，恒生指數最多升近260點，迫近23,900點水平，中午報23,835點，升197點，升幅逾0.8%，半日主板成交額逾907億元。新世界發展以折讓逾81%、1供11股方式供股集資249億元，股份今早復牌最多跌逾47%，低見2.57元，中午報2.995元，跌幅收窄至逾38%。科技指數半日報3,833點，升逾0.5%，ATMXJ升約1%至逾3%支撐大市；內需股造好，海底撈升近5%，是表現最好藍籌股；晶片及AI大模型股份下跌，智譜及MINIMAX分別跌逾11%及近14%。</description>
-</item>
-<item>
-<title>李家超明日北上深圳出席APEC峰會　19日見各國領袖　APEC貿易佔本港外貿87%</title>
-<link>https://hkcnexpress.com/a/20261116-ce-lee-shenzhen-apec-tomorrow.html</link>
-<guid>https://hkcnexpress.com/a/20261116-ce-lee-shenzhen-apec-tomorrow.html</guid>
-<pubDate>Mon, 16 Nov 2026 12:17:00 +0800</pubDate>
-<description>行政長官李家超明日啓程前往深圳，出席亞太經合組織領導人非正式會議及相關活動。商務及經濟發展局局長丘應樺和行政長官辦公室主任葉文娟亦會陪同出席。李家超將於本月19日出席領導人非正式會議，並出席明日至18日舉行的工商領導人峰會，包括專題研討和開幕式，期間亦會出席為各經濟體領導人或代表舉行的歡迎宴會，並與其他經濟體領導人舉行雙邊會談。今年是亞太經合組織「中國年」，是國家第三次擔任東道主，會議以「建設亞太共同體，促進共同繁榮」為主題。李家超表示，亞太經合組織成員經濟體是香港的重要貿易夥伴，貿易往來佔本港外貿總值高達87%。李家超於本月19日返港，離港期間由政務司司長陳國基署理行政長官職務。</description>
 </item>
 </channel>
 </rss>
