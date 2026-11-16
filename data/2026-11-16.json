@@ -1,5 +1,81 @@
 [
   {
+    "id": "20261116-fs-maritime-summit-trade-speech",
+    "category": "finance",
+    "published_at": "2026-11-16T11:35:00+08:00",
+    "card_time": "2026-11-16 11:35",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/16/P2026111600269.htm"
+    },
+    "image_url": "https://gia.info.gov.hk/general/202611/16/P2026111600269_photo_1343657.jpg",
+    "title": {
+      "zh_hant": "陳茂波：全球貿易韌性超預期　世貿上調增長預測至近4%　香港要由「量」轉「值」",
+      "en": "Paul Chan: world trade proving more resilient than expected as WTO lifts growth forecast to near 4%; Hong Kong must shift from volume to value",
+      "zh_hans": "陈茂波：全球贸易韧性超预期　世贸上调增长预测至近4%　香港要由「量」转「值」"
+    },
+    "summary": {
+      "zh_hant": "財政司司長陳茂波在第三屆香港全球海事貿易峰會上致辭表示，世界貿易今年表現較預期堅韌，世貿組織3月預測今年商品貿易增長不足2%，現時預計接近4%。他指出三大結構趨勢正改變貨運格局：亞洲區內貿易區域化，今年上半年亞洲區內貨櫃量增長近9%至逾2,600萬標準箱，東盟佔香港商品貿易比重由2020年不足13%升至今年近16%；綠色轉型方面，近半新造船訂單可用替代燃料，但全球只有25個港口提供甲醇加油；人工智能相關貨品佔今年上半年全球商品貿易增長近半。陳茂波表示，香港的策略是由「量」轉「值」，發展高增值海事服務，包括大宗商品交易、船舶保險及綠色燃料，並將於今年立法引入雙重註冊安排；港口社區系統自1月推出以來已有近1萬間企業登記，金管局牽頭的Project CargoX已有21間銀行參與測試，至今批出約10宗貿易融資申請，涉及逾1.8億美元。",
+      "en": "Financial Secretary Paul Chan told the third Hong Kong Global Maritime Trade Summit that world trade has proved more resilient than expected this year, with the WTO now expecting merchandise trade to grow by close to 4% in 2026, up from a March forecast of less than 2%. He highlighted three structural trends reshaping cargo flows: the regionalisation of trade, with intra-Asia container traffic up nearly 9% to more than 26 million TEUs in the first half of the year and ASEAN's share of Hong Kong's merchandise trade rising from under 13% in 2020 to almost 16%; the green transition, with almost half of tonnage on order able to run on alternative fuels but methanol bunkering available at only 25 ports; and artificial intelligence, with AI-related goods accounting for nearly half of the growth in world merchandise trade in the first half. Chan said Hong Kong's strategy is to move from volume to value by developing high value-added maritime services, including commodity trading, marine insurance and green fuel, and legislation will be introduced this year for dual ship registration. Close to 10,000 enterprises have registered with the Port Community System since January, and 21 banks are testing the HKMA-led Project CargoX, which has approved about 10 trade finance applications involving more than US$180 million.",
+      "zh_hans": "财政司司长陈茂波在第三届香港全球海事贸易峰会致辞表示，世界贸易今年表现较预期坚韧，世贸组织3月预测今年商品贸易增长不足2%，现时预计接近4%。他指出三大结构趋势正改变货运格局：亚洲区内贸易区域化，今年上半年亚洲区内货柜量增长近9%至逾2,600万标准箱，东盟占香港商品贸易比重由2020年不足13%升至今年近16%；绿色转型方面，近半新造船订单可用替代燃料，但全球只有25个港口提供甲醇加油；人工智能相关货品占今年上半年全球商品贸易增长近半。陈茂波表示，香港的策略是由「量」转「值」，发展高增值海事服务，包括大宗商品交易、船舶保险及绿色燃料，并将于今年立法引入双重注册安排；港口社区系统自1月推出以来已有近1万间企业登记，金管局牵头的Project CargoX已有21间银行参与测试，至今批出约10宗贸易融资申请，涉及逾1.8亿美元。"
+    },
+    "tags": {
+      "zh_hant": [
+        "陳茂波",
+        "海運周",
+        "全球貿易"
+      ],
+      "en": [
+        "Paul Chan",
+        "Maritime Week",
+        "world trade"
+      ],
+      "zh_hans": [
+        "陈茂波",
+        "海运周",
+        "全球贸易"
+      ]
+    }
+  },
+  {
+    "id": "20261116-lcsd-choreographic-new-voices-december",
+    "category": "entertainment",
+    "published_at": "2026-11-16T11:00:00+08:00",
+    "card_time": "2026-11-16 11:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/16/P2026111300415.htm"
+    },
+    "image_url": "https://gia.info.gov.hk/general/202611/16/P2026111300415_photo_1343619.jpg",
+    "title": {
+      "zh_hant": "「編舞新聲」12月壓軸登場　五金舖變舞蹈舞台　兩位新晉編舞大埔獻新作",
+      "en": "Choreographic New Voices to close the Hong Kong Artists Series in December as two emerging choreographers stage new works in Tai Po",
+      "zh_hans": "「编舞新声」12月压轴登场　五金铺变舞蹈舞台　两位新晋编舞大埔献新作"
+    },
+    "summary": {
+      "zh_hant": "康樂及文化事務署將於12月呈獻「編舞新聲」雙舞作演出，作為今年「香港藝術家」系列壓軸節目，由兩位新晉本地編舞朱頌恩及伍韻詩分別帶來新作《如何建造一個______》及《Dear,》。朱頌恩的作品以五金舖為靈感，將鋸、鉗、螺絲批等工具的動作轉化為舞蹈，探討身體、技術能力與性別期望之間的張力；伍韻詩的雙人舞《Dear,》以一封未寄出的空白信件為起點，探討人際關係與成長。演出將於12月18日及19日晚上8時、12月19日及20日下午3時，在大埔文娛中心黑盒劇場舉行，門票250元，現於城市售票網發售；12月18日及19日晚場後設演後藝人談。",
+      "en": "The Leisure and Cultural Services Department will present the Double Bill of Choreographic New Voices in December as the finale of this year's Hong Kong Artists Series, with two new contemporary dance works by emerging local choreographers Ching Chu and Rosalie Ng: How to Build a______ and Dear,. Chu's work draws inspiration from a hardware workshop, turning the movements of tools such as saws, clamps and screwdrivers into choreography to explore the tension between the body, technical competence and gender expectations; Ng's duet Dear, starts from an unaddressed blank letter to explore human relationships and growth. The productions will be staged at 8pm on December 18 and 19 and at 3pm on December 19 and 20 at the Black Box Theatre of the Tai Po Civic Centre. Tickets are priced at $250 and are on sale at URBTIX, with meet-the-artist sessions after the evening performances on December 18 and 19.",
+      "zh_hans": "康乐及文化事务署将于12月呈献「编舞新声」双舞作演出，作为今年「香港艺术家」系列压轴节目，由两位新晋本地编舞朱颂恩及伍韵诗分别带来新作《如何建造一个______》及《Dear,》。朱颂恩的作品以五金铺为灵感，将锯、钳、螺丝批等工具的动作转化为舞蹈，探讨身体、技术能力与性别期望之间的张力；伍韵诗的双人舞《Dear,》以一封未寄出的空白信件为起点，探讨人际关系与成长。演出将于12月18日及19日晚上8时、12月19日及20日下午3时，在大埔文娱中心黑盒剧场举行，门票250元，现于城市售票网发售；12月18日及19日晚场后设演后艺人谈。"
+    },
+    "tags": {
+      "zh_hant": [
+        "編舞新聲",
+        "香港藝術家",
+        "大埔文娛中心"
+      ],
+      "en": [
+        "Choreographic New Voices",
+        "Hong Kong Artists",
+        "Tai Po Civic Centre"
+      ],
+      "zh_hans": [
+        "编舞新声",
+        "香港艺术家",
+        "大埔文娱中心"
+      ]
+    }
+  },
+  {
     "id": "20261116-foyege-ai-harry-potter-short",
     "category": "finance",
     "published_at": "2026-11-16T01:50:00+08:00",
@@ -117,6 +193,310 @@
         "APEC",
         "深圳",
         "新华社"
+      ]
+    }
+  },
+  {
+    "id": "20261116-hsi-midday-up-197-new-world-narrows",
+    "category": "finance",
+    "published_at": "2026-11-16T12:23:00+08:00",
+    "card_time": "2026-11-16 12:23",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877962-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "港股半日升197點結束三日跌勢　新世界跌幅收窄至38%　晶片股逆市急瀉",
+      "en": "HSI gains 197 points at midday to end a three-day slide; New World narrows losses to 38% as chip stocks plunge",
+      "zh_hans": "港股半日升197点结束三日跌势　新世界跌幅收窄至38%　芯片股逆市急泻"
+    },
+    "summary": {
+      "zh_hant": "港股結束三日跌勢，恒生指數最多升近260點，迫近23,900點水平，中午報23,835點，升197點，升幅逾0.8%，半日主板成交額逾907億元。新世界發展以折讓逾81%、1供11股方式供股集資249億元，股份今早復牌最多跌逾47%，低見2.57元，中午報2.995元，跌幅收窄至逾38%。科技指數半日報3,833點，升逾0.5%，ATMXJ升約1%至逾3%支撐大市；內需股造好，海底撈升近5%，是表現最好藍籌股；晶片及AI大模型股份下跌，智譜及MINIMAX分別跌逾11%及近14%。",
+      "en": "Hong Kong stocks ended a three-day losing run, with the Hang Seng Index rising as much as nearly 260 points toward 23,900 before closing the morning at 23,835, up 197 points or more than 0.8%, on main-board turnover of over HK$90.7 billion. New World Development resumed trading after a 1-for-11 rights issue at a discount of more than 81% to raise HK$24.9 billion; the shares fell as much as over 47% to a low of HK$2.57 before narrowing the loss to more than 38% at HK$2.995 at midday. The tech index rose more than 0.5% to 3,833, with ATMXJ stocks up about 1% to more than 3% supporting the market; domestic-demand stocks were strong, with Haidilao up nearly 5% as the best-performing blue chip, while chip and AI model stocks fell, with Zhipu down more than 11% and MiniMax down nearly 14%.",
+      "zh_hans": "港股结束三日跌势，恒生指数最多升近260点，迫近23,900点水平，中午报23,835点，升197点，升幅逾0.8%，半日主板成交额逾907亿元。新世界发展以折让逾81%、1供11股方式供股集资249亿元，股份今早复牌最多跌逾47%，低见2.57元，中午报2.995元，跌幅收窄至逾38%。科技指数半日报3,833点，升逾0.5%，ATMXJ升约1%至逾3%支撑大市；内需股造好，海底捞升近5%，是表现最好蓝筹股；芯片及AI大模型股份下跌，智谱及MINIMAX分别跌逾11%及近14%。"
+    },
+    "tags": {
+      "zh_hant": [
+        "港股",
+        "恒生指數",
+        "新世界發展"
+      ],
+      "en": [
+        "Hong Kong stocks",
+        "Hang Seng Index",
+        "New World Development"
+      ],
+      "zh_hans": [
+        "港股",
+        "恒生指数",
+        "新世界发展"
+      ]
+    }
+  },
+  {
+    "id": "20261116-ce-lee-shenzhen-apec-tomorrow",
+    "category": "hk",
+    "published_at": "2026-11-16T12:17:00+08:00",
+    "card_time": "2026-11-16 12:17",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877965-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "李家超明日北上深圳出席APEC峰會　19日見各國領袖　APEC貿易佔本港外貿87%",
+      "en": "John Lee heads to Shenzhen tomorrow for APEC summit and talks with world leaders on Thursday; APEC trade makes up 87% of Hong Kong's external trade",
+      "zh_hans": "李家超明日北上深圳出席APEC峰会　19日见各国领袖　APEC贸易占本港外贸87%"
+    },
+    "summary": {
+      "zh_hant": "行政長官李家超明日啓程前往深圳，出席亞太經合組織領導人非正式會議及相關活動。商務及經濟發展局局長丘應樺和行政長官辦公室主任葉文娟亦會陪同出席。李家超將於本月19日出席領導人非正式會議，並出席明日至18日舉行的工商領導人峰會，包括專題研討和開幕式，期間亦會出席為各經濟體領導人或代表舉行的歡迎宴會，並與其他經濟體領導人舉行雙邊會談。今年是亞太經合組織「中國年」，是國家第三次擔任東道主，會議以「建設亞太共同體，促進共同繁榮」為主題。李家超表示，亞太經合組織成員經濟體是香港的重要貿易夥伴，貿易往來佔本港外貿總值高達87%。李家超於本月19日返港，離港期間由政務司司長陳國基署理行政長官職務。",
+      "en": "Chief Executive John Lee will leave for Shenzhen tomorrow to attend the APEC Economic Leaders' Meeting and related events, accompanied by Secretary for Commerce and Economic Development Algernon Yau and Director of the Chief Executive's Office Carol Yip. Lee will attend the leaders' meeting on November 19 and the APEC CEO Summit from tomorrow to November 18, including seminars and the opening ceremony, as well as a welcome banquet for leaders and representatives, and bilateral talks with leaders of other economies. This year is APEC's China Year, the third time China has hosted, under the theme of building an Asia-Pacific community for shared prosperity. Lee said APEC economies are important trading partners, accounting for 87% of Hong Kong's total external trade. He returns on November 19, with Chief Secretary Eric Chan acting as Chief Executive during his absence.",
+      "zh_hans": "行政长官李家超明日启程前往深圳，出席亚太经合组织领导人非正式会议及相关活动。商务及经济发展局局长丘应桦和行政长官办公室主任叶文娟亦会陪同出席。李家超将于本月19日出席领导人非正式会议，并出席明日至18日举行的工商领导人峰会，包括专题研讨和开幕式，期间亦会出席为各经济体领导人或代表举行的欢迎宴会，并与其他经济体领导人举行双边会谈。今年是亚太经合组织「中国年」，是国家第三次担任东道主，会议以「建设亚太共同体，促进共同繁荣」为主题。李家超表示，亚太经合组织成员经济体是香港的重要贸易伙伴，贸易往来占本港外贸总值高达87%。李家超于本月19日返港，离港期间由政务司司长陈国基署理行政长官职务。"
+    },
+    "tags": {
+      "zh_hant": [
+        "李家超",
+        "APEC",
+        "深圳"
+      ],
+      "en": [
+        "John Lee",
+        "APEC",
+        "Shenzhen"
+      ],
+      "zh_hans": [
+        "李家超",
+        "APEC",
+        "深圳"
+      ]
+    }
+  },
+  {
+    "id": "20261116-mainland-universities-169-hk-students",
+    "category": "hk",
+    "published_at": "2026-11-16T12:00:00+08:00",
+    "card_time": "2026-11-16 12:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/16/P2026111600265.htm"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "169間內地高校明年招港生　憑文憑試成績直入免聯招　12月1日起接受申請",
+      "en": "169 mainland universities to admit Hong Kong students next year on HKDSE results with no entrance exam; applications open December 1",
+      "zh_hans": "169间内地高校明年招港生　凭文凭试成绩直入免联招　12月1日起接受申请"
+    },
+    "summary": {
+      "zh_hant": "教育局歡迎國家教育部公布，參與內地高校招收香港中學文憑考試學生計劃的內地高等院校，2027/28學年將增至169間，遍布內地21個省市及兩個自治區，取錄2027年文憑試考生。參與計劃的院校按文憑試成績取錄港生，豁免參加內地聯招試。有意參加的學生可於2026年12月1日至31日在指定網站網上申請，其後須於2027年1月10日或之前覆核確認申請審核結果，並於2027年1月31日或之前繳交460元申請費；院校將於2027年7月底公布取錄結果。計劃下設校長推薦計劃，每間中學有8個名額；合資格港生亦可申請內地大學升學資助計劃的經入息審查或免入息審查資助。",
+      "en": "The Education Bureau welcomed the Ministry of Education's announcement that the number of mainland higher education institutions admitting Hong Kong students under the admission scheme will rise to 169 for the 2027/28 academic year, across 21 provinces and municipalities and two autonomous regions, accepting candidates sitting the HKDSE in 2027. Participating institutions admit students on HKDSE results, exempting them from the mainland joint entrance examination. Students can apply online from December 1 to 31, 2026, confirm their application verification results by January 10, 2027, and pay the HK$460 application fee by January 31, 2027; institutions will announce admission results in late July 2027. The scheme includes a School Principal Nomination Scheme with eight places per secondary school, and eligible students can apply for means-tested or non-means-tested subsidies under the Mainland University Study Subsidy Scheme.",
+      "zh_hans": "教育局欢迎国家教育部公布，参与内地高校招收香港中学文凭考试学生计划的内地高等院校，2027/28学年将增至169间，遍布内地21个省市及两个自治区，取录2027年文凭试考生。参与计划的院校按文凭试成绩取录港生，豁免参加内地联招试。有意参加的学生可于2026年12月1日至31日在指定网站网上申请，其后须于2027年1月10日或之前覆核确认申请审核结果，并于2027年1月31日或之前缴交460元申请费；院校将于2027年7月底公布取录结果。计划下设校长推荐计划，每间中学有8个名额；合资格港生亦可申请内地大学升学资助计划的经入息审查或免入息审查资助。"
+    },
+    "tags": {
+      "zh_hant": [
+        "內地升學",
+        "文憑試",
+        "教育局"
+      ],
+      "en": [
+        "mainland universities",
+        "HKDSE",
+        "Education Bureau"
+      ],
+      "zh_hans": [
+        "内地升学",
+        "文凭试",
+        "教育局"
+      ]
+    }
+  },
+  {
+    "id": "20261116-kwong-kong-kit-choi-tin-fung-trial",
+    "category": "hk",
+    "published_at": "2026-11-16T11:35:00+08:00",
+    "card_time": "2026-11-16 11:35",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877960-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "蔡天鳳案｜鄺港傑庭上認自創辯護版本　曾寫信指父親殺人　承認父親當時不在車上",
+      "en": "Choi Tin-fung case: Kwong Kong-kit admits inventing a defence story and writing a letter blaming his father, who was not in the car",
+      "zh_hans": "蔡天凤案｜邝港杰庭上认自创辩护版本　曾写信指父亲杀人　承认父亲当时不在车上"
+    },
+    "summary": {
+      "zh_hant": "蔡天鳳案在高等法院續審，首被告、蔡天鳳的前大伯鄺港傑接受控方盤問。鄺港傑同意，在被捕後兩三年間曾與第三被告胞弟鄺港智溝通，並以小聰明創作一個辯護理由版本，以減輕刑責；他說鄺港智在石壁監獄服刑，並無構思兩年，只有他在荔枝角收押所思考。主控郭莎樂提出他構思並創作辯解是為脫罪，鄺港傑回應說主要目的是為了鄺港智，並不認同是為了不想承認做過可怕的事情而整晚坐在浴室。鄺港傑同意，之前撰寫的辯方案情信件指第二被告鄺球殺死蔡天鳳，但亦同意鄺球並無殺人，鄺球當時並不在車上。他又同意，在鄺球租用村屋、未有傢俱之前，他曾到訪單位，當時單位空置，亦同意鄺球首要著他購買的是膠箱。",
+      "en": "The trial of the Choi Tin-fung murder case continued in the High Court, with first defendant Kwong Kong-kit, the victim's former brother-in-law, cross-examined by the prosecution. Kwong agreed that in the two to three years after his arrest he had communicated with third defendant Kwong Kong-chi, his younger brother, and used his cleverness to invent a version of events as a defence to reduce his sentence; he said Kwong Kong-chi was serving his sentence in Shek Pik Prison and had not spent two years devising it — only he had thought about it in Lai Chi Kok Reception Centre. Prosecutor Charlotte Kong put it to him that he had invented the defence to exonerate himself; Kwong said his main purpose was for Kwong Kong-chi, and denied it was because he did not want to admit to a terrible act and sat in the bathroom all night. Kwong agreed that a letter he had written setting out the defence case said second defendant Kwong Kau had killed Choi, but also agreed Kwong Kau did not kill anyone and was not in the car at the time. He also agreed he had visited the village house rented by Kwong Kau before it was furnished, when it was empty, and that the first thing Kwong Kau asked him to buy was plastic boxes.",
+      "zh_hans": "蔡天凤案在高等法院续审，首被告、蔡天凤的前大伯邝港杰接受控方盘问。邝港杰同意，在被捕后两三年间曾与第三被告胞弟邝港智沟通，并以小聪明创作一个辩护理由版本，以减轻刑责；他说邝港智在石壁监狱服刑，并无构思两年，只有他在荔枝角收押所思考。主控郭莎乐提出他构思并创作辩解是为脱罪，邝港杰回应说主要目的是为了邝港智，并不认同是为了不想承认做过可怕的事情而整晚坐在浴室。邝港杰同意，之前撰写的辩方案情信件指第二被告邝球杀死蔡天凤，但亦同意邝球并无杀人，邝球当时并不在车上。他又同意，在邝球租用村屋、未有家具之前，他曾到访单位，当时单位空置，亦同意邝球首要着他购买的是胶箱。"
+    },
+    "tags": {
+      "zh_hant": [
+        "蔡天鳳案",
+        "鄺港傑",
+        "高等法院"
+      ],
+      "en": [
+        "Choi Tin-fung case",
+        "Kwong Kong-kit",
+        "High Court"
+      ],
+      "zh_hans": [
+        "蔡天凤案",
+        "邝港杰",
+        "高等法院"
+      ]
+    }
+  },
+  {
+    "id": "20261116-russia-estonia-border-russophobia",
+    "category": "world",
+    "published_at": "2026-11-16T11:06:00+08:00",
+    "card_time": "2026-11-16 11:06",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877957-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "愛沙尼亞下月關閉全部對俄口岸　俄外交部斥「恐俄症」　稱先核實報道真偽",
+      "en": "Estonia to close all Russia border crossings next month; Moscow calls it Russophobia and says it will verify the reports",
+      "zh_hans": "爱沙尼亚下月关闭全部对俄口岸　俄外交部斥「恐俄症」　称先核实报道真伪"
+    },
+    "summary": {
+      "zh_hant": "俄羅斯外交部發言人扎哈羅娃形容，愛沙尼亞如關閉與俄羅斯之間的邊境口岸就是「恐俄症」表現。她說，俄方將核實愛沙尼亞關閉邊境口岸相關報道的真實性，如果愛沙尼亞當局確實計劃採取相關行動，就是又一波激進而毫無節制的「恐俄症」表現。愛沙尼亞外交部長查赫克納較早時在社交媒體宣布，有證據表明俄羅斯軍事情報機構下令破壞愛沙尼亞一間國防工業企業，愛沙尼亞將自下月1日起關閉與俄羅斯之間的所有邊境口岸，他已將決定告知芬蘭、拉脫維亞及立陶宛三國外長。",
+      "en": "Russian Foreign Ministry spokeswoman Maria Zakharova said that if Estonia closes its border crossings with Russia, it would be an expression of Russophobia. She said Russia would verify the veracity of reports about Estonia closing the crossings, and that if the Estonian authorities do indeed plan such action, it would be another wave of aggressive and unrestrained Russophobia. Estonian Foreign Minister Margus Tsahkna had earlier announced on social media that there is evidence Russia's military intelligence ordered sabotage at an Estonian defence industry company, and that Estonia will close all its border crossings with Russia from December 1, a decision he has conveyed to the foreign ministers of Finland, Latvia and Lithuania.",
+      "zh_hans": "俄罗斯外交部发言人扎哈罗娃形容，爱沙尼亚如关闭与俄罗斯之间的边境口岸就是「恐俄症」表现。她说，俄方将核实爱沙尼亚关闭边境口岸相关报道的真实性，如果爱沙尼亚当局确实计划采取相关行动，就是又一波激进而毫无节制的「恐俄症」表现。爱沙尼亚外交部长查赫克纳较早时在社交媒体宣布，有证据表明俄罗斯军事情报机构下令破坏爱沙尼亚一间国防工业企业，爱沙尼亚将自下月1日起关闭与俄罗斯之间的所有边境口岸，他已将决定告知芬兰、拉脱维亚及立陶宛三国的外长。"
+    },
+    "tags": {
+      "zh_hant": [
+        "愛沙尼亞",
+        "俄羅斯",
+        "邊境口岸"
+      ],
+      "en": [
+        "Estonia",
+        "Russia",
+        "border crossings"
+      ],
+      "zh_hans": [
+        "爱沙尼亚",
+        "俄罗斯",
+        "边境口岸"
+      ]
+    }
+  },
+  {
+    "id": "20261116-huaqiangbei-apec-foreign-visitors-10000",
+    "category": "china",
+    "published_at": "2026-11-16T10:55:00+08:00",
+    "card_time": "2026-11-16 10:55",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877954-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "APEC效應｜華強北外籍客日均逾萬人次　AI眼鏡一小時造好　190間店可即場退稅",
+      "en": "APEC effect brings more than 10,000 foreign visitors a day to Huaqiangbei as AI glasses are made in about an hour",
+      "zh_hans": "APEC效应｜华强北外籍客日均逾万人次　AI眼镜一小时造好　190间店可即场退税"
+    },
+    "summary": {
+      "zh_hant": "APEC深圳峰會即將舉行，華強北商圈受惠於APEC效應，外籍客商日均已超過1萬人次，今年以來平均每日超過8,000人次。有報道提及記者在華強北將自己的要求變成人工智能眼鏡產品，全程只需要大約1小時。深圳企業代表表示，可根據客戶需求調度公版方案，快速完成優質電子消費產品，元器件成本價格比較划算。物流方面，元器件清單生成推送小程序後，配送團隊的騎手馬上出發，在華強北1公里範圍內的35個專業市場拿貨，集齊後半小時內送達工程師，目前每日服務超過1萬多張訂單。華強北商圈有190多間離境退稅商店，購物後可到口岸或機場退稅，商圈內亦有服務點即場安排離境退稅。",
+      "en": "With the APEC summit about to open in Shenzhen, the Huaqiangbei electronics district is benefiting from the APEC effect, with foreign business visitors now averaging more than 10,000 a day, up from an average of more than 8,000 a day this year. A report described how a journalist's requirements were turned into a pair of AI glasses in about one hour in Huaqiangbei. A Shenzhen company representative said standardised component solutions can be adapted to customer needs to quickly produce quality consumer electronics at competitive component prices. On logistics, once a component list is generated and pushed to a mini-program, couriers set off immediately to collect goods from 35 specialist markets within one kilometre of Huaqiangbei and deliver them to engineers within half an hour, serving more than 10,000 orders a day. The district has more than 190 tax-refund shops, where shoppers can claim refunds at ports or airports, or arrange them on the spot.",
+      "zh_hans": "APEC深圳峰会即将举行，华强北商圈受惠于APEC效应，外籍客商日均已超过1万人次，今年以来平均每日超过8,000人次。有报道提及记者在华强北将自己的要求变成人工智能眼镜产品，全程只需要大约1小时。深圳企业代表表示，可根据客户需求调度公版方案，快速完成优质电子消费产品，元器件成本价格比较划算。物流方面，元器件清单生成推送小程序后，配送团队的骑手马上出发，在华强北1公里范围内的35个专业市场拿货，集齐后半小时内送达工程师，目前每日服务超过1万多张订单。华强北商圈有190多间离境退税商店，购物后可到口岸或机场退税，商圈内亦有服务点即场安排离境退税。"
+    },
+    "tags": {
+      "zh_hant": [
+        "華強北",
+        "APEC",
+        "深圳"
+      ],
+      "en": [
+        "Huaqiangbei",
+        "APEC",
+        "Shenzhen"
+      ],
+      "zh_hans": [
+        "华强北",
+        "APEC",
+        "深圳"
+      ]
+    }
+  },
+  {
+    "id": "20261116-harbour-race-legislator-cancellation-response",
+    "category": "hk",
+    "published_at": "2026-11-16T10:43:00+08:00",
+    "card_time": "2026-11-16 10:43",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877952-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "維港泳最後一組因水流取消　約700人受影響　議員倡退報名費或明年再戰",
+      "en": "Final Harbour Race heat cancelled over strong currents affecting about 700 swimmers; lawmaker suggests refunds or another chance next year",
+      "zh_hans": "维港泳最后一组因水流取消　约700人受影响　议员倡退报名费或明年再战"
+    },
+    "summary": {
+      "zh_hant": "昨日舉行的維港泳優悠組最後一組賽事因水流問題取消，大約700人受影響。有參賽的立法會議員鄭泳舜在本台節目《千禧年代》表示，安全是首要考慮，當時的情況具一定風險，認為取消是負責任決定，但部分參賽者的體驗未如理想。他表示，由於比賽時水流太急，平時大約花30至45分鐘完成賽事，但昨日花了逾1小時仍未到終點，認為情況有一定危險性，亦較混亂。鄭泳舜建議主辦單位如得知水流較急時，應提早給予參加者心理準備，下次亦可研究延長整個比賽時間；他又建議主辦單位向受影響人士退回報名費，或明年給予他們重新參加的機會，另外可檢視比賽流程和安排，更好地預判。",
+      "en": "The final heat of the leisure category at yesterday's Harbour Race was cancelled because of strong currents, affecting about 700 swimmers. Legislative Council member Vincent Cheng, who took part in the race, told RTHK's Millennium programme that safety had to come first and the cancellation was a responsible decision, although some participants' experience was less than ideal. He said the current was too strong — a race that usually takes 30 to 45 minutes still had not reached the finish after more than an hour — and the situation was somewhat dangerous and chaotic. Cheng suggested organisers should warn participants in advance when currents are strong and consider extending the race time next time; he also proposed refunding entry fees to those affected or giving them another chance next year, and reviewing the race procedures to better anticipate conditions.",
+      "zh_hans": "昨日举行的维港泳优悠组最后一组赛事因水流问题取消，大约700人受影响。有参赛的立法会议员郑泳舜在本台节目《千禧年代》表示，安全是首要考虑，当时的情况具一定风险，认为取消是负责任决定，但部分参赛者的体验未如理想。他表示，由于比赛时水流太急，平时大约花30至45分钟完成赛事，但昨日花了逾1小时仍未到终点，认为情况有一定危险性，亦较混乱。郑泳舜建议主办单位如得知水流较急时，应提早给予参加者心理准备，下次亦可研究延长整个比赛时间；他又建议主办单位向受影响人士退回报名费，或明年给予他们重新参加的机会，另外可检视比赛流程和安排，更好地预判。"
+    },
+    "tags": {
+      "zh_hant": [
+        "維港泳",
+        "鄭泳舜",
+        "水流"
+      ],
+      "en": [
+        "Harbour Race",
+        "Vincent Cheng",
+        "currents"
+      ],
+      "zh_hans": [
+        "维港泳",
+        "郑泳舜",
+        "水流"
+      ]
+    }
+  },
+  {
+    "id": "20261116-us-roosevelt-carrier-three-carrier-deployment",
+    "category": "world",
+    "published_at": "2026-11-16T10:42:00+08:00",
+    "card_time": "2026-11-16 10:42",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877951-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "美軍羅斯福號航母抵中東　三航母齊集波斯灣　正值美方考慮重啟對伊朗軍事行動",
+      "en": "USS Roosevelt arrives in the Middle East to form a three-carrier deployment as the US weighs resuming large-scale action against Iran",
+      "zh_hans": "美军罗斯福号航母抵中东　三航母齐集波斯湾　正值美方考虑重启对伊朗军事行动"
+    },
+    "summary": {
+      "zh_hant": "美國傳媒引述官員報道，美軍羅斯福號航空母艦已抵達美軍中央司令部責任區。報道指美軍目前在中央司令部責任區內部署了3個航母打擊群，責任區覆蓋波斯灣、紅海、阿曼灣及位於印度洋西北部的阿拉伯海。早前有報道指，羅斯福號航母及5,000名艦上官兵，9月底離開加利福尼亞州聖迭戈母港，到中東執行至少7個月的部署任務。今次的三航母部署，正值美方考慮是否重啟對伊朗大規模軍事行動的時候；目前美軍布殊號及華盛頓號兩艘航母已部署在該區，暫時未清楚羅斯福號是否將替換其中一艘航母。",
+      "en": "US media citing officials report that the aircraft carrier USS Theodore Roosevelt has arrived in the US Central Command area of responsibility, where the US military now has three carrier strike groups deployed. The area covers the Persian Gulf, the Red Sea, the Gulf of Oman and the Arabian Sea in the northwestern Indian Ocean. Earlier reports said the Roosevelt and its 5,000 crew left its home port of San Diego, California, in late September for a deployment of at least seven months in the Middle East. The three-carrier deployment comes as the US considers whether to resume large-scale military action against Iran; the USS George H.W. Bush and USS George Washington are already deployed in the region, and it is not yet clear whether the Roosevelt will replace one of them.",
+      "zh_hans": "美国传媒引述官员报道，美军罗斯福号航空母舰已抵达美军中央司令部责任区。报道指美军目前在中央司令部责任区内部署了3个航母打击群，责任区覆盖波斯湾、红海、阿曼湾及位于印度洋西北部的阿拉伯海。早前有报道指，罗斯福号航母及5,000名舰上官兵，9月底离开加利福尼亚州圣迭戈母港，到中东执行至少7个月的部署任务。今次的三航母部署，正值美方考虑是否重启对伊朗大规模军事行动的时候；目前，美军布殊号及华盛顿号两艘航母已部署在该区，暂时未清楚罗斯福号是否将替换其中一艘航母。"
+    },
+    "tags": {
+      "zh_hant": [
+        "羅斯福號",
+        "航母",
+        "伊朗"
+      ],
+      "en": [
+        "USS Roosevelt",
+        "aircraft carrier",
+        "Iran"
+      ],
+      "zh_hans": [
+        "罗斯福号",
+        "航母",
+        "伊朗"
       ]
     }
   },
