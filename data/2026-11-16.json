@@ -1,5 +1,42 @@
 [
   {
+    "id": "20261116-missing-man-ma-on-shan-cheung-kam-on",
+    "category": "hk",
+    "published_at": "2026-11-16T13:23:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/16/P2026111600365.htm"
+    },
+    "image_url": "https://gia.info.gov.hk/general/202611/16/P2026111600365_photo_1343665.jpg",
+    "title": {
+      "zh_hant": "84歲翁馬鞍山失蹤 警方籲提供消息 昨晨離開耀安邨住所後下落不明",
+      "en": "Police Appeal for Missing 84-Year-Old Man in Ma On Shan | Cheung Kam-on Last Seen Leaving Yiu On Estate Yesterday Morning",
+      "zh_hans": "84岁翁马鞍山失踪 警方吁提供消息 昨晨离开耀安邨住所后下落不明"
+    },
+    "summary": {
+      "zh_hant": "警方今日呼籲市民提供一名在馬鞍山失蹤男子的消息。84歲男子張錦安昨日早上離開耀安邨住所後失蹤，家人同日報警。張身高約1.62米、體重約54公斤、身材瘦削、方面黃皮膚、短灰髮，最後露面時穿深藍色短袖T恤、深灰色長褲及黑鞋，攜黑色斜揹袋。知情者可致電新界南總區失蹤人口調查組3661 1176，或聯絡任何警署。",
+      "en": "Police today appealed to the public for information on a man who went missing in Ma On Shan. Cheung Kam-on, 84, went missing after he left his residence in Yiu On Estate yesterday morning, and his family reported him missing the same day. He is about 1.62 metres tall, around 54 kilograms, of thin build, with a square face, yellow complexion and short grey hair. He was last seen wearing a dark blue short-sleeved T-shirt, dark grey trousers and black shoes, carrying a black crossbody bag. Anyone with information is urged to call the Regional Missing Persons Unit of New Territories South on 3661 1176 or contact any police station.",
+      "zh_hans": "警方今日呼吁市民提供一名在马鞍山失踪男子的消息。84岁男子张锦安昨日早上离开耀安邨住所后失踪，家人同日报案。张身高约1.62米、体重约54公斤、身材瘦削、方面黄皮肤、短灰发，最后露面时穿深蓝色短袖T恤、深灰色长裤及黑鞋，携黑色斜背袋。知情者可致电新界南总区失踪人口调查组3661 1176，或联络任何警署。"
+    },
+    "tags": {
+      "zh_hant": [
+        "失蹤人口",
+        "馬鞍山",
+        "警方呼籲"
+      ],
+      "en": [
+        "missing person",
+        "Ma On Shan",
+        "police appeal"
+      ],
+      "zh_hans": [
+        "失踪人口",
+        "马鞍山",
+        "警方呼吁"
+      ]
+    }
+  },
+  {
     "id": "20261116-fs-maritime-summit-trade-speech",
     "category": "finance",
     "published_at": "2026-11-16T11:35:00+08:00",
@@ -193,6 +230,302 @@
         "APEC",
         "深圳",
         "新华社"
+      ]
+    }
+  },
+  {
+    "id": "20261116-taiwan-stocks-plunge-6-percent-close",
+    "category": "finance",
+    "published_at": "2026-11-16T14:24:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877981-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "台股收市暴跌逾6% 加權指數急瀉2635點 報41040點",
+      "en": "Taiwan Stocks Plunge Over 6% at Close | Weighted Index Tumbles 2,635 Points to 41,040",
+      "zh_hans": "台股收市暴跌逾6% 加权指数急泻2635点 报41040点"
+    },
+    "summary": {
+      "zh_hant": "台股今日顯著下挫，加權指數收市報41040點，跌2635點，跌幅6.03%。台股早段已跌逾1%，午後跌勢加劇，收市跌幅擴大至超過6%。",
+      "en": "Taiwan stocks fell sharply today, with the weighted index closing at 41,040, down 2,635 points or 6.03%. The market was already down more than 1% in early trading before losses deepened in the afternoon, with the closing drop exceeding 6%.",
+      "zh_hans": "台股今日显著下挫，加权指数收市报41040点，跌2635点，跌幅6.03%。台股早段已跌逾1%，午后跌势加剧，收市跌幅扩大至超过6%。"
+    },
+    "tags": {
+      "zh_hant": [
+        "台股",
+        "加權指數",
+        "股市"
+      ],
+      "en": [
+        "Taiwan stocks",
+        "TAIEX",
+        "stock market"
+      ],
+      "zh_hans": [
+        "台股",
+        "加权指数",
+        "股市"
+      ]
+    }
+  },
+  {
+    "id": "20261116-li-qiang-china-asean-leaders-meeting",
+    "category": "china",
+    "published_at": "2026-11-16T14:13:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877982-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "李強馬尼拉出席中國東盟峰會 自貿區3.0下月生效 2027定為人工智能合作年",
+      "en": "Li Qiang Attends China-ASEAN Leaders' Meeting in Manila | FTA 3.0 Protocol Takes Effect Dec 1, 2027 Named AI Cooperation Year",
+      "zh_hans": "李强马尼拉出席中国东盟峰会 自贸区3.0下月生效 2027定为人工智能合作年"
+    },
+    "summary": {
+      "zh_hant": "國務院總理李強在菲律賓馬尼拉出席第29次中國－東盟領導人會議。會議宣布，中國東盟自貿區3.0版升級議定書將於今年12月1日生效，並將2027年定為「中國東盟人工智能合作年」。李強表示，雙方應排除干擾，共建更為緊密的中國東盟命運共同體，通過對話協商妥處分歧，共同反對外部干涉，維護地區和平穩定。",
+      "en": "Chinese Premier Li Qiang attended the 29th China-ASEAN Leaders' Meeting in Manila, the Philippines. The meeting announced that the protocol upgrading the China-ASEAN Free Trade Area to version 3.0 will take effect on December 1 this year, and that 2027 will be designated the China-ASEAN Year of AI Cooperation. Li said both sides should set aside disruptions and build a closer China-ASEAN community with a shared future, properly handle differences through dialogue and consultation, jointly oppose external interference, and safeguard regional peace and stability.",
+      "zh_hans": "国务院总理李强在菲律宾马尼拉出席第29次中国－东盟领导人会议。会议宣布，中国东盟自贸区3.0版升级议定书将于今年12月1日生效，并将2027年定为「中国东盟人工智能合作年」。李强表示，双方应排除干扰，共建更为紧密的中国东盟命运共同体，通过对话协商妥处分歧，共同反对外部干涉，维护地区和平稳定。"
+    },
+    "tags": {
+      "zh_hant": [
+        "中國東盟",
+        "李強",
+        "自貿區3.0"
+      ],
+      "en": [
+        "China-ASEAN",
+        "Li Qiang",
+        "FTA 3.0"
+      ],
+      "zh_hans": [
+        "中国东盟",
+        "李强",
+        "自贸区3.0"
+      ]
+    }
+  },
+  {
+    "id": "20261116-cold-front-wednesday-night-15-degrees",
+    "category": "hk",
+    "published_at": "2026-11-16T14:08:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877980-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "天文台：周三晚冷鋒殺到氣溫急降 周五周六市區最低15度 新界更清涼",
+      "en": "Observatory: Cold Front Arrives Wednesday Night | Temperatures to Drop Sharply, Urban Lows of 15°C on Friday and Saturday",
+      "zh_hans": "天文台：周三晚冷锋杀到气温急降 周五周六市区最低15度 新界更清凉"
+    },
+    "summary": {
+      "zh_hant": "天文台表示，星期三稍後將轉吹偏北風，雲量增多，晚上氣溫下降，隨後一兩日顯著轉涼。星期五及星期六市區最低氣溫在15、16度左右，新界相當清涼。預料一道冷鋒會在星期三稍後橫過華南沿岸，該區北風增強及有幾陣雨；受隨後的強烈東北季候風及一道雲雨帶影響，本周後期廣東地區普遍清涼，內陸地區早晚寒冷。",
+      "en": "The Hong Kong Observatory said northerly winds will set in later on Wednesday, with more cloud and falling temperatures at night, followed by a distinct chill over the next day or two. Urban minimum temperatures on Friday and Saturday will be around 15 to 16 degrees, and it will be rather cool in the New Territories. A cold front is expected to cross the south China coast later on Wednesday, bringing stronger northerly winds and a few showers, followed by an intense northeast monsoon and a cloud band that will keep Guangdong generally cool later in the week, with cold mornings and nights inland.",
+      "zh_hans": "天文台表示，星期三稍后将转吹偏北风，云量增多，晚上气温下降，随后一两日显著转凉。星期五及星期六市区最低气温在15、16度左右，新界相当清凉。预料一道冷锋会在星期三稍后横过华南沿岸，该区北风增强及有几阵雨；受随后的强烈东北季候风及一道云雨带影响，本周后期广东地区普遍清凉，内陆地区早晚寒冷。"
+    },
+    "tags": {
+      "zh_hant": [
+        "天文台",
+        "寒冷天氣",
+        "冷鋒"
+      ],
+      "en": [
+        "Observatory",
+        "cold weather",
+        "cold front"
+      ],
+      "zh_hans": [
+        "天文台",
+        "寒冷天气",
+        "冷锋"
+      ]
+    }
+  },
+  {
+    "id": "20261116-family-care-leave-pets-not-accepted",
+    "category": "hk",
+    "published_at": "2026-11-16T14:04:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877979-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "公務員照顧家庭假將推出 楊何蓓茵：照顧寵物唔計 壞車亦唔可以請",
+      "en": "Civil Service Family Care Leave to Launch | Ingrid Yeung: Caring for Pets Does Not Qualify, Car Breakdown Neither",
+      "zh_hans": "公务员照顾家庭假将推出 杨何蓓茵：照顾宠物不计 坏车亦不可以用"
+    },
+    "summary": {
+      "zh_hant": "政府將推出照顧家庭假，公務員事務局局長楊何蓓茵表示，局方會在實施一段時間後再作檢視，紀律部隊或較前線的人員都能夠受惠。她在立法會委員會會議上表示，照顧家庭假是因應人員的家庭需要，自己有突發事、例如上班中途壞車，不能因此申請；雖然不少人視寵物為家庭成員，但照顧寵物不能成為申請理由。一般情況下人員毋須提供證明文件，如部門認為有需要，可要求提交家人到診紙或單據等。",
+      "en": "The government will introduce family care leave for civil servants. Secretary for the Civil Service Ingrid Yeung said the bureau will review the scheme after it has been in place for a while, and disciplined services and frontline staff will also benefit. Speaking at a Legislative Council panel meeting, she said the leave is meant for staff's family needs: personal emergencies such as a car breakdown on the way to work do not qualify, and although many people regard pets as family members, caring for a pet cannot be a reason to apply. Normally no supporting documents are required, but departments may ask for items such as a family member's medical attendance slip or receipts if they consider it necessary.",
+      "zh_hans": "政府将推出照顾家庭假，公务员事务局局长杨何蓓茵表示，局方会在实施一段时间后再作检视，纪律部队或较前线的人员都能够受惠。她在立法会委员会会议上表示，照顾家庭假是因应人员的家庭需要，自己有突发事、例如上班中途坏车，不能因此申请；虽然不少人视宠物为家庭成员，但照顾宠物不能成为申请理由。一般情况下人员毋须提供证明文件，如部门认为有需要，可要求提交家人到诊纸或单据等。"
+    },
+    "tags": {
+      "zh_hant": [
+        "照顧家庭假",
+        "公務員",
+        "楊何蓓茵"
+      ],
+      "en": [
+        "family care leave",
+        "civil service",
+        "Ingrid Yeung"
+      ],
+      "zh_hans": [
+        "照顾家庭假",
+        "公务员",
+        "杨何蓓茵"
+      ]
+    }
+  },
+  {
+    "id": "20261116-choi-tin-fung-trial-exhibits-hearing",
+    "category": "hk",
+    "published_at": "2026-11-16T14:01:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877978-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "蔡天鳳案續審 控方展示大煲炸籬砧板 鄺港傑：父暗地有情婦 不知開大食會",
+      "en": "Choi Tin-fung Trial Continues | Prosecution Exhibits Large Pot, Strainer and Chopping Board as Kwong Says Father Secretly Had a Mistress",
+      "zh_hans": "蔡天凤案续审 控方展示大煲炸篱砧板 邝港杰：父暗地有情妇 不知开大食会"
+    },
+    "summary": {
+      "zh_hant": "蔡天鳳案在高等法院續審。控方在庭上展示一個14寸乘14寸、用膠袋包住的大煲、一個炸籬及一個砧板，以盤問首被告、蔡天鳳的前大伯鄺港傑。主控指出大煲一般不會在家居出現，鄺港傑回應說要視乎家居如何煮食，又稱父親鄺球表面自己住、暗地裡有情婦，不知他有甚麼打算。庭上亦播放鄺港傑與鄺球在售賣刀具店舖外的錄影片段，以及一名男子拾起長狀物品的片段。",
+      "en": "The Choi Tin-fung murder trial continued at the High Court. The prosecution exhibited a 14-by-14-inch pot wrapped in a plastic bag, a frying strainer and a chopping board while cross-examining the first defendant, Kwong Kong-kit, the victim's former brother-in-law. The prosecutor said a pot of that size would not normally be found in a home; Kwong replied that it depended on how the household cooked, adding that his father Kwong Kau appeared to live alone but secretly had a mistress, and he did not know what his father had planned. The court also played footage of Kwong and his father outside a knife shop, and of a man picking up a long object from the ground.",
+      "zh_hans": "蔡天凤案在高等法院续审。控方在庭上展示一个14寸乘14寸、用胶袋包住的大煲、一个炸篱及一个砧板，以盘问首被告、蔡天凤的前大伯邝港杰。主控指出大煲一般不会在家居出现，邝港杰回应说要视乎家居如何煮食，又称父亲邝球表面自己住、暗地里有情妇，不知他有什么打算。庭上亦播放邝港杰与邝球在售卖刀具店铺外的录影片段，以及一名男子拾起长状物品的片段。"
+    },
+    "tags": {
+      "zh_hant": [
+        "蔡天鳳案",
+        "鄺港傑",
+        "高等法院"
+      ],
+      "en": [
+        "Choi Tin-fung case",
+        "Kwong Kong-kit",
+        "High Court"
+      ],
+      "zh_hans": [
+        "蔡天凤案",
+        "邝港杰",
+        "高等法院"
+      ]
+    }
+  },
+  {
+    "id": "20261116-mainland-youth-sports-training-rules",
+    "category": "china",
+    "published_at": "2026-11-16T13:17:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877976-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "內地青少年體育培訓訂硬指標 師資收費安保全監管 家長：搵機構有譜",
+      "en": "Mainland Sets Hard Rules for Youth Sports Training | Teacher, Fee and Safety Standards Welcomed by Parents",
+      "zh_hans": "内地青少年体育培训订硬指标 师资收费安保全监管 家长：找机构有谱"
+    },
+    "summary": {
+      "zh_hant": "內地近年提高體能測試在升學考核中的比重，不少家長在校外為子女報讀體能班。國家體育總局早前頒布實施《青少年體育培訓行為規範》，對培訓機構的師資、收費、安保措施等訂立硬指標。有家長表示，新規範有助他們為子女物色合適的訓練機構；法律界人士認為，新規範是要解決過往市場壓低成本所衍生的亂象。",
+      "en": "Mainland China has in recent years raised the weighting of physical fitness tests in school admission assessments, and many parents enrol their children in after-school fitness classes. The General Administration of Sport recently issued and implemented a code of conduct for youth sports training, setting hard requirements for training institutions on teacher qualifications, fees and safety measures. Parents said the new rules help them find suitable training institutions for their children, while legal professionals said the rules address past disorder caused by the market cutting costs.",
+      "zh_hans": "内地近年提高体能测试在升学考核中的比重，不少家长在校外为子女报读体能班。国家体育总局早前颁布实施《青少年体育培训行为规范》，对培训机构的师资、收费、安保措施等订立硬指标。有家长表示，新规范有助他们为子女物色合适的训练机构；法律界人士认为，新规范是要解决过往市场压低成本所衍生的乱象。"
+    },
+    "tags": {
+      "zh_hant": [
+        "青少年體育",
+        "體育培訓",
+        "國家體育總局"
+      ],
+      "en": [
+        "youth sports",
+        "sports training",
+        "General Administration of Sport"
+      ],
+      "zh_hans": [
+        "青少年体育",
+        "体育培训",
+        "国家体育总局"
+      ]
+    }
+  },
+  {
+    "id": "20261116-apec-media-centre-robots-ai-glasses",
+    "category": "china",
+    "published_at": "2026-11-16T13:06:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877974-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "深圳APEC新聞中心變科技展場 人形機械人沖咖啡 AI配眼鏡吸睛 兩分鐘雪糕送到手",
+      "en": "Shenzhen APEC Media Centre Turns Tech Showcase | Humanoid Robot Brews Coffee, AI Glasses on Show, Ice Cream Served in Two Minutes",
+      "zh_hans": "深圳APEC新闻中心变科技展场 人形机器人冲咖啡 AI配眼镜吸睛 两分钟雪糕送到手"
+    },
+    "summary": {
+      "zh_hant": "深圳APEC新聞中心成為高新科技展示場地。場內有人形機械人可直接操作商用咖啡機，完成取杯、製作及交付等連續動作，亦可製作其他飲品，產品已落地香港蘭桂坊。另有公司展示軟件配合機械手臂，客人安坐約兩分鐘，雪糕便會送到，期望未來兩至三年在大灣區部署2000部機械人。場內亦有公司展示以人工智能配眼鏡的技術。",
+      "en": "The Shenzhen APEC media centre has become a showcase for high technology. A humanoid robot on site can operate a commercial coffee machine directly, completing the full sequence of taking a cup, brewing and delivering, and can also make other drinks; the product is already in use in Hong Kong's Lan Kwai Fong. Another company demonstrated software paired with robotic arms that delivers ice cream to a seated guest in about two minutes, and hopes to deploy 2,000 robots across the Greater Bay Area within two to three years. AI-powered glasses fitting was also on display.",
+      "zh_hans": "深圳APEC新闻中心成为高新科技展示场地。场内有人形机器人可直接操作商用咖啡机，完成取杯、制作及交付等连续动作，亦可制作其他饮品，产品已落地香港兰桂坊。另有公司展示软件配合机械手臂，客人安坐约两分钟，雪糕便会送到，期望未来两至三年在大湾区部署2000部机器人。场内亦有公司展示以人工智能配眼镜的技术。"
+    },
+    "tags": {
+      "zh_hant": [
+        "APEC",
+        "深圳",
+        "人形機械人"
+      ],
+      "en": [
+        "APEC",
+        "Shenzhen",
+        "humanoid robot"
+      ],
+      "zh_hans": [
+        "APEC",
+        "深圳",
+        "人形机器人"
+      ]
+    }
+  },
+  {
+    "id": "20261116-xie-feng-hk-us-forum-connector",
+    "category": "china",
+    "published_at": "2026-11-16T12:48:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877970-20261116.htm"
+    },
+    "image_url": "",
+    "title": {
+      "zh_hant": "謝鋒：中美年內有望四度會晤 盼香港做超級聯繫人 闖中美合作新高地",
+      "en": "Xie Feng: Xi and Trump May Meet Four Times This Year | Hong Kong Urged to Be Super Connector in China-US Cooperation",
+      "zh_hans": "谢锋：中美年内有望四度会晤 盼香港做超级联系人 闯中美合作新高地"
+    },
+    "summary": {
+      "zh_hant": "中美交流基金會在港舉辦「香港中美論壇」，中國駐美大使謝鋒以視像致辭表示，今年是中美關係的「大年」，國家主席習近平與美國總統特朗普於半年內實現國事互訪，年內有望四次會晤，為雙方關係發展帶來新機遇。他期望香港充分發揮「超級聯繫人」和「超級增值人」的獨特優勢，在中美合作的廣闊天地中開拓進取，打造合作共贏的新高地。",
+      "en": "The China-United States Exchange Foundation hosted the Hong Kong Forum on China-US Relations in Hong Kong, where Chinese Ambassador to the US Xie Feng said in a video address that this year is a big year for China-US relations: President Xi Jinping and US President Donald Trump completed state visits to each other within half a year and may meet four times during the year, bringing new opportunities for the relationship. He urged Hong Kong to make full use of its unique advantages as a super connector and super value-adder, and to break new ground in the broad field of China-US cooperation.",
+      "zh_hans": "中美交流基金会在港举办「香港中美论坛」，中国驻美大使谢锋以视像致辞表示，今年是中美关系的「大年」，国家主席习近平与美国总统特朗普于半年内实现国事互访，年内有望四次会晤，为双方关系发展带来新机遇。他期望香港充分发挥「超级联系人」和「超级增值人」的独特优势，在中美合作的广阔天地中开拓进取，打造合作共赢的新高地。"
+    },
+    "tags": {
+      "zh_hant": [
+        "中美關係",
+        "謝鋒",
+        "香港中美論壇"
+      ],
+      "en": [
+        "China-US relations",
+        "Xie Feng",
+        "Hong Kong US Forum"
+      ],
+      "zh_hans": [
+        "中美关系",
+        "谢锋",
+        "香港中美论坛"
       ]
     }
   },
