@@ -1,5 +1,43 @@
 [
  {
+  "id": "20261117-eac-crisis-management-committee-election",
+  "category": "hk",
+  "published_at": "2026-11-17T21:17:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700433.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-eac-crisis-management-committee-election.jpg",
+  "title": {
+   "en": "Election Committee polls open Sunday as EAC chief chairs crisis meeting on cybersecurity and contingency plans",
+   "zh_hant": "選委會選舉周日投票 選管會開危機管理會議 部署網絡安全應變方案",
+   "zh_hans": "选委会选举周日投票 选管会开危机管理会议 部署网络安全应变方案"
+  },
+  "summary": {
+   "en": "The Chairman of the Electoral Affairs Commission, Mr Justice David Lok, chaired a meeting of the Crisis Management Committee this evening to prepare for the 2026 Election Committee Subsector Ordinary Elections on Sunday, November 22, and ensure polling day runs smoothly. Departments briefed the meeting on preparations and co-ordination, including cybersecurity and security risk assessments and contingency plans for polling day. Mr Justice Lok said organising an election was never a simple undertaking and the relevant bureaux and departments had entered the final stage of preparation, including drawing up security and contingency plans.",
+   "zh_hant": "選舉管理委員會主席陸啟康今晚主持危機管理委員會會議，為11月22日（星期日）舉行的選舉委員會界別分組一般選舉作準備，確保投票日順利進行。會上相關部門匯報籌備及協調工作，包括網絡安全及保安風險評估，以及投票日的應變計劃。陸啟康表示，籌辦選舉絕非簡單工作，各政策局及部門已進入最後準備階段，包括制定保安及應變計劃。",
+   "zh_hans": "选举管理委员会主席陆启康今晚主持危机管理委员会会议，为11月22日（星期日）举行的选举委员会界别分组一般选举作准备，确保投票日顺利进行。会上相关部门汇报筹备及协调工作，包括网络安全及保安风险评估，以及投票日的应变计划。陆启康表示，筹办选举绝非简单工作，各政策局及部门已进入最后准备阶段，包括制定保安及应变计划。"
+  },
+  "tags": {
+   "en": [
+    "Election Committee elections",
+    "EAC",
+    "David Lok"
+   ],
+   "zh_hant": [
+    "選舉委員會選舉",
+    "選管會",
+    "陸啟康"
+   ],
+   "zh_hans": [
+    "选举委员会选举",
+    "选管会",
+    "陆启康"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-eac-crisis-management-committee-election.jpg"
+ },
+ {
   "id": "20261117-afcd-snake-cage-fishing-charges",
   "category": "hk",
   "published_at": "2026-11-17T20:40:00+08:00",
@@ -267,6 +305,44 @@
    ]
   },
   "image_r2_key": "design/202611/20261117-dh-arrest-illegal-topical-products-sham-shui-po.jpg"
+ },
+ {
+  "id": "20261117-hkmpdb-flagship-summit-keynote",
+  "category": "hk",
+  "published_at": "2026-11-17T18:45:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700580.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-hkmpdb-flagship-summit-keynote.jpg",
+  "title": {
+   "en": "Maritime Week marks 10 years as transport chief says Hong Kong must shift from volume to value to become global maritime capital",
+   "zh_hant": "海運周十周年 陳美寶：香港要由量變轉向價值主導 打造全球海運之都",
+   "zh_hans": "海运周十周年 陈美宝：香港要由量变转向价值主导 打造全球海运之都"
+  },
+  "summary": {
+   "en": "The Secretary for Transport and Logistics, Ms Mable Chan, delivered the keynote address at the second Hong Kong Maritime and Port Development Board Flagship Summit today. Marking the 10th anniversary of Hong Kong Maritime Week, Ms Chan said Hong Kong must upgrade and transform its port from purely volume-based to value-driven development, to become a true global maritime capital. Under this year's theme, “Capital Meets Cargo: Financing the Future of Global Trade”, she noted Hong Kong's green and sustainable debt market surpassed US$84 billion last year, capturing 45 per cent of the regional market, and said the city's financial strength and complete maritime ecosystem can drive the industry forward.",
+   "zh_hant": "運輸及物流局局長陳美寶今日在第二屆香港海運港口發展局旗艦峰會發表主題演講。適逢香港海運周十周年，陳美寶表示，香港要將港口由純粹追求貨量，全面升級轉型為以價值主導發展，成為真正的全球海運之都。今屆峰會主題為「資本遇上貨物：為全球貿易未來融資」，陳美寶指出，香港綠色及可持續債券市場去年規模超過840億美元，佔區內市場45%，金融實力雄厚，配合完整的海運生態系統，可推動行業發展。",
+   "zh_hans": "运输及物流局局长陈美宝今日在第二届香港海运港口发展局旗舰峰会发表主题演讲。适逢香港海运周十周年，陈美宝表示，香港要将港口由纯粹追求货量，全面升级转型为以价值主导发展，成为真正的全球海运之都。今届峰会主题为「资本遇上货物：为全球贸易未来融资」，陈美宝指出，香港绿色及可持续债券市场去年规模超过840亿美元，占区内市场45%，金融实力雄厚，配合完整的海运生态系统，可推动行业发展。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Maritime Week",
+    "HKMPDB",
+    "Mable Chan"
+   ],
+   "zh_hant": [
+    "海運周",
+    "海運港口發展局",
+    "陳美寶"
+   ],
+   "zh_hans": [
+    "海运周",
+    "海运港口发展局",
+    "陈美宝"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-hkmpdb-flagship-summit-keynote.jpg"
  },
  {
   "id": "20261117-hkma-scam-alert-bea",
@@ -801,6 +877,339 @@
   "image_r2_key": "design/202611/20261117-ce-almac-speech-growth-innovation-sustainability.jpg"
  },
  {
+  "id": "20261117-bigbang-scalping-arrest-kai-tak",
+  "category": "hk",
+  "published_at": "2026-11-17T22:23:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878185-20261117.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Police arrest woman for touting as BIGBANG wrap up four-night Kai Tak run",
+   "zh_hant": "BIGBANG尾場今晚開騷 警方啟德打擊黃牛票 便衣警拘捕一名女子",
+   "zh_hans": "BIGBANG尾场今晚开骚 警方启德打击黄牛票 便衣警拘捕一名女子"
+  },
+  "summary": {
+   "en": "South Korean boy band BIGBANG are staging four concerts at Kai Tak Stadium, with the final show tonight. Police mounted an anti-ticket-touting operation around Kai Tak Sports Park today, and a plain-clothes officer arrested a woman suspected of selling two tickets for tonight's show above face value; the organiser has voided the tickets concerned. Police said they would step up enforcement against touting and urged the public to buy tickets through official channels to avoid invalid tickets and losses.",
+   "zh_hant": "韓國男團BIGBANG在啟德主場館舉行四場演唱會，今晚是最後一場。警方今日在啟德體育園一帶展開打擊「黃牛票」行動，一名便衣警員拘捕一名涉嫌以高於票面價兜售當晚兩張門票的女子，主辦方接報後已將涉案門票作廢。警方強調會持續加強執法打擊「黃牛票」，呼籲市民經正規渠道購票，以免買到無效門票蒙受損失。",
+   "zh_hans": "韩国男团BIGBANG在启德主场馆举行四场演唱会，今晚是最后一场。警方今日在启德体育园一带展开打击「黄牛票」行动，一名便衣警员拘捕一名涉嫌以高于票面价兜售当晚两张门票的女子，主办方接报后已将涉案门票作废。警方强调会持续加强执法打击「黄牛票」，呼吁市民经正规渠道购票，以免买到无效门票蒙受损失。"
+  },
+  "tags": {
+   "en": [
+    "BIGBANG",
+    "ticket touting",
+    "Kai Tak"
+   ],
+   "zh_hant": [
+    "BIGBANG",
+    "黃牛票",
+    "啟德"
+   ],
+   "zh_hans": [
+    "BIGBANG",
+    "黄牛票",
+    "启德"
+   ]
+  }
+ },
+ {
+  "id": "20261117-apec-drone-arrest-new-territories-north",
+  "category": "hk",
+  "published_at": "2026-11-17T21:59:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878182-20261117.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Man arrested for flying drone in APEC no-fly zone over New Territories North",
+   "zh_hant": "APEC期間新界北列臨時禁飛區 40歲非華裔男違令放無人機拍攝被捕",
+   "zh_hans": "APEC期间新界北列临时禁飞区 40岁非华裔男违令放无人机拍摄被捕"
+  },
+  "summary": {
+   "en": "A 40-year-old non-Chinese man has been arrested on suspicion of breaching the Small Unmanned Aircraft Order after allegedly operating a small drone to take photographs without authorisation inside a temporary restricted flying zone set up by the Commissioner of Police for APEC-related meetings. Police said officers from the New Territories North Regional Mobile Unit spotted the man while patrolling at Nam Sang Wai in Yuen Long. Police reminded the public that the entire airspace over the northern New Territories is a temporary restricted flying zone from early Tuesday until 11.59pm on Friday, with no flying activities allowed.",
+   "zh_hant": "一名40歲非華裔男子涉嫌在未獲授權下，於警務處處長就亞太經合組織相關會議設立的臨時限制飛行區內操作小型無人機拍攝，涉嫌違反《小型無人機令》被捕。警方表示，新界北總區機動部隊人員在元朗南生圍巡邏期間發現該名男子。警方提醒，由本周二凌晨起至本周五晚上11時59分，整個新界北部空域均列為臨時限制飛行區，不得進行任何飛行活動。",
+   "zh_hans": "一名40岁非华裔男子涉嫌在未获授权下，于警务处处长就亚太经合组织相关会议设立的临时限制飞行区内操作小型无人机拍摄，涉嫌违反《小型无人机令》被捕。警方表示，新界北总区机动部队人员在元朗南生围巡逻期间发现该名男子。警方提醒，由本周二凌晨起至本周五晚上11时59分，整个新界北部空域均列为临时限制飞行区，不得进行任何飞行活动。"
+  },
+  "tags": {
+   "en": [
+    "drone",
+    "APEC",
+    "no-fly zone"
+   ],
+   "zh_hant": [
+    "無人機",
+    "APEC",
+    "禁飛區"
+   ],
+   "zh_hans": [
+    "无人机",
+    "APEC",
+    "禁飞区"
+   ]
+  }
+ },
+ {
+  "id": "20261117-us-retail-sales-october-0-2",
+  "category": "finance",
+  "published_at": "2026-11-17T21:47:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878180-20261117.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "US retail sales rise 0.2% in October as import and export prices both beat forecasts",
+   "zh_hant": "美國10月零售銷售升0.2%合預期 進出口物價齊升1.1%超預期",
+   "zh_hans": "美国10月零售销售升0.2%合预期 进出口物价齐升1.1%超预期"
+  },
+  "summary": {
+   "en": "US retail sales rose 0.2 per cent month on month in October, in line with market expectations. Excluding cars, retail sales rose 0.6 per cent, down from September's 1.1 per cent but better than the 0.4 per cent expected. US export prices rose 1.1 per cent in October, above the 0.5 per cent forecast, while import prices also rose 1.1 per cent, above the 0.7 per cent expected.",
+   "zh_hant": "美國10月零售銷售按月增長0.2%，合乎市場預期。扣除汽車的零售銷售按月增加0.6%，升幅低於9月的1.1%，但好過市場預期的0.4%。另外，美國10月出口物價按月上升1.1%，升幅高過市場預期的0.5%；進口物價亦升1.1%，高過預期的0.7%。",
+   "zh_hans": "美国10月零售销售按月增长0.2%，合乎市场预期。扣除汽车的零售销售按月增加0.6%，升幅低于9月的1.1%，但好过市场预期的0.4%。另外，美国10月出口物价按月上升1.1%，升幅高过市场预期的0.5%；进口物价亦升1.1%，高过预期的0.7%。"
+  },
+  "tags": {
+   "en": [
+    "US retail sales",
+    "prices",
+    "US economy"
+   ],
+   "zh_hant": [
+    "美國零售銷售",
+    "物價",
+    "美國經濟"
+   ],
+   "zh_hans": [
+    "美国零售销售",
+    "物价",
+    "美国经济"
+   ]
+  }
+ },
+ {
+  "id": "20261117-asean-summit-closes-manila",
+  "category": "world",
+  "published_at": "2026-11-17T21:32:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878175-20261117.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "ASEAN summit closes in Manila as Philippines hands chair to Singapore with 80% of South China Sea code agreed",
+   "zh_hant": "東盟峰會馬尼拉閉幕 菲律賓交棒新加坡 南海行為準則八成內容達共識",
+   "zh_hans": "东盟峰会马尼拉闭幕 菲律宾交棒新加坡 南海行为准则八成内容达共识"
+  },
+  "summary": {
+   "en": "The ASEAN Summit and related meetings closed in Manila, with Philippine President Ferdinand Marcos Jr handing the chairmanship gavel to Singapore's Prime Minister Lawrence Wong, who takes over next year. Marcos called on ASEAN to keep strengthening peace and stability and economic integration, while Wong said Singapore would follow a “deeper integration, broader co-operation” approach as the bloc approaches its 60th anniversary. The Philippines earlier said about 80 per cent of a South China Sea code of conduct had been agreed. On the final day, US President Donald Trump arrived in Manila to meet ASEAN leaders and held a Quad leaders' meeting with India, Japan and Australia.",
+   "zh_hant": "東盟峰會及系列會議在菲律賓首都馬尼拉閉幕，菲律賓總統小馬可斯將輪值主席國木槌移交明年輪值主席國新加坡總理黃循財。小馬可斯呼籲東盟持續加強和平穩定、促進經濟一體化。黃循財表示，新加坡將遵循「更深融合、更廣合作」理念，進一步推動東盟合作，迎接東盟成立60周年。菲律賓較早前透露，各方已就「南海行為準則」約八成內容達成共識。會議最後一天，美國總統特朗普亦抵達馬尼拉，與東盟領袖會面，並與印度、日本及澳洲舉行四方安全對話領袖會議。",
+   "zh_hans": "东盟峰会及系列会议在菲律宾首都马尼拉闭幕，菲律宾总统小马可斯将轮值主席国木槌移交明年轮值主席国新加坡总理黄循财。小马可斯呼吁东盟持续加强和平稳定、促进经济一体化。黄循财表示，新加坡将遵循「更深融合、更广合作」理念，进一步推动东盟合作，迎接东盟成立60周年。菲律宾较早前透露，各方已就「南海行为准则」约八成内容达成共识。会议最后一天，美国总统特朗普亦抵达马尼拉，与东盟领袖会面，并与印度、日本及澳洲举行四方安全对话领袖会议。"
+  },
+  "tags": {
+   "en": [
+    "ASEAN summit",
+    "Manila",
+    "Singapore"
+   ],
+   "zh_hant": [
+    "東盟峰會",
+    "馬尼拉",
+    "新加坡"
+   ],
+   "zh_hans": [
+    "东盟峰会",
+    "马尼拉",
+    "新加坡"
+   ]
+  }
+ },
+ {
+  "id": "20261117-cervical-cancer-elimination-day-hpv",
+  "category": "hk",
+  "published_at": "2026-11-17T20:56:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700510.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Cervical cancer killed 160 women in 2024 as health chiefs urge HPV jabs and screening before catch-up scheme ends",
+   "zh_hant": "子宮頸癌去年奪160命 衞生署籲打HPV針加定期篩查 補種計劃年底截止",
+   "zh_hans": "子宫颈癌去年夺160命 卫生署吁打HPV针加定期筛查 补种计划年底截止"
+  },
+  "summary": {
+   "en": "The Centre for Health Protection today urged the public to mark World Cervical Cancer Elimination Day by getting HPV vaccination, undergoing regular cervical screening and adopting a healthy lifestyle, to achieve “early prevention, early detection and early treatment”. Cervical cancer is the seventh most common female cancer in Hong Kong, with 576 new cases recorded in 2023 and 160 women dying from it in 2024. The Centre reminded eligible women that the one-off HPV vaccination catch-up programme ends on December 31, 2026, and they should complete their vaccination series promptly.",
+   "zh_hant": "衞生署衞生防護中心今日呼籲市民響應世界子宮頸癌消除日，接種人類乳頭瘤病毒（HPV）疫苗、定期接受子宮頸篩查及保持健康生活，做到「早預防、早發現、早治療」。子宮頸癌是本港第七大常見女性癌症，2023年錄得576宗新症，2024年有160名女性死於此病。衞生防護中心提醒，一次性HPV疫苗補種計劃將於今年12月31日結束，合資格的女性居民應盡快完成接種。",
+   "zh_hans": "卫生署卫生防护中心今日呼吁市民响应世界子宫颈癌消除日，接种人类乳头瘤病毒（HPV）疫苗、定期接受子宫颈筛查及保持健康生活，做到「早预防、早发现、早治疗」。子宫颈癌是本港第七大常见女性癌症，2023年录得576宗新症，2024年有160名女性死于此病。卫生防护中心提醒，一次性HPV疫苗补种计划将于今年12月31日结束，合资格的女性居民应尽快完成接种。"
+  },
+  "tags": {
+   "en": [
+    "cervical cancer",
+    "HPV vaccine",
+    "Centre for Health Protection"
+   ],
+   "zh_hant": [
+    "子宮頸癌",
+    "HPV疫苗",
+    "衞生防護中心"
+   ],
+   "zh_hans": [
+    "子宫颈癌",
+    "HPV疫苗",
+    "卫生防护中心"
+   ]
+  }
+ },
+ {
+  "id": "20261117-bodw-gala-dinner-dfa-awards",
+  "category": "hk",
+  "published_at": "2026-11-17T20:17:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700656.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Design Week gala dinner celebrates Swiss partnership as DFA Awards honour design excellence",
+   "zh_hant": "設計營商周晚宴今晚舉行 瑞士任夥伴國 亞洲設計大獎表揚卓越設計",
+   "zh_hans": "设计营商周晚宴今晚举行 瑞士任伙伴国 亚洲设计大奖表扬卓越设计"
+  },
+  "summary": {
+   "en": "The Permanent Secretary for Culture, Sports and Tourism, Ms Vivian Sum, attended the Business of Design Week 2026 Gala Dinner cum Design For Asian Awards Presentation Ceremony this evening. Curated by the Hong Kong Design Centre and with the Cultural and Creative Industries Development Agency as lead sponsor, BODW was first launched in 2002 and has become Hong Kong's annual design flagship event. This year Switzerland is the partner country, and the Swiss delegation will share insights at the BODW Summit from tomorrow until Friday; the evening also honoured the DFA Awards winners for their design excellence.",
+   "zh_hant": "文化體育及旅遊局常任秘書長沈鳳君今晚出席設計營商周2026晚宴暨亞洲設計大獎頒獎典禮。設計營商周由香港設計中心策劃，文創產業發展處擔任主要贊助機構，自2002年首辦以來已成為本港年度設計界旗艦活動。今屆以瑞士為夥伴國，瑞士代表團將於明日（11月18日）至星期五出席設計營商周峰會分享見解；晚宴亦表揚亞洲設計大獎得獎者的卓越成就。",
+   "zh_hans": "文化体育及旅游局常任秘书长沈凤君今晚出席设计营商周2026晚宴暨亚洲设计大奖颁奖典礼。设计营商周由香港设计中心策划，文创产业发展处担任主要赞助机构，自2002年首办以来已成为本港年度设计界旗舰活动。今届以瑞士为伙伴国，瑞士代表团将于明日（11月18日）至星期五出席设计营商周峰会分享见解；晚宴亦表扬亚洲设计大奖得奖者的卓越成就。"
+  },
+  "tags": {
+   "en": [
+    "Business of Design Week",
+    "DFA Awards",
+    "Switzerland"
+   ],
+   "zh_hant": [
+    "設計營商周",
+    "亞洲設計大獎",
+    "瑞士"
+   ],
+   "zh_hans": [
+    "设计营商周",
+    "亚洲设计大奖",
+    "瑞士"
+   ]
+  }
+ },
+ {
+  "id": "20261117-iran-bahrain-us-radar-claim",
+  "category": "world",
+  "published_at": "2026-11-17T20:12:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878174-20261117.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Iran claims drone strike on US radar in Bahrain as Manama says it intercepted the attacks",
+   "zh_hant": "伊朗稱無人機精準打擊巴林美軍雷達 巴林稱多次攔截 稱危險已解除",
+   "zh_hans": "伊朗称无人机精准打击巴林美军雷达 巴林称多次拦截 称危险已解除"
+  },
+  "summary": {
+   "en": "Iran's Islamic Revolutionary Guard Corps said it used drones to precisely strike a radar system at a US air base in Bahrain. The Guard Corps said violations of Iranian airspace and hostile actions against Iran using military bases and facilities in the region would be “answered”, and the US military should bear responsibility for the consequences. Bahrain's Defence Force General Command said in a statement the same day that Bahraini air defences intercepted multiple Iranian air strikes, foiling the attacks, while Bahrain's Interior Ministry said the danger had been cleared.",
+   "zh_hant": "伊朗伊斯蘭革命衛隊公共關係部門發聲明說，革命衛隊使用無人機，精準打擊美軍位於巴林一個空軍基地內的一套雷達系統。革命衛隊說，侵犯伊朗領空、利用區內軍事基地及設施對伊朗採取敵對行動，都將「得到回應」，美軍應為有關行為承擔責任。巴林國防軍總司令部同日發聲明指，巴林防空部隊攔截了多次伊朗的空中打擊，令打擊未能得逞；巴林內政部亦發聲明指危險已解除。",
+   "zh_hans": "伊朗伊斯兰革命卫队公共关系部门发声明说，革命卫队使用无人机，精准打击美军位于巴林一个空军基地内的一套雷达系统。革命卫队说，侵犯伊朗领空、利用区内军事基地及设施对伊朗采取敌对行动，都将「得到回应」，美军应为有关行为承担责任。巴林国防军总司令部同日发声明指，巴林防空部队拦截了多次伊朗的空中打击，令打击未能得逞；巴林内政部亦发声明指危险已解除。"
+  },
+  "tags": {
+   "en": [
+    "Iran",
+    "Bahrain",
+    "US military"
+   ],
+   "zh_hant": [
+    "伊朗",
+    "巴林",
+    "美軍"
+   ],
+   "zh_hans": [
+    "伊朗",
+    "巴林",
+    "美军"
+   ]
+  }
+ },
+ {
+  "id": "20261117-sfc-lifetime-ban-fake-degrees",
+  "category": "finance",
+  "published_at": "2026-11-17T19:21:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878156-20261117.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Man banned from industry for life after faking degrees in SFC licence applications",
+   "zh_hant": "多次虛報學歷交假學位證書 證監會終身禁止金清完重投業界",
+   "zh_hans": "多次虚报学历交假学位证书 证监会终身禁止金清完重投业界"
+  },
+  "summary": {
+   "en": "The Securities and Futures Commission has banned 金清完 from the industry for life after he made false statements about his academic qualifications and submitted fake degree certificates in multiple licence-related applications. When applying for SFC licences in 2011, 2015 and 2018, he claimed he obtained a Bachelor of Science and a Master of Business Administration from Victoria University of Wellington in New Zealand in 1994; when applying to become a responsible officer in 2022, he claimed a BSc from the University of California, Berkeley, and a BSc and an MBA from the London School of Economics. The SFC found he was not a graduate of any of the universities named and held none of the degrees claimed, and that between 2008 and 2022 he made similar false statements to employers in three job applications. The SFC said he was not a fit and proper person, that his conduct was plainly dishonest, and that he breached section 383 of the Securities and Futures Ordinance.",
+   "zh_hant": "證監會終身禁止金清完重投業界，指他在多項牌照相關申請中，多次作出失實學歷陳述及提交虛假學位證書。金清完在2011年、2015年及2018年申請證監會相關牌照時，聲稱在1994年取得新西蘭威靈頓維多利亞大學理學士及工商管理碩士學位；2022年申請成為負責人員時，則聲稱取得美國加州大學柏克萊分校理學士，以及英國倫敦政治經濟學院理學士及工商管理碩士學位。證監會調查發現，他並非上述任何一間大學的畢業生，亦不持有聲稱的任何學位；2008年至2022年間，他亦曾在三宗求職申請中向僱主作出類似失實陳述。證監會認為他並非適當人選，行為顯然不誠實，並違反《證券及期貨條例》第383條。",
+   "zh_hans": "证监会终身禁止金清完重投业界，指他在多项牌照相关申请中，多次作出失实学历陈述及提交虚假学位证书。金清完在2011年、2015年及2018年申请证监会相关牌照时，声称在1994年取得新西兰威灵顿维多利亚大学理学士及工商管理硕士学位；2022年申请成为负责人员时，则声称取得美国加州大学柏克莱分校理学士，以及英国伦敦政治经济学院理学士及工商管理硕士学位。证监会调查发现，他并非上述任何一间大学的毕业生，亦不持有声称的任何学位；2008年至2022年间，他亦曾在三宗求职申请中向雇主作出类似失实陈述。证监会认为他并非适当人选，行为显然不诚实，并违反《证券及期货条例》第383条。"
+  },
+  "tags": {
+   "en": [
+    "SFC",
+    "金清完",
+    "fake degrees"
+   ],
+   "zh_hant": [
+    "證監會",
+    "金清完",
+    "假學歷"
+   ],
+   "zh_hans": [
+    "证监会",
+    "金清完",
+    "假学历"
+   ]
+  }
+ },
+ {
+  "id": "20261117-consignment-shops-fraud-16-million",
+  "category": "hk",
+  "published_at": "2026-11-17T19:06:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878160-20261117.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "More than 40 people report two consignment shops over HK$16.6 million in unpaid sale proceeds",
+   "zh_hant": "兩寄賣店疑拖欠寄賣款項 逾40人報案涉款1660萬 警列欺詐重案組跟進",
+   "zh_hans": "两寄卖店疑拖欠寄卖款项 逾40人报案涉款1660万 警列欺诈重案组跟进"
+  },
+  "summary": {
+   "en": "Police have received reports from more than 40 people alleging two consignment shops failed to pay them sale proceeds, involving more than HK$16.6 million in total. As of 3pm today, 37 people reported a shop on Russell Street in Causeway Bay for allegedly owing about HK$14 million, while six people reported a shop on Harcourt Road in Admiralty for allegedly owing about HK$2.6 million. Police are treating the cases as fraud for now and the investigations continue, handled by the Wan Chai and Central District crime squads.",
+   "zh_hant": "警方接獲逾40人報案，指兩間寄賣店分別懷疑拖欠寄賣款項，涉款共逾1,660萬元。截至今日下午3時，警方共接獲37人報案，指銅鑼灣羅素街一間店舖懷疑拖欠寄賣款項，涉款約1,400萬元；另外接獲6人報案，指金鐘夏愨道一間店舖懷疑拖欠寄賣款項，涉款約260萬元。警方暫時將案件列作「欺詐」處理，仍在調查中，交由灣仔警區重案組及中區警區重案組跟進。",
+   "zh_hans": "警方接获逾40人报案，指两间寄卖店分别怀疑拖欠寄卖款项，涉款共逾1,660万元。截至今日下午3时，警方共接获37人报案，指铜锣湾罗素街一间店铺怀疑拖欠寄卖款项，涉款约1,400万元；另外接获6人报案，指金钟夏悫道一间店铺怀疑拖欠寄卖款项，涉款约260万元。警方暂时将案件列作「欺诈」处理，仍在调查中，交由湾仔警区重案组及中区警区重案组跟进。"
+  },
+  "tags": {
+   "en": [
+    "consignment shops",
+    "fraud",
+    "police"
+   ],
+   "zh_hant": [
+    "寄賣店",
+    "欺詐",
+    "警方"
+   ],
+   "zh_hans": [
+    "寄卖店",
+    "欺诈",
+    "警方"
+   ]
+  }
+ },
+ {
   "id": "20261117-cold-front-friday-15-degrees",
   "category": "hk",
   "published_at": "2026-11-17T16:39:00+08:00",
@@ -945,6 +1354,80 @@
     "退休",
     "年金",
     "草蜢"
+   ]
+  }
+ },
+ {
+  "id": "20261117-postal-services-france-normal",
+  "category": "hk",
+  "published_at": "2026-11-17T16:28:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700475.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Mail services to France return to normal as local customs clearance resumes",
+   "zh_hant": "寄往法國郵件恢復正常 香港郵政：當地清關手續已回復暢順",
+   "zh_hans": "寄往法国邮件恢复正常 香港邮政：当地清关手续已回复畅顺"
+  },
+  "summary": {
+   "en": "Hongkong Post announced today that, as advised by the postal administration of France, local customs clearance procedures have resumed normal operations, and mail delivery services to France have returned to normal.",
+   "zh_hant": "香港郵政今日宣布，據法國郵政當局通知，當地海關清關手續已恢復正常運作，寄往法國的郵件派遞服務亦已回復正常。",
+   "zh_hans": "香港邮政今日宣布，据法国邮政当局通知，当地海关清关手续已恢复正常运作，寄往法国的邮件派递服务亦已回复正常。"
+  },
+  "tags": {
+   "en": [
+    "Hongkong Post",
+    "France",
+    "mail"
+   ],
+   "zh_hant": [
+    "香港郵政",
+    "法國",
+    "郵件"
+   ],
+   "zh_hans": [
+    "香港邮政",
+    "法国",
+    "邮件"
+   ]
+  }
+ },
+ {
+  "id": "20261117-japan-aquatic-products-radiation-tests",
+  "category": "hk",
+  "published_at": "2026-11-17T16:25:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700474.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "All 193 Japanese aquatic product samples pass radiation tests as local catch also clears checks",
+   "zh_hant": "日本水產輻射檢測193樣本全數合格 本地漁獲50樣本亦全部通過",
+   "zh_hans": "日本水产辐射检测193样本全数合格 本地渔获50样本亦全部通过"
+  },
+  "summary": {
+   "en": "The Centre for Food Safety said that from noon yesterday to noon today it tested 193 food samples of aquatic and related products, seaweeds and sea salt imported from Japan for radiation levels, and no sample exceeded the safety limit. The Agriculture, Fisheries and Conservation Department also tested 50 samples of local catch, all of which passed, while the Hong Kong Observatory has stepped up monitoring of local waters with no anomaly detected so far. The Centre reminded the public that aquatic products, sea salt and seaweeds from 10 Japanese prefectures including Tokyo and Fukushima remain banned from import and supply.",
+   "zh_hant": "食物安全中心今日公布，由昨日中午至今日中午，中心對193個從日本進口的水產及相關產品、海藻和海鹽樣本進行輻射水平檢測，沒有樣本超出安全限值。漁護署亦對50個本地漁獲樣本進行輻射檢測，全部通過；天文台亦已加強監測本地水域環境，至今未發現異常。食安中心提醒，來自東京、福島等10個都縣的水產、海鹽及海藻繼續禁止進口及供應。",
+   "zh_hans": "食物安全中心今日公布，由昨日中午至今日中午，中心对193个从日本进口的水产及相关产品、海藻和海盐样本进行辐射水平检测，没有样本超出安全限值。渔护署亦对50个本地渔获样本进行辐射检测，全部通过；天文台亦已加强监测本地水域环境，至今未发现异常。食安中心提醒，来自东京、福岛等10个都县的水产、海盐及海藻继续禁止进口及供应。"
+  },
+  "tags": {
+   "en": [
+    "Japanese aquatic products",
+    "radiation tests",
+    "Centre for Food Safety"
+   ],
+   "zh_hant": [
+    "日本水產",
+    "輻射檢測",
+    "食安中心"
+   ],
+   "zh_hans": [
+    "日本水产",
+    "辐射检测",
+    "食安中心"
    ]
   }
  },
