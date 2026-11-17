@@ -7,7 +7,7 @@
    "name": "香港電台",
    "url": "https://news.rthk.hk/rthk/ch/component/k2/1878197-20261117.htm"
   },
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-wang-yi-anand-china-canada-v2.jpg",
   "title": {
    "en": "Wang Yi meets Canadian FM Anand in Shenzhen, urging concrete action to deliver on leaders' consensus",
    "zh_hant": "王毅深圳晤加拿大外長阿南德 促以實際行動落實領導人共識 共建新型戰略夥伴",
@@ -34,7 +34,9 @@
     "加拿大",
     "中加关系"
    ]
-  }
+  },
+  "image_r2_key": "design/202611/20261118-wang-yi-anand-china-canada-v2.jpg",
+  "card_time": "2026-11-18 00:37"
  },
  {
   "id": "20261118-cold-front-friday-15-16",
@@ -44,7 +46,7 @@
    "name": "香港電台",
    "url": "https://news.rthk.hk/rthk/ch/component/k2/1878196-20261117.htm"
   },
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-cold-front-friday-15-16-v2.jpg",
   "title": {
    "en": "Cold front to cross Guangdong coast later today; Hong Kong cools tonight with lows of 15–16°C on Friday and Saturday",
    "zh_hant": "冷鋒今日稍後橫過廣東沿岸 本港今晚轉涼 周五六市區低見15度",
@@ -71,7 +73,9 @@
     "天文台",
     "气温急降"
    ]
-  }
+  },
+  "image_r2_key": "design/202611/20261118-cold-front-friday-15-16-v2.jpg",
+  "card_time": "2026-11-18 00:14"
  },
  {
   "id": "20261118-watsons-cyber-incident",
@@ -81,7 +85,7 @@
    "name": "香港電台",
    "url": "https://news.rthk.hk/rthk/ch/component/k2/1878195-20261117.htm"
   },
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-watsons-cyber-incident-v2.jpg",
   "title": {
    "en": "Watsons says third-party supplier cyber incident does not affect Hong Kong business and involves no personal data",
    "zh_hant": "屈臣氏第三方供應商網絡安全事故 強調與香港業務無關 零個人資料外洩",
@@ -108,6 +112,8 @@
     "网络安全",
     "个人资料"
    ]
-  }
+  },
+  "image_r2_key": "design/202611/20261118-watsons-cyber-incident-v2.jpg",
+  "card_time": "2026-11-18 00:07"
  }
 ]
