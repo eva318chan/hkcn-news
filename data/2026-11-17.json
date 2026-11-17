@@ -1,5 +1,116 @@
 [
   {
+    "id": "20261117-asia-stocks-nikkei-970-kospi-5000",
+    "category": "finance",
+    "published_at": "2026-11-17T08:12:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878072-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Asian Stocks Slide as Nikkei Tumbles Nearly 1,000 Points and KOSPI Briefly Loses 5,000 | Losses Extend Monday's Rout",
+      "zh_hant": "日股初段曾瀉近千點 韓股一度失守5000關 亞股延續上日跌勢",
+      "zh_hans": "日股初段曾泻近千点 韩股一度失守5000关 亚股延续上日跌势"
+    },
+    "summary": {
+      "en": "Asian stocks opened lower on Tuesday, extending Monday's sell-off. Japan's Nikkei 225 fell as much as 970 points to 58,691 in early trading, and was later down 799 points, or more than 1.3%, at 58,862. South Korea's KOSPI also slipped below the 5,000 mark to a low of 4,984, and was later down 64 points, or about 1.3%, at 5,035.",
+      "zh_hant": "日韓股市初段下挫，延續上日跌勢。日經指數開市後曾跌970點，低見58,691點，較早時報58,862點，跌799點，跌幅逾1.3%。首爾綜合指數開市後曾跌穿5,000點關口，低見4,984點，較早時報5,035點，跌64點，跌幅約1.3%。",
+      "zh_hans": "日韩股市初段下挫，延续上日跌势。日经指数开市后曾跌970点，低见58,691点，较早时报58,862点，跌799点，跌幅逾1.3%。首尔综合指数开市后曾跌穿5,000点关口，低见4,984点，较早时报5,035点，跌64点，跌幅约1.3%。"
+    },
+    "tags": {
+      "en": [
+        "Asian stocks",
+        "Nikkei",
+        "KOSPI"
+      ],
+      "zh_hant": [
+        "亞股",
+        "日經指數",
+        "韓股"
+      ],
+      "zh_hans": [
+        "亚股",
+        "日经指数",
+        "韩股"
+      ]
+    }
+  },
+  {
+    "id": "20261117-sfc-paperless-securities-fees",
+    "category": "finance",
+    "published_at": "2026-11-17T08:11:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878070-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "SFC Caps Paperless Securities Fees at HK$50 per Account | Real-Name Shareholding Now Settles Same Day",
+      "zh_hant": "證監會定無紙化收費上限 開戶最多50元 實名持股即日完成交收",
+      "zh_hans": "证监会定无纸化收费上限 开户最多50元 实名持股即日完成交收"
+    },
+    "summary": {
+      "en": "Hong Kong's Securities and Futures Commission has set the main fees for the new paperless securities market, a move it says will boost the efficiency and competitiveness of the local market. Investors who want to hold paperless shares in their own name must open a 'USI' account with a share registrar; the SFC has capped the one-off account fee at HK$50, and converting each physical share certificate costs HK$5 with a HK$20 minimum. Selling shares held in a USI account, or transferring shares from a broker to a USI account, costs 0.02% of the share value, also with a HK$20 minimum. SFC executive director Leung Chung-yin said paperless settlement can now be completed on the same day, compared with about 10 days previously, and that the market took nearly 20 years of work to deliver.",
+      "zh_hant": "證監會為無紙證券市場設定主要費用，措施將提升香港金融市場效率。投資者想實名持有無紙化股票，關鍵第一步是到股份過戶處開立「持股易」戶口（USI），將股票電子化；證監會為開設戶口設定收費，每個最多50元，屬一次過收費，實物股票無紙化每張手續費5元，每次最低收費20元。投資者出售USI實名股份，或將存放在經紀行的股份轉至USI實名持有，股份過戶處會按股票價值的0.02%計算費用，每次最少收20元。證監會市場監察部執行董事梁仲賢表示，以往將實名股票存入中央結算系統執行買賣，需時約10日，無紙化後可以即日完成；香港無紙證券市場經過接近20年努力能夠落實。",
+      "zh_hans": "证监会为无纸证券市场设定主要费用，措施将提升香港金融市场效率。投资者想实名持有无纸化股票，关键第一步是到股份过户处开立「持股易」户口（USI），将股票电子化；证监会为开设户口设定收费，每个最多50元，属一次过收费，实物股票无纸化每张手续费5元，每次最低收费20元。投资者出售USI实名股份，或将存放在经纪行的股份转至USI实名持有，股份过户处会按股票价值的0.02%计算费用，每次最少收20元。证监会市场监察部执行董事梁仲贤表示，以往将实名股票存入中央结算系统执行买卖，需时约10日，无纸化后可以即日完成；香港无纸证券市场经过接近20年努力能够落实。"
+    },
+    "tags": {
+      "en": [
+        "SFC",
+        "paperless securities",
+        "Hong Kong stocks"
+      ],
+      "zh_hant": [
+        "證監會",
+        "無紙化",
+        "港股"
+      ],
+      "zh_hans": [
+        "证监会",
+        "无纸化",
+        "港股"
+      ]
+    }
+  },
+  {
+    "id": "20261117-bank-of-canada-macklem-june-2027",
+    "category": "world",
+    "published_at": "2026-11-17T07:41:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878068-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Bank of Canada Governor Macklem to Step Down in June 2027 | Successor to Be Picked by Next Spring",
+      "zh_hant": "加拿大央行總裁麥克勒姆明年6月卸任 結束7年任期 繼任人選春季前定",
+      "zh_hans": "加拿大央行总裁麦克勒姆明年6月卸任 结束7年任期 继任人选春季前定"
+    },
+    "summary": {
+      "en": "Bank of Canada Governor Tiff Macklem has announced he will step down when his term ends in June 2027, ending a seven-year tenure. The central bank said it will form a committee to find a successor, with the selection expected to be completed by next spring. Analysts cited by foreign media said the bank has never had a woman as governor, but senior deputy governor Carolyn Rogers is a strong candidate on her record, with former senior deputy governor Carolyn Wilkins and Royal Bank of Canada chief economist Frances Donald also seen as possible contenders. However, all four governors chosen since 2001 have come from outside the bank. Analysts added that whoever takes over is unlikely to bring major policy change, as the bank and the finance department renewed their five-year monetary policy framework earlier this month, keeping the 2% inflation target unchanged.",
+      "zh_hant": "加拿大央行總裁麥克勒姆宣布，明年6月任期屆滿後將會卸任，結束7年任期。央行表示，將成立委員會物色新總裁，預計明年春季前完成遴選工作。外電引述分析指，加拿大央行從未有女性出任總裁，但按履歷來看，高級副總裁羅杰斯是有力人選，其他潛在女性人選包括前高級副總裁威爾金斯、加拿大皇家銀行首席經濟學家唐納德。不過，外電報道指，自2001年以來，加拿大央行4次總裁人選都來自外部。分析又指，不論由誰接任總裁，都不太可能出現重大政策調整，因為加拿大央行與財政部本月初更新5年貨幣政策框架，通脹目標維持於2%不變。",
+      "zh_hans": "加拿大央行总裁麦克勒姆宣布，明年6月任期届满后将会卸任，结束7年任期。央行表示，将成立委员会物色新总裁，预计明年春季前完成遴选工作。外电引述分析指，加拿大央行从未有女性出任总裁，但按履历来看，高级副总裁罗杰斯是有力人选，其他潜在女性人选包括前高级副总裁威尔金斯、加拿大皇家银行首席经济学家唐纳德。不过，外电报道指，自2001年以来，加拿大央行4次总裁人选都来自外部。分析又指，不论由谁接任总裁，都不太可能出现重大政策调整，因为加拿大央行与财政部本月初更新5年货币政策框架，通胀目标维持于2%不变。"
+    },
+    "tags": {
+      "en": [
+        "Bank of Canada",
+        "Tiff Macklem",
+        "central banks"
+      ],
+      "zh_hant": [
+        "加拿大央行",
+        "麥克勒姆",
+        "央行"
+      ],
+      "zh_hans": [
+        "加拿大央行",
+        "麦克勒姆",
+        "央行"
+      ]
+    }
+  },
+  {
     "id": "20261117-us-ai-chip-rule-third-country",
     "category": "tech",
     "published_at": "2026-11-17T06:31:00+08:00",
@@ -33,6 +144,154 @@
         "AI芯片",
         "美国商务部",
         "出口管制"
+      ]
+    }
+  },
+  {
+    "id": "20261117-fed-walsh-ai-risks",
+    "category": "finance",
+    "published_at": "2026-11-17T06:29:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878062-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Fed Chair Warsh: AI Could Reshape Economy and Monetary Policy | Best Case Lifts Productivity, Worst Case Fuels Job Losses",
+      "zh_hant": "沃什警告AI將重塑經濟與貨幣政策 樂觀可推高生產力 失控或致失業升溫",
+      "zh_hans": "沃什警告AI将重塑经济与货币政策 乐观可推高生产力 失控或致失业升温"
+    },
+    "summary": {
+      "en": "Federal Reserve Chair Kevin Warsh has said the Fed has begun modelling different scenarios for how the faster spread of artificial intelligence could affect the US economy, stressing that the central bank's job is to understand the technology's broad impact on the economy and monetary policy. Speaking at a public event, Warsh called AI 'superintelligence', saying that in the best case it could raise productivity, let workers and capital holders share the gains, and keep GDP growth above its long-run average with the US near full employment. But he also warned the technology could push unemployment higher, disappoint on investment returns and trigger an economic slowdown, while malicious use of AI could cause major damage at high economic cost.",
+      "zh_hant": "聯儲局主席沃什表示，聯儲局已開始推演人工智能（AI）加快普及，可能對美國經濟產生影響的不同情境。他強調，當局在評估AI影響時，既不支持，亦不反對，當局責任在於理解這項技術廣泛應用，將對經濟及貨幣政策產生重大影響，但關鍵在於影響程度、範圍及時機。沃什出席一場公開會議時致辭，將人工智能稱為「超級智能」，又指出在最好情境下，這項技術可能導致生產率提高、勞動者與資本持有人都能夠共享經濟收益，實際國內生產總值（GDP）增長將持續高於長期平均水平，美國亦將保持接近充分就業狀態。但他亦指出，新興技術亦可能導致失業率上升，甚至預期投資回報令人失望引發經濟放緩，又指惡意利用AI等相關風險，亦可能造成很大破壞，並帶來高昂的經濟代價。",
+      "zh_hans": "联储局主席沃什表示，联储局已开始推演人工智能（AI）加快普及，可能对美国经济产生影响的不同情境。他强调，当局在评估AI影响时，既不支持，亦不反对，当局责任在于理解这项技术广泛应用，将对经济及货币政策产生重大影响，但关键在于影响程度、范围及时机。沃什出席一场公开会议时致辞，将人工智能称为「超级智能」，又指出在最好情境下，这项技术可能导致生产率提高、劳动者与资本持有人都能够共享经济收益，实际国内生产总值（GDP）增长将持续高于长期平均水平，美国亦将保持接近充分就业状态。但他亦指出，新兴技术亦可能导致失业率上升，甚至预期投资回报令人失望引发经济放缓，又指恶意利用AI等相关风险，亦可能造成很大破坏，并带来高昂的经济代价。"
+    },
+    "tags": {
+      "en": [
+        "Federal Reserve",
+        "Kevin Warsh",
+        "artificial intelligence"
+      ],
+      "zh_hant": [
+        "聯儲局",
+        "沃什",
+        "人工智能"
+      ],
+      "zh_hans": [
+        "联储局",
+        "沃什",
+        "人工智能"
+      ]
+    }
+  },
+  {
+    "id": "20261117-dollar-index-18-month-high",
+    "category": "finance",
+    "published_at": "2026-11-17T06:21:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878061-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Dollar Index Hits 18-Month High as Markets Bet on December Fed Hike | Treasury Yields Slide",
+      "zh_hant": "美元指數衝上逾年半高位 市場押注聯儲局下月加息 美債息回落",
+      "zh_hans": "美元指数冲上逾年半高位 市场押注联储局下月加息 美债息回落"
+    },
+    "summary": {
+      "en": "The US dollar index climbed to an 18-month high as markets bet the Federal Reserve will raise interest rates next month. The index reached 103.63, up more than 0.2%. The sharp fall in oil prices raised hopes that inflation pressures could ease, pushing US Treasury yields lower: the 10-year yield fell below 5.11%, down more than four basis points, while the 30-year yield stood at 5.446% and the two-year at 4.812%. The Australian and New Zealand dollars both fell more than 0.5% against the US dollar in New York trading, the euro slipped below 1.10 and sterling hovered around 1.318, while the dollar was down more than 0.1% against the yen at 159.46.",
+      "zh_hant": "市場預期聯儲局下月將會加息，支持美元持續造好，美元指數高見103.63，升逾0.2%，創逾1年半新高。油價急挫，市場關注會否一定程度緩和通脹擔憂，美債孳息率向下。10年期債息低見5.11厘以下，跌逾4個基點。30年期債息低見5.446厘，兩年期債息低見4.812厘。在紐約尾市，澳元及新西蘭元兌美元都跌逾0.5%，分別徘徊0.673及0.549水平。歐元兌美元略低於1.1關口，英鎊兌美元徘徊1.318，兩者都跌逾0.2%。美元兌日圓跌逾0.1%，報159.46。",
+      "zh_hans": "市场预期联储局下月将会加息，支持美元持续造好，美元指数高见103.63，升逾0.2%，创逾1年半新高。油价急挫，市场关注会否一定程度缓和通胀担忧，美债孳息率向下。10年期债息低见5.11厘以下，跌逾4个基点。30年期债息低见5.446厘，两年期债息低见4.812厘。在纽约尾市，澳元及新西兰元兑美元都跌逾0.5%，分别徘徊0.673及0.549水平。欧元兑美元略低于1.1关口，英镑兑美元徘徊1.318，两者都跌逾0.2%。美元兑日圆跌逾0.1%，报159.46。"
+    },
+    "tags": {
+      "en": [
+        "US dollar",
+        "Federal Reserve",
+        "Treasury yields"
+      ],
+      "zh_hant": [
+        "美元",
+        "聯儲局",
+        "美債"
+      ],
+      "zh_hans": [
+        "美元",
+        "联储局",
+        "美债"
+      ]
+    }
+  },
+  {
+    "id": "20261117-oil-plunge-3-percent-oversupply",
+    "category": "finance",
+    "published_at": "2026-11-17T06:13:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878059-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Oil Prices Plunge More Than 3% as Hormuz Shipments Resume | Brent Falls Below US$93 on Oversupply Fears",
+      "zh_hant": "油價急挫逾3% 布蘭特失守93美元 霍爾木茲運輸恢復 供應過剩憂慮升溫",
+      "zh_hans": "油价急挫逾3% 布兰特失守93美元 霍尔木兹运输恢复 供应过剩忧虑升温"
+    },
+    "summary": {
+      "en": "International oil prices plunged more than 3% as signs that oil shipments through the Strait of Hormuz are resuming strengthened expectations of a supply glut. The International Energy Agency said last Friday that Middle East oil exports are recovering faster than global demand is growing, and it expects the global oil market to return to oversupply this quarter. Brent crude for January delivery closed at US$92.44 a barrel, down more than 3.5%, while New York crude for December delivery closed at US$85.72, down 3.2%.",
+      "zh_hant": "國際油價急挫逾3%，有跡象顯示經霍爾木茲海峽的石油運輸正在恢復，強化市場對供應將會過剩的預期。國際能源署上周五亦表示，中東石油出口恢復速度快過全球石油需求增長，預料今季全球油市將重新出現供應過剩。布蘭特期油1月合約收報每桶92.44美元，跌逾3.5%。紐約期油12月合約收報85.72美元，跌3.2%。",
+      "zh_hans": "国际油价急挫逾3%，有迹象显示经霍尔木兹海峡的石油运输正在恢复，强化市场对供应将会过剩的预期。国际能源署上周五亦表示，中东石油出口恢复速度快过全球石油需求增长，预料今季全球油市将重新出现供应过剩。布兰特期油1月合约收报每桶92.44美元，跌逾3.5%。纽约期油12月合约收报85.72美元，跌3.2%。"
+    },
+    "tags": {
+      "en": [
+        "oil prices",
+        "Brent crude",
+        "oversupply"
+      ],
+      "zh_hant": [
+        "油價",
+        "布蘭特期油",
+        "供應過剩"
+      ],
+      "zh_hans": [
+        "油价",
+        "布兰特期油",
+        "供应过剩"
+      ]
+    }
+  },
+  {
+    "id": "20261117-gold-1-year-low-dollar-rally",
+    "category": "finance",
+    "published_at": "2026-11-17T06:13:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878058-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Gold Falls to One-Year Low as Strong Dollar and Rate-Hike Bets Weigh | Spot Gold Dips Below US$3,831",
+      "zh_hant": "金價跌穿3831美元創逾一年新低 美元強勢加息預期雙重夾擊",
+      "zh_hans": "金价跌穿3831美元创逾一年新低 美元强势加息预期双重夹击"
+    },
+    "summary": {
+      "en": "Gold prices fell to a more than one-year low, pressured by a stronger US dollar and market expectations that the Federal Reserve will raise interest rates next month. Spot gold fell to as low as US$3,830.74 an ounce, down about 1.3%, and was later hovering near US$3,850. December gold futures in New York closed at US$3,853, down about 0.9%.",
+      "zh_hant": "金價創逾1年新低，由於美元持續走強，市場預期聯儲局下月將加息，對金價構成壓力。現貨金低見每盎司3830.74美元，跌約1.3%，較早時徘徊3850美元附近。紐約期金12月合約收報3853美元，跌約0.9%。",
+      "zh_hans": "金价创逾1年新低，由于美元持续走强，市场预期联储局下月将加息，对金价构成压力。现货金低见每盎司3830.74美元，跌约1.3%，较早时徘徊3850美元附近。纽约期金12月合约收报3853美元，跌约0.9%。"
+    },
+    "tags": {
+      "en": [
+        "gold prices",
+        "US dollar",
+        "Federal Reserve"
+      ],
+      "zh_hant": [
+        "金價",
+        "美元",
+        "聯儲局"
+      ],
+      "zh_hans": [
+        "金价",
+        "美元",
+        "联储局"
       ]
     }
   },
