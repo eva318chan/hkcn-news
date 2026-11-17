@@ -115,5 +115,81 @@
   },
   "image_r2_key": "design/202611/20261118-watsons-cyber-incident-v2.jpg",
   "card_time": "2026-11-18 00:07"
+ },
+ {
+  "id": "20261118-huang-willing-return-nvidia-ceo",
+  "category": "tech",
+  "published_at": "2026-11-18T02:12:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878202-20261118.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Jensen Huang says he would return as Nvidia CEO if the board agrees, as petition backing him tops 190,000",
+   "zh_hant": "黃仁勳表態願重掌Nvidia 逾19萬人聯署撐復職 特朗普話唔介意",
+   "zh_hans": "黄仁勋表态愿重掌Nvidia 逾19万人联署撑复职 特朗普话唔介意"
+  },
+  "summary": {
+   "en": "Jensen Huang, who recently stepped down as Nvidia chief executive, said he would return as CEO if the board believes his return serves the best interests of shareholders, employees, the company and the United States. Huang, caught up in an extramarital-affair controversy, wrote on social media admitting serious mistakes in his private life, and said he has heard strong support for his return from employees, investors, business partners and customers. An online petition backing his reinstatement has grown to more than 190,000 signatures, including Elon Musk, and US President Donald Trump has said he would not mind Huang returning to Nvidia.",
+   "zh_hant": "早前辭去Nvidia行政總裁職務的黃仁勳表示，如果董事會認為他重返公司符合股東、員工、公司以至美國的最佳利益，他會重新出任行政總裁。捲入婚外情風波的黃仁勳在社交平台發文，再次承認自己在私人生活犯下嚴重錯誤，並表示感受到大量來自員工、投資者、商業夥伴和客戶支持他重返公司。網上支持他復職的聯署已增至超過19萬人簽署，包括富商馬斯克；美國總統特朗普日前亦表示，不介意黃仁勳重返Nvidia。",
+   "zh_hans": "早前辞去Nvidia行政总裁职务的黄仁勋表示，如果董事会认为他重返公司符合股东、员工、公司以至美国的最佳利益，他会重新出任行政总裁。卷入婚外情风波的黄仁勋在社交平台发文，再次承认自己在私人生活犯下严重错误，并表示感受到大量来自员工、投资者、商业伙伴和客户支持他重返公司。网上支持他复职的联署已增至超过19万人签署，包括富商马斯克；美国总统特朗普日前亦表示，不介意黄仁勋重返Nvidia。"
+  },
+  "tags": {
+   "en": [
+    "Jensen Huang",
+    "Nvidia",
+    "CEO"
+   ],
+   "zh_hant": [
+    "黃仁勳",
+    "Nvidia",
+    "行政總裁"
+   ],
+   "zh_hans": [
+    "黄仁勋",
+    "Nvidia",
+    "行政总裁"
+   ]
+  },
+  "card_time": "2026-11-18 02:12"
+ },
+ {
+  "id": "20261118-china-canada-exemption-extended",
+  "category": "china",
+  "published_at": "2026-11-18T01:12:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878200-20261118.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "China and Canada extend exemption measures by two years, with Ottawa widening steel and aluminium exemptions",
+   "zh_hant": "中加延長豁免措施兩年 加方擴大中國鋼鋁豁免 中方調整農水產品措施",
+   "zh_hans": "中加延长豁免措施两年 加方扩大中国钢铝豁免 中方调整农水产品措施"
+  },
+  "summary": {
+   "en": "A commerce ministry spokesperson said that, guided by the two countries' leaders' consensus, China and Canada held several rounds of trade talks on the basis of their preliminary joint arrangement and agreed to extend the related exemption measures by two years. Canada will further widen exemptions for Chinese steel and aluminium products, while China will adjust anti-discrimination measures on some Canadian agricultural and aquatic products. The two sides also reached positive consensus on e-commerce cooperation, Chinese banks opening branches in Canada and improving the business environment.",
+   "zh_hant": "商務部發言人表示，在兩國領導人重要共識引領下，中加雙方在初步聯合安排基礎上展開多輪經貿磋商，同意將初步聯合安排的相關豁免措施延長兩年。加方將進一步擴大對中國鋼鋁產品的豁免範圍；中方將相應調整對加方部分農水產品採取的反歧視措施。雙方亦就電子商務合作、中資銀行在加設立分支機構等經貿問題形成積極共識。",
+   "zh_hans": "商务部发言人表示，在两国领导人重要共识引领下，中加双方在初步联合安排基础上展开多轮经贸磋商，同意将初步联合安排的相关豁免措施延长两年。加方将进一步扩大对中国钢铝产品的豁免范围；中方将相应调整对加方部分农水产品采取的反歧视措施。双方亦就电子商务合作、中资银行在加设立分支机构等经贸问题形成积极共识。"
+  },
+  "tags": {
+   "en": [
+    "China-Canada relations",
+    "steel and aluminium",
+    "trade talks"
+   ],
+   "zh_hant": [
+    "中加關係",
+    "鋼鋁產品",
+    "經貿磋商"
+   ],
+   "zh_hans": [
+    "中加关系",
+    "钢铝产品",
+    "经贸磋商"
+   ]
+  },
+  "card_time": "2026-11-18 01:12"
  }
 ]
