@@ -656,6 +656,45 @@
   "image_r2_key": "design/202611/20261117-almac-green-fuels-logistics-achievements.jpg"
  },
  {
+  "id": "20261117-xi-meets-mexico-president",
+  "category": "china",
+  "published_at": "2026-11-17T20:07:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878173-20261117.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-xi-meets-mexico-president-v2.jpg",
+  "title": {
+   "en": "Xi meets Mexican President Sheinbaum in Shenzhen, saying China-Mexico ties matter for the Global South",
+   "zh_hant": "習近平深圳晤墨西哥總統辛鮑姆 稱中墨關係促全球南方自強",
+   "zh_hans": "习近平深圳晤墨西哥总统辛鲍姆 称中墨关系促全球南方自强"
+  },
+  "summary": {
+   "en": "President Xi Jinping met Mexican President Claudia Sheinbaum in Shenzhen on Monday afternoon. Xi said China and Mexico, both major countries of the Global South at a critical stage of development, should push bilateral relations to a higher level, which matters for their respective development strategies and for the Global South's joint self-strengthening. Sheinbaum said Mexico firmly adheres to the one-China principle and attaches great importance to its relationship with China.",
+   "zh_hant": "國家主席習近平下午在深圳會見來華出席亞太經合組織領導人非正式會議的墨西哥總統辛鮑姆。習近平指出，中國與墨西哥同為全球南方大國，都處在發展振興的關鍵階段，推動中墨關係向更高水平發展，對促進全球南方聯合自強具有重要意義。辛鮑姆表示，墨西哥堅定恪守一個中國原則，高度重視對華關係。",
+   "zh_hans": "国家主席习近平下午在深圳会见来华出席亚太经合组织领导人非正式会议的墨西哥总统辛鲍姆。习近平指出，中国与墨西哥同为全球南方大国，都处在发展振兴的关键阶段，推动中墨关系向更高水平发展，对促进全球南方联合自强具有重要意义。辛鲍姆表示，墨西哥坚定恪守一个中国原则，高度重视对华关系。"
+  },
+  "tags": {
+   "en": [
+    "Xi Jinping",
+    "Mexico",
+    "APEC"
+   ],
+   "zh_hant": [
+    "習近平",
+    "墨西哥",
+    "APEC"
+   ],
+   "zh_hans": [
+    "习近平",
+    "墨西哥",
+    "APEC"
+   ]
+  },
+  "card_time": "2026-11-17 20:07",
+  "image_r2_key": "design/202611/20261117-xi-meets-mexico-president-v2.jpg"
+ },
+ {
   "id": "20261117-eac-polling-staff-training",
   "category": "hk",
   "published_at": "2026-11-17T20:05:00+08:00",
@@ -692,6 +731,45 @@
    ]
   },
   "image_r2_key": "design/202611/20261117-eac-polling-staff-training.jpg"
+ },
+ {
+  "id": "20261117-xi-meets-keiko-fujimori",
+  "category": "china",
+  "published_at": "2026-11-17T19:59:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878172-20261117.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-xi-meets-keiko-fujimori-v2.jpg",
+  "title": {
+   "en": "Xi meets Peruvian President Fujimori in Shenzhen, hailing Chancay Port's boost to Asia-Latin America trade",
+   "zh_hant": "習近平深圳晤秘魯總統藤森慶子 錢凱港促進亞拉經貿合作",
+   "zh_hans": "习近平深圳晤秘鲁总统藤森庆子 钱凯港促进亚拉经贸合作"
+  },
+  "summary": {
+   "en": "President Xi Jinping met Peruvian President Keiko Fujimori in Shenzhen on Monday afternoon. Xi said the upgraded China-Peru free trade agreement took effect two weeks ago, and the Chancay Port built with Chinese participation has strongly promoted trade between Asia and Latin America. Fujimori said Peru firmly adheres to the one-China principle and will use the upgraded FTA as an opportunity to promote trade, investment and infrastructure cooperation.",
+   "zh_hant": "國家主席習近平下午在深圳會見來華出席亞太經合組織領導人非正式會議的秘魯總統藤森慶子。習近平指出，中秘自貿協定升級議定書兩星期前正式生效，中國企業參與建設的錢凱港有力促進亞洲與拉美經貿合作。藤森慶子表示，秘魯堅定恪守一個中國原則，願以自貿協定升級為契機，促進貿易、投資和基礎設施等合作。",
+   "zh_hans": "国家主席习近平下午在深圳会见来华出席亚太经合组织领导人非正式会议的秘鲁总统藤森庆子。习近平指出，中秘自贸协定升级议定书两星期前正式生效，中国企业参与建设的钱凯港有力促进亚洲与拉美经贸合作。藤森庆子表示，秘鲁坚定恪守一个中国原则，愿以自贸协定升级为契机，促进贸易、投资和基础设施等合作。"
+  },
+  "tags": {
+   "en": [
+    "Xi Jinping",
+    "Peru",
+    "Chancay Port"
+   ],
+   "zh_hant": [
+    "習近平",
+    "秘魯",
+    "錢凱港"
+   ],
+   "zh_hans": [
+    "习近平",
+    "秘鲁",
+    "钱凯港"
+   ]
+  },
+  "card_time": "2026-11-17 19:59",
+  "image_r2_key": "design/202611/20261117-xi-meets-keiko-fujimori-v2.jpg"
  },
  {
   "id": "20261117-dh-exercise-quartz-novel-disease",
@@ -770,6 +848,162 @@
   "image_r2_key": "design/202611/20261117-legco-ai-subcommittee-ha-ai-lab.jpg"
  },
  {
+  "id": "20261117-shenzhou-24-launch-soon",
+  "category": "china",
+  "published_at": "2026-11-17T19:50:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878171-20261117.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-shenzhou-24-launch-soon-v2.jpg",
+  "title": {
+   "en": "Shenzhou-24 to launch in coming days as spacecraft-rocket combination moves to launch area",
+   "zh_hant": "神舟二十四號近日擇機發射 船箭組合體已轉運至發射區",
+   "zh_hans": "神舟二十四号近日择机发射 船箭组合体已转运至发射区"
+  },
+  "summary": {
+   "en": "The Shenzhou-24 crewed spacecraft and its Long March-2F Y24 carrier rocket have been moved to the launch area, with launch planned in the coming days at a suitable opportunity. The China Manned Space Agency said launch-site facilities are in good condition, and pre-launch functional checks and joint tests will proceed as planned.",
+   "zh_hant": "神舟二十四號載人飛船與長征二號F遙二十四運載火箭組合體，今日已轉運至發射區，計劃近日擇機實施發射。中國載人航天工程辦公室表示，目前發射場設施設備狀態良好，後續將按計劃開展發射前的各項功能檢查和聯合測試等工作。",
+   "zh_hans": "神舟二十四号载人飞船与长征二号F遥二十四运载火箭组合体，今日已转运至发射区，计划近日择机实施发射。中国载人航天工程办公室表示，目前发射场设施设备状态良好，后续将按计划开展发射前的各项功能检查和联合测试等工作。"
+  },
+  "tags": {
+   "en": [
+    "Shenzhou-24",
+    "manned spaceflight",
+    "Long March-2F"
+   ],
+   "zh_hant": [
+    "神舟二十四號",
+    "載人航天",
+    "長征二號F"
+   ],
+   "zh_hans": [
+    "神舟二十四号",
+    "载人航天",
+    "长征二号F"
+   ]
+  },
+  "card_time": "2026-11-17 19:50",
+  "image_r2_key": "design/202611/20261117-shenzhou-24-launch-soon-v2.jpg"
+ },
+ {
+  "id": "20261117-united-airlines-system-outage",
+  "category": "world",
+  "published_at": "2026-11-17T19:47:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878170-20261117.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-united-airlines-system-outage-v2.jpg",
+  "title": {
+   "en": "United Airlines system outage grounds flights for nearly two hours; no sign of cyberattack",
+   "zh_hant": "美聯航系統故障癱瘓近兩小時 多班航班延誤取消 已排除網安問題",
+   "zh_hans": "美联航系统故障瘫痪近两小时 多班航班延误取消 已排除网安问题"
+  },
+  "summary": {
+   "en": "United Airlines suffered a system outage on Monday local time lasting about one hour and 40 minutes, delaying or cancelling a number of flights, and apologised to customers. The airline said the problem has been resolved, with no sign it was related to cybersecurity, and flights already airborne and those operated by its United Express partners were unaffected. An internal union memo said the outage hit several applications used by pilots, including crew communications, leaving the airline unable to provide final load data to departing flights.",
+   "zh_hant": "美國聯合航空公司於當地星期一一度出現系統故障，持續約1小時40分鐘，多個航班延誤或取消，公司向客戶致歉。美聯航表示，故障問題已解決，無跡象顯示與網絡安全問題有關，在飛行途中的航班及旗下聯翔公司營運的航班未受影響。機師工會內部備忘錄指出，故障影響機組人員通信系統等多項應用程式，令公司無法向離港航班提供最終飛機載重數據。",
+   "zh_hans": "美国联合航空公司于当地星期一一度出现系统故障，持续约1小时40分钟，多个航班延误或取消，公司向客户致歉。美联航表示，故障问题已解决，无迹象显示与网络安全问题有关，在飞行途中的航班及旗下联翔公司营运的航班未受影响。机师工会内部备忘录指出，故障影响机组人员通信系统等多项应用程式，令公司无法向离港航班提供最终飞机载重数据。"
+  },
+  "tags": {
+   "en": [
+    "United Airlines",
+    "system outage",
+    "flight delays"
+   ],
+   "zh_hant": [
+    "美國聯合航空",
+    "系統故障",
+    "航班延誤"
+   ],
+   "zh_hans": [
+    "美国联合航空",
+    "系统故障",
+    "航班延误"
+   ]
+  },
+  "card_time": "2026-11-17 19:47",
+  "image_r2_key": "design/202611/20261117-united-airlines-system-outage-v2.jpg"
+ },
+ {
+  "id": "20261117-ce-five-year-plan-shipping",
+  "category": "hk",
+  "published_at": "2026-11-17T19:37:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878167-20261117.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-ce-five-year-plan-shipping-v2.jpg",
+  "title": {
+   "en": "John Lee: five-year plan will consolidate Hong Kong's status as an international shipping centre",
+   "zh_hant": "李家超：五年規劃鞏固香港國際航運中心地位 強化四中心一高地",
+   "zh_hans": "李家超：五年规划巩固香港国际航运中心地位 强化四中心一高地"
+  },
+  "summary": {
+   "en": "Chief Executive John Lee said at the Asian Logistics, Maritime and Aviation Conference that Hong Kong's first five-year plan will help consolidate the city's status as an international shipping centre and aviation hub. Speaking at another forum, Lee said Hong Kong should strengthen its positioning as \"four centres and one highland\" and proactively align with the national development strategy.",
+   "zh_hant": "行政長官李家超出席「亞洲物流航運及空運會議」致辭時表示，《香港第一個五年規劃》有助鞏固本港作為國際航運中心和航空樞紐的地位。他在另一個論壇致辭時又提到，香港要強化「四中心、一高地」的定位，主動對接國家發展戰略。",
+   "zh_hans": "行政长官李家超出席「亚洲物流航运及空运会议」致辞时表示，《香港第一个五年规划》有助巩固本港作为国际航运中心和航空枢纽的地位。他在另一个论坛致辞时又提到，香港要强化「四中心、一高地」的定位，主动对接国家发展战略。"
+  },
+  "tags": {
+   "en": [
+    "John Lee",
+    "five-year plan",
+    "shipping centre"
+   ],
+   "zh_hant": [
+    "李家超",
+    "五年規劃",
+    "國際航運中心"
+   ],
+   "zh_hans": [
+    "李家超",
+    "五年规划",
+    "国际航运中心"
+   ]
+  },
+  "card_time": "2026-11-17 19:37",
+  "image_r2_key": "design/202611/20261117-ce-five-year-plan-shipping-v2.jpg"
+ },
+ {
+  "id": "20261117-bright-smart-interim-profit-up",
+  "category": "finance",
+  "published_at": "2026-11-17T19:28:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878168-20261117.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-bright-smart-interim-profit-up-v2.jpg",
+  "title": {
+   "en": "Bright Smart Securities interim profit up 5.4% as margin financing interest jumps 33%, client assets hold at HK$80.1 billion",
+   "zh_hant": "耀才證券中期多賺5.4% 孖展利息收入升33% 客戶資產守801億",
+   "zh_hans": "耀才证券中期多赚5.4% 孖展利息收入升33% 客户资产守801亿"
+  },
+  "summary": {
+   "en": "Bright Smart Securities reported interim profit of about HK$340 million for the six months to the end of September, up 5.4% year on year, with no interim dividend. Revenue fell 2.7% to over HK$480 million, with securities brokerage commission income down 18% to nearly HK$210 million while margin financing interest income rose nearly 33% to HK$170 million. Client accounts totalled nearly 618,000, with client assets held steady at HK$80.1 billion.",
+   "zh_hant": "耀才證券截至9月底的中期盈利約3.4億元，按年增長5.4%，不派中期息。期內收入逾4.8億元，按年跌2.7%，其中證券經紀佣金收入跌18%至近2.1億元，孖展融資利息收入升近33%至1.7億元。截至9月底，客戶戶口總數近61.8萬個，客戶託管資產總值穩定於801億元。",
+   "zh_hans": "耀才证券截至9月底的中期盈利约3.4亿元，按年增长5.4%，不派中期息。期内收入逾4.8亿元，按年跌2.7%，其中证券经纪佣金收入跌18%至近2.1亿元，孖展融资利息收入升近33%至1.7亿元。截至9月底，客户户口总数近61.8万个，客户托管资产总值稳定于801亿元。"
+  },
+  "tags": {
+   "en": [
+    "Bright Smart Securities",
+    "interim results",
+    "securities"
+   ],
+   "zh_hant": [
+    "耀才證券",
+    "中期業績",
+    "證券"
+   ],
+   "zh_hans": [
+    "耀才证券",
+    "中期业绩",
+    "证券"
+   ]
+  },
+  "card_time": "2026-11-17 19:28",
+  "image_r2_key": "design/202611/20261117-bright-smart-interim-profit-up-v2.jpg"
+ },
+ {
   "id": "20261117-cfs-poultry-suspension-norway-us-h5n1",
   "category": "hk",
   "published_at": "2026-11-17T19:26:00+08:00",
@@ -806,6 +1040,45 @@
    ]
   },
   "image_r2_key": "design/202611/20261117-cfs-poultry-suspension-norway-us-h5n1-v2.jpg"
+ },
+ {
+  "id": "20261117-tst-christmas-lights",
+  "category": "hk",
+  "published_at": "2026-11-17T19:23:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878166-20261117.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-tst-christmas-lights-v2.jpg",
+  "title": {
+   "en": "Tsim Sha Tsui East Christmas lights switched on, a landmark of Hong Kong's winter festivities; WinterFest to be the biggest yet",
+   "zh_hant": "尖東聖誕燈飾亮燈 羅淑佩：成冬日節慶標誌 冬日巡禮規模歷來最大",
+   "zh_hans": "尖东圣诞灯饰亮灯 罗淑佩：成冬日节庆标志 冬日巡礼规模历来最大"
+  },
+  "summary": {
+   "en": "The Christmas lights at the Centenary Garden in Tsim Sha Tsui East were switched on this evening, launching the \"Sparkling Tsim Sha Tsui East\" festive display organised by the East Tsim Sha Tsui Property Developers' Association. Secretary for Culture, Sports and Tourism Rosanna Law said the lights, shining over Victoria Harbour, have become a landmark of Hong Kong's winter festivities and have accompanied the city for more than 40 years. Tourism Board chairman Peter Lam said this year's Hong Kong WinterFest, running from tomorrow until January 5, will be the biggest ever.",
+   "zh_hant": "尖東百週年紀念花園傍晚舉行聖誕燈飾亮燈儀式，主辦單位東尖沙咀地產發展商聯會舉辦「閃爍尖東耀香江」。文化體育及旅遊局局長羅淑佩表示，尖東燈飾照耀維港，成為香港冬日節慶的標誌性風景，陪伴香港超過40年。旅發局主席林建岳表示，今年香港繽紛冬日巡禮由明日起至明年1月5日舉行，規模歷來最大。",
+   "zh_hans": "尖东百周年纪念花园傍晚举行圣诞灯饰亮灯仪式，主办单位东尖沙咀地产发展商联会举办「闪烁尖东耀香江」。文化体育及旅游局局长罗淑佩表示，尖东灯饰照耀维港，成为香港冬日节庆的标志性风景，陪伴香港超过40年。旅发局主席林建岳表示，今年香港缤纷冬日巡礼由明日起至明年1月5日举行，规模历来最大。"
+  },
+  "tags": {
+   "en": [
+    "Tsim Sha Tsui East",
+    "Christmas lights",
+    "WinterFest"
+   ],
+   "zh_hant": [
+    "尖東聖誕燈飾",
+    "聖誕節",
+    "冬日巡禮"
+   ],
+   "zh_hans": [
+    "尖东圣诞灯饰",
+    "圣诞节",
+    "冬日巡礼"
+   ]
+  },
+  "card_time": "2026-11-17 19:23",
+  "image_r2_key": "design/202611/20261117-tst-christmas-lights-v2.jpg"
  },
  {
   "id": "20261117-sfc-lifetime-ban-fake-degrees",
@@ -958,6 +1231,45 @@
    ]
   },
   "image_r2_key": "design/202611/20261117-hkmpdb-flagship-summit-keynote.jpg"
+ },
+ {
+  "id": "20261117-jd-q3-profit-up-23-pct",
+  "category": "finance",
+  "published_at": "2026-11-17T18:42:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878154-20261117.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-jd-q3-profit-up-23-pct-v2.jpg",
+  "title": {
+   "en": "JD.com Q3 profit up over 23%, adjusted profit jumps nearly 44% as new-business losses narrow",
+   "zh_hant": "京東上季盈利升逾23% 經調整盈利勁升44% 新業務虧損收窄",
+   "zh_hans": "京东上季盈利升逾23% 经调整盈利劲升44% 新业务亏损收窄"
+  },
+  "summary": {
+   "en": "JD.com reported third-quarter profit of 6.5 billion yuan, up more than 23% year on year, while adjusted profit rose nearly 44% to about 8.33 billion yuan. Total revenue grew 3.5% to nearly 309.6 billion yuan, with JD Retail up nearly 3% and JD Logistics up over 16%; new businesses including food delivery saw revenue fall nearly 50%, though operating losses narrowed by nearly 39%. Profit for the first nine months fell more than 16% to 18.73 billion yuan.",
+   "zh_hant": "京東集團公布第三季業績，盈利65億元人民幣，按年升逾23%；經調整盈利約83.3億元，按年升近44%。期內總收入升3.5%至近3,096億元，其中京東零售收入升近3%，物流收入升逾16%；包括外賣業務的新業務收入跌近50%，但經營虧損收窄近39%。集團首三季盈利187.3億元，按年跌逾16%。",
+   "zh_hans": "京东集团公布第三季业绩，盈利65亿元人民币，按年升逾23%；经调整盈利约83.3亿元，按年升近44%。期内总收入升3.5%至近3,096亿元，其中京东零售收入升近3%，物流收入升逾16%；包括外卖业务的新业务收入跌近50%，但经营亏损收窄近39%。集团首三季盈利187.3亿元，按年跌逾16%。"
+  },
+  "tags": {
+   "en": [
+    "JD.com",
+    "Q3 results",
+    "e-commerce"
+   ],
+   "zh_hant": [
+    "京東",
+    "第三季業績",
+    "電商"
+   ],
+   "zh_hans": [
+    "京东",
+    "第三季业绩",
+    "电商"
+   ]
+  },
+  "card_time": "2026-11-17 18:42",
+  "image_r2_key": "design/202611/20261117-jd-q3-profit-up-23-pct-v2.jpg"
  },
  {
   "id": "20261117-hkma-scam-alert-bea",
@@ -1604,310 +1916,6 @@
    ]
   },
   "image_r2_key": "design/202611/20261117-ce-almac-speech-growth-innovation-sustainability.jpg"
- },
- {
-  "id": "20261117-xi-meets-mexico-president",
-  "category": "china",
-  "published_at": "2026-11-17T20:07:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878173-20261117.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Xi meets Mexican President Sheinbaum in Shenzhen, saying China-Mexico ties matter for the Global South",
-   "zh_hant": "習近平深圳晤墨西哥總統辛鮑姆 稱中墨關係促全球南方自強",
-   "zh_hans": "习近平深圳晤墨西哥总统辛鲍姆 称中墨关系促全球南方自强"
-  },
-  "summary": {
-   "en": "President Xi Jinping met Mexican President Claudia Sheinbaum in Shenzhen on Monday afternoon. Xi said China and Mexico, both major countries of the Global South at a critical stage of development, should push bilateral relations to a higher level, which matters for their respective development strategies and for the Global South's joint self-strengthening. Sheinbaum said Mexico firmly adheres to the one-China principle and attaches great importance to its relationship with China.",
-   "zh_hant": "國家主席習近平下午在深圳會見來華出席亞太經合組織領導人非正式會議的墨西哥總統辛鮑姆。習近平指出，中國與墨西哥同為全球南方大國，都處在發展振興的關鍵階段，推動中墨關係向更高水平發展，對促進全球南方聯合自強具有重要意義。辛鮑姆表示，墨西哥堅定恪守一個中國原則，高度重視對華關係。",
-   "zh_hans": "国家主席习近平下午在深圳会见来华出席亚太经合组织领导人非正式会议的墨西哥总统辛鲍姆。习近平指出，中国与墨西哥同为全球南方大国，都处在发展振兴的关键阶段，推动中墨关系向更高水平发展，对促进全球南方联合自强具有重要意义。辛鲍姆表示，墨西哥坚定恪守一个中国原则，高度重视对华关系。"
-  },
-  "tags": {
-   "en": [
-    "Xi Jinping",
-    "Mexico",
-    "APEC"
-   ],
-   "zh_hant": [
-    "習近平",
-    "墨西哥",
-    "APEC"
-   ],
-   "zh_hans": [
-    "习近平",
-    "墨西哥",
-    "APEC"
-   ]
-  },
-  "card_time": "2026-11-17 20:07"
- },
- {
-  "id": "20261117-xi-meets-keiko-fujimori",
-  "category": "china",
-  "published_at": "2026-11-17T19:59:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878172-20261117.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Xi meets Peruvian President Fujimori in Shenzhen, hailing Chancay Port's boost to Asia-Latin America trade",
-   "zh_hant": "習近平深圳晤秘魯總統藤森慶子 錢凱港促進亞拉經貿合作",
-   "zh_hans": "习近平深圳晤秘鲁总统藤森庆子 钱凯港促进亚拉经贸合作"
-  },
-  "summary": {
-   "en": "President Xi Jinping met Peruvian President Keiko Fujimori in Shenzhen on Monday afternoon. Xi said the upgraded China-Peru free trade agreement took effect two weeks ago, and the Chancay Port built with Chinese participation has strongly promoted trade between Asia and Latin America. Fujimori said Peru firmly adheres to the one-China principle and will use the upgraded FTA as an opportunity to promote trade, investment and infrastructure cooperation.",
-   "zh_hant": "國家主席習近平下午在深圳會見來華出席亞太經合組織領導人非正式會議的秘魯總統藤森慶子。習近平指出，中秘自貿協定升級議定書兩星期前正式生效，中國企業參與建設的錢凱港有力促進亞洲與拉美經貿合作。藤森慶子表示，秘魯堅定恪守一個中國原則，願以自貿協定升級為契機，促進貿易、投資和基礎設施等合作。",
-   "zh_hans": "国家主席习近平下午在深圳会见来华出席亚太经合组织领导人非正式会议的秘鲁总统藤森庆子。习近平指出，中秘自贸协定升级议定书两星期前正式生效，中国企业参与建设的钱凯港有力促进亚洲与拉美经贸合作。藤森庆子表示，秘鲁坚定恪守一个中国原则，愿以自贸协定升级为契机，促进贸易、投资和基础设施等合作。"
-  },
-  "tags": {
-   "en": [
-    "Xi Jinping",
-    "Peru",
-    "Chancay Port"
-   ],
-   "zh_hant": [
-    "習近平",
-    "秘魯",
-    "錢凱港"
-   ],
-   "zh_hans": [
-    "习近平",
-    "秘鲁",
-    "钱凯港"
-   ]
-  },
-  "card_time": "2026-11-17 19:59"
- },
- {
-  "id": "20261117-shenzhou-24-launch-soon",
-  "category": "china",
-  "published_at": "2026-11-17T19:50:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878171-20261117.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Shenzhou-24 to launch in coming days as spacecraft-rocket combination moves to launch area",
-   "zh_hant": "神舟二十四號近日擇機發射 船箭組合體已轉運至發射區",
-   "zh_hans": "神舟二十四号近日择机发射 船箭组合体已转运至发射区"
-  },
-  "summary": {
-   "en": "The Shenzhou-24 crewed spacecraft and its Long March-2F Y24 carrier rocket have been moved to the launch area, with launch planned in the coming days at a suitable opportunity. The China Manned Space Agency said launch-site facilities are in good condition, and pre-launch functional checks and joint tests will proceed as planned.",
-   "zh_hant": "神舟二十四號載人飛船與長征二號F遙二十四運載火箭組合體，今日已轉運至發射區，計劃近日擇機實施發射。中國載人航天工程辦公室表示，目前發射場設施設備狀態良好，後續將按計劃開展發射前的各項功能檢查和聯合測試等工作。",
-   "zh_hans": "神舟二十四号载人飞船与长征二号F遥二十四运载火箭组合体，今日已转运至发射区，计划近日择机实施发射。中国载人航天工程办公室表示，目前发射场设施设备状态良好，后续将按计划开展发射前的各项功能检查和联合测试等工作。"
-  },
-  "tags": {
-   "en": [
-    "Shenzhou-24",
-    "manned spaceflight",
-    "Long March-2F"
-   ],
-   "zh_hant": [
-    "神舟二十四號",
-    "載人航天",
-    "長征二號F"
-   ],
-   "zh_hans": [
-    "神舟二十四号",
-    "载人航天",
-    "长征二号F"
-   ]
-  },
-  "card_time": "2026-11-17 19:50"
- },
- {
-  "id": "20261117-united-airlines-system-outage",
-  "category": "world",
-  "published_at": "2026-11-17T19:47:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878170-20261117.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "United Airlines system outage grounds flights for nearly two hours; no sign of cyberattack",
-   "zh_hant": "美聯航系統故障癱瘓近兩小時 多班航班延誤取消 已排除網安問題",
-   "zh_hans": "美联航系统故障瘫痪近两小时 多班航班延误取消 已排除网安问题"
-  },
-  "summary": {
-   "en": "United Airlines suffered a system outage on Monday local time lasting about one hour and 40 minutes, delaying or cancelling a number of flights, and apologised to customers. The airline said the problem has been resolved, with no sign it was related to cybersecurity, and flights already airborne and those operated by its United Express partners were unaffected. An internal union memo said the outage hit several applications used by pilots, including crew communications, leaving the airline unable to provide final load data to departing flights.",
-   "zh_hant": "美國聯合航空公司於當地星期一一度出現系統故障，持續約1小時40分鐘，多個航班延誤或取消，公司向客戶致歉。美聯航表示，故障問題已解決，無跡象顯示與網絡安全問題有關，在飛行途中的航班及旗下聯翔公司營運的航班未受影響。機師工會內部備忘錄指出，故障影響機組人員通信系統等多項應用程式，令公司無法向離港航班提供最終飛機載重數據。",
-   "zh_hans": "美国联合航空公司于当地星期一一度出现系统故障，持续约1小时40分钟，多个航班延误或取消，公司向客户致歉。美联航表示，故障问题已解决，无迹象显示与网络安全问题有关，在飞行途中的航班及旗下联翔公司营运的航班未受影响。机师工会内部备忘录指出，故障影响机组人员通信系统等多项应用程式，令公司无法向离港航班提供最终飞机载重数据。"
-  },
-  "tags": {
-   "en": [
-    "United Airlines",
-    "system outage",
-    "flight delays"
-   ],
-   "zh_hant": [
-    "美國聯合航空",
-    "系統故障",
-    "航班延誤"
-   ],
-   "zh_hans": [
-    "美国联合航空",
-    "系统故障",
-    "航班延误"
-   ]
-  },
-  "card_time": "2026-11-17 19:47"
- },
- {
-  "id": "20261117-ce-five-year-plan-shipping",
-  "category": "hk",
-  "published_at": "2026-11-17T19:37:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878167-20261117.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "John Lee: five-year plan will consolidate Hong Kong's status as an international shipping centre",
-   "zh_hant": "李家超：五年規劃鞏固香港國際航運中心地位 強化四中心一高地",
-   "zh_hans": "李家超：五年规划巩固香港国际航运中心地位 强化四中心一高地"
-  },
-  "summary": {
-   "en": "Chief Executive John Lee said at the Asian Logistics, Maritime and Aviation Conference that Hong Kong's first five-year plan will help consolidate the city's status as an international shipping centre and aviation hub. Speaking at another forum, Lee said Hong Kong should strengthen its positioning as \"four centres and one highland\" and proactively align with the national development strategy.",
-   "zh_hant": "行政長官李家超出席「亞洲物流航運及空運會議」致辭時表示，《香港第一個五年規劃》有助鞏固本港作為國際航運中心和航空樞紐的地位。他在另一個論壇致辭時又提到，香港要強化「四中心、一高地」的定位，主動對接國家發展戰略。",
-   "zh_hans": "行政长官李家超出席「亚洲物流航运及空运会议」致辞时表示，《香港第一个五年规划》有助巩固本港作为国际航运中心和航空枢纽的地位。他在另一个论坛致辞时又提到，香港要强化「四中心、一高地」的定位，主动对接国家发展战略。"
-  },
-  "tags": {
-   "en": [
-    "John Lee",
-    "five-year plan",
-    "shipping centre"
-   ],
-   "zh_hant": [
-    "李家超",
-    "五年規劃",
-    "國際航運中心"
-   ],
-   "zh_hans": [
-    "李家超",
-    "五年规划",
-    "国际航运中心"
-   ]
-  },
-  "card_time": "2026-11-17 19:37"
- },
- {
-  "id": "20261117-bright-smart-interim-profit-up",
-  "category": "finance",
-  "published_at": "2026-11-17T19:28:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878168-20261117.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Bright Smart Securities interim profit up 5.4% as margin financing interest jumps 33%, client assets hold at HK$80.1 billion",
-   "zh_hant": "耀才證券中期多賺5.4% 孖展利息收入升33% 客戶資產守801億",
-   "zh_hans": "耀才证券中期多赚5.4% 孖展利息收入升33% 客户资产守801亿"
-  },
-  "summary": {
-   "en": "Bright Smart Securities reported interim profit of about HK$340 million for the six months to the end of September, up 5.4% year on year, with no interim dividend. Revenue fell 2.7% to over HK$480 million, with securities brokerage commission income down 18% to nearly HK$210 million while margin financing interest income rose nearly 33% to HK$170 million. Client accounts totalled nearly 618,000, with client assets held steady at HK$80.1 billion.",
-   "zh_hant": "耀才證券截至9月底的中期盈利約3.4億元，按年增長5.4%，不派中期息。期內收入逾4.8億元，按年跌2.7%，其中證券經紀佣金收入跌18%至近2.1億元，孖展融資利息收入升近33%至1.7億元。截至9月底，客戶戶口總數近61.8萬個，客戶託管資產總值穩定於801億元。",
-   "zh_hans": "耀才证券截至9月底的中期盈利约3.4亿元，按年增长5.4%，不派中期息。期内收入逾4.8亿元，按年跌2.7%，其中证券经纪佣金收入跌18%至近2.1亿元，孖展融资利息收入升近33%至1.7亿元。截至9月底，客户户口总数近61.8万个，客户托管资产总值稳定于801亿元。"
-  },
-  "tags": {
-   "en": [
-    "Bright Smart Securities",
-    "interim results",
-    "securities"
-   ],
-   "zh_hant": [
-    "耀才證券",
-    "中期業績",
-    "證券"
-   ],
-   "zh_hans": [
-    "耀才证券",
-    "中期业绩",
-    "证券"
-   ]
-  },
-  "card_time": "2026-11-17 19:28"
- },
- {
-  "id": "20261117-tst-christmas-lights",
-  "category": "hk",
-  "published_at": "2026-11-17T19:23:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878166-20261117.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Tsim Sha Tsui East Christmas lights switched on, a landmark of Hong Kong's winter festivities; WinterFest to be the biggest yet",
-   "zh_hant": "尖東聖誕燈飾亮燈 羅淑佩：成冬日節慶標誌 冬日巡禮規模歷來最大",
-   "zh_hans": "尖东圣诞灯饰亮灯 罗淑佩：成冬日节庆标志 冬日巡礼规模历来最大"
-  },
-  "summary": {
-   "en": "The Christmas lights at the Centenary Garden in Tsim Sha Tsui East were switched on this evening, launching the \"Sparkling Tsim Sha Tsui East\" festive display organised by the East Tsim Sha Tsui Property Developers' Association. Secretary for Culture, Sports and Tourism Rosanna Law said the lights, shining over Victoria Harbour, have become a landmark of Hong Kong's winter festivities and have accompanied the city for more than 40 years. Tourism Board chairman Peter Lam said this year's Hong Kong WinterFest, running from tomorrow until January 5, will be the biggest ever.",
-   "zh_hant": "尖東百週年紀念花園傍晚舉行聖誕燈飾亮燈儀式，主辦單位東尖沙咀地產發展商聯會舉辦「閃爍尖東耀香江」。文化體育及旅遊局局長羅淑佩表示，尖東燈飾照耀維港，成為香港冬日節慶的標誌性風景，陪伴香港超過40年。旅發局主席林建岳表示，今年香港繽紛冬日巡禮由明日起至明年1月5日舉行，規模歷來最大。",
-   "zh_hans": "尖东百周年纪念花园傍晚举行圣诞灯饰亮灯仪式，主办单位东尖沙咀地产发展商联会举办「闪烁尖东耀香江」。文化体育及旅游局局长罗淑佩表示，尖东灯饰照耀维港，成为香港冬日节庆的标志性风景，陪伴香港超过40年。旅发局主席林建岳表示，今年香港缤纷冬日巡礼由明日起至明年1月5日举行，规模历来最大。"
-  },
-  "tags": {
-   "en": [
-    "Tsim Sha Tsui East",
-    "Christmas lights",
-    "WinterFest"
-   ],
-   "zh_hant": [
-    "尖東聖誕燈飾",
-    "聖誕節",
-    "冬日巡禮"
-   ],
-   "zh_hans": [
-    "尖东圣诞灯饰",
-    "圣诞节",
-    "冬日巡礼"
-   ]
-  },
-  "card_time": "2026-11-17 19:23"
- },
- {
-  "id": "20261117-jd-q3-profit-up-23-pct",
-  "category": "finance",
-  "published_at": "2026-11-17T18:42:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878154-20261117.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "JD.com Q3 profit up over 23%, adjusted profit jumps nearly 44% as new-business losses narrow",
-   "zh_hant": "京東上季盈利升逾23% 經調整盈利勁升44% 新業務虧損收窄",
-   "zh_hans": "京东上季盈利升逾23% 经调整盈利劲升44% 新业务亏损收窄"
-  },
-  "summary": {
-   "en": "JD.com reported third-quarter profit of 6.5 billion yuan, up more than 23% year on year, while adjusted profit rose nearly 44% to about 8.33 billion yuan. Total revenue grew 3.5% to nearly 309.6 billion yuan, with JD Retail up nearly 3% and JD Logistics up over 16%; new businesses including food delivery saw revenue fall nearly 50%, though operating losses narrowed by nearly 39%. Profit for the first nine months fell more than 16% to 18.73 billion yuan.",
-   "zh_hant": "京東集團公布第三季業績，盈利65億元人民幣，按年升逾23%；經調整盈利約83.3億元，按年升近44%。期內總收入升3.5%至近3,096億元，其中京東零售收入升近3%，物流收入升逾16%；包括外賣業務的新業務收入跌近50%，但經營虧損收窄近39%。集團首三季盈利187.3億元，按年跌逾16%。",
-   "zh_hans": "京东集团公布第三季业绩，盈利65亿元人民币，按年升逾23%；经调整盈利约83.3亿元，按年升近44%。期内总收入升3.5%至近3,096亿元，其中京东零售收入升近3%，物流收入升逾16%；包括外卖业务的新业务收入跌近50%，但经营亏损收窄近39%。集团首三季盈利187.3亿元，按年跌逾16%。"
-  },
-  "tags": {
-   "en": [
-    "JD.com",
-    "Q3 results",
-    "e-commerce"
-   ],
-   "zh_hant": [
-    "京東",
-    "第三季業績",
-    "電商"
-   ],
-   "zh_hans": [
-    "京东",
-    "第三季业绩",
-    "电商"
-   ]
-  },
-  "card_time": "2026-11-17 18:42"
  },
  {
   "id": "20261117-cold-front-friday-15-degrees",
