@@ -1,5 +1,119 @@
 [
  {
+  "id": "20261117-hkma-scam-alert-bea",
+  "category": "finance",
+  "published_at": "2026-11-17T18:00:00+08:00",
+  "source": {
+   "name": "金管局",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700527.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-hkma-scam-alert-bea-v2.jpg",
+  "title": {
+   "en": "HKMA Scam Alert: Fake Bank of East Asia Websites and Login Screens Circulating | Banks Never Ask for Passwords by SMS",
+   "zh_hant": "金管局防騙警示 偽冒東亞銀行網站及登入畫面流傳 切勿點擊連結",
+   "zh_hans": "金管局防骗警示 伪冒东亚银行网站及登入画面流传 切勿点击连结"
+  },
+  "summary": {
+   "en": "The Hong Kong Monetary Authority alerted the public to fraudulent websites and internet banking login screens purporting to be from The Bank of East Asia, after the bank issued a press release on the scams reported to the authority. The HKMA reminded the public that banks will not send SMS or emails with embedded hyperlinks directing customers to log in or carry out transactions, and will not ask for sensitive information such as login passwords or one-time passwords by phone, email or SMS. Anyone who has provided personal information or conducted transactions through the scams should contact the relevant bank and report the matter to the Police Crime Wing Information Centre at 2860 5012.",
+   "zh_hant": "金融管理局提醒市民提防與東亞銀行有關的騙案，該行已就偽冒網站及網上銀行登入畫面、釣魚電郵或其他騙案發出新聞稿。金管局重申，銀行不會以附有超連結的短訊或電郵要求客戶登入網站辦理交易，亦不會透過電話、電郵或短訊索取登入密碼及一次性密碼等敏感資料。如已透過騙案提供個人資料或進行交易，應聯絡有關銀行，並向警方罪案資料中心（2860 5012）報案。",
+   "zh_hans": "金融管理局提醒市民提防与东亚银行有关的骗案，该行已就伪冒网站及网上银行登入画面、钓鱼电邮或其他骗案发出新闻稿。金管局重申，银行不会以附有超连结的短讯或电邮要求客户登入网站办理交易，亦不会透过电话、电邮或短讯索取登入密码及一次性密码等敏感资料。如已透过骗案提供个人资料或进行交易，应联络有关银行，并向警方罪案资料中心（2860 5012）报案。"
+  },
+  "tags": {
+   "en": [
+    "HKMA",
+    "scam alert",
+    "Bank of East Asia"
+   ],
+   "zh_hant": [
+    "金管局",
+    "防騙",
+    "東亞銀行"
+   ],
+   "zh_hans": [
+    "金管局",
+    "防骗",
+    "东亚银行"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-hkma-scam-alert-bea-v2.jpg"
+ },
+ {
+  "id": "20261117-epd-response-ipark1-fire-report",
+  "category": "hk",
+  "published_at": "2026-11-17T18:00:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700541.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-epd-response-ipark1-fire-report-v2.jpg",
+  "title": {
+   "en": "EPD Orders I.PARK1 Contractor to Tighten Fire Controls After Report | Welding or Smoking Blamed for October Blaze",
+   "zh_hant": "環保署跟進I.PARK1火警報告 令承辦商即時加強防火 全面禁煙",
+   "zh_hans": "环保署跟进I.PARK1火警报告 令承办商即时加强防火 全面禁烟"
+  },
+  "summary": {
+   "en": "The Environmental Protection Department has responded to the Fire Services Department's investigation report into the October 26 fire at the Integrated Waste Management Facilities Phase 1 (I.PARK1) on the artificial island off Shek Kwu Chau, which found welding works or smoking were the possible causes. The EPD said it has instructed the contractor to immediately review and strengthen measures to eliminate fire risks, targeting hot works including welding and further tightening the site-wide smoking ban. Since January 2026 the contractor has required workers to deposit cigarettes and lighters before entering the island, with regular and surprise inspections; anyone found smoking is ordered to leave and removed from the project. The department is reviewing the incident to strengthen contingency measures.",
+   "zh_hant": "環境保護署回應消防處就10月26日石鼓洲人工島綜合廢物管理設施第一期（I.PARK1）火警的調查報告，報告指焊接工程及吸煙可能是起火原因。環保署表示已要求承辦商即時檢討及加強消除火警風險的措施，針對高溫工序（包括焊接）及進一步收緊全島禁煙安排。自2026年1月起，承辦商已要求工人在進入人工島前將香煙及打火機存放在碼頭旁的香煙架，並定期及突擊檢查，任何在島上吸煙的工人會即時被勒令離開及調離項目。署方正檢討事件以進一步加強應變安排。",
+   "zh_hans": "环境保护署回应消防处就10月26日石鼓洲人工岛综合废物管理设施第一期（I.PARK1）火警的调查报告，报告指焊接工程及吸烟可能是起火原因。环保署表示已要求承办商即时检讨及加强消除火警风险的措施，针对高温工序（包括焊接）及进一步收紧全岛禁烟安排。自2026年1月起，承办商已要求工人在进入人工岛前将香烟及打火机存放在码头旁的香烟架，并定期及突击检查，任何在岛上吸烟的工人会即时被勒令离开及调离项目。署方正检讨事件以进一步加强应变安排。"
+  },
+  "tags": {
+   "en": [
+    "I.PARK1",
+    "EPD",
+    "fire investigation"
+   ],
+   "zh_hant": [
+    "I.PARK1",
+    "環保署",
+    "火警調查"
+   ],
+   "zh_hans": [
+    "I.PARK1",
+    "环保署",
+    "火警调查"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-epd-response-ipark1-fire-report-v2.jpg"
+ },
+ {
+  "id": "20261117-hkicl-fraudulent-fps-websites",
+  "category": "finance",
+  "published_at": "2026-11-17T17:45:00+08:00",
+  "source": {
+   "name": "金管局",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700543.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-hkicl-fraudulent-fps-websites-v2.jpg",
+  "title": {
+   "en": "Fake FPS Websites Impersonate HKICL to Steal Bank Details | Fraudsters Pose as Customer Service on WhatsApp",
+   "zh_hant": "偽冒結算公司轉數快網站呃銀行資料 假客服WhatsApp行騙 市民慎防",
+   "zh_hans": "伪冒结算公司转数快网站骗银行资料 假客服WhatsApp行骗 市民慎防"
+  },
+  "summary": {
+   "en": "Hong Kong Interbank Clearing Limited warned the public about two types of fraudulent websites impersonating the company, including fps.iclhk-pay.com and fps.ioxjshhe.cc. The fake sites pose as \"Buyer Online Protection\" offering refunds and transaction support for FPS payments, and trick users into giving their bank name, account number and account holder's name to top up a virtual wallet, then direct them to a fraudster posing as customer service on WhatsApp. HKICL stressed the sites have no affiliation with it or any of its business and that it does not provide FPS services directly to the public; its genuine websites are www.hkicl.com.hk and fps.hkicl.com.hk.",
+   "zh_hant": "香港銀行同業結算有限公司提醒市民提防兩類冒充該公司的偽冒網站，包括fps.iclhk-pay.com，以及fps.ioxjshhe.cc等。偽冒網站假冒「買家網上保障」，提供退款及網上交易支援等服務，更誘騙用戶提供銀行名稱、戶口號碼及戶口持有人姓名，以增值及提取虛擬錢包款項，再引導用戶與假冒客服進行WhatsApp對話。結算公司強調該等網站與其或其任何業務無關，亦不會直接向市民提供轉數快服務；其真正官方網址為www.hkicl.com.hk及fps.hkicl.com.hk。",
+   "zh_hans": "香港银行同业结算有限公司提醒市民提防两类冒充该公司的伪冒网站，包括fps.iclhk-pay.com，以及fps.ioxjshhe.cc等。伪冒网站假冒「买家网上保障」，提供退款及网上交易支援等服务，更诱骗用户提供银行名称、户口号码及户口持有人姓名，以增值及提取虚拟钱包款项，再引导用户与假冒客服进行WhatsApp对话。结算公司强调该等网站与其或其任何业务无关，亦不会直接向市民提供转数快服务；其真正官方网址为www.hkicl.com.hk及fps.hkicl.com.hk。"
+  },
+  "tags": {
+   "en": [
+    "FPS",
+    "fraudulent websites",
+    "HKICL"
+   ],
+   "zh_hant": [
+    "轉數快",
+    "偽冒網站",
+    "香港銀行同業結算"
+   ],
+   "zh_hans": [
+    "转数快",
+    "伪冒网站",
+    "香港银行同业结算"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-hkicl-fraudulent-fps-websites-v2.jpg"
+ },
+ {
   "id": "20261117-ce-apec-ceo-summit-shenzhen",
   "category": "hk",
   "published_at": "2026-11-17T17:30:00+08:00",
@@ -38,6 +152,44 @@
   "image_r2_key": "design/202611/20261117-ce-apec-ceo-summit-shenzhen.jpg"
  },
  {
+  "id": "20261117-cfs-apple-juice-patulin-recall",
+  "category": "hk",
+  "published_at": "2026-11-17T17:10:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700462.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-cfs-apple-juice-patulin-recall-v2.jpg",
+  "title": {
+   "en": "Don't Drink This Apple Juice: Patulin in NZ Bottled Juice Runs 58% Over Legal Limit | Importer Recalls the Batch",
+   "zh_hant": "紐西蘭蘋果汁棒曲霉素超標近六成 食安中心呼籲勿飲用 即時回收",
+   "zh_hans": "新西兰苹果汁棒曲霉素超标近六成 食安中心呼吁勿饮用 即时回收"
+  },
+  "summary": {
+   "en": "The Centre for Food Safety today urged the public not to drink a batch of Homegrown \"100% Pure NZ Apple Juice\" imported from New Zealand, after a sample was found to contain the mycotoxin patulin at 79 micrograms per kilogram, above the legal limit of 50 mcg per kg. The affected batch is one-litre bottles with a best-before date of February 11, 2027; importer The Homegrown Juice Company Limited has stopped sale and recalled the product, and can be reached on 5118 0423 during office hours. The sample was collected at a wholesale market in Sai Ying Pun under the routine Food Surveillance Programme. Patulin occurs mostly in rotten apples, and animal studies show high doses can damage the liver, spleen and kidneys.",
+   "zh_hant": "食物安全中心今日呼籲市民不要飲用一批由新西蘭進口的Homegrown品牌「100% Pure NZ Apple Juice」瓶裝蘋果汁，樣本檢出霉菌毒素棒曲霉素含量為每公斤79微克，超出每公斤50微克的法定上限。受影響批次為每瓶1公升、最佳食用日期2027年2月11日的產品，進口商The Homegrown Juice Company Limited已按中心指示停售及回收，市民可於辦公時間致電5118 0423查詢。樣本由中心在西營盤一個批發市場抽取，屬恆常食物監測計劃。棒曲霉素多見於腐爛蘋果及其製品，動物研究顯示高劑量可損害肝、脾及腎臟。",
+   "zh_hans": "食物安全中心今日呼吁市民不要饮用一批由新西兰进口的Homegrown品牌「100% Pure NZ Apple Juice」瓶装苹果汁，样本检出霉菌毒素棒曲霉素含量为每公斤79微克，超出每公斤50微克的法定上限。受影响批次为每瓶1公升、最佳食用日期2027年2月11日的产品，进口商The Homegrown Juice Company Limited已按中心指示停售及回收，市民可于办公时间致电5118 0423查询。样本由中心在西营盘一个批发市场抽取，属恒常食物监测计划。棒曲霉素多见于腐烂苹果及其制品，动物研究显示高剂量可损害肝、脾及肾脏。"
+  },
+  "tags": {
+   "en": [
+    "Centre for Food Safety",
+    "apple juice",
+    "patulin"
+   ],
+   "zh_hant": [
+    "食安中心",
+    "蘋果汁",
+    "棒曲霉素"
+   ],
+   "zh_hans": [
+    "食安中心",
+    "苹果汁",
+    "棒曲霉素"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-cfs-apple-juice-patulin-recall-v2.jpg"
+ },
+ {
   "id": "20261117-election-committee-poll-cards",
   "category": "hk",
   "published_at": "2026-11-17T17:00:00+08:00",
@@ -74,6 +226,44 @@
    ]
   },
   "image_r2_key": "design/202611/20261117-election-committee-poll-cards.jpg"
+ },
+ {
+  "id": "20261117-cssa-caseload-october-194762",
+  "category": "hk",
+  "published_at": "2026-11-17T17:00:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700268.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-cssa-caseload-october-194762-v2.jpg",
+  "title": {
+   "en": "CSSA Caseload Barely Moves in October | 194,762 Cases and 254,020 Recipients as Jobless Claims Edge Down",
+   "zh_hant": "10月綜援個案194762宗微升12宗 受助254020人 失業個案減0.6%",
+   "zh_hans": "10月综援个案194762宗微升12宗 受助254020人 失业个案减0.6%"
+  },
+  "summary": {
+   "en": "The overall Comprehensive Social Security Assistance caseload in October rose slightly by 12 cases to 194,762, with 254,020 recipients, remaining more or less the same as September, the Social Welfare Department said. Low-earnings cases fell 0.8 per cent month on month to 1,237, unemployment cases fell 0.6 per cent to 15,032, single-parent cases fell 0.4 per cent to 17,449 and permanent disability cases fell 0.3 per cent to 16,013. Ill-health cases rose 0.5 per cent to 28,708 and old-age cases rose 0.1 per cent to 112,422.",
+   "zh_hant": "社會福利署公布，2026年10月整體綜合社會保障援助個案較9月微升12宗，月底總數為194,762宗，受助人數共254,020人，大致與上月持平。按類別計，低收入個案按月減少0.8%至1,237宗，失業個案減少0.6%至15,032宗，單親個案減少0.4%至17,449宗，永久傷殘個案減少0.3%至16,013宗；健康欠佳個案增加0.5%至28,708宗，長者個案增加0.1%至112,422宗。",
+   "zh_hans": "社会福利署公布，2026年10月整体综合社会保障援助个案较9月微升12宗，月底总数为194,762宗，受助人数共254,020人，大致与上月持平。按类别计，低收入个案按月减少0.8%至1,237宗，失业个案减少0.6%至15,032宗，单亲个案减少0.4%至17,449宗，永久伤残个案减少0.3%至16,013宗；健康欠佳个案增加0.5%至28,708宗，长者个案增加0.1%至112,422宗。"
+  },
+  "tags": {
+   "en": [
+    "CSSA",
+    "Social Welfare Department",
+    "October"
+   ],
+   "zh_hant": [
+    "綜援",
+    "社會福利署",
+    "10月"
+   ],
+   "zh_hans": [
+    "综援",
+    "社会福利署",
+    "10月"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-cssa-caseload-october-194762-v2.jpg"
  },
  {
   "id": "20261117-csd-polyu-mou-occupational-therapy",
@@ -340,191 +530,6 @@
    ]
   },
   "image_r2_key": "design/202611/20261117-ce-almac-speech-growth-innovation-sustainability.jpg"
- },
- {
-  "id": "20261117-hkma-scam-alert-bea",
-  "category": "finance",
-  "published_at": "2026-11-17T18:00:00+08:00",
-  "source": {
-   "name": "金管局",
-   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700527.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "HKMA Scam Alert: Fake Bank of East Asia Websites and Login Screens Circulating | Banks Never Ask for Passwords by SMS",
-   "zh_hant": "金管局防騙警示 偽冒東亞銀行網站及登入畫面流傳 切勿點擊連結",
-   "zh_hans": "金管局防骗警示 伪冒东亚银行网站及登入画面流传 切勿点击连结"
-  },
-  "summary": {
-   "en": "The Hong Kong Monetary Authority alerted the public to fraudulent websites and internet banking login screens purporting to be from The Bank of East Asia, after the bank issued a press release on the scams reported to the authority. The HKMA reminded the public that banks will not send SMS or emails with embedded hyperlinks directing customers to log in or carry out transactions, and will not ask for sensitive information such as login passwords or one-time passwords by phone, email or SMS. Anyone who has provided personal information or conducted transactions through the scams should contact the relevant bank and report the matter to the Police Crime Wing Information Centre at 2860 5012.",
-   "zh_hant": "金融管理局提醒市民提防與東亞銀行有關的騙案，該行已就偽冒網站及網上銀行登入畫面、釣魚電郵或其他騙案發出新聞稿。金管局重申，銀行不會以附有超連結的短訊或電郵要求客戶登入網站辦理交易，亦不會透過電話、電郵或短訊索取登入密碼及一次性密碼等敏感資料。如已透過騙案提供個人資料或進行交易，應聯絡有關銀行，並向警方罪案資料中心（2860 5012）報案。",
-   "zh_hans": "金融管理局提醒市民提防与东亚银行有关的骗案，该行已就伪冒网站及网上银行登入画面、钓鱼电邮或其他骗案发出新闻稿。金管局重申，银行不会以附有超连结的短讯或电邮要求客户登入网站办理交易，亦不会透过电话、电邮或短讯索取登入密码及一次性密码等敏感资料。如已透过骗案提供个人资料或进行交易，应联络有关银行，并向警方罪案资料中心（2860 5012）报案。"
-  },
-  "tags": {
-   "en": [
-    "HKMA",
-    "scam alert",
-    "Bank of East Asia"
-   ],
-   "zh_hant": [
-    "金管局",
-    "防騙",
-    "東亞銀行"
-   ],
-   "zh_hans": [
-    "金管局",
-    "防骗",
-    "东亚银行"
-   ]
-  }
- },
- {
-  "id": "20261117-epd-response-ipark1-fire-report",
-  "category": "hk",
-  "published_at": "2026-11-17T18:00:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700541.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "EPD Orders I.PARK1 Contractor to Tighten Fire Controls After Report | Welding or Smoking Blamed for October Blaze",
-   "zh_hant": "環保署跟進I.PARK1火警報告 令承辦商即時加強防火 全面禁煙",
-   "zh_hans": "环保署跟进I.PARK1火警报告 令承办商即时加强防火 全面禁烟"
-  },
-  "summary": {
-   "en": "The Environmental Protection Department has responded to the Fire Services Department's investigation report into the October 26 fire at the Integrated Waste Management Facilities Phase 1 (I.PARK1) on the artificial island off Shek Kwu Chau, which found welding works or smoking were the possible causes. The EPD said it has instructed the contractor to immediately review and strengthen measures to eliminate fire risks, targeting hot works including welding and further tightening the site-wide smoking ban. Since January 2026 the contractor has required workers to deposit cigarettes and lighters before entering the island, with regular and surprise inspections; anyone found smoking is ordered to leave and removed from the project. The department is reviewing the incident to strengthen contingency measures.",
-   "zh_hant": "環境保護署回應消防處就10月26日石鼓洲人工島綜合廢物管理設施第一期（I.PARK1）火警的調查報告，報告指焊接工程及吸煙可能是起火原因。環保署表示已要求承辦商即時檢討及加強消除火警風險的措施，針對高溫工序（包括焊接）及進一步收緊全島禁煙安排。自2026年1月起，承辦商已要求工人在進入人工島前將香煙及打火機存放在碼頭旁的香煙架，並定期及突擊檢查，任何在島上吸煙的工人會即時被勒令離開及調離項目。署方正檢討事件以進一步加強應變安排。",
-   "zh_hans": "环境保护署回应消防处就10月26日石鼓洲人工岛综合废物管理设施第一期（I.PARK1）火警的调查报告，报告指焊接工程及吸烟可能是起火原因。环保署表示已要求承办商即时检讨及加强消除火警风险的措施，针对高温工序（包括焊接）及进一步收紧全岛禁烟安排。自2026年1月起，承办商已要求工人在进入人工岛前将香烟及打火机存放在码头旁的香烟架，并定期及突击检查，任何在岛上吸烟的工人会即时被勒令离开及调离项目。署方正检讨事件以进一步加强应变安排。"
-  },
-  "tags": {
-   "en": [
-    "I.PARK1",
-    "EPD",
-    "fire investigation"
-   ],
-   "zh_hant": [
-    "I.PARK1",
-    "環保署",
-    "火警調查"
-   ],
-   "zh_hans": [
-    "I.PARK1",
-    "环保署",
-    "火警调查"
-   ]
-  }
- },
- {
-  "id": "20261117-hkicl-fraudulent-fps-websites",
-  "category": "finance",
-  "published_at": "2026-11-17T17:45:00+08:00",
-  "source": {
-   "name": "金管局",
-   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700543.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Fake FPS Websites Impersonate HKICL to Steal Bank Details | Fraudsters Pose as Customer Service on WhatsApp",
-   "zh_hant": "偽冒結算公司轉數快網站呃銀行資料 假客服WhatsApp行騙 市民慎防",
-   "zh_hans": "伪冒结算公司转数快网站骗银行资料 假客服WhatsApp行骗 市民慎防"
-  },
-  "summary": {
-   "en": "Hong Kong Interbank Clearing Limited warned the public about two types of fraudulent websites impersonating the company, including fps.iclhk-pay.com and fps.ioxjshhe.cc. The fake sites pose as \"Buyer Online Protection\" offering refunds and transaction support for FPS payments, and trick users into giving their bank name, account number and account holder's name to top up a virtual wallet, then direct them to a fraudster posing as customer service on WhatsApp. HKICL stressed the sites have no affiliation with it or any of its business and that it does not provide FPS services directly to the public; its genuine websites are www.hkicl.com.hk and fps.hkicl.com.hk.",
-   "zh_hant": "香港銀行同業結算有限公司提醒市民提防兩類冒充該公司的偽冒網站，包括fps.iclhk-pay.com，以及fps.ioxjshhe.cc等。偽冒網站假冒「買家網上保障」，提供退款及網上交易支援等服務，更誘騙用戶提供銀行名稱、戶口號碼及戶口持有人姓名，以增值及提取虛擬錢包款項，再引導用戶與假冒客服進行WhatsApp對話。結算公司強調該等網站與其或其任何業務無關，亦不會直接向市民提供轉數快服務；其真正官方網址為www.hkicl.com.hk及fps.hkicl.com.hk。",
-   "zh_hans": "香港银行同业结算有限公司提醒市民提防两类冒充该公司的伪冒网站，包括fps.iclhk-pay.com，以及fps.ioxjshhe.cc等。伪冒网站假冒「买家网上保障」，提供退款及网上交易支援等服务，更诱骗用户提供银行名称、户口号码及户口持有人姓名，以增值及提取虚拟钱包款项，再引导用户与假冒客服进行WhatsApp对话。结算公司强调该等网站与其或其任何业务无关，亦不会直接向市民提供转数快服务；其真正官方网址为www.hkicl.com.hk及fps.hkicl.com.hk。"
-  },
-  "tags": {
-   "en": [
-    "FPS",
-    "fraudulent websites",
-    "HKICL"
-   ],
-   "zh_hant": [
-    "轉數快",
-    "偽冒網站",
-    "香港銀行同業結算"
-   ],
-   "zh_hans": [
-    "转数快",
-    "伪冒网站",
-    "香港银行同业结算"
-   ]
-  }
- },
- {
-  "id": "20261117-cfs-apple-juice-patulin-recall",
-  "category": "hk",
-  "published_at": "2026-11-17T17:10:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700462.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Don't Drink This Apple Juice: Patulin in NZ Bottled Juice Runs 58% Over Legal Limit | Importer Recalls the Batch",
-   "zh_hant": "紐西蘭蘋果汁棒曲霉素超標近六成 食安中心呼籲勿飲用 即時回收",
-   "zh_hans": "新西兰苹果汁棒曲霉素超标近六成 食安中心呼吁勿饮用 即时回收"
-  },
-  "summary": {
-   "en": "The Centre for Food Safety today urged the public not to drink a batch of Homegrown \"100% Pure NZ Apple Juice\" imported from New Zealand, after a sample was found to contain the mycotoxin patulin at 79 micrograms per kilogram, above the legal limit of 50 mcg per kg. The affected batch is one-litre bottles with a best-before date of February 11, 2027; importer The Homegrown Juice Company Limited has stopped sale and recalled the product, and can be reached on 5118 0423 during office hours. The sample was collected at a wholesale market in Sai Ying Pun under the routine Food Surveillance Programme. Patulin occurs mostly in rotten apples, and animal studies show high doses can damage the liver, spleen and kidneys.",
-   "zh_hant": "食物安全中心今日呼籲市民不要飲用一批由新西蘭進口的Homegrown品牌「100% Pure NZ Apple Juice」瓶裝蘋果汁，樣本檢出霉菌毒素棒曲霉素含量為每公斤79微克，超出每公斤50微克的法定上限。受影響批次為每瓶1公升、最佳食用日期2027年2月11日的產品，進口商The Homegrown Juice Company Limited已按中心指示停售及回收，市民可於辦公時間致電5118 0423查詢。樣本由中心在西營盤一個批發市場抽取，屬恆常食物監測計劃。棒曲霉素多見於腐爛蘋果及其製品，動物研究顯示高劑量可損害肝、脾及腎臟。",
-   "zh_hans": "食物安全中心今日呼吁市民不要饮用一批由新西兰进口的Homegrown品牌「100% Pure NZ Apple Juice」瓶装苹果汁，样本检出霉菌毒素棒曲霉素含量为每公斤79微克，超出每公斤50微克的法定上限。受影响批次为每瓶1公升、最佳食用日期2027年2月11日的产品，进口商The Homegrown Juice Company Limited已按中心指示停售及回收，市民可于办公时间致电5118 0423查询。样本由中心在西营盘一个批发市场抽取，属恒常食物监测计划。棒曲霉素多见于腐烂苹果及其制品，动物研究显示高剂量可损害肝、脾及肾脏。"
-  },
-  "tags": {
-   "en": [
-    "Centre for Food Safety",
-    "apple juice",
-    "patulin"
-   ],
-   "zh_hant": [
-    "食安中心",
-    "蘋果汁",
-    "棒曲霉素"
-   ],
-   "zh_hans": [
-    "食安中心",
-    "苹果汁",
-    "棒曲霉素"
-   ]
-  }
- },
- {
-  "id": "20261117-cssa-caseload-october-194762",
-  "category": "hk",
-  "published_at": "2026-11-17T17:00:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700268.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "CSSA Caseload Barely Moves in October | 194,762 Cases and 254,020 Recipients as Jobless Claims Edge Down",
-   "zh_hant": "10月綜援個案194762宗微升12宗 受助254020人 失業個案減0.6%",
-   "zh_hans": "10月综援个案194762宗微升12宗 受助254020人 失业个案减0.6%"
-  },
-  "summary": {
-   "en": "The overall Comprehensive Social Security Assistance caseload in October rose slightly by 12 cases to 194,762, with 254,020 recipients, remaining more or less the same as September, the Social Welfare Department said. Low-earnings cases fell 0.8 per cent month on month to 1,237, unemployment cases fell 0.6 per cent to 15,032, single-parent cases fell 0.4 per cent to 17,449 and permanent disability cases fell 0.3 per cent to 16,013. Ill-health cases rose 0.5 per cent to 28,708 and old-age cases rose 0.1 per cent to 112,422.",
-   "zh_hant": "社會福利署公布，2026年10月整體綜合社會保障援助個案較9月微升12宗，月底總數為194,762宗，受助人數共254,020人，大致與上月持平。按類別計，低收入個案按月減少0.8%至1,237宗，失業個案減少0.6%至15,032宗，單親個案減少0.4%至17,449宗，永久傷殘個案減少0.3%至16,013宗；健康欠佳個案增加0.5%至28,708宗，長者個案增加0.1%至112,422宗。",
-   "zh_hans": "社会福利署公布，2026年10月整体综合社会保障援助个案较9月微升12宗，月底总数为194,762宗，受助人数共254,020人，大致与上月持平。按类别计，低收入个案按月减少0.8%至1,237宗，失业个案减少0.6%至15,032宗，单亲个案减少0.4%至17,449宗，永久伤残个案减少0.3%至16,013宗；健康欠佳个案增加0.5%至28,708宗，长者个案增加0.1%至112,422宗。"
-  },
-  "tags": {
-   "en": [
-    "CSSA",
-    "Social Welfare Department",
-    "October"
-   ],
-   "zh_hant": [
-    "綜援",
-    "社會福利署",
-    "10月"
-   ],
-   "zh_hans": [
-    "综援",
-    "社会福利署",
-    "10月"
-   ]
-  }
  },
  {
   "id": "20261117-cold-front-friday-15-degrees",
