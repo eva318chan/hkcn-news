@@ -193,5 +193,81 @@
   },
   "image_r2_key": "design/202611/20261118-watsons-cyber-incident-v2.jpg",
   "card_time": "2026-11-18 00:07"
+ },
+ {
+  "id": "20261118-putin-arrives-shenzhen-apec",
+  "category": "world",
+  "published_at": "2026-11-18T04:12:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878206-20261118.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Putin lands in Shenzhen in the early hours as Cai Qi greets him — first-ever China-Russia-US leaders' meeting to follow",
+   "zh_hant": "普京凌晨抵達深圳 蔡奇機場迎接 中俄美三國元首將史上首次面對面會晤",
+   "zh_hans": "普京凌晨抵达深圳 蔡奇机场迎接 中俄美三国元首将史上首次面对面会晤"
+  },
+  "summary": {
+   "en": "Russian President Vladimir Putin arrived in Shenzhen in the early hours to attend the APEC leaders' informal meeting. His plane landed at Shenzhen Bao'an International Airport shortly before 2am, where Cai Qi, a member of the Communist Party's Politburo Standing Committee and secretary of the Central Secretariat, greeted him at the airport. President Xi Jinping is set to hold the first-ever face-to-face meeting of the leaders of China, Russia and the United States with Putin and US President Donald Trump; the foreign ministry said earlier the three leaders will exchange views on safeguarding world peace and promoting strategic stability among major countries, calling the meeting groundbreaking.",
+   "zh_hant": "俄羅斯總統普京凌晨抵達深圳，準備出席亞太經合組織領導人非正式會議。普京的專機凌晨接近2時降落深圳寶安國際機場，由中共中央政治局常委、中央書記處書記蔡奇到機場迎接。國家主席習近平將與普京及美國總統特朗普舉行中俄美三國元首史上首次面對面會晤，外交部早前表示，三國元首將圍繞維護世界和平、促進大國關係戰略穩定深入交換意見，會面具有開創性意義。",
+   "zh_hans": "俄罗斯总统普京凌晨抵达深圳，准备出席亚太经合组织领导人非正式会议。普京的专机凌晨接近2时降落深圳宝安国际机场，由中共中央政治局常委、中央书记处书记蔡奇到机场迎接。国家主席习近平将与普京及美国总统特朗普举行中俄美三国元首史上首次面对面会晤，外交部早前表示，三国元首将围绕维护世界和平、促进大国关系战略稳定深入交换意见，会面具有开创性意义。"
+  },
+  "tags": {
+   "en": [
+    "Putin",
+    "APEC",
+    "Shenzhen"
+   ],
+   "zh_hant": [
+    "普京",
+    "APEC",
+    "深圳"
+   ],
+   "zh_hans": [
+    "普京",
+    "APEC",
+    "深圳"
+   ]
+  },
+  "card_time": "2026-11-18 04:12"
+ },
+ {
+  "id": "20261118-iran-us-strike-qeshm-island",
+  "category": "world",
+  "published_at": "2026-11-18T03:11:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878204-20261118.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Iran says US struck Qeshm Island as blasts and smoke erupt — homes and infrastructure spared, Washington silent",
+   "zh_hant": "伊朗指美軍空襲格什姆島 爆炸濃煙沖天 民居基建未受損 美方至今未回應",
+   "zh_hans": "伊朗指美军空袭格什姆岛 爆炸浓烟冲天 民居基建未受损 美方至今未回应"
+  },
+  "summary": {
+   "en": "Iranian media reported explosions and smoke rising over Qeshm Island in the south of the country. The deputy governor of Hormozgan province later confirmed that US forces had struck parts of Qeshm Island, but said the situation was under control, with residential areas, businesses and infrastructure undamaged, and rescue, service and administrative departments on full alert. The US military has not responded so far.",
+   "zh_hant": "伊朗傳媒報道，南部格什姆島傳出爆炸聲並冒出濃煙。霍爾木茲甘省副省長其後證實，美軍襲擊格什姆島部分地點，但當地情況受控，居民區、商業和基礎設施沒有受損，救援、服務和行政部門處於全面戒備狀態；美軍暫時未有回應。",
+   "zh_hans": "伊朗传媒报道，南部格什姆岛传出爆炸声并冒出浓烟。霍尔木兹甘省副省长其后证实，美军袭击格什姆岛部分地点，但当地情况受控，居民区、商业和基础设施没有受损，救援、服务和行政部门处于全面戒备状态；美军暂时未有回应。"
+  },
+  "tags": {
+   "en": [
+    "Iran",
+    "United States",
+    "Qeshm Island"
+   ],
+   "zh_hant": [
+    "伊朗",
+    "美國",
+    "格什姆島"
+   ],
+   "zh_hans": [
+    "伊朗",
+    "美国",
+    "格什姆岛"
+   ]
+  },
+  "card_time": "2026-11-18 03:11"
  }
 ]
