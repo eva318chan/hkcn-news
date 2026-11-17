@@ -193,6 +193,44 @@
   "image_r2_key": "design/202611/20261117-legco-ai-subcommittee-ha-ai-lab.jpg"
  },
  {
+  "id": "20261117-cfs-poultry-suspension-norway-us-h5n1",
+  "category": "hk",
+  "published_at": "2026-11-17T19:26:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700480.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-cfs-poultry-suspension-norway-us-h5n1-v2.jpg",
+  "title": {
+   "en": "Bird flu fears halt poultry imports from Norway and US areas as Hong Kong acts immediately",
+   "zh_hant": "禽流感殺到 挪威美國多區禽肉蛋即時停進口 首九月自美進口逾3.3萬噸禽肉",
+   "zh_hans": "禽流感杀到 挪威美国多区禽肉蛋即时停进口 首九月自美进口逾3.3万吨禽肉"
+  },
+  "summary": {
+   "en": "The Centre for Food Safety today announced an immediate suspension of poultry meat and products, including eggs, from areas in Norway and the United States following World Organisation for Animal Health notifications of highly pathogenic H5N1 avian influenza outbreaks. The affected areas are Akershus County and Vennesla Municipality in Agder County, Norway, and Stanislaus County in California, Sac County in Iowa and Morrison County in Minnesota in the US. Census and Statistics Department figures show Hong Kong imported about 20 tonnes of frozen poultry meat from Norway and about 33,270 tonnes of chilled and frozen poultry meat and about 92.33 million poultry eggs from the US in the first nine months of this year.",
+   "zh_hant": "食安中心今日宣布，因應世界動物衞生組織通報挪威及美國部分地區爆發高致病性H5N1禽流感，即時暫停從有關地區進口禽肉及禽類產品，包括禽蛋。受影響地區包括挪威阿克什胡斯郡、阿格德爾郡韋恩斯拉市，以及美國加州斯坦尼斯勞斯縣、愛荷華州薩克縣和明尼蘇達州莫里森縣。統計處數字顯示，今年首九個月本港從挪威進口約20噸冷藏禽肉，從美國進口約33,270噸冷藏及冰鮮禽肉和約9,233萬隻禽蛋。",
+   "zh_hans": "食安中心今日宣布，因应世界动物卫生组织通报挪威及美国部分地区爆发高致病性H5N1禽流感，即时暂停从有关地区进口禽肉及禽类产品，包括禽蛋。受影响地区包括挪威阿克什胡斯郡、阿格德尔郡韦恩斯拉市，以及美国加州斯坦尼斯劳斯县、爱荷华州萨克县和明尼苏达州莫里森县。统计处数字显示，今年首九个月本港从挪威进口约20吨冷藏禽肉，从美国进口约33,270吨冷藏及冰鲜禽肉和约9,233万只禽蛋。"
+  },
+  "tags": {
+   "en": [
+    "Avian Influenza",
+    "Food Safety",
+    "Poultry Imports"
+   ],
+   "zh_hant": [
+    "禽流感",
+    "食安中心",
+    "禽肉進口"
+   ],
+   "zh_hans": [
+    "禽流感",
+    "食安中心",
+    "禽肉进口"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-cfs-poultry-suspension-norway-us-h5n1-v2.jpg"
+ },
+ {
   "id": "20261117-dh-arrest-illegal-topical-products-sham-shui-po",
   "category": "hk",
   "published_at": "2026-11-17T19:10:00+08:00",
@@ -761,43 +799,6 @@
    ]
   },
   "image_r2_key": "design/202611/20261117-ce-almac-speech-growth-innovation-sustainability.jpg"
- },
- {
-  "id": "20261117-cfs-poultry-suspension-norway-us-h5n1",
-  "category": "hk",
-  "published_at": "2026-11-17T19:26:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700480.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "Bird flu fears halt poultry imports from Norway and US areas as Hong Kong acts immediately",
-   "zh_hant": "禽流感殺到 挪威美國多區禽肉蛋即時停進口 首九月自美進口逾3.3萬噸禽肉",
-   "zh_hans": "禽流感杀到 挪威美国多区禽肉蛋即时停进口 首九月自美进口逾3.3万吨禽肉"
-  },
-  "summary": {
-   "en": "The Centre for Food Safety today announced an immediate suspension of poultry meat and products, including eggs, from areas in Norway and the United States following World Organisation for Animal Health notifications of highly pathogenic H5N1 avian influenza outbreaks. The affected areas are Akershus County and Vennesla Municipality in Agder County, Norway, and Stanislaus County in California, Sac County in Iowa and Morrison County in Minnesota in the US. Census and Statistics Department figures show Hong Kong imported about 20 tonnes of frozen poultry meat from Norway and about 33,270 tonnes of chilled and frozen poultry meat and about 92.33 million poultry eggs from the US in the first nine months of this year.",
-   "zh_hant": "食安中心今日宣布，因應世界動物衞生組織通報挪威及美國部分地區爆發高致病性H5N1禽流感，即時暫停從有關地區進口禽肉及禽類產品，包括禽蛋。受影響地區包括挪威阿克什胡斯郡、阿格德爾郡韋恩斯拉市，以及美國加州斯坦尼斯勞斯縣、愛荷華州薩克縣和明尼蘇達州莫里森縣。統計處數字顯示，今年首九個月本港從挪威進口約20噸冷藏禽肉，從美國進口約33,270噸冷藏及冰鮮禽肉和約9,233萬隻禽蛋。",
-   "zh_hans": "食安中心今日宣布，因应世界动物卫生组织通报挪威及美国部分地区爆发高致病性H5N1禽流感，即时暂停从有关地区进口禽肉及禽类产品，包括禽蛋。受影响地区包括挪威阿克什胡斯郡、阿格德尔郡韦恩斯拉市，以及美国加州斯坦尼斯劳斯县、爱荷华州萨克县和明尼苏达州莫里森县。统计处数字显示，今年首九个月本港从挪威进口约20吨冷藏禽肉，从美国进口约33,270吨冷藏及冰鲜禽肉和约9,233万只禽蛋。"
-  },
-  "tags": {
-   "en": [
-    "Avian Influenza",
-    "Food Safety",
-    "Poultry Imports"
-   ],
-   "zh_hant": [
-    "禽流感",
-    "食安中心",
-    "禽肉進口"
-   ],
-   "zh_hans": [
-    "禽流感",
-    "食安中心",
-    "禽肉进口"
-   ]
-  }
  },
  {
   "id": "20261117-cold-front-friday-15-degrees",
