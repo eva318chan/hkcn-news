@@ -663,7 +663,7 @@
       "name": "香港電台",
       "url": "https://news.rthk.hk/rthk/ch/component/k2/1878040-20261116.htm"
     },
-    "image_url": "",
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261116-apec-friends-song-relay-global.jpg",
     "title": {
       "en": "Netizens Worldwide Sing Cantopop Classic 'Friends' for APEC as English and Thai Versions Join Robot Band Showcase",
       "zh_hant": "全球網民接力唱《朋友》迎APEC 英泰文翻唱齊出 機械人樂隊助陣",
@@ -693,7 +693,8 @@
         "朋友",
         "广东歌"
       ]
-    }
+    },
+    "image_r2_key": "design/202611/20261116-apec-friends-song-relay-global.jpg"
   },
   {
     "id": "20261116-csrc-advisory-committee-shanghai-2030",
