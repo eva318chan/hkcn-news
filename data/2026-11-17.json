@@ -1,5 +1,236 @@
 [
  {
+  "id": "20261117-afcd-snake-cage-fishing-charges",
+  "category": "hk",
+  "published_at": "2026-11-17T20:40:00+08:00",
+  "source": {
+   "name": "漁農自然護理署",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700658.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-afcd-snake-cage-fishing-charges.jpg",
+  "title": {
+   "en": "Six charged over snake-cage fishing off Sha Chau as illegal gear seized from local vessel",
+   "zh_hant": "沙洲蛇籠非法捕魚 本地船長加五內地漁民被控 明日屯門應訊最高罰10萬監半年",
+   "zh_hans": "沙洲蛇笼非法捕鱼 本地船长加五内地渔民被控 明日屯门应讯最高罚10万监半年"
+  },
+  "summary": {
+   "en": "The Agriculture, Fisheries and Conservation Department today laid charges against a local coxswain and five Mainland fishermen deckhands suspected of fishing with snake cages in waters off Sha Chau. Officers intercepted the local vessel at around 8pm last night and seized winches from it; the six were charged under the Fisheries Protection Ordinance and will appear at Tuen Mun Magistrates' Courts tomorrow (November 18). Only vessels registered under the Ordinance may fish in Hong Kong waters, and snake cages are not a permitted fishing method; offenders face a maximum fine of $100,000 and six months' imprisonment.",
+   "zh_hant": "漁護署今日控告一名本地船長及五名內地漁民船員，涉嫌在沙洲對開水域以蛇籠捕魚。署方人員昨晚約8時截查涉事本地漁船調查，並在船上檢獲絞盤，六人被控違反《漁業保護條例》，明日（11月18日）在屯門裁判法院應訊。根據條例，只有在本港水域註冊的漁船才可用作捕魚，而蛇籠並非獲准的捕魚方法，違者最高可被罰款10萬元及監禁六個月。",
+   "zh_hans": "渔护署今日控告一名本地船长及五名内地渔民船员，涉嫌在沙洲对开水域以蛇笼捕鱼。署方人员昨晚约8时截查涉事本地渔船调查，并在船上检获绞盘，六人被控违反《渔业保护条例》，明日（11月18日）在屯门裁判法院应讯。根据条例，只有在本港水域注册的渔船才可用作捕鱼，而蛇笼并非获准的捕鱼方法，违者最高可被罚款10万元及监禁六个月。"
+  },
+  "tags": {
+   "en": [
+    "Illegal Fishing",
+    "AFCD",
+    "Sha Chau"
+   ],
+   "zh_hant": [
+    "非法捕魚",
+    "漁護署",
+    "沙洲"
+   ],
+   "zh_hans": [
+    "非法捕鱼",
+    "渔护署",
+    "沙洲"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-afcd-snake-cage-fishing-charges.jpg"
+ },
+ {
+  "id": "20261117-almac-green-fuels-logistics-achievements",
+  "category": "hk",
+  "published_at": "2026-11-17T20:08:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700611.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-almac-green-fuels-logistics-achievements.jpg",
+  "title": {
+   "en": "Maritime Week unveils green fuel deals as Qingdao joins partner ports and Vietnam-Guangxi-Hong Kong corridor opens",
+   "zh_hant": "海運周壓軸公布多項合作 綠色燃料三備忘錄齊簽 青島成姊妹港越桂港走廊通越南",
+   "zh_hans": "海运周压轴公布多项合作 绿色燃料三备忘录齐签 青岛成姐妹港越桂港走廊通越南"
+  },
+  "summary": {
+   "en": "Hong Kong Maritime Week entered its third day as the Asian Logistics, Maritime and Aviation Conference announced a series of co-operation achievements. Chief Executive John Lee delivered a special address and witnessed the signing of three memoranda of understanding and the launch of a co-operation initiative, covering local sustainable aviation fuel blending facilities, green maritime fuel certification standards and an expanded partner port network. The Transport and Logistics Bureau also announced Qingdao as a new partner port and the launch of a Vietnam-Guangxi-Hong Kong land-air logistics corridor, under which cargo from Vietnam can reach Hong Kong by road via Guangxi in about 30 hours before flying onward through Hong Kong's air network.",
+   "zh_hant": "香港海運周今日踏入第三日，亞洲物流航運及空運會議公布多項合作成果。行政長官李家超在會上發表特別致辭，並見證三份備忘錄簽署及一項合作倡議啟動，涵蓋本地可持續航空燃料混合設施、綠色船用燃料認證標準，以及擴大香港港口夥伴網絡。運輸及物流局同時宣布青島港成為香港第二批夥伴港口，並開通越桂港陸空超級物流走廊，越南貨物經廣西陸路約30小時可運抵香港，再經本港空運網絡出口海外。",
+   "zh_hans": "香港海运周今日踏入第三日，亚洲物流航运及空运会议公布多项合作成果。行政长官李家超在会上发表特别致辞，并见证三份备忘录签署及一项合作倡议启动，涵盖本地可持续航空燃料混合设施、绿色船用燃料认证标准，以及扩大香港港口伙伴网络。运输及物流局同时宣布青岛港成为香港第二批伙伴港口，并开通越桂港陆空超级物流走廊，越南货物经广西陆路约30小时可运抵香港，再经本港空运网络出口海外。"
+  },
+  "tags": {
+   "en": [
+    "Maritime Week",
+    "Green Fuel",
+    "Logistics",
+    "John Lee"
+   ],
+   "zh_hant": [
+    "海運周",
+    "綠色燃料",
+    "物流",
+    "李家超"
+   ],
+   "zh_hans": [
+    "海运周",
+    "绿色燃料",
+    "物流",
+    "李家超"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-almac-green-fuels-logistics-achievements.jpg"
+ },
+ {
+  "id": "20261117-eac-polling-staff-training",
+  "category": "hk",
+  "published_at": "2026-11-17T20:05:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700262.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-eac-polling-staff-training.jpg",
+  "title": {
+   "en": "Election Committee polls open Sunday as electoral chief inspects staff drill at five polling stations",
+   "zh_hant": "選委會選舉周日開鑼 選管會主席親巡票站演練 5票站電子登記冊派票有後備方案",
+   "zh_hans": "选委会选举周日开锣 选管会主席亲巡票站演练 5票站电子登记册派票有后备方案"
+  },
+  "summary": {
+   "en": "The 2026 Election Committee Subsector Ordinary Elections will be held this Sunday (November 22), and Electoral Affairs Commission Chairman Mr Justice David Lok and member Professor Daniel Shek today inspected an on-site drill training session for polling station staff arranged by the Registration and Electoral Office. Five ordinary polling stations will be set up, and the Electronic Poll Register System will be used to issue ballot papers, with staff also familiarised with its fallback mode. Mr Justice Lok thanked staff for their efforts and stressed that all polling procedures must follow the law and guidelines to ensure an orderly poll and count.",
+   "zh_hant": "選委會界別分組一般選舉將於本周日（11月22日）舉行，選管會主席陸啟康法官與委員石丹理教授今日視察選舉事務處為投票站工作人員安排的實地演練。今屆選舉將設五個普通投票站，並採用電子選民登記冊系統派發選票，工作人員亦熟習後備模式操作。陸啟康感謝工作人員的努力，強調所有投票程序須依法例及指引進行，確保投票及點票順利。",
+   "zh_hans": "选委会界别分组一般选举将于本周日（11月22日）举行，选管会主席陆启康法官与委员石丹理教授今日视察选举事务处为投票站工作人员安排的实地演练。今届选举将设五个普通投票站，并采用电子选民登记册系统派发选票，工作人员亦熟习后备模式操作。陆启康感谢工作人员的努力，强调所有投票程序须依法例及指引进行，确保投票及点票顺利。"
+  },
+  "tags": {
+   "en": [
+    "Election Committee",
+    "Polling Stations",
+    "Electronic Poll Register"
+   ],
+   "zh_hant": [
+    "選委會選舉",
+    "投票站",
+    "電子選民登記冊"
+   ],
+   "zh_hans": [
+    "选委会选举",
+    "投票站",
+    "电子选民登记册"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-eac-polling-staff-training.jpg"
+ },
+ {
+  "id": "20261117-dh-exercise-quartz-novel-disease",
+  "category": "hk",
+  "published_at": "2026-11-17T19:55:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700413.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-dh-exercise-quartz-novel-disease.jpg",
+  "title": {
+   "en": "Health chiefs stage 'Quartz' drill for novel disease as four simulated cases hit one building",
+   "zh_hant": "衞生署「白水晶」演習 模擬新傳染病同幢四人中招 110人跨部門實戰36專家觀摩",
+   "zh_hans": "卫生署「白水晶」演习 模拟新传染病同幢四人中招 110人跨部门实战36专家观摩"
+  },
+  "summary": {
+   "en": "The Centre for Health Protection of the Department of Health today held a cross-departmental public health exercise codenamed 'Quartz', simulating a cluster of a novel infectious disease to test response and prevention capabilities. Around 110 representatives from government departments and auxiliary services took part in the ground exercise, joined by 36 experts from the National Health Commission, the National Disease Control and Prevention Administration, mainland provinces and cities, Macao and Singapore as observers. The scenario involved four patients living on different floors of the same building; the Department activated a multi-disciplinary response team to investigate environmental factors and the Director of Health issued an isolation order, with residents evacuated to quarantine facilities in an orderly manner.",
+   "zh_hant": "衞生署衞生防護中心今日舉行代號「白水晶」的跨部門公共衞生演習，模擬本港出現新型傳染病群組個案，測試應變及防控能力。約110名來自多個政府部門及輔助部隊的人員參與實地演練，另有36名來自國家衞健委、國家疾控局、內地省市、澳門及新加坡的專家到場觀摩。演習模擬四名居於同一大廈不同樓層的患者確診，衞生署隨即啟動跨專業應變小組調查環境傳播因素，並由衞生署署長發出隔離令，安排居民有序撤離至檢疫設施。",
+   "zh_hans": "卫生署卫生防护中心今日举行代号「白水晶」的跨部门公共卫生演习，模拟本港出现新型传染病群组个案，测试应变及防控能力。约110名来自多个政府部门及辅助部队的人员参与实地演练，另有36名来自国家卫健委、国家疾控局、内地省市、澳门及新加坡的专家到场观摩。演习模拟四名居于同一大厦不同楼层的患者确诊，卫生署随即启动跨专业应变小组调查环境传播因素，并由卫生署署长发出隔离令，安排居民有序撤离至检疫设施。"
+  },
+  "tags": {
+   "en": [
+    "Exercise Quartz",
+    "Novel Infectious Disease",
+    "Department of Health"
+   ],
+   "zh_hant": [
+    "白水晶演習",
+    "新型傳染病",
+    "衞生署"
+   ],
+   "zh_hans": [
+    "白水晶演习",
+    "新型传染病",
+    "卫生署"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-dh-exercise-quartz-novel-disease.jpg"
+ },
+ {
+  "id": "20261117-legco-ai-subcommittee-ha-ai-lab",
+  "category": "hk",
+  "published_at": "2026-11-17T19:50:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700629.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-legco-ai-subcommittee-ha-ai-lab.jpg",
+  "title": {
+   "en": "LegCo AI panel tours Hospital Authority lab as system predicts patient deterioration 48 hours ahead",
+   "zh_hant": "立法會AI小組直擊醫管局實驗室 預測病人48小時惡化風險 17議員促擴大應用紓人手荒",
+   "zh_hans": "立法会AI小组直击医管局实验室 预测病人48小时恶化风险 17议员促扩大应用纾人手荒"
+  },
+  "summary": {
+   "en": "The Legislative Council Subcommittee on Matters Relating to the Development of Artificial Intelligence and Robotics today visited the Hospital Authority's AI Lab to learn about applications of AI and robotics in healthcare. Members toured the IT Innovation Lab and were briefed on the Technology Convergence Hub being set up, as well as the Authority's digital transformation across five areas in public hospitals. The Hospital Authority also demonstrated clinical AI applications, including a patient deterioration prediction system that analyses more than 20 clinical features to forecast the risk of adverse outcomes within 48 hours, enabling early intervention by healthcare professionals.",
+   "zh_hant": "立法會人工智能及機械人發展事宜小組委員會今日到訪醫管局人工智能實驗室，了解人工智能及機械人技術在醫療領域的應用。議員先參觀資訊科技創新實驗室，聽取醫管局介紹正在籌建的科技匯聚中心，以及公立醫院數碼轉型五大範疇。醫管局亦示範多項臨床人工智能應用，包括分析逾20項臨床特徵、預測住院病人48小時內病情惡化風險的系統，讓醫護人員及早介入，改善病人預後並縮短住院時間。",
+   "zh_hans": "立法会人工智能及机械人发展事宜小组委员会今日到访医管局人工智能实验室，了解人工智能及机械人技术在医疗领域的应用。议员先参观资讯科技创新实验室，听取医管局介绍正在筹建的科技汇聚中心，以及公立医院数码转型五大范畴。医管局亦示范多项临床人工智能应用，包括分析逾20项临床特征、预测住院病人48小时内病情恶化风险的系统，让医护人员及早介入，改善病人预后并缩短住院时间。"
+  },
+  "tags": {
+   "en": [
+    "Artificial Intelligence",
+    "Hospital Authority",
+    "LegCo"
+   ],
+   "zh_hant": [
+    "人工智能",
+    "醫管局",
+    "立法會"
+   ],
+   "zh_hans": [
+    "人工智能",
+    "医管局",
+    "立法会"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-legco-ai-subcommittee-ha-ai-lab.jpg"
+ },
+ {
+  "id": "20261117-dh-arrest-illegal-topical-products-sham-shui-po",
+  "category": "hk",
+  "published_at": "2026-11-17T19:10:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700496.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-dh-arrest-illegal-topical-products-sham-shui-po.jpg",
+  "title": {
+   "en": "Sham Shui Po hawker arrested over creams laced with undeclared steroids as man, 56, faces jail",
+   "zh_hant": "深水埗攤檔賣違禁藥膏 兩款外用藥含未標示類固醇 56歲漢被捕最高罰10萬監兩年",
+   "zh_hans": "深水埗摊档卖违禁药膏 两款外用药含未标示类固醇 56岁汉被捕最高罚10万监两年"
+  },
+  "summary": {
+   "en": "The Department of Health, together with Police, today raided a hawker stall in Sham Shui Po and arrested a 56-year-old man suspected of illegally selling and possessing Part 1 poisons and unregistered pharmaceutical products. Officers seized two topical products, 'Zangyao xuanduwang' and 'King poison to itch' antibacterial cream, and Government Laboratory tests confirmed they contained undeclared controlled drug ingredients, including the steroid clobetasol propionate. The Department urged the public not to buy or use products of doubtful composition, and anyone who has bought them should stop using them at once and seek medical advice if unwell.",
+   "zh_hant": "衞生署聯同警方今日在深水埗一個小販攤檔採取執法行動，拘捕一名56歲男子，涉嫌非法售賣及管有第1部毒藥及未經註冊藥劑製品。行動中檢獲兩款外用產品，包括「藏藥癬毒王」及「苗藥毒痒王」抗菌乳膏，政府化驗所檢測證實含有未標示的受管制藥物成分，包括類固醇丙酸氯倍他索。衞生署呼籲市民切勿購買或使用來歷不明產品，已購買者應立即停用，如有不適應諮詢醫護人員。",
+   "zh_hans": "卫生署联同警方今日在深水埗一个小贩摊档采取执法行动，拘捕一名56岁男子，涉嫌非法售卖及管有第1部毒药及未经注册药剂制品。行动中检获两款外用产品，包括「藏药癣毒王」及「苗药毒痒王」抗菌乳膏，政府化验所检测证实含有未标示的受管制药物成分，包括类固醇丙酸氯倍他索。卫生署呼吁市民切勿购买或使用来历不明产品，已购买者应立即停用，如有不适应咨询医护人员。"
+  },
+  "tags": {
+   "en": [
+    "Illegal Creams",
+    "Department of Health",
+    "Sham Shui Po"
+   ],
+   "zh_hant": [
+    "違禁藥膏",
+    "衞生署",
+    "深水埗"
+   ],
+   "zh_hans": [
+    "违禁药膏",
+    "卫生署",
+    "深水埗"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-dh-arrest-illegal-topical-products-sham-shui-po.jpg"
+ },
+ {
   "id": "20261117-hkma-scam-alert-bea",
   "category": "finance",
   "published_at": "2026-11-17T18:00:00+08:00",
@@ -530,6 +761,43 @@
    ]
   },
   "image_r2_key": "design/202611/20261117-ce-almac-speech-growth-innovation-sustainability.jpg"
+ },
+ {
+  "id": "20261117-cfs-poultry-suspension-norway-us-h5n1",
+  "category": "hk",
+  "published_at": "2026-11-17T19:26:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700480.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Bird flu fears halt poultry imports from Norway and US areas as Hong Kong acts immediately",
+   "zh_hant": "禽流感殺到 挪威美國多區禽肉蛋即時停進口 首九月自美進口逾3.3萬噸禽肉",
+   "zh_hans": "禽流感杀到 挪威美国多区禽肉蛋即时停进口 首九月自美进口逾3.3万吨禽肉"
+  },
+  "summary": {
+   "en": "The Centre for Food Safety today announced an immediate suspension of poultry meat and products, including eggs, from areas in Norway and the United States following World Organisation for Animal Health notifications of highly pathogenic H5N1 avian influenza outbreaks. The affected areas are Akershus County and Vennesla Municipality in Agder County, Norway, and Stanislaus County in California, Sac County in Iowa and Morrison County in Minnesota in the US. Census and Statistics Department figures show Hong Kong imported about 20 tonnes of frozen poultry meat from Norway and about 33,270 tonnes of chilled and frozen poultry meat and about 92.33 million poultry eggs from the US in the first nine months of this year.",
+   "zh_hant": "食安中心今日宣布，因應世界動物衞生組織通報挪威及美國部分地區爆發高致病性H5N1禽流感，即時暫停從有關地區進口禽肉及禽類產品，包括禽蛋。受影響地區包括挪威阿克什胡斯郡、阿格德爾郡韋恩斯拉市，以及美國加州斯坦尼斯勞斯縣、愛荷華州薩克縣和明尼蘇達州莫里森縣。統計處數字顯示，今年首九個月本港從挪威進口約20噸冷藏禽肉，從美國進口約33,270噸冷藏及冰鮮禽肉和約9,233萬隻禽蛋。",
+   "zh_hans": "食安中心今日宣布，因应世界动物卫生组织通报挪威及美国部分地区爆发高致病性H5N1禽流感，即时暂停从有关地区进口禽肉及禽类产品，包括禽蛋。受影响地区包括挪威阿克什胡斯郡、阿格德尔郡韦恩斯拉市，以及美国加州斯坦尼斯劳斯县、爱荷华州萨克县和明尼苏达州莫里森县。统计处数字显示，今年首九个月本港从挪威进口约20吨冷藏禽肉，从美国进口约33,270吨冷藏及冰鲜禽肉和约9,233万只禽蛋。"
+  },
+  "tags": {
+   "en": [
+    "Avian Influenza",
+    "Food Safety",
+    "Poultry Imports"
+   ],
+   "zh_hant": [
+    "禽流感",
+    "食安中心",
+    "禽肉進口"
+   ],
+   "zh_hans": [
+    "禽流感",
+    "食安中心",
+    "禽肉进口"
+   ]
+  }
  },
  {
   "id": "20261117-cold-front-friday-15-degrees",
