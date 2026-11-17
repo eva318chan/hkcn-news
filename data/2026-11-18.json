@@ -1,5 +1,45 @@
 [
  {
+  "id": "20261118-symphony-of-lights-final-show",
+  "category": "hk",
+  "published_at": "2026-11-18T07:00:00+08:00",
+  "source": {
+   "name": "Time Out",
+   "url": "https://www.timeout.hk/news/the-symphony-of-lights-bids-farewell-to-hong-kong-after-a-final-show-on-november-18"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-symphony-of-lights-final-show.jpg",
+  "title": {
+   "en": "A Symphony of Lights bows out tonight at 8pm after 22 years — fireworks to mark the farewell as WinterFest opens",
+   "zh_hant": "幻彩詠香江今晚8時最後一場 22年維港傳奇落幕 加煙花效果告別",
+   "zh_hans": "幻彩咏香江今晚8时最后一场 22年维港传奇落幕 加烟花效果告别"
+  },
+  "summary": {
+   "en": "A Symphony of Lights, the nightly light and sound show over Victoria Harbour, stages its final performance tonight at 8pm, ending a 22-year run since January 2004. Hong Kong Tourism Board chairman Peter Lam announced on 10 November that the finale will carry added pyrotechnic elements; the show was named by Guinness World Records in 2005 as the world's largest permanent light and sound show. The best viewing spots are the Tsim Sha Tsui waterfront outside the Hong Kong Cultural Centre, the Avenue of Stars and the promenade at Golden Bauhinia Square in Wan Chai; the show is free and needs no ticket. The same night, Hong Kong WinterFest opens and runs until 5 January 2027 — the tourism board's largest ever, with Winter Wonderlands in Central, Tsim Sha Tsui and Causeway Bay. The show will be replaced by seasonal light festivals staged at different places and times of year, with new light and projection shows rolling out from 2027.",
+   "zh_hant": "幻彩詠香江今晚8時上演最後一場，結束自2004年1月起長達22年的演出。香港旅遊發展局主席林建岳於11月10日公布，告別場將加入煙花效果；幻彩詠香江於2005年獲健力士世界紀錄列為全球最大型永久燈光及音響匯演。最佳觀賞位置包括香港文化中心對開的尖沙咀海濱、星光大道及灣仔金紫荊廣場一帶海濱長廊，免費入場，毋須門票。同晚香港冬日節慶開幕，至2027年1月5日，為旅發局歷來最大規模，冬日樂園分設中環、尖沙咀及銅鑼灣三區。幻彩詠香江日後將由不同地點、不同季節的燈光節取代，新的燈光及投影表演將由2027年起陸續推出。",
+   "zh_hans": "幻彩咏香江今晚8时上演最后一场，结束自2004年1月起长达22年的演出。香港旅游发展局主席林建岳于11月10日公布，告别场将加入烟花效果；幻彩咏香江于2005年获健力士世界纪录列为全球最大型永久灯光及音响汇演。最佳观赏位置包括香港文化中心对开的尖沙咀海滨、星光大道及湾仔金紫荆广场一带海滨长廊，免费入场，毋须门票。同晚香港冬日节庆开幕，至2027年1月5日，为旅发局历来最大规模，冬日乐园分设中环、尖沙咀及铜锣湾三区。幻彩咏香江日后将由不同地点、不同季节的灯光节取代，新的灯光及投影表演将由2027年起陆续推出。"
+  },
+  "tags": {
+   "en": [
+    "A Symphony of Lights",
+    "Victoria Harbour",
+    "WinterFest"
+   ],
+   "zh_hant": [
+    "幻彩詠香江",
+    "維多利亞港",
+    "冬日節慶"
+   ],
+   "zh_hans": [
+    "幻彩咏香江",
+    "维多利亚港",
+    "冬日节庆"
+   ]
+  },
+  "card_time": "2026-11-18 07:00",
+  "image_r2_key": "design/202611/20261118-symphony-of-lights-final-show.jpg",
+  "caption": "維多利亞港夜景。（Unsplash）"
+ },
+ {
   "id": "20261118-putin-arrives-shenzhen-apec",
   "category": "world",
   "published_at": "2026-11-18T04:12:00+08:00",
@@ -271,5 +311,195 @@
   },
   "image_r2_key": "design/202611/20261118-watsons-cyber-incident-v2.jpg",
   "card_time": "2026-11-18 00:07"
+ },
+ {
+  "id": "20261118-us-confirms-qeshm-strike",
+  "category": "world",
+  "published_at": "2026-11-18T06:36:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878213-20261118.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "US confirms precision strike on Qeshm Island missile site in response to Revolutionary Guard 'aggression' — Bahrain radar base not hit",
+   "zh_hant": "美軍證實打擊伊朗格什姆島導彈發射場 稱回應革命衛隊侵略行為 巴林基地雷達未被擊中",
+   "zh_hans": "美军证实打击伊朗格什姆岛导弹发射场 称回应革命卫队侵略行为 巴林基地雷达未被击中"
+  },
+  "summary": {
+   "en": "The US military confirmed on Tuesday that it carried out a precision strike on a missile launch site on Qeshm Island in southern Iran, in response to what it called aggression by Iran's Revolutionary Guard against US personnel and assets. Iranian media had earlier reported explosions and smoke over the island; the deputy governor of Hormozgan province later confirmed the strike, saying the situation was under control and residential areas, businesses and infrastructure were undamaged. Hours before the Qeshm strike, Iran attacked a US radar station in Bahrain; US Central Command denied the radar system was hit, and Bahrain's defence headquarters said its air defences intercepted multiple Iranian strikes.",
+   "zh_hant": "美國軍方星期二證實，對伊朗南部格什姆島一處導彈發射場實施精準打擊，回應伊朗革命衛隊針對美國人員和資產的侵略行為。伊朗傳媒較早時報道，格什姆島傳出爆炸聲並冒出濃煙；霍爾木茲甘省副省長其後證實，美軍襲擊格什姆島部分地點，當地情況受控，居民區、商業和基礎設施沒有受損。據報在格什姆島襲擊發生前幾小時，伊朗對美軍位於巴林的一處雷達站發動襲擊，美軍中央司令部否認巴林基地的雷達系統被擊中；巴林國防軍總司令部說，防空部隊攔截了多次伊朗的空中打擊。",
+   "zh_hans": "美国军方星期二证实，对伊朗南部格什姆岛一处导弹发射场实施精准打击，回应伊朗革命卫队针对美国人员和资产的侵略行为。伊朗传媒较早时报道，格什姆岛传出爆炸声并冒出浓烟；霍尔木兹甘省副省长其后证实，美军袭击格什姆岛部分地点，当地情况受控，居民区、商业和基础设施没有受损。据报在格什姆岛袭击发生前几小时，伊朗对美军位于巴林的一处雷达站发动袭击，美军中央司令部否认巴林基地的雷达系统被击中；巴林国防军总司令部说，防空部队拦截了多次伊朗的空中打击。"
+  },
+  "tags": {
+   "en": [
+    "Iran",
+    "United States",
+    "Qeshm Island"
+   ],
+   "zh_hant": [
+    "伊朗",
+    "美國",
+    "格什姆島"
+   ],
+   "zh_hans": [
+    "伊朗",
+    "美国",
+    "格什姆岛"
+   ]
+  },
+  "card_time": "2026-11-18 06:36"
+ },
+ {
+  "id": "20261118-hk-adr-jd-falls-5-pct",
+  "category": "finance",
+  "published_at": "2026-11-18T06:23:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878214-20261118.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Hong Kong ADRs slide as JD.com sinks over 5% after results to HK$99.80 — Tencent and HSBC down over 1%",
+   "zh_hant": "港股ADR下挫 京東績後挫逾5% 折合99.8元 騰訊滙控齊跌逾1%",
+   "zh_hans": "港股ADR下挫 京东绩后挫逾5% 折合99.8元 腾讯汇控齐跌逾1%"
+  },
+  "summary": {
+   "en": "Hong Kong American depositary receipts fell. JD.com was sold off after announcing results, with its ADR down over 5% from Hong Kong's previous close, equivalent to HK$99.80. Tencent, HSBC and Bank of China ADRs fell over 1%. Meituan, Xiaomi and Ping An ADRs fell about 1%, while Alibaba, AIA, China Construction Bank and ICBC ADRs were also soft.",
+   "zh_hant": "港股美國預託證券（ADR）下挫。京東集團公布業績後捱沽，ADR比本港昨日收市價急挫逾5%，以港元計折合報99.8元。騰訊、滙控、中行ADR跌逾1%。美團、小米、平保ADR跌約1%，阿里巴巴、友邦、建行、工行ADR亦偏軟。",
+   "zh_hans": "港股美国预托证券（ADR）下挫。京东集团公布业绩后捱沽，ADR比本港昨日收市价急挫逾5%，以港元计折合报99.8元。腾讯、汇控、中行ADR跌逾1%。美团、小米、平保ADR跌约1%，阿里巴巴、友邦、建行、工行ADR亦偏软。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong ADRs",
+    "JD.com",
+    "Tencent"
+   ],
+   "zh_hant": [
+    "港股ADR",
+    "京東",
+    "騰訊"
+   ],
+   "zh_hans": [
+    "港股ADR",
+    "京东",
+    "腾讯"
+   ]
+  },
+  "card_time": "2026-11-18 06:23"
+ },
+ {
+  "id": "20261118-european-stocks-fall",
+  "category": "finance",
+  "published_at": "2026-11-18T06:09:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878212-20261118.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "UK, French and German stocks close down nearly 2% or more — lowest in over a week as DAX falls for a third day",
+   "zh_hant": "英法德股市低收近2%或以上 創逾1星期新低 德股連跌3日",
+   "zh_hans": "英法德股市低收近2%或以上 创逾1星期新低 德股连跌3日"
+  },
+  "summary": {
+   "en": "European stocks extended the previous day's losses, with the UK, French and German markets closing down nearly 2% or more at their lowest in over a week. The UK's FTSE 100 closed at 10,689, down 191 points or about 1.8%, falling for a second straight day. France's CAC index also fell for a second day, closing at 8,216, down 135 points or over 1.6%. Germany's DAX closed at 26,045, down 553 points or nearly 2.1%, lower for a third consecutive day.",
+   "zh_hant": "歐洲股市延續上日跌勢，英法德股市跌近2%或以上收市，創逾1星期新低。英國富時100指數收報10689點，跌191點，跌幅約1.8%，連跌兩日。法國CAC指數亦兩連跌，收報8216點，跌135點，跌幅逾1.6%。德國DAX指數收報26045點，跌553點，跌幅近2.1%，連續3日低收。",
+   "zh_hans": "欧洲股市延续上日跌势，英法德股市跌近2%或以上收市，创逾1星期新低。英国富时100指数收报10689点，跌191点，跌幅约1.8%，连跌两日。法国CAC指数亦两连跌，收报8216点，跌135点，跌幅逾1.6%。德国DAX指数收报26045点，跌553点，跌幅近2.1%，连续3日低收。"
+  },
+  "tags": {
+   "en": [
+    "European stocks",
+    "FTSE",
+    "DAX"
+   ],
+   "zh_hant": [
+    "歐洲股市",
+    "富時指數",
+    "德國DAX"
+   ],
+   "zh_hans": [
+    "欧洲股市",
+    "富时指数",
+    "德国DAX"
+   ]
+  },
+  "card_time": "2026-11-18 06:09"
+ },
+ {
+  "id": "20261118-us-stocks-dow-plunges-848",
+  "category": "finance",
+  "published_at": "2026-11-18T06:08:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878211-20261118.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Dow plunges 848 points at the close after sliding over 1,000 intraday — lowest in over five months as Nasdaq briefly breaks below 24,000",
+   "zh_hant": "道指尾市挫逾千點收市跌848點 創逾5個月新低 納指曾失守24000點",
+   "zh_hans": "道指尾市挫逾千点收市跌848点 创逾5个月新低 纳指曾失守24000点"
+  },
+  "summary": {
+   "en": "US stocks closed down nearly 1% or more as investors stayed cautious ahead of Nvidia's results and Anthropic's listing, while an internal network outage at the US National Security Agency added to worries over critical infrastructure. Data showed US retail sales rose 0.2% last month as expected, while import prices rose 1.1%, beating expectations and reinforcing rate-hike expectations. The Dow slid more than 1,040 points intraday to a low of 50,566 before closing at 50,759, down 848 points or over 1.6%, its second straight daily fall and lowest close in more than five months; the S&P 500 closed at 7,340, down 76 points or 1%, a roughly three-and-a-half-month low; the Nasdaq briefly broke below 24,000 to an intraday low of 23,989, its lowest since mid-April, before closing at 24,328, down 181 points. Nvidia closed down over 0.4% but rose as much as 4% after hours after third-quarter results beat expectations; banks were sold off, while General Motors rose about 0.5% as it ended 115 years listed on the New York Stock Exchange and moved to Nasdaq.",
+   "zh_hant": "美股跌近1%或以上收市，投資者在Nvidia業績公布前及Anthropic上市前夕取態謹慎，美國國家安全局內部網絡中斷亦加劇市場對關鍵基建穩定性的擔憂；數據顯示，美國上月零售銷售一如預期按月升0.2%，進口物價升1.1%超預期，強化加息預期。道指尾市最多跌逾1040點，低見50566點，收報50759點，跌848點，跌幅逾1.6%，連跌兩日，創逾5個月新低；標普500指數收報7340點，跌76點，跌幅1%，創約3個半月低位；納指一度跌穿24000點關口，低見23989點，創4月中以來的即市新低，收報24328點，跌181點。Nvidia低收逾0.4%，收市後公布的第3季業績高於預期，股價曾升4%；金融股捱沽，通用汽車升約0.5%，結束在紐約證券交易所115年上市歷史，轉至納斯達克掛牌。",
+   "zh_hans": "美股跌近1%或以上收市，投资者在Nvidia业绩公布前及Anthropic上市前夕取态谨慎，美国国家安全局内部网络中断亦加剧市场对关键基建稳定性的担忧；数据显示，美国上月零售销售一如预期按月升0.2%，进口物价升1.1%超预期，强化加息预期。道指尾市最多跌逾1040点，低见50566点，收报50759点，跌848点，跌幅逾1.6%，连跌两日，创逾5个月新低；标普500指数收报7340点，跌76点，跌幅1%，创约3个半月低位；纳指一度跌穿24000点关口，低见23989点，创4月中以来的即市新低，收报24328点，跌181点。Nvidia低收逾0.4%，收市后公布的第3季业绩高于预期，股价曾升4%；金融股捱沽，通用汽车升约0.5%，结束在纽约证券交易所115年上市历史，转至纳斯达克挂牌。"
+  },
+  "tags": {
+   "en": [
+    "Dow Jones",
+    "US stocks",
+    "Nvidia"
+   ],
+   "zh_hant": [
+    "道指",
+    "美股",
+    "Nvidia"
+   ],
+   "zh_hans": [
+    "道指",
+    "美股",
+    "Nvidia"
+   ]
+  },
+  "card_time": "2026-11-18 06:08"
+ },
+ {
+  "id": "20261118-nsa-network-slowdown",
+  "category": "world",
+  "published_at": "2026-11-18T05:55:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878208-20261118.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "US National Security Agency's internal network briefly slows during maintenance — Trump says such incidents are unavoidable",
+   "zh_hant": "美國安局內部系統短暫網速下降 影響部分功能 特朗普：類似事件無法避免",
+   "zh_hans": "美国安局内部系统短暂网速下降 影响部分功能 特朗普：类似事件无法避免"
+  },
+  "summary": {
+   "en": "The US National Security Agency said on Tuesday that its network system for internal communications suffered a brief slowdown during scheduled maintenance, affecting some functions, but stressed that its key mission capability remained fully operational. The agency's statement did not explain the cause of the incident. US President Donald Trump said such incidents happen from time to time and are unavoidable.",
+   "zh_hant": "美國國家安全局星期二公布，局方用於內部通訊的網絡系統，在一次定期維護期間出現短暫網速下降，影響系統部分功能，局方重申系統的關鍵任務能力保持全面正常運作，但聲明並無交代事故原因。美國總統特朗普回應說，類似事件間中都會發生，形容是無法避免。",
+   "zh_hans": "美国国家安全局星期二公布，局方用于内部通讯的网络系统，在一次定期维护期间出现短暂网速下降，影响系统部分功能，局方重申系统的关键任务能力保持全面正常运作，但声明并无交代事故原因。美国总统特朗普回应说，类似事件间中都会发生，形容是无法避免。"
+  },
+  "tags": {
+   "en": [
+    "NSA",
+    "Trump",
+    "cybersecurity"
+   ],
+   "zh_hant": [
+    "國安局",
+    "特朗普",
+    "網絡安全"
+   ],
+   "zh_hans": [
+    "国安局",
+    "特朗普",
+    "网络安全"
+   ]
+  },
+  "card_time": "2026-11-18 05:55"
  }
 ]
