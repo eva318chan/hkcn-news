@@ -1,5 +1,449 @@
 [
   {
+    "id": "20261117-medical-alert-wrong-ovary-removal",
+    "category": "hk",
+    "published_at": "2026-11-17T10:37:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878089-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Private Hospital Wrongly Removed Woman's Ovaries in Surgery | Health Department Logged Two Medical Risk Alerts in September",
+      "zh_hant": "私院手術錯切女病人雙側卵巢 9月兩宗醫療風險警示",
+      "zh_hans": "私院手术错切女病人双侧卵巢 9月两宗医疗风险警示"
+    },
+    "summary": {
+      "en": "Hong Kong's Department of Health received two medical risk alerts from private healthcare institutions in September, including a case in which a 45-year-old woman had both ovaries wrongly removed during surgery at a private hospital. The woman was undergoing laparoscopic surgery to remove her uterus and both fallopian tubes when both ovaries were also removed by mistake; she is in stable condition. The department said there was no evidence the hospital breached the code of practice on premises, staffing or equipment. The second case involved a 27-year-old woman at a day medical centre who was mistaken for another patient and given teeth scaling treatment; she is also stable. The department followed up immediately, required investigation reports within four weeks, and said it has completed its investigations and the institutions have taken improvement measures.",
+      "zh_hant": "衞生署表示，9月收到兩宗私營醫療機構呈報的醫療風險警示事件，其中一宗涉及一名45歲女病人，在一間私家醫院接受腹腔鏡子宮及雙側輸卵管切除手術期間，雙側卵巢被錯誤切除，病人情況穩定。衞生署表示，沒有證據顯示醫院在房舍、人手、設備方面違反實務守則的要求，導致今次事件。另一宗涉及一名27歲女病人，在日間醫療中心被誤認為另一名病人，接受了洗牙治療，病人情況穩定。衞生署在收到通報後隨即跟進，要求有關機構在4星期內提交調查報告，現已完成所有調查，有關機構亦已採取改善措施。",
+      "zh_hans": "卫生署表示，9月收到两宗私营医疗机构呈报的医疗风险警示事件，其中一宗涉及一名45岁女病人，在一间私家医院接受腹腔镜子宫及双侧输卵管切除手术期间，双侧卵巢被错误切除，病人情况稳定。卫生署表示，没有证据显示医院在房舍、人手、设备方面违反实务守则的要求，导致今次事件。另一宗涉及一名27岁女病人，在日间医疗中心被误认为另一名病人，接受了洗牙治疗，病人情况稳定。卫生署在收到通报后随即跟进，要求有关机构在4星期内提交调查报告，现已完成所有调查，有关机构亦已采取改善措施。"
+    },
+    "tags": {
+      "en": [
+        "medical incident",
+        "private hospital",
+        "Department of Health"
+      ],
+      "zh_hant": [
+        "醫療事故",
+        "私家醫院",
+        "衞生署"
+      ],
+      "zh_hans": [
+        "医疗事故",
+        "私家医院",
+        "卫生署"
+      ]
+    }
+  },
+  {
+    "id": "20261117-nikkei-midday-down-705",
+    "category": "finance",
+    "published_at": "2026-11-17T10:35:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878088-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Nikkei Down 705 Points at Midday to 58,956 | Losses Extend Morning Weakness",
+      "zh_hant": "日股半日跌705點 報58956點跌幅1.18% 延續早段弱勢",
+      "zh_hans": "日股半日跌705点 报58956点跌幅1.18% 延续早段弱势"
+    },
+    "summary": {
+      "en": "Japanese stocks stayed soft at midday, with the Nikkei 225 at 58,956, down 705 points or 1.18 per cent, extending the morning's weakness.",
+      "zh_hant": "日股偏軟，日經指數半日報58956點，跌705點，跌幅1.18%，延續早段跌勢。",
+      "zh_hans": "日股偏软，日经指数半日报58956点，跌705点，跌幅1.18%，延续早段跌势。"
+    },
+    "tags": {
+      "en": [
+        "Nikkei",
+        "Japanese stocks",
+        "Tokyo market"
+      ],
+      "zh_hant": [
+        "日經指數",
+        "日股",
+        "日本股市"
+      ],
+      "zh_hans": [
+        "日经指数",
+        "日股",
+        "日本股市"
+      ]
+    }
+  },
+  {
+    "id": "20261117-ce-almac-speech-growth-innovation-sustainability",
+    "category": "hk",
+    "published_at": "2026-11-17T10:22:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700207.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "CE Lee Tells Logistics Conference Exports Jumped Over 45% in First Three Quarters | Airport Retains World's Busiest Cargo Crown",
+      "zh_hant": "李家超物流航運會議致辭 首三季出口飆逾45% 機場貨運量全球第一",
+      "zh_hans": "李家超物流航运会议致辞 首三季出口飙逾45% 机场货运量全球第一"
+    },
+    "summary": {
+      "en": "Chief Executive John Lee has told the 16th Asian Logistics, Maritime and Aviation Conference in Hong Kong that the city's goods exports surged by more than 45 per cent year on year in the first three quarters of the year. Speaking at the opening of the two-day event at the Hong Kong Convention and Exhibition Centre, Lee said Hong Kong International Airport handled more than five million tonnes of cargo in 2025, making it the world's busiest cargo airport for the 15th time since 2010. He said the government's first Five-Year Plan, announced in September, reinforces Hong Kong's role as an international maritime centre and aviation hub, and highlighted new partner-port ties, the SuperLink Direct land-air corridor linking Vietnam and Hong Kong via Guangxi, and progress on green fuels, including about 220 green fuel operations totalling 380,000 tonnes since last year. Lee also said the Airport Authority, Towngas and EcoCeres will sign a memorandum of understanding for a dedicated sustainable aviation fuel blending facility.",
+      "zh_hant": "行政長官李家超在香港會議展覽中心舉行的第16屆亞洲物流航運及空運會議開幕典禮致辭表示，本港首三季貨物出口按年飆升逾45%。他表示，香港國際機場2025年處理逾500萬公噸貨物，自2010年以來第15次成為全球最繁忙貨運機場。李家超表示，政府9月公布的首個五年規劃，鞏固香港作為國際航運中心及航空樞紐的地位；本港正拓展夥伴港口網絡，並推出連接越南與香港、經廣西的陸空聯運快線服務。綠色燃料方面，去年以來已完成約220次綠色燃料加注，總量38萬公噸；機管局、中華煤氣及EcoCeres將簽署合作備忘錄，興建專用的可持續航空燃料混合設施。",
+      "zh_hans": "行政长官李家超在香港会议展览中心举行的第16届亚洲物流航运及空运会议开幕典礼致辞表示，本港首三季货物出口按年飙升逾45%。他表示，香港国际机场2025年处理逾500万公吨货物，自2010年以来第15次成为全球最繁忙货运机场。李家超表示，政府9月公布的首个五年规划，巩固香港作为国际航运中心及航空枢纽的地位；本港正拓展伙伴港口网络，并推出连接越南与香港、经广西的陆空联运快线服务。绿色燃料方面，去年以来已完成约220次绿色燃料加注，总量38万公吨；机管局、中华煤气及EcoCeres将签署合作备忘录，兴建专用的可持续航空燃料混合设施。"
+    },
+    "tags": {
+      "en": [
+        "John Lee",
+        "ALMAC",
+        "logistics"
+      ],
+      "zh_hant": [
+        "李家超",
+        "物流航運",
+        "亞洲物流航運及空運會議"
+      ],
+      "zh_hans": [
+        "李家超",
+        "物流航运",
+        "亚洲物流航运及空运会议"
+      ]
+    }
+  },
+  {
+    "id": "20261117-cyber-centre-more-staff-ng-kit-chong",
+    "category": "hk",
+    "published_at": "2026-11-17T10:06:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878086-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Cyber Incidents Up 7% in First Ten Months | Lawmaker Urges More Staff to Help Industry as Privacy Law Called Toothless",
+      "zh_hant": "網安事故首10月升7% 吳傑莊促增人手支援業界 批私隱例如無牙老虎",
+      "zh_hans": "网安事故首10月升7% 吴杰庄促增人手支援业界 批私隐例如无牙老虎"
+    },
+    "summary": {
+      "en": "The Hong Kong Computer Emergency Response Team Coordination Centre handled 7 per cent more cybersecurity incidents in the first ten months of the year than in the same period last year. Legislative Council member Johnny Ng Kit-chong told an RTHK programme that the Productivity Council has 25 cybersecurity specialists, half of them working at the coordination centre helping companies plug security gaps and fend off hackers, and said more staff may need to be deployed to help industry raise awareness, or more residents will fall victim to scams. Ng said medium-sized firms often spend little on cybersecurity and fail to update systems regularly, leaving them prone to data leaks, and criticised the Personal Data (Privacy) Ordinance as toothless, saying incidents affecting a certain number of customers should have to be reported within a set time and carry penalties. Industrial sector lawmaker Wong Wing-wai said on the same programme that about half of recent incidents involved phishing, and that cybersecurity is not keeping pace with the development of artificial intelligence.",
+      "zh_hant": "香港網絡安全事故協調中心今年首10個月處理的事故，按年升7%。選委界立法會議員吳傑莊在本台節目《千禧年代》表示，生產力局有25名網絡安全專家，其中一半在事故協調中心工作，協助企業堵塞網絡安全漏洞，防止黑客入侵。他認為，可能要調撥更多人手，支援業界提高網絡安全意識，否則會令市民受騙機會增加。吳傑莊指出，中型企業不會投放很多成本在網絡安全，例如不會定期更新系統，容易造成資料外洩。他提到，外界質疑目前的個人資料私隱條例有如無牙老虎，沒有懲罰過任何人士，認為如果網絡安全事故涉及某個客戶數量，就要在指定時間通報，同時要有罰則，令企業投放更多成本在網絡安全。工業界議員黃永威在同一節目說，近期發生很多網絡安全事故，當中一半涉及網絡釣魚資訊安全，他認為或與網絡安全跟不上人工智能發展速度有關。",
+      "zh_hans": "香港网络安全事故协调中心今年首10个月处理的事故，按年升7%。选委界立法会议员吴杰庄在本台节目《千禧年代》表示，生产力局有25名网络安全专家，其中一半在事故协调中心工作，协助企业堵塞网络安全漏洞，防止黑客入侵。他认为，可能要调拨更多人手，支援业界提高网络安全意识，否则会令市民受骗机会增加。吴杰庄指出，中型企业不会投放很多成本在网络安全，例如不会定期更新系统，容易造成资料外泄。他提到，外界质疑目前的个人资料私隐条例有如无牙老虎，没有惩罚过任何人士，认为如果网络安全事故涉及某个客户数量，就要在指定时间通报，同时要有罚则，令企业投放更多成本在网络安全。工业界议员黄永威在同一节目说，近期发生很多网络安全事故，当中一半涉及网络钓鱼资讯安全，他认为或与网络安全跟不上人工智能发展速度有关。"
+    },
+    "tags": {
+      "en": [
+        "cybersecurity",
+        "Johnny Ng",
+        "privacy law"
+      ],
+      "zh_hant": [
+        "網絡安全",
+        "吳傑莊",
+        "私隱條例"
+      ],
+      "zh_hans": [
+        "网络安全",
+        "吴杰庄",
+        "私隐条例"
+      ]
+    }
+  },
+  {
+    "id": "20261117-apec-business-summit-xi-keynote",
+    "category": "china",
+    "published_at": "2026-11-17T09:51:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878085-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Xi to Deliver Keynote at APEC CEO Summit Tomorrow Morning | 11 Leaders Gather in Shenzhen as Summit Issues First Initiative",
+      "zh_hant": "習近平明早APEC工商峰會發表主旨演講 11經濟體領袖齊聚深圳 首發倡議文件",
+      "zh_hans": "习近平明早APEC工商峰会发表主旨演讲 11经济体领袖齐聚深圳 首发倡议文件"
+    },
+    "summary": {
+      "en": "The 2026 APEC CEO Summit has opened in Qianhai, Shenzhen, under the theme of promoting prosperity and win-win cooperation. Summit chairman Ren Hongbin, president of the China Council for the Promotion of International Trade, said in his welcoming address that President Xi Jinping will attend the opening ceremony tomorrow morning and deliver a keynote speech. Eleven APEC leaders, including those of Australia, Canada, Chile, Hong Kong, China, Indonesia, South Korea, Malaysia and Russia, will also attend and speak or join discussions. The two-day summit brings together more than 2,000 political and business representatives from all 21 APEC economies and 13 non-member economies, and will produce the 2026 APEC CEO Summit Shenzhen Initiative — the first time in the summit's 30-year history that its outcomes are released in the form of an initiative.",
+      "zh_hant": "2026年亞太經合組織工商領導人峰會一連兩日在深圳前海舉行，主題為「共促繁榮、共贏未來」。峰會主席、中國貿促會會長任鴻斌致歡迎辭時表示，國家主席習近平明天上午將出席峰會開幕式，並發表主旨演講。澳洲、加拿大、智利、中國香港、印尼、韓國、馬來西亞、俄羅斯等11名APEC經濟體領導人，亦將出席峰會並發表演講、致辭或參與專題研討。今屆峰會聚焦開放、創新、合作三大優先領域，APEC全部21個經濟體和英國、法國、德國等13個域外經濟體，2000多名政商界代表參與。峰會將形成並發布2026年亞太經合組織工商領導人峰會深圳倡議，也是工商峰會創辦30年來，首次以倡議形式發布成果文件。",
+      "zh_hans": "2026年亚太经合组织工商领导人峰会一连两日在深圳前海举行，主题为「共促繁荣、共赢未来」。峰会主席、中国贸促会会长任鸿斌致欢迎辞时表示，国家主席习近平明天上午将出席峰会开幕式，并发表主旨演讲。澳洲、加拿大、智利、中国香港、印尼、韩国、马来西亚、俄罗斯等11名APEC经济体领导人，亦将出席峰会并发表演讲、致辞或参与专题研讨。今届峰会聚焦开放、创新、合作三大优先领域，APEC全部21个经济体和英国、法国、德国等13个域外经济体，2000多名政商界代表参与。峰会将形成并发布2026年亚太经合组织工商领导人峰会深圳倡议，也是工商峰会创办30年来，首次以倡议形式发布成果文件。"
+    },
+    "tags": {
+      "en": [
+        "APEC",
+        "Xi Jinping",
+        "CEO Summit"
+      ],
+      "zh_hant": [
+        "APEC",
+        "習近平",
+        "工商領導人峰會"
+      ],
+      "zh_hans": [
+        "APEC",
+        "习近平",
+        "工商领导人峰会"
+      ]
+    }
+  },
+  {
+    "id": "20261117-rba-minutes-rate-hike-inflation",
+    "category": "finance",
+    "published_at": "2026-11-17T09:46:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878082-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "RBA Minutes: Six of Nine Members Backed Hike as Inflation Risks Tilt Up | Rate at 18-Year High of 4.85%",
+      "zh_hant": "澳洲央行會議紀錄：六委員認同加息抗通脹 利率4.85厘創18年高位",
+      "zh_hans": "澳洲央行会议纪录：六委员认同加息抗通胀 利率4.85厘创18年高位"
+    },
+    "summary": {
+      "en": "Minutes of the Reserve Bank of Australia's latest meeting show six of its nine board members believed the tightening delivered so far this year was not enough to deal with inflation, with most members seeing inflation risks as still skewed to the upside and the economy as resilient enough to warrant a rate rise. The bank raised rates by 0.25 percentage points earlier this month, its fifth increase this year, taking the cash rate to 4.85 per cent, an 18-year high. The three members who opposed the rise worried that, with unemployment climbing and house prices falling, the economy could be near a sharper downturn, and wanted more time to assess the impact of the cumulative tightening. Members were split on the outlook, and markets now think rates may have peaked, with pricing pointing to cumulative cuts of 0.22 percentage points by the end of next year.",
+      "zh_hant": "澳洲央行會議紀錄顯示，9名委員有6名認為，今年以來政策緊縮力度不足以應對通脹，多數委員認為通脹風險仍偏向上行，經濟仍具一定韌性，有必要加息，為通脹回落提供更大保障。澳洲央行本月初加息0.25厘，是年內第5次，利率升至4.85厘，創18年新高。會議紀錄顯示，3名反對加息的委員擔心，隨著失業率攀升、樓價下跌，經濟可能接近出現更明顯下滑的臨界點，希望有更多時間評估累計加息帶來的影響。委員對利率看法有分歧，市場認為澳洲利率可能已見頂，減息預期開始浮現，市場定價顯示，至明年底，央行或累計減息0.22厘。",
+      "zh_hans": "澳洲央行会议纪录显示，9名委员有6名认为，今年以来政策紧缩力度不足以应对通胀，多数委员认为通胀风险仍偏向上行，经济仍具一定韧性，有必要加息，为通胀回落提供更大保障。澳洲央行本月初加息0.25厘，是年内第5次，利率升至4.85厘，创18年新高。会议纪录显示，3名反对加息的委员担心，随着失业率攀升、楼价下跌，经济可能接近出现更明显下滑的临界点，希望有更多时间评估累计加息带来的影响。委员对利率看法有分歧，市场认为澳洲利率可能已见顶，减息预期开始浮现，市场定价显示，至明年底，央行或累计减息0.22厘。"
+    },
+    "tags": {
+      "en": [
+        "Reserve Bank of Australia",
+        "interest rates",
+        "inflation"
+      ],
+      "zh_hant": [
+        "澳洲央行",
+        "加息",
+        "通脹"
+      ],
+      "zh_hans": [
+        "澳洲央行",
+        "加息",
+        "通胀"
+      ]
+    }
+  },
+  {
+    "id": "20261117-pboc-714b-overnight-repo",
+    "category": "finance",
+    "published_at": "2026-11-17T09:42:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878080-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "PBOC Injects 714 Billion Yuan via Overnight Reverse Repos | Fourth Straight Day of Net Injections",
+      "zh_hant": "人行開展7140億隔夜逆回購 單日淨投放2540億 連續4日放水",
+      "zh_hans": "人行开展7140亿隔夜逆回购 单日净投放2540亿 连续4日放水"
+    },
+    "summary": {
+      "en": "The People's Bank of China has conducted 714 billion yuan of overnight reverse repos through its open market operations, with the rate unchanged at 1.25 per cent. After offsetting maturing repos, the central bank made a net injection of 254 billion yuan in a single day, its fourth consecutive day of net injections.",
+      "zh_hant": "人民銀行公開市場開展7140億元人民幣隔夜逆回購操作，利率維持1.25厘。對沖到期量後，單日淨投放2540億元，連續4日淨投放。",
+      "zh_hans": "人民银行公开市场开展7140亿元人民币隔夜逆回购操作，利率维持1.25厘。对冲到期量后，单日净投放2540亿元，连续4日净投放。"
+    },
+    "tags": {
+      "en": [
+        "People's Bank of China",
+        "reverse repos",
+        "liquidity"
+      ],
+      "zh_hant": [
+        "人民銀行",
+        "逆回購",
+        "流動性"
+      ],
+      "zh_hans": [
+        "人民银行",
+        "逆回购",
+        "流动性"
+      ]
+    }
+  },
+  {
+    "id": "20261117-mainland-stocks-early-fall",
+    "category": "finance",
+    "published_at": "2026-11-17T09:34:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878081-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Mainland Stocks Extend Losses as Three Major Indices Fall About 1% | Shanghai Drops Below 3,600",
+      "zh_hant": "滬深股市延續跌勢 三大指數齊挫近1%或以上 上證失守3600關",
+      "zh_hans": "沪深股市延续跌势 三大指数齐挫近1%或以上 上证失守3600关"
+    },
+    "summary": {
+      "en": "Mainland stocks extended yesterday's declines, with all three major indices down by about 1 per cent or more. The Shanghai Composite fell below the 3,600 level, trading at 3,573, down 29 points or 0.82 per cent. The Shenzhen Component was at 10,584, down 106 points or 1 per cent, while the ChiNext Index stood at 2,289, down 30 points or 1.33 per cent.",
+      "zh_hant": "內地股市延續上日跌勢，3大指數跌近1%或以上。上證指數跌穿3600點水平，較早時報3573點，跌29點，跌幅0.82%。深證成份指數報10584點，跌106點，跌幅1%。創業板指數報2289點，跌30點，跌幅1.33%。",
+      "zh_hans": "内地股市延续上日跌势，3大指数跌近1%或以上。上证指数跌穿3600点水平，较早时报3573点，跌29点，跌幅0.82%。深证成份指数报10584点，跌106点，跌幅1%。创业板指数报2289点，跌30点，跌幅1.33%。"
+    },
+    "tags": {
+      "en": [
+        "A-shares",
+        "Shanghai Composite",
+        "Shenzhen Component"
+      ],
+      "zh_hant": [
+        "A股",
+        "上證指數",
+        "深證成指"
+      ],
+      "zh_hans": [
+        "A股",
+        "上证指数",
+        "深证成指"
+      ]
+    }
+  },
+  {
+    "id": "20261117-hsi-open-down-232-baidu-xpeng",
+    "category": "finance",
+    "published_at": "2026-11-17T09:25:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878079-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Hang Seng Opens 232 Points Lower as Baidu Slides Over 3% After Results | XPeng Rises, New World Falls Again",
+      "zh_hant": "港股低開232點 百度績後跌逾3% 小鵬反升 新世界再挫逾3%",
+      "zh_hans": "港股低开232点 百度绩后跌逾3% 小鹏反升 新世界再挫逾3%"
+    },
+    "summary": {
+      "en": "Hong Kong stocks opened lower, with the Hang Seng Index at 23,521 in the auction session, down 232 points or about 1 per cent. The Hang Seng Tech Index stood at 3,760, down 41 points or nearly 1.1 per cent. Baidu opened more than 3 per cent lower after swinging to a profit last quarter and saying it will announce its first dividend before the end of the year, while XPeng opened more than 2 per cent higher after its results. New World Development fell more than 3 per cent again.",
+      "zh_hant": "港股低開，恒生指數競價時段報23521點，跌232點，跌幅約1%。科技指數報3760點，跌41點，跌幅近1.1%。百度低開逾3%，集團上季扭虧為盈，並預告今年底前宣布首次派息。小鵬業績後高開逾2%。新世界發展再跌逾3%。",
+      "zh_hans": "港股低开，恒生指数竞价时段报23521点，跌232点，跌幅约1%。科技指数报3760点，跌41点，跌幅近1.1%。百度低开逾3%，集团上季扭亏为盈，并预告今年底前宣布首次派息。小鹏业绩后高开逾2%。新世界发展再跌逾3%。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong stocks",
+        "Hang Seng Index",
+        "Baidu"
+      ],
+      "zh_hant": [
+        "港股",
+        "恒生指數",
+        "百度"
+      ],
+      "zh_hans": [
+        "港股",
+        "恒生指数",
+        "百度"
+      ]
+    }
+  },
+  {
+    "id": "20261117-yuan-midpoint-4-year-high",
+    "category": "finance",
+    "published_at": "2026-11-17T09:20:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878078-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Yuan Midpoint Hits Near Four-Year High at 6.7132 per Dollar | Still 420 Pips Weaker Than Forecast",
+      "zh_hant": "人民幣中間價報6.7132 創近4年新高 較市場預測偏弱約420點子",
+      "zh_hans": "人民币中间价报6.7132 创近4年新高 较市场预测偏弱约420点子"
+    },
+    "summary": {
+      "en": "The yuan's central parity rate was set at 6.7132 per US dollar, up 9 pips from yesterday's fixing and the strongest in nearly four years, although it was about 420 pips weaker than the market had forecast.",
+      "zh_hant": "人民幣中間價報6.7132兌1美元，較昨日中間價升9點子，創近4年新高，比市場預測偏弱約420點子。",
+      "zh_hans": "人民币中间价报6.7132兑1美元，较昨日中间价升9点子，创近4年新高，比市场预测偏弱约420点子。"
+    },
+    "tags": {
+      "en": [
+        "yuan",
+        "central parity",
+        "exchange rate"
+      ],
+      "zh_hant": [
+        "人民幣",
+        "中間價",
+        "匯率"
+      ],
+      "zh_hans": [
+        "人民币",
+        "中间价",
+        "汇率"
+      ]
+    }
+  },
+  {
+    "id": "20261117-taiwan-stocks-below-40000",
+    "category": "finance",
+    "published_at": "2026-11-17T09:11:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878077-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Taiwan Stocks Briefly Lose 40,000 Mark for First Time in Over a Week | Index Plunged Nearly 3% Before Recovering",
+      "zh_hant": "台股初段失守4萬關 曾急瀉近3% 逾一星期來首次 跌穿後收復部分失地",
+      "zh_hans": "台股初段失守4万关 曾急泻近3% 逾一星期来首次 跌穿后收复部分失地"
+    },
+    "summary": {
+      "en": "Taiwan stocks lost the 40,000 mark in early trading, the first time in more than a week, before recovering some ground. The weighted index fell nearly 3 per cent to 39,833, down 1,206 points, and was later at 40,806, down 233 points or 0.57 per cent.",
+      "zh_hant": "台股初段失守4萬點關口，是逾1星期以來首次，隨後收復部分失地。加權指數曾跌近3%，報39833點，跌1206點，較早時報40806點，跌233點，跌幅0.57%。",
+      "zh_hans": "台股初段失守4万点关口，是逾1星期以来首次，随后收复部分失地。加权指数曾跌近3%，报39833点，跌1206点，较早时报40806点，跌233点，跌幅0.57%。"
+    },
+    "tags": {
+      "en": [
+        "Taiwan stocks",
+        "weighted index",
+        "TAIEX"
+      ],
+      "zh_hant": [
+        "台股",
+        "加權指數",
+        "台灣股市"
+      ],
+      "zh_hans": [
+        "台股",
+        "加权指数",
+        "台湾股市"
+      ]
+    }
+  },
+  {
+    "id": "20261117-kim-jong-un-samjiyon-tourism",
+    "category": "world",
+    "published_at": "2026-11-17T08:47:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878076-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Kim Jong Un Inspects Samjiyon Tourism Zone as Trump Signals Possible Meeting in China This Week",
+      "zh_hant": "金正恩考察三池淵旅遊區 指導機場擴建 正值特朗普稱或本周在華會面",
+      "zh_hans": "金正恩考察三池渊旅游区 指导机场扩建 正值特朗普称或本周在华会面"
+    },
+    "summary": {
+      "en": "North Korean leader Kim Jong Un has inspected construction work at the Samjiyon tourism zone, according to the Korean Central News Agency. Kim also oversaw the expansion of Samjiyon airport, saying that once the work is finished the city will have the air, rail and road infrastructure needed to develop tourism. Reuters reported that Samjiyon borders China's Jilin province, and that Kim's visit comes as US President Donald Trump has said he may meet Kim in China this week. Russian media quoted Kremlin spokesman Dmitry Peskov as saying that if Kim also attends the APEC summit in Shenzhen, Russian President Vladimir Putin could meet him. North Korea is not an APEC member economy, and neither China nor North Korea has announced any visit by Kim to China.",
+      "zh_hant": "朝中社報道，朝鮮領袖金正恩考察三池淵市旅遊區建設工作。金正恩又指導三池淵機場擴建工程，表示工程完工後，三池淵市將全面具備航空及鐵路運輸、公路等旅遊業發展所需的基礎設施。路透社報道，三池淵市與中國吉林省接壤，金正恩到訪正值美國總統特朗普表示，可能今個星期在中國與金正恩會面。俄羅斯傳媒也引述克里姆林宮發言人佩斯科夫表示，如果金正恩也出席在深圳舉行的亞太經合組織峰會，俄羅斯總統普京可能會與對方會面。朝鮮並非亞太經合組織成員經濟體，中方及朝方亦未有公布金正恩訪華的消息。",
+      "zh_hans": "朝中社报道，朝鲜领袖金正恩考察三池渊市旅游区建设工作。金正恩又指导三池渊机场扩建工程，表示工程完工后，三池渊市将全面具备航空及铁路运输、公路等旅游业发展所需的基础设施。路透社报道，三池渊市与中国吉林省接壤，金正恩到访正值美国总统特朗普表示，可能今个星期在中国与金正恩会面。俄罗斯传媒也引述克里姆林宫发言人佩斯科夫表示，如果金正恩也出席在深圳举行的亚太经合组织峰会，俄罗斯总统普京可能会与对方会面。朝鲜并非亚太经合组织成员经济体，中方及朝方亦未有公布金正恩访华的消息。"
+    },
+    "tags": {
+      "en": [
+        "Kim Jong Un",
+        "North Korea",
+        "Samjiyon"
+      ],
+      "zh_hant": [
+        "金正恩",
+        "朝鮮",
+        "三池淵"
+      ],
+      "zh_hans": [
+        "金正恩",
+        "朝鲜",
+        "三池渊"
+      ]
+    }
+  },
+  {
     "id": "20261117-asia-stocks-nikkei-970-kospi-5000",
     "category": "finance",
     "published_at": "2026-11-17T08:12:00+08:00",
@@ -296,6 +740,43 @@
     }
   },
   {
+    "id": "20261117-european-stocks-ftse-record-high",
+    "category": "finance",
+    "published_at": "2026-11-17T05:47:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878055-20261117.htm"
+    },
+    "image_url": "",
+    "title": {
+      "en": "European Stocks Close Lower as FTSE Retreats After Three-and-a-Half-Month High | AI Investment Worries Weigh",
+      "zh_hant": "歐洲股市低收 英股曾創三個半月高位後倒跌 市場憂AI投資前景",
+      "zh_hans": "欧洲股市低收 英股曾创三个半月高位后倒跌 市场忧AI投资前景"
+    },
+    "summary": {
+      "en": "European stocks closed lower, with London and Paris both reversing late in the session. Worries about the outlook for artificial intelligence investment weighed on technology shares, while investors awaited Nvidia's results and Anthropic's listing. London's FTSE 100 rose nearly 0.6 per cent to an intraday high of 10,962, a roughly three-and-a-half-month high, before closing at 10,881, down 21 points or about 0.2 per cent, ending a three-day run of gains. France's CAC index rose as much as about 0.4 per cent before closing 0.2 per cent lower at 8,352, down 16 points, while Germany's DAX closed at 26,598, down 151 points or nearly 0.6 per cent.",
+      "zh_hant": "歐洲股市低收，英法股市同樣尾市倒跌。市場憂慮人工智能投資前景，拖累科技股表現，投資者觀望Nvidia業績及Anthropic上市。英國富時100指數曾升近0.6%，高見10962點，創約3個半月即市新高，收報10881點，跌21點，跌幅約0.2%，結束3日升勢。法國CAC指數最多升約0.4%，收市倒跌0.2%，收報8352點，跌16點。德國DAX指數反覆偏軟，收報26598點，跌151點，跌幅近0.6%。",
+      "zh_hans": "欧洲股市低收，英法股市同样尾市倒跌。市场忧虑人工智能投资前景，拖累科技股表现，投资者观望Nvidia业绩及Anthropic上市。英国富时100指数曾升近0.6%，高见10962点，创约三个半月即市新高，收报10881点，跌21点，跌幅约0.2%，结束3日升势。法国CAC指数最多升约0.4%，收市倒跌0.2%，收报8352点，跌16点。德国DAX指数反复偏软，收报26598点，跌151点，跌幅近0.6%。"
+    },
+    "tags": {
+      "en": [
+        "European stocks",
+        "FTSE 100",
+        "artificial intelligence"
+      ],
+      "zh_hant": [
+        "歐洲股市",
+        "富時指數",
+        "AI"
+      ],
+      "zh_hans": [
+        "欧洲股市",
+        "富时指数",
+        "AI"
+      ]
+    }
+  },
+  {
     "id": "20261117-us-stocks-dow-739-nvidia-board",
     "category": "finance",
     "published_at": "2026-11-17T05:39:00+08:00",
@@ -554,6 +1035,43 @@
         "巴西",
         "枪击案",
         "阿雷格里港"
+      ]
+    }
+  },
+  {
+    "id": "20261117-pok-fu-lam-road-water-main-burst",
+    "category": "hk",
+    "published_at": "2026-11-17T00:52:00+08:00",
+    "source": {
+      "name": "商業電台",
+      "url": "https://www.881903.com/news/local/2659809"
+    },
+    "image_url": "",
+    "title": {
+      "en": "Water Main Leak on Po Shan Road Disrupts Supply to Three Mid-Levels Buildings | Emergency Repairs Under Way Overnight",
+      "zh_hant": "寶珊道水管滲漏 西半山三幢樓宇食水受影響 水務署通宵搶修",
+      "zh_hans": "宝珊道水管渗漏 西半山三幢楼宇食水受影响 水务署通宵抢修"
+    },
+    "summary": {
+      "en": "A water main has burst on Po Shan Road in the Mid-Levels, disrupting the water supply to three buildings. The Water Supplies Department said the pipe, inside a telecommunications company's construction site, was suspected to have been damaged by works yesterday. The affected buildings are 5 Kotewall Road and 6 and 8 Po Shan Road. The department cut off the supply after the 10pm peak period to carry out emergency repairs, arranged temporary supplies including water trucks, and aimed to finish the work by 6am today and restore supply.",
+      "zh_hant": "港島西半山寶珊道有水管滲漏，水務署正緊急維修。寶珊道一個電訊公司地盤內，昨日懷疑因工程導致有水管受損滲漏。水務署表示，有關水管為克頓道5號及寶珊道6號及8號供水，已在晚上10時用水高峰期後停水以進行維修。署方已安排臨時食水供應，包括放置水車，讓居民取用，並爭取於今早6時完成維修，以恢復食水供應。",
+      "zh_hans": "港岛西半山宝珊道有水管渗漏，水务署正紧急维修。宝珊道一个电讯公司地盘内，昨日怀疑因工程导致有水管受损渗漏。水务署表示，有关水管为克顿道5号及宝珊道6号及8号供水，已在晚上10时用水高峰期后停水以进行维修。署方已安排临时食水供应，包括放置水车，让居民取用，并争取于今早6时完成维修，以恢复食水供应。"
+    },
+    "tags": {
+      "en": [
+        "water main",
+        "Po Shan Road",
+        "Water Supplies Department"
+      ],
+      "zh_hant": [
+        "水管滲漏",
+        "寶珊道",
+        "水務署"
+      ],
+      "zh_hans": [
+        "水管渗漏",
+        "宝珊道",
+        "水务署"
       ]
     }
   },
