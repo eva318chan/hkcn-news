@@ -2120,7 +2120,7 @@
    "name": "香港電台",
    "url": "https://news.rthk.hk/rthk/ch/component/k2/1878146-20261117.htm"
   },
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-dbs-commercial-property-v2.jpg",
   "title": {
    "en": "DBS: some investors are buying commercial property at low prices — Central office rents tipped to rise 10% as retail recovers next year",
    "zh_hant": "星展：部分投資者趁低吸納商廈 中環寫字樓租金料升一成 零售明年回暖",
@@ -2148,7 +2148,8 @@
     "写字楼租金"
    ]
   },
-  "card_time": "2026-11-17 17:03"
+  "card_time": "2026-11-17 17:03",
+  "image_r2_key": "design/202611/20261117-dbs-commercial-property-v2.jpg"
  },
  {
   "id": "20261117-cold-front-friday-15-degrees",

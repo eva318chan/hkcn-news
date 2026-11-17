@@ -320,7 +320,7 @@
    "name": "香港電台",
    "url": "https://news.rthk.hk/rthk/ch/component/k2/1878213-20261118.htm"
   },
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-us-confirms-qeshm-strike-v2.jpg",
   "title": {
    "en": "US confirms precision strike on Qeshm Island missile site in response to Revolutionary Guard 'aggression' — Bahrain radar base not hit",
    "zh_hant": "美軍證實打擊伊朗格什姆島導彈發射場 稱回應革命衛隊侵略行為 巴林基地雷達未被擊中",
@@ -348,7 +348,8 @@
     "格什姆岛"
    ]
   },
-  "card_time": "2026-11-18 06:36"
+  "card_time": "2026-11-18 06:36",
+  "image_r2_key": "design/202611/20261118-us-confirms-qeshm-strike-v2.jpg"
  },
  {
   "id": "20261118-hk-adr-jd-falls-5-pct",
@@ -358,7 +359,7 @@
    "name": "香港電台",
    "url": "https://news.rthk.hk/rthk/ch/component/k2/1878214-20261118.htm"
   },
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-hk-adr-jd-falls-5-pct-v2.jpg",
   "title": {
    "en": "Hong Kong ADRs slide as JD.com sinks over 5% after results to HK$99.80 — Tencent and HSBC down over 1%",
    "zh_hant": "港股ADR下挫 京東績後挫逾5% 折合99.8元 騰訊滙控齊跌逾1%",
@@ -386,7 +387,8 @@
     "腾讯"
    ]
   },
-  "card_time": "2026-11-18 06:23"
+  "card_time": "2026-11-18 06:23",
+  "image_r2_key": "design/202611/20261118-hk-adr-jd-falls-5-pct-v2.jpg"
  },
  {
   "id": "20261118-european-stocks-fall",
@@ -396,7 +398,7 @@
    "name": "香港電台",
    "url": "https://news.rthk.hk/rthk/ch/component/k2/1878212-20261118.htm"
   },
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-european-stocks-fall-v2.jpg",
   "title": {
    "en": "UK, French and German stocks close down nearly 2% or more — lowest in over a week as DAX falls for a third day",
    "zh_hant": "英法德股市低收近2%或以上 創逾1星期新低 德股連跌3日",
@@ -424,7 +426,8 @@
     "德国DAX"
    ]
   },
-  "card_time": "2026-11-18 06:09"
+  "card_time": "2026-11-18 06:09",
+  "image_r2_key": "design/202611/20261118-european-stocks-fall-v2.jpg"
  },
  {
   "id": "20261118-us-stocks-dow-plunges-848",
@@ -434,7 +437,7 @@
    "name": "香港電台",
    "url": "https://news.rthk.hk/rthk/ch/component/k2/1878211-20261118.htm"
   },
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-us-stocks-dow-plunges-848-v2.jpg",
   "title": {
    "en": "Dow plunges 848 points at the close after sliding over 1,000 intraday — lowest in over five months as Nasdaq briefly breaks below 24,000",
    "zh_hant": "道指尾市挫逾千點收市跌848點 創逾5個月新低 納指曾失守24000點",
@@ -462,7 +465,8 @@
     "Nvidia"
    ]
   },
-  "card_time": "2026-11-18 06:08"
+  "card_time": "2026-11-18 06:08",
+  "image_r2_key": "design/202611/20261118-us-stocks-dow-plunges-848-v2.jpg"
  },
  {
   "id": "20261118-nsa-network-slowdown",
@@ -472,7 +476,7 @@
    "name": "香港電台",
    "url": "https://news.rthk.hk/rthk/ch/component/k2/1878208-20261118.htm"
   },
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-nsa-network-slowdown-v2.jpg",
   "title": {
    "en": "US National Security Agency's internal network briefly slows during maintenance — Trump says such incidents are unavoidable",
    "zh_hant": "美國安局內部系統短暫網速下降 影響部分功能 特朗普：類似事件無法避免",
@@ -500,6 +504,7 @@
     "网络安全"
    ]
   },
-  "card_time": "2026-11-18 05:55"
+  "card_time": "2026-11-18 05:55",
+  "image_r2_key": "design/202611/20261118-nsa-network-slowdown-v2.jpg"
  }
 ]
