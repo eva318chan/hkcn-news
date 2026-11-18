@@ -1,7 +1,11 @@
 {
- "updated_at": "2026-11-18T22:51:15+08:00",
+ "updated_at": "2026-11-19T00:54:15+08:00",
  "site_url": "https://hkcnexpress.com",
  "dates": [
+  {
+   "date": "2026-11-19",
+   "count": 8
+  },
   {
    "date": "2026-11-18",
    "count": 77
