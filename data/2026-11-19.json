@@ -1,5 +1,44 @@
 [
  {
+  "card_time": "00:41",
+  "category": "world",
+  "id": "20261119-fiji-drought-disaster-state",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-fiji-drought-disaster-state-v2.jpg",
+  "published_at": "2026-11-19T00:41:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878351-20261119.htm"
+  },
+  "summary": {
+   "en": "The South Pacific island nation of Fiji has declared a nationwide state of disaster as it battles a rare prolonged drought and a severe water shortage. Prime Minister Sitiveni Rabuka said the declaration allows the government to centrally deploy emergency teams, relief supplies and public resources, and that special relief funds have been set aside for emergency water supply, help for affected communities, and relief for agriculture and livestock. Authorities warn that 75 per cent of water sources will be at warning level by the end of November, and the figure could exceed 82 per cent by next January, leaving more than 80 per cent of the country's water supply at risk of running dry.",
+   "zh_hans": "南太平洋岛国斐济遭遇罕见持续干旱，当地星期三宣布全国进入灾难状态，全力应对严峻缺水危机。斐济总理兰布卡表示，灾难状态启动后，政府将有权统一调配应急队伍、救灾物资及各类公共资源，当局已拨出专项救灾资金，用于应急供水保障、受灾社区帮扶、农业养殖救济及干旱衍生灾害处置等工作。斐济当局警告，当地11月底警戒级缺水水源占比将攀升至75%，到明年1月这个比例可能突破82%，届时全国超过八成供水水源将面临枯竭危机。",
+   "zh_hant": "南太平洋島國斐濟遭遇罕見持續乾旱，當地星期三宣布全國進入災難狀態，全力應對嚴峻缺水危機。斐濟總理蘭布卡表示，災難狀態啟動後，政府將有權統一調配應急隊伍、救災物資及各類公共資源，當局已撥出專項救災資金，用於應急供水保障、受災社區幫扶、農業養殖救濟及乾旱衍生災害處置等工作。斐濟當局警告，當地11月底警戒級缺水水源佔比將攀升至75%，到明年1月呢個比例可能突破82%，屆時全國超過八成供水水源將面臨枯竭危機。"
+  },
+  "tags": {
+   "en": [
+    "Fiji",
+    "Drought",
+    "State of disaster"
+   ],
+   "zh_hans": [
+    "斐济",
+    "干旱",
+    "灾难状态"
+   ],
+   "zh_hant": [
+    "斐濟",
+    "乾旱",
+    "災難狀態"
+   ]
+  },
+  "title": {
+   "en": "Fiji Declares Nationwide State of Disaster as Rare Drought Bites; Over 80% of Water Sources May Run Dry by January",
+   "zh_hans": "斐济罕见干旱宣布全国进入灾难状态 政府拨专项资金救灾 明年1月逾八成水源恐枯竭",
+   "zh_hant": "斐濟罕見乾旱宣布全國進入災難狀態 政府撥專項資金救災 明年1月逾八成水源恐枯竭"
+  },
+  "image_r2_key": "design/202611/20261119-fiji-drought-disaster-state-v2.jpg"
+ },
+ {
   "card_time": "23:57",
   "category": "hk",
   "id": "20261119-bodw-designinspire-open-four-events",
@@ -40,48 +79,10 @@
   "image_r2_key": "design/202611/20261119-bodw-designinspire-open-four-events.jpg"
  },
  {
-  "card_time": "00:41",
-  "category": "world",
-  "id": "20261119-fiji-drought-disaster-state",
-  "image_url": "",
-  "published_at": "2026-11-19T00:41:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878351-20261119.htm"
-  },
-  "summary": {
-   "en": "The South Pacific island nation of Fiji has declared a nationwide state of disaster as it battles a rare prolonged drought and a severe water shortage. Prime Minister Sitiveni Rabuka said the declaration allows the government to centrally deploy emergency teams, relief supplies and public resources, and that special relief funds have been set aside for emergency water supply, help for affected communities, and relief for agriculture and livestock. Authorities warn that 75 per cent of water sources will be at warning level by the end of November, and the figure could exceed 82 per cent by next January, leaving more than 80 per cent of the country's water supply at risk of running dry.",
-   "zh_hans": "南太平洋岛国斐济遭遇罕见持续干旱，当地星期三宣布全国进入灾难状态，全力应对严峻缺水危机。斐济总理兰布卡表示，灾难状态启动后，政府将有权统一调配应急队伍、救灾物资及各类公共资源，当局已拨出专项救灾资金，用于应急供水保障、受灾社区帮扶、农业养殖救济及干旱衍生灾害处置等工作。斐济当局警告，当地11月底警戒级缺水水源占比将攀升至75%，到明年1月这个比例可能突破82%，届时全国超过八成供水水源将面临枯竭危机。",
-   "zh_hant": "南太平洋島國斐濟遭遇罕見持續乾旱，當地星期三宣布全國進入災難狀態，全力應對嚴峻缺水危機。斐濟總理蘭布卡表示，災難狀態啟動後，政府將有權統一調配應急隊伍、救災物資及各類公共資源，當局已撥出專項救災資金，用於應急供水保障、受災社區幫扶、農業養殖救濟及乾旱衍生災害處置等工作。斐濟當局警告，當地11月底警戒級缺水水源佔比將攀升至75%，到明年1月呢個比例可能突破82%，屆時全國超過八成供水水源將面臨枯竭危機。"
-  },
-  "tags": {
-   "en": [
-    "Fiji",
-    "Drought",
-    "State of disaster"
-   ],
-   "zh_hans": [
-    "斐济",
-    "干旱",
-    "灾难状态"
-   ],
-   "zh_hant": [
-    "斐濟",
-    "乾旱",
-    "災難狀態"
-   ]
-  },
-  "title": {
-   "en": "Fiji Declares Nationwide State of Disaster as Rare Drought Bites; Over 80% of Water Sources May Run Dry by January",
-   "zh_hans": "斐济罕见干旱宣布全国进入灾难状态 政府拨专项资金救灾 明年1月逾八成水源恐枯竭",
-   "zh_hant": "斐濟罕見乾旱宣布全國進入災難狀態 政府撥專項資金救災 明年1月逾八成水源恐枯竭"
-  }
- },
- {
   "card_time": "23:17",
   "category": "finance",
   "id": "20261119-us-pending-home-sales-record-low",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-us-pending-home-sales-record-low-v2.jpg",
   "published_at": "2026-11-18T23:17:00+08:00",
   "source": {
    "name": "香港電台",
@@ -113,13 +114,14 @@
    "en": "US Pending Home Sales Fall 4.7% to Record Low of 63, Down 16.7% Year on Year and Far Worse Than Expected",
    "zh_hans": "美国10月二手楼临时买卖合约指数跌4.7%再创新低 按年大跌16.7% 远逊市场预期",
    "zh_hant": "美國10月二手樓臨時買賣合約指數跌4.7%再創新低 按年大跌16.7% 遠遜市場預期"
-  }
+  },
+  "image_r2_key": "design/202611/20261119-us-pending-home-sales-record-low-v2.jpg"
  },
  {
   "card_time": "23:14",
   "category": "hk",
   "id": "20261119-ce-office-vehicle-wan-chai-pedestrian",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-ce-office-vehicle-wan-chai-pedestrian-v2.jpg",
   "published_at": "2026-11-18T23:14:00+08:00",
   "source": {
    "name": "香港電台",
@@ -151,13 +153,14 @@
    "en": "Chief Executive's Office Vehicle Brakes in Time as Pedestrian Dashes Across Wan Chai Road; Police Confirm Jaywalking",
    "zh_hans": "特首办车辆湾仔遇途人突然冲出马路 司机及时刹停报警 警方证实途人违规横过马路",
    "zh_hant": "特首辦車輛灣仔遇途人突然衝出馬路 司機及時煞停報警 警方證實途人違規橫過馬路"
-  }
+  },
+  "image_r2_key": "design/202611/20261119-ce-office-vehicle-wan-chai-pedestrian-v2.jpg"
  },
  {
   "card_time": "23:08",
   "category": "finance",
   "id": "20261119-fed-waller-december-half-point-hike",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-fed-waller-december-half-point-hike-v2.jpg",
   "published_at": "2026-11-18T23:08:00+08:00",
   "source": {
    "name": "香港電台",
@@ -189,13 +192,14 @@
    "en": "Fed's Waller Urges Consideration of Half-Point December Hike as Inflation Tops 3% and Heads the Wrong Way",
    "zh_hans": "联储局沃勒促12月考虑加息半厘 通胀逾3%方向错误 或明言明年加快加息",
    "zh_hant": "聯儲局沃勒促12月考慮加息半厘 通脹逾3%方向錯誤 或明言明年加快加息"
-  }
+  },
+  "image_r2_key": "design/202611/20261119-fed-waller-december-half-point-hike-v2.jpg"
  },
  {
   "card_time": "23:00",
   "category": "hk",
   "id": "20261119-fehd-best-public-toilet-awards",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-fehd-best-public-toilet-awards-v2.jpg",
   "published_at": "2026-11-18T23:00:00+08:00",
   "source": {
    "name": "政府新聞處",
@@ -227,13 +231,14 @@
    "en": "FEHD Public Toilets Win Gold and Bronze in Best Public Toilet Award; Lei Yue Mun Smart Toilet Takes Gold",
    "zh_hans": "食环署两公厕夺最佳公厕金铜奖 鲤鱼门智能公厕夺金 800公厕翻新近85%已展开",
    "zh_hant": "食環署兩公廁奪最佳公廁金銅獎 鯉魚門智能公廁奪金 800公廁翻新近85%已展開"
-  }
+  },
+  "image_r2_key": "design/202611/20261119-fehd-best-public-toilet-awards-v2.jpg"
  },
  {
   "card_time": "22:42",
   "category": "finance",
   "id": "20261119-us-housing-starts-up-9-9-pct",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-us-housing-starts-up-9-9-pct-v2.jpg",
   "published_at": "2026-11-18T22:42:00+08:00",
   "source": {
    "name": "香港電台",
@@ -265,13 +270,14 @@
    "en": "US Housing Starts Jump 9.9% to Beat Forecasts, but Building Permits Fall 7.4% in Split Housing Picture",
    "zh_hans": "美国10月新屋动工按月急升9.9%胜预期 建筑许可却跌7.4% 楼市前景现分歧",
    "zh_hant": "美國10月新屋動工按月急升9.9%勝預期 建築許可卻跌7.4% 樓市前景現分歧"
-  }
+  },
+  "image_r2_key": "design/202611/20261119-us-housing-starts-up-9-9-pct-v2.jpg"
  },
  {
   "card_time": "18:41",
   "category": "hk",
   "id": "20261119-police-gift-card-scam-ring-11-arrested",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-police-gift-card-scam-ring-11-arrested-v2.jpg",
   "published_at": "2026-11-18T18:41:00+08:00",
   "source": {
    "name": "香港電台",
@@ -303,6 +309,7 @@
    "en": "Police Smash Gift Card Shopping Scam Ring, Arrest 11 in 35 Cases; Victims Lose Over HK$650,000",
    "zh_hans": "警方瓦解礼品卡网购骗案集团拘11人 涉35宗骗案 受害人损失逾65万元",
    "zh_hant": "警方瓦解禮品卡網購騙案集團拘11人 涉35宗騙案 受害人損失逾65萬元"
-  }
+  },
+  "image_r2_key": "design/202611/20261119-police-gift-card-scam-ring-11-arrested-v2.jpg"
  }
 ]
