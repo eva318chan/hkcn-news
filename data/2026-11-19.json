@@ -1,5 +1,128 @@
 [
  {
+  "category": "world",
+  "id": "20261119-trump-carney-apec-meeting-trade-talks",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-trump-carney-apec-meeting-trade-talks-v2.jpg",
+  "published_at": "2026-11-19T04:24:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878359-20261119.htm"
+  },
+  "summary": {
+   "en": "Canada's Prime Minister's Office said US President Donald Trump met Canadian Prime Minister Mark Carney on Wednesday during the APEC meetings in China to discuss work on a trade agreement between the two countries. The two leaders discussed efforts to reach a reciprocal trade deal that would create quality jobs, improve affordability and fully respect Canada's language, culture and sovereignty. Both sides agreed to keep advancing the work and stay in close contact.",
+   "zh_hans": "加拿大总理办公室表示，美国总统特朗普与加拿大总理卡尼星期三在中国举行的APEC会议期间会晤，就两国贸易协议的工作进行讨论。双方讨论为达成互惠贸易协议而进行的工作，协议将创造优质就业机会、提高消费可负担性，并充分尊重加拿大的语言、文化和主权。两人同意继续推进相关工作，并保持密切联系。",
+   "zh_hant": "加拿大總理辦公室表示，美國總統特朗普與加拿大總理卡尼星期三在中國舉行的APEC會議期間會晤，就兩國貿易協議的工作進行討論。雙方討論為達成互惠貿易協議而進行的工作，協議將創造優質就業機會、提高消費可負擔性，並充分尊重加拿大的語言、文化和主權。兩人同意繼續推進相關工作，並保持密切聯繫。"
+  },
+  "tags": {
+   "en": [
+    "Trump",
+    "Carney",
+    "APEC",
+    "Canada-US trade"
+   ],
+   "zh_hans": [
+    "特朗普",
+    "卡尼",
+    "APEC",
+    "美加贸易"
+   ],
+   "zh_hant": [
+    "特朗普",
+    "卡尼",
+    "APEC",
+    "美加貿易"
+   ]
+  },
+  "title": {
+   "en": "Trump Meets Carney at APEC to Advance Reciprocal Trade Deal Respecting Canadian Sovereignty",
+   "zh_hans": "特朗普APEC会晤卡尼 谈互惠贸易协议力保加国主权",
+   "zh_hant": "特朗普APEC會晤卡尼 傾互惠貿易協議力保加國主權"
+  },
+  "card_time": "04:24",
+  "image_r2_key": "design/202611/20261119-trump-carney-apec-meeting-trade-talks-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261119-pakistan-fatah-3-missile-test",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-pakistan-fatah-3-missile-test-v2.jpg",
+  "published_at": "2026-11-19T03:22:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878358-20261119.htm"
+  },
+  "summary": {
+   "en": "The Pakistan Army has successfully test-fired the Fatah-3 supersonic cruise missile. Pakistan's military media wing said the missile is equipped with advanced navigation and propulsion systems, capable of high-precision, high-lethality strikes on long-range targets, and will significantly enhance the operational flexibility and strike range of the Army's rocket force. President Zardari, Prime Minister Shehbaz and Army Chief Munir all congratulated the successful test.",
+   "zh_hans": "巴基斯坦陆军成功试射“法塔赫－3”超音速巡航导弹。巴基斯坦三军新闻局表示，导弹配备先进的导航和推进系统，能对远距离目标实施高精度、高杀伤力打击，将显著提升陆军火箭部队的作战灵活性和打击范围。总统扎尔达里、总理夏巴兹及陆军参谋长穆尼尔均祝贺试射成功。",
+   "zh_hant": "巴基斯坦陸軍成功試射「法塔赫－3」超音速巡航導彈。巴基斯坦三軍新聞局表示，導彈配備先進的導航和推進系統，能對遠距離目標實施高精度、高殺傷力打擊，將顯著提升陸軍火箭部隊的作戰靈活性和打擊範圍。總統扎爾達里、總理夏巴茲及陸軍參謀長穆尼爾均祝賀試射成功。"
+  },
+  "tags": {
+   "en": [
+    "Pakistan",
+    "missile test",
+    "Fatah-3"
+   ],
+   "zh_hans": [
+    "巴基斯坦",
+    "导弹试射",
+    "法塔赫－3"
+   ],
+   "zh_hant": [
+    "巴基斯坦",
+    "導彈試射",
+    "法塔赫－3"
+   ]
+  },
+  "title": {
+   "en": "Pakistan Test-Fires Fatah-3 Supersonic Cruise Missile in Major Boost to Strike Range",
+   "zh_hans": "巴基斯坦成功试射超音速巡航导弹 射程精准打击力大增",
+   "zh_hant": "巴基斯坦成功試射超音速巡航導彈 射程精準打擊力大增"
+  },
+  "card_time": "03:22",
+  "image_r2_key": "design/202611/20261119-pakistan-fatah-3-missile-test-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261119-democrats-nominate-jeffries-house-speaker",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-democrats-nominate-jeffries-house-speaker-v2.jpg",
+  "published_at": "2026-11-19T02:52:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878357-20261119.htm"
+  },
+  "summary": {
+   "en": "The US Democratic Party has nominated House Democratic leader Hakeem Jeffries for Speaker of the House of Representatives, and he is poised to become the first Black Speaker in American history. The House Democratic caucus approved the nomination in a closed-door vote on Wednesday, but Jeffries still needs majority support in a full House vote in January next year before he can formally take the post. The Democrats retook control of both chambers of Congress in the midterm elections earlier this month, with the new Congress starting its term on 3 January.",
+   "zh_hans": "美国民主党提名现任众议院民主党领袖杰弗里斯为众议院议长，他有望成为美国历史上首位非洲裔众议院议长。众议院民主党党团星期三举行闭门投票通过提名，但杰弗里斯仍需在明年1月新一届众议院全体会议投票中获得过半数支持，才可正式出任议长。民主党在月初的中期选举夺回国会参众两院控制权，新一届国会任期将于明年1月3日开始。",
+   "zh_hant": "美國民主黨提名現任眾議院民主黨領袖傑弗里斯為眾議院議長，他有望成為美國歷史上首位非洲裔眾議院議長。眾議院民主黨黨團星期三舉行閉門投票通過提名，但傑弗里斯仍需在明年1月新一屆眾議院全體會議投票中獲得過半數支持，才可正式出任議長。民主黨在月初的中期選舉奪回國會參眾兩院控制權，新一屆國會任期將於明年1月3日開始。"
+  },
+  "tags": {
+   "en": [
+    "Jeffries",
+    "US House Speaker",
+    "Democrats",
+    "midterms"
+   ],
+   "zh_hans": [
+    "杰弗里斯",
+    "美国众议院议长",
+    "民主党",
+    "中期选举"
+   ],
+   "zh_hant": [
+    "傑弗里斯",
+    "美國眾議院議長",
+    "民主黨",
+    "中期選舉"
+   ]
+  },
+  "title": {
+   "en": "Democrats Nominate Jeffries for House Speaker in Historic First for a Black American",
+   "zh_hans": "民主党提名杰弗里斯做众议院议长 有望成美国首位非裔议长",
+   "zh_hant": "民主黨提名傑弗里斯做眾議院議長 有望成美國首位非裔議長"
+  },
+  "card_time": "02:52",
+  "image_r2_key": "design/202611/20261119-democrats-nominate-jeffries-house-speaker-v2.jpg"
+ },
+ {
   "card_time": "02:07",
   "category": "china",
   "id": "20261119-china-korea-fta-phase-two-concluded",
@@ -469,6 +592,48 @@
   "image_r2_key": "design/202611/20261119-onshore-yuan-half-month-high-v2.jpg"
  },
  {
+  "category": "hk",
+  "id": "20261118-qs-sustainability-rankings-hk-11-universities",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-qs-sustainability-rankings-hk-11-universities-v2.jpg",
+  "published_at": "2026-11-18T17:34:28+08:00",
+  "source": {
+   "name": "香港文匯報",
+   "url": "https://www.wenweipo.com/a/202611/18/AP6afd7125e4b028ec019480aa.html"
+  },
+  "summary": {
+   "en": "Quacquarelli Symonds (QS) has released its 2027 World University Rankings for Sustainability, with 11 Hong Kong universities making the list and nine of them entering the top 1,000. The University of Hong Kong ranks 161st, the highest in the city, while Hong Kong Metropolitan University rose three places to 928th. The rankings cover about 2,000 universities from 107 countries and regions; Hong Kong institutions perform strongly in employability and environmental research, with four universities in the world's top 50 for environmental research.",
+   "zh_hans": "国际高等教育研究机构 QS 公布 2027 年世界大学可持续发展排名，香港共 11 所大学上榜，其中 9 所进入前 1000 名。香港大学位列第 161 位，为全港首位；香港都会大学上升 3 位，排第 928 位。排名涵盖 107 个国家和地区约 2000 所高校；香港高校在就业能力与环境研究方面占优，4 所大学跻身环境研究世界前 50 名。",
+   "zh_hant": "國際高等教育研究機構 QS 公布 2027 年世界大學可持續發展排名，香港共 11 所大學上榜，其中 9 所進入前 1000 名。香港大學位列第 161 位，為全港首位；香港都會大學上升 3 位，排第 928 位。排名涵蓋 107 個國家和地區約 2000 所高校；香港高校在就業能力與環境研究方面佔優，4 所大學躋身環境研究世界前 50 名。"
+  },
+  "tags": {
+   "en": [
+    "QS rankings",
+    "sustainability",
+    "Hong Kong universities",
+    "HKU"
+   ],
+   "zh_hans": [
+    "QS排名",
+    "可持续发展",
+    "香港大学",
+    "港大"
+   ],
+   "zh_hant": [
+    "QS排名",
+    "可持續發展",
+    "香港大學",
+    "港大"
+   ]
+  },
+  "title": {
+   "en": "HKU Tops Hong Kong at 161st in QS Sustainability Rankings as 11 Local Universities Make the List",
+   "zh_hans": "QS可持续发展排名出炉 港大排161全港最高 11校上榜",
+   "zh_hant": "QS可持續發展排名出爐 港大排161全港最高 11校上榜"
+  },
+  "card_time": "17:34",
+  "image_r2_key": "design/202611/20261118-qs-sustainability-rankings-hk-11-universities-v2.jpg"
+ },
+ {
   "card_time": "16:45",
   "category": "finance",
   "id": "20261119-hsi-close-down-213-jd-slumps",
@@ -547,170 +712,9 @@
   "image_r2_key": "design/202611/20261119-andy-hui-tvb-gala-kenneth-ma-v2.jpg"
  },
  {
-  "category": "world",
-  "id": "20261119-trump-carney-apec-meeting-trade-talks",
-  "image_url": "",
-  "published_at": "2026-11-19T04:24:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878359-20261119.htm"
-  },
-  "summary": {
-   "en": "Canada's Prime Minister's Office said US President Donald Trump met Canadian Prime Minister Mark Carney on Wednesday during the APEC meetings in China to discuss work on a trade agreement between the two countries. The two leaders discussed efforts to reach a reciprocal trade deal that would create quality jobs, improve affordability and fully respect Canada's language, culture and sovereignty. Both sides agreed to keep advancing the work and stay in close contact.",
-   "zh_hans": "加拿大总理办公室表示，美国总统特朗普与加拿大总理卡尼星期三在中国举行的APEC会议期间会晤，就两国贸易协议的工作进行讨论。双方讨论为达成互惠贸易协议而进行的工作，协议将创造优质就业机会、提高消费可负担性，并充分尊重加拿大的语言、文化和主权。两人同意继续推进相关工作，并保持密切联系。",
-   "zh_hant": "加拿大總理辦公室表示，美國總統特朗普與加拿大總理卡尼星期三在中國舉行的APEC會議期間會晤，就兩國貿易協議的工作進行討論。雙方討論為達成互惠貿易協議而進行的工作，協議將創造優質就業機會、提高消費可負擔性，並充分尊重加拿大的語言、文化和主權。兩人同意繼續推進相關工作，並保持密切聯繫。"
-  },
-  "tags": {
-   "en": [
-    "Trump",
-    "Carney",
-    "APEC",
-    "Canada-US trade"
-   ],
-   "zh_hans": [
-    "特朗普",
-    "卡尼",
-    "APEC",
-    "美加贸易"
-   ],
-   "zh_hant": [
-    "特朗普",
-    "卡尼",
-    "APEC",
-    "美加貿易"
-   ]
-  },
-  "title": {
-   "en": "Trump Meets Carney at APEC to Advance Reciprocal Trade Deal Respecting Canadian Sovereignty",
-   "zh_hans": "特朗普APEC会晤卡尼 谈互惠贸易协议力保加国主权",
-   "zh_hant": "特朗普APEC會晤卡尼 傾互惠貿易協議力保加國主權"
-  },
-  "card_time": "04:24"
- },
- {
-  "category": "world",
-  "id": "20261119-pakistan-fatah-3-missile-test",
-  "image_url": "",
-  "published_at": "2026-11-19T03:22:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878358-20261119.htm"
-  },
-  "summary": {
-   "en": "The Pakistan Army has successfully test-fired the Fatah-3 supersonic cruise missile. Pakistan's military media wing said the missile is equipped with advanced navigation and propulsion systems, capable of high-precision, high-lethality strikes on long-range targets, and will significantly enhance the operational flexibility and strike range of the Army's rocket force. President Zardari, Prime Minister Shehbaz and Army Chief Munir all congratulated the successful test.",
-   "zh_hans": "巴基斯坦陆军成功试射“法塔赫－3”超音速巡航导弹。巴基斯坦三军新闻局表示，导弹配备先进的导航和推进系统，能对远距离目标实施高精度、高杀伤力打击，将显著提升陆军火箭部队的作战灵活性和打击范围。总统扎尔达里、总理夏巴兹及陆军参谋长穆尼尔均祝贺试射成功。",
-   "zh_hant": "巴基斯坦陸軍成功試射「法塔赫－3」超音速巡航導彈。巴基斯坦三軍新聞局表示，導彈配備先進的導航和推進系統，能對遠距離目標實施高精度、高殺傷力打擊，將顯著提升陸軍火箭部隊的作戰靈活性和打擊範圍。總統扎爾達里、總理夏巴茲及陸軍參謀長穆尼爾均祝賀試射成功。"
-  },
-  "tags": {
-   "en": [
-    "Pakistan",
-    "missile test",
-    "Fatah-3"
-   ],
-   "zh_hans": [
-    "巴基斯坦",
-    "导弹试射",
-    "法塔赫－3"
-   ],
-   "zh_hant": [
-    "巴基斯坦",
-    "導彈試射",
-    "法塔赫－3"
-   ]
-  },
-  "title": {
-   "en": "Pakistan Test-Fires Fatah-3 Supersonic Cruise Missile in Major Boost to Strike Range",
-   "zh_hans": "巴基斯坦成功试射超音速巡航导弹 射程精准打击力大增",
-   "zh_hant": "巴基斯坦成功試射超音速巡航導彈 射程精準打擊力大增"
-  },
-  "card_time": "03:22"
- },
- {
-  "category": "world",
-  "id": "20261119-democrats-nominate-jeffries-house-speaker",
-  "image_url": "",
-  "published_at": "2026-11-19T02:52:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878357-20261119.htm"
-  },
-  "summary": {
-   "en": "The US Democratic Party has nominated House Democratic leader Hakeem Jeffries for Speaker of the House of Representatives, and he is poised to become the first Black Speaker in American history. The House Democratic caucus approved the nomination in a closed-door vote on Wednesday, but Jeffries still needs majority support in a full House vote in January next year before he can formally take the post. The Democrats retook control of both chambers of Congress in the midterm elections earlier this month, with the new Congress starting its term on 3 January.",
-   "zh_hans": "美国民主党提名现任众议院民主党领袖杰弗里斯为众议院议长，他有望成为美国历史上首位非洲裔众议院议长。众议院民主党党团星期三举行闭门投票通过提名，但杰弗里斯仍需在明年1月新一届众议院全体会议投票中获得过半数支持，才可正式出任议长。民主党在月初的中期选举夺回国会参众两院控制权，新一届国会任期将于明年1月3日开始。",
-   "zh_hant": "美國民主黨提名現任眾議院民主黨領袖傑弗里斯為眾議院議長，他有望成為美國歷史上首位非洲裔眾議院議長。眾議院民主黨黨團星期三舉行閉門投票通過提名，但傑弗里斯仍需在明年1月新一屆眾議院全體會議投票中獲得過半數支持，才可正式出任議長。民主黨在月初的中期選舉奪回國會參眾兩院控制權，新一屆國會任期將於明年1月3日開始。"
-  },
-  "tags": {
-   "en": [
-    "Jeffries",
-    "US House Speaker",
-    "Democrats",
-    "midterms"
-   ],
-   "zh_hans": [
-    "杰弗里斯",
-    "美国众议院议长",
-    "民主党",
-    "中期选举"
-   ],
-   "zh_hant": [
-    "傑弗里斯",
-    "美國眾議院議長",
-    "民主黨",
-    "中期選舉"
-   ]
-  },
-  "title": {
-   "en": "Democrats Nominate Jeffries for House Speaker in Historic First for a Black American",
-   "zh_hans": "民主党提名杰弗里斯做众议院议长 有望成美国首位非裔议长",
-   "zh_hant": "民主黨提名傑弗里斯做眾議院議長 有望成美國首位非裔議長"
-  },
-  "card_time": "02:52"
- },
- {
-  "category": "hk",
-  "id": "20261118-qs-sustainability-rankings-hk-11-universities",
-  "image_url": "",
-  "published_at": "2026-11-18T17:34:28+08:00",
-  "source": {
-   "name": "香港文匯報",
-   "url": "https://www.wenweipo.com/a/202611/18/AP6afd7125e4b028ec019480aa.html"
-  },
-  "summary": {
-   "en": "Quacquarelli Symonds (QS) has released its 2027 World University Rankings for Sustainability, with 11 Hong Kong universities making the list and nine of them entering the top 1,000. The University of Hong Kong ranks 161st, the highest in the city, while Hong Kong Metropolitan University rose three places to 928th. The rankings cover about 2,000 universities from 107 countries and regions; Hong Kong institutions perform strongly in employability and environmental research, with four universities in the world's top 50 for environmental research.",
-   "zh_hans": "国际高等教育研究机构 QS 公布 2027 年世界大学可持续发展排名，香港共 11 所大学上榜，其中 9 所进入前 1000 名。香港大学位列第 161 位，为全港首位；香港都会大学上升 3 位，排第 928 位。排名涵盖 107 个国家和地区约 2000 所高校；香港高校在就业能力与环境研究方面占优，4 所大学跻身环境研究世界前 50 名。",
-   "zh_hant": "國際高等教育研究機構 QS 公布 2027 年世界大學可持續發展排名，香港共 11 所大學上榜，其中 9 所進入前 1000 名。香港大學位列第 161 位，為全港首位；香港都會大學上升 3 位，排第 928 位。排名涵蓋 107 個國家和地區約 2000 所高校；香港高校在就業能力與環境研究方面佔優，4 所大學躋身環境研究世界前 50 名。"
-  },
-  "tags": {
-   "en": [
-    "QS rankings",
-    "sustainability",
-    "Hong Kong universities",
-    "HKU"
-   ],
-   "zh_hans": [
-    "QS排名",
-    "可持续发展",
-    "香港大学",
-    "港大"
-   ],
-   "zh_hant": [
-    "QS排名",
-    "可持續發展",
-    "香港大學",
-    "港大"
-   ]
-  },
-  "title": {
-   "en": "HKU Tops Hong Kong at 161st in QS Sustainability Rankings as 11 Local Universities Make the List",
-   "zh_hans": "QS可持续发展排名出炉 港大排161全港最高 11校上榜",
-   "zh_hant": "QS可持續發展排名出爐 港大排161全港最高 11校上榜"
-  },
-  "card_time": "17:34"
- },
- {
   "category": "china",
   "id": "20261118-putin-xi-meeting-trade-200b-visa-free",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-putin-xi-meeting-trade-200b-visa-free-v2.jpg",
   "published_at": "2026-11-18T13:40:00+08:00",
   "source": {
    "name": "香港電台",
@@ -746,12 +750,13 @@
    "zh_hans": "普京：保障亚太繁荣系俄中共同目标 贸易连年冲破2000亿美元",
    "zh_hant": "普京：保障亞太繁榮係俄中共同目標 貿易連年衝破2000億美元"
   },
-  "card_time": "13:40"
+  "card_time": "13:40",
+  "image_r2_key": "design/202611/20261118-putin-xi-meeting-trade-200b-visa-free-v2.jpg"
  },
  {
   "category": "hk",
   "id": "20261118-student-mortgage-fraud-800k-arrested",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-student-mortgage-fraud-800k-arrested-v2.jpg",
   "published_at": "2026-11-18T13:27:46+08:00",
   "source": {
    "name": "香港文匯報",
@@ -787,12 +792,13 @@
    "zh_hans": "大学生扮律师楼职员呃按揭 受害人转账80万始揭发被捕",
    "zh_hant": "大學生扮律師樓職員呃按揭 受害人轉賬80萬始揭發被捕"
   },
-  "card_time": "13:27"
+  "card_time": "13:27",
+  "image_r2_key": "design/202611/20261118-student-mortgage-fraud-800k-arrested-v2.jpg"
  },
  {
   "category": "tech",
   "id": "20261118-apple-outage-app-store-icloud",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-apple-outage-app-store-icloud-v2.jpg",
   "published_at": "2026-11-18T09:48:53+08:00",
   "source": {
    "name": "香港文匯報",
@@ -828,6 +834,7 @@
    "zh_hans": "苹果大规模死机 App Store音乐云端齐受影响 排除黑客攻击",
    "zh_hant": "蘋果大規模死機 App Store音樂雲端齊受影響 排除黑客攻擊"
   },
-  "card_time": "09:48"
+  "card_time": "09:48",
+  "image_r2_key": "design/202611/20261118-apple-outage-app-store-icloud-v2.jpg"
  }
 ]
