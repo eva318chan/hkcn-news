@@ -664,6 +664,272 @@
   "card_time": "2026-11-18 00:07"
  },
  {
+  "id": "20261118-xi-apec-ceo-summit-keynote",
+  "category": "china",
+  "published_at": "2026-11-18T10:29:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878248-20261118.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Xi Delivers Keynote at APEC CEO Summit, Urges Building an Asia-Pacific Community and Backs World Bay Area Alliance",
+   "zh_hant": "習近平APEC工商峰會發表主旨演講 倡攜手建設亞太共同體 支持成立世界灣區經濟合作聯盟",
+   "zh_hans": "习近平APEC工商峰会发表主旨演讲 倡携手建设亚太共同体 支持成立世界湾区经济合作联盟"
+  },
+  "summary": {
+   "en": "President Xi Jinping delivered a keynote speech at the APEC CEO Summit in Shenzhen today, calling for joint efforts to build an Asia-Pacific community and promote common prosperity across the region. Mr Xi said he supports the establishment of a World Bay Area Economic Cooperation Alliance to deepen exchanges among bay areas. The CEO Summit is a key event of the APEC leaders' meeting week, attended by business leaders from across the Asia-Pacific.",
+   "zh_hant": "國家主席習近平今日在深圳舉行的亞太經合組織工商領導人峰會發表主旨演講，提出攜手建設亞太共同體，促進亞太共同繁榮。習近平表示，支持成立世界灣區經濟合作聯盟，深化各灣區之間的交流合作。工商領導人峰會是APEC領導人會議周期間的重要活動，多位亞太地區工商界領袖出席。",
+   "zh_hans": "国家主席习近平今日在深圳举行的亚太经合组织工商领导人峰会发表主旨演讲，提出携手建设亚太共同体，促进亚太共同繁荣。习近平表示，支持成立世界湾区经济合作联盟，深化各湾区之间的交流合作。工商领导人峰会是APEC领导人会议周期间的重要活动，多位亚太地区工商界领袖出席。"
+  },
+  "tags": {
+   "en": [
+    "Xi Jinping",
+    "APEC",
+    "CEO Summit"
+   ],
+   "zh_hant": [
+    "習近平",
+    "APEC",
+    "工商領導人峰會"
+   ],
+   "zh_hans": [
+    "习近平",
+    "APEC",
+    "工商领导人峰会"
+   ]
+  },
+  "card_time": "2026-11-18 10:29"
+ },
+ {
+  "id": "20261118-mtr-island-line-signal-fault",
+  "category": "hk",
+  "published_at": "2026-11-18T10:22:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878247-20261118.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Signalling Fault Near HKU Station Slows Island Line Trains — Chai Wan-Bound Journeys Take 3 to 5 Minutes Longer",
+   "zh_hant": "港鐵香港大學站信號設備故障 港島綫列車須慢駛 往柴灣方向行車時間多3至5分鐘",
+   "zh_hans": "港铁香港大学站信号设备故障 港岛线列车须慢驶 往柴湾方向行车时间多3至5分钟"
+  },
+  "summary": {
+   "en": "The MTR said a signalling equipment fault near HKU station is forcing trains to slow down through the section. Journeys on the Island line towards Chai Wan are taking an extra three to five minutes, while services towards Kennedy Town have returned to normal off-peak frequencies. MTR staff are working on the fault, and passengers are advised to allow extra travel time.",
+   "zh_hant": "港鐵表示，由於香港大學站附近有信號設備故障，列車行經該路段需要慢駛。港島綫往柴灣方向列車服務整體行車時間需要額外3至5分鐘，往堅尼地城方向則已恢復非繁忙時間正常班次。港鐵人員正處理相關信號設備故障，呼籲乘客為行程預留充裕時間。",
+   "zh_hans": "港铁表示，由于香港大学站附近有信号设备故障，列车行经该路段需要慢驶。港岛线往柴湾方向列车服务整体行车时间需要额外3至5分钟，往坚尼地城方向则已恢复非繁忙时间正常班次。港铁人员正处理相关信号设备故障，呼吁乘客为行程预留充裕时间。"
+  },
+  "tags": {
+   "en": [
+    "MTR",
+    "Island line",
+    "signal fault"
+   ],
+   "zh_hant": [
+    "港鐵",
+    "港島綫",
+    "信號故障"
+   ],
+   "zh_hans": [
+    "港铁",
+    "港岛线",
+    "信号故障"
+   ]
+  },
+  "card_time": "2026-11-18 10:22"
+ },
+ {
+  "id": "20261118-bodw-opening-rosanna-law-speech",
+  "category": "hk",
+  "published_at": "2026-11-18T09:50:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/18/P2026111800197.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Business of Design Week 2026 Opens — Rosanna Law: Switzerland as First Partner Country, Over 60 Design Masters Gather",
+   "zh_hant": "設計營商周2026開幕 羅淑佩：瑞士首任夥伴國 逾60位設計大師雲集 40多場活動連場",
+   "zh_hans": "设计营商周2026开幕 罗淑佩：瑞士首任伙伴国 逾60位设计大师云集 40多场活动连场"
+  },
+  "summary": {
+   "en": "Secretary for Culture, Sports and Tourism Rosanna Law spoke at the opening ceremony of the 24th Business of Design Week, describing it as Asia's leading design event, with Switzerland as partner country for the first time under the theme 'Design in Dialogue: Connect + Transform'. The three-day event brings together more than 60 design masters and creative minds from 10 countries and regions, with over 40 summits, forums and workshops, showcasing Hong Kong's role as a bridge connecting the world and Mainland China.",
+   "zh_hant": "文化體育及旅遊局局長羅淑佩在第二十四屆「設計營商周」開幕典禮致辭，指今屆是亞洲首屈一指的設計盛事，首次以瑞士為夥伴國家，主題為「Design in Dialogue: Connect + Transform」。今屆活動在未來三天匯聚來自10個國家及地區逾60位設計大師及創意人士，並舉辦逾40場峰會、論壇及工作坊，展現香港作為連繫世界與中國內地的橋樑角色。",
+   "zh_hans": "文化体育及旅游局局长罗淑佩在第二十四届「设计营商周」开幕典礼致辞，指今届是亚洲首屈一指的设计盛事，首次以瑞士为伙伴国家，主题为「Design in Dialogue: Connect + Transform」。今届活动在未来三天汇聚来自10个国家及地区逾60位设计大师及创意人士，并举办逾40场峰会、论坛及工作坊，展现香港作为连系世界与中国内地的桥梁角色。"
+  },
+  "tags": {
+   "en": [
+    "Business of Design Week",
+    "Rosanna Law",
+    "design"
+   ],
+   "zh_hant": [
+    "設計營商周",
+    "羅淑佩",
+    "設計"
+   ],
+   "zh_hans": [
+    "设计营商周",
+    "罗淑佩",
+    "设计"
+   ]
+  },
+  "card_time": "2026-11-18 09:50"
+ },
+ {
+  "id": "20261118-rubio-trump-kim-no-meeting",
+  "category": "world",
+  "published_at": "2026-11-18T09:48:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878242-20261118.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Rubio Clarifies No Trump-Kim Meeting Arranged During China Visit — But Says Trump Is Willing to Meet to Ease Tensions",
+   "zh_hant": "美卿澄清特朗普訪華未安排晤金正恩 但稱特朗普願會面化解朝鮮緊張局勢",
+   "zh_hans": "美卿澄清特朗普访华未安排晤金正恩 但称特朗普愿会面化解朝鲜紧张局势"
+  },
+  "summary": {
+   "en": "US Secretary of State Marco Rubio has clarified that no meeting has been arranged between President Donald Trump and North Korean leader Kim Jong Un during Mr Trump's visit to China. Mr Trump departs today for Shenzhen to attend the APEC leaders' informal meeting and a historic trilateral meeting with President Xi Jinping and Russian President Vladimir Putin, where they plan to discuss nuclear arms reduction and ending the Russia-Ukraine war. Mr Rubio said Mr Trump is serious about meeting Mr Kim to ease tensions on the Korean Peninsula and is willing to meet and hold discussions.",
+   "zh_hant": "美國國務卿魯比奧澄清，總統特朗普訪問中國期間，未安排與朝鮮領袖金正恩會面。特朗普今日啟程前往深圳，出席亞太經合組織領導人非正式會議，並與國家主席習近平及俄羅斯總統普京舉行歷史性三方會晤，計劃討論削減核武及結束俄烏戰事。魯比奧表示，特朗普對於透過與金正恩會面化解朝鮮緊張局勢態度認真，願意會面及討論。",
+   "zh_hans": "美国国务卿鲁比奥澄清，总统特朗普访问中国期间，未安排与朝鲜领袖金正恩会面。特朗普今日启程前往深圳，出席亚太经合组织领导人非正式会议，并与国家主席习近平及俄罗斯总统普京举行历史性三方会晤，计划讨论削减核武及结束俄乌战事。鲁比奥表示，特朗普对于透过与金正恩会面化解朝鲜紧张局势态度认真，愿意会面及讨论。"
+  },
+  "tags": {
+   "en": [
+    "Trump",
+    "Kim Jong Un",
+    "Rubio"
+   ],
+   "zh_hant": [
+    "特朗普",
+    "金正恩",
+    "魯比奧"
+   ],
+   "zh_hans": [
+    "特朗普",
+    "金正恩",
+    "鲁比奥"
+   ]
+  },
+  "card_time": "2026-11-18 09:48"
+ },
+ {
+  "id": "20261118-japan-oct-trade-record-high",
+  "category": "finance",
+  "published_at": "2026-11-18T09:38:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878236-20261118.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Japan's October Imports and Exports Both Hit Record Monthly Highs — Exports Jump 20.5% for a 14th Straight Monthly Rise",
+   "zh_hant": "日本10月進出口齊創單月新高 出口勁升20.5%連升14個月 受惠晶片需求強勁",
+   "zh_hans": "日本10月进出口齐创单月新高 出口劲升20.5%连升14个月 受惠芯片需求强劲"
+  },
+  "summary": {
+   "en": "Japan's imports and exports both hit record monthly highs in October, reaching 12.2 trillion yen and 11.8 trillion yen respectively. Exports rose 20.5% year on year, accelerating from September's 16.5% and marking a 14th straight monthly increase, beating expectations on strong chip-related demand; exports to the United States rose 23.9% and to China 13.3%. Imports rose 21.6%, below expectations, leaving a trade deficit of 476.5 billion yen, only about half the market forecast.",
+   "zh_hant": "日本10月進口及出口規模均創單月新高，分別達到12.2萬億日圓及11.8萬億日圓。上月出口按年升20.5%，增速較9月的16.5%加快，連升14個月，超出市場預期，受惠於晶片相關需求強勁；其中對美國出口升23.9%，對中國出口升13.3%。上月進口按年升21.6%，增速低於預期，貿易逆差4765億日圓，只及市場預期約一半。",
+   "zh_hans": "日本10月进口及出口规模均创单月新高，分别达到12.2万亿日圆及11.8万亿日圆。上月出口按年升20.5%，增速较9月的16.5%加快，连升14个月，超出市场预期，受惠于芯片相关需求强劲；其中对美国出口升23.9%，对中国出口升13.3%。上月进口按年升21.6%，增速低于预期，贸易逆差4765亿日圆，只及市场预期约一半。"
+  },
+  "tags": {
+   "en": [
+    "Japan",
+    "trade",
+    "exports"
+   ],
+   "zh_hant": [
+    "日本",
+    "貿易",
+    "出口"
+   ],
+   "zh_hans": [
+    "日本",
+    "贸易",
+    "出口"
+   ]
+  },
+  "card_time": "2026-11-18 09:38"
+ },
+ {
+  "id": "20261118-yuan-midpoint-4-5-year-high",
+  "category": "finance",
+  "published_at": "2026-11-18T09:23:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878237-20261118.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Yuan Midpoint Rises for a Fifth Day to a Near 4.5-Year High at 6.7118 per Dollar — Still 460 Pips Weaker Than Forecast",
+   "zh_hant": "人民幣中間價連升5日創近4年半新高 報6.7118兌1美元 較市場預測偏弱460點子",
+   "zh_hans": "人民币中间价连升5日创近4年半新高 报6.7118兑1美元 较市场预测偏弱460点子"
+  },
+  "summary": {
+   "en": "The yuan's daily midpoint fixing rose for a fifth straight session to a near four-and-a-half-year high. The midpoint was set at 6.7118 per US dollar, up 14 pips from yesterday's fixing, but about 460 pips weaker than the market forecast.",
+   "zh_hant": "人民幣中間價連升5個交易日，創近4年半新高。人民幣中間價報6.7118兌1美元，較昨日中間價再升14點子，但較市場預測偏弱約460點子。",
+   "zh_hans": "人民币中间价连升5个交易日，创近4年半新高。人民币中间价报6.7118兑1美元，较昨日中间价再升14点子，但较市场预测偏弱约460点子。"
+  },
+  "tags": {
+   "en": [
+    "yuan",
+    "midpoint",
+    "PBOC"
+   ],
+   "zh_hant": [
+    "人民幣",
+    "中間價",
+    "人行"
+   ],
+   "zh_hans": [
+    "人民币",
+    "中间价",
+    "人行"
+   ]
+  },
+  "card_time": "2026-11-18 09:23"
+ },
+ {
+  "id": "20261118-nigeria-attack-chinese-citizen-killed",
+  "category": "world",
+  "published_at": "2026-11-18T08:45:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878229-20261118.htm"
+  },
+  "image_url": "",
+  "title": {
+   "en": "Attack in Northeast Nigeria Kills One Chinese Citizen — Local Policeman Also Killed in Gunfight as Security Forces Hunt Attackers",
+   "zh_hant": "尼日利亞東北部遇襲 一名中國公民死亡 當地警員交火中殉職 安全部門搜捕襲擊者",
+   "zh_hans": "尼日利亚东北部遇袭 一名中国公民死亡 当地警员交火中殉职 安全部门搜捕袭击者"
+  },
+  "summary": {
+   "en": "Police in Nigeria said an attack in Bauchi State in the northeast on November 14 left one Chinese citizen dead after being attacked by gunmen, while a local police officer was also killed in a gunfight with the attackers. Security forces have launched an operation to hunt down the attackers. Nigeria's security situation has remained volatile in recent years; an attack in Kebbi State in the northwest in October also killed a Chinese citizen.",
+   "zh_hant": "尼日利亞警方表示，東北部包奇州本月14日發生襲擊事件，一名中國公民遭武裝人員襲擊死亡，另有一名當地警察在與襲擊者交火時身亡，安全部門已展開行動搜捕襲擊者。近年尼日利亞安全形勢持續動盪，今年10月西北部凱比州亦曾發生襲擊事件，造成一名中國公民遇難。",
+   "zh_hans": "尼日利亚警方表示，东北部包奇州本月14日发生袭击事件，一名中国公民遭武装人员袭击死亡，另有一名当地警察在与袭击者交火时身亡，安全部门已展开行动搜捕袭击者。近年尼日利亚安全形势持续动荡，今年10月西北部凯比州亦曾发生袭击事件，造成一名中国公民遇难。"
+  },
+  "tags": {
+   "en": [
+    "Nigeria",
+    "attack",
+    "Chinese citizen"
+   ],
+   "zh_hant": [
+    "尼日利亞",
+    "襲擊",
+    "中國公民"
+   ],
+   "zh_hans": [
+    "尼日利亚",
+    "袭击",
+    "中国公民"
+   ]
+  },
+  "card_time": "2026-11-18 08:45"
+ },
+ {
   "id": "20261118-huang-dec-1-congress-hearing-sec-probe",
   "category": "tech",
   "published_at": "2026-11-18T08:07:00+08:00",
