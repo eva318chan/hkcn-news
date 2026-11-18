@@ -1,5 +1,83 @@
 [
  {
+  "card_time": "2026-11-18 12:00",
+  "category": "finance",
+  "id": "20261118-sfst-green-finance-forum-frankfurt",
+  "image_r2_key": "design/202611/20261118-sfst-green-finance-forum-frankfurt.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-sfst-green-finance-forum-frankfurt.jpg",
+  "published_at": "2026-11-18T12:00:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/18/P2026111800237.htm"
+  },
+  "summary": {
+   "en": "Secretary for Financial Services and the Treasury Christopher Hui delivered the closing remarks at the 12th Green Finance Forum of the 29th Euro Finance Week in Frankfurt, Germany, on the theme of 'Asia's Green Finance Hub: Connecting Capital, Standards and Regions'. Mr Hui set out Hong Kong's role as a connector of capital, a setter of standards and a regional platform, noting that global climate finance reached an all-time high of around US$1.9 trillion in 2023, more than doubling in three years, and could reach at least US$6 trillion a year by 2028, with much of the demand coming from Asia.",
+   "zh_hans": "财经事务及库务局局长许正宇在德国法兰克福举行的第12届绿色金融论坛发表闭幕演说，以「亚洲绿色金融枢纽：连系资金、标准与区域」为题，阐述香港作为资金连接者、标准制定者及区域平台的角色。许正宇指出，全球气候融资在2023年达到约1.9万亿美元的历史新高，三年间增加超过一倍，若势头持续，到2028年每年气候投资可望达到最少6万亿美元，而大部分需求将来自亚洲。",
+   "zh_hant": "財經事務及庫務局局長許正宇在德國法蘭克福舉行的第12屆綠色金融論壇發表閉幕演說，以「亞洲綠色金融樞紐：連繫資金、標準與區域」為題，闡述香港作為資金連接者、標準制定者及區域平台的角色。許正宇指出，全球氣候融資在2023年達到約1.9萬億美元的歷史新高，三年間增加超過一倍，若勢頭持續，到2028年每年氣候投資可望達到最少6萬億美元，而大部分需求將來自亞洲。"
+  },
+  "tags": {
+   "en": [
+    "Christopher Hui",
+    "Green Finance",
+    "Frankfurt"
+   ],
+   "zh_hans": [
+    "许正宇",
+    "绿色金融",
+    "法兰克福"
+   ],
+   "zh_hant": [
+    "許正宇",
+    "綠色金融",
+    "法蘭克福"
+   ]
+  },
+  "title": {
+   "en": "Christopher Hui Touts Hong Kong as Asia's Green Finance Hub at Frankfurt Forum, Citing US$1.9 Trillion in Global Climate Finance",
+   "zh_hans": "许正宇法兰克福绿色金融论坛演说 倡香港做亚洲绿色金融枢纽 全球气候融资达1.9万亿美元",
+   "zh_hant": "許正宇法蘭克福綠色金融論壇演說 倡香港做亞洲綠色金融樞紐 全球氣候融資達1.9萬億美元"
+  }
+ },
+ {
+  "card_time": "2026-11-18 11:15",
+  "category": "hk",
+  "id": "20261118-cfl-models-banned-sunshine",
+  "image_r2_key": "design/202611/20261118-cfl-models-banned-sunshine.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-cfl-models-banned-sunshine.jpg",
+  "published_at": "2026-11-18T11:15:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/18/P2026111600243.htm"
+  },
+  "summary": {
+   "en": "The Electrical and Mechanical Services Department has removed four 'Sunshine' compact fluorescent lamp models from the register of listed models under the Energy Efficiency (Labelling of Products) Ordinance after test results failed to meet energy efficiency or performance standards, meaning they may no longer be supplied in Hong Kong with immediate effect. The affected models are the S-24A 23W B22 and E27, and S-16A 12W E14 and E27, and the importer will publish a notice in newspapers to inform the public.",
+   "zh_hans": "机电工程署表示，四款「阳光」牌悭电胆因测试结果未达到能源效益或功能特性表现，已从《能源效益（产品标签）条例》下的表列型号纪录中删除，即日起不得在本港供应。受影响型号包括S-24A 23W B22及E27、S-16A 12W E14及E27四款，进口商将于报章刊登通告通知市民。",
+   "zh_hant": "機電工程署表示，四款「陽光」牌慳電膽因測試結果未達到能源效益或功能特性表現，已從《能源效益（產品標籤）條例》下的表列型號紀錄中刪除，即日起不得在本港供應。受影響型號包括S-24A 23W B22及E27、S-16A 12W E14及E27四款，進口商將於報章刊登通告通知市民。"
+  },
+  "tags": {
+   "en": [
+    "Energy-Saving Bulbs",
+    "EMSD",
+    "Energy Efficiency"
+   ],
+   "zh_hans": [
+    "悭电胆",
+    "机电工程署",
+    "能源效益"
+   ],
+   "zh_hant": [
+    "慳電膽",
+    "機電工程署",
+    "能源效益"
+   ]
+  },
+  "title": {
+   "en": "Four 'Sunshine' Energy-Saving Bulbs Pulled From Hong Kong Shelves After Failing Efficiency Tests",
+   "zh_hans": "四款「阳光」悭电胆测试不合格 即日起禁售 进口商须登报通知市民",
+   "zh_hant": "四款「陽光」慳電膽測試唔合格 即日起禁售 進口商須登報通知市民"
+  }
+ },
+ {
   "id": "20261118-xi-apec-ceo-summit-keynote",
   "category": "china",
   "published_at": "2026-11-18T10:29:00+08:00",
@@ -935,6 +1013,387 @@
   },
   "image_r2_key": "design/202611/20261118-watsons-cyber-incident-v2.jpg",
   "card_time": "2026-11-18 00:07"
+ },
+ {
+  "card_time": "2026-11-18 00:00",
+  "category": "hk",
+  "id": "20261118-hk-shipping-value-port-green-bunkering",
+  "image_r2_key": "design/202611/20261118-hk-shipping-value-port-green-bunkering.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-hk-shipping-value-port-green-bunkering.jpg",
+  "published_at": "2026-11-18T00:00:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.news.gov.hk/chi/2026/11/20261117/20261117_220912_742.html"
+  },
+  "summary": {
+   "en": "Secretary for Transport and Logistics Mable Chan said Hong Kong is pushing ahead with upgrading its shipping industry and building a global maritime capital, shifting the port from a 'tonnage giant' to a 'value port' under the national 15th Five-Year Plan and Hong Kong's first five-year plan. She said Hong Kong is the world's seventh-largest bunkering centre, with more than 210 green marine fuel bunkering operations totalling over 370,000 tonnes from January 2025 to the third quarter of this year. During Hong Kong Maritime Week, the government signed a memorandum of understanding with Zhanjiang in Guangdong to build Hong Kong's first green energy corridor.",
+   "zh_hans": "运输及物流局局长陈美宝表示，在国家十五五规划和香港第一个五年规划引领下，香港正全力推动航运业升级转型，全方位建设全球航运之都，未来要从「吨位大港」转型「价值港」。她指出，香港是全球第七大加注中心，去年1月至今年第三季已进行超过210次绿色船用燃料加注，总量超过37万吨；今年海运周香港与湛江签署合作备忘录，建立首条绿色能源走廊。",
+   "zh_hant": "運輸及物流局局長陳美寶表示，在國家十五五規劃和香港第一個五年規劃引領下，香港正全力推動航運業升級轉型，全方位建設全球航運之都，未來要從「噸位大港」升級為「價值港」。她指出，香港是全球第七大加注中心，去年1月至今年第三季已進行超過210次綠色船用燃料加注，總量超過37萬噸；今年海運周香港與湛江簽署合作備忘錄，建立首條綠色能源走廊。"
+  },
+  "tags": {
+   "en": [
+    "Shipping",
+    "Mable Chan",
+    "Green Marine Fuel"
+   ],
+   "zh_hans": [
+    "航运",
+    "陈美宝",
+    "绿色船用燃料"
+   ],
+   "zh_hant": [
+    "航運",
+    "陳美寶",
+    "綠色船用燃料"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong Port Shifts From 'Tonnage Giant' to 'Value Port', With Over 370,000 Tonnes of Green Marine Fuel Bunkered",
+   "zh_hans": "陈美宝：香港港口由「吨位大港」转型「价值港」 绿色船用燃料加注逾37万吨 全球第七",
+   "zh_hant": "陳美寶：香港港口由「噸位大港」轉型「價值港」 綠色船用燃料加注逾37萬噸 全球第七"
+  }
+ },
+ {
+  "card_time": "2026-11-18 12:41",
+  "category": "hk",
+  "id": "20261118-huanggang-port-3-68m-travellers",
+  "image_url": "",
+  "published_at": "2026-11-18T12:41:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/18/P2026111800264.htm"
+  },
+  "summary": {
+   "en": "The Secretary for Security told the Legislative Council in a written reply that the new Huanggang Port handled 3,679,399 travellers and 321,122 vehicles between its opening on October 12 and November 15. The government will keep prioritising public transport, strengthening diversion and crowd management, cracking down on illegal hire-and-reward passenger services, and issuing real-time information to ease congestion during late-night peak hours.",
+   "zh_hans": "保安局局长在立法会书面答覆中表示，新皇岗口岸自10月12日启用至11月15日，累计录得旅客367万9399人次、车辆32万1122架次。当局将继续以公共交通优先，加强分流及人流管理，严厉执法打击非法载客取酬，并发放实时资讯，以纾缓深夜繁忙时段的挤塞情况。",
+   "zh_hant": "保安局局長在立法會書面答覆中表示，新皇崗口岸自10月12日啟用至11月15日，累計錄得旅客367萬9399人次、車輛32萬1122架次。當局將繼續以公共交通優先，加強分流及人流管理，嚴厲執法打擊非法載客取酬，並發放實時資訊，以紓緩深夜繁忙時段的擠塞情況。"
+  },
+  "tags": {
+   "en": [
+    "Huanggang Port",
+    "Cross-Boundary Travel",
+    "Traffic"
+   ],
+   "zh_hans": [
+    "皇岗口岸",
+    "过关",
+    "交通"
+   ],
+   "zh_hant": [
+    "皇崗口岸",
+    "過關",
+    "交通"
+   ]
+  },
+  "title": {
+   "en": "New Huanggang Port Handles 3.68 Million Travellers in First Month as Authorities Move to Ease Late-Night Congestion",
+   "zh_hans": "新皇岗口岸启用逾月 367万人次过关 32万架次车辆 当局加强分流纾缓深夜挤塞",
+   "zh_hant": "新皇崗口岸啟用逾月 367萬人次過關 32萬架次車輛 當局加強分流紓緩深夜擠塞"
+  }
+ },
+ {
+  "card_time": "2026-11-18 12:26",
+  "category": "finance",
+  "id": "20261118-citi-millionaires-ai-wealth-advice",
+  "image_url": "",
+  "published_at": "2026-11-18T12:26:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878273-20261118.htm"
+  },
+  "summary": {
+   "en": "Citi's latest report estimates 86% of Hong Kong's millionaires have used artificial intelligence tools to obtain information, and 63% of respondents trust the financial information and analysis provided by AI, but only 7% said they would rely entirely on AI to make investment decisions. The report said wealthy individuals place greater value on experienced wealth management teams with sound judgment, favouring an 'AI-assisted, human-led' approach.",
+   "zh_hans": "花旗最新报告推算，86%香港千万富翁曾使用人工智能工具获取资讯，63%受访者信任人工智能提供的财务资讯及分析，但只有7%表示会完全依靠人工智能作出投资决策。报告指富裕人士更重视有经验及判断力的财富管理团队，倾向「人工智能辅助、人类主导」。",
+   "zh_hant": "花旗最新報告推算，86%香港千萬富翁曾使用人工智能工具獲取資訊，63%受訪者信任人工智能提供的財務資訊及分析，但只有7%表示會完全依靠人工智能作出投資決策。報告指富裕人士更重視有經驗及判斷力的財富管理團隊，傾向「人工智能輔助、人類主導」。"
+  },
+  "tags": {
+   "en": [
+    "Artificial Intelligence",
+    "Millionaires",
+    "Investment"
+   ],
+   "zh_hans": [
+    "人工智能",
+    "千万富翁",
+    "投资"
+   ],
+   "zh_hant": [
+    "人工智能",
+    "千萬富翁",
+    "投資"
+   ]
+  },
+  "title": {
+   "en": "Citi: 86% of Hong Kong Millionaires Use AI for Information, but Only 7% Would Let It Make Investment Calls",
+   "zh_hans": "花旗：86%千万富翁用AI拿资讯 63%信AI财务分析 仅7%完全靠AI做投资决定",
+   "zh_hant": "花旗：86%千萬富翁用AI攞資訊 63%信AI財務分析 僅7%完全靠AI做投資決定"
+  }
+ },
+ {
+  "card_time": "2026-11-18 12:25",
+  "category": "hk",
+  "id": "20261118-sim-card-fraud-criminalise-prepaid-cap-3",
+  "image_url": "",
+  "published_at": "2026-11-18T12:25:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/18/P2026111800298.htm"
+  },
+  "summary": {
+   "en": "The government is conducting a comprehensive review of the Telecommunications Ordinance and proposes to criminalise the improper use of SIM cards, including registering a card for another person and buying, selling, renting or borrowing cards. It also proposes cutting the cap on prepaid SIM cards a telecom operator may issue to the same user from 10 to three. The government said fraud syndicates often lure people with cash to register cards in their own names, then route huge volumes of scam calls and phishing texts through 'modem pools', and it will consult the public and the industry on the proposals in the coming months.",
+   "zh_hans": "政府正全面检讨《电讯条例》，建议修例将不当使用电话智能卡刑事化，包括为他人登记电话卡、买卖、出租或借用电话卡等行为，并将每名电讯商可向同一用户发出的预付电话卡上限由10张降至3张。当局指诈骗集团常以金钱利诱招揽「人头」登记电话卡，再经俗称「猫池」的设备大量打出诈骗电话或短讯；当局将于未来数月就建议咨询公众及业界。",
+   "zh_hant": "政府正全面檢討《電訊條例》，建議修例將不當使用電話智能卡刑事化，包括為他人登記電話卡、買賣、出租或借用電話卡等行為，並將每名電訊商可向同一用戶發出的預付電話卡上限由10張降至3張。當局指詐騙集團常以金錢利誘招攬「人頭」登記電話卡，再經俗稱「貓池」的設備大量打出詐騙電話或短訊；當局將於未來數月就建議諮詢公眾及業界。"
+  },
+  "tags": {
+   "en": [
+    "Phone Scams",
+    "SIM Cards",
+    "Telecommunications Ordinance"
+   ],
+   "zh_hans": [
+    "电话骗案",
+    "电话智能卡",
+    "电讯条例"
+   ],
+   "zh_hant": [
+    "電話騙案",
+    "電話智能卡",
+    "電訊條例"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong Moves to Criminalise SIM Card Misuse in Fraud Crackdown, Slashing Prepaid Card Cap From 10 to 3 Per Person",
+   "zh_hans": "打击电话骗案 政府拟将不当使用电话卡刑事化 预付卡每人上限由10张大减至3张",
+   "zh_hant": "打擊電話騙案 政府擬將不當使用電話卡刑事化 預付卡每人上限由10張大減至3張"
+  }
+ },
+ {
+  "card_time": "2026-11-18 12:23",
+  "category": "hk",
+  "id": "20261118-hku-histotripsy-kidney-cancer-asia-first",
+  "image_url": "",
+  "published_at": "2026-11-18T12:23:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878272-20261118.htm"
+  },
+  "summary": {
+   "en": "The University of Hong Kong's medical faculty has completed two early-stage kidney cancer treatments using histotripsy, a first in Asia, with both patients keeping their kidneys after surgery. The technique uses focused ultrasound energy to precisely target tumours, takes about an hour, and is non-invasive, with no incision and no radiation. It is currently suitable only for early-stage kidney cancer.",
+   "zh_hans": "香港大学医学院以组织碎化技术完成两宗初期肾癌治疗，属亚洲首次，病人术后可以保留肾脏。该技术利用超声波能量精准打击肿瘤，手术约需一小时，属非入侵、无切口及无辐射，目前只适合早期肾癌患者。",
+   "zh_hant": "香港大學醫學院以組織碎化技術完成兩宗初期腎癌治療，屬亞洲首次，病人術後可以保留腎臟。該技術利用超聲波能量精準打擊腫瘤，手術約需一小時，屬非入侵、無切口及無輻射，目前只適合早期腎癌患者。"
+  },
+  "tags": {
+   "en": [
+    "HKU Faculty of Medicine",
+    "Kidney Cancer",
+    "Histotripsy"
+   ],
+   "zh_hans": [
+    "港大医学院",
+    "肾癌",
+    "组织碎化技术"
+   ],
+   "zh_hant": [
+    "港大醫學院",
+    "腎癌",
+    "組織碎化技術"
+   ]
+  },
+  "title": {
+   "en": "HKU Pioneers Asia's First Histotripsy Kidney Cancer Treatments, Preserving Patients' Kidneys in Hour-Long Non-Invasive Procedures",
+   "zh_hans": "港大医学院组织碎化技术治早期肾癌 亚洲首例 术后可保肾脏 手术仅约一小时",
+   "zh_hant": "港大醫學院組織碎化技術治早期腎癌 亞洲首例 術後可保腎臟 手術僅約一小時"
+  }
+ },
+ {
+  "card_time": "2026-11-18 12:22",
+  "category": "finance",
+  "id": "20261118-citi-hk-millionaires-412000",
+  "image_url": "",
+  "published_at": "2026-11-18T12:22:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878271-20261118.htm"
+  },
+  "summary": {
+   "en": "Citi's latest report estimates there are about 412,000 millionaires in Hong Kong as of mid-2026, about 5,000 more than a year earlier, accounting for around 8% of the population aged 21 to 79 — roughly one in every 13 Hongkongers. The report puts their median total net worth at HK$20 million and median liquid assets at HK$10 million.",
+   "zh_hans": "花旗最新报告推算，截至今年中，本港千万富翁约41.2万人，较去年增加约5,000人，占21至79岁人口约8%，即平均每13名香港人就有1名千万富翁。报告指千万富翁的总资产净值中位数为2,000万元，流动资产中位数为1,000万元。",
+   "zh_hant": "花旗最新報告推算，截至今年中，本港千萬富翁約41.2萬人，較去年增加約5,000人，佔21至79歲人口約8%，即平均每13名香港人就有1名千萬富翁。報告指千萬富翁的總資產淨值中位數為2,000萬元，流動資產中位數為1,000萬元。"
+  },
+  "tags": {
+   "en": [
+    "Millionaires",
+    "Citi",
+    "Wealth"
+   ],
+   "zh_hans": [
+    "千万富翁",
+    "花旗",
+    "财富"
+   ],
+   "zh_hant": [
+    "千萬富翁",
+    "花旗",
+    "財富"
+   ]
+  },
+  "title": {
+   "en": "Citi Counts 412,000 Millionaires in Hong Kong, One in Every 13 Adults, With Median Net Worth of HK$20 Million",
+   "zh_hans": "花旗：本港千万富翁约41.2万人 一年多5千人 平均每13人就有1名 资产净值中位数2,000万",
+   "zh_hant": "花旗：本港千萬富翁約41.2萬人 一年多5千人 平均每13人就有1名 資產淨值中位數2,000萬"
+  }
+ },
+ {
+  "card_time": "2026-11-18 12:14",
+  "category": "hk",
+  "id": "20261118-ce-apec-xi-speech-encouraged-gateway",
+  "image_url": "",
+  "published_at": "2026-11-18T12:14:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878269-20261118.htm"
+  },
+  "summary": {
+   "en": "Chief Executive John Lee said he was encouraged by President Xi Jinping's keynote speech at the APEC CEO Summit in Shenzhen, saying Hong Kong will continue to leverage its own strengths and those of the Greater Bay Area. Mr Lee cited the Shenzhen-Hong Kong-Guangzhou innovation cluster, ranked first in the world, and the Hetao development as examples, stressing that Hong Kong serves as a springboard for global business entering the Greater Bay Area.",
+   "zh_hans": "行政长官李家超表示，对国家主席习近平在深圳举行的亚太经合组织工商领导人峰会发表主旨演讲感到振奋鼓舞。李家超说，香港会继续发挥香港优势及湾区优势，并以「深圳—香港—广州」创新集群全球第一及河套发展为例，强调香港是全球工商界进入大湾区的跳板。",
+   "zh_hant": "行政長官李家超表示，對國家主席習近平在深圳舉行的亞太經合組織工商領導人峰會上發表主旨演講感到振奮鼓舞。李家超說，香港會繼續發揮香港優勢及灣區優勢，並以「深圳—香港—廣州」創新集群全球第一及河套發展為例，強調香港是全球工商界進入大灣區的跳板。"
+  },
+  "tags": {
+   "en": [
+    "John Lee",
+    "APEC",
+    "Greater Bay Area"
+   ],
+   "zh_hans": [
+    "李家超",
+    "APEC",
+    "大湾区"
+   ],
+   "zh_hant": [
+    "李家超",
+    "APEC",
+    "大灣區"
+   ]
+  },
+  "title": {
+   "en": "John Lee 'Encouraged' by Xi's APEC Speech, Says Hong Kong Will Keep Serving as Gateway for Global Business Into Greater Bay Area",
+   "zh_hans": "李家超：习近平APEC演讲令人鼓舞 香港续做工商界进大湾区跳板 深港穗创新集群全球第一",
+   "zh_hant": "李家超：習近平APEC演講令人鼓舞 香港續做工商界進大灣區跳板 深港穗創新集群全球第一"
+  }
+ },
+ {
+  "card_time": "2026-11-18 11:34",
+  "category": "china",
+  "id": "20261118-xi-putin-meeting-shenzhen-apec",
+  "image_url": "",
+  "published_at": "2026-11-18T11:34:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878261-20261118.htm"
+  },
+  "summary": {
+   "en": "President Xi Jinping will meet Russian President Vladimir Putin in Shenzhen, according to CCTV News. Mr Putin is in China to attend the APEC Economic Leaders' Meeting, and will also attend the APEC CEO Summit and deliver a speech.",
+   "zh_hans": "据央视新闻报道，国家主席习近平将在深圳会见来华出席亚太经合组织领导人非正式会议的俄罗斯总统普京。普京亦会出席亚太经合组织工商领导人峰会并发表讲话。",
+   "zh_hant": "據央視新聞報道，國家主席習近平將在深圳會見來華出席亞太經合組織領導人非正式會議的俄羅斯總統普京。普京亦會出席亞太經合組織工商領導人峰會並發表講話。"
+  },
+  "tags": {
+   "en": [
+    "Xi Jinping",
+    "Putin",
+    "APEC"
+   ],
+   "zh_hans": [
+    "习近平",
+    "普京",
+    "APEC"
+   ],
+   "zh_hant": [
+    "習近平",
+    "普京",
+    "APEC"
+   ]
+  },
+  "title": {
+   "en": "Xi to Meet Putin in Shenzhen as Russian Leader Joins APEC Summit and Addresses CEO Gathering",
+   "zh_hans": "习近平深圳会见普京 普京亦将出席APEC工商峰会发言 中俄元首深圳再聚",
+   "zh_hant": "習近平深圳會見普京 普京亦將出席APEC工商峰會發言 中俄元首深圳再聚"
+  }
+ },
+ {
+  "card_time": "2026-11-18 11:32",
+  "category": "hk",
+  "id": "20261118-choi-trial-kwong-kau-testimony-dismember",
+  "image_url": "",
+  "published_at": "2026-11-18T11:32:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878260-20261118.htm"
+  },
+  "summary": {
+   "en": "The Abby Choi murder trial continued at the High Court, with second defendant Kwong Kau testifying that he was solely responsible for dismembering Choi's body, and insisting there was never a plan to kill her and no one had such a plan. Kwong said he received a call from Kwong Kong-kit saying Choi had lost consciousness, and then helped put her body in a box and move it to a unit in Lung Mei Tsuen.",
+   "zh_hans": "蔡天凤案在高等法院续审，第二被告邝球作供时同意由他全权负责切割蔡天凤的尸体，并称绝无计划杀死她，也无任何人有此计划。邝球供称，接获邝港杰来电指蔡天凤失去意识后，他协助将尸体放入胶箱，再搬入龙尾村单位。",
+   "zh_hant": "蔡天鳳案在高等法院續審，第二被告鄺球作供時同意由他全權負責切割蔡天鳳的屍體，並稱絕無計劃殺死她，也無任何人有此計劃。鄺球供稱，接獲鄺港傑來電指蔡天鳳失去意識後，他協助將屍體放入膠箱，再搬入龍尾村單位。"
+  },
+  "tags": {
+   "en": [
+    "Abby Choi Case",
+    "High Court",
+    "Kwong Kau"
+   ],
+   "zh_hans": [
+    "蔡天凤案",
+    "高等法院",
+    "邝球"
+   ],
+   "zh_hant": [
+    "蔡天鳳案",
+    "高等法院",
+    "鄺球"
+   ]
+  },
+  "title": {
+   "en": "Abby Choi Trial: Kwong Kau Says He Alone Dismembered Body, Insists There Was Never a Plan to Kill Her",
+   "zh_hans": "蔡天凤案续审 邝球认独自负责切割尸体 坚称绝无杀人计划 称接获来电后协助搬尸",
+   "zh_hant": "蔡天鳳案續審 鄺球認獨自負責切割屍體 堅稱絕無殺人計劃 稱接獲來電後協助搬屍"
+  }
+ },
+ {
+  "card_time": "2026-11-18 11:08",
+  "category": "entertainment",
+  "id": "20261118-film-fund-review-box-office-rebound",
+  "image_url": "",
+  "published_at": "2026-11-18T11:08:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/18/P2026111800216.htm"
+  },
+  "summary": {
+   "en": "Secretary for Culture, Sports and Tourism Rosanna Law told the Legislative Council that Hong Kong's total box office rose 18% year on year by the end of October 2026, with Hong Kong films surging 98% to account for 30% of the total, up sharply from 18% in the same period last year. She said the government expects to complete a comprehensive review of the Film Development Fund in 2027 and roll out enhancements gradually, and is setting up a Support Unit for Non-local Film Productions, expected to be formed in early 2027 to give visiting film crews more comprehensive support.",
+   "zh_hans": "文化体育及旅游局局长罗淑佩在立法会回覆提问时表示，截至今年10月底，本港总票房按年上升18%，港产片票房更劲升98%，占总票房三成，较去年同期18%大幅上升。她表示，政府预计2027年完成电影发展基金全面检讨，其后逐步推出优化措施，并正筹备成立非本地电影制作支援专责小组，预计明年初成立，为来港摄制的外地剧组提供更全面支援。",
+   "zh_hant": "文化體育及旅遊局局長羅淑佩在立法會回覆提問時表示，截至今年10月底，本港總票房按年上升18%，港產片票房更勁升98%，佔總票房三成，較去年同期18%大幅上升。她表示，政府預計2027年完成電影發展基金全面檢討，其後逐步推出優化措施，並正籌備成立非本地電影製作支援專責小組，預計明年初成立，為來港攝製的外地劇組提供更全面支援。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Films",
+    "Film Development Fund",
+    "Box Office"
+   ],
+   "zh_hans": [
+    "香港电影",
+    "电影发展基金",
+    "票房"
+   ],
+   "zh_hant": [
+    "香港電影",
+    "電影發展基金",
+    "票房"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong Films' Box Office Soars 98% to 30% Share as Film Development Fund Review Due in 2027",
+   "zh_hans": "港产片票房劲升98%占比三成 电影发展基金检讨2027年完成 非本地摄制支援小组明年初成立",
+   "zh_hant": "港產片票房勁升98%佔比三成 電影發展基金檢討2027年完成 非本地攝製支援小組明年初成立"
+  }
  },
  {
   "id": "20261118-huang-dec-1-congress-hearing-sec-probe",
