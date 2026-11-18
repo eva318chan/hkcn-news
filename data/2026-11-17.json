@@ -1618,6 +1618,45 @@
   "image_r2_key": "design/202611/20261117-cfs-apple-juice-patulin-recall-v2.jpg"
  },
  {
+  "id": "20261117-dbs-commercial-property",
+  "category": "finance",
+  "published_at": "2026-11-17T17:03:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878146-20261117.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-dbs-commercial-property-v2.jpg",
+  "title": {
+   "en": "DBS: some investors are buying commercial property at low prices — Central office rents tipped to rise 10% as retail recovers next year",
+   "zh_hant": "星展：部分投資者趁低吸納商廈 中環寫字樓租金料升一成 零售明年回暖",
+   "zh_hans": "星展：部分投资者趁低吸纳商厦 中环写字楼租金料升一成 零售明年回暖"
+  },
+  "summary": {
+   "en": "DBS Hong Kong executive director and property analyst Yau Cheuk-man said commercial property was mainly user-driven a year or two ago, but some buyers have started buying for investment at low prices this year; with rental yields only reasonable and funding costs not low, he believes not many investors have entered the market yet. He noted the government stopped selling commercial land years ago and, with office projects completing through the first half of next year, there will be no major new supply until 2030-31, so the office market should gradually stabilise; Central office rents are expected to rise 10-12% this year and next, Wan Chai and Causeway Bay 3-5% next year, and Kowloon to fall no more than 5% this year and stay flat next year. On retail, DBS analyst Leung Tsz-ying said online retail and outbound travel growth have slowed markedly in recent months, a stronger renminbi should lift mainland tourist spending, retail sales are expected to grow 3-5% next year, lifting overall retail rents 3%; luxury recovery will clearly lead, while livelihood malls' rents are stabilising but renewal rents remain slightly below three years ago and need policy support to draw footfall.",
+   "zh_hant": "星展香港研究部執行董事兼房地產業分析師丘卓文指出，早一兩年商業地產主要以用家主導，今年則有部分買家趁低吸納投資，但他認為考慮到現時租金回報只屬合理，資金成本亦不低，相信尚未有太多投資者入市。他亦指出，政府早年停售商業用地，隨著今年至明年上半年寫字樓項目相繼落成，2030至2031年前將不再有新的大型供應，預期整體寫字樓市道將逐步趨向平穩；中環寫字樓租金今年及明年料增長10%至12%，灣仔及銅鑼灣明年有望錄得3%至5%增長，九龍區今年跌不超過5%，預料明年保持平穩。零售物業方面，星展研究部房地產業分析師梁梓瑩說，隨著過去幾個月網上零售額與居民外遊升幅顯著放緩，人民幣兌港元走勢偏強有助提振內地旅客消費，預期明年本港零售額將增長3%至5%，帶動整體零售物業租金升3%；奢侈品復蘇會明顯領先，民生商場租金開始回穩，但續租租金比3年前仍輕微調整，需要政府政策支持以帶動人流。",
+   "zh_hans": "星展香港研究部执行董事兼房地产业分析师丘卓文指出，早一两年商业地产主要以用家主导，今年则有部分买家趁低吸纳投资，但他认为考虑到现时租金回报只属合理，资金成本亦不低，相信尚未有太多投资者入市。他亦指出，政府早年停售商业用地，随着今年至明年上半年写字楼项目相继落成，2030至2031年前将不再有新的大型供应，预期整体写字楼市道将逐步趋向平稳；中环写字楼租金今年及明年料增长10%至12%，湾仔及铜锣湾明年有望录得3%至5%增长，九龙区今年跌不超过5%，预料明年保持平稳。零售物业方面，星展研究部房地产业分析师梁梓莹说，随着过去几个月网上零售额与居民外游升幅显著放缓，人民币兑港元走势偏强有助提振内地旅客消费，预期明年本港零售额将增长3%至5%，带动整体零售物业租金升3%；奢侈品复苏会明显领先，民生商场租金开始回稳，但续租租金比3年前仍轻微调整，需要政府政策支持以带动人流。"
+  },
+  "tags": {
+   "en": [
+    "DBS",
+    "commercial property",
+    "office rents"
+   ],
+   "zh_hant": [
+    "星展",
+    "商廈",
+    "寫字樓租金"
+   ],
+   "zh_hans": [
+    "星展",
+    "商厦",
+    "写字楼租金"
+   ]
+  },
+  "card_time": "2026-11-17 17:03",
+  "image_r2_key": "design/202611/20261117-dbs-commercial-property-v2.jpg"
+ },
+ {
   "id": "20261117-election-committee-poll-cards",
   "category": "hk",
   "published_at": "2026-11-17T17:00:00+08:00",
@@ -1961,6 +2000,45 @@
   "image_r2_key": "design/202611/20261117-conservation-workshop-prd-opens.jpg"
  },
  {
+  "id": "20261117-ipark1-fire-investigation-welding-smoking",
+  "category": "hk",
+  "published_at": "2026-11-17T14:45:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700385.htm"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-ipark1-fire-investigation-welding-smoking.jpg",
+  "title": {
+   "en": "I.PARK1 Fire Investigation Complete | Blaze Suspected Linked to Welding Works or Smoking, Arson and Electrical Fault Ruled Out",
+   "zh_hant": "I.PARK1火警調查完成 疑與燒焊工程或吸煙有關 已排除縱火及電力故障",
+   "zh_hans": "I.PARK1火警调查完成 疑与烧焊工程或吸烟有关 已排除纵火及电力故障"
+  },
+  "summary": {
+   "en": "The Fire Services Department has completed its investigation into the fire at the Integrated Waste Management Facilities Phase 1 (I.PARK1) on the artificial island off Shek Kwu Chau on October 26. The fire originated on the upper level within the third incineration module area of the incineration building. The investigation has ruled out electrical faults, arson and spontaneous combustion of chemical substances as the cause, which is instead suspected to be related to welding works or smoking. The department has completed the relevant report and referred it to the Environmental Protection Department for follow-up.",
+   "zh_hant": "消防處完成上月石鼓洲旁人工島綜合廢物管理設施第一期（I.PARK1）火警的調查。火警發生在10月26日，起火地點位於焚化爐大樓第三焚化模組的高層位置。調查已排除電力故障、蓄意縱火及化學物質自燃，懷疑起火與燒焊工程或吸煙有關。消防處已完成相關報告，並轉交環保署跟進。",
+   "zh_hans": "消防处完成上月石鼓洲旁人工岛综合废物管理设施第一期（I.PARK1）火警的调查。火警发生在10月26日，起火地点位于焚化炉大楼第三焚化模组的高层位置。调查已排除电力故障、蓄意纵火及化学物质自燃，怀疑起火与烧焊工程或吸烟有关。消防处已完成相关报告，并转交环保署跟进。"
+  },
+  "tags": {
+   "en": [
+    "I.PARK1",
+    "Fire",
+    "Fire Services Department"
+   ],
+   "zh_hant": [
+    "I.PARK1",
+    "火警",
+    "消防處"
+   ],
+   "zh_hans": [
+    "I.PARK1",
+    "火警",
+    "消防处"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-ipark1-fire-investigation-welding-smoking.jpg",
+  "caption": "環境保護署標誌。（政府新聞處）"
+ },
+ {
   "id": "20261117-tuen-mun-missing-man-77-police-appeal",
   "category": "hk",
   "published_at": "2026-11-17T11:57:00+08:00",
@@ -2111,45 +2189,6 @@
    ]
   },
   "image_r2_key": "design/202611/20261117-ce-almac-speech-growth-innovation-sustainability.jpg"
- },
- {
-  "id": "20261117-dbs-commercial-property",
-  "category": "finance",
-  "published_at": "2026-11-17T17:03:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878146-20261117.htm"
-  },
-  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261117-dbs-commercial-property-v2.jpg",
-  "title": {
-   "en": "DBS: some investors are buying commercial property at low prices — Central office rents tipped to rise 10% as retail recovers next year",
-   "zh_hant": "星展：部分投資者趁低吸納商廈 中環寫字樓租金料升一成 零售明年回暖",
-   "zh_hans": "星展：部分投资者趁低吸纳商厦 中环写字楼租金料升一成 零售明年回暖"
-  },
-  "summary": {
-   "en": "DBS Hong Kong executive director and property analyst Yau Cheuk-man said commercial property was mainly user-driven a year or two ago, but some buyers have started buying for investment at low prices this year; with rental yields only reasonable and funding costs not low, he believes not many investors have entered the market yet. He noted the government stopped selling commercial land years ago and, with office projects completing through the first half of next year, there will be no major new supply until 2030-31, so the office market should gradually stabilise; Central office rents are expected to rise 10-12% this year and next, Wan Chai and Causeway Bay 3-5% next year, and Kowloon to fall no more than 5% this year and stay flat next year. On retail, DBS analyst Leung Tsz-ying said online retail and outbound travel growth have slowed markedly in recent months, a stronger renminbi should lift mainland tourist spending, retail sales are expected to grow 3-5% next year, lifting overall retail rents 3%; luxury recovery will clearly lead, while livelihood malls' rents are stabilising but renewal rents remain slightly below three years ago and need policy support to draw footfall.",
-   "zh_hant": "星展香港研究部執行董事兼房地產業分析師丘卓文指出，早一兩年商業地產主要以用家主導，今年則有部分買家趁低吸納投資，但他認為考慮到現時租金回報只屬合理，資金成本亦不低，相信尚未有太多投資者入市。他亦指出，政府早年停售商業用地，隨著今年至明年上半年寫字樓項目相繼落成，2030至2031年前將不再有新的大型供應，預期整體寫字樓市道將逐步趨向平穩；中環寫字樓租金今年及明年料增長10%至12%，灣仔及銅鑼灣明年有望錄得3%至5%增長，九龍區今年跌不超過5%，預料明年保持平穩。零售物業方面，星展研究部房地產業分析師梁梓瑩說，隨著過去幾個月網上零售額與居民外遊升幅顯著放緩，人民幣兌港元走勢偏強有助提振內地旅客消費，預期明年本港零售額將增長3%至5%，帶動整體零售物業租金升3%；奢侈品復蘇會明顯領先，民生商場租金開始回穩，但續租租金比3年前仍輕微調整，需要政府政策支持以帶動人流。",
-   "zh_hans": "星展香港研究部执行董事兼房地产业分析师丘卓文指出，早一两年商业地产主要以用家主导，今年则有部分买家趁低吸纳投资，但他认为考虑到现时租金回报只属合理，资金成本亦不低，相信尚未有太多投资者入市。他亦指出，政府早年停售商业用地，随着今年至明年上半年写字楼项目相继落成，2030至2031年前将不再有新的大型供应，预期整体写字楼市道将逐步趋向平稳；中环写字楼租金今年及明年料增长10%至12%，湾仔及铜锣湾明年有望录得3%至5%增长，九龙区今年跌不超过5%，预料明年保持平稳。零售物业方面，星展研究部房地产业分析师梁梓莹说，随着过去几个月网上零售额与居民外游升幅显著放缓，人民币兑港元走势偏强有助提振内地旅客消费，预期明年本港零售额将增长3%至5%，带动整体零售物业租金升3%；奢侈品复苏会明显领先，民生商场租金开始回稳，但续租租金比3年前仍轻微调整，需要政府政策支持以带动人流。"
-  },
-  "tags": {
-   "en": [
-    "DBS",
-    "commercial property",
-    "office rents"
-   ],
-   "zh_hant": [
-    "星展",
-    "商廈",
-    "寫字樓租金"
-   ],
-   "zh_hans": [
-    "星展",
-    "商厦",
-    "写字楼租金"
-   ]
-  },
-  "card_time": "2026-11-17 17:03",
-  "image_r2_key": "design/202611/20261117-dbs-commercial-property-v2.jpg"
  },
  {
   "id": "20261117-cold-front-friday-15-degrees",
@@ -2518,43 +2557,6 @@
     "沪股",
     "A股",
     "上证指数"
-   ]
-  }
- },
- {
-  "id": "20261117-ipark1-fire-investigation-welding-smoking",
-  "category": "hk",
-  "published_at": "2026-11-17T14:45:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700385.htm"
-  },
-  "image_url": "",
-  "title": {
-   "en": "I.PARK1 Fire Investigation Complete | Blaze Suspected Linked to Welding Works or Smoking, Arson and Electrical Fault Ruled Out",
-   "zh_hant": "I.PARK1火警調查完成 疑與燒焊工程或吸煙有關 已排除縱火及電力故障",
-   "zh_hans": "I.PARK1火警调查完成 疑与烧焊工程或吸烟有关 已排除纵火及电力故障"
-  },
-  "summary": {
-   "en": "The Fire Services Department has completed its investigation into the fire at the Integrated Waste Management Facilities Phase 1 (I.PARK1) on the artificial island off Shek Kwu Chau on October 26. The fire originated on the upper level within the third incineration module area of the incineration building. The investigation has ruled out electrical faults, arson and spontaneous combustion of chemical substances as the cause, which is instead suspected to be related to welding works or smoking. The department has completed the relevant report and referred it to the Environmental Protection Department for follow-up.",
-   "zh_hant": "消防處完成上月石鼓洲旁人工島綜合廢物管理設施第一期（I.PARK1）火警的調查。火警發生在10月26日，起火地點位於焚化爐大樓第三焚化模組的高層位置。調查已排除電力故障、蓄意縱火及化學物質自燃，懷疑起火與燒焊工程或吸煙有關。消防處已完成相關報告，並轉交環保署跟進。",
-   "zh_hans": "消防处完成上月石鼓洲旁人工岛综合废物管理设施第一期（I.PARK1）火警的调查。火警发生在10月26日，起火地点位于焚化炉大楼第三焚化模组的高层位置。调查已排除电力故障、蓄意纵火及化学物质自燃，怀疑起火与烧焊工程或吸烟有关。消防处已完成相关报告，并转交环保署跟进。"
-  },
-  "tags": {
-   "en": [
-    "I.PARK1",
-    "Fire",
-    "Fire Services Department"
-   ],
-   "zh_hant": [
-    "I.PARK1",
-    "火警",
-    "消防處"
-   ],
-   "zh_hans": [
-    "I.PARK1",
-    "火警",
-    "消防处"
    ]
   }
  },
