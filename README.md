@@ -1,5 +1,7 @@
 # 中港新聞速報 · HK-China News Express
 
+> **已停用（2026-11-18）：舊靜態站已停止服務，呢個 repo 只係 archive。** 而家四個域名（`hkcnexpress.com`、`www.hkcnexpress.com`、`hkcnexpress.hk`、`www.hkcnexpress.hk`）全部行新 app（`eva318chan/hkcn-news-app`），唔好再喺呢度出文或者重新 deploy。
+
 香港及中國綜合新聞聚合網站，每 4 小時自動更新。純靜態網站，無後端、無 build step。
 
 - 線上網址：https://hkcnexpress.com
