@@ -1,5 +1,266 @@
 [
  {
+  "category": "finance",
+  "id": "20261119-gold-plunges-3-pct-14-month-low",
+  "published_at": "2026-11-19T06:31:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878368-20261119.htm"
+  },
+  "summary": {
+   "en": "Gold hit a near 14-month low as Federal Reserve meeting minutes and public remarks by officials sent hawkish signals, lifting rate-hike expectations and the dollar, weighing on bullion. Spot gold at one point fell below US$3,720 an ounce, down about 3.4%, before hovering around US$3,725. December gold futures in New York closed at US$3,741.9, down about 3.2%.",
+   "zh_hans": "金价创近14个月新低，联储局议息纪录及委员公开言论都发出鹰派讯号，推高加息预期，带动美元造好，不利金价表现。现货金一度跌穿每盎司3,720美元，跌约3.4%，其后徘徊3,725美元。纽约期金12月合约收报3,741.9美元，跌约3.2%。",
+   "zh_hant": "金價創近14個月新低，聯儲局議息紀錄及委員公開言論都發出鷹派訊號，推高加息預期，帶動美元造好，不利金價表現。現貨金一度跌穿每盎司3,720美元，跌約3.4%，其後徘徊3,725美元。紐約期金12月合約收報3,741.9美元，跌約3.2%。"
+  },
+  "tags": {
+   "en": [
+    "Gold",
+    "Federal Reserve",
+    "US dollar",
+    "Interest rates"
+   ],
+   "zh_hans": [
+    "金价",
+    "联储局",
+    "美元",
+    "利率"
+   ],
+   "zh_hant": [
+    "金價",
+    "聯儲局",
+    "美元",
+    "利率"
+   ]
+  },
+  "title": {
+   "en": "Gold plunges over 3% to near 14-month low as hawkish Fed signals lift the dollar",
+   "zh_hans": "金价急跌逾3%创14个月新低 联储局鹰派讯号推高美元",
+   "zh_hant": "金價急跌逾3%創14個月新低 聯儲局鷹派訊號推高美元"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-gold-plunges-3-pct-14-month-low-v2.jpg",
+  "card_time": "06:31",
+  "image_r2_key": "design/202611/20261119-gold-plunges-3-pct-14-month-low-v2.jpg"
+ },
+ {
+  "category": "finance",
+  "id": "20261119-oil-slumps-5-pct-3-month-low",
+  "published_at": "2026-11-19T06:30:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878367-20261119.htm"
+  },
+  "summary": {
+   "en": "Oil prices fell again as data showed US crude and fuel inventories rising more than expected, deepening oversupply concerns. Brent crude for January fell as much as 3% to a low of US$90.34 a barrel before closing at US$91.95, down about 1.3%. NYMEX crude for December at one point plunged about 4.7%, breaking below US$82 a barrel to a near three-month low, before closing at US$83.26, down about 3.2%. US Energy Information Administration data showed gasoline inventories up about 5.2 million barrels last week, distillate inventories up about 1.6 million barrels and crude inventories up about 3.4 million barrels last week, all above expectations.",
+   "zh_hans": "油价再度转跌，数据显示美国原油及燃料库存增幅超出预期，加剧市场对供应过剩的担忧。布兰特期油1月合约最多跌3%，每桶低见90.34美元，收报91.95美元，跌约1.3%。纽约期油12月合约一度急挫约4.7%，跌穿82美元一桶，创近3个月新低，收报83.26美元，跌幅收窄至约3.2%。美国能源信息署数据显示，上星期汽油库存增加约520万桶，蒸馏油库存增加约160万桶，原油库存亦增加约340万桶，全部多于预期。",
+   "zh_hant": "油價再度轉跌，數據顯示美國原油及燃料庫存增幅超出預期，加劇市場對供應過剩的擔憂。布蘭特期油1月合約最多跌3%，每桶低見90.34美元，收報91.95美元，跌約1.3%。紐約期油12月合約一度急挫約4.7%，跌穿82美元一桶，創近3個月新低，收報83.26美元，跌幅收窄至約3.2%。美國能源信息署數據顯示，上星期汽油庫存增加約520萬桶，蒸餾油庫存增加約160萬桶，原油庫存亦增加約340萬桶，全部多於預期。"
+  },
+  "tags": {
+   "en": [
+    "Oil",
+    "Crude oil",
+    "Oversupply",
+    "EIA"
+   ],
+   "zh_hans": [
+    "油价",
+    "原油",
+    "供应过剩",
+    "美国能源信息署"
+   ],
+   "zh_hant": [
+    "油價",
+    "原油",
+    "供應過剩",
+    "美國能源信息署"
+   ]
+  },
+  "title": {
+   "en": "NYMEX crude tumbles nearly 5% to 3-month low as surging US inventories deepen oversupply fears",
+   "zh_hans": "纽约期油曾挫近5%创3个月新低 美国库存劲升加剧供应过剩忧虑",
+   "zh_hant": "紐約期油曾挫近5%創3個月新低 美國庫存勁升加劇供應過剩憂慮"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-oil-slumps-5-pct-3-month-low-v2.jpg",
+  "card_time": "06:30",
+  "image_r2_key": "design/202611/20261119-oil-slumps-5-pct-3-month-low-v2.jpg"
+ },
+ {
+  "category": "finance",
+  "id": "20261119-hk-adr-tencent-alibaba-down-3-pct",
+  "published_at": "2026-11-19T06:12:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878366-20261119.htm"
+  },
+  "summary": {
+   "en": "Hong Kong stocks trading as American depositary receipts (ADRs) were mostly sharply lower. Tencent was sold off after its results and Alibaba was also under pressure ahead of its results, with both ADRs down about 3% from their Hong Kong closes — Tencent at the equivalent of HK$361.3 and Alibaba at HK$82.7. HSBC's ADR fell over 2% to the equivalent of HK$132.8, while Bank of China, HKEX, Ping An, Meituan and Xiaomi ADRs fell over 1% to about 2%. CCB and JD.com ADRs rose, but only modestly.",
+   "zh_hans": "港股美国预托证券（ADR）大多跌幅显著。腾讯业绩后股价捱沽，阿里巴巴业绩公布前亦受压，两者ADR都比本港昨日收市价跌约3%，以港元计，腾讯ADR折合报361.3元，阿里巴巴ADR折合报82.7元。汇控ADR跌逾2%，折合报132.8元；中行、港交所、平保、美团、小米ADR跌逾1%至约2%。建行及京东集团ADR则升，但升幅有限。",
+   "zh_hant": "港股美國預託證券（ADR）大多跌幅顯著。騰訊業績後股價捱沽，阿里巴巴業績公布前亦受壓，兩者ADR都比本港昨日收市價跌約3%，以港元計，騰訊ADR折合報361.3元，阿里巴巴ADR折合報82.7元。滙控ADR跌逾2%，折合報132.8元；中行、港交所、平保、美團、小米ADR跌逾1%至約2%。建行及京東集團ADR則升，但升幅有限。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong stocks",
+    "ADR",
+    "Tencent",
+    "Alibaba"
+   ],
+   "zh_hans": [
+    "港股",
+    "美国预托证券",
+    "腾讯",
+    "阿里巴巴"
+   ],
+   "zh_hant": [
+    "港股",
+    "美國預託證券",
+    "騰訊",
+    "阿里巴巴"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong ADRs mostly lower, Tencent and Alibaba down about 3%",
+   "zh_hans": "港股ADR大多捱沽 腾讯阿里巴巴跌约3%",
+   "zh_hant": "港股ADR大多捱沽 騰訊阿里巴巴跌約3%"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-hk-adr-tencent-alibaba-down-3-pct-v2.jpg",
+  "card_time": "06:12",
+  "image_r2_key": "design/202611/20261119-hk-adr-tencent-alibaba-down-3-pct-v2.jpg"
+ },
+ {
+  "category": "finance",
+  "id": "20261119-us-stocks-dow-down-561-nasdaq-up-nvidia",
+  "published_at": "2026-11-19T05:51:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878364-20261119.htm"
+  },
+  "summary": {
+   "en": "The three major US indices moved in different directions after Federal Reserve minutes showed officials were already leaning towards a rate hike — even by 0.5 percentage points — before data showed inflation heating up. The Dow tested the 50,000 level, falling as much as 730 points before closing at 50,198, down 561 points or 1.1%, a third straight daily fall and an over five-month low. The S&P 500 fell for a fifth straight session to 7,323, down over 0.2% to a near four-month low, while the Nasdaq rebounded to 24,429, up over 0.4%. Nvidia fell nearly 3%, down for five straight sessions and about 37% below its early-October closing record high.",
+   "zh_hans": "美股三大指数个别发展，联储局会议纪录显示，在数据显示通胀升温前，委员已倾向加息，甚至认为需要加息0.5厘。道琼斯指数下试5万点关口，最多跌730点，收报50,198点，跌561点，跌幅1.1%，连跌3日，创逾5个月新低。标普500指数五连跌，收报7,323点，跌逾0.2%，创近4个月低位；纳斯达克指数反弹，收报24,429点，升逾0.4%。Nvidia股价低收近3%，连跌5个交易日，较10月初创下的收市纪录高位累计回吐约37%。",
+   "zh_hant": "美股三大指數個別發展，聯儲局會議紀錄顯示，在數據顯示通脹升溫前，委員已傾向加息，甚至認為需要加息0.5厘。道瓊斯指數下試5萬點關口，最多跌730點，收報50,198點，跌561點，跌幅1.1%，連跌3日，創逾5個月新低。標普500指數五連跌，收報7,323點，跌逾0.2%，創近4個月低位；納斯達克指數反彈，收報24,429點，升逾0.4%。Nvidia股價低收近3%，連跌5個交易日，較10月初創下的收市紀錄高位累計回吐約37%。"
+  },
+  "tags": {
+   "en": [
+    "US stocks",
+    "Dow Jones",
+    "Nvidia",
+    "Federal Reserve",
+    "Nasdaq"
+   ],
+   "zh_hans": [
+    "美股",
+    "道琼斯指数",
+    "Nvidia",
+    "联储局",
+    "纳斯达克指数"
+   ],
+   "zh_hant": [
+    "美股",
+    "道瓊斯指數",
+    "Nvidia",
+    "聯儲局",
+    "納斯達克指數"
+   ]
+  },
+  "title": {
+   "en": "Dow drops 561 points for third straight fall to over 5-month low, Nasdaq rebounds while Nvidia keeps falling",
+   "zh_hans": "道指泻561点连跌三日创逾5个月低 纳指反弹Nvidia续跌",
+   "zh_hant": "道指瀉561點連跌三日創逾5個月低 納指反彈Nvidia續跌"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-us-stocks-dow-down-561-nasdaq-up-nvidia-v2.jpg",
+  "card_time": "05:51",
+  "image_r2_key": "design/202611/20261119-us-stocks-dow-down-561-nasdaq-up-nvidia-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261119-apec-china-russia-us-trilateral-meeting-today",
+  "published_at": "2026-11-19T05:46:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878362-20261119.htm"
+  },
+  "summary": {
+   "en": "President Xi Jinping, Russian President Vladimir Putin and US President Donald Trump will hold trilateral talks in Shenzhen today. China's foreign ministry said the three leaders will exchange views in depth on major issues concerning global peace. Kremlin spokesman Dmitry Peskov expects the meeting to last no more than an hour, while Russian presidential aide Yuri Ushakov said the three leaders will decide for themselves how long the discussion runs.",
+   "zh_hans": "国家主席习近平、俄罗斯总统普京及美国总统特朗普，今日将在深圳举行三方会谈。外交部表示，三国元首将就事关全球和平的重要问题深入交换意见。克里姆林宫发言人佩斯科夫预计会晤不会超过一小时，俄罗斯总统助理乌沙科夫则表示，三人将自行决定讨论持续多久。",
+   "zh_hant": "國家主席習近平、俄羅斯總統普京及美國總統特朗普，今日將在深圳舉行三方會談。外交部表示，三國元首將就事關全球和平的重要問題深入交換意見。克里姆林宮發言人佩斯科夫預計會晤不會超過一小時，俄羅斯總統助理烏沙科夫則表示，三人將自行決定討論持續多久。"
+  },
+  "tags": {
+   "en": [
+    "APEC",
+    "China-Russia-US trilateral",
+    "Shenzhen",
+    "Xi Jinping",
+    "Donald Trump"
+   ],
+   "zh_hans": [
+    "亚太经合组织",
+    "中俄美三方会谈",
+    "深圳",
+    "习近平",
+    "特朗普"
+   ],
+   "zh_hant": [
+    "亞太經合組織",
+    "中俄美三方會談",
+    "深圳",
+    "習近平",
+    "特朗普"
+   ]
+  },
+  "title": {
+   "en": "Xi, Putin and Trump to hold trilateral talks in Shenzhen today, focusing on major global peace issues",
+   "zh_hans": "中俄美元首今日深圳三方会谈 聚焦全球和平重大问题",
+   "zh_hant": "中俄美元首今日深圳三方會談 聚焦全球和平重大問題"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-apec-china-russia-us-trilateral-meeting-today-v2.jpg",
+  "card_time": "05:46",
+  "image_r2_key": "design/202611/20261119-apec-china-russia-us-trilateral-meeting-today-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261119-putin-trump-bilateral-apec-shenzhen",
+  "published_at": "2026-11-19T05:17:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878361-20261119.htm"
+  },
+  "summary": {
+   "en": "US and Russian officials say US President Donald Trump is expected to meet Russian President Vladimir Putin bilaterally during the APEC summit in Shenzhen today, before joining Chinese President Xi Jinping for trilateral talks. Kremlin spokesman Dmitry Peskov said the two will hold a bilateral meeting but no full-scale bilateral negotiations are planned. Russian presidential aide Yuri Ushakov said the meeting will take place after the APEC plenary session, with several members of both delegations expected to attend.",
+   "zh_hans": "美国和俄罗斯官员表示，美国总统特朗普今日在深圳举行的亚太经合组织峰会期间，预料会与俄罗斯总统普京举行双边会谈，随后还将与中国国家主席习近平举行三方会晤。克里姆林宫发言人佩斯科夫表示，两人将举行双边会谈，但不会安排全面双边谈判。俄罗斯总统助理乌沙科夫表示，会晤将在亚太经合组织全体会议结束后举行，俄美代表团数名成员预计将出席。",
+   "zh_hant": "美國和俄羅斯官員表示，美國總統特朗普今日在深圳舉行的亞太經合組織峰會期間，預料會與俄羅斯總統普京舉行雙邊會談，隨後還將與中國國家主席習近平舉行三方會晤。克里姆林宮發言人佩斯科夫表示，兩人將舉行雙邊會談，但不會安排全面雙邊談判。俄羅斯總統助理烏沙科夫表示，會晤將在亞太經合組織全體會議結束後舉行，俄美代表團數名成員預計將出席。"
+  },
+  "tags": {
+   "en": [
+    "APEC",
+    "Putin",
+    "Donald Trump",
+    "Shenzhen",
+    "US-Russia"
+   ],
+   "zh_hans": [
+    "亚太经合组织",
+    "普京",
+    "特朗普",
+    "深圳",
+    "美俄关系"
+   ],
+   "zh_hant": [
+    "亞太經合組織",
+    "普京",
+    "特朗普",
+    "深圳",
+    "美俄關係"
+   ]
+  },
+  "title": {
+   "en": "Putin and Trump expected to meet bilaterally during APEC summit, but no full-scale talks planned, Russia says",
+   "zh_hans": "普京特朗普峰会期间料单独会晤 俄方称不设全面谈判",
+   "zh_hant": "普京特朗普峰會期間料單獨會晤 俄方稱不設全面談判"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-putin-trump-bilateral-apec-shenzhen-v2.jpg",
+  "card_time": "05:17",
+  "image_r2_key": "design/202611/20261119-putin-trump-bilateral-apec-shenzhen-v2.jpg"
+ },
+ {
   "category": "world",
   "id": "20261119-trump-carney-apec-meeting-trade-talks",
   "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-trump-carney-apec-meeting-trade-talks-v2.jpg",
@@ -475,6 +736,48 @@
   "image_r2_key": "design/202611/20261119-tai-po-chim-uk-tsuen-fire-woman-hospitalised-v2.jpg"
  },
  {
+  "category": "hk",
+  "id": "20261118-ha-chief-apologises-wrong-ovary-removal",
+  "published_at": "2026-11-18T20:30:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878336-20261118.htm"
+  },
+  "summary": {
+   "en": "A 45-year-old woman had both ovaries wrongly removed during laparoscopic surgery to remove her uterus and fallopian tubes at CUHK Medical Centre. Consultant gynaecological oncologist Dr Cheung Tak-hong told RTHK he was the operating surgeon, describing the incident as an error that should not have happened — a very basic mistake that should not have been made — and saying he is deeply sorry. He said he explained the situation to the patient and her family the same evening and apologised again at a meeting the next day, pledging to look after her; the patient has accepted his apology and chosen to remain under his care. Cheung said the patient can live normally with appropriate treatment and medication.",
+   "zh_hans": "一名45岁女病人在中大医院接受腹腔镜子宫及双侧输卵管切除手术期间，两边卵巢被错误切除。中大医院顾问医生、妇科肿瘤科专科医生张德康接受本台访问时承认，他是当日施手术的医生，形容事故是不应该发生、很低级、不应该犯的错误，深感抱歉。他表示，当晚已立即与病人及家人说明情况，翌日再次在会面上承认错误并道歉，承诺会尽量照顾病人；病人已接受道歉，并选择继续由他跟进及照顾。张德康表示，病人接受适当治疗、药物后可以正常生活，不受事件影响。",
+   "zh_hant": "一名45歲女病人在中大醫院接受腹腔鏡子宮及雙側輸卵管切除手術期間，兩邊卵巢被錯誤切除。中大醫院顧問醫生、婦科腫瘤科專科醫生張德康接受本台訪問時承認，他是當日施手術的醫生，形容事故是不應該發生、很低級、不應該犯的錯誤，深感抱歉。他表示，當晚已立即與病人及家人說明情況，翌日再次在會面上承認錯誤並道歉，承諾會盡量照顧病人；病人已接受道歉，並選擇繼續由他跟進及照顧。張德康表示，病人接受適當治療、藥物後可以正常生活，不受事件影響。"
+  },
+  "tags": {
+   "en": [
+    "CUHK Medical Centre",
+    "Medical incident",
+    "Apology",
+    "Hong Kong"
+   ],
+   "zh_hans": [
+    "中大医院",
+    "医疗事故",
+    "道歉",
+    "香港"
+   ],
+   "zh_hant": [
+    "中大醫院",
+    "醫療事故",
+    "道歉",
+    "香港"
+   ]
+  },
+  "title": {
+   "en": "Doctor admits wrongly removing patient's ovaries was a basic error, apologises and pledges follow-up care",
+   "zh_hans": "医生承认错切病人双卵巢属低级错误 深感抱歉兼承诺跟进",
+   "zh_hant": "醫生承認錯切病人雙卵巢屬低級錯誤 深感抱歉兼承諾跟進"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-ha-chief-apologises-wrong-ovary-removal-v2.jpg",
+  "card_time": "20:30",
+  "image_r2_key": "design/202611/20261118-ha-chief-apologises-wrong-ovary-removal-v2.jpg"
+ },
+ {
   "card_time": "19:35",
   "category": "hk",
   "id": "20261119-winter-wonderland-central-opens",
@@ -836,301 +1139,5 @@
   },
   "card_time": "09:48",
   "image_r2_key": "design/202611/20261118-apple-outage-app-store-icloud-v2.jpg"
- },
- {
-  "category": "finance",
-  "id": "20261119-gold-plunges-3-pct-14-month-low",
-  "published_at": "2026-11-19T06:31:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878368-20261119.htm"
-  },
-  "summary": {
-   "en": "Gold hit a near 14-month low as Federal Reserve meeting minutes and public remarks by officials sent hawkish signals, lifting rate-hike expectations and the dollar, weighing on bullion. Spot gold at one point fell below US$3,720 an ounce, down about 3.4%, before hovering around US$3,725. December gold futures in New York closed at US$3,741.9, down about 3.2%.",
-   "zh_hans": "金价创近14个月新低，联储局议息纪录及委员公开言论都发出鹰派讯号，推高加息预期，带动美元造好，不利金价表现。现货金一度跌穿每盎司3,720美元，跌约3.4%，其后徘徊3,725美元。纽约期金12月合约收报3,741.9美元，跌约3.2%。",
-   "zh_hant": "金價創近14個月新低，聯儲局議息紀錄及委員公開言論都發出鷹派訊號，推高加息預期，帶動美元造好，不利金價表現。現貨金一度跌穿每盎司3,720美元，跌約3.4%，其後徘徊3,725美元。紐約期金12月合約收報3,741.9美元，跌約3.2%。"
-  },
-  "tags": {
-   "en": [
-    "Gold",
-    "Federal Reserve",
-    "US dollar",
-    "Interest rates"
-   ],
-   "zh_hans": [
-    "金价",
-    "联储局",
-    "美元",
-    "利率"
-   ],
-   "zh_hant": [
-    "金價",
-    "聯儲局",
-    "美元",
-    "利率"
-   ]
-  },
-  "title": {
-   "en": "Gold plunges over 3% to near 14-month low as hawkish Fed signals lift the dollar",
-   "zh_hans": "金价急跌逾3%创14个月新低 联储局鹰派讯号推高美元",
-   "zh_hant": "金價急跌逾3%創14個月新低 聯儲局鷹派訊號推高美元"
-  },
-  "image_url": "",
-  "card_time": "06:31"
- },
- {
-  "category": "finance",
-  "id": "20261119-oil-slumps-5-pct-3-month-low",
-  "published_at": "2026-11-19T06:30:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878367-20261119.htm"
-  },
-  "summary": {
-   "en": "Oil prices fell again as data showed US crude and fuel inventories rising more than expected, deepening oversupply concerns. Brent crude for January fell as much as 3% to a low of US$90.34 a barrel before closing at US$91.95, down about 1.3%. NYMEX crude for December at one point plunged about 4.7%, breaking below US$82 a barrel to a near three-month low, before closing at US$83.26, down about 3.2%. US Energy Information Administration data showed gasoline inventories up about 5.2 million barrels last week, distillate inventories up about 1.6 million barrels and crude inventories up about 3.4 million barrels last week, all above expectations.",
-   "zh_hans": "油价再度转跌，数据显示美国原油及燃料库存增幅超出预期，加剧市场对供应过剩的担忧。布兰特期油1月合约最多跌3%，每桶低见90.34美元，收报91.95美元，跌约1.3%。纽约期油12月合约一度急挫约4.7%，跌穿82美元一桶，创近3个月新低，收报83.26美元，跌幅收窄至约3.2%。美国能源信息署数据显示，上星期汽油库存增加约520万桶，蒸馏油库存增加约160万桶，原油库存亦增加约340万桶，全部多于预期。",
-   "zh_hant": "油價再度轉跌，數據顯示美國原油及燃料庫存增幅超出預期，加劇市場對供應過剩的擔憂。布蘭特期油1月合約最多跌3%，每桶低見90.34美元，收報91.95美元，跌約1.3%。紐約期油12月合約一度急挫約4.7%，跌穿82美元一桶，創近3個月新低，收報83.26美元，跌幅收窄至約3.2%。美國能源信息署數據顯示，上星期汽油庫存增加約520萬桶，蒸餾油庫存增加約160萬桶，原油庫存亦增加約340萬桶，全部多於預期。"
-  },
-  "tags": {
-   "en": [
-    "Oil",
-    "Crude oil",
-    "Oversupply",
-    "EIA"
-   ],
-   "zh_hans": [
-    "油价",
-    "原油",
-    "供应过剩",
-    "美国能源信息署"
-   ],
-   "zh_hant": [
-    "油價",
-    "原油",
-    "供應過剩",
-    "美國能源信息署"
-   ]
-  },
-  "title": {
-   "en": "NYMEX crude tumbles nearly 5% to 3-month low as surging US inventories deepen oversupply fears",
-   "zh_hans": "纽约期油曾挫近5%创3个月新低 美国库存劲升加剧供应过剩忧虑",
-   "zh_hant": "紐約期油曾挫近5%創3個月新低 美國庫存勁升加劇供應過剩憂慮"
-  },
-  "image_url": "",
-  "card_time": "06:30"
- },
- {
-  "category": "finance",
-  "id": "20261119-hk-adr-tencent-alibaba-down-3-pct",
-  "published_at": "2026-11-19T06:12:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878366-20261119.htm"
-  },
-  "summary": {
-   "en": "Hong Kong stocks trading as American depositary receipts (ADRs) were mostly sharply lower. Tencent was sold off after its results and Alibaba was also under pressure ahead of its results, with both ADRs down about 3% from their Hong Kong closes — Tencent at the equivalent of HK$361.3 and Alibaba at HK$82.7. HSBC's ADR fell over 2% to the equivalent of HK$132.8, while Bank of China, HKEX, Ping An, Meituan and Xiaomi ADRs fell over 1% to about 2%. CCB and JD.com ADRs rose, but only modestly.",
-   "zh_hans": "港股美国预托证券（ADR）大多跌幅显著。腾讯业绩后股价捱沽，阿里巴巴业绩公布前亦受压，两者ADR都比本港昨日收市价跌约3%，以港元计，腾讯ADR折合报361.3元，阿里巴巴ADR折合报82.7元。汇控ADR跌逾2%，折合报132.8元；中行、港交所、平保、美团、小米ADR跌逾1%至约2%。建行及京东集团ADR则升，但升幅有限。",
-   "zh_hant": "港股美國預託證券（ADR）大多跌幅顯著。騰訊業績後股價捱沽，阿里巴巴業績公布前亦受壓，兩者ADR都比本港昨日收市價跌約3%，以港元計，騰訊ADR折合報361.3元，阿里巴巴ADR折合報82.7元。滙控ADR跌逾2%，折合報132.8元；中行、港交所、平保、美團、小米ADR跌逾1%至約2%。建行及京東集團ADR則升，但升幅有限。"
-  },
-  "tags": {
-   "en": [
-    "Hong Kong stocks",
-    "ADR",
-    "Tencent",
-    "Alibaba"
-   ],
-   "zh_hans": [
-    "港股",
-    "美国预托证券",
-    "腾讯",
-    "阿里巴巴"
-   ],
-   "zh_hant": [
-    "港股",
-    "美國預託證券",
-    "騰訊",
-    "阿里巴巴"
-   ]
-  },
-  "title": {
-   "en": "Hong Kong ADRs mostly lower, Tencent and Alibaba down about 3%",
-   "zh_hans": "港股ADR大多捱沽 腾讯阿里巴巴跌约3%",
-   "zh_hant": "港股ADR大多捱沽 騰訊阿里巴巴跌約3%"
-  },
-  "image_url": "",
-  "card_time": "06:12"
- },
- {
-  "category": "finance",
-  "id": "20261119-us-stocks-dow-down-561-nasdaq-up-nvidia",
-  "published_at": "2026-11-19T05:51:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878364-20261119.htm"
-  },
-  "summary": {
-   "en": "The three major US indices moved in different directions after Federal Reserve minutes showed officials were already leaning towards a rate hike — even by 0.5 percentage points — before data showed inflation heating up. The Dow tested the 50,000 level, falling as much as 730 points before closing at 50,198, down 561 points or 1.1%, a third straight daily fall and an over five-month low. The S&P 500 fell for a fifth straight session to 7,323, down over 0.2% to a near four-month low, while the Nasdaq rebounded to 24,429, up over 0.4%. Nvidia fell nearly 3%, down for five straight sessions and about 37% below its early-October closing record high.",
-   "zh_hans": "美股三大指数个别发展，联储局会议纪录显示，在数据显示通胀升温前，委员已倾向加息，甚至认为需要加息0.5厘。道琼斯指数下试5万点关口，最多跌730点，收报50,198点，跌561点，跌幅1.1%，连跌3日，创逾5个月新低。标普500指数五连跌，收报7,323点，跌逾0.2%，创近4个月低位；纳斯达克指数反弹，收报24,429点，升逾0.4%。Nvidia股价低收近3%，连跌5个交易日，较10月初创下的收市纪录高位累计回吐约37%。",
-   "zh_hant": "美股三大指數個別發展，聯儲局會議紀錄顯示，在數據顯示通脹升溫前，委員已傾向加息，甚至認為需要加息0.5厘。道瓊斯指數下試5萬點關口，最多跌730點，收報50,198點，跌561點，跌幅1.1%，連跌3日，創逾5個月新低。標普500指數五連跌，收報7,323點，跌逾0.2%，創近4個月低位；納斯達克指數反彈，收報24,429點，升逾0.4%。Nvidia股價低收近3%，連跌5個交易日，較10月初創下的收市紀錄高位累計回吐約37%。"
-  },
-  "tags": {
-   "en": [
-    "US stocks",
-    "Dow Jones",
-    "Nvidia",
-    "Federal Reserve",
-    "Nasdaq"
-   ],
-   "zh_hans": [
-    "美股",
-    "道琼斯指数",
-    "Nvidia",
-    "联储局",
-    "纳斯达克指数"
-   ],
-   "zh_hant": [
-    "美股",
-    "道瓊斯指數",
-    "Nvidia",
-    "聯儲局",
-    "納斯達克指數"
-   ]
-  },
-  "title": {
-   "en": "Dow drops 561 points for third straight fall to over 5-month low, Nasdaq rebounds while Nvidia keeps falling",
-   "zh_hans": "道指泻561点连跌三日创逾5个月低 纳指反弹Nvidia续跌",
-   "zh_hant": "道指瀉561點連跌三日創逾5個月低 納指反彈Nvidia續跌"
-  },
-  "image_url": "",
-  "card_time": "05:51"
- },
- {
-  "category": "world",
-  "id": "20261119-apec-china-russia-us-trilateral-meeting-today",
-  "published_at": "2026-11-19T05:46:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878362-20261119.htm"
-  },
-  "summary": {
-   "en": "President Xi Jinping, Russian President Vladimir Putin and US President Donald Trump will hold trilateral talks in Shenzhen today. China's foreign ministry said the three leaders will exchange views in depth on major issues concerning global peace. Kremlin spokesman Dmitry Peskov expects the meeting to last no more than an hour, while Russian presidential aide Yuri Ushakov said the three leaders will decide for themselves how long the discussion runs.",
-   "zh_hans": "国家主席习近平、俄罗斯总统普京及美国总统特朗普，今日将在深圳举行三方会谈。外交部表示，三国元首将就事关全球和平的重要问题深入交换意见。克里姆林宫发言人佩斯科夫预计会晤不会超过一小时，俄罗斯总统助理乌沙科夫则表示，三人将自行决定讨论持续多久。",
-   "zh_hant": "國家主席習近平、俄羅斯總統普京及美國總統特朗普，今日將在深圳舉行三方會談。外交部表示，三國元首將就事關全球和平的重要問題深入交換意見。克里姆林宮發言人佩斯科夫預計會晤不會超過一小時，俄羅斯總統助理烏沙科夫則表示，三人將自行決定討論持續多久。"
-  },
-  "tags": {
-   "en": [
-    "APEC",
-    "China-Russia-US trilateral",
-    "Shenzhen",
-    "Xi Jinping",
-    "Donald Trump"
-   ],
-   "zh_hans": [
-    "亚太经合组织",
-    "中俄美三方会谈",
-    "深圳",
-    "习近平",
-    "特朗普"
-   ],
-   "zh_hant": [
-    "亞太經合組織",
-    "中俄美三方會談",
-    "深圳",
-    "習近平",
-    "特朗普"
-   ]
-  },
-  "title": {
-   "en": "Xi, Putin and Trump to hold trilateral talks in Shenzhen today, focusing on major global peace issues",
-   "zh_hans": "中俄美元首今日深圳三方会谈 聚焦全球和平重大问题",
-   "zh_hant": "中俄美元首今日深圳三方會談 聚焦全球和平重大問題"
-  },
-  "image_url": "",
-  "card_time": "05:46"
- },
- {
-  "category": "world",
-  "id": "20261119-putin-trump-bilateral-apec-shenzhen",
-  "published_at": "2026-11-19T05:17:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878361-20261119.htm"
-  },
-  "summary": {
-   "en": "US and Russian officials say US President Donald Trump is expected to meet Russian President Vladimir Putin bilaterally during the APEC summit in Shenzhen today, before joining Chinese President Xi Jinping for trilateral talks. Kremlin spokesman Dmitry Peskov said the two will hold a bilateral meeting but no full-scale bilateral negotiations are planned. Russian presidential aide Yuri Ushakov said the meeting will take place after the APEC plenary session, with several members of both delegations expected to attend.",
-   "zh_hans": "美国和俄罗斯官员表示，美国总统特朗普今日在深圳举行的亚太经合组织峰会期间，预料会与俄罗斯总统普京举行双边会谈，随后还将与中国国家主席习近平举行三方会晤。克里姆林宫发言人佩斯科夫表示，两人将举行双边会谈，但不会安排全面双边谈判。俄罗斯总统助理乌沙科夫表示，会晤将在亚太经合组织全体会议结束后举行，俄美代表团数名成员预计将出席。",
-   "zh_hant": "美國和俄羅斯官員表示，美國總統特朗普今日在深圳舉行的亞太經合組織峰會期間，預料會與俄羅斯總統普京舉行雙邊會談，隨後還將與中國國家主席習近平舉行三方會晤。克里姆林宮發言人佩斯科夫表示，兩人將舉行雙邊會談，但不會安排全面雙邊談判。俄羅斯總統助理烏沙科夫表示，會晤將在亞太經合組織全體會議結束後舉行，俄美代表團數名成員預計將出席。"
-  },
-  "tags": {
-   "en": [
-    "APEC",
-    "Putin",
-    "Donald Trump",
-    "Shenzhen",
-    "US-Russia"
-   ],
-   "zh_hans": [
-    "亚太经合组织",
-    "普京",
-    "特朗普",
-    "深圳",
-    "美俄关系"
-   ],
-   "zh_hant": [
-    "亞太經合組織",
-    "普京",
-    "特朗普",
-    "深圳",
-    "美俄關係"
-   ]
-  },
-  "title": {
-   "en": "Putin and Trump expected to meet bilaterally during APEC summit, but no full-scale talks planned, Russia says",
-   "zh_hans": "普京特朗普峰会期间料单独会晤 俄方称不设全面谈判",
-   "zh_hant": "普京特朗普峰會期間料單獨會晤 俄方稱不設全面談判"
-  },
-  "image_url": "",
-  "card_time": "05:17"
- },
- {
-  "category": "hk",
-  "id": "20261118-ha-chief-apologises-wrong-ovary-removal",
-  "published_at": "2026-11-18T20:30:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878336-20261118.htm"
-  },
-  "summary": {
-   "en": "A 45-year-old woman had both ovaries wrongly removed during laparoscopic surgery to remove her uterus and fallopian tubes at CUHK Medical Centre. Consultant gynaecological oncologist Dr Cheung Tak-hong told RTHK he was the operating surgeon, describing the incident as an error that should not have happened — a very basic mistake that should not have been made — and saying he is deeply sorry. He said he explained the situation to the patient and her family the same evening and apologised again at a meeting the next day, pledging to look after her; the patient has accepted his apology and chosen to remain under his care. Cheung said the patient can live normally with appropriate treatment and medication.",
-   "zh_hans": "一名45岁女病人在中大医院接受腹腔镜子宫及双侧输卵管切除手术期间，两边卵巢被错误切除。中大医院顾问医生、妇科肿瘤科专科医生张德康接受本台访问时承认，他是当日施手术的医生，形容事故是不应该发生、很低级、不应该犯的错误，深感抱歉。他表示，当晚已立即与病人及家人说明情况，翌日再次在会面上承认错误并道歉，承诺会尽量照顾病人；病人已接受道歉，并选择继续由他跟进及照顾。张德康表示，病人接受适当治疗、药物后可以正常生活，不受事件影响。",
-   "zh_hant": "一名45歲女病人在中大醫院接受腹腔鏡子宮及雙側輸卵管切除手術期間，兩邊卵巢被錯誤切除。中大醫院顧問醫生、婦科腫瘤科專科醫生張德康接受本台訪問時承認，他是當日施手術的醫生，形容事故是不應該發生、很低級、不應該犯的錯誤，深感抱歉。他表示，當晚已立即與病人及家人說明情況，翌日再次在會面上承認錯誤並道歉，承諾會盡量照顧病人；病人已接受道歉，並選擇繼續由他跟進及照顧。張德康表示，病人接受適當治療、藥物後可以正常生活，不受事件影響。"
-  },
-  "tags": {
-   "en": [
-    "CUHK Medical Centre",
-    "Medical incident",
-    "Apology",
-    "Hong Kong"
-   ],
-   "zh_hans": [
-    "中大医院",
-    "医疗事故",
-    "道歉",
-    "香港"
-   ],
-   "zh_hant": [
-    "中大醫院",
-    "醫療事故",
-    "道歉",
-    "香港"
-   ]
-  },
-  "title": {
-   "en": "Doctor admits wrongly removing patient's ovaries was a basic error, apologises and pledges follow-up care",
-   "zh_hans": "医生承认错切病人双卵巢属低级错误 深感抱歉兼承诺跟进",
-   "zh_hant": "醫生承認錯切病人雙卵巢屬低級錯誤 深感抱歉兼承諾跟進"
-  },
-  "image_url": "",
-  "card_time": "20:30"
  }
 ]
