@@ -1656,7 +1656,7 @@
   "card_time": "2026-11-18 20:10",
   "category": "world",
   "id": "20261118-xi-apec-welcome-banquet-toast",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-xi-apec-welcome-banquet-toast-v2.jpg",
   "published_at": "2026-11-18T20:10:00+08:00",
   "source": {
    "name": "香港電台",
@@ -1688,13 +1688,14 @@
    "en": "Xi Hosts APEC Leaders' Welcome Banquet in Shenzhen as Leaders' Meeting to Discuss Wider Opening Tomorrow",
    "zh_hans": "习近平深圳设宴迎APEC领袖 明日领导人会议商扩大开放",
    "zh_hant": "習近平深圳設宴迎APEC領袖 明日領導人會議商擴大開放"
-  }
+  },
+  "image_r2_key": "design/202611/20261118-xi-apec-welcome-banquet-toast-v2.jpg"
  },
  {
   "card_time": "2026-11-18 19:58",
   "category": "finance",
   "id": "20261118-hkex-two-managing-directors-market-surveillance",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-hkex-two-managing-directors-market-surveillance-v2.jpg",
   "published_at": "2026-11-18T19:58:00+08:00",
   "source": {
    "name": "Dimsum Daily",
@@ -1726,13 +1727,14 @@
    "en": "HKEX Appoints Two Managing Directors to Strengthen Market Surveillance Against Cyber Threats",
    "zh_hans": "港交所委任两名董事总经理 强化市场监察应对网络威胁",
    "zh_hant": "港交所委任兩名董事總經理 強化市場監察應對網絡威脅"
-  }
+  },
+  "image_r2_key": "design/202611/20261118-hkex-two-managing-directors-market-surveillance-v2.jpg"
  },
  {
   "card_time": "2026-11-18 18:50",
   "category": "hk",
   "id": "20261118-gba-entrepreneur-day-nov-19-20",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-gba-entrepreneur-day-nov-19-20-v2.jpg",
   "published_at": "2026-11-18T18:50:00+08:00",
   "source": {
    "name": "政府新聞處",
@@ -1764,13 +1766,14 @@
    "en": "Entrepreneur Day Opens Tomorrow With GBA Office Booth to Help Hong Kong Youth Start Up Across the Bay",
    "zh_hans": "创业日明开锣 大湾区办设摊助港青北上创业",
    "zh_hant": "創業日明開鑼 大灣區辦設攤助港青北上創業"
-  }
+  },
+  "image_r2_key": "design/202611/20261118-gba-entrepreneur-day-nov-19-20-v2.jpg"
  },
  {
   "card_time": "2026-11-18 18:00",
   "category": "finance",
   "id": "20261118-banking-bill-passed-two-tier-system",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-banking-bill-passed-two-tier-system-v2.jpg",
   "published_at": "2026-11-18T18:00:00+08:00",
   "source": {
    "name": "政府新聞處",
@@ -1802,7 +1805,8 @@
    "en": "Legislative Council Passes Banking Bill Simplifying Three-Tier System to Two Tiers From January 2027",
    "zh_hans": "立法会通过银行业修例 三级制变两级制 明年1月起分阶段实施",
    "zh_hant": "立法會通過銀行業修例 三級制變兩級制 明年1月起分階段實施"
-  }
+  },
+  "image_r2_key": "design/202611/20261118-banking-bill-passed-two-tier-system-v2.jpg"
  },
  {
   "card_time": "2026-11-18 16:16",
@@ -2074,7 +2078,7 @@
   "card_time": "2026-11-18 14:41",
   "category": "hk",
   "id": "20261118-hailey-cheng-doxxing-charges-medisafe",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-hailey-cheng-doxxing-charges-medisafe-v2.jpg",
   "published_at": "2026-11-18T14:41:00+08:00",
   "source": {
    "name": "Dimsum Daily",
@@ -2106,7 +2110,8 @@
    "en": "MediSafe Whistle-blower Hailey Cheng Charged With Four Doxxing Offences, Faces Up to Five Years' Jail",
    "zh_hans": "MediSafe吹哨者被控4项起诉罪 最高囚5年罚100万",
    "zh_hant": "MediSafe吹哨者被控4項起訴罪 最高囚5年罰100萬"
-  }
+  },
+  "image_r2_key": "design/202611/20261118-hailey-cheng-doxxing-charges-medisafe-v2.jpg"
  },
  {
   "card_time": "2026-11-18 14:24",
