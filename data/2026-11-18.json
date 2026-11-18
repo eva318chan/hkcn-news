@@ -124,7 +124,7 @@
    "name": "香港電台",
    "url": "https://news.rthk.hk/rthk/ch/component/k2/1878247-20261118.htm"
   },
-  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-mtr-island-line-signal-fault-v2.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-mtr-island-line-signal-fault-v3.jpg",
   "title": {
    "en": "Signalling Fault Near HKU Station Slows Island Line Trains — Chai Wan-Bound Journeys Take 3 to 5 Minutes Longer",
    "zh_hant": "港鐵香港大學站信號設備故障 港島綫列車須慢駛 往柴灣方向行車時間多3至5分鐘",
@@ -153,7 +153,8 @@
    ]
   },
   "card_time": "2026-11-18 10:22",
-  "image_r2_key": "design/202611/20261118-mtr-island-line-signal-fault-v2.jpg"
+  "image_r2_key": "design/202611/20261118-mtr-island-line-signal-fault-v3.jpg",
+  "image_prompt": "事實：港鐵香港大學站附近信號設備故障，港島綫列車須慢駛，往柴灣方向行車時間多3至5分鐘，往堅尼地城方向已恢復正常班次。場景：港鐵車站月台，一列列車埋站，乘客剪影候車，站內燈光明亮。列車必須係不鏽鋼銀色車身配深藍色帶同深藍色車門，車頭有細小紅色港鐵標誌，絕對唔可以係淺藍色或全藍色車身。風格：本地民生新聞，寫實清晰。格式：電視新聞圖卡風格，16:9，大字標題兩層，第一行事件白字，第二行後果／影響黃字，兩行互相呼應；字體有層次，大標題加細副標；主體放右邊，標題放左邊；右下角細字「AI設計圖片」標籤，必須貼住圖片右下角，完整清晰，唔可以遮住主體內容。圖上面除咗標題同圖片本身，絕對唔准寫任何尺寸數字、量度標註、說明文字或其他字眼。標題文字第一行：「港鐵香港大學站信號設備故障 港島綫列車須慢駛」，第二行：「往柴灣方向行車時間多3至5分鐘」。"
  },
  {
   "id": "20261118-bodw-opening-rosanna-law-speech",
@@ -1432,5 +1433,89 @@
    ]
   },
   "card_time": "2026-11-18 08:07"
+ },
+ {
+  "id": "20261118-asean-summit-manila-to-shenzhen-apec",
+  "category": "world",
+  "published_at": "2026-11-18T13:50:00+08:00",
+  "card_time": "2026-11-18 13:50",
+  "source": {
+   "name": "香港都市日報",
+   "url": "https://metrohk.com.hk/國際/東盟峰會馬尼拉落幕-南海行為準則未成-5c6463"
+  },
+  "title": {
+   "zh_hant": "東盟峰會馬尼拉落幕 多國領袖轉場深圳APEC 南海準則留待新加坡接力",
+   "zh_hans": "东盟峰会马尼拉落幕 多国领袖转场深圳APEC 南海准则留待新加坡接力",
+   "en": "ASEAN Summit Closes in Manila as Leaders Head to Shenzhen for APEC; Sea Code Talks Pass to Singapore"
+  },
+  "summary": {
+   "zh_hant": "第49屆東盟峰會及系列會議在菲律賓馬尼拉閉幕。峰會簽署《東盟數字經濟框架協議》，預計2027年初生效，為區域數字貿易立新規矩；與中國的《南海行為準則》磋商取得進展，約八成內容達成共識，未竟部分留待明年接任主席國的新加坡繼續推進。緬甸軍政府領袖繼續被排除在峰會之外；東帝汶首次以第11個成員國身份與會。峰會結束後，多國領袖即轉往深圳，出席11月18至19日舉行的亞太經合組織領導人非正式會議，兩場峰會無縫銜接。",
+   "zh_hans": "第49届东盟峰会及系列会议在菲律宾马尼拉闭幕。峰会签署《东盟数字经济框架协议》，预计2027年初生效，为区域数字贸易立新规矩；与中国的《南海行为准则》磋商取得进展，约八成内容达成共识，未竟部分留待明年接任主席国的新加坡继续推进。缅甸军政府领袖继续被排除在峰会之外；东帝汶首次以第11个成员国身份与会。峰会结束后，多国领袖即转往深圳，出席11月18至19日举行的亚太经合组织领导人非正式会议，两场峰会无缝衔接。",
+   "en": "The 49th ASEAN Summit and Related Summits closed in Manila. Leaders signed the ASEAN Digital Economy Framework Agreement, expected to take effect in early 2027, setting new rules for regional digital trade; talks with China on a South China Sea code of conduct made progress, with about 80 percent agreed, and the remainder passes to Singapore, which takes the chair in 2027. Myanmar's junta leaders remain excluded from the summit, while Timor-Leste attended for the first time as the 11th member. Leaders then headed straight to Shenzhen for the APEC Economic Leaders' Meeting on November 18-19."
+  },
+  "tags": {
+   "zh_hant": [
+    "東盟",
+    "APEC",
+    "深圳",
+    "南海"
+   ],
+   "zh_hans": [
+    "东盟",
+    "APEC",
+    "深圳",
+    "南海"
+   ],
+   "en": [
+    "ASEAN",
+    "APEC",
+    "Shenzhen",
+    "South China Sea"
+   ]
+  },
+  "image_url": "",
+  "image_prompt": "事實：第49屆東盟峰會在馬尼拉閉幕，簽署數字經濟框架協議，南海行為準則磋商有進展，多國領袖轉往深圳出席APEC領導人會議。場景：馬尼拉國際會議中心外景，東盟旗幟飄揚，遠景深圳灣區摩天大樓天際線。風格：莊重專業、寫實新聞風。格式：電視新聞圖卡風格，16:9，大字標題分兩行，第一行講事件用白字，第二行講後果及影響用黃字，兩行互相呼應，字體有層次，構圖主體放右邊；標題文字必須係一個連續完整嘅整體，只出現一次，唔可以重複，唔可以被任何物件遮住或分隔；右下角「AI設計圖片」六字細版標籤貼住圖片右下角，必須完整清晰。圖上面除咗標題同圖片本身，絕對唔准寫任何其他字眼。人物用領袖背影剪影，唔好捏造具體人臉。標題第一行：東盟峰會馬尼拉落幕；標題第二行：多國領袖轉場深圳APEC"
+ },
+ {
+  "id": "20261118-us-china-russia-trilateral-shenzhen-nov-19",
+  "category": "world",
+  "published_at": "2026-11-18T13:50:00+08:00",
+  "card_time": "2026-11-18 13:50",
+  "source": {
+   "name": "新華社",
+   "url": "https://mdaily.hangzhou.com.cn/hzrb/2026/11/17/article_detail_1_20261117A042.html"
+  },
+  "title": {
+   "zh_hant": "中美俄元首明日深圳首度同場 聚焦世界和平與戰略穩定",
+   "zh_hans": "中美俄元首明日深圳首度同场 聚焦世界和平与战略稳定",
+   "en": "Xi, Trump and Putin to Hold First-Ever Trilateral Meeting in Shenzhen Tomorrow, Focusing on World Peace and Strategic Stability"
+  },
+  "summary": {
+   "zh_hant": "中國外交部宣布，11月19日，國家主席習近平將同俄羅斯總統普京、美國總統特朗普在深圳舉行中俄美元首會晤。這是三國元首歷史上首次面對面會晤，將圍繞維護世界和平、促進大國關係戰略穩定深入交換意見，具有開創性意義。中俄美都是聯合國創始會員國和安理會常任理事國，歷史上曾並肩贏得世界反法西斯戰爭的勝利。會晤在亞太經合組織領導人會議場邊舉行，不屬於APEC正式議程。美方表示將提出削減核武器、伊朗等議題；特朗普17日先赴馬尼拉出席東盟峰會，18日轉往深圳。",
+   "zh_hans": "中国外交部宣布，11月19日，国家主席习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。这是三国元首历史上首次面对面会晤，将围绕维护世界和平、促进大国关系战略稳定深入交换意见，具有开创性意义。中俄美都是联合国创始会员国和安理会常任理事国，历史上曾并肩赢得世界反法西斯战争的胜利。会晤在亚太经合组织领导人会议场边举行，不属于APEC正式议程。美方表示将提出削减核武器、伊朗等议题；特朗普17日先赴马尼拉出席东盟峰会，18日转往深圳。",
+   "en": "China's Foreign Ministry has announced that President Xi Jinping will meet Russian President Vladimir Putin and US President Donald Trump in Shenzhen on November 19 for a China-Russia-US leaders' meeting. It will be the first face-to-face meeting of the three leaders in history, with in-depth exchanges on safeguarding world peace and promoting strategic stability among major countries — a meeting of ground-breaking significance. China, Russia and the United States are all founding members of the United Nations and permanent members of the Security Council, and stood together to win the World Anti-Fascist War. The meeting takes place on the sidelines of the APEC Economic Leaders' Meeting and is not part of APEC's formal agenda. The US side says it will raise nuclear arms reduction and Iran; Trump first went to Manila for the ASEAN summit on November 17 before heading to Shenzhen on the 18th."
+  },
+  "tags": {
+   "zh_hant": [
+    "中美俄",
+    "APEC",
+    "深圳",
+    "習近平"
+   ],
+   "zh_hans": [
+    "中美俄",
+    "APEC",
+    "深圳",
+    "习近平"
+   ],
+   "en": [
+    "China",
+    "United States",
+    "Russia",
+    "APEC"
+   ]
+  },
+  "image_url": "",
+  "image_prompt": "事實：中美俄三國元首11月19日在深圳首次面對面會晤，圍繞維護世界和平、促進大國關係戰略穩定深入交換意見。場景：深圳國際會議中心外景夜景，燈光璀璨，三面旗幟並列。風格：莊重專業、寫實新聞風。格式：電視新聞圖卡風格，16:9，大字標題分兩行，第一行講事件用白字，第二行講後果及影響用黃字，兩行互相呼應，字體有層次，構圖主體放右邊；標題文字必須係一個連續完整嘅整體，只出現一次，唔可以重複，唔可以被任何物件遮住或分隔；右下角「AI設計圖片」六字細版標籤貼住圖片右下角，必須完整清晰。圖上面除咗標題同圖片本身，絕對唔准寫任何其他字眼。唔好畫任何領袖人臉，只畫會場建築同旗幟。標題第一行：中美俄元首明日深圳首度同場；標題第二行：聚焦世界和平與戰略穩定"
  }
 ]
