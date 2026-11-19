@@ -1,5 +1,134 @@
 [
  {
+  "category": "china",
+  "id": "20261119-xi-apec-20m-funding",
+  "published_at": "2026-11-19T10:29:00+08:00",
+  "source": {
+   "name": "RTHK",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878399-20261119.htm"
+  },
+  "summary": {
+   "en": "President Xi Jinping chaired the 33rd APEC Economic Leaders' Informal Meeting in Shenzhen and announced that China will provide US$20 million to fund practical APEC cooperation. China will also set up an APEC Community research centre in Shenzhen to carry out policy research and exchanges. Xi said China will work with all parties to build the Asia-Pacific community around four pillars: trade, connectivity, innovation and development, including new cooperation bodies in digital technology, cross-border data flows, clean energy and small business development.",
+   "zh_hans": "国家主席习近平在深圳主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话，宣布中方将提供2000万美元，资助开展亚太经合组织务实合作，并将在深圳设立亚太共同体研究中心，开展政策研究和交流。习近平表示，中方愿同各方携手搭建亚太共同体的“四梁八柱”，包括强化经贸、联通、创新和发展四大支柱，并在数字技术、数据跨境流动、清洁能源和中小企业发展等领域设立合作机构。",
+   "zh_hant": "國家主席習近平在深圳主持亞太經合組織第三十三次領導人非正式會議並發表重要講話，宣布中方將提供2000萬美元，資助開展亞太經合組織務實合作，並將在深圳設立亞太共同體研究中心，開展政策研究和交流。習近平表示，中方願同各方攜手搭建亞太共同體的「四梁八柱」，包括強化經貿、聯通、創新和發展四大支柱，並在數字技術、數據跨境流動、清潔能源和中小企業發展等領域設立合作機構。"
+  },
+  "tags": {
+   "en": [
+    "APEC",
+    "Xi Jinping",
+    "Shenzhen",
+    "China"
+   ],
+   "zh_hans": [
+    "APEC",
+    "习近平",
+    "深圳",
+    "中国"
+   ],
+   "zh_hant": [
+    "APEC",
+    "習近平",
+    "深圳",
+    "中國"
+   ]
+  },
+  "title": {
+   "en": "Xi pledges US$20 million for APEC cooperation as Shenzhen summit opens, research centre to be set up in the city",
+   "zh_hans": "习近平深圳主持APEC峰会 宣布掏2000万美元资助合作 深圳设研究中心",
+   "zh_hant": "習近平深圳主持APEC峰會 宣布掏2000萬美元資助合作 深圳設研究中心"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-xi-apec-20m-funding-v2.jpg",
+  "card_time": "10:29",
+  "image_r2_key": "design/202611/20261119-xi-apec-20m-funding-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261119-cuhk-hospital-wrong-ovary-measures",
+  "published_at": "2026-11-19T10:14:00+08:00",
+  "source": {
+   "name": "RTHK",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878393-20261119.htm"
+  },
+  "summary": {
+   "en": "CUHK Hospital chief executive Chung Kin-lai has given a fresh account of how a woman lost both ovaries by mistake during laparoscopic surgery, telling RTHK's Millennium programme that the surgeon lost focus after taking 15 to 20 minutes to get the laparoscope into position. The hospital has now introduced new safeguards, including a paper listing the most important steps placed under the laparoscope screen and nurses reminding doctors at key stages, measures that will be extended to other operations. Disciplinary proceedings against the surgeon, gynaecological oncology specialist Dr Cheung Tak-hong, are under way and the outcome will be told to the patient and her family.",
+   "zh_hans": "中大医院行政总裁钟健礼在港台节目《千禧年代》再次就女病人被错切卵巢事件致歉，并亲述事发经过：负责手术的医生利用腹腔镜进入手术位置时出现困难，需要15至20分钟，之后专注力突然降低，然后出错。医院现时已采取防错措施，包括在腹腔镜手术的镜头屏幕下贴纸张，列出手术最重要步骤提醒医生，重要步骤护士亦会提醒医生，并将措施扩展至其他手术。涉事医生、妇科肿瘤科专科医生张德康的惩处问题，院方正进行人事程序，会将惩处告知病人及家属。",
+   "zh_hant": "中大醫院行政總裁鍾健禮在港台節目《千禧年代》再次就女病人被錯切卵巢事件致歉，並親述事發經過：負責手術的醫生利用腹腔鏡進入手術位置時出現困難，需要15至20分鐘，之後專注力突然降低，然後出錯。醫院現時已採取防錯措施，包括在腹腔鏡手術的鏡頭屏幕下貼紙張，列出手術最重要步驟提醒醫生，重要步驟護士亦會提醒醫生，並將措施擴展至其他手術。涉事醫生、婦科腫瘤科專科醫生張德康的懲處問題，院方正進行人事程序，會將懲處告知病人及家屬。"
+  },
+  "tags": {
+   "en": [
+    "CUHK Hospital",
+    "medical blunder",
+    "healthcare",
+    "Hong Kong"
+   ],
+   "zh_hans": [
+    "中大医院",
+    "医疗事故",
+    "医疗",
+    "香港"
+   ],
+   "zh_hant": [
+    "中大醫院",
+    "醫療事故",
+    "醫療",
+    "香港"
+   ]
+  },
+  "title": {
+   "en": "Surgeon 'lost focus' in wrong-ovary blunder, CUHK Hospital chief reveals, as new safety checks rolled out",
+   "zh_hans": "错切卵巢医生手术中“失神” 中大医院院长亲述经过 新防错措施已上路",
+   "zh_hant": "錯切卵巢醫生手術中「失神」 中大醫院院長親述經過 新防錯措施已上路"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-cuhk-hospital-wrong-ovary-measures-v2.jpg",
+  "card_time": "10:14",
+  "image_r2_key": "design/202611/20261119-cuhk-hospital-wrong-ovary-measures-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261119-trump-no-china-russia-help-iran",
+  "published_at": "2026-11-19T09:17:00+08:00",
+  "source": {
+   "name": "Interfax",
+   "url": "https://www.interfax.ru/world/1129968"
+  },
+  "summary": {
+   "en": "US President Donald Trump has said he will not ask China or Russia for help in ending the war with Iran, telling Fox News in Shenzhen: \"We don't need any help.\" Speaking before Thursday's trilateral meeting with Xi Jinping and Vladimir Putin, Trump said Iran wants a deal and claimed the United States has defeated Iran's navy, air force and army and now has full control of the Strait of Hormuz. He added that Tehran has treated Washington well, saying Iran has not fired on American forces or sunk American ships.",
+   "zh_hans": "美国总统特朗普在深圳接受福斯新闻访问时表示，不会寻求中国或俄罗斯协助结束与伊朗的战事，称“我们不需要任何帮助”。特朗普在周四与习近平和普京举行三方会谈前表示，伊朗希望达成协议，又声称美国已击败伊朗海军、空军和陆军，现时完全掌控荷姆兹海峡。他又说，伊朗对美国态度很好，既没有向美军开火，也没有击沉美方船只。",
+   "zh_hant": "美國總統特朗普在深圳接受霍士新聞訪問時表示，不會尋求中國或俄羅斯協助結束與伊朗的戰事，稱「我們不需要任何幫助」。特朗普在周四與習近平和普京舉行三方會談前表示，伊朗希望達成協議，又聲稱美國已擊敗伊朗海軍、空軍和陸軍，現時完全掌控荷姆茲海峽。他又說，伊朗對美國態度很好，既沒有向美軍開火，也沒有擊沉美方船隻。"
+  },
+  "tags": {
+   "en": [
+    "Trump",
+    "Iran",
+    "China",
+    "Russia",
+    "APEC"
+   ],
+   "zh_hans": [
+    "特朗普",
+    "伊朗",
+    "中国",
+    "俄罗斯",
+    "APEC"
+   ],
+   "zh_hant": [
+    "特朗普",
+    "伊朗",
+    "中國",
+    "俄羅斯",
+    "APEC"
+   ]
+  },
+  "title": {
+   "en": "Trump says he won't ask China or Russia for help ending the Iran war, claiming US already controls the Strait of Hormuz",
+   "zh_hans": "特朗普：不会求中俄帮手结束伊朗战事 扬言美军已掌控荷姆兹海峡",
+   "zh_hant": "特朗普：唔會求中俄幫手結束伊朗戰事 揚言美軍已掌控荷姆茲海峽"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-trump-no-china-russia-help-iran-v2.jpg",
+  "card_time": "09:17",
+  "image_r2_key": "design/202611/20261119-trump-no-china-russia-help-iran-v2.jpg"
+ },
+ {
   "id": "20261119-london-eto-slush-2026-it-opportunities",
   "category": "hk",
   "published_at": "2026-11-19T09:00:00+08:00",
@@ -211,6 +340,51 @@
   "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-us-report-pla-seeking-nvidia-ai-chips-v2.jpg",
   "card_time": "07:34",
   "image_r2_key": "design/202611/20261119-us-report-pla-seeking-nvidia-ai-chips-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261119-lee-jae-myung-putin-first-meeting",
+  "published_at": "2026-11-19T07:22:31+08:00",
+  "source": {
+   "name": "Yonhap News Agency",
+   "url": "https://m-cn.yna.co.kr/view/ACK20261119000100881"
+  },
+  "summary": {
+   "en": "South Korean President Lee Jae-myung met Russian President Vladimir Putin in Shenzhen on November 18, their first meeting since Lee took office and the first face-to-face encounter between South Korean and Russian leaders in about seven and a half years. According to a senior presidential office official, the two spoke for about 10 minutes at the APEC leaders' welcome banquet hosted by Xi Jinping, agreeing to seek cooperation where possible, manage bilateral ties, and prevent the situation on the Korean Peninsula from worsening, with a brief exchange on North Korea's nuclear weapons development. Lee also spoke with US President Donald Trump across the table about future diplomatic schedules and South Korea-US cooperation, without directly raising US-North Korea dialogue.",
+   "zh_hans": "韩国总统李在明11月18日在深圳会见俄罗斯总统普京，是李在明就任以来首次与普京会面，也是韩俄领导人约七年半以来首次面对面接触。据青瓦台一名高官透露，两人在习近平主办的APEC欢迎晚宴上交谈约10分钟，先就韩俄关系交换意见，同意求同存异、维护好双边关系，并就防止朝鲜半岛局势恶化、缓解紧张的必要性形成共识，从该角度出发就朝鲜发展核武等涉朝问题进行简短交流。李在明席间亦与坐在对面的美国总统特朗普交谈，主要讨论今后外交日程和韩美合作问题，未直接谈及朝美对话。",
+   "zh_hant": "韓國總統李在明11月18日在深圳會見俄羅斯總統普京，是李在明就任以來首次與普京會面，也是韓俄領導人約七年半以來首次面對面接觸。據青瓦台一名高官透露，兩人在習近平主辦的APEC歡迎晚宴上交談約10分鐘，先就韓俄關係交換意見，同意求同存異、維護好雙邊關係，並就防止朝鮮半島局勢惡化、緩解緊張的必要性形成共識，從該角度出發就朝鮮發展核武等涉朝問題進行簡短交流。李在明席間亦與坐在對面的美國總統特朗普交談，主要討論今後外交日程和韓美合作問題，未直接談及朝美對話。"
+  },
+  "tags": {
+   "en": [
+    "Lee Jae-myung",
+    "Putin",
+    "APEC",
+    "North Korea",
+    "South Korea"
+   ],
+   "zh_hans": [
+    "李在明",
+    "普京",
+    "APEC",
+    "朝鲜",
+    "韩国"
+   ],
+   "zh_hant": [
+    "李在明",
+    "普京",
+    "APEC",
+    "朝鮮",
+    "韓國"
+   ]
+  },
+  "title": {
+   "en": "Lee Jae-myung meets Putin for the first time at APEC banquet, talks last 10 minutes and touch on North Korea's nuclear programme",
+   "zh_hans": "李在明上任后首晤普京 APEC晚宴谈10分钟 谈朝核兼防半岛局势恶化",
+   "zh_hant": "李在明上任後首晤普京 APEC晚宴傾10分鐘 談朝核兼防半島局勢惡化"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-lee-jae-myung-putin-first-meeting-v2.jpg",
+  "card_time": "07:22",
+  "image_r2_key": "design/202611/20261119-lee-jae-myung-putin-first-meeting-v2.jpg"
  },
  {
   "category": "finance",
@@ -427,6 +601,48 @@
   "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-apec-china-russia-us-trilateral-meeting-today-v2.jpg",
   "card_time": "05:46",
   "image_r2_key": "design/202611/20261119-apec-china-russia-us-trilateral-meeting-today-v2.jpg"
+ },
+ {
+  "category": "tech",
+  "id": "20261119-gta-6-launch-global-rollout",
+  "published_at": "2026-11-19T05:38:00+08:00",
+  "source": {
+   "name": "Gulf News",
+   "url": "https://gulfnews.com/amp/story/technology%2Fgaming%2Fgta-6-launch-live-global-rollout-begins-uae-countdown-reviews-and-latest-updates-1.500752496"
+  },
+  "summary": {
+   "en": "Grand Theft Auto VI has launched worldwide, unlocking at midnight local time on Thursday, November 19, for PlayStation 5 and Xbox Series X|S players after a 13-year wait since GTA V. The rollout began in New Zealand and Australia and moved across Asia and the Middle East, with early reports of stable servers and no major outages. Market research firm Sensor Tower estimates the game has already sold about 17 million copies worth more than US$1.65 billion in pre-orders, though Rockstar and publisher Take-Two have not confirmed the figures. Reviewers have praised the game, with Metacritic averaging it at 99 out of 100, while no PC version has been announced.",
+   "zh_hans": "《侠盗猎车手6》（GTA 6）今日正式全球开卖，自《GTA 5》推出以来等足13年。游戏于11月19日午夜起按各地时区陆续解锁，率先在新西兰和澳洲推出，再横扫亚洲和中东，登陆 PlayStation 5 和 Xbox Series X|S，初期未见服务器大规模故障。市场研究公司 Sensor Tower 估计，游戏预购已卖出约1700万份，价值超过16.5亿美元，不过 Rockstar 和发行商 Take-Two 未有证实数字。评测方面，Metacritic 平均分高达99分，但至今未公布 PC 版推出日期。",
+   "zh_hant": "《俠盜獵車手6》（GTA 6）今日正式全球開賣，自《GTA 5》推出以來等足13年。遊戲於11月19日午夜起按各地時區陸續解鎖，率先在新西蘭和澳洲推出，再橫掃亞洲和中東，登陸 PlayStation 5 和 Xbox Series X|S，初期未見伺服器大規模故障。市場研究公司 Sensor Tower 估計，遊戲預購已賣出約1700萬份，價值超過16.5億美元，不過 Rockstar 和發行商 Take-Two 未有證實數字。評測方面，Metacritic 平均分高達99分，但至今未公布 PC 版推出日期。"
+  },
+  "tags": {
+   "en": [
+    "GTA 6",
+    "Rockstar",
+    "video games",
+    "gaming"
+   ],
+   "zh_hans": [
+    "GTA 6",
+    "Rockstar",
+    "电子游戏",
+    "游戏"
+   ],
+   "zh_hant": [
+    "GTA 6",
+    "Rockstar",
+    "電子遊戲",
+    "遊戲"
+   ]
+  },
+  "title": {
+   "en": "GTA 6 finally launches after a 13-year wait, with pre-orders already worth an estimated US$1.65 billion",
+   "zh_hans": "等足13年 GTA 6今日全球开卖 预购已劲收约16.5亿美元",
+   "zh_hant": "等足13年 GTA 6今日全球開賣 預購已勁收約16.5億美元"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-gta-6-launch-global-rollout-v2.jpg",
+  "card_time": "05:38",
+  "image_r2_key": "design/202611/20261119-gta-6-launch-global-rollout-v2.jpg"
  },
  {
   "category": "world",
@@ -1394,216 +1610,5 @@
   },
   "card_time": "09:48",
   "image_r2_key": "design/202611/20261118-apple-outage-app-store-icloud-v2.jpg"
- },
- {
-  "category": "china",
-  "id": "20261119-xi-apec-20m-funding",
-  "published_at": "2026-11-19T10:29:00+08:00",
-  "source": {
-   "name": "RTHK",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878399-20261119.htm"
-  },
-  "summary": {
-   "en": "President Xi Jinping chaired the 33rd APEC Economic Leaders' Informal Meeting in Shenzhen and announced that China will provide US$20 million to fund practical APEC cooperation. China will also set up an APEC Community research centre in Shenzhen to carry out policy research and exchanges. Xi said China will work with all parties to build the Asia-Pacific community around four pillars: trade, connectivity, innovation and development, including new cooperation bodies in digital technology, cross-border data flows, clean energy and small business development.",
-   "zh_hans": "国家主席习近平在深圳主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话，宣布中方将提供2000万美元，资助开展亚太经合组织务实合作，并将在深圳设立亚太共同体研究中心，开展政策研究和交流。习近平表示，中方愿同各方携手搭建亚太共同体的“四梁八柱”，包括强化经贸、联通、创新和发展四大支柱，并在数字技术、数据跨境流动、清洁能源和中小企业发展等领域设立合作机构。",
-   "zh_hant": "國家主席習近平在深圳主持亞太經合組織第三十三次領導人非正式會議並發表重要講話，宣布中方將提供2000萬美元，資助開展亞太經合組織務實合作，並將在深圳設立亞太共同體研究中心，開展政策研究和交流。習近平表示，中方願同各方攜手搭建亞太共同體的「四梁八柱」，包括強化經貿、聯通、創新和發展四大支柱，並在數字技術、數據跨境流動、清潔能源和中小企業發展等領域設立合作機構。"
-  },
-  "tags": {
-   "en": [
-    "APEC",
-    "Xi Jinping",
-    "Shenzhen",
-    "China"
-   ],
-   "zh_hans": [
-    "APEC",
-    "习近平",
-    "深圳",
-    "中国"
-   ],
-   "zh_hant": [
-    "APEC",
-    "習近平",
-    "深圳",
-    "中國"
-   ]
-  },
-  "title": {
-   "en": "Xi pledges US$20 million for APEC cooperation as Shenzhen summit opens, research centre to be set up in the city",
-   "zh_hans": "习近平深圳主持APEC峰会 宣布掏2000万美元资助合作 深圳设研究中心",
-   "zh_hant": "習近平深圳主持APEC峰會 宣布掏2000萬美元資助合作 深圳設研究中心"
-  },
-  "image_url": "",
-  "card_time": "10:29"
- },
- {
-  "category": "hk",
-  "id": "20261119-cuhk-hospital-wrong-ovary-measures",
-  "published_at": "2026-11-19T10:14:00+08:00",
-  "source": {
-   "name": "RTHK",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878393-20261119.htm"
-  },
-  "summary": {
-   "en": "CUHK Hospital chief executive Chung Kin-lai has given a fresh account of how a woman lost both ovaries by mistake during laparoscopic surgery, telling RTHK's Millennium programme that the surgeon lost focus after taking 15 to 20 minutes to get the laparoscope into position. The hospital has now introduced new safeguards, including a paper listing the most important steps placed under the laparoscope screen and nurses reminding doctors at key stages, measures that will be extended to other operations. Disciplinary proceedings against the surgeon, gynaecological oncology specialist Dr Cheung Tak-hong, are under way and the outcome will be told to the patient and her family.",
-   "zh_hans": "中大医院行政总裁钟健礼在港台节目《千禧年代》再次就女病人被错切卵巢事件致歉，并亲述事发经过：负责手术的医生利用腹腔镜进入手术位置时出现困难，需要15至20分钟，之后专注力突然降低，然后出错。医院现时已采取防错措施，包括在腹腔镜手术的镜头屏幕下贴纸张，列出手术最重要步骤提醒医生，重要步骤护士亦会提醒医生，并将措施扩展至其他手术。涉事医生、妇科肿瘤科专科医生张德康的惩处问题，院方正进行人事程序，会将惩处告知病人及家属。",
-   "zh_hant": "中大醫院行政總裁鍾健禮在港台節目《千禧年代》再次就女病人被錯切卵巢事件致歉，並親述事發經過：負責手術的醫生利用腹腔鏡進入手術位置時出現困難，需要15至20分鐘，之後專注力突然降低，然後出錯。醫院現時已採取防錯措施，包括在腹腔鏡手術的鏡頭屏幕下貼紙張，列出手術最重要步驟提醒醫生，重要步驟護士亦會提醒醫生，並將措施擴展至其他手術。涉事醫生、婦科腫瘤科專科醫生張德康的懲處問題，院方正進行人事程序，會將懲處告知病人及家屬。"
-  },
-  "tags": {
-   "en": [
-    "CUHK Hospital",
-    "medical blunder",
-    "healthcare",
-    "Hong Kong"
-   ],
-   "zh_hans": [
-    "中大医院",
-    "医疗事故",
-    "医疗",
-    "香港"
-   ],
-   "zh_hant": [
-    "中大醫院",
-    "醫療事故",
-    "醫療",
-    "香港"
-   ]
-  },
-  "title": {
-   "en": "Surgeon 'lost focus' in wrong-ovary blunder, CUHK Hospital chief reveals, as new safety checks rolled out",
-   "zh_hans": "错切卵巢医生手术中“失神” 中大医院院长亲述经过 新防错措施已上路",
-   "zh_hant": "錯切卵巢醫生手術中「失神」 中大醫院院長親述經過 新防錯措施已上路"
-  },
-  "image_url": "",
-  "card_time": "10:14"
- },
- {
-  "category": "world",
-  "id": "20261119-trump-no-china-russia-help-iran",
-  "published_at": "2026-11-19T09:17:00+08:00",
-  "source": {
-   "name": "Interfax",
-   "url": "https://www.interfax.ru/world/1129968"
-  },
-  "summary": {
-   "en": "US President Donald Trump has said he will not ask China or Russia for help in ending the war with Iran, telling Fox News in Shenzhen: \"We don't need any help.\" Speaking before Thursday's trilateral meeting with Xi Jinping and Vladimir Putin, Trump said Iran wants a deal and claimed the United States has defeated Iran's navy, air force and army and now has full control of the Strait of Hormuz. He added that Tehran has treated Washington well, saying Iran has not fired on American forces or sunk American ships.",
-   "zh_hans": "美国总统特朗普在深圳接受福斯新闻访问时表示，不会寻求中国或俄罗斯协助结束与伊朗的战事，称“我们不需要任何帮助”。特朗普在周四与习近平和普京举行三方会谈前表示，伊朗希望达成协议，又声称美国已击败伊朗海军、空军和陆军，现时完全掌控荷姆兹海峡。他又说，伊朗对美国态度很好，既没有向美军开火，也没有击沉美方船只。",
-   "zh_hant": "美國總統特朗普在深圳接受霍士新聞訪問時表示，不會尋求中國或俄羅斯協助結束與伊朗的戰事，稱「我們不需要任何幫助」。特朗普在周四與習近平和普京舉行三方會談前表示，伊朗希望達成協議，又聲稱美國已擊敗伊朗海軍、空軍和陸軍，現時完全掌控荷姆茲海峽。他又說，伊朗對美國態度很好，既沒有向美軍開火，也沒有擊沉美方船隻。"
-  },
-  "tags": {
-   "en": [
-    "Trump",
-    "Iran",
-    "China",
-    "Russia",
-    "APEC"
-   ],
-   "zh_hans": [
-    "特朗普",
-    "伊朗",
-    "中国",
-    "俄罗斯",
-    "APEC"
-   ],
-   "zh_hant": [
-    "特朗普",
-    "伊朗",
-    "中國",
-    "俄羅斯",
-    "APEC"
-   ]
-  },
-  "title": {
-   "en": "Trump says he won't ask China or Russia for help ending the Iran war, claiming US already controls the Strait of Hormuz",
-   "zh_hans": "特朗普：不会求中俄帮手结束伊朗战事 扬言美军已掌控荷姆兹海峡",
-   "zh_hant": "特朗普：唔會求中俄幫手結束伊朗戰事 揚言美軍已掌控荷姆茲海峽"
-  },
-  "image_url": "",
-  "card_time": "09:17"
- },
- {
-  "category": "world",
-  "id": "20261119-lee-jae-myung-putin-first-meeting",
-  "published_at": "2026-11-19T07:22:31+08:00",
-  "source": {
-   "name": "Yonhap News Agency",
-   "url": "https://m-cn.yna.co.kr/view/ACK20261119000100881"
-  },
-  "summary": {
-   "en": "South Korean President Lee Jae-myung met Russian President Vladimir Putin in Shenzhen on November 18, their first meeting since Lee took office and the first face-to-face encounter between South Korean and Russian leaders in about seven and a half years. According to a senior presidential office official, the two spoke for about 10 minutes at the APEC leaders' welcome banquet hosted by Xi Jinping, agreeing to seek cooperation where possible, manage bilateral ties, and prevent the situation on the Korean Peninsula from worsening, with a brief exchange on North Korea's nuclear weapons development. Lee also spoke with US President Donald Trump across the table about future diplomatic schedules and South Korea-US cooperation, without directly raising US-North Korea dialogue.",
-   "zh_hans": "韩国总统李在明11月18日在深圳会见俄罗斯总统普京，是李在明就任以来首次与普京会面，也是韩俄领导人约七年半以来首次面对面接触。据青瓦台一名高官透露，两人在习近平主办的APEC欢迎晚宴上交谈约10分钟，先就韩俄关系交换意见，同意求同存异、维护好双边关系，并就防止朝鲜半岛局势恶化、缓解紧张的必要性形成共识，从该角度出发就朝鲜发展核武等涉朝问题进行简短交流。李在明席间亦与坐在对面的美国总统特朗普交谈，主要讨论今后外交日程和韩美合作问题，未直接谈及朝美对话。",
-   "zh_hant": "韓國總統李在明11月18日在深圳會見俄羅斯總統普京，是李在明就任以來首次與普京會面，也是韓俄領導人約七年半以來首次面對面接觸。據青瓦台一名高官透露，兩人在習近平主辦的APEC歡迎晚宴上交談約10分鐘，先就韓俄關係交換意見，同意求同存異、維護好雙邊關係，並就防止朝鮮半島局勢惡化、緩解緊張的必要性形成共識，從該角度出發就朝鮮發展核武等涉朝問題進行簡短交流。李在明席間亦與坐在對面的美國總統特朗普交談，主要討論今後外交日程和韓美合作問題，未直接談及朝美對話。"
-  },
-  "tags": {
-   "en": [
-    "Lee Jae-myung",
-    "Putin",
-    "APEC",
-    "North Korea",
-    "South Korea"
-   ],
-   "zh_hans": [
-    "李在明",
-    "普京",
-    "APEC",
-    "朝鲜",
-    "韩国"
-   ],
-   "zh_hant": [
-    "李在明",
-    "普京",
-    "APEC",
-    "朝鮮",
-    "韓國"
-   ]
-  },
-  "title": {
-   "en": "Lee Jae-myung meets Putin for the first time at APEC banquet, talks last 10 minutes and touch on North Korea's nuclear programme",
-   "zh_hans": "李在明上任后首晤普京 APEC晚宴谈10分钟 谈朝核兼防半岛局势恶化",
-   "zh_hant": "李在明上任後首晤普京 APEC晚宴傾10分鐘 談朝核兼防半島局勢惡化"
-  },
-  "image_url": "",
-  "card_time": "07:22"
- },
- {
-  "category": "tech",
-  "id": "20261119-gta-6-launch-global-rollout",
-  "published_at": "2026-11-19T05:38:00+08:00",
-  "source": {
-   "name": "Gulf News",
-   "url": "https://gulfnews.com/amp/story/technology%2Fgaming%2Fgta-6-launch-live-global-rollout-begins-uae-countdown-reviews-and-latest-updates-1.500752496"
-  },
-  "summary": {
-   "en": "Grand Theft Auto VI has launched worldwide, unlocking at midnight local time on Thursday, November 19, for PlayStation 5 and Xbox Series X|S players after a 13-year wait since GTA V. The rollout began in New Zealand and Australia and moved across Asia and the Middle East, with early reports of stable servers and no major outages. Market research firm Sensor Tower estimates the game has already sold about 17 million copies worth more than US$1.65 billion in pre-orders, though Rockstar and publisher Take-Two have not confirmed the figures. Reviewers have praised the game, with Metacritic averaging it at 99 out of 100, while no PC version has been announced.",
-   "zh_hans": "《侠盗猎车手6》（GTA 6）今日正式全球开卖，自《GTA 5》推出以来等足13年。游戏于11月19日午夜起按各地时区陆续解锁，率先在新西兰和澳洲推出，再横扫亚洲和中东，登陆 PlayStation 5 和 Xbox Series X|S，初期未见服务器大规模故障。市场研究公司 Sensor Tower 估计，游戏预购已卖出约1700万份，价值超过16.5亿美元，不过 Rockstar 和发行商 Take-Two 未有证实数字。评测方面，Metacritic 平均分高达99分，但至今未公布 PC 版推出日期。",
-   "zh_hant": "《俠盜獵車手6》（GTA 6）今日正式全球開賣，自《GTA 5》推出以來等足13年。遊戲於11月19日午夜起按各地時區陸續解鎖，率先在新西蘭和澳洲推出，再橫掃亞洲和中東，登陸 PlayStation 5 和 Xbox Series X|S，初期未見伺服器大規模故障。市場研究公司 Sensor Tower 估計，遊戲預購已賣出約1700萬份，價值超過16.5億美元，不過 Rockstar 和發行商 Take-Two 未有證實數字。評測方面，Metacritic 平均分高達99分，但至今未公布 PC 版推出日期。"
-  },
-  "tags": {
-   "en": [
-    "GTA 6",
-    "Rockstar",
-    "video games",
-    "gaming"
-   ],
-   "zh_hans": [
-    "GTA 6",
-    "Rockstar",
-    "电子游戏",
-    "游戏"
-   ],
-   "zh_hant": [
-    "GTA 6",
-    "Rockstar",
-    "電子遊戲",
-    "遊戲"
-   ]
-  },
-  "title": {
-   "en": "GTA 6 finally launches after a 13-year wait, with pre-orders already worth an estimated US$1.65 billion",
-   "zh_hans": "等足13年 GTA 6今日全球开卖 预购已劲收约16.5亿美元",
-   "zh_hant": "等足13年 GTA 6今日全球開賣 預購已勁收約16.5億美元"
-  },
-  "image_url": "",
-  "card_time": "05:38"
  }
 ]
