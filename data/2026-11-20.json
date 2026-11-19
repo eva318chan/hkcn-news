@@ -1,5 +1,49 @@
 [
  {
+  "id": "20261120-mongolia-president-khurelsukh-resigns",
+  "category": "world",
+  "published_at": "2026-11-20T01:16:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878513-20261120.htm"
+  },
+  "source_name": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878513-20261120.htm",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-mongolia-president-khurelsukh-resigns-v2.jpg",
+  "card_time": "01:16",
+  "title": {
+   "en": "Mongolian Parliament Approves President Khurelsukh's Resignation With 96 Votes in Favour, a First for a Sitting President",
+   "zh_hans": "蒙古总统闪辞获国会通过 96票赞成 创史上首位在任总统提前下台",
+   "zh_hant": "蒙古總統閃辭獲國會通過 96票贊成 創史上首位在任總統提前下台"
+  },
+  "summary": {
+   "en": "Mongolia's parliament has voted to approve President Ukhnaagiin Khurelsukh's resignation, with 96 of the 104 voting members backing the motion. It is the first time in Mongolia's history that a sitting president has voluntarily stepped down early. Under the constitution, the parliament speaker will act as president until a new president is sworn in, and parliament must call a presidential election within four months. Khurelsukh, elected in 2021, announced his resignation on November 17. He has denied allegations of abuse of power and corruption, saying he made no policy mistakes and never took state or public property.",
+   "zh_hans": "蒙古议会召开全体会议，表决批准总统呼日勒苏赫辞去总统职务。投票的104名议员中，96人投赞成票，今次是蒙古历史上首次有现任总统主动提前辞职。根据蒙古宪法规定，总统自愿辞职后由议会主席代行总统职权，直至新总统宣誓就职；议会须在4个月内宣布并举行总统选举。呼日勒苏赫2021年当选总统，本月17日宣布辞职。针对外界流传的滥用职权、贪腐敛财等指控，他表示自己并未犯下任何政策性错误，亦未窃取过国家和人民的财产。",
+   "zh_hant": "蒙古議會召開全體會議，表決批准總統呼日勒蘇赫辭去總統職務。投票的104名議員中，96人投贊成票，今次是蒙古歷史上首次有現任總統主動提前辭職。根據蒙古憲法規定，總統自願辭職後由議會主席代行總統職權，直至新總統宣誓就職；議會須在4個月內宣布並舉行總統選舉。呼日勒蘇赫2021年當選總統，本月17日宣布辭職。針對外界流傳的濫用職權、貪腐斂財等指控，他表示自己並未犯下任何政策性錯誤，亦未竊取過國家和人民的財產。"
+  },
+  "tags": {
+   "en": [
+    "Mongolia",
+    "Khurelsukh",
+    "Presidential Resignation",
+    "State Great Khural"
+   ],
+   "zh_hans": [
+    "蒙古",
+    "呼日勒苏赫",
+    "总统辞职",
+    "蒙古议会"
+   ],
+   "zh_hant": [
+    "蒙古",
+    "呼日勒蘇赫",
+    "總統辭職",
+    "蒙古議會"
+   ]
+  },
+  "image_r2_key": "design/202611/20261120-mongolia-president-khurelsukh-resigns-v2.jpg"
+ },
+ {
   "id": "20261120-denmark-greenland-defence-deal",
   "category": "world",
   "published_at": "2026-11-20T00:17:00+08:00",
@@ -42,48 +86,5 @@
    ]
   },
   "image_r2_key": "design/202611/20261120-denmark-greenland-defence-deal-v2.jpg"
- },
- {
-  "id": "20261120-mongolia-president-khurelsukh-resigns",
-  "category": "world",
-  "published_at": "2026-11-20T01:16:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878513-20261120.htm"
-  },
-  "source_name": "香港電台",
-  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878513-20261120.htm",
-  "image_url": "",
-  "card_time": "01:16",
-  "title": {
-   "en": "Mongolian Parliament Approves President Khurelsukh's Resignation With 96 Votes in Favour, a First for a Sitting President",
-   "zh_hans": "蒙古总统闪辞获国会通过 96票赞成 创史上首位在任总统提前下台",
-   "zh_hant": "蒙古總統閃辭獲國會通過 96票贊成 創史上首位在任總統提前下台"
-  },
-  "summary": {
-   "en": "Mongolia's parliament has voted to approve President Ukhnaagiin Khurelsukh's resignation, with 96 of the 104 voting members backing the motion. It is the first time in Mongolia's history that a sitting president has voluntarily stepped down early. Under the constitution, the parliament speaker will act as president until a new president is sworn in, and parliament must call a presidential election within four months. Khurelsukh, elected in 2021, announced his resignation on November 17. He has denied allegations of abuse of power and corruption, saying he made no policy mistakes and never took state or public property.",
-   "zh_hans": "蒙古议会召开全体会议，表决批准总统呼日勒苏赫辞去总统职务。投票的104名议员中，96人投赞成票，今次是蒙古历史上首次有现任总统主动提前辞职。根据蒙古宪法规定，总统自愿辞职后由议会主席代行总统职权，直至新总统宣誓就职；议会须在4个月内宣布并举行总统选举。呼日勒苏赫2021年当选总统，本月17日宣布辞职。针对外界流传的滥用职权、贪腐敛财等指控，他表示自己并未犯下任何政策性错误，亦未窃取过国家和人民的财产。",
-   "zh_hant": "蒙古議會召開全體會議，表決批准總統呼日勒蘇赫辭去總統職務。投票的104名議員中，96人投贊成票，今次是蒙古歷史上首次有現任總統主動提前辭職。根據蒙古憲法規定，總統自願辭職後由議會主席代行總統職權，直至新總統宣誓就職；議會須在4個月內宣布並舉行總統選舉。呼日勒蘇赫2021年當選總統，本月17日宣布辭職。針對外界流傳的濫用職權、貪腐斂財等指控，他表示自己並未犯下任何政策性錯誤，亦未竊取過國家和人民的財產。"
-  },
-  "tags": {
-   "en": [
-    "Mongolia",
-    "Khurelsukh",
-    "Presidential Resignation",
-    "State Great Khural"
-   ],
-   "zh_hans": [
-    "蒙古",
-    "呼日勒苏赫",
-    "总统辞职",
-    "蒙古议会"
-   ],
-   "zh_hant": [
-    "蒙古",
-    "呼日勒蘇赫",
-    "總統辭職",
-    "蒙古議會"
-   ]
-  }
  }
 ]

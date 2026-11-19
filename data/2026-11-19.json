@@ -132,6 +132,50 @@
   "image_r2_key": "design/202611/20261119-lee-tung-christmas-lights-snow-shows-v2.jpg"
  },
  {
+  "id": "20261119-us-jobless-claims-rise-203000",
+  "category": "finance",
+  "published_at": "2026-11-19T21:45:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878501-20261119.htm"
+  },
+  "source_name": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878501-20261119.htm",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-us-jobless-claims-rise-203000-v2.jpg",
+  "card_time": "21:45",
+  "title": {
+   "en": "US Jobless Claims Unexpectedly Rise to 203,000, Above Forecasts, as Continuing Claims Climb to 1.763 Million",
+   "zh_hans": "美国首领失业救济意外升至20.3万 高过预期 续领人数亦增至176.3万",
+   "zh_hant": "美國首領失業救濟意外升至20.3萬 高過預期 續領人數亦增至176.3萬"
+  },
+  "summary": {
+   "en": "New claims for US unemployment benefits unexpectedly rose to 203,000 last week, against market expectations of a fall to 197,000, up 1,000 from the previous week. The four-week moving average rose 2,000 to 197,750. Continuing claims for the week ended November 7 rose 70,000 to 1.763 million, above the expected 1.71 million.",
+   "zh_hans": "美国上星期新申领失业援助人数意外升至20.3万人，市场原先预期会减少至19.7万人，按星期增加1千人。4星期平均值19万7750人，增加2000人。截至11月7日，持续申领失业援助人数176.3万人，多过预期的171万人，按星期增加7万人。",
+   "zh_hant": "美國上星期新申領失業援助人數意外升至20.3萬人，市場原先預期會減少至19.7萬人，按星期增加1千人。4星期平均值19萬7750人，增加2000人。截至11月7日，持續申領失業援助人數176.3萬人，多過預期的171萬人，按星期增加7萬人。"
+  },
+  "tags": {
+   "en": [
+    "US Jobless Claims",
+    "Unemployment",
+    "US Labour Market",
+    "US Economy"
+   ],
+   "zh_hans": [
+    "美国失业救济",
+    "失业人数",
+    "美国就业市场",
+    "美国经济"
+   ],
+   "zh_hant": [
+    "美國失業救濟",
+    "失業人數",
+    "美國就業市場",
+    "美國經濟"
+   ]
+  },
+  "image_r2_key": "design/202611/20261119-us-jobless-claims-rise-203000-v2.jpg"
+ },
+ {
   "id": "20261119-prudential-hotel-price-fixing-fine-950k",
   "category": "hk",
   "published_at": "2026-11-19T21:23:00+08:00",
@@ -262,6 +306,50 @@
    ]
   },
   "image_r2_key": "design/202611/20261119-alibaba-earnings-call-cloud-53-pct-v2.jpg"
+ },
+ {
+  "id": "20261119-icj-myanmar-rohingya-genocide-ruling",
+  "category": "world",
+  "published_at": "2026-11-19T20:32:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878496-20261119.htm"
+  },
+  "source_name": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878496-20261119.htm",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-icj-myanmar-rohingya-genocide-ruling-v2.jpg",
+  "card_time": "20:32",
+  "title": {
+   "en": "ICJ Rules Myanmar Committed Genocide Against Rohingya in First Such Finding Against a Sovereign State",
+   "zh_hans": "国际法院裁定缅甸犯种族灭绝罪 联合国最高法院首判主权国罪成",
+   "zh_hant": "國際法院裁定緬甸犯種族滅絕罪 聯合國最高法院首判主權國罪成"
+  },
+  "summary": {
+   "en": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya minority, the first time the United Nations' highest court has found a sovereign state guilty of genocide. Reading the judgment, ICJ President Yuji Iwasawa detailed atrocities committed during the crackdown, including security forces killing thousands of civilians, widespread sexual violence against women and extreme violence against children. The court found Rohingya villages were systematically destroyed and then repopulated by non-Rohingya, showing an intent to destroy the Rohingya population — a key element of genocide. It ordered Myanmar to allow those who fled to return home safely, voluntarily and with dignity, and to investigate and punish those responsible; compensation will be decided at a later stage. Myanmar's military was accused of launching the crackdown in 2017, killing thousands of Rohingya and forcing more than 700,000 to flee to neighbouring Bangladesh.",
+   "zh_hans": "国际法院裁定，缅甸对境内罗兴亚少数族群犯下种族灭绝罪行，是联合国最高司法机构首次认定一个主权国家犯下种族灭绝。国际法院院长岩泽雄司宣读裁决时详述，缅甸在镇压行动中对罗兴亚人犯下的暴行，包括安全部队杀害以千计平民、对妇女实施广泛性暴力，以及对儿童施加极端暴力。法院指出，罗兴亚人的村庄遭到系统性摧毁，随后被非罗兴亚族群人口取代，显示缅甸意图消灭罗兴亚族群人口，是构成种族灭绝的关键要素。法院下令缅甸必须批准并协助因暴力逃离家园的民众安全、自愿并有尊严地返回原居地，亦要求缅甸调查及惩处涉嫌犯下种族灭绝的人，赔偿问题将于日后决定。缅甸军方2017年被指发动镇压行动，造成数千名罗兴亚人丧生，迫使超过70万人逃离以佛教徒为主的缅甸，前往邻国孟加拉。",
+   "zh_hant": "國際法院裁定，緬甸對境內羅興亞少數族群犯下種族滅絕罪行，是聯合國最高司法機構首次認定一個主權國家犯下種族滅絕。國際法院院長岩澤雄司宣讀裁決時詳述，緬甸在鎮壓行動中對羅興亞人犯下的暴行，包括安全部隊殺害以千計平民、對婦女實施廣泛性暴力，以及對兒童施加極端暴力。法院指出，羅興亞人的村莊遭到系統性摧毀，隨後被非羅興亞族群人口取代，顯示緬甸意圖消滅羅興亞族群人口，是構成種族滅絕的關鍵要素。法院下令緬甸必須批准並協助因暴力逃離家園的民眾安全、自願並有尊嚴地返回原居地，亦要求緬甸調查及懲處涉嫌犯下種族滅絕的人，賠償問題將於日後決定。緬甸軍方2017年被指發動鎮壓行動，造成數千名羅興亞人喪生，迫使超過70萬人逃離以佛教徒為主的緬甸，前往鄰國孟加拉。"
+  },
+  "tags": {
+   "en": [
+    "International Court of Justice",
+    "Myanmar",
+    "Rohingya",
+    "Genocide"
+   ],
+   "zh_hans": [
+    "国际法院",
+    "缅甸",
+    "罗兴亚",
+    "种族灭绝"
+   ],
+   "zh_hant": [
+    "國際法院",
+    "緬甸",
+    "羅興亞",
+    "種族滅絕"
+   ]
+  },
+  "image_r2_key": "design/202611/20261119-icj-myanmar-rohingya-genocide-ruling-v2.jpg"
  },
  {
   "id": "20261119-tvb-59th-anniversary-gala-highlights",
@@ -4014,91 +4102,5 @@
   },
   "card_time": "09:48",
   "image_r2_key": "design/202611/20261118-apple-outage-app-store-icloud-v2.jpg"
- },
- {
-  "id": "20261119-us-jobless-claims-rise-203000",
-  "category": "finance",
-  "published_at": "2026-11-19T21:45:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878501-20261119.htm"
-  },
-  "source_name": "香港電台",
-  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878501-20261119.htm",
-  "image_url": "",
-  "card_time": "21:45",
-  "title": {
-   "en": "US Jobless Claims Unexpectedly Rise to 203,000, Above Forecasts, as Continuing Claims Climb to 1.763 Million",
-   "zh_hans": "美国首领失业救济意外升至20.3万 高过预期 续领人数亦增至176.3万",
-   "zh_hant": "美國首領失業救濟意外升至20.3萬 高過預期 續領人數亦增至176.3萬"
-  },
-  "summary": {
-   "en": "New claims for US unemployment benefits unexpectedly rose to 203,000 last week, against market expectations of a fall to 197,000, up 1,000 from the previous week. The four-week moving average rose 2,000 to 197,750. Continuing claims for the week ended November 7 rose 70,000 to 1.763 million, above the expected 1.71 million.",
-   "zh_hans": "美国上星期新申领失业援助人数意外升至20.3万人，市场原先预期会减少至19.7万人，按星期增加1千人。4星期平均值19万7750人，增加2000人。截至11月7日，持续申领失业援助人数176.3万人，多过预期的171万人，按星期增加7万人。",
-   "zh_hant": "美國上星期新申領失業援助人數意外升至20.3萬人，市場原先預期會減少至19.7萬人，按星期增加1千人。4星期平均值19萬7750人，增加2000人。截至11月7日，持續申領失業援助人數176.3萬人，多過預期的171萬人，按星期增加7萬人。"
-  },
-  "tags": {
-   "en": [
-    "US Jobless Claims",
-    "Unemployment",
-    "US Labour Market",
-    "US Economy"
-   ],
-   "zh_hans": [
-    "美国失业救济",
-    "失业人数",
-    "美国就业市场",
-    "美国经济"
-   ],
-   "zh_hant": [
-    "美國失業救濟",
-    "失業人數",
-    "美國就業市場",
-    "美國經濟"
-   ]
-  }
- },
- {
-  "id": "20261119-icj-myanmar-rohingya-genocide-ruling",
-  "category": "world",
-  "published_at": "2026-11-19T20:32:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878496-20261119.htm"
-  },
-  "source_name": "香港電台",
-  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878496-20261119.htm",
-  "image_url": "",
-  "card_time": "20:32",
-  "title": {
-   "en": "ICJ Rules Myanmar Committed Genocide Against Rohingya in First Such Finding Against a Sovereign State",
-   "zh_hans": "国际法院裁定缅甸犯种族灭绝罪 联合国最高法院首判主权国罪成",
-   "zh_hant": "國際法院裁定緬甸犯種族滅絕罪 聯合國最高法院首判主權國罪成"
-  },
-  "summary": {
-   "en": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya minority, the first time the United Nations' highest court has found a sovereign state guilty of genocide. Reading the judgment, ICJ President Yuji Iwasawa detailed atrocities committed during the crackdown, including security forces killing thousands of civilians, widespread sexual violence against women and extreme violence against children. The court found Rohingya villages were systematically destroyed and then repopulated by non-Rohingya, showing an intent to destroy the Rohingya population — a key element of genocide. It ordered Myanmar to allow those who fled to return home safely, voluntarily and with dignity, and to investigate and punish those responsible; compensation will be decided at a later stage. Myanmar's military was accused of launching the crackdown in 2017, killing thousands of Rohingya and forcing more than 700,000 to flee to neighbouring Bangladesh.",
-   "zh_hans": "国际法院裁定，缅甸对境内罗兴亚少数族群犯下种族灭绝罪行，是联合国最高司法机构首次认定一个主权国家犯下种族灭绝。国际法院院长岩泽雄司宣读裁决时详述，缅甸在镇压行动中对罗兴亚人犯下的暴行，包括安全部队杀害以千计平民、对妇女实施广泛性暴力，以及对儿童施加极端暴力。法院指出，罗兴亚人的村庄遭到系统性摧毁，随后被非罗兴亚族群人口取代，显示缅甸意图消灭罗兴亚族群人口，是构成种族灭绝的关键要素。法院下令缅甸必须批准并协助因暴力逃离家园的民众安全、自愿并有尊严地返回原居地，亦要求缅甸调查及惩处涉嫌犯下种族灭绝的人，赔偿问题将于日后决定。缅甸军方2017年被指发动镇压行动，造成数千名罗兴亚人丧生，迫使超过70万人逃离以佛教徒为主的缅甸，前往邻国孟加拉。",
-   "zh_hant": "國際法院裁定，緬甸對境內羅興亞少數族群犯下種族滅絕罪行，是聯合國最高司法機構首次認定一個主權國家犯下種族滅絕。國際法院院長岩澤雄司宣讀裁決時詳述，緬甸在鎮壓行動中對羅興亞人犯下的暴行，包括安全部隊殺害以千計平民、對婦女實施廣泛性暴力，以及對兒童施加極端暴力。法院指出，羅興亞人的村莊遭到系統性摧毀，隨後被非羅興亞族群人口取代，顯示緬甸意圖消滅羅興亞族群人口，是構成種族滅絕的關鍵要素。法院下令緬甸必須批准並協助因暴力逃離家園的民眾安全、自願並有尊嚴地返回原居地，亦要求緬甸調查及懲處涉嫌犯下種族滅絕的人，賠償問題將於日後決定。緬甸軍方2017年被指發動鎮壓行動，造成數千名羅興亞人喪生，迫使超過70萬人逃離以佛教徒為主的緬甸，前往鄰國孟加拉。"
-  },
-  "tags": {
-   "en": [
-    "International Court of Justice",
-    "Myanmar",
-    "Rohingya",
-    "Genocide"
-   ],
-   "zh_hans": [
-    "国际法院",
-    "缅甸",
-    "罗兴亚",
-    "种族灭绝"
-   ],
-   "zh_hant": [
-    "國際法院",
-    "緬甸",
-    "羅興亞",
-    "種族滅絕"
-   ]
-  }
  }
 ]
