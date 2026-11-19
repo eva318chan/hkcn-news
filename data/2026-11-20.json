@@ -9,7 +9,7 @@
   },
   "source_name": "香港電台",
   "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878512-20261120.htm",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-denmark-greenland-defence-deal-v2.jpg",
   "card_time": "00:17",
   "title": {
    "en": "Danish Parliament Approves Greenland Defence Deal Letting US Set Up New Defence Areas and Expand Military Operations",
@@ -40,6 +40,7 @@
     "美國",
     "防衛協議"
    ]
-  }
+  },
+  "image_r2_key": "design/202611/20261120-denmark-greenland-defence-deal-v2.jpg"
  }
 ]
