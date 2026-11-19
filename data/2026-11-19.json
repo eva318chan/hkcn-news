@@ -1,6 +1,174 @@
 [
  {
   "category": "finance",
+  "id": "20261119-nikkei-kospi-rise-open",
+  "published_at": "2026-11-19T08:26:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878381-20261119.htm"
+  },
+  "summary": {
+   "en": "Japanese and South Korean shares rose in early trading. The Nikkei rose as much as 390 points after the open to a high of 59,414, before the gain narrowed sharply to 59,041, up 17 points or 0.03%. The Seoul Composite reclaimed the 5,000 level, rising as much as 3.3% to 5,133, and was later at 5,067, up 98 points or about 2%.",
+   "zh_hans": "日韩股市初段向上。日经指数开市后曾升390点，高见59,414点，其后升幅显著收窄，较早时报59,041点，升17点，升幅0.03%。首尔综合指数收复5000点水平，最多升3.3%，触及5,133点，较早时报5,067点，升98点，升幅约2%。",
+   "zh_hant": "日韓股市初段向上。日經指數開市後曾升390點，高見59,414點，其後升幅顯著收窄，較早時報59,041點，升17點，升幅0.03%。首爾綜合指數收復5000點水平，最多升3.3%，觸及5,133點，較早時報5,067點，升98點，升幅約2%。"
+  },
+  "tags": {
+   "en": [
+    "Nikkei",
+    "KOSPI",
+    "Asian stocks",
+    "South Korea"
+   ],
+   "zh_hans": [
+    "日经指数",
+    "首尔综合指数",
+    "亚洲股市",
+    "韩国"
+   ],
+   "zh_hant": [
+    "日經指數",
+    "首爾綜合指數",
+    "亞洲股市",
+    "韓國"
+   ]
+  },
+  "title": {
+   "en": "Nikkei jumps nearly 400 points in early trade, Kospi climbs over 3% back above 5,000",
+   "zh_hans": "日股初段曾升近400点 韩股一度升逾3%重上5000点",
+   "zh_hant": "日股初段曾升近400點 韓股一度升逾3%重上5000點"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-nikkei-kospi-rise-open-v2.jpg",
+  "card_time": "08:26",
+  "image_r2_key": "design/202611/20261119-nikkei-kospi-rise-open-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261119-mtr-hku-signal-fault-second-day",
+  "published_at": "2026-11-19T08:23:06+08:00",
+  "source": {
+   "name": "香港01",
+   "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412472/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%AB%99%E9%80%A3%E7%BA%8C%E5%85%A9%E6%97%A5%E4%BF%A1%E8%99%9F%E6%95%85%E9%9A%9C-%E6%B8%AF%E5%B3%B6%E7%B6%AB%E6%95%B4%E9%AB%94%E8%A1%8C%E8%BB%8A%E6%99%82%E9%96%93%E9%9C%80%E9%A1%8D%E5%A4%965%E8%87%B38%E5%88%86%E9%90%98"
+  },
+  "summary": {
+   "en": "For the second consecutive day, a signal equipment fault near HKU station has disrupted the Island Line. MTR said at around 8am today that trains must slow through the affected section, with overall journey times from terminus to terminus expected to take an extra 5 to 8 minutes, and staff are handling the fault. Passengers are advised to allow extra time for their journeys. Yesterday morning the same station suffered a similar fault at around 8:45am, disrupting service for about two hours before repairs were completed at around 10:30am.",
+   "zh_hans": "港铁香港大学站连续第二日出现信号设备故障，港岛线服务受影响。港铁今日早上约8时表示，由于香港大学站附近有信号设备故障，列车行经该路段需要慢驶，整体行车时间（总站至总站）预计需要额外5至8分钟，港铁人员正在处理，呼吁乘客为行程预留充裕时间。昨日早上约8时45分，同一车站亦出现同类故障，列车服务一度受阻约两小时，至早上约10时30分完成修复。",
+   "zh_hant": "港鐵香港大學站連續第二日出現信號設備故障，港島綫服務受影響。港鐵今日早上約8時表示，由於香港大學站附近有信號設備故障，列車行經該路段需要慢駛，整體行車時間（總站至總站）預計需要額外5至8分鐘，港鐵人員正在處理，呼籲乘客為行程預留充裕時間。昨日早上約8時45分，同一車站亦出現同類故障，列車服務一度受阻約兩小時，至早上約10時30分完成修復。"
+  },
+  "tags": {
+   "en": [
+    "MTR",
+    "Island Line",
+    "HKU Station",
+    "Signal fault"
+   ],
+   "zh_hans": [
+    "港铁",
+    "港岛线",
+    "香港大学站",
+    "信号故障"
+   ],
+   "zh_hant": [
+    "港鐵",
+    "港島綫",
+    "香港大學站",
+    "信號故障"
+   ]
+  },
+  "title": {
+   "en": "HKU station signal fault for second straight day, Island Line journeys take 5 to 8 minutes longer",
+   "zh_hans": "港大站信号故障连续两日 港岛线行车时间额外多5至8分钟",
+   "zh_hant": "港大站信號故障連續兩日 港島綫行車時間額外多5至8分鐘"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-mtr-hku-signal-fault-second-day-v2.jpg",
+  "card_time": "08:23",
+  "image_r2_key": "design/202611/20261119-mtr-hku-signal-fault-second-day-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261119-cold-snap-temperatures-drop-3-4-degrees",
+  "published_at": "2026-11-19T07:51:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878378-20261119.htm"
+  },
+  "summary": {
+   "en": "A strong northeast monsoon is affecting the Guangdong coast, and temperatures across Hong Kong this morning are about 3 to 4 degrees lower than yesterday. The Observatory says the monsoon and a band of cloud will make southern China significantly cooler today and tomorrow, quite cool on the coast and cold in inland areas in the mornings. The cloud is expected to thin over the weekend, bringing a large day-night temperature difference with mornings still quite cool. An easterly airstream early next week will bring more cloud and slightly higher temperatures, before another northeast monsoon arrives mid-next week, bringing another drop in temperature and a few showers.",
+   "zh_hans": "一股强烈东北季候风正影响广东沿岸，今早本港多处地区气温较昨日低三至四度左右。天文台表示，强烈东北季候风及一道云带影响，华南地区今明两日显著转凉，未来一两日广东沿岸相当清凉，内陆地区早晚寒冷。随着覆盖广东的云带在周末转薄，该区日夜温差较大，早上仍然相当清凉。预料一股达强风程度的偏东气流会在下周初影响华南沿岸，该区云量增多，气温稍为回升。而另一股东北季候风会在下周中期影响华南，该区气温将再度下降及有几阵雨。",
+   "zh_hant": "一股強烈東北季候風正影響廣東沿岸，今早本港多處地區氣溫較昨日低三至四度左右。天文台表示，強烈東北季候風及一道雲帶影響，華南地區今明兩日顯著轉涼，未來一兩日廣東沿岸相當清涼，內陸地區早晚寒冷。隨着覆蓋廣東的雲帶在週末轉薄，該區日夜溫差較大，早上仍然相當清涼。預料一股達強風程度的偏東氣流會在下週初影響華南沿岸，該區雲量增多，氣溫稍為回升。而另一股東北季候風會在下週中期影響華南，該區氣溫將再度下降及有幾陣雨。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Observatory",
+    "Temperature",
+    "Northeast monsoon",
+    "Weather"
+   ],
+   "zh_hans": [
+    "天文台",
+    "气温",
+    "东北季候风",
+    "天气"
+   ],
+   "zh_hant": [
+    "天文台",
+    "氣溫",
+    "東北季候風",
+    "天氣"
+   ]
+  },
+  "title": {
+   "en": "Temperatures 3 to 4 degrees lower this morning, another cold snap with rain expected mid-next week",
+   "zh_hans": "今早气温较昨日低三至四度 下周中期再转凉兼有雨",
+   "zh_hant": "今早氣溫較昨日低三至四度 下週中期再轉涼兼有雨"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-cold-snap-temperatures-drop-3-4-degrees-v2.jpg",
+  "card_time": "07:51",
+  "image_r2_key": "design/202611/20261119-cold-snap-temperatures-drop-3-4-degrees-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261119-us-report-pla-seeking-nvidia-ai-chips",
+  "published_at": "2026-11-19T07:34:00+08:00",
+  "source": {
+   "name": "風傳媒（中央社）",
+   "url": "https://www.storm.mg/article/11182942"
+  },
+  "summary": {
+   "en": "The US-China Economic and Security Review Commission said in its annual report, published on November 18, that China's military is seeking advanced Nvidia chips for use in AI-enabled weapons, because Chinese-made processors still lag behind US rivals. The report says Beijing is trying to circumvent US export controls to obtain the advanced semiconductors it considers vital to 'intelligentised warfare' — the PLA term for integrating AI into weapons, command and control, kill chains and logistics. It also notes that Huawei's Ascend and Cambricon's Siyuan chips still trail Nvidia and AMD products. Reuters found that more than US$3 billion worth of computing projects in China use Nvidia's restricted chips, despite Nvidia saying export controls had effectively shut it out of China's AI data-centre market. Washington announced on November 16 that it would further restrict China's access to advanced chips from Nvidia and other companies.",
+   "zh_hans": "美国政府独立机构“美中经济与安全检讨委员会”18日发布年度报告指出，由于中国制处理器持续落后美国对手，中国军方正寻求取得Nvidia先进芯片，要用于具备AI功能的武器。报告表示，北京当局正试图避开美国出口管制，以取得对中方推动“智能化战争”至关重要的先进半导体；“智能化战争”是解放军的用语，用来描述把人工智能整合进入武器、指挥管制、击杀链及后勤。报告还提到，华为昇腾和寒武纪思元系列等中国本土AI芯片，仍落后于美国Nvidia与超微更先进产品。路透检视后发现，中国有超过30亿美元的运算项目使用Nvidia受管制芯片，尽管Nvidia曾宣称出口管制实际上已让公司被排除在中国AI数据中心市场之外。华府于16日宣布，将进一步限制中国取得Nvidia在内多家公司先进芯片的管道。",
+   "zh_hant": "美國政府獨立機構「美中經濟暨安全檢討委員會」18日發布年度報告指出，由於中國製處理器持續落後美國對手，中國軍方正尋求取得Nvidia先進晶片，要用於具備AI功能之武器。報告表示，北京當局正試圖避開美國出口管制，以取得對中方推動「智能化戰爭」至關重要的先進半導體；「智能化戰爭」是解放軍的用語，用來描述把人工智能整合進入武器、指揮管制、擊殺鏈及後勤。報告還提到，華為昇騰和寒武紀思元系列等中國本土AI晶片，仍落後於美國Nvidia與超微更先進產品。路透檢視後發現，中國有超過30億美元的運算項目使用Nvidia受管制晶片，儘管Nvidia曾宣稱出口管制實際上已讓公司被排除在中國AI資料中心市場之外。華府於16日宣布，將進一步限制中國取得Nvidia在內多家公司先進晶片的管道。"
+  },
+  "tags": {
+   "en": [
+    "Nvidia",
+    "US-China Economic and Security Review Commission",
+    "AI chips",
+    "Export controls"
+   ],
+   "zh_hans": [
+    "Nvidia",
+    "美中经济与安全检讨委员会",
+    "AI芯片",
+    "出口管制"
+   ],
+   "zh_hant": [
+    "Nvidia",
+    "美中經濟暨安全檢討委員會",
+    "AI晶片",
+    "出口管制"
+   ]
+  },
+  "title": {
+   "en": "US report says PLA seeking Nvidia chips for AI weapons as Reuters finds over US$3 billion in projects using restricted chips",
+   "zh_hans": "美报告指解放军谋取Nvidia芯片制AI武器 路透揭逾30亿美元项目用受管制芯片",
+   "zh_hant": "美報告指解放軍謀取Nvidia晶片製AI武器 路透揭逾30億美元項目用受管制晶片"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-us-report-pla-seeking-nvidia-ai-chips-v2.jpg",
+  "card_time": "07:34",
+  "image_r2_key": "design/202611/20261119-us-report-pla-seeking-nvidia-ai-chips-v2.jpg"
+ },
+ {
+  "category": "finance",
   "id": "20261119-gold-plunges-3-pct-14-month-low",
   "published_at": "2026-11-19T06:31:00+08:00",
   "source": {
@@ -382,6 +550,48 @@
   },
   "card_time": "02:52",
   "image_r2_key": "design/202611/20261119-democrats-nominate-jeffries-house-speaker-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261118-panama-criminal-complaint-ck-hutchison-ports",
+  "published_at": "2026-11-19T02:12:00+08:00",
+  "source": {
+   "name": "Infobae",
+   "url": "https://www.infobae.com/panama/2026/11/18/contraloria-presento-una-denuncia-penal-contra-panama-ports-company-filial-del-conglomerado-chino-ck-hutchison/"
+  },
+  "summary": {
+   "en": "Panama's comptroller general has filed a criminal complaint over suspected irregularities found in an audit of the port concession contract with Panama Ports Company, the CK Hutchison unit that used to operate the Balboa and Cristobal ports at either end of the Panama Canal. The complaint, filed with the Public Ministry on November 17, also names former board members and administrators of the Panama Maritime Authority who served from 2014 to 2023. The audit covered the company's operations from 2014 to 2024, and the comptroller says the state failed to receive US$1.337 billion. Panama's Supreme Court declared the concession unconstitutional in January 2026, and the company is seeking more than US$2 billion in international arbitration, while CK Hutchison has a separate treaty claim of more than US$1.5 billion. The company and its parent, CK Hutchison, have rejected the government's actions, saying the termination of the concession violated their contractual rights.",
+   "zh_hans": "巴拿马审计长办公室就长和集团旗下巴拿马港口公司的港口特许经营合约审计中发现的涉嫌违规行为，提出刑事诉讼。诉讼于11月17日提交检方，对象还包括2014年至2023年期间巴拿马海事局的前董事局成员及管理人员。审计涵盖公司2014年至2024年的运营，审计长指国家少收13.37亿美元。巴拿马最高法院已于2026年1月裁定特许经营合约违宪，公司正通过国际仲裁索偿逾20亿美元，长和另有超过15亿美元的条约仲裁索偿。巴拿马港口公司及母公司长和已反对政府的做法，指终止特许经营违反其合约权利。",
+   "zh_hant": "巴拿馬審計長辦公室就長和集團旗下巴拿馬港口公司的港口特許經營合約審計中發現的涉嫌違規行為，提出刑事訴訟。訴訟於11月17日提交檢方，對象還包括2014年至2023年期間巴拿馬海事局的前董事局成員及管理人員。審計涵蓋公司2014年至2024年的營運，審計長指國家少收13.37億美元。巴拿馬最高法院已於2026年1月裁定特許經營合約違憲，公司正通過國際仲裁索償逾20億美元，長和另有超過15億美元的條約仲裁索償。巴拿馬港口公司及母公司長和已反對政府的做法，指終止特許經營違反其合約權利。"
+  },
+  "tags": {
+   "en": [
+    "Panama",
+    "CK Hutchison",
+    "Panama Ports Company",
+    "Panama Canal"
+   ],
+   "zh_hans": [
+    "巴拿马",
+    "长和",
+    "巴拿马港口公司",
+    "巴拿马运河"
+   ],
+   "zh_hant": [
+    "巴拿馬",
+    "長和",
+    "巴拿馬港口公司",
+    "巴拿馬運河"
+   ]
+  },
+  "title": {
+   "en": "Panama files criminal complaint against CK Hutchison ports unit as firm seeks over US$2 billion in arbitration",
+   "zh_hans": "巴拿马提刑事诉讼 长和港口子公司涉违规兼索偿逾20亿美元",
+   "zh_hant": "巴拿馬提刑事訴訟 長和港口子公司涉違規兼索償逾20億美元"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261118-panama-criminal-complaint-ck-hutchison-ports-v2.jpg",
+  "card_time": "02:12",
+  "image_r2_key": "design/202611/20261118-panama-criminal-complaint-ck-hutchison-ports-v2.jpg"
  },
  {
   "card_time": "02:07",
@@ -1139,210 +1349,5 @@
   },
   "card_time": "09:48",
   "image_r2_key": "design/202611/20261118-apple-outage-app-store-icloud-v2.jpg"
- },
- {
-  "category": "finance",
-  "id": "20261119-nikkei-kospi-rise-open",
-  "published_at": "2026-11-19T08:26:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878381-20261119.htm"
-  },
-  "summary": {
-   "en": "Japanese and South Korean shares rose in early trading. The Nikkei rose as much as 390 points after the open to a high of 59,414, before the gain narrowed sharply to 59,041, up 17 points or 0.03%. The Seoul Composite reclaimed the 5,000 level, rising as much as 3.3% to 5,133, and was later at 5,067, up 98 points or about 2%.",
-   "zh_hans": "日韩股市初段向上。日经指数开市后曾升390点，高见59,414点，其后升幅显著收窄，较早时报59,041点，升17点，升幅0.03%。首尔综合指数收复5000点水平，最多升3.3%，触及5,133点，较早时报5,067点，升98点，升幅约2%。",
-   "zh_hant": "日韓股市初段向上。日經指數開市後曾升390點，高見59,414點，其後升幅顯著收窄，較早時報59,041點，升17點，升幅0.03%。首爾綜合指數收復5000點水平，最多升3.3%，觸及5,133點，較早時報5,067點，升98點，升幅約2%。"
-  },
-  "tags": {
-   "en": [
-    "Nikkei",
-    "KOSPI",
-    "Asian stocks",
-    "South Korea"
-   ],
-   "zh_hans": [
-    "日经指数",
-    "首尔综合指数",
-    "亚洲股市",
-    "韩国"
-   ],
-   "zh_hant": [
-    "日經指數",
-    "首爾綜合指數",
-    "亞洲股市",
-    "韓國"
-   ]
-  },
-  "title": {
-   "en": "Nikkei jumps nearly 400 points in early trade, Kospi climbs over 3% back above 5,000",
-   "zh_hans": "日股初段曾升近400点 韩股一度升逾3%重上5000点",
-   "zh_hant": "日股初段曾升近400點 韓股一度升逾3%重上5000點"
-  },
-  "image_url": "",
-  "card_time": "08:26"
- },
- {
-  "category": "hk",
-  "id": "20261119-mtr-hku-signal-fault-second-day",
-  "published_at": "2026-11-19T08:23:06+08:00",
-  "source": {
-   "name": "香港01",
-   "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412472/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%AB%99%E9%80%A3%E7%BA%8C%E5%85%A9%E6%97%A5%E4%BF%A1%E8%99%9F%E6%95%85%E9%9A%9C-%E6%B8%AF%E5%B3%B6%E7%B6%AB%E6%95%B4%E9%AB%94%E8%A1%8C%E8%BB%8A%E6%99%82%E9%96%93%E9%9C%80%E9%A1%8D%E5%A4%965%E8%87%B38%E5%88%86%E9%90%98"
-  },
-  "summary": {
-   "en": "For the second consecutive day, a signal equipment fault near HKU station has disrupted the Island Line. MTR said at around 8am today that trains must slow through the affected section, with overall journey times from terminus to terminus expected to take an extra 5 to 8 minutes, and staff are handling the fault. Passengers are advised to allow extra time for their journeys. Yesterday morning the same station suffered a similar fault at around 8:45am, disrupting service for about two hours before repairs were completed at around 10:30am.",
-   "zh_hans": "港铁香港大学站连续第二日出现信号设备故障，港岛线服务受影响。港铁今日早上约8时表示，由于香港大学站附近有信号设备故障，列车行经该路段需要慢驶，整体行车时间（总站至总站）预计需要额外5至8分钟，港铁人员正在处理，呼吁乘客为行程预留充裕时间。昨日早上约8时45分，同一车站亦出现同类故障，列车服务一度受阻约两小时，至早上约10时30分完成修复。",
-   "zh_hant": "港鐵香港大學站連續第二日出現信號設備故障，港島綫服務受影響。港鐵今日早上約8時表示，由於香港大學站附近有信號設備故障，列車行經該路段需要慢駛，整體行車時間（總站至總站）預計需要額外5至8分鐘，港鐵人員正在處理，呼籲乘客為行程預留充裕時間。昨日早上約8時45分，同一車站亦出現同類故障，列車服務一度受阻約兩小時，至早上約10時30分完成修復。"
-  },
-  "tags": {
-   "en": [
-    "MTR",
-    "Island Line",
-    "HKU Station",
-    "Signal fault"
-   ],
-   "zh_hans": [
-    "港铁",
-    "港岛线",
-    "香港大学站",
-    "信号故障"
-   ],
-   "zh_hant": [
-    "港鐵",
-    "港島綫",
-    "香港大學站",
-    "信號故障"
-   ]
-  },
-  "title": {
-   "en": "HKU station signal fault for second straight day, Island Line journeys take 5 to 8 minutes longer",
-   "zh_hans": "港大站信号故障连续两日 港岛线行车时间额外多5至8分钟",
-   "zh_hant": "港大站信號故障連續兩日 港島綫行車時間額外多5至8分鐘"
-  },
-  "image_url": "",
-  "card_time": "08:23"
- },
- {
-  "category": "hk",
-  "id": "20261119-cold-snap-temperatures-drop-3-4-degrees",
-  "published_at": "2026-11-19T07:51:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878378-20261119.htm"
-  },
-  "summary": {
-   "en": "A strong northeast monsoon is affecting the Guangdong coast, and temperatures across Hong Kong this morning are about 3 to 4 degrees lower than yesterday. The Observatory says the monsoon and a band of cloud will make southern China significantly cooler today and tomorrow, quite cool on the coast and cold in inland areas in the mornings. The cloud is expected to thin over the weekend, bringing a large day-night temperature difference with mornings still quite cool. An easterly airstream early next week will bring more cloud and slightly higher temperatures, before another northeast monsoon arrives mid-next week, bringing another drop in temperature and a few showers.",
-   "zh_hans": "一股强烈东北季候风正影响广东沿岸，今早本港多处地区气温较昨日低三至四度左右。天文台表示，强烈东北季候风及一道云带影响，华南地区今明两日显著转凉，未来一两日广东沿岸相当清凉，内陆地区早晚寒冷。随着覆盖广东的云带在周末转薄，该区日夜温差较大，早上仍然相当清凉。预料一股达强风程度的偏东气流会在下周初影响华南沿岸，该区云量增多，气温稍为回升。而另一股东北季候风会在下周中期影响华南，该区气温将再度下降及有几阵雨。",
-   "zh_hant": "一股強烈東北季候風正影響廣東沿岸，今早本港多處地區氣溫較昨日低三至四度左右。天文台表示，強烈東北季候風及一道雲帶影響，華南地區今明兩日顯著轉涼，未來一兩日廣東沿岸相當清涼，內陸地區早晚寒冷。隨着覆蓋廣東的雲帶在週末轉薄，該區日夜溫差較大，早上仍然相當清涼。預料一股達強風程度的偏東氣流會在下週初影響華南沿岸，該區雲量增多，氣溫稍為回升。而另一股東北季候風會在下週中期影響華南，該區氣溫將再度下降及有幾陣雨。"
-  },
-  "tags": {
-   "en": [
-    "Hong Kong Observatory",
-    "Temperature",
-    "Northeast monsoon",
-    "Weather"
-   ],
-   "zh_hans": [
-    "天文台",
-    "气温",
-    "东北季候风",
-    "天气"
-   ],
-   "zh_hant": [
-    "天文台",
-    "氣溫",
-    "東北季候風",
-    "天氣"
-   ]
-  },
-  "title": {
-   "en": "Temperatures 3 to 4 degrees lower this morning, another cold snap with rain expected mid-next week",
-   "zh_hans": "今早气温较昨日低三至四度 下周中期再转凉兼有雨",
-   "zh_hant": "今早氣溫較昨日低三至四度 下週中期再轉涼兼有雨"
-  },
-  "image_url": "",
-  "card_time": "07:51"
- },
- {
-  "category": "world",
-  "id": "20261119-us-report-pla-seeking-nvidia-ai-chips",
-  "published_at": "2026-11-19T07:34:00+08:00",
-  "source": {
-   "name": "風傳媒（中央社）",
-   "url": "https://www.storm.mg/article/11182942"
-  },
-  "summary": {
-   "en": "The US-China Economic and Security Review Commission said in its annual report, published on November 18, that China's military is seeking advanced Nvidia chips for use in AI-enabled weapons, because Chinese-made processors still lag behind US rivals. The report says Beijing is trying to circumvent US export controls to obtain the advanced semiconductors it considers vital to 'intelligentised warfare' — the PLA term for integrating AI into weapons, command and control, kill chains and logistics. It also notes that Huawei's Ascend and Cambricon's Siyuan chips still trail Nvidia and AMD products. Reuters found that more than US$3 billion worth of computing projects in China use Nvidia's restricted chips, despite Nvidia saying export controls had effectively shut it out of China's AI data-centre market. Washington announced on November 16 that it would further restrict China's access to advanced chips from Nvidia and other companies.",
-   "zh_hans": "美国政府独立机构“美中经济与安全检讨委员会”18日发布年度报告指出，由于中国制处理器持续落后美国对手，中国军方正寻求取得Nvidia先进芯片，要用于具备AI功能的武器。报告表示，北京当局正试图避开美国出口管制，以取得对中方推动“智能化战争”至关重要的先进半导体；“智能化战争”是解放军的用语，用来描述把人工智能整合进入武器、指挥管制、击杀链及后勤。报告还提到，华为昇腾和寒武纪思元系列等中国本土AI芯片，仍落后于美国Nvidia与超微更先进产品。路透检视后发现，中国有超过30亿美元的运算项目使用Nvidia受管制芯片，尽管Nvidia曾宣称出口管制实际上已让公司被排除在中国AI数据中心市场之外。华府于16日宣布，将进一步限制中国取得Nvidia在内多家公司先进芯片的管道。",
-   "zh_hant": "美國政府獨立機構「美中經濟暨安全檢討委員會」18日發布年度報告指出，由於中國製處理器持續落後美國對手，中國軍方正尋求取得Nvidia先進晶片，要用於具備AI功能之武器。報告表示，北京當局正試圖避開美國出口管制，以取得對中方推動「智能化戰爭」至關重要的先進半導體；「智能化戰爭」是解放軍的用語，用來描述把人工智能整合進入武器、指揮管制、擊殺鏈及後勤。報告還提到，華為昇騰和寒武紀思元系列等中國本土AI晶片，仍落後於美國Nvidia與超微更先進產品。路透檢視後發現，中國有超過30億美元的運算項目使用Nvidia受管制晶片，儘管Nvidia曾宣稱出口管制實際上已讓公司被排除在中國AI資料中心市場之外。華府於16日宣布，將進一步限制中國取得Nvidia在內多家公司先進晶片的管道。"
-  },
-  "tags": {
-   "en": [
-    "Nvidia",
-    "US-China Economic and Security Review Commission",
-    "AI chips",
-    "Export controls"
-   ],
-   "zh_hans": [
-    "Nvidia",
-    "美中经济与安全检讨委员会",
-    "AI芯片",
-    "出口管制"
-   ],
-   "zh_hant": [
-    "Nvidia",
-    "美中經濟暨安全檢討委員會",
-    "AI晶片",
-    "出口管制"
-   ]
-  },
-  "title": {
-   "en": "US report says PLA seeking Nvidia chips for AI weapons as Reuters finds over US$3 billion in projects using restricted chips",
-   "zh_hans": "美报告指解放军谋取Nvidia芯片制AI武器 路透揭逾30亿美元项目用受管制芯片",
-   "zh_hant": "美報告指解放軍謀取Nvidia晶片製AI武器 路透揭逾30億美元項目用受管制晶片"
-  },
-  "image_url": "",
-  "card_time": "07:34"
- },
- {
-  "category": "world",
-  "id": "20261118-panama-criminal-complaint-ck-hutchison-ports",
-  "published_at": "2026-11-19T02:12:00+08:00",
-  "source": {
-   "name": "Infobae",
-   "url": "https://www.infobae.com/panama/2026/11/18/contraloria-presento-una-denuncia-penal-contra-panama-ports-company-filial-del-conglomerado-chino-ck-hutchison/"
-  },
-  "summary": {
-   "en": "Panama's comptroller general has filed a criminal complaint over suspected irregularities found in an audit of the port concession contract with Panama Ports Company, the CK Hutchison unit that used to operate the Balboa and Cristobal ports at either end of the Panama Canal. The complaint, filed with the Public Ministry on November 17, also names former board members and administrators of the Panama Maritime Authority who served from 2014 to 2023. The audit covered the company's operations from 2014 to 2024, and the comptroller says the state failed to receive US$1.337 billion. Panama's Supreme Court declared the concession unconstitutional in January 2026, and the company is seeking more than US$2 billion in international arbitration, while CK Hutchison has a separate treaty claim of more than US$1.5 billion. The company and its parent, CK Hutchison, have rejected the government's actions, saying the termination of the concession violated their contractual rights.",
-   "zh_hans": "巴拿马审计长办公室就长和集团旗下巴拿马港口公司的港口特许经营合约审计中发现的涉嫌违规行为，提出刑事诉讼。诉讼于11月17日提交检方，对象还包括2014年至2023年期间巴拿马海事局的前董事局成员及管理人员。审计涵盖公司2014年至2024年的运营，审计长指国家少收13.37亿美元。巴拿马最高法院已于2026年1月裁定特许经营合约违宪，公司正通过国际仲裁索偿逾20亿美元，长和另有超过15亿美元的条约仲裁索偿。巴拿马港口公司及母公司长和已反对政府的做法，指终止特许经营违反其合约权利。",
-   "zh_hant": "巴拿馬審計長辦公室就長和集團旗下巴拿馬港口公司的港口特許經營合約審計中發現的涉嫌違規行為，提出刑事訴訟。訴訟於11月17日提交檢方，對象還包括2014年至2023年期間巴拿馬海事局的前董事局成員及管理人員。審計涵蓋公司2014年至2024年的營運，審計長指國家少收13.37億美元。巴拿馬最高法院已於2026年1月裁定特許經營合約違憲，公司正通過國際仲裁索償逾20億美元，長和另有超過15億美元的條約仲裁索償。巴拿馬港口公司及母公司長和已反對政府的做法，指終止特許經營違反其合約權利。"
-  },
-  "tags": {
-   "en": [
-    "Panama",
-    "CK Hutchison",
-    "Panama Ports Company",
-    "Panama Canal"
-   ],
-   "zh_hans": [
-    "巴拿马",
-    "长和",
-    "巴拿马港口公司",
-    "巴拿马运河"
-   ],
-   "zh_hant": [
-    "巴拿馬",
-    "長和",
-    "巴拿馬港口公司",
-    "巴拿馬運河"
-   ]
-  },
-  "title": {
-   "en": "Panama files criminal complaint against CK Hutchison ports unit as firm seeks over US$2 billion in arbitration",
-   "zh_hans": "巴拿马提刑事诉讼 长和港口子公司涉违规兼索偿逾20亿美元",
-   "zh_hant": "巴拿馬提刑事訴訟 長和港口子公司涉違規兼索償逾20億美元"
-  },
-  "image_url": "",
-  "card_time": "02:12"
  }
 ]
