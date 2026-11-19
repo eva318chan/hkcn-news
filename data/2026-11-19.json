@@ -3882,5 +3882,134 @@
   },
   "card_time": "09:48",
   "image_r2_key": "design/202611/20261118-apple-outage-app-store-icloud-v2.jpg"
+ },
+ {
+  "id": "20261119-jefferson-ai-inflation-pressure",
+  "category": "finance",
+  "published_at": "2026-11-19T23:27:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878511-20261119.htm"
+  },
+  "source_name": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878511-20261119.htm",
+  "image_url": "",
+  "card_time": "23:27",
+  "title": {
+   "en": "Fed's Jefferson: AI Demand Is Pushing Up US Inflation, With Productivity Relief Only in the Long Run",
+   "zh_hans": "联储局副主席杰斐逊：AI需求推高美国通胀 长远生产力提升先纾缓压力",
+   "zh_hant": "聯儲局副主席杰斐遜：AI需求推高美國通脹 長遠生產力提升先紓緩壓力"
+  },
+  "summary": {
+   "en": "US Federal Reserve Vice Chair Philip Jefferson said in a speech at an event that rapidly growing demand from artificial intelligence is adding to inflationary pressure in the United States, as optimism about the technology spurs business investment, especially in data centres, advanced computing equipment and related products. Jefferson did not comment on the interest-rate outlook. He said the AI shock will affect both supply and demand — it may replace some jobs while creating new ones — but he believes productivity gains from the new technology will lower price pressures in the long run.",
+   "zh_hans": "美国联储局副主席杰斐逊在一个活动发表的致辞中表示，人工智能急速发展带来的需求，正增加美国的通胀压力，认为科技发展的乐观情绪，正刺激商业投资，特别是数据中心、先进运算设备和相关产品。杰斐逊未有评论美国的利率前景，他认为，AI带来的冲击将同时影响市场供求，一方面或会替代部分职位，另一方面亦会创造新的工作岗位。不过，他相信，新技术带来的生产力改善，长远将降低价格压力。",
+   "zh_hant": "美國聯儲局副主席杰斐遜在一個活動發表的致辭中表示，人工智能急速發展帶來的需求，正增加美國的通脹壓力，認為科技發展的樂觀情緒，正刺激商業投資，特別是數據中心、先進運算設備和相關產品。杰斐遜未有評論美國的利率前景，他認為，AI帶來的衝擊將同時影響市場供求，一方面或會替代部分職位，另一方面亦會創造新的工作崗位。不過，他相信，新技術帶來的生產力改善，長遠將降低價格壓力。"
+  },
+  "tags": {
+   "en": [
+    "Federal Reserve",
+    "Philip Jefferson",
+    "Artificial Intelligence",
+    "Inflation"
+   ],
+   "zh_hans": [
+    "联储局",
+    "杰斐逊",
+    "人工智能",
+    "通胀"
+   ],
+   "zh_hant": [
+    "聯儲局",
+    "杰斐遜",
+    "人工智能",
+    "通脹"
+   ]
+  }
+ },
+ {
+  "id": "20261119-us-stocks-early-nasdaq-up-anthropic-ipo",
+  "category": "finance",
+  "published_at": "2026-11-19T22:56:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878508-20261119.htm"
+  },
+  "source_name": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878508-20261119.htm",
+  "image_url": "",
+  "card_time": "22:56",
+  "title": {
+   "en": "US Stocks Rise Early as Nasdaq Gains Nearly 2% to 24,888, Lifted by AI Shares After Anthropic Listing",
+   "zh_hans": "美股初段造好 纳指升近2%报24888点 Anthropic上市带动AI股",
+   "zh_hant": "美股初段造好 納指升近2%報24888點 Anthropic上市帶動AI股"
+  },
+  "summary": {
+   "en": "US stocks rose in early trading, with AI-related shares boosted by the listing of American artificial intelligence company Anthropic. The Dow Jones Industrial Average was at 50,257, up 59 points or 0.12 percent; the S&P 500 was at 7,391, up 67 points or 0.92 percent; and the Nasdaq was at 24,888, up 459 points or 1.88 percent. Intel rose nearly 8 percent at one point, while Nvidia gained nearly 4 percent.",
+   "zh_hans": "美股初段造好。美国人工智能公司Anthropic上市，提振AI相关股份表现。道琼斯指数较早时报50257点，升59点，升幅0.12%；标普500指数报7391点，升67点，升幅0.92%；纳斯达克指数报24888点，升459点，升幅1.88%。英特尔较早时升近8%，Nvidia升近4%。",
+   "zh_hant": "美股初段造好。美國人工智能公司Anthropic上市，提振AI相關股份表現。道瓊斯指數較早時報50257點，升59點，升幅0.12%；標普500指數報7391點，升67點，升幅0.92%；納斯達克指數報24888點，升459點，升幅1.88%。英特爾較早時升近8%，Nvidia升近4%。"
+  },
+  "tags": {
+   "en": [
+    "US Stocks",
+    "Nasdaq",
+    "Anthropic",
+    "Nvidia"
+   ],
+   "zh_hans": [
+    "美股",
+    "纳斯达克",
+    "Anthropic",
+    "Nvidia"
+   ],
+   "zh_hant": [
+    "美股",
+    "納斯達克",
+    "Anthropic",
+    "Nvidia"
+   ]
+  }
+ },
+ {
+  "id": "20261119-lee-tung-christmas-lights-snow-shows",
+  "category": "hk",
+  "published_at": "2026-11-19T22:39:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878506-20261119.htm"
+  },
+  "source_name": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878506-20261119.htm",
+  "image_url": "",
+  "card_time": "22:39",
+  "title": {
+   "en": "Lee Tung Avenue Lights Up for Christmas With 50 Snow Shows and Over 200 Floating Decorations",
+   "zh_hans": "利东街圣诞灯饰亮灯 50场飘雪汇演＋逾200件装饰迎圣诞",
+   "zh_hant": "利東街聖誕燈飾亮燈 50場飄雪匯演＋逾200件裝飾迎聖誕"
+  },
+  "summary": {
+   "en": "Wan Chai's Lee Tung Avenue held its Christmas lighting ceremony tonight, kicking off festive activities that run from tomorrow, November 20, until January 3 next year. From December 4, 50 snow shows will be staged on Fridays, Saturdays, Christmas Eve, Christmas Day and New Year's Eve. Both entrances are dressed with giant bow ribbons, while more than 200 decorations — including giant gift boxes, snowflakes, star lights and ribbons — float above the tree-lined avenue, and the atrium features a giant gold bow, an eight-metre Christmas tree and a Santa cabin.",
+   "zh_hans": "湾仔利东街今晚举行亮灯仪式，为明日（20日）起至明年1月3日的圣诞节庆活动揭开序幕。由12月4日起，逢星期五、六，以及平安夜、圣诞节与除夕夜将举行共50场飘雪汇演。利东街两端入口系上巨型蝴蝶结丝带，林荫大道上空悬浮逾200件不同造型的装饰，包括巨型礼物盒、雪花、星形灯饰及丝带；中庭亦有巨型金色蝴蝶结、8米高的圣诞树及圣诞老人小木屋。",
+   "zh_hant": "灣仔利東街今晚舉行亮燈儀式，為明日（20日）起至明年1月3日的聖誕節慶活動揭開序幕。由12月4日起，逢星期五、六，以及平安夜、聖誕節與除夕夜將舉行共50場飄雪匯演。利東街兩端入口繫上巨型蝴蝶結絲帶，林蔭大道上空懸浮逾200件不同造型的裝飾，包括巨型禮物盒、雪花、星形燈飾及絲帶；中庭亦有巨型金色蝴蝶結、8米高的聖誕樹及聖誕老人小木屋。"
+  },
+  "tags": {
+   "en": [
+    "Lee Tung Avenue",
+    "Christmas Lights",
+    "Snow Shows",
+    "Wan Chai"
+   ],
+   "zh_hans": [
+    "利东街",
+    "圣诞灯饰",
+    "飘雪汇演",
+    "湾仔"
+   ],
+   "zh_hant": [
+    "利東街",
+    "聖誕燈飾",
+    "飄雪匯演",
+    "灣仔"
+   ]
+  }
  }
 ]
