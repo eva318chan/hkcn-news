@@ -1,5 +1,52 @@
 [
  {
+  "id": "20261119-tvb-59th-anniversary-gala-highlights",
+  "category": "entertainment",
+  "published_at": "2026-11-19T20:30:00+08:00",
+  "source": {
+   "name": "明報",
+   "url": "https://ol.mingpao.com/ldy/showbiz/latest/20261119/1795090607287/無綫台慶-麥美恩玩「雪藏梗」羅嘉良率眾跳唱-黃庭鋒又抽中獎"
+  },
+  "source_name": "明報",
+  "source_url": "https://ol.mingpao.com/ldy/showbiz/latest/20261119/1795090607287/無綫台慶-麥美恩玩「雪藏梗」羅嘉良率眾跳唱-黃庭鋒又抽中獎",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-tvb-59th-anniversary-gala-highlights-v2.jpg",
+  "card_time": "20:30",
+  "title": {
+   "en": "TVB Marks 59th Anniversary With Star-Studded Gala as Mayanne Mak Jokes About Being 'Frozen Out' and Gallen Lo Leads 170 Artists On Stage",
+   "zh_hans": "无线59周年台庆今晚举行 麦美恩玩「雪藏梗」破格出场 罗嘉良率170艺员跳唱",
+   "zh_hant": "無綫59周年台慶今晚舉行 麥美恩玩「雪藏梗」破格出場 羅嘉良率170藝員跳唱"
+  },
+  "summary": {
+   "en": "TVB's anniversary gala, TVB Anniversary Awards, was held tonight at Television City to celebrate the station's 59th anniversary. The show opened with a skit in which Liza Wang led fellow hosts in a meeting, before Mayanne Mak emerged from a refrigerator to poke fun at her own 'being frozen out' episode, joking that 'the fridge isn't even cold'. Gallen Lo, dressed as Lui Kei from The Greed of Man, led more than 170 artists in a performance of the drama's theme song, spanning the studio and the car park. Liza Wang also paid tribute to behind-the-scenes staff, naming make-up, hair and wardrobe colleagues one by one. Wang and Lo drew the first lucky draw, with Wong Ting-fung and Lau Chung-pang each winning HK$83,000 in prizes. Kanis Yu, who has been embroiled in rumours, did not appear on the red carpet.",
+   "zh_hans": "无线《万千星辉贺台庆》今晚在电视城举行，庆祝迈向59周年。节目开场先播出汪明荃率领一众司仪开会片段，麦美恩由雪柜走出来，大玩「雪藏梗」，笑言「个雪柜都唔冻嘅」。罗嘉良化身《难兄难弟》「吕奇」，率领逾170位艺员跳唱《难兄难弟》，横跨录影厂和停车场，气氛热烈。阿姐亦向幕后功臣致敬，逐一点名梳化服同事。阿姐与罗嘉良负责抽出第一部分抽奖，黄庭锋与刘颂鹏各获8.3万元奖品连免找数签账额。卷入绯闻的俞可程未有现身红地毡。",
+   "zh_hant": "無綫《萬千星輝賀台慶》今晚在電視城舉行，慶祝邁向59周年。節目開場先播出汪明荃率領一眾司儀開會片段，麥美恩由雪櫃走出來，大玩「雪藏梗」，笑言「個雪櫃都唔凍嘅」。羅嘉良化身《難兄難弟》「呂奇」，率領逾170位藝員跳唱《難兄難弟》，橫跨錄影廠和停車場，氣氛熱烈。阿姐亦向幕後功臣致敬，逐一點名梳化服同事。阿姐與羅嘉良負責抽出第一部分抽獎，黃庭鋒與劉頌鵬各獲8.3萬元獎品連免找數簽賬額。捲入緋聞的俞可程未有現身紅地氈。"
+  },
+  "tags": {
+   "en": [
+    "TVB",
+    "Anniversary Gala",
+    "Liza Wang",
+    "Gallen Lo",
+    "Mayanne Mak"
+   ],
+   "zh_hans": [
+    "无线",
+    "台庆",
+    "汪明荃",
+    "罗嘉良",
+    "麦美恩"
+   ],
+   "zh_hant": [
+    "無綫",
+    "台慶",
+    "汪明荃",
+    "羅嘉良",
+    "麥美恩"
+   ]
+  },
+  "image_r2_key": "design/202611/20261119-tvb-59th-anniversary-gala-highlights-v2.jpg"
+ },
+ {
   "id": "20261119-ict-awards-2026-award-of-year-water-tank-robot",
   "category": "tech",
   "published_at": "2026-11-19T20:10:00+08:00",
@@ -45,6 +92,53 @@
    ]
   },
   "image_r2_key": "design/202611/20261119-ict-awards-2026-award-of-year-water-tank-robot.jpg"
+ },
+ {
+  "id": "20261119-cadmium-excess-imported-crab-sample",
+  "category": "hk",
+  "published_at": "2026-11-19T18:45:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/19/P2026111900537.htm"
+  },
+  "source_name": "政府新聞處",
+  "source_url": "https://www.info.gov.hk/gia/general/202611/19/P2026111900537.htm",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-cadmium-excess-imported-crab-sample-v2.jpg",
+  "card_time": "18:45",
+  "title": {
+   "en": "Imported Crab From Philippines Found With Cadmium Nearly Triple Legal Limit; Affected Batch Kept Off Market",
+   "zh_hant": "菲律賓進口蟹鎘含量超標近三倍 食安中心截獲 未流入市面",
+   "zh_hans": "菲律宾进口蟹镉含量超标近三倍 食安中心截获 未流入市面"
+  },
+  "summary": {
+   "en": "The Centre for Food Safety today announced that an imported crab sample from the Philippines contained cadmium at 5.6 parts per million, nearly three times the legal limit of 2 ppm. The sample was collected at the import level under the routine Food Surveillance Programme, and the affected batch has not entered the market. Long-term excessive intake of cadmium may affect kidney function. The Centre has informed the importer and the Philippine authorities, and will prosecute if there is sufficient evidence; selling food with metallic contamination above the limit carries a maximum fine of $50,000 and six months' imprisonment.",
+   "zh_hant": "食物環境衞生署食物安全中心今日公布，一個菲律賓進口蟹樣本驗出鎘含量百萬分之5.6，超出法定上限百萬分之2近三倍。樣本喺進口層面按恆常食物監測計劃抽取，受影響批次未流入市面。長期過量攝入鎘可能影響腎功能，中心已通知有關進口商及菲律賓當局，如有足夠證據會提出檢控；售賣金屬雜質超標食物一經定罪，最高可被罰款5萬元及監禁6個月。",
+   "zh_hans": "食物环境卫生署食物安全中心今日公布，一个菲律宾进口蟹样本验出镉含量百万分之5.6，超出法定上限百万分之2近三倍。样本在进口层面按恒常食物监测计划抽取，受影响批次未流入市面。长期过量摄入镉可能影响肾功能，中心已通知有关进口商及菲律宾当局，如有足够证据会提出检控；售卖金属杂质超标食物一经定罪，最高可被罚款5万元及监禁6个月。"
+  },
+  "tags": {
+   "en": [
+    "Centre for Food Safety",
+    "Cadmium",
+    "Philippines",
+    "Imported Crab",
+    "Food Safety"
+   ],
+   "zh_hant": [
+    "食物安全中心",
+    "鎘",
+    "菲律賓",
+    "進口蟹",
+    "食物安全"
+   ],
+   "zh_hans": [
+    "食物安全中心",
+    "镉",
+    "菲律宾",
+    "进口蟹",
+    "食物安全"
+   ]
+  },
+  "image_r2_key": "design/202611/20261119-cadmium-excess-imported-crab-sample-v2.jpg"
  },
  {
   "id": "20261119-mak-youth-talent-exchange-base-launch",
@@ -139,6 +233,53 @@
    ]
   },
   "image_r2_key": "design/202611/20261119-lee-apec-leaders-meeting-shenzhen.jpg"
+ },
+ {
+  "id": "20261119-sai-kung-cyclist-falls-helicopter-rescue",
+  "category": "hk",
+  "published_at": "2026-11-19T18:33:00+08:00",
+  "source": {
+   "name": "香港01",
+   "url": "https://www.hk01.com/突發/60412828/西貢單車男深涌碼頭疑墮地受傷-直升機救起送院搶救"
+  },
+  "source_name": "香港01",
+  "source_url": "https://www.hk01.com/突發/60412828/西貢單車男深涌碼頭疑墮地受傷-直升機救起送院搶救",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-sai-kung-cyclist-falls-helicopter-rescue-v2.jpg",
+  "card_time": "18:33",
+  "title": {
+   "en": "71-Year-Old Cyclist Suspected of Fainting and Falling Near Sai Kung Pier, Airlifted to Eastern Hospital for Emergency Treatment",
+   "zh_hans": "西贡七旬单车翁深涌疑晕倒堕地昏迷 直升机急送东区医院抢救",
+   "zh_hant": "西貢七旬單車翁深涌疑暈倒墮地昏迷 直升機急送東區醫院搶救"
+  },
+  "summary": {
+   "en": "At about 4:39pm today, three men set off by bicycle from Sai Sha GO PARK towards the Sham Chung campsite. Near the Sham Chung pier in Sai Kung, a 71-year-old man surnamed Tai was suspected to have fainted and fallen from his bicycle, losing consciousness. The Government Flying Service dispatched a helicopter to airlift him to Eastern Hospital for emergency treatment; he was wearing an oxygen mask on arrival and had an injury to the corner of his left eye. Mr Tai is understood to have a history of medical conditions. Police are investigating the incident.",
+   "zh_hans": "今日下午4时39分，三名男子由西沙GO PARK骑单车出发，前往深涌营地，途至西贡深涌码头附近，其中一名71岁姓戴老翁怀疑晕倒由单车跌下，不省人事。政府飞行服务队派出直升机，将他送往东区医院抢救，送院时须戴上氧气罩，左眼角有伤。据了解，戴翁有身体病患纪录，警方正调查事件。",
+   "zh_hant": "今日下午4時39分，三名男子由西沙GO PARK騎單車出發，前往深涌營地，途至西貢深涌碼頭附近，其中一名71歲姓戴老翁懷疑暈倒由單車跌下，不省人事。政府飛行服務隊派出直升機，將他送往東區醫院搶救，送院時須戴氧氣罩，左眼角有傷。據了解，戴翁有身體病患紀錄，警方正調查事件。"
+  },
+  "tags": {
+   "en": [
+    "Sai Kung",
+    "Cyclist",
+    "Sham Chung",
+    "Helicopter",
+    "Eastern Hospital"
+   ],
+   "zh_hans": [
+    "西贡",
+    "单车",
+    "深涌",
+    "直升机",
+    "东区医院"
+   ],
+   "zh_hant": [
+    "西貢",
+    "單車",
+    "深涌",
+    "直升機",
+    "東區醫院"
+   ]
+  },
+  "image_r2_key": "design/202611/20261119-sai-kung-cyclist-falls-helicopter-rescue-v2.jpg"
  },
  {
   "id": "20261119-customs-anti-illicit-cigarette-choi-ying-estate",
@@ -283,6 +424,53 @@
    ]
   },
   "image_r2_key": "design/202611/20261119-hsi-close-down-453-tencent-slumps-v2.jpg"
+ },
+ {
+  "id": "20261119-ict-awards-smart-living-sharpsight-grand-award",
+  "category": "tech",
+  "published_at": "2026-11-19T17:46:00+08:00",
+  "source": {
+   "name": "ezone",
+   "url": "https://ezone.hk/article/20082317/20025322/p=13"
+  },
+  "source_name": "ezone",
+  "source_url": "https://ezone.hk/article/20082317/20025322/p=13",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261119-ict-awards-smart-living-sharpsight-grand-award-v2.jpg",
+  "card_time": "17:46",
+  "title": {
+   "en": "Sharpsight's AI Neurorehabilitation System Wins Smart Living Grand Award at Hong Kong ICT Awards 2026",
+   "zh_hans": "资讯科技奖智慧生活大奖揭盅 锋视「面具师」神经康复系统夺魁",
+   "zh_hant": "資訊科技獎智慧生活大獎揭盅 鋒視「面具師」神經康復系統奪魁"
+  },
+  "summary": {
+   "en": "The Hong Kong ICT Awards 2026 ceremony was held today at the Hong Kong Convention and Exhibition Centre, with the Smart Living category winners revealed. Sharpsight Limited won the Smart Living Grand Award — and the Smart Living (Smart Healthcare) Gold Award — for its 'masquer® — Embodied AI Neurorehabilitation System'. Designed for people with movement disorders caused by neurological disease or injury, the system uses real-time embodied visual feedback to link movement intention with training, supporting therapists' assessment and personalised training.",
+   "zh_hans": "「2026香港资讯及通讯科技奖」颁奖典礼今日在香港会议展览中心举行，智慧生活奖得主揭盅。锋视有限公司凭「面具师® — 具身智能神经康复系统」勇夺智慧生活大奖，同时夺得智慧生活（智慧医疗）金奖。该系统适用于因神经疾病或损伤出现动作障碍的人士，通过实时具身视觉反馈，把动作意图连结至训练，提升患者投入度与训练体验，并支援治疗师评估及个人化训练。",
+   "zh_hant": "「2026香港資訊及通訊科技獎」頒獎典禮今日在香港會議展覽中心舉行，智慧生活獎得主揭盅。鋒視有限公司憑「面具師® — 具身智能神經康復系統」勇奪智慧生活大獎，同時奪得智慧生活（智慧醫療）金獎。該系統適用於因神經疾病或損傷出現動作障礙的人士，透過實時具身視覺反饋，把動作意圖連結至訓練，提升患者投入度與訓練體驗，並支援治療師評估及個人化訓練。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong ICT Awards",
+    "Smart Living",
+    "Artificial Intelligence",
+    "Sharpsight",
+    "Rehabilitation Technology"
+   ],
+   "zh_hans": [
+    "资讯及通讯科技奖",
+    "智慧生活",
+    "人工智能",
+    "锋视",
+    "康复科技"
+   ],
+   "zh_hant": [
+    "資訊及通訊科技獎",
+    "智慧生活",
+    "人工智能",
+    "鋒視",
+    "康復科技"
+   ]
+  },
+  "image_r2_key": "design/202611/20261119-ict-awards-smart-living-sharpsight-grand-award-v2.jpg"
  },
  {
   "id": "20261119-ura-to-kwa-wan-sino-eagle-2-688b",
@@ -3386,189 +3574,5 @@
   },
   "card_time": "09:48",
   "image_r2_key": "design/202611/20261118-apple-outage-app-store-icloud-v2.jpg"
- },
- {
-  "id": "20261119-tvb-59th-anniversary-gala-highlights",
-  "category": "entertainment",
-  "published_at": "2026-11-19T20:30:00+08:00",
-  "source": {
-   "name": "明報",
-   "url": "https://ol.mingpao.com/ldy/showbiz/latest/20261119/1795090607287/無綫台慶-麥美恩玩「雪藏梗」羅嘉良率眾跳唱-黃庭鋒又抽中獎"
-  },
-  "source_name": "明報",
-  "source_url": "https://ol.mingpao.com/ldy/showbiz/latest/20261119/1795090607287/無綫台慶-麥美恩玩「雪藏梗」羅嘉良率眾跳唱-黃庭鋒又抽中獎",
-  "image_url": "",
-  "card_time": "20:30",
-  "title": {
-   "en": "TVB Marks 59th Anniversary With Star-Studded Gala as Mayanne Mak Jokes About Being 'Frozen Out' and Gallen Lo Leads 170 Artists On Stage",
-   "zh_hans": "无线59周年台庆今晚举行 麦美恩玩「雪藏梗」破格出场 罗嘉良率170艺员跳唱",
-   "zh_hant": "無綫59周年台慶今晚舉行 麥美恩玩「雪藏梗」破格出場 羅嘉良率170藝員跳唱"
-  },
-  "summary": {
-   "en": "TVB's anniversary gala, TVB Anniversary Awards, was held tonight at Television City to celebrate the station's 59th anniversary. The show opened with a skit in which Liza Wang led fellow hosts in a meeting, before Mayanne Mak emerged from a refrigerator to poke fun at her own 'being frozen out' episode, joking that 'the fridge isn't even cold'. Gallen Lo, dressed as Lui Kei from The Greed of Man, led more than 170 artists in a performance of the drama's theme song, spanning the studio and the car park. Liza Wang also paid tribute to behind-the-scenes staff, naming make-up, hair and wardrobe colleagues one by one. Wang and Lo drew the first lucky draw, with Wong Ting-fung and Lau Chung-pang each winning HK$83,000 in prizes. Kanis Yu, who has been embroiled in rumours, did not appear on the red carpet.",
-   "zh_hans": "无线《万千星辉贺台庆》今晚在电视城举行，庆祝迈向59周年。节目开场先播出汪明荃率领一众司仪开会片段，麦美恩由雪柜走出来，大玩「雪藏梗」，笑言「个雪柜都唔冻嘅」。罗嘉良化身《难兄难弟》「吕奇」，率领逾170位艺员跳唱《难兄难弟》，横跨录影厂和停车场，气氛热烈。阿姐亦向幕后功臣致敬，逐一点名梳化服同事。阿姐与罗嘉良负责抽出第一部分抽奖，黄庭锋与刘颂鹏各获8.3万元奖品连免找数签账额。卷入绯闻的俞可程未有现身红地毡。",
-   "zh_hant": "無綫《萬千星輝賀台慶》今晚在電視城舉行，慶祝邁向59周年。節目開場先播出汪明荃率領一眾司儀開會片段，麥美恩由雪櫃走出來，大玩「雪藏梗」，笑言「個雪櫃都唔凍嘅」。羅嘉良化身《難兄難弟》「呂奇」，率領逾170位藝員跳唱《難兄難弟》，橫跨錄影廠和停車場，氣氛熱烈。阿姐亦向幕後功臣致敬，逐一點名梳化服同事。阿姐與羅嘉良負責抽出第一部分抽獎，黃庭鋒與劉頌鵬各獲8.3萬元獎品連免找數簽賬額。捲入緋聞的俞可程未有現身紅地氈。"
-  },
-  "tags": {
-   "en": [
-    "TVB",
-    "Anniversary Gala",
-    "Liza Wang",
-    "Gallen Lo",
-    "Mayanne Mak"
-   ],
-   "zh_hans": [
-    "无线",
-    "台庆",
-    "汪明荃",
-    "罗嘉良",
-    "麦美恩"
-   ],
-   "zh_hant": [
-    "無綫",
-    "台慶",
-    "汪明荃",
-    "羅嘉良",
-    "麥美恩"
-   ]
-  }
- },
- {
-  "id": "20261119-cadmium-excess-imported-crab-sample",
-  "category": "hk",
-  "published_at": "2026-11-19T18:45:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/19/P2026111900537.htm"
-  },
-  "source_name": "政府新聞處",
-  "source_url": "https://www.info.gov.hk/gia/general/202611/19/P2026111900537.htm",
-  "image_url": "",
-  "card_time": "18:45",
-  "title": {
-   "en": "Imported Crab From Philippines Found With Cadmium Nearly Triple Legal Limit; Affected Batch Kept Off Market",
-   "zh_hant": "菲律賓進口蟹鎘含量超標近三倍 食安中心截獲 未流入市面",
-   "zh_hans": "菲律宾进口蟹镉含量超标近三倍 食安中心截获 未流入市面"
-  },
-  "summary": {
-   "en": "The Centre for Food Safety today announced that an imported crab sample from the Philippines contained cadmium at 5.6 parts per million, nearly three times the legal limit of 2 ppm. The sample was collected at the import level under the routine Food Surveillance Programme, and the affected batch has not entered the market. Long-term excessive intake of cadmium may affect kidney function. The Centre has informed the importer and the Philippine authorities, and will prosecute if there is sufficient evidence; selling food with metallic contamination above the limit carries a maximum fine of $50,000 and six months' imprisonment.",
-   "zh_hant": "食物環境衞生署食物安全中心今日公布，一個菲律賓進口蟹樣本驗出鎘含量百萬分之5.6，超出法定上限百萬分之2近三倍。樣本喺進口層面按恆常食物監測計劃抽取，受影響批次未流入市面。長期過量攝入鎘可能影響腎功能，中心已通知有關進口商及菲律賓當局，如有足夠證據會提出檢控；售賣金屬雜質超標食物一經定罪，最高可被罰款5萬元及監禁6個月。",
-   "zh_hans": "食物环境卫生署食物安全中心今日公布，一个菲律宾进口蟹样本验出镉含量百万分之5.6，超出法定上限百万分之2近三倍。样本在进口层面按恒常食物监测计划抽取，受影响批次未流入市面。长期过量摄入镉可能影响肾功能，中心已通知有关进口商及菲律宾当局，如有足够证据会提出检控；售卖金属杂质超标食物一经定罪，最高可被罚款5万元及监禁6个月。"
-  },
-  "tags": {
-   "en": [
-    "Centre for Food Safety",
-    "Cadmium",
-    "Philippines",
-    "Imported Crab",
-    "Food Safety"
-   ],
-   "zh_hant": [
-    "食物安全中心",
-    "鎘",
-    "菲律賓",
-    "進口蟹",
-    "食物安全"
-   ],
-   "zh_hans": [
-    "食物安全中心",
-    "镉",
-    "菲律宾",
-    "进口蟹",
-    "食物安全"
-   ]
-  }
- },
- {
-  "id": "20261119-sai-kung-cyclist-falls-helicopter-rescue",
-  "category": "hk",
-  "published_at": "2026-11-19T18:33:00+08:00",
-  "source": {
-   "name": "香港01",
-   "url": "https://www.hk01.com/突發/60412828/西貢單車男深涌碼頭疑墮地受傷-直升機救起送院搶救"
-  },
-  "source_name": "香港01",
-  "source_url": "https://www.hk01.com/突發/60412828/西貢單車男深涌碼頭疑墮地受傷-直升機救起送院搶救",
-  "image_url": "",
-  "card_time": "18:33",
-  "title": {
-   "en": "71-Year-Old Cyclist Suspected of Fainting and Falling Near Sai Kung Pier, Airlifted to Eastern Hospital for Emergency Treatment",
-   "zh_hans": "西贡七旬单车翁深涌疑晕倒堕地昏迷 直升机急送东区医院抢救",
-   "zh_hant": "西貢七旬單車翁深涌疑暈倒墮地昏迷 直升機急送東區醫院搶救"
-  },
-  "summary": {
-   "en": "At about 4:39pm today, three men set off by bicycle from Sai Sha GO PARK towards the Sham Chung campsite. Near the Sham Chung pier in Sai Kung, a 71-year-old man surnamed Tai was suspected to have fainted and fallen from his bicycle, losing consciousness. The Government Flying Service dispatched a helicopter to airlift him to Eastern Hospital for emergency treatment; he was wearing an oxygen mask on arrival and had an injury to the corner of his left eye. Mr Tai is understood to have a history of medical conditions. Police are investigating the incident.",
-   "zh_hans": "今日下午4时39分，三名男子由西沙GO PARK骑单车出发，前往深涌营地，途至西贡深涌码头附近，其中一名71岁姓戴老翁怀疑晕倒由单车跌下，不省人事。政府飞行服务队派出直升机，将他送往东区医院抢救，送院时须戴上氧气罩，左眼角有伤。据了解，戴翁有身体病患纪录，警方正调查事件。",
-   "zh_hant": "今日下午4時39分，三名男子由西沙GO PARK騎單車出發，前往深涌營地，途至西貢深涌碼頭附近，其中一名71歲姓戴老翁懷疑暈倒由單車跌下，不省人事。政府飛行服務隊派出直升機，將他送往東區醫院搶救，送院時須戴氧氣罩，左眼角有傷。據了解，戴翁有身體病患紀錄，警方正調查事件。"
-  },
-  "tags": {
-   "en": [
-    "Sai Kung",
-    "Cyclist",
-    "Sham Chung",
-    "Helicopter",
-    "Eastern Hospital"
-   ],
-   "zh_hans": [
-    "西贡",
-    "单车",
-    "深涌",
-    "直升机",
-    "东区医院"
-   ],
-   "zh_hant": [
-    "西貢",
-    "單車",
-    "深涌",
-    "直升機",
-    "東區醫院"
-   ]
-  }
- },
- {
-  "id": "20261119-ict-awards-smart-living-sharpsight-grand-award",
-  "category": "tech",
-  "published_at": "2026-11-19T17:46:00+08:00",
-  "source": {
-   "name": "ezone",
-   "url": "https://ezone.hk/article/20082317/20025322/p=13"
-  },
-  "source_name": "ezone",
-  "source_url": "https://ezone.hk/article/20082317/20025322/p=13",
-  "image_url": "",
-  "card_time": "17:46",
-  "title": {
-   "en": "Sharpsight's AI Neurorehabilitation System Wins Smart Living Grand Award at Hong Kong ICT Awards 2026",
-   "zh_hans": "资讯科技奖智慧生活大奖揭盅 锋视「面具师」神经康复系统夺魁",
-   "zh_hant": "資訊科技獎智慧生活大獎揭盅 鋒視「面具師」神經康復系統奪魁"
-  },
-  "summary": {
-   "en": "The Hong Kong ICT Awards 2026 ceremony was held today at the Hong Kong Convention and Exhibition Centre, with the Smart Living category winners revealed. Sharpsight Limited won the Smart Living Grand Award — and the Smart Living (Smart Healthcare) Gold Award — for its 'masquer® — Embodied AI Neurorehabilitation System'. Designed for people with movement disorders caused by neurological disease or injury, the system uses real-time embodied visual feedback to link movement intention with training, supporting therapists' assessment and personalised training.",
-   "zh_hans": "「2026香港资讯及通讯科技奖」颁奖典礼今日在香港会议展览中心举行，智慧生活奖得主揭盅。锋视有限公司凭「面具师® — 具身智能神经康复系统」勇夺智慧生活大奖，同时夺得智慧生活（智慧医疗）金奖。该系统适用于因神经疾病或损伤出现动作障碍的人士，通过实时具身视觉反馈，把动作意图连结至训练，提升患者投入度与训练体验，并支援治疗师评估及个人化训练。",
-   "zh_hant": "「2026香港資訊及通訊科技獎」頒獎典禮今日在香港會議展覽中心舉行，智慧生活獎得主揭盅。鋒視有限公司憑「面具師® — 具身智能神經康復系統」勇奪智慧生活大獎，同時奪得智慧生活（智慧醫療）金獎。該系統適用於因神經疾病或損傷出現動作障礙的人士，透過實時具身視覺反饋，把動作意圖連結至訓練，提升患者投入度與訓練體驗，並支援治療師評估及個人化訓練。"
-  },
-  "tags": {
-   "en": [
-    "Hong Kong ICT Awards",
-    "Smart Living",
-    "Artificial Intelligence",
-    "Sharpsight",
-    "Rehabilitation Technology"
-   ],
-   "zh_hans": [
-    "资讯及通讯科技奖",
-    "智慧生活",
-    "人工智能",
-    "锋视",
-    "康复科技"
-   ],
-   "zh_hant": [
-    "資訊及通訊科技獎",
-    "智慧生活",
-    "人工智能",
-    "鋒視",
-    "康復科技"
-   ]
-  }
  }
 ]
