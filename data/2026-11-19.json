@@ -4190,5 +4190,45 @@
   },
   "card_time": "09:48",
   "image_r2_key": "design/202611/20261118-apple-outage-app-store-icloud-v2.jpg"
+ },
+ {
+  "id": "20261119-hkicl-fraudulent-website-warning-fpstk",
+  "category": "hk",
+  "published_at": "2026-11-19T17:55:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/19/P2026111900511.htm"
+  },
+  "source_name": "政府新聞處",
+  "source_url": "https://www.info.gov.hk/gia/general/202611/19/P2026111900511.htm",
+  "image_url": "",
+  "card_time": "17:55",
+  "title": {
+   "en": "Fake Website Impersonating Clearing Company Targets FPS Users With Bogus Buyer Protection",
+   "zh_hans": "假网站冒充结算公司行骗 扮「买家网上保障」骗转数快用户",
+   "zh_hant": "假網站冒充結算公司行騙 扮「買家網上保障」呃轉數快用戶"
+  },
+  "summary": {
+   "en": "Hong Kong Interbank Clearing Limited (HKICL) has found a fraudulent website, fpstk.xyz, impersonating the company by offering a so-called \"Buyer Online Protection\" service, including refunds to buyers, reporting of unauthorised online transactions and online transaction support for FPS payments, and directing users to fraudsters impersonating customer service staff. HKICL stressed the fake website has no affiliation with the company or any of its businesses, and that it does not directly provide FPS services to individual members of the public or contact them proactively under normal circumstances. HKICL's genuine official websites are www.hkicl.com.hk and fps.hkicl.com.hk. The company urged the public to beware of suspicious calls, websites and other communications and to protect their personal information; anyone receiving suspicious communication purportedly from HKICL can call 2533 1111 to verify, and suspected victims should report promptly to the Police.",
+   "zh_hans": "香港银行同业结算有限公司发现一个假冒网站，网址是fpstk.xyz，冒充结算公司推出所谓「买家网上保障」，提供买家退款、未经授权网上交易举报和网上交易支援等服务，还将用户引去假扮客服的骗徒那里。结算公司强调，这个假网站同公司或者公司任何业务都没有关系；公司一般不会直接向个别市民提供转数快服务，也不会主动联络个别市民。结算公司真正的官方网站是www.hkicl.com.hk和fps.hkicl.com.hk。结算公司呼吁市民提防可疑来电、网站或者其他通讯，保护个人资料；收到可疑通讯可以打2533 1111核实，怀疑受骗要立即报警。",
+   "zh_hant": "香港銀行同業結算有限公司發現一個假冒網站，網址係fpstk.xyz，冒充結算公司推出所謂「買家網上保障」，提供買家退款、未經授權網上交易舉報同網上交易支援等服務，仲將用戶引去假扮客服嘅騙徒嗰度。結算公司強調，呢個假網站同公司或者公司任何業務都冇關係；公司一般唔會直接向個別市民提供轉數快服務，亦唔會主動聯絡個別市民。結算公司真正嘅官方網站係www.hkicl.com.hk同fps.hkicl.com.hk。結算公司呼籲市民提防可疑來電、網站或者其他通訊，保護個人資料；收到可疑通訊可以打2533 1111核實，懷疑受騙要即刻報警。"
+  },
+  "tags": {
+   "en": [
+    "FPS",
+    "Fake website",
+    "Fraud prevention"
+   ],
+   "zh_hans": [
+    "转数快",
+    "假网站",
+    "防骗"
+   ],
+   "zh_hant": [
+    "轉數快",
+    "假網站",
+    "防騙"
+   ]
+  }
  }
 ]
