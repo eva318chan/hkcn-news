@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>中港新聞速報</title><link>https://hkcnexpress.com/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Thu, 19 Nov 2026 06:51:09 +0800</lastBuildDate>
+<title>中港新聞速報</title><link>https://hkcnexpress.com/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language><lastBuildDate>Thu, 19 Nov 2026 08:53:49 +0800</lastBuildDate>
+<item>
+<title>日股初段曾升近400點 韓股一度升逾3%重上5000點</title>
+<link>https://hkcnexpress.com/a/20261119-nikkei-kospi-rise-open.html</link>
+<guid>https://hkcnexpress.com/a/20261119-nikkei-kospi-rise-open.html</guid>
+<pubDate>Thu, 19 Nov 2026 08:26:00 +0800</pubDate>
+<description>日韓股市初段向上。日經指數開市後曾升390點，高見59,414點，其後升幅顯著收窄，較早時報59,041點，升17點，升幅0.03%。首爾綜合指數收復5000點水平，最多升3.3%，觸及5,133點，較早時報5,067點，升98點，升幅約2%。</description>
+</item>
+<item>
+<title>港大站信號故障連續兩日 港島綫行車時間額外多5至8分鐘</title>
+<link>https://hkcnexpress.com/a/20261119-mtr-hku-signal-fault-second-day.html</link>
+<guid>https://hkcnexpress.com/a/20261119-mtr-hku-signal-fault-second-day.html</guid>
+<pubDate>Thu, 19 Nov 2026 08:23:06 +0800</pubDate>
+<description>港鐵香港大學站連續第二日出現信號設備故障，港島綫服務受影響。港鐵今日早上約8時表示，由於香港大學站附近有信號設備故障，列車行經該路段需要慢駛，整體行車時間（總站至總站）預計需要額外5至8分鐘，港鐵人員正在處理，呼籲乘客為行程預留充裕時間。昨日早上約8時45分，同一車站亦出現同類故障，列車服務一度受阻約兩小時，至早上約10時30分完成修復。</description>
+</item>
+<item>
+<title>今早氣溫較昨日低三至四度 下週中期再轉涼兼有雨</title>
+<link>https://hkcnexpress.com/a/20261119-cold-snap-temperatures-drop-3-4-degrees.html</link>
+<guid>https://hkcnexpress.com/a/20261119-cold-snap-temperatures-drop-3-4-degrees.html</guid>
+<pubDate>Thu, 19 Nov 2026 07:51:00 +0800</pubDate>
+<description>一股強烈東北季候風正影響廣東沿岸，今早本港多處地區氣溫較昨日低三至四度左右。天文台表示，強烈東北季候風及一道雲帶影響，華南地區今明兩日顯著轉涼，未來一兩日廣東沿岸相當清涼，內陸地區早晚寒冷。隨着覆蓋廣東的雲帶在週末轉薄，該區日夜溫差較大，早上仍然相當清涼。預料一股達強風程度的偏東氣流會在下週初影響華南沿岸，該區雲量增多，氣溫稍為回升。而另一股東北季候風會在下週中期影響華南，該區氣溫將再度下降及有幾陣雨。</description>
+</item>
+<item>
+<title>美報告指解放軍謀取Nvidia晶片製AI武器 路透揭逾30億美元項目用受管制晶片</title>
+<link>https://hkcnexpress.com/a/20261119-us-report-pla-seeking-nvidia-ai-chips.html</link>
+<guid>https://hkcnexpress.com/a/20261119-us-report-pla-seeking-nvidia-ai-chips.html</guid>
+<pubDate>Thu, 19 Nov 2026 07:34:00 +0800</pubDate>
+<description>美國政府獨立機構「美中經濟暨安全檢討委員會」18日發布年度報告指出，由於中國製處理器持續落後美國對手，中國軍方正尋求取得Nvidia先進晶片，要用於具備AI功能之武器。報告表示，北京當局正試圖避開美國出口管制，以取得對中方推動「智能化戰爭」至關重要的先進半導體；「智能化戰爭」是解放軍的用語，用來描述把人工智能整合進入武器、指揮管制、擊殺鏈及後勤。報告還提到，華為昇騰和寒武紀思元系列等中國本土AI晶片，仍落後於美國Nvidia與超微更先進產品。路透檢視後發現，中國有超過30億美元的運算項目使用Nvidia受管制晶片，儘管Nvidia曾宣稱出口管制實際上已讓公司被排除在中國AI資料中心市場之外。華</description>
+</item>
 <item>
 <title>金價急跌逾3%創14個月新低 聯儲局鷹派訊號推高美元</title>
 <link>https://hkcnexpress.com/a/20261119-gold-plunges-3-pct-14-month-low.html</link>
@@ -64,6 +92,13 @@
 <guid>https://hkcnexpress.com/a/20261119-democrats-nominate-jeffries-house-speaker.html</guid>
 <pubDate>Thu, 19 Nov 2026 02:52:00 +0800</pubDate>
 <description>美國民主黨提名現任眾議院民主黨領袖傑弗里斯為眾議院議長，他有望成為美國歷史上首位非洲裔眾議院議長。眾議院民主黨黨團星期三舉行閉門投票通過提名，但傑弗里斯仍需在明年1月新一屆眾議院全體會議投票中獲得過半數支持，才可正式出任議長。民主黨在月初的中期選舉奪回國會參眾兩院控制權，新一屆國會任期將於明年1月3日開始。</description>
+</item>
+<item>
+<title>巴拿馬提刑事訴訟 長和港口子公司涉違規兼索償逾20億美元</title>
+<link>https://hkcnexpress.com/a/20261118-panama-criminal-complaint-ck-hutchison-ports.html</link>
+<guid>https://hkcnexpress.com/a/20261118-panama-criminal-complaint-ck-hutchison-ports.html</guid>
+<pubDate>Thu, 19 Nov 2026 02:12:00 +0800</pubDate>
+<description>巴拿馬審計長辦公室就長和集團旗下巴拿馬港口公司的港口特許經營合約審計中發現的涉嫌違規行為，提出刑事訴訟。訴訟於11月17日提交檢方，對象還包括2014年至2023年期間巴拿馬海事局的前董事局成員及管理人員。審計涵蓋公司2014年至2024年的營運，審計長指國家少收13.37億美元。巴拿馬最高法院已於2026年1月裁定特許經營合約違憲，公司正通過國際仲裁索償逾20億美元，長和另有超過15億美元的條約仲裁索償。巴拿馬港口公司及母公司長和已反對政府的做法，指終止特許經營違反其合約權利。</description>
 </item>
 <item>
 <title>中韓自貿協定第二階段談判實質性完成 歷時8年多 投資服務貿易負面清單開放</title>
@@ -316,41 +351,6 @@
 <guid>https://hkcnexpress.com/a/20261118-ce-meets-brunei-sultan-hassanal-bolkiah.html</guid>
 <pubDate>Wed, 18 Nov 2026 15:50:00 +0800</pubDate>
 <description>正在深圳出席亞太經合組織工商領導人峰會的行政長官李家超，與汶萊蘇丹哈桑納爾舉行雙邊會談。李家超表示，香港和汶萊商貿及人文聯繫密切，去年雙邊商品貿易按年增長四成，令人鼓舞。他提到《香港第一個五年規劃》和北部都會區發展正為香港注入強大動能，歡迎汶萊企業把握機遇，香港會積極擔當「超級聯繫人」和「超級增值人」角色。李家超亦鼓勵更多汶萊友好來港體驗穆斯林友善旅遊。</description>
-</item>
-<item>
-<title>許志安台慶夜任壓軸嘉賓 或遇馬國明 「安心事件」7年後首同場 網民為馬國明抱不平</title>
-<link>https://hkcnexpress.com/a/20261119-andy-hui-tvb-gala-kenneth-ma.html</link>
-<guid>https://hkcnexpress.com/a/20261119-andy-hui-tvb-gala-kenneth-ma.html</guid>
-<pubDate>Wed, 18 Nov 2026 15:36:00 +0800</pubDate>
-<description>無綫公布，許志安將擔任明晚（19日）舉行嘅《萬千星輝賀台慶》壓軸表演嘉賓，喺現場樂隊伴奏下獻唱經典金曲Medley。外界焦點落喺佢可能會同有份參與序幕歌舞環節嘅馬國明相遇，正係2019年「安心事件」7年後，兩人將首度同場，引發熱議。2019年，已婚嘅許志安被揭發同當時正與馬國明拍拖嘅黃心穎喺的士車廂內激吻，事件震撼全城。許志安自認「壞咗的人」，其長達33年嘅演藝事業隨即停擺；經過7年沉澱，佢喺今年10月重踏紅館舞台，連開3場演唱會並獲外界高度評價。馬國明曾公開表示早已原諒二人，從未對兩人心存怨恨，但大批網民仍為馬國明抱不平，喺網上留言質疑電視台係咪尊重佢，甚至揣測佢會唔會缺席明晚盛會。</description>
-</item>
-<item>
-<title>盧寵茂：公營醫療收費改革逾25萬人獲全額減免 首10月減免9億元</title>
-<link>https://hkcnexpress.com/a/20261118-healthcare-fee-waivers-250000-lo-chung-mau.html</link>
-<guid>https://hkcnexpress.com/a/20261118-healthcare-fee-waivers-250000-lo-chung-mau.html</guid>
-<pubDate>Wed, 18 Nov 2026 15:35:00 +0800</pubDate>
-<description>醫務衞生局局長盧寵茂在立法會回覆質詢時表示，公營醫療收費改革首階段今年1月1日實施，獲批全額醫療費用減免的人數由以往全年少於1.4萬人增至逾25萬人，今年首10個月減免金額約9億元。改革同時引入全年收費上限1萬元機制，截至10月底逾2.4萬名病人獲批，免收費用約2億元；今年首10個月四類次緊急及五類非緊急個案較去年同期減少7.0%，非緊急個案減幅達17.5%，醫管局過去10個月已將26項新藥納入藥物名冊。</description>
-</item>
-<item>
-<title>外交部：中俄美元首將就全球和平重要問題深入交換意見 會後及時發布消息</title>
-<link>https://hkcnexpress.com/a/20261118-mfa-china-russia-us-trilateral-global-peace.html</link>
-<guid>https://hkcnexpress.com/a/20261118-mfa-china-russia-us-trilateral-global-peace.html</guid>
-<pubDate>Wed, 18 Nov 2026 15:29:00 +0800</pubDate>
-<description>外交部發言人郭嘉昆回應有關中俄美元首會晤的提問時表示，中方早前已介紹三國元首在深圳會晤的有關安排，三國元首將就事關全球和平的重要問題深入交換意見。郭嘉昆又說，中方會及時發布會晤的相關消息。</description>
-</item>
-<item>
-<title>習近平深圳晤李在明 稱中韓要踐行真正多邊主義 韓方堅持一個中國不變</title>
-<link>https://hkcnexpress.com/a/20261118-xi-meets-lee-jae-myung-multilateralism.html</link>
-<guid>https://hkcnexpress.com/a/20261118-xi-meets-lee-jae-myung-multilateralism.html</guid>
-<pubDate>Wed, 18 Nov 2026 15:20:00 +0800</pubDate>
-<description>國家主席習近平在深圳會見來華出席亞太經合組織領導人非正式會議的韓國總統李在明。習近平指出，中韓都是多邊主義和自由貿易的受益者，雙方要加強多邊協作，共同踐行真正多邊主義，推進亞太共同體和亞太自貿區建設。李在明表示，韓方堅持一個中國的政策無改變、亦不會改變，願與中方密切高層交往，加強貿易、投資及產供鏈合作。</description>
-</item>
-<item>
-<title>屋宇署5年辦2500宗欠款工程 800宗未收回 涉款5300萬元</title>
-<link>https://hkcnexpress.com/a/20261118-buildings-default-works-2500-cases-53m-unrecovered.html</link>
-<guid>https://hkcnexpress.com/a/20261118-buildings-default-works-2500-cases-53m-unrecovered.html</guid>
-<pubDate>Wed, 18 Nov 2026 15:20:00 +0800</pubDate>
-<description>發展局局長林筱魯在立法會書面回覆表示，過去五年屋宇署就失修或危險樓宇及欠妥排水系統代業主進行約2,500宗欠款或緊急工程。截至今年9月30日，約800宗的工程費用至今未完全收回，涉及約5,300萬元，署方已就有關單位登記欠款證明。屋宇署會先委聘顧問及註冊承建商調查及施工，再向欠款業主追討工程費、監督費及利息。</description>
 </item>
 </channel>
 </rss>
