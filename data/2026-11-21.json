@@ -1,6 +1,45 @@
 [
   {
     "category": "world",
+    "id": "20261121-russia-massive-airstrike-kyiv-7-killed",
+    "published_at": "2026-11-21T03:46:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878657-20261121.htm"
+    },
+    "summary": {
+      "en": "Russia launched a large-scale airstrike on Ukraine on Friday, with authorities in Kyiv saying at least seven people were killed in the capital. Ukrainian President Volodymyr Zelenskyy described it as one of the largest airstrikes in nearly five years of war. Ukrainian officials said Russia fired more than 80 missiles and 400 drones, knocking out power in many areas, and three bridges across the Dnipro River in Kyiv were hit and damaged. Neighbouring Poland said two Russian missiles and a drone were suspected to have fallen in its south-east, and Prime Minister Donald Tusk said Russia was deliberately provoking and that NATO had been notified immediately.",
+      "zh_hans": "俄罗斯星期五对乌克兰发动大规模空袭，基辅当局指首都最少七人死亡。乌克兰总统泽连斯基形容，今次是近五年战事以来最大规模空袭之一。乌方指俄军发射超过80枚导弹及400架无人机，全国多地电力中断，基辅三条横跨第聂伯河的大桥被击中受损。邻国波兰表示，怀疑有两枚俄军导弹及一架无人机落入东南部境内，总理图斯克批评俄方蓄意挑衅，已即时通报北约。",
+      "zh_hant": "俄羅斯星期五對烏克蘭發動大規模空襲，基輔當局指首都最少七人死亡。烏克蘭總統澤連斯基形容，今次是近五年戰事以來最大規模空襲之一。烏方指俄軍發射超過80枚導彈及400架無人機，全國多地電力中斷，基輔三條橫跨第聶伯河的大橋被擊中受損。鄰國波蘭表示，懷疑有兩枚俄軍導彈及一架無人機落入東南部境內，總理圖斯克批評俄方蓄意挑釁，已即時通報北約。"
+    },
+    "tags": {
+      "en": [
+        "Russia",
+        "Ukraine",
+        "Airstrike"
+      ],
+      "zh_hans": [
+        "俄罗斯",
+        "乌克兰",
+        "空袭"
+      ],
+      "zh_hant": [
+        "俄羅斯",
+        "烏克蘭",
+        "空襲"
+      ]
+    },
+    "title": {
+      "en": "Russia launches one of largest airstrikes of the war on Ukraine as Kyiv reports at least 7 killed",
+      "zh_hans": "俄罗斯大规模空袭乌克兰 基辅最少7死 泽连斯基斥近五年最大规模之一",
+      "zh_hant": "俄羅斯大規模空襲烏克蘭 基輔最少7死 澤連斯基斥近五年最大規模之一"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-russia-massive-airstrike-kyiv-7-killed-v2.jpg",
+    "image_prompt": "事實：俄羅斯對烏克蘭發動大規模空襲，基輔最少7人死亡，澤連斯基形容係近五年戰事以來最大規模空襲之一，俄軍發射超過80枚導彈及400架無人機。場景：光猛日間基輔市景，第聶伯河上大橋，遠處有濃煙升起，天空明亮，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔或傷者畫面。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「俄羅斯大規模空襲烏克蘭」白字，第二行「基輔最少7死 澤連斯基斥近五年最大規模之一」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-russia-massive-airstrike-kyiv-7-killed-v2.jpg"
+  },
+  {
+    "category": "world",
     "id": "20261121-france-bird-flu-highest-risk-level",
     "published_at": "2026-11-21T02:27:00+08:00",
     "source": {
@@ -154,6 +193,84 @@
     "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261121-china-satellite-internet-launch-30-satellites-v2.jpg",
     "image_prompt": "事實：中國長征八號甲運載火箭在海南商業航天發射場成功發射衛星互聯網低軌30組衛星，順利入軌。場景：光猛日間火箭發射場，藍天白雲，火箭升空拖着白色煙霧，氣勢磅礴，唔用黑沉夜景，唔可以捏造具體地標建築。風格：電視新聞圖卡風格，16:9，明亮通透、有朝氣。標題兩行大字直接壓喺畫面上面，第一行「長征八號甲成功發射」白字，第二行「衛星互聯網30組衛星入軌」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
     "image_r2_key": "design/202611/20261121-china-satellite-internet-launch-30-satellites-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-lee-infra-week-loi-construction-overseas",
+    "published_at": "2026-11-20T22:50:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878652-20261120.htm"
+    },
+    "summary": {
+      "en": "The International Infrastructure Excellence Week, led by the Development Bureau, has opened, with Chief Executive John Lee witnessing the bureau exchange letters of intent and memoranda of understanding with several local and overseas organisations to deepen cross-regional cooperation and lay the groundwork for more local and mainland construction firms and products to go global. In his opening address, Lee said Hong Kong's first five-year plan sets out the city's strategic blueprint, with the Northern Metropolis as a core project, and Hong Kong must build future-ready infrastructure with smart-city thinking, artificial intelligence and advanced engineering. Vice-Minister of Water Resources Liu Dongshun said the ministry will deepen cooperation with Hong Kong on water affairs to safeguard water security for the Greater Bay Area's high-quality development.",
+      "zh_hans": "由发展局牵头主办的国际基建卓越周揭幕，行政长官李家超见证发展局与多个本地及海外机构交换意向书和合作备忘录，推动跨地域合作，为更多本地及内地建造企业和产品「出海」奠定基础。李家超致辞表示，香港首个五年规划勾划未来战略蓝图，北部都会区是核心项目，香港必须以智慧城市、人工智能和先进工程技术打造配合未来需要的基础设施。国家水利部副部长刘冬顺表示，水利部将深化对港涉水事务合作，为大湾区高质量发展提供水安全保障。",
+      "zh_hant": "由發展局牽頭主辦的國際基建卓越周揭幕，行政長官李家超見證發展局與多個本地及海外機構交換意向書和合作備忘錄，推動跨地域合作，為更多本地及內地建造企業和產品「出海」奠定基礎。李家超致辭表示，香港首個五年規劃勾劃未來戰略藍圖，北部都會區是核心項目，香港必須以智慧城市、人工智能和先進工程技術打造配合未來需要的基礎設施。國家水利部副部長劉冬順表示，水利部將深化對港涉水事務合作，為大灣區高質量發展提供水安全保障。"
+    },
+    "tags": {
+      "en": [
+        "John Lee",
+        "Infrastructure Excellence Week",
+        "Northern Metropolis"
+      ],
+      "zh_hans": [
+        "李家超",
+        "国际基建卓越周",
+        "北部都会区"
+      ],
+      "zh_hant": [
+        "李家超",
+        "國際基建卓越周",
+        "北部都會區"
+      ]
+    },
+    "title": {
+      "en": "John Lee witnesses Development Bureau exchange deals to help construction firms go global",
+      "zh_hans": "李家超见证发展局交换意向书 助建造企业出海 北都打造智慧城市",
+      "zh_hant": "李家超見證發展局交換意向書 助建造企業出海 北都打造智慧城市"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-lee-infra-week-loi-construction-overseas-v2.jpg",
+    "image_prompt": "事實：行政長官李家超見證發展局與多個本地及海外機構交換意向書，推動建造企業出海，北部都會區係核心項目。場景：光猛日間香港現代天際線，陽光下建築地盤吊臂，藍天白雲，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「李家超見證發展局交換意向書」白字，第二行「助建造企業出海 北都打造智慧城市」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-lee-infra-week-loi-construction-overseas-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-hksar-uscc-report-strong-condemnation",
+    "published_at": "2026-11-20T22:48:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878649-20261120.htm"
+    },
+    "summary": {
+      "en": "The Hong Kong Special Administrative Region government has strongly condemned the US-China Economic and Security Review Commission for publishing its 2026 report, which it said smears Hong Kong with false and biased claims. A spokesman said the government strongly disapproves of and firmly opposes the commission for putting politics above the rule of law and repeatedly interfering in Hong Kong affairs through its reports, and urged the United States to face the facts and immediately stop interfering in Hong Kong affairs, which are purely China's internal affairs. The government also said some external forces spread fake news after the Wang Fuk Court fire in Tai Po to smear rescue work, and it will not tolerate malicious smearing or incitement of hatred. The spokesman added that Jimmy Lai-linked activist Joshua Wong, mentioned in the report, pleaded guilty to conspiracy to collude with foreign forces to endanger national security and was jailed for 10 years.",
+      "zh_hans": "特区政府强烈谴责美中经济与安全审议委员会发表「2026年报告」，以失实和偏颇的言论污蔑抹黑香港。发言人表示强烈不满和坚决反对委员会以政治凌驾法治，一再透过报告干预香港事务，并敦促美国认清事实，立即停止干涉纯属中国内政的香港事务。特区政府又指出，有外部势力在大埔宏福苑火灾后散播假消息抹黑救援工作，绝不容忍恶意抹黑和煽动仇恨的行为。发言人又提到，报告提及的黄之锋承认串谋勾结外国势力危害国家安全罪，被判监十年。",
+      "zh_hant": "特區政府強烈譴責美中經濟與安全審議委員會發表「2026年報告」，以失實和偏頗的言論污衊抹黑香港。發言人表示強烈不滿和堅決反對委員會以政治凌駕法治，一再透過報告干預香港事務，並敦促美國認清事實，立即停止干涉純屬中國內政的香港事務。特區政府又指出，有外部勢力在大埔宏福苑火災後散播假消息抹黑救援工作，絕不容忍惡意抹黑和煽動仇恨的行為。發言人又提到，報告提及的黃之鋒承認串謀勾結外國勢力危害國家安全罪，被判監十年。"
+    },
+    "tags": {
+      "en": [
+        "HKSAR Government",
+        "USCC",
+        "Hong Kong"
+      ],
+      "zh_hans": [
+        "特区政府",
+        "美中经济与安全审议委员会",
+        "香港"
+      ],
+      "zh_hant": [
+        "特區政府",
+        "美中經濟與安全審議委員會",
+        "香港"
+      ]
+    },
+    "title": {
+      "en": "HKSAR government strongly condemns US-China commission report for smearing Hong Kong",
+      "zh_hans": "特区政府强烈谴责美中委员会报告 失实抹黑香港 促美方立即停止干涉",
+      "zh_hant": "特區政府強烈譴責美中委員會報告 失實抹黑香港 促美方立即停止干涉"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-hksar-uscc-report-strong-condemnation-v2.jpg",
+    "image_prompt": "事實：特區政府強烈譴責美中經濟與安全審議委員會發表2026年報告失實抹黑香港，促美方立即停止干涉香港事務。場景：光猛日間香港政府總部外景，維港海景，藍天白雲，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「特區政府強烈譴責美中委員會報告」白字，第二行「失實抹黑香港 促美方立即停止干涉」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-hksar-uscc-report-strong-condemnation-v2.jpg"
   },
   {
     "category": "finance",
@@ -313,6 +430,45 @@
   },
   {
     "category": "hk",
+    "id": "20261121-police-refund-scam-warning-data-breach",
+    "published_at": "2026-11-20T19:36:00+08:00",
+    "source": {
+      "name": "香港01",
+      "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413287/%E5%81%87%E5%86%92%E6%A9%9F%E6%A7%8B%E8%81%B7%E5%93%A1%E6%89%AE%E9%80%80%E6%AC%BE%E5%91%83%E9%8C%A2%E5%91%83%E8%B3%87%E6%96%99-%E8%AD%A6-%E6%88%96%E6%BA%90%E8%87%AA%E8%B3%87%E6%96%99%E5%A4%96%E6%B4%A9-%E5%8D%B3%E5%AD%B84%E6%8B%9B%E8%87%AA%E4%BF%9D"
+    },
+    "summary": {
+      "en": "Police have warned on their CyberDefender social media account that scammers are impersonating staff of institutions, accurately reciting shoppers' names, purchase records and delivery addresses, claiming an ordered item is out of stock and then using a refund as bait to lure victims into clicking links, entering personal details or transferring money. Police said the shoppers' data was \"likely\" obtained from data breaches at some institutions, and breached data may only be exploited after a delay. Police advised the public to watch for official breach notices, hang up and verify through official channels, use separate strong passwords and switch on two-factor authentication; anyone in doubt can call the Anti-Scam Helpline on 18222.",
+      "zh_hans": "警方在「守网者」社交平台发帖提醒，近日有骗徒冒充机构职员，能准确讲出购物者的姓名、购买纪录和送货地址，声称订购的物品「无货」，再以退款作诱饵，诱骗事主按连结、输入个人资料甚至转账。警方指出，骗徒取得的购物资料「好可能」源自部分机构的资料外泄事件，外泄资料可能隔一段时间才被利用。警方提醒市民留意官方公告、收线再核实、使用独立密码及开启双重认证；如有怀疑，可致电防骗易热线18222查询。",
+      "zh_hant": "警方在「守網者」社交平台發帖提醒，近日有騙徒冒充機構職員，能準確講出購物者的姓名、購買紀錄和送貨地址，聲稱訂購的物品「無貨」，再以退款作誘餌，誘騙事主按連結、輸入個人資料甚至轉賬。警方指出，騙徒取得的購物資料「好可能」源自部分機構的資料外洩事件，外洩資料可能隔一段時間才被利用。警方提醒市民留意官方公告、收線再核實、使用獨立密碼及開啟雙重認證；如有懷疑，可致電防騙易熱線18222查詢。"
+    },
+    "tags": {
+      "en": [
+        "Scam",
+        "Police",
+        "Anti-fraud"
+      ],
+      "zh_hans": [
+        "骗案",
+        "警方",
+        "防骗"
+      ],
+      "zh_hant": [
+        "騙案",
+        "警方",
+        "防騙"
+      ]
+    },
+    "title": {
+      "en": "Police warn refund scammers impersonating staff may be using leaked personal data",
+      "zh_hans": "骗徒扮职员呃退款 警告资料外泄随时被利用 市民识穿4招自保",
+      "zh_hant": "騙徒扮職員呃退款 警告資料外洩隨時被利用 市民識穿4招自保"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-police-refund-scam-warning-data-breach-v2.jpg",
+    "image_prompt": "事實：警方警告騙徒冒充機構職員呃退款，騙徒取得的購物資料好可能源自機構資料外洩，市民要學識4招自保。場景：光猛日間香港街頭，一個人手持手機，旁邊有防騙盾牌標誌，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「騙徒扮職員呃退款」白字，第二行「警告資料外洩隨時被利用 市民識穿4招自保」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-police-refund-scam-warning-data-breach-v2.jpg"
+  },
+  {
+    "category": "hk",
     "id": "20261121-yeung-ho-pei-yan-hao-yuen-tribute-ho-wai-ho",
     "published_at": "2026-11-20T16:51:00+08:00",
     "source": {
@@ -351,42 +507,43 @@
     "image_r2_key": "design/202611/20261121-yeung-ho-pei-yan-hao-yuen-tribute-ho-wai-ho-v3.jpg"
   },
   {
-    "category": "world",
-    "id": "20261121-russia-massive-airstrike-kyiv-7-killed",
-    "published_at": "2026-11-21T03:46:00+08:00",
+    "category": "finance",
+    "id": "20261121-hkicl-fraudulent-website-fpshk-xyz",
+    "published_at": "2026-11-20T00:00:00+08:00",
     "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878657-20261121.htm"
+      "name": "金管局",
+      "url": "https://www.hkma.gov.hk/eng/news-and-media/scam-alert/2026/11/20261120-3/"
     },
     "summary": {
-      "en": "Russia launched a large-scale airstrike on Ukraine on Friday, with authorities in Kyiv saying at least seven people were killed in the capital. Ukrainian President Volodymyr Zelenskyy described it as one of the largest airstrikes in nearly five years of war. Ukrainian officials said Russia fired more than 80 missiles and 400 drones, knocking out power in many areas, and three bridges across the Dnipro River in Kyiv were hit and damaged. Neighbouring Poland said two Russian missiles and a drone were suspected to have fallen in its south-east, and Prime Minister Donald Tusk said Russia was deliberately provoking and that NATO had been notified immediately.",
-      "zh_hans": "俄罗斯星期五对乌克兰发动大规模空袭，基辅当局指首都最少七人死亡。乌克兰总统泽连斯基形容，今次是近五年战事以来最大规模空袭之一。乌方指俄军发射超过80枚导弹及400架无人机，全国多地电力中断，基辅三条横跨第聂伯河的大桥被击中受损。邻国波兰表示，怀疑有两枚俄军导弹及一架无人机落入东南部境内，总理图斯克批评俄方蓄意挑衅，已即时通报北约。",
-      "zh_hant": "俄羅斯星期五對烏克蘭發動大規模空襲，基輔當局指首都最少七人死亡。烏克蘭總統澤連斯基形容，今次是近五年戰事以來最大規模空襲之一。烏方指俄軍發射超過80枚導彈及400架無人機，全國多地電力中斷，基輔三條橫跨第聶伯河的大橋被擊中受損。鄰國波蘭表示，懷疑有兩枚俄軍導彈及一架無人機落入東南部境內，總理圖斯克批評俄方蓄意挑釁，已即時通報北約。"
+      "en": "Hong Kong Interbank Clearing Limited has warned the public about a fraudulent website, fpshk.xyz, that purports to be from the company and imitates its \"Buyer Online Protection\" service, offering refunds, unauthorised-transaction reporting and online transaction support for Faster Payment System payments, and directing users to a fraudster impersonating customer service staff. The company stressed the fake website has no affiliation with it or its business, and it does not provide FPS services directly to the public or contact members of the public proactively. Anyone receiving suspicious communications purporting to be from the company should call its general line on 2533 1111 to verify, and suspected victims should report to the police promptly.",
+      "zh_hans": "香港银行同业结算有限公司发出警示，指近日发现一个假冒该公司的网站fpshk.xyz，假扮提供「买家网上保障」服务，包括退款、未经授权交易举报及转数快网上交易支援，并引导用户联络冒充客服的骗徒。结算公司强调，假网站与该公司及其业务完全无关，该公司不会直接向市民提供转数快服务，也不会主动联络市民。市民如收到可疑讯息，应致电2533 1111核实，怀疑受骗应立即报警。",
+      "zh_hant": "香港銀行同業結算有限公司發出警示，指近日發現一個假冒該公司的網站fpshk.xyz，假扮提供「買家網上保障」服務，包括退款、未經授權交易舉報及轉數快網上交易支援，並引導用戶聯絡冒充客服的騙徒。結算公司強調，假網站與該公司及其業務完全無關，該公司不會直接向市民提供轉數快服務，也不會主動向市民聯絡。市民如收到可疑訊息，應致電2533 1111核實，懷疑受騙應立即報警。"
     },
     "tags": {
       "en": [
-        "Russia",
-        "Ukraine",
-        "Airstrike"
+        "HKMA",
+        "Faster Payment System",
+        "Scam alert"
       ],
       "zh_hans": [
-        "俄罗斯",
-        "乌克兰",
-        "空袭"
+        "金管局",
+        "转数快",
+        "诈骗警示"
       ],
       "zh_hant": [
-        "俄羅斯",
-        "烏克蘭",
-        "空襲"
+        "金管局",
+        "轉數快",
+        "詐騙警示"
       ]
     },
     "title": {
-      "en": "Russia launches one of largest airstrikes of the war on Ukraine as Kyiv reports at least 7 killed",
-      "zh_hans": "俄罗斯大规模空袭乌克兰 基辅最少7死 泽连斯基斥近五年最大规模之一",
-      "zh_hant": "俄羅斯大規模空襲烏克蘭 基輔最少7死 澤連斯基斥近五年最大規模之一"
+      "en": "HKICL warns of fake website impersonating its FPS payment service",
+      "zh_hans": "金管局辖下结算公司示警 假网站冒充转数快客服呃退款",
+      "zh_hant": "金管局轄下結算公司示警 假網站冒充轉數快客服呃退款"
     },
-    "image_url": "",
-    "image_prompt": "事實：俄羅斯對烏克蘭發動大規模空襲，基輔最少7人死亡，澤連斯基形容係近五年戰事以來最大規模空襲之一，俄軍發射超過80枚導彈及400架無人機。場景：光猛日間基輔市景，第聶伯河上大橋，遠處有濃煙升起，天空明亮，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔或傷者畫面。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「俄羅斯大規模空襲烏克蘭」白字，第二行「基輔最少7死 澤連斯基斥近五年最大規模之一」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-hkicl-fraudulent-website-fpshk-xyz-v2.jpg",
+    "image_prompt": "事實：香港銀行同業結算有限公司示警，假網站fpshk.xyz冒充轉數快客服呃退款，提醒市民提防。場景：光猛日間香港金融區高樓，陽光下一個人手持手機，手機畫面有防騙盾牌標誌，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔，唔可以畫出假網站地址。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「金管局轄下結算公司示警」白字，第二行「假網站冒充轉數快客服呃退款」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-hkicl-fraudulent-website-fpshk-xyz-v2.jpg"
   },
   {
     "category": "world",
@@ -425,157 +582,5 @@
     },
     "image_url": "",
     "image_prompt": "事實：法國前總理德維爾潘宣布參加2027年法國總統選舉，曾反對伊拉克戰爭。場景：光猛日間巴黎愛麗舍宮外景，藍天白雲，法國國旗飄揚，石材建築莊嚴明亮，唔用黑沉夜景，唔可以捏造具體人物面孔，用剪影或背影代替。風格：電視新聞圖卡風格，16:9，寫實、莊重專業。標題兩行大字直接壓喺畫面上面，第一行「德維爾潘宣布參選2027法國總統」白字，第二行「曾反對伊戰再戰愛麗舍宮」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-lee-infra-week-loi-construction-overseas",
-    "published_at": "2026-11-20T22:50:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878652-20261120.htm"
-    },
-    "summary": {
-      "en": "The International Infrastructure Excellence Week, led by the Development Bureau, has opened, with Chief Executive John Lee witnessing the bureau exchange letters of intent and memoranda of understanding with several local and overseas organisations to deepen cross-regional cooperation and lay the groundwork for more local and mainland construction firms and products to go global. In his opening address, Lee said Hong Kong's first five-year plan sets out the city's strategic blueprint, with the Northern Metropolis as a core project, and Hong Kong must build future-ready infrastructure with smart-city thinking, artificial intelligence and advanced engineering. Vice-Minister of Water Resources Liu Dongshun said the ministry will deepen cooperation with Hong Kong on water affairs to safeguard water security for the Greater Bay Area's high-quality development.",
-      "zh_hans": "由发展局牵头主办的国际基建卓越周揭幕，行政长官李家超见证发展局与多个本地及海外机构交换意向书和合作备忘录，推动跨地域合作，为更多本地及内地建造企业和产品「出海」奠定基础。李家超致辞表示，香港首个五年规划勾划未来战略蓝图，北部都会区是核心项目，香港必须以智慧城市、人工智能和先进工程技术打造配合未来需要的基础设施。国家水利部副部长刘冬顺表示，水利部将深化对港涉水事务合作，为大湾区高质量发展提供水安全保障。",
-      "zh_hant": "由發展局牽頭主辦的國際基建卓越周揭幕，行政長官李家超見證發展局與多個本地及海外機構交換意向書和合作備忘錄，推動跨地域合作，為更多本地及內地建造企業和產品「出海」奠定基礎。李家超致辭表示，香港首個五年規劃勾劃未來戰略藍圖，北部都會區是核心項目，香港必須以智慧城市、人工智能和先進工程技術打造配合未來需要的基礎設施。國家水利部副部長劉冬順表示，水利部將深化對港涉水事務合作，為大灣區高質量發展提供水安全保障。"
-    },
-    "tags": {
-      "en": [
-        "John Lee",
-        "Infrastructure Excellence Week",
-        "Northern Metropolis"
-      ],
-      "zh_hans": [
-        "李家超",
-        "国际基建卓越周",
-        "北部都会区"
-      ],
-      "zh_hant": [
-        "李家超",
-        "國際基建卓越周",
-        "北部都會區"
-      ]
-    },
-    "title": {
-      "en": "John Lee witnesses Development Bureau exchange deals to help construction firms go global",
-      "zh_hans": "李家超见证发展局交换意向书 助建造企业出海 北都打造智慧城市",
-      "zh_hant": "李家超見證發展局交換意向書 助建造企業出海 北都打造智慧城市"
-    },
-    "image_url": "",
-    "image_prompt": "事實：行政長官李家超見證發展局與多個本地及海外機構交換意向書，推動建造企業出海，北部都會區係核心項目。場景：光猛日間香港現代天際線，陽光下建築地盤吊臂，藍天白雲，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「李家超見證發展局交換意向書」白字，第二行「助建造企業出海 北都打造智慧城市」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-hksar-uscc-report-strong-condemnation",
-    "published_at": "2026-11-20T22:48:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878649-20261120.htm"
-    },
-    "summary": {
-      "en": "The Hong Kong Special Administrative Region government has strongly condemned the US-China Economic and Security Review Commission for publishing its 2026 report, which it said smears Hong Kong with false and biased claims. A spokesman said the government strongly disapproves of and firmly opposes the commission for putting politics above the rule of law and repeatedly interfering in Hong Kong affairs through its reports, and urged the United States to face the facts and immediately stop interfering in Hong Kong affairs, which are purely China's internal affairs. The government also said some external forces spread fake news after the Wang Fuk Court fire in Tai Po to smear rescue work, and it will not tolerate malicious smearing or incitement of hatred. The spokesman added that Jimmy Lai-linked activist Joshua Wong, mentioned in the report, pleaded guilty to conspiracy to collude with foreign forces to endanger national security and was jailed for 10 years.",
-      "zh_hans": "特区政府强烈谴责美中经济与安全审议委员会发表「2026年报告」，以失实和偏颇的言论污蔑抹黑香港。发言人表示强烈不满和坚决反对委员会以政治凌驾法治，一再透过报告干预香港事务，并敦促美国认清事实，立即停止干涉纯属中国内政的香港事务。特区政府又指出，有外部势力在大埔宏福苑火灾后散播假消息抹黑救援工作，绝不容忍恶意抹黑和煽动仇恨的行为。发言人又提到，报告提及的黄之锋承认串谋勾结外国势力危害国家安全罪，被判监十年。",
-      "zh_hant": "特區政府強烈譴責美中經濟與安全審議委員會發表「2026年報告」，以失實和偏頗的言論污衊抹黑香港。發言人表示強烈不滿和堅決反對委員會以政治凌駕法治，一再透過報告干預香港事務，並敦促美國認清事實，立即停止干涉純屬中國內政的香港事務。特區政府又指出，有外部勢力在大埔宏福苑火災後散播假消息抹黑救援工作，絕不容忍惡意抹黑和煽動仇恨的行為。發言人又提到，報告提及的黃之鋒承認串謀勾結外國勢力危害國家安全罪，被判監十年。"
-    },
-    "tags": {
-      "en": [
-        "HKSAR Government",
-        "USCC",
-        "Hong Kong"
-      ],
-      "zh_hans": [
-        "特区政府",
-        "美中经济与安全审议委员会",
-        "香港"
-      ],
-      "zh_hant": [
-        "特區政府",
-        "美中經濟與安全審議委員會",
-        "香港"
-      ]
-    },
-    "title": {
-      "en": "HKSAR government strongly condemns US-China commission report for smearing Hong Kong",
-      "zh_hans": "特区政府强烈谴责美中委员会报告 失实抹黑香港 促美方立即停止干涉",
-      "zh_hant": "特區政府強烈譴責美中委員會報告 失實抹黑香港 促美方立即停止干涉"
-    },
-    "image_url": "",
-    "image_prompt": "事實：特區政府強烈譴責美中經濟與安全審議委員會發表2026年報告失實抹黑香港，促美方立即停止干涉香港事務。場景：光猛日間香港政府總部外景，維港海景，藍天白雲，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「特區政府強烈譴責美中委員會報告」白字，第二行「失實抹黑香港 促美方立即停止干涉」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-police-refund-scam-warning-data-breach",
-    "published_at": "2026-11-20T19:36:00+08:00",
-    "source": {
-      "name": "香港01",
-      "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413287/%E5%81%87%E5%86%92%E6%A9%9F%E6%A7%8B%E8%81%B7%E5%93%A1%E6%89%AE%E9%80%80%E6%AC%BE%E5%91%83%E9%8C%A2%E5%91%83%E8%B3%87%E6%96%99-%E8%AD%A6-%E6%88%96%E6%BA%90%E8%87%AA%E8%B3%87%E6%96%99%E5%A4%96%E6%B4%A9-%E5%8D%B3%E5%AD%B84%E6%8B%9B%E8%87%AA%E4%BF%9D"
-    },
-    "summary": {
-      "en": "Police have warned on their CyberDefender social media account that scammers are impersonating staff of institutions, accurately reciting shoppers' names, purchase records and delivery addresses, claiming an ordered item is out of stock and then using a refund as bait to lure victims into clicking links, entering personal details or transferring money. Police said the shoppers' data was \"likely\" obtained from data breaches at some institutions, and breached data may only be exploited after a delay. Police advised the public to watch for official breach notices, hang up and verify through official channels, use separate strong passwords and switch on two-factor authentication; anyone in doubt can call the Anti-Scam Helpline on 18222.",
-      "zh_hans": "警方在「守网者」社交平台发帖提醒，近日有骗徒冒充机构职员，能准确讲出购物者的姓名、购买纪录和送货地址，声称订购的物品「无货」，再以退款作诱饵，诱骗事主按连结、输入个人资料甚至转账。警方指出，骗徒取得的购物资料「好可能」源自部分机构的资料外泄事件，外泄资料可能隔一段时间才被利用。警方提醒市民留意官方公告、收线再核实、使用独立密码及开启双重认证；如有怀疑，可致电防骗易热线18222查询。",
-      "zh_hant": "警方在「守網者」社交平台發帖提醒，近日有騙徒冒充機構職員，能準確講出購物者的姓名、購買紀錄和送貨地址，聲稱訂購的物品「無貨」，再以退款作誘餌，誘騙事主按連結、輸入個人資料甚至轉賬。警方指出，騙徒取得的購物資料「好可能」源自部分機構的資料外洩事件，外洩資料可能隔一段時間才被利用。警方提醒市民留意官方公告、收線再核實、使用獨立密碼及開啟雙重認證；如有懷疑，可致電防騙易熱線18222查詢。"
-    },
-    "tags": {
-      "en": [
-        "Scam",
-        "Police",
-        "Anti-fraud"
-      ],
-      "zh_hans": [
-        "骗案",
-        "警方",
-        "防骗"
-      ],
-      "zh_hant": [
-        "騙案",
-        "警方",
-        "防騙"
-      ]
-    },
-    "title": {
-      "en": "Police warn refund scammers impersonating staff may be using leaked personal data",
-      "zh_hans": "骗徒扮职员呃退款 警告资料外泄随时被利用 市民识穿4招自保",
-      "zh_hant": "騙徒扮職員呃退款 警告資料外洩隨時被利用 市民識穿4招自保"
-    },
-    "image_url": "",
-    "image_prompt": "事實：警方警告騙徒冒充機構職員呃退款，騙徒取得的購物資料好可能源自機構資料外洩，市民要學識4招自保。場景：光猛日間香港街頭，一個人手持手機，旁邊有防騙盾牌標誌，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「騙徒扮職員呃退款」白字，第二行「警告資料外洩隨時被利用 市民識穿4招自保」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "finance",
-    "id": "20261121-hkicl-fraudulent-website-fpshk-xyz",
-    "published_at": "2026-11-20T00:00:00+08:00",
-    "source": {
-      "name": "金管局",
-      "url": "https://www.hkma.gov.hk/eng/news-and-media/scam-alert/2026/11/20261120-3/"
-    },
-    "summary": {
-      "en": "Hong Kong Interbank Clearing Limited has warned the public about a fraudulent website, fpshk.xyz, that purports to be from the company and imitates its \"Buyer Online Protection\" service, offering refunds, unauthorised-transaction reporting and online transaction support for Faster Payment System payments, and directing users to a fraudster impersonating customer service staff. The company stressed the fake website has no affiliation with it or its business, and it does not provide FPS services directly to the public or contact members of the public proactively. Anyone receiving suspicious communications purporting to be from the company should call its general line on 2533 1111 to verify, and suspected victims should report to the police promptly.",
-      "zh_hans": "香港银行同业结算有限公司发出警示，指近日发现一个假冒该公司的网站fpshk.xyz，假扮提供「买家网上保障」服务，包括退款、未经授权交易举报及转数快网上交易支援，并引导用户联络冒充客服的骗徒。结算公司强调，假网站与该公司及其业务完全无关，该公司不会直接向市民提供转数快服务，也不会主动联络市民。市民如收到可疑讯息，应致电2533 1111核实，怀疑受骗应立即报警。",
-      "zh_hant": "香港銀行同業結算有限公司發出警示，指近日發現一個假冒該公司的網站fpshk.xyz，假扮提供「買家網上保障」服務，包括退款、未經授權交易舉報及轉數快網上交易支援，並引導用戶聯絡冒充客服的騙徒。結算公司強調，假網站與該公司及其業務完全無關，該公司不會直接向市民提供轉數快服務，也不會主動向市民聯絡。市民如收到可疑訊息，應致電2533 1111核實，懷疑受騙應立即報警。"
-    },
-    "tags": {
-      "en": [
-        "HKMA",
-        "Faster Payment System",
-        "Scam alert"
-      ],
-      "zh_hans": [
-        "金管局",
-        "转数快",
-        "诈骗警示"
-      ],
-      "zh_hant": [
-        "金管局",
-        "轉數快",
-        "詐騙警示"
-      ]
-    },
-    "title": {
-      "en": "HKICL warns of fake website impersonating its FPS payment service",
-      "zh_hans": "金管局辖下结算公司示警 假网站冒充转数快客服呃退款",
-      "zh_hant": "金管局轄下結算公司示警 假網站冒充轉數快客服呃退款"
-    },
-    "image_url": "",
-    "image_prompt": "事實：香港銀行同業結算有限公司示警，假網站fpshk.xyz冒充轉數快客服呃退款，提醒市民提防。場景：光猛日間香港金融區高樓，陽光下一個人手持手機，手機畫面有防騙盾牌標誌，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔，唔可以畫出假網站地址。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「金管局轄下結算公司示警」白字，第二行「假網站冒充轉數快客服呃退款」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
   }
 ]
