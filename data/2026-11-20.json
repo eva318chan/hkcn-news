@@ -427,7 +427,7 @@
  {
   "category": "finance",
   "id": "20261120-japan-korea-stocks-plunge-nikkei-kospi",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-japan-korea-stocks-plunge-nikkei-kospi-v2.jpg",
   "published_at": "2026-11-20T08:06:00+08:00",
   "source": {
    "name": "香港電台",
@@ -459,12 +459,13 @@
    "en": "Nikkei Plunges 2.2% and Kospi Tumbles 3.6% as Asian Markets Open Under Heavy Selling",
    "zh_hans": "日经泻1297点跌2.18% 韩股急挫3.56% 亚洲股市初段齐捱沽",
    "zh_hant": "日經瀉1297點跌2.18% 韓股急挫3.56% 亞洲股市初段齊捱沽"
-  }
+  },
+  "image_r2_key": "design/202611/20261120-japan-korea-stocks-plunge-nikkei-kospi-v2.jpg"
  },
  {
   "category": "finance",
   "id": "20261120-japan-oct-cpi-2-3-pct-1-year-high",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-japan-oct-cpi-2-3-pct-1-year-high-v2.jpg",
   "published_at": "2026-11-20T07:51:00+08:00",
   "source": {
    "name": "香港電台",
@@ -496,12 +497,13 @@
    "en": "Japan October Inflation Hits 2.3%, Near 1-Year High as Core CPI Also Accelerates",
    "zh_hans": "日本10月通胀2.3%创约1年新高 核心通胀2.2%同创去年底以来最高",
    "zh_hant": "日本10月通脹2.3%創約1年新高 核心通脹2.2%同創去年底以來最高"
-  }
+  },
+  "image_r2_key": "design/202611/20261120-japan-oct-cpi-2-3-pct-1-year-high-v2.jpg"
  },
  {
   "category": "finance",
   "id": "20261120-dollar-index-1-5-year-high-treasury-yield-5-pct",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-dollar-index-1-5-year-high-treasury-yield-5-pct-v2.jpg",
   "published_at": "2026-11-20T06:55:00+08:00",
   "source": {
    "name": "香港電台",
@@ -533,6 +535,7 @@
    "en": "Dollar Index Hits Fresh 1.5-Year High as Treasury Yield Tests 5%; Commodity Currencies Slide",
    "zh_hans": "美元指数连升8日创年半新高 美债息下试5厘 商品货币齐跌",
    "zh_hant": "美元指數連升8日創年半新高 美債息下試5厘 商品貨幣齊跌"
-  }
+  },
+  "image_r2_key": "design/202611/20261120-dollar-index-1-5-year-high-treasury-yield-5-pct-v2.jpg"
  }
 ]
