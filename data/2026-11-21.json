@@ -310,5 +310,81 @@
     "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261121-yeung-ho-pei-yan-hao-yuen-tribute-ho-wai-ho-v3.jpg",
     "image_prompt": "事實：公務員事務局局長楊何蓓茵到浩園悼念殉職消防隊目何偉豪，承諾汲取宏福苑大火教訓，防止悲劇重演。場景：光猛日間莊嚴肅穆的紀念園，藍天白雲，鮮花與燭光擺放整齊，氣氛莊重安寧，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實、莊重。標題兩行大字直接壓喺畫面上面，第一行「悼念殉職消防隊目何偉豪」白字，第二行「承諾汲取教訓防悲劇重演」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
     "image_r2_key": "design/202611/20261121-yeung-ho-pei-yan-hao-yuen-tribute-ho-wai-ho-v3.jpg"
+  },
+  {
+    "category": "world",
+    "id": "20261121-france-bird-flu-highest-risk-level",
+    "published_at": "2026-11-21T02:27:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878656-20261121.htm"
+    },
+    "summary": {
+      "en": "France has raised the animal epidemic risk level for highly pathogenic avian influenza to the highest tier from Friday, in response to outbreaks among wild birds across Europe. The French government said cases have risen in wild birds in several neighbouring countries and the virus could spread along migratory bird routes; confirmed cases have already appeared in French wildlife and in small household poultry farms. Data shows six outbreaks have been reported in France since August, three at commercial farms and three involving household farms or captive birds.",
+      "zh_hans": "法国当局宣布，由星期五起将本土高致病性禽流感的动物疫情风险级别上调至最高级。法国政府指，近期多个邻国野生鸟类的高致病性禽流感病例增加，病毒可能随候鸟迁徙传播；法国境内野生动物及家庭式禽类饲养场已先后出现确诊病例。数据显示，自今年8月以来法国已录得6宗疫情，3宗在商业养殖场，另3宗涉及家庭式饲养场或圈养鸟类。",
+      "zh_hant": "法國當局宣布，由星期五起將本土高致病性禽流感的動物疫情風險級別上調至最高級。法國政府指，近期多個鄰國野生鳥類的高致病性禽流感病例增加，病毒可能隨候鳥遷徙傳播；法國境內野生動物及家庭式禽類飼養場已先後出現確診病例。數據顯示，自今年8月以來法國已錄得6宗疫情，3宗在商業養殖場，另3宗涉及家庭式飼養場或圈養鳥類。"
+    },
+    "tags": {
+      "en": [
+        "Bird flu",
+        "France",
+        "Migratory birds"
+      ],
+      "zh_hans": [
+        "禽流感",
+        "法国",
+        "候鸟"
+      ],
+      "zh_hant": [
+        "禽流感",
+        "法國",
+        "候鳥"
+      ]
+    },
+    "title": {
+      "en": "France raises bird flu risk to highest level as six outbreaks hit and migratory birds threaten spread",
+      "zh_hans": "法国禽流感风险升至最高级 今年已爆6宗疫情 候鸟迁徙恐播毒",
+      "zh_hant": "法國禽流感風險升至最高級 今年已爆6宗疫情 候鳥遷徙恐播毒"
+    },
+    "image_url": "",
+    "image_prompt": "事實：法國將高致病性禽流感風險級別上調至最高級，今年8月以來已錄得6宗疫情。場景：光猛日間法國鄉郊養殖場，藍天綠草，雞隻在圍欄內活動，遠處有候鳥飛過，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「法國禽流感風險升至最高級」白字，第二行「今年已爆6宗疫情 候鳥遷徙恐播毒」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
+  },
+  {
+    "category": "world",
+    "id": "20261121-devillepin-2027-french-presidential-run",
+    "published_at": "2026-11-21T01:16:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878655-20261121.htm"
+    },
+    "summary": {
+      "en": "Former French prime minister Dominique de Villepin has announced he will run in France's 2027 presidential election. De Villepin, who served as foreign minister, rose to prominence in 2003 when he spoke for the French government against the US invasion of Iraq. He has drawn renewed attention in recent years for his positions on international affairs, notably on the war in Gaza.",
+      "zh_hans": "法国前总理德维尔潘宣布，将参加2027年法国总统选举。德维尔潘曾任法国外长，2003年代表法国政府公开反对美国发动伊拉克战争，一举成名。近年他就加沙战争等国际议题多次表态，重新受到公众关注。",
+      "zh_hant": "法國前總理德維爾潘宣布，將參加2027年法國總統選舉。德維爾潘曾任法國外長，2003年代表法國政府公開反對美國發動伊拉克戰爭，一舉成名。近年他就加沙戰爭等國際議題多次表態，重新受到公眾關注。"
+    },
+    "tags": {
+      "en": [
+        "French presidential election",
+        "Dominique de Villepin",
+        "2027 election"
+      ],
+      "zh_hans": [
+        "法国大选",
+        "德维尔潘",
+        "2027年总统选举"
+      ],
+      "zh_hant": [
+        "法國大選",
+        "德維爾潘",
+        "2027年總統選舉"
+      ]
+    },
+    "title": {
+      "en": "De Villepin announces 2027 French presidential bid, the ex-PM who opposed the Iraq War eyes the Elysee",
+      "zh_hans": "德维尔潘宣布参选2027法国总统 曾反对伊战再战爱丽舍宫",
+      "zh_hant": "德維爾潘宣布參選2027法國總統 曾反對伊戰再戰愛麗舍宮"
+    },
+    "image_url": "",
+    "image_prompt": "事實：法國前總理德維爾潘宣布參加2027年法國總統選舉，曾反對伊拉克戰爭。場景：光猛日間巴黎愛麗舍宮外景，藍天白雲，法國國旗飄揚，石材建築莊嚴明亮，唔用黑沉夜景，唔可以捏造具體人物面孔，用剪影或背影代替。風格：電視新聞圖卡風格，16:9，寫實、莊重專業。標題兩行大字直接壓喺畫面上面，第一行「德維爾潘宣布參選2027法國總統」白字，第二行「曾反對伊戰再戰愛麗舍宮」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
   }
 ]
