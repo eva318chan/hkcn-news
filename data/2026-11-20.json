@@ -1,6 +1,293 @@
 [
  {
   "category": "hk",
+  "id": "20261120-echome-induction-cooker-banned",
+  "image_r2_key": "design/202611/20261120-echome-induction-cooker-banned.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-echome-induction-cooker-banned.jpg",
+  "published_at": "2026-11-20T11:15:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/20/P2026111800563.htm"
+  },
+  "summary": {
+   "en": "The Electrical and Mechanical Services Department has removed an induction cooker model from the record of listed models under the Energy Efficiency (Labelling of Products) Ordinance, meaning it may no longer be supplied in Hong Kong from today. The model is ecHome IDCS2100BK; sample compliance monitoring tests showed it failed to meet the relevant energy-efficiency and performance characteristics. Importer E.P.S.A. Corporation Limited has been notified and will publish a newspaper announcement that supply has been discontinued.",
+   "zh_hans": "机电工程署将一款电磁炉型号从《能源效益（产品标签）条例》下的表列型号纪录中除名，即日起不得在港供应。涉事型号为 ecHome IDCS2100BK，抽样合规监测测试结果显示未能达到相关能源效益及表现特征。进口商 E.P.S.A. Corporation Limited 已获通知，并将刊登报章公告宣布终止供应。",
+   "zh_hant": "機電工程署將一款電磁爐型號從《能源效益（產品標籤）條例》下的表列型號紀錄中除名，即日起不得在港供應。涉事型號為 ecHome IDCS2100BK，抽樣合規監測測試結果顯示未能達到相關能源效益及表現特徵。進口商 E.P.S.A. Corporation Limited 已獲通知，並將刊登報章公告宣布終止供應。"
+  },
+  "tags": {
+   "en": [
+    "EMSD",
+    "Induction cooker",
+    "Energy label",
+    "ecHome"
+   ],
+   "zh_hans": [
+    "机电工程署",
+    "电磁炉",
+    "能源标签",
+    "ecHome"
+   ],
+   "zh_hant": [
+    "機電工程署",
+    "電磁爐",
+    "能源標籤",
+    "ecHome"
+   ]
+  },
+  "title": {
+   "en": "ecHome induction cooker fails energy-efficiency test and is banned from sale in Hong Kong from today",
+   "zh_hans": "ecHome 电磁炉未能通过能源效益测试 即日起禁在港供应",
+   "zh_hant": "ecHome 電磁爐未能通過能源效益測試 即日起禁在港供應"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261120-finance-ministry-usd-sovereign-bond-hk",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-finance-ministry-usd-sovereign-bond-hk-v2.jpg",
+  "published_at": "2026-11-20T10:36:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878556-20261120.htm"
+  },
+  "summary": {
+   "en": "The Ministry of Finance issued US$2 billion of sovereign bonds in Hong Kong yesterday, with a three-year tenor and a coupon of 4.821%, all listed on the Hong Kong Stock Exchange. The issue drew enthusiastic demand from international investors, with total orders of US$72.3 billion, more than 36 times the issue size. Asian investors accounted for 52%, Europe and the Middle East 34%, and the Americas 14%. The ministry has issued US dollar sovereign bonds in Hong Kong several times since 2017, including a record US$6 billion in 2020 and US$4 billion last November.",
+   "zh_hans": "财政部昨日在香港发行20亿美元主权债券，年期3年，发行利率4.821厘，全部在联交所上市。债券受到国际投资者热烈追捧，总认购额723亿美元，是发行金额逾36倍；亚洲投资者占52%，欧洲及中东占34%，美洲占14%。财政部自2017年起多次在港发行美元主权债，2020年发行60亿美元是历来最多，去年11月亦发行40亿美元。",
+   "zh_hant": "財政部昨日在香港發行20億美元主權債券，年期3年，發行利率4.821厘，全部在聯交所上市。債券受到國際投資者熱烈追捧，總認購額723億美元，是發行金額逾36倍；亞洲投資者佔52%，歐洲及中東佔34%，美洲佔14%。財政部自2017年起多次在港發行美元主權債，2020年發行60億美元是歷年最多，去年11月亦發行40億美元。"
+  },
+  "tags": {
+   "en": [
+    "Sovereign bonds",
+    "Ministry of Finance",
+    "Hong Kong",
+    "US dollar bonds"
+   ],
+   "zh_hans": [
+    "主权债券",
+    "财政部",
+    "香港",
+    "美元债券"
+   ],
+   "zh_hant": [
+    "主權債券",
+    "財政部",
+    "香港",
+    "美元債券"
+   ]
+  },
+  "title": {
+   "en": "Ministry of Finance issues US$2 billion sovereign bonds in Hong Kong, oversubscribed more than 35 times as orders hit US$72.3 billion",
+   "zh_hans": "财政部在港发行20亿美元主权债 超额认购逾35倍 认购额达723亿美元",
+   "zh_hant": "財政部在港發行20億美元主權債 超額認購逾35倍 認購額達723億美元"
+  },
+  "image_r2_key": "design/202611/20261120-finance-ministry-usd-sovereign-bond-hk-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261120-legco-two-power-companies-tariff-review",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-legco-two-power-companies-tariff-review-v2.jpg",
+  "published_at": "2026-11-20T10:33:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878557-20261120.htm"
+  },
+  "summary": {
+   "en": "Hong Kong's two power companies will announce next year's tariff adjustment plans on Tuesday, with the Legislative Council's Panel on Environmental Affairs to first discuss the outcome of the annual tariff review. In November, CLP's average net tariff was 148.6 cents per unit, up about 5.7% from January, while HK Electric's net tariff was 183 cents per unit, up about 12% from January. Both companies said international energy prices remain volatile and they will use prudent procurement and diversified fuel strategies to limit the impact of fuel price swings on customers.",
+   "zh_hans": "两间电力公司将于下星期二公布明年电费调整方案，立法会环境事务委员会将先讨论周年电费检讨结果。今年11月，中电平均净电价为每度电148.6仙，较今年1月上调约5.7%；港灯11月净电价为每度电183仙，较1月上升约12%。两电都表示国际能源价格持续波动，会透过审慎采购及多元化燃料策略，尽量减低燃料价格波动对用户的影响。",
+   "zh_hant": "兩間電力公司將於下星期二公布明年電費調整方案，立法會環境事務委員會將先討論周年電費檢討結果。今年11月，中電平均淨電價為每度電148.6仙，較今年1月上調約5.7%；港燈11月淨電價為每度電183仙，較1月上升約12%。兩電都表示國際能源價格持續波動，會透過審慎採購及多元化燃料策略，盡量減低燃料價格波動對用戶的影響。"
+  },
+  "tags": {
+   "en": [
+    "Electricity tariffs",
+    "CLP",
+    "HK Electric",
+    "Legislative Council"
+   ],
+   "zh_hans": [
+    "电费",
+    "中电",
+    "港灯",
+    "立法会"
+   ],
+   "zh_hant": [
+    "電費",
+    "中電",
+    "港燈",
+    "立法會"
+   ]
+  },
+  "title": {
+   "en": "Two power companies to unveil next year's tariff plans on Tuesday as Legco takes up the review, with CLP's net tariff up 5.7% since January and HK Electric's up 12%",
+   "zh_hans": "两电下周二公布明年电费方案 立法会先讨论 中电净电价较年初升5.7% 港灯升12%",
+   "zh_hant": "兩電下周二公布明年電費方案 立法會先討論 中電淨電價較年初升5.7% 港燈升12%"
+  },
+  "image_r2_key": "design/202611/20261120-legco-two-power-companies-tariff-review-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261120-china-russia-us-peace-declaration-scholars-un-reform",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-china-russia-us-peace-declaration-scholars-un-reform-v2.jpg",
+  "published_at": "2026-11-20T10:31:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878555-20261120.htm"
+  },
+  "summary": {
+   "en": "The leaders of China, Russia and the United States held a historic meeting yesterday and issued a Peace Declaration, saying the three countries, as permanent members of the UN Security Council, are committed to advancing UN reform. The three countries plan to increase production and supply of refined petroleum products and will hold dialogue on reducing nuclear risks and preventing nuclear proliferation. Scholars said the declaration points the way for UN reform, noting China has long insisted on reform and that, as the influence of different countries has changed greatly since the UN was founded, improving representation will be a key focus. Increasing refined oil supply could bring geopolitical stability and confidence to markets.",
+   "zh_hans": "中俄美三国元首昨日举行历史性会晤后发表《和平宣言》，提到三国作为联合国安理会常任理事国，致力推动联合国改革；三国计划增加精炼石油产品的生产和供应，并将就减少核风险、防止核扩散举行对话。有学者认为，宣言为联合国改革提供方向，过去中国一直坚持改革，现时不同国家的影响力已大为变化，如何提升各国代表性将是改革重点；增加精炼石油产品供应可为地缘政治带来稳定性、为市场带来信心。",
+   "zh_hant": "中俄美三國元首昨日舉行歷史性會晤後發表《和平宣言》，提到三國作為聯合國安理會常任理事國，致力推動聯合國改革；三國計劃增加精煉石油產品的生產和供應，並將就減少核風險、防止核擴散舉行對話。有學者認為，宣言為聯合國改革提供方向，過去中國一直堅持改革，現時不同國家的影響力已大為變化，如何提升各國代表性將是改革重點；增加精煉石油產品供應可為地緣政治帶來穩定性、為市場帶來信心。"
+  },
+  "tags": {
+   "en": [
+    "Peace Declaration",
+    "China Russia US",
+    "UN reform",
+    "APEC"
+   ],
+   "zh_hans": [
+    "和平宣言",
+    "中俄美",
+    "联合国改革",
+    "APEC"
+   ],
+   "zh_hant": [
+    "和平宣言",
+    "中俄美",
+    "聯合國改革",
+    "APEC"
+   ]
+  },
+  "title": {
+   "en": "China, Russia and US issue Peace Declaration, with scholars saying it points the way for UN reform and dialogue on nuclear risks",
+   "zh_hans": "中俄美《和平宣言》出炉 学者：为联合国改革提供方向 并就核风险对话",
+   "zh_hant": "中俄美《和平宣言》出爐 學者：為聯合國改革提供方向 並就核風險對話"
+  },
+  "image_r2_key": "design/202611/20261120-china-russia-us-peace-declaration-scholars-un-reform-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261120-lee-apec-nextgen-young-entrepreneurs-speech",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-lee-apec-nextgen-young-entrepreneurs-speech-v2.jpg",
+  "published_at": "2026-11-20T10:30:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/20/P2026111900230.htm"
+  },
+  "summary": {
+   "en": "Chief Executive John Lee addressed the fourth APEC Next-Gen Young Entrepreneurs Summit by video, under the theme \"From Ideas to Impact: Young Entrepreneurs Driving Asia-Pacific Growth\". He said artificial intelligence is reshaping the economy and that the creativity and collaborative spirit of young entrepreneurs matter, encouraging young people to seize opportunities in the Greater Bay Area. Lee added that Hong Kong's first Youth Development Blueprint has rolled out more than 340 measures in four years, and the First Five-Year Plan will further expand opportunities for youth, with Hong Kong serving as the Greater Bay Area's core international hub connecting the mainland with the world.",
+   "zh_hans": "行政长官李家超以视像方式在第四届APEC Next-Gen青年企业家峰会致辞，主题为「从理念到影响：青年企业家推动亚太增长」。他谈及人工智能正重塑经济，青年创业者的创意与合作精神至关重要，并鼓励青年把握大湾区机遇。李家超又提到，香港首份《青年发展蓝图》推出四年内已推出逾340项措施，首个五年计划将进一步扩大青年发展机会，香港作为大湾区核心国际枢纽，连接内地与世界。",
+   "zh_hant": "行政長官李家超以視像方式在第四屆APEC Next-Gen青年企業家峰會致辭，主題為「從理念到影響：青年企業家推動亞太增長」。他談及人工智能正重塑經濟，青年創業者的創意與合作精神至關重要，並鼓勵青年把握大灣區機遇。李家超又提到，香港首份《青年發展藍圖》推出四年內已推出逾340項措施，首個五年計劃將進一步擴大青年發展機會，香港作為大灣區核心國際樞紐，連接內地與世界。"
+  },
+  "tags": {
+   "en": [
+    "John Lee",
+    "APEC",
+    "Young entrepreneurs",
+    "Youth Development Blueprint"
+   ],
+   "zh_hans": [
+    "李家超",
+    "APEC",
+    "青年企业家",
+    "青年发展蓝图"
+   ],
+   "zh_hant": [
+    "李家超",
+    "APEC",
+    "青年企業家",
+    "青年發展藍圖"
+   ]
+  },
+  "title": {
+   "en": "John Lee addresses APEC young entrepreneurs summit by video, urging youth to seize Greater Bay Area opportunities as over 340 youth measures roll out",
+   "zh_hans": "李家超视像出席APEC青年企业家峰会 勉励青年把握大湾区机遇 逾340项措施支援青年发展",
+   "zh_hant": "李家超視像出席APEC青年企業家峰會 勉勵青年把握大灣區機遇 逾340項措施支援青年發展"
+  },
+  "image_r2_key": "design/202611/20261120-lee-apec-nextgen-young-entrepreneurs-speech-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261120-xi-meets-albanese-prabowo-apec-shenzhen",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-xi-meets-albanese-prabowo-apec-shenzhen-v2.jpg",
+  "published_at": "2026-11-20T10:20:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878552-20261120.htm"
+  },
+  "summary": {
+   "en": "President Xi Jinping met separately in Shenzhen this morning with Australian Prime Minister Anthony Albanese and Indonesian President Prabowo Subianto, both of whom are in China to attend the APEC leaders' informal meeting. The two leaders are among the heads of government and state attending the APEC leaders' meeting being held in Shenzhen.",
+   "zh_hans": "国家主席习近平今日上午在深圳，分别会见来华出席亚太经合组织领导人非正式会议的澳洲总理阿尔巴内塞，以及印尼总统普拉博沃。两位领袖均是来华出席正在深圳举行的APEC领袖非正式会议。",
+   "zh_hant": "國家主席習近平今日上午在深圳，分別會見來華出席亞太經合組織領導人非正式會議的澳洲總理阿爾巴內塞，以及印尼總統普拉博沃。兩位領袖均是來華出席正在深圳舉行的APEC領導人非正式會議。"
+  },
+  "tags": {
+   "en": [
+    "Xi Jinping",
+    "Albanese",
+    "Prabowo",
+    "APEC"
+   ],
+   "zh_hans": [
+    "习近平",
+    "阿尔巴内塞",
+    "普拉博沃",
+    "APEC"
+   ],
+   "zh_hant": [
+    "習近平",
+    "阿爾巴內塞",
+    "普拉博沃",
+    "APEC"
+   ]
+  },
+  "title": {
+   "en": "Xi meets Australian PM Albanese and Indonesian President Prabowo separately in Shenzhen as both attend the APEC leaders' meeting",
+   "zh_hans": "习近平深圳分别会见澳洲总理及印尼总统 两人来华出席APEC领袖会议",
+   "zh_hant": "習近平深圳分別會見澳洲總理及印尼總統 兩人來華出席APEC領袖會議"
+  },
+  "image_r2_key": "design/202611/20261120-xi-meets-albanese-prabowo-apec-shenzhen-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261120-lee-infraex-week-opening-speech",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-lee-infraex-week-opening-speech-v2.jpg",
+  "published_at": "2026-11-20T09:48:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000195.htm"
+  },
+  "summary": {
+   "en": "Chief Executive John Lee officiated at the grand opening of the inaugural InfraEX Week 2026, attended by about 800 infrastructure leaders, officials and professionals from more than 30 countries and economies, with about 1,000 more joining online. Lee said Hong Kong's First Five-Year Plan, closely aligned with the National 15th Five-Year Plan, provides a strategic roadmap for the city's future. The Northern Metropolis covers one-third of Hong Kong's area and will house about 2.5 million people, create 500,000 jobs and account for about 13% of GDP. The week brings together three concurrent events under the theme \"Envisioning a Sustainable Future: From Insights to Impacts\".",
+   "zh_hans": "行政长官李家超今日主持首届InfraEX Week 2026开幕礼，约800名来自30多个国家及经济体的基建领袖、官员及专业人士出席，另约1,000人网上参与。李家超表示，香港首个五年计划与国家「十五五」规划衔接，为香港未来提供策略蓝图；北部都会区占全港三分之一面积，将容纳约250万人、创造50万个职位，占本地生产总值约13%。活动涵盖三项同期活动，主题为「展望可持续未来：从洞见到影响」。",
+   "zh_hant": "行政長官李家超今日主持首屆InfraEX Week 2026開幕禮，約800名來自30多個國家及經濟體的基建領袖、官員及專業人士出席，另約1,000人網上參與。李家超表示，香港首個五年計劃與國家「十五五」規劃銜接，為香港未來提供策略藍圖；北部都會區佔全港三分之一面積，將容納約250萬人、創造50萬個職位，佔本地生產總值約13%。活動涵蓋三項同期活動，主題為「展望可持續未來：從洞見到影響」。"
+  },
+  "tags": {
+   "en": [
+    "John Lee",
+    "InfraEX Week",
+    "Northern Metropolis",
+    "Infrastructure"
+   ],
+   "zh_hans": [
+    "李家超",
+    "基建周",
+    "北部都会区",
+    "基建"
+   ],
+   "zh_hant": [
+    "李家超",
+    "基建周",
+    "北部都會區",
+    "基建"
+   ]
+  },
+  "title": {
+   "en": "John Lee opens inaugural InfraEX Week as 800 infrastructure leaders gather, with the Northern Metropolis set to house 2.5 million people and create 500,000 jobs",
+   "zh_hans": "李家超主持首届基建周开幕礼 800领袖云集 北都将容纳250万人 创造50万职位",
+   "zh_hant": "李家超主持首屆基建周開幕禮 800領袖雲集 北都將容納250萬人 創造50萬職位"
+  },
+  "image_r2_key": "design/202611/20261120-lee-infraex-week-opening-speech-v2.jpg"
+ },
+ {
+  "category": "hk",
   "id": "20261120-hketo-washington-new-opportunities-global-business",
   "image_r2_key": "design/202611/20261120-hketo-washington-new-opportunities-global-business.jpg",
   "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-hketo-washington-new-opportunities-global-business.jpg",
@@ -39,6 +326,85 @@
    "zh_hans": "驻华盛顿经贸办向美商推介香港新商机 处长卢洁玮：北都为美国企业带来机遇",
    "zh_hant": "駐華盛頓經貿辦向美商推介香港新商機 處長盧潔瑋：北都為美國企業帶來機遇"
   }
+ },
+ {
+  "category": "finance",
+  "id": "20261120-hk-stocks-open-down-359-year-low",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-hk-stocks-open-down-359-year-low-v2.jpg",
+  "published_at": "2026-11-20T09:27:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878548-20261120.htm"
+  },
+  "summary": {
+   "en": "Hong Kong stocks opened below this year's low, with the Hang Seng Index at 22,482 in the pre-opening auction, down 359 points or about 1.6%, a new low for the year. The Hang Seng Tech Index stood at 3,541, down 107 points or about 3%. Alibaba steadied after 10 straight days of losses, opening about 1% higher, after adjusted profit rose 92% year on year but still missed expectations. NetEase and Kuaishou fell more than 13% and 8% respectively after their results.",
+   "zh_hans": "港股开市跌穿年内低位，恒生指数竞价时段报22,482点，跌359点，跌幅约1.6%，创年内新低；科技指数报3,541点，跌107点，跌幅约3%。阿里巴巴连跌10日后回稳，高开约1%，上季经调整盈利按年升92%，但仍低于预期；网易及快手绩后分别急挫逾13%及逾8%。",
+   "zh_hant": "港股開市跌穿年內低位，恒生指數競價時段報22,482點，跌359點，跌幅約1.6%，創年內新低；科技指數報3,541點，跌107點，跌幅約3%。阿里巴巴連跌10日後回穩，高開約1%，上季經調整盈利按年升92%，但仍低於預期；網易及快手績後分別急挫逾13%及逾8%。"
+  },
+  "tags": {
+   "en": [
+    "Hang Seng Index",
+    "Hong Kong stocks",
+    "NetEase",
+    "Alibaba"
+   ],
+   "zh_hans": [
+    "恒生指数",
+    "港股",
+    "网易",
+    "阿里巴巴"
+   ],
+   "zh_hant": [
+    "恒生指數",
+    "港股",
+    "網易",
+    "阿里巴巴"
+   ]
+  },
+  "title": {
+   "en": "Hang Seng falls 359 points at the open to a new low for the year, tech index down 3% as NetEase tumbles over 13% after results while Alibaba steadies",
+   "zh_hans": "港股竞价跌359点创年内新低 科指跌3% 网易绩后挫逾13% 阿里回稳",
+   "zh_hant": "港股競價跌359點創年內新低 科指跌3% 網易績後挫逾13% 阿里回穩"
+  },
+  "image_r2_key": "design/202611/20261120-hk-stocks-open-down-359-year-low-v2.jpg"
+ },
+ {
+  "category": "finance",
+  "id": "20261120-china-nov-lpr-unchanged",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-china-nov-lpr-unchanged-v2.jpg",
+  "published_at": "2026-11-20T09:18:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878545-20261120.htm"
+  },
+  "summary": {
+   "en": "Mainland China's November loan prime rates are unchanged. The People's Bank of China announced that the one-year LPR stays at 3% and the over-five-year LPR at 3.5%, with both rates at the same levels since May last year.",
+   "zh_hans": "内地11月贷款市场报价利率维持不变。人民银行公布，1年期LPR维持于3厘，5年期以上LPR维持于3.5厘，两者自去年5月起处于同一水平。",
+   "zh_hant": "內地11月貸款市場報價利率維持不變。人民銀行公布，1年期LPR維持於3厘，5年期以上LPR維持於3.5厘，兩者自去年5月起處於同一水平。"
+  },
+  "tags": {
+   "en": [
+    "Loan prime rate",
+    "People's Bank of China",
+    "Interest rates"
+   ],
+   "zh_hans": [
+    "贷款市场报价利率",
+    "人民银行",
+    "利率"
+   ],
+   "zh_hant": [
+    "貸款市場報價利率",
+    "人民銀行",
+    "利率"
+   ]
+  },
+  "title": {
+   "en": "China's November loan prime rates unchanged, with the one-year LPR at 3% and the over-five-year rate at 3.5%, steady since May last year",
+   "zh_hans": "内地11月贷款市场报价利率维持不变 1年期3厘 5年期以上3.5厘 自去年5月起未变",
+   "zh_hant": "內地11月貸款市場報價利率維持不變 1年期3厘 5年期以上3.5厘 自去年5月起未變"
+  },
+  "image_r2_key": "design/202611/20261120-china-nov-lpr-unchanged-v2.jpg"
  },
  {
   "category": "finance",
@@ -581,327 +947,362 @@
  },
  {
   "category": "finance",
-  "id": "20261120-finance-ministry-usd-sovereign-bond-hk",
-  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-finance-ministry-usd-sovereign-bond-hk-v2.jpg",
-  "published_at": "2026-11-20T10:36:00+08:00",
+  "id": "20261120-vitasoy-interim-profit-up-8-pct",
+  "image_url": "",
+  "published_at": "2026-11-20T12:39:00+08:00",
   "source": {
    "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878556-20261120.htm"
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878575-20261120.htm"
   },
   "summary": {
-   "en": "The Ministry of Finance issued US$2 billion of sovereign bonds in Hong Kong yesterday, with a three-year tenor and a coupon of 4.821%, all listed on the Hong Kong Stock Exchange. The issue drew enthusiastic demand from international investors, with total orders of US$72.3 billion, more than 36 times the issue size. Asian investors accounted for 52%, Europe and the Middle East 34%, and the Americas 14%. The ministry has issued US dollar sovereign bonds in Hong Kong several times since 2017, including a record US$6 billion in 2020 and US$4 billion last November.",
-   "zh_hans": "财政部昨日在香港发行20亿美元主权债券，年期3年，发行利率4.821厘，全部在联交所上市。债券受到国际投资者热烈追捧，总认购额723亿美元，是发行金额逾36倍；亚洲投资者占52%，欧洲及中东占34%，美洲占14%。财政部自2017年起多次在港发行美元主权债，2020年发行60亿美元是历来最多，去年11月亦发行40亿美元。",
-   "zh_hant": "財政部昨日在香港發行20億美元主權債券，年期3年，發行利率4.821厘，全部在聯交所上市。債券受到國際投資者熱烈追捧，總認購額723億美元，是發行金額逾36倍；亞洲投資者佔52%，歐洲及中東佔34%，美洲佔14%。財政部自2017年起多次在港發行美元主權債，2020年發行60億美元是歷年最多，去年11月亦發行40億美元。"
+   "en": "Vitasoy International's interim profit for the six months to the end of September rose nearly 8% year on year to HK$185 million, up about 3% excluding currency effects, with an interim dividend of 4 cents per share maintained. Revenue for the half year was HK$3.337 billion, up 3% year on year and down 1% excluding currency effects; gross margin widened 0.8 percentage points to 51.9%, helped by currency movements, lower raw-material costs and improved production efficiency, partly offset by higher trade promotion spending. Mainland revenue rose 5.4% to HK$1.874 billion, with operating profit up 25% to about HK$240 million; Hong Kong revenue was about HK$1.112 billion, broadly flat, with operating profit up 0.7% to nearly HK$140 million. The group expects intensifying price competition, high oil prices and the restructuring of its Australian business to weigh significantly on profitability in the second half.",
+   "zh_hans": "维他奶国际截至 9 月底中期盈利 1.85 亿元，按年增长近 8%，撇除汇率影响升约 3%；维持派中期息每股 4 仙。上半年收入 33.37 亿元，按年增 3%，撇除汇率影响跌 1%；毛利率 51.9%，按年扩大 0.8 个百分点，受惠汇率变动、原材料成本下降及生产营运效率提升，部分被贸易促销开支增加抵销。内地业务收入按年升 5.4% 至 18.74 亿元，经营溢利升 25% 至约 2.4 亿元；香港业务收入约 11.12 亿元，与去年同期相若，经营溢利升 0.7% 至近 1.4 亿元。集团预期价格竞争加剧、油价高企及澳洲业务重组，将对下半财年盈利能力构成显著负面影响。",
+   "zh_hant": "維他奶國際截至 9 月底中期盈利 1.85 億元，按年增長近 8%，撇除匯率影響升約 3%；維持派中期息每股 4 仙。上半年收入 33.37 億元，按年增 3%，撇除匯率影響跌 1%；毛利率 51.9%，按年擴大 0.8 個百分點，受惠匯率變動、原材料成本下降及生產營運效率提升，部分被貿易促銷開支增加抵銷。內地業務收入按年升 5.4% 至 18.74 億元，經營溢利升 25% 至約 2.4 億元；香港業務收入約 11.12 億元，與去年同期相若，經營溢利升 0.7% 至近 1.4 億元。集團預期價格競爭加劇、油價高企及澳洲業務重組，將對下半財年盈利能力構成顯著負面影響。"
   },
   "tags": {
    "en": [
-    "Sovereign bonds",
-    "Ministry of Finance",
-    "Hong Kong",
-    "US dollar bonds"
+    "Vitasoy",
+    "Interim results",
+    "Mainland business",
+    "Profit"
    ],
    "zh_hans": [
-    "主权债券",
-    "财政部",
-    "香港",
-    "美元债券"
+    "维他奶",
+    "中期业绩",
+    "内地业务",
+    "盈利"
    ],
    "zh_hant": [
-    "主權債券",
-    "財政部",
-    "香港",
-    "美元債券"
+    "維他奶",
+    "中期業績",
+    "內地業務",
+    "盈利"
    ]
   },
   "title": {
-   "en": "Ministry of Finance issues US$2 billion sovereign bonds in Hong Kong, oversubscribed more than 35 times as orders hit US$72.3 billion",
-   "zh_hans": "财政部在港发行20亿美元主权债 超额认购逾35倍 认购额达723亿美元",
-   "zh_hant": "財政部在港發行20億美元主權債 超額認購逾35倍 認購額達723億美元"
-  },
-  "image_r2_key": "design/202611/20261120-finance-ministry-usd-sovereign-bond-hk-v2.jpg"
+   "en": "Vitasoy interim profit up nearly 8% to HK$185 million as mainland operating profit jumps 25%",
+   "zh_hans": "维他奶中期多赚近 8% 至 1.85 亿 内地业务溢利飙 25% 撑起大局",
+   "zh_hant": "維他奶中期多賺近 8% 至 1.85 億 內地業務溢利飆 25% 撐起大局"
+  }
  },
  {
   "category": "hk",
-  "id": "20261120-legco-two-power-companies-tariff-review",
-  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-legco-two-power-companies-tariff-review-v2.jpg",
-  "published_at": "2026-11-20T10:33:00+08:00",
+  "id": "20261120-customs-illegal-animal-import-9-pets-7-arrested",
+  "image_url": "",
+  "published_at": "2026-11-20T12:36:00+08:00",
   "source": {
    "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878557-20261120.htm"
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878573-20261120.htm"
   },
   "summary": {
-   "en": "Hong Kong's two power companies will announce next year's tariff adjustment plans on Tuesday, with the Legislative Council's Panel on Environmental Affairs to first discuss the outcome of the annual tariff review. In November, CLP's average net tariff was 148.6 cents per unit, up about 5.7% from January, while HK Electric's net tariff was 183 cents per unit, up about 12% from January. Both companies said international energy prices remain volatile and they will use prudent procurement and diversified fuel strategies to limit the impact of fuel price swings on customers.",
-   "zh_hans": "两间电力公司将于下星期二公布明年电费调整方案，立法会环境事务委员会将先讨论周年电费检讨结果。今年11月，中电平均净电价为每度电148.6仙，较今年1月上调约5.7%；港灯11月净电价为每度电183仙，较1月上升约12%。两电都表示国际能源价格持续波动，会透过审慎采购及多元化燃料策略，尽量减低燃料价格波动对用户的影响。",
-   "zh_hant": "兩間電力公司將於下星期二公布明年電費調整方案，立法會環境事務委員會將先討論周年電費檢討結果。今年11月，中電平均淨電價為每度電148.6仙，較今年1月上調約5.7%；港燈11月淨電價為每度電183仙，較1月上升約12%。兩電都表示國際能源價格持續波動，會透過審慎採購及多元化燃料策略，盡量減低燃料價格波動對用戶的影響。"
+   "en": "Hong Kong Customs launched a special operation this month against illegal animal imports and cracked two suspected cases, seizing seven live cats and two live dogs with an estimated total market value of about HK$92,000, and arresting seven people. Customs and the Agriculture, Fisheries and Conservation Department will hold a joint press briefing this afternoon to give details of the cases.",
+   "zh_hans": "海关本月开展专项调查行动，打击非法进口动物，侦破两宗怀疑非法进口动物案件，检获 7 只活猫及 2 只活犬，估计市值共约 9 万 2 千元，7 人被捕。海关联同渔护署下午举行联合简报会讲述案件详情。",
+   "zh_hant": "海關本月開展專項調查行動，打擊非法進口動物，偵破兩宗懷疑非法進口動物案件，檢獲 7 隻活貓及 2 隻活犬，估計市值共約 9 萬 2 千元，7 人被捕。海關聯同漁護署下午舉行聯合簡報會講述案件詳情。"
   },
   "tags": {
    "en": [
-    "Electricity tariffs",
-    "CLP",
-    "HK Electric",
-    "Legislative Council"
+    "Customs",
+    "Illegal animal imports",
+    "AFCD",
+    "Live animals"
    ],
    "zh_hans": [
-    "电费",
-    "中电",
-    "港灯",
-    "立法会"
+    "海关",
+    "非法进口动物",
+    "渔护署",
+    "活猫活犬"
    ],
    "zh_hant": [
-    "電費",
-    "中電",
-    "港燈",
-    "立法會"
+    "海關",
+    "非法進口動物",
+    "漁護署",
+    "活貓活犬"
    ]
   },
   "title": {
-   "en": "Two power companies to unveil next year's tariff plans on Tuesday as Legco takes up the review, with CLP's net tariff up 5.7% since January and HK Electric's up 12%",
-   "zh_hans": "两电下周二公布明年电费方案 立法会先讨论 中电净电价较年初升5.7% 港灯升12%",
-   "zh_hant": "兩電下周二公布明年電費方案 立法會先討論 中電淨電價較年初升5.7% 港燈升12%"
+   "en": "Customs cracks two illegal animal import cases, seizing nine cats and dogs worth HK$92,000 and arresting seven",
+   "zh_hans": "海关捣破非法进口动物案 检 9 只猫狗拘 7 人涉款 9.2 万",
+   "zh_hant": "海關搗破非法進口動物案 檢 9 隻貓狗拘 7 人涉款 9.2 萬"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261120-hong-kong-joins-ich-regulatory-member",
+  "image_url": "",
+  "published_at": "2026-11-20T12:33:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878572-20261120.htm"
   },
-  "image_r2_key": "design/202611/20261120-legco-two-power-companies-tariff-review-v2.jpg"
+  "summary": {
+   "en": "The Health Bureau has announced that Hong Kong, China has formally joined the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) as a regulatory member, represented by the Hong Kong Pharmacy and Poisons Board. The ICH approved the decision at its assembly in Czechia on November 17, making Hong Kong, China its 20th regulatory member. Hong Kong became an ICH observer on October 31, 2023 and reached full membership in just three years, far faster than the government's earlier estimate of eight to ten years. Secretary for Health Professor Lo Chung-mau said membership will help develop Hong Kong's capacity and mechanisms for \"first-tier approval\" of innovative drugs and deepen participation in setting international rules for drug research and registration. The government will set up a Centre for Medical Products Regulation next month to build independent drug evaluation and approval capability.",
+   "zh_hans": "医务卫生局宣布，中国香港正式加入「国际人用药品注册技术协调会」（ICH），成为监管机成员，由香港药剂业及毒药管理局作为代表。ICH 在 11 月 17 日于捷克举行的大会上通过有关决定，中国香港成为第 20 个监管机成员。香港 2023 年 10 月 31 日成为 ICH 观察员，短短 3 年内成为正式成员，较政府早前估算的 8 至 10 年大幅提速。医务卫生局局长卢宠茂表示，有助推动创新药「第一层审批」能力及机制发展，深度参与制定药品研发注册国际规则；政府下月成立药物及医疗器械监督管理中心，建立独立药品审评审批能力。",
+   "zh_hant": "醫務衞生局宣布，中國香港正式加入「國際人用藥品註冊技術協調會」（ICH），成為監管機構成員，由香港藥劑業及毒藥管理局作為代表。ICH 在 11 月 17 日於捷克舉行的大會上通過有關決定，中國香港成為第 20 個監管機構成員。香港 2023 年 10 月 31 日成為 ICH 觀察員，短短 3 年內成為正式成員，較政府早前估算的 8 至 10 年大幅提速。醫務衞生局局長盧寵茂表示，有助推動創新藥「第一層審批」能力及機制發展，深度參與制定藥品研發註冊國際規則；政府下月成立藥物及醫療器械監督管理中心，建立獨立藥品審評審批能力。"
+  },
+  "tags": {
+   "en": [
+    "ICH",
+    "Innovative drugs",
+    "Lo Chung-mau",
+    "Drug regulation"
+   ],
+   "zh_hans": [
+    "国际人用药品注册技术协调会",
+    "创新药",
+    "卢宠茂",
+    "药物监管"
+   ],
+   "zh_hant": [
+    "國際人用藥品註冊技術協調會",
+    "創新藥",
+    "盧寵茂",
+    "藥物監管"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong joins global drug regulator group ICH in just three years, paving the way for first-tier approval of innovative drugs",
+   "zh_hans": "香港 3 年极速加入国际药品监管组织 创新药审批迈向第一层",
+   "zh_hant": "香港 3 年極速加入國際藥品監管組織 創新藥審批邁向第一層"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261120-ev-battery-recycling-levy-6-per-kg",
+  "image_url": "",
+  "published_at": "2026-11-20T12:25:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878571-20261120.htm"
+  },
+  "summary": {
+   "en": "The volume of retired electric-vehicle batteries is expected to rise from about 1,300 tonnes this year to about 6,700 tonnes in 2030. The Environment and Ecology Bureau has submitted a paper to the Legislative Council proposing a producer responsibility scheme for EV batteries, charging EV suppliers a recycling levy based on battery weight, starting at HK$6 per kilogram and rising steadily each year. For a typical private car with a 500-kilogram battery, the starting charge would be about HK$3,000, rising by HK$800 a year to HK$15,000 by 2043. The scheme covers power batteries of battery-electric and plug-in hybrid vehicles, including private cars, taxis, motorcycles and electric commercial vehicles other than franchised buses. The government aims to submit an amendment bill to the Legislative Council next year, enter a preparatory phase in 2028 and roll the scheme out fully in 2029. More than 180,000 EVs already distributed before the scheme starts will be exempt, and owners who replace a battery or scrap a vehicle can enjoy one free recycling and vehicle deregistration.",
+   "zh_hans": "退役电动车电池数量预计由今年约 1,300 公吨，升至 2030 年约 6,700 公吨。环境及生态局向立法会提交文件，建议实施电动车电池生产者责任计划，向电动车供应商征收「循环再造征费」，按电池重量计算，起始每公斤 6 元，之后每年平稳递增。以一般私家车 500 公斤电池计算，起始收费约 3,000 元，每年加 800 元，至 2043 年增至 15,000 元。计划涵盖纯电动车及插电式混合动力车动力电池，包括电动私家车、的士、电单车及除专营巴士外其他电动商用车，目标明年向立法会提交修例草案，2028 年进入筹备阶段，2029 年全面推行；计划实施前已分发的逾 18 万辆电动车获豁免征费，车主更换电池或劏车可享一次免费回收及车辆注销。",
+   "zh_hant": "退役電動車電池數量預計由今年約 1,300 公噸，升至 2030 年約 6,700 公噸。環境及生態局向立法會提交文件，建議實施電動車電池生產者責任計劃，向電動車供應商徵收「循環再造徵費」，按電池重量計算，起始每公斤 6 元，之後每年平穩遞增。以一般私家車 500 公斤電池計算，起始收費約 3,000 元，每年加 800 元，至 2043 年增至 15,000 元。計劃涵蓋純電動車及插電式混合動力車動力電池，包括電動私家車、的士、電單車及除專營巴士外其他電動商用車，目標明年向立法會提交修例草案，2028 年進入籌備階段，2029 年全面推行；計劃實施前已分發的逾 18 萬輛電動車獲豁免徵費，車主更換電池或劏車可享一次免費回收及車輛註銷。"
+  },
+  "tags": {
+   "en": [
+    "EV batteries",
+    "Producer responsibility scheme",
+    "Recycling levy",
+    "Environment and Ecology Bureau"
+   ],
+   "zh_hans": [
+    "电动车电池",
+    "生产者责任计划",
+    "循环再造征费",
+    "环境及生态局"
+   ],
+   "zh_hant": [
+    "電動車電池",
+    "生產者責任計劃",
+    "循環再造徵費",
+    "環境及生態局"
+   ]
+  },
+  "title": {
+   "en": "EV battery recycling levy proposed at HK$6 per kilogram, with full rollout targeted for 2029",
+   "zh_hans": "电动车电池回收征费每公斤 6 元 目标 2029 年全面推行",
+   "zh_hant": "電動車電池回收徵費每公斤 6 元 目標 2029 年全面推行"
+  }
  },
  {
   "category": "world",
-  "id": "20261120-china-russia-us-peace-declaration-scholars-un-reform",
-  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-china-russia-us-peace-declaration-scholars-un-reform-v2.jpg",
-  "published_at": "2026-11-20T10:31:00+08:00",
+  "id": "20261120-kushner-russia-europe-multilateral-talks-ukraine",
+  "image_url": "",
+  "published_at": "2026-11-20T11:39:00+08:00",
   "source": {
    "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878555-20261120.htm"
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878566-20261120.htm"
   },
   "summary": {
-   "en": "The leaders of China, Russia and the United States held a historic meeting yesterday and issued a Peace Declaration, saying the three countries, as permanent members of the UN Security Council, are committed to advancing UN reform. The three countries plan to increase production and supply of refined petroleum products and will hold dialogue on reducing nuclear risks and preventing nuclear proliferation. Scholars said the declaration points the way for UN reform, noting China has long insisted on reform and that, as the influence of different countries has changed greatly since the UN was founded, improving representation will be a key focus. Increasing refined oil supply could bring geopolitical stability and confidence to markets.",
-   "zh_hans": "中俄美三国元首昨日举行历史性会晤后发表《和平宣言》，提到三国作为联合国安理会常任理事国，致力推动联合国改革；三国计划增加精炼石油产品的生产和供应，并将就减少核风险、防止核扩散举行对话。有学者认为，宣言为联合国改革提供方向，过去中国一直坚持改革，现时不同国家的影响力已大为变化，如何提升各国代表性将是改革重点；增加精炼石油产品供应可为地缘政治带来稳定性、为市场带来信心。",
-   "zh_hant": "中俄美三國元首昨日舉行歷史性會晤後發表《和平宣言》，提到三國作為聯合國安理會常任理事國，致力推動聯合國改革；三國計劃增加精煉石油產品的生產和供應，並將就減少核風險、防止核擴散舉行對話。有學者認為，宣言為聯合國改革提供方向，過去中國一直堅持改革，現時不同國家的影響力已大為變化，如何提升各國代表性將是改革重點；增加精煉石油產品供應可為地緣政治帶來穩定性、為市場帶來信心。"
+   "en": "Jared Kushner, son-in-law of US President Donald Trump and his special envoy, said Russia has agreed to European participation in a multilateral negotiating mechanism, adding that restarting direct dialogue between Europe and Russia is especially important. A summit of the UK- and France-led \"Coalition of the Willing\" supporting Ukraine was held in Berlin, where Kushner told a press conference afterwards that Russia could accept Ukraine receiving security guarantees similar to NATO's Article 5 collective defence clause, while also expressing a desire for no new conflict to break out. Kushner stressed that such guarantees would need a mechanism covering monitoring and verification, deterrence and other measures, and that Trump is open to this provided it serves US interests. Neither the United States nor the European Union is a member of the coalition, but special envoy Steve Witkoff, European Council President Antonio Costa, European Commission President Ursula von der Leyen and NATO Secretary-General Mark Rutte also attended. Ukrainian President Volodymyr Zelensky said Europe must be included in the peace talks, and it is not yet clear how NATO Article 5-style security guarantees would work.",
+   "zh_hans": "美国总统特朗普女婿、特使库什纳表示，俄罗斯已同意欧洲参加多边谈判机制，重重启欧洲与俄罗斯直接对话尤其重要。英法牵头、旨在支援乌克兰的「志愿联盟」峰会在德国柏林召开，库什纳在会后记者会上说，俄方能接受乌克兰获得类似北约第五条集体防御条款的安全保障，同时表达不再爆发新冲突的意愿。库什纳强调相关安全保障需要建立涵盖监督核查、威慑等措施的机制，特朗普对此持开放态度，但前提必须符合美国利益。美国及欧盟都不是「志愿联盟」成员，但特使威特科夫、欧洲理事会主席科斯塔、欧委会主席冯德莱恩及北约秘书长吕特亦有出席。乌克兰总统泽连斯基表示欧洲必须被纳入和平谈判，暂时不清楚类似北约第五条的安全保障将如何运作。",
+   "zh_hant": "美國總統特朗普女婿、特使庫什納表示，俄羅斯已同意歐洲參加多邊談判機制，重啟歐洲與俄羅斯直接對話尤其重要。英法牽頭、旨在支援烏克蘭的「志願聯盟」峰會在德國柏林召開，庫什納在會後記者會上說，俄方能接受烏克蘭獲得類似北約第五條集體防禦條款的安全保障，同時表達不再爆發新衝突的意願。庫什納強調相關安全保障需要建立涵蓋監督核查、威懾等措施的機制，特朗普對此持開放態度，但前提必須符合美國利益。美國及歐盟都不是「志願聯盟」成員，但特使威特科夫、歐洲理事會主席科斯塔、歐委會主席馮德萊恩及北約秘書長呂特亦有出席。烏克蘭總統澤連斯基表示歐洲必須被納入和平談判，暫時不清楚類似北約第五條的安全保障將如何運作。"
   },
   "tags": {
    "en": [
-    "Peace Declaration",
-    "China Russia US",
-    "UN reform",
-    "APEC"
+    "Kushner",
+    "Ukraine",
+    "Russia",
+    "Coalition of the Willing"
    ],
    "zh_hans": [
-    "和平宣言",
-    "中俄美",
-    "联合国改革",
-    "APEC"
+    "库什纳",
+    "乌克兰",
+    "俄罗斯",
+    "志愿联盟"
    ],
    "zh_hant": [
-    "和平宣言",
-    "中俄美",
-    "聯合國改革",
-    "APEC"
+    "庫什納",
+    "烏克蘭",
+    "俄羅斯",
+    "志願聯盟"
    ]
   },
   "title": {
-   "en": "China, Russia and US issue Peace Declaration, with scholars saying it points the way for UN reform and dialogue on nuclear risks",
-   "zh_hans": "中俄美《和平宣言》出炉 学者：为联合国改革提供方向 并就核风险对话",
-   "zh_hant": "中俄美《和平宣言》出爐 學者：為聯合國改革提供方向 並就核風險對話"
-  },
-  "image_r2_key": "design/202611/20261120-china-russia-us-peace-declaration-scholars-un-reform-v2.jpg"
+   "en": "Kushner says Russia has agreed to European participation in multilateral talks, with Ukraine possibly gaining NATO-style security guarantees",
+   "zh_hans": "库什纳称俄罗斯同意欧洲加入谈判 乌克兰或获北约式安全保障",
+   "zh_hant": "庫什納稱俄羅斯同意歐洲加入談判 烏克蘭或獲北約式安全保障"
+  }
  },
  {
   "category": "hk",
-  "id": "20261120-lee-apec-nextgen-young-entrepreneurs-speech",
-  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-lee-apec-nextgen-young-entrepreneurs-speech-v2.jpg",
-  "published_at": "2026-11-20T10:30:00+08:00",
+  "id": "20261120-primary-one-places-results-nov-23",
+  "image_url": "",
+  "published_at": "2026-11-20T11:30:00+08:00",
   "source": {
    "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/20/P2026111900230.htm"
+   "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000270.htm"
   },
   "summary": {
-   "en": "Chief Executive John Lee addressed the fourth APEC Next-Gen Young Entrepreneurs Summit by video, under the theme \"From Ideas to Impact: Young Entrepreneurs Driving Asia-Pacific Growth\". He said artificial intelligence is reshaping the economy and that the creativity and collaborative spirit of young entrepreneurs matter, encouraging young people to seize opportunities in the Greater Bay Area. Lee added that Hong Kong's first Youth Development Blueprint has rolled out more than 340 measures in four years, and the First Five-Year Plan will further expand opportunities for youth, with Hong Kong serving as the Greater Bay Area's core international hub connecting the mainland with the world.",
-   "zh_hans": "行政长官李家超以视像方式在第四届APEC Next-Gen青年企业家峰会致辞，主题为「从理念到影响：青年企业家推动亚太增长」。他谈及人工智能正重塑经济，青年创业者的创意与合作精神至关重要，并鼓励青年把握大湾区机遇。李家超又提到，香港首份《青年发展蓝图》推出四年内已推出逾340项措施，首个五年计划将进一步扩大青年发展机会，香港作为大湾区核心国际枢纽，连接内地与世界。",
-   "zh_hant": "行政長官李家超以視像方式在第四屆APEC Next-Gen青年企業家峰會致辭，主題為「從理念到影響：青年企業家推動亞太增長」。他談及人工智能正重塑經濟，青年創業者的創意與合作精神至關重要，並鼓勵青年把握大灣區機遇。李家超又提到，香港首份《青年發展藍圖》推出四年內已推出逾340項措施，首個五年計劃將進一步擴大青年發展機會，香港作為大灣區核心國際樞紐，連接內地與世界。"
+   "en": "All government and aided primary schools will announce on Monday, November 23 the lists of children admitted to Primary One discretionary places for entry in September next year. This year 32,104 children applied for discretionary places at government and aided primary schools, and 18,148 were offered places, of whom 8,270 were admitted under the sibling or parent-employment criterion and 9,878 under the points system. Parents who have activated an ePOA account can check results on the Primary One Admission e-Platform from 10am on Monday, or visit the school applied to between 9am and 5pm that day. Parents of children offered places must register at the school during office hours on Wednesday or Thursday next week.",
+   "zh_hans": "全港官立及资助小学将于下星期一（11 月 23 日）公布明年 9 月入读小一的学校自行分配学位录取名单。今年有 32,104 名儿童申请官立及资助小学自行分配学位，18,148 名儿童获派此类学位，其中 8,270 人属兄姊在读或父母在校工作，9,878 人按计分办法分配。已启动「小一入学电子平台」账户的家长，可于星期一上午 10 时起透过电子平台查阅结果，亦可于当日上午 9 时至下午 5 时到所申请小学查阅；获派学位儿童的家长须于下星期三或星期四学校办公时间内到小学办理注册手续。",
+   "zh_hant": "全港官立及資助小學將於下星期一（11 月 23 日）公布明年 9 月入讀小一的學校自行分配學位錄取名單。今年有 32,104 名兒童申請官立及資助小學自行分配學位，18,148 名兒童獲派此類學位，其中 8,270 人屬兄姊在讀或父母在校工作，9,878 人按計分辦法分配。已啟動「小一入學電子平台」帳戶的家長，可於星期一上午 10 時起透過電子平台查閱結果，亦可於當日上午 9 時至下午 5 時到所申請小學查閱；獲派學位兒童的家長須於下星期三或星期四學校辦公時間內到小學辦理註冊手續。"
   },
   "tags": {
    "en": [
-    "John Lee",
-    "APEC",
-    "Young entrepreneurs",
-    "Youth Development Blueprint"
+    "Primary One admission",
+    "Discretionary places",
+    "Education Bureau",
+    "ePOA"
    ],
    "zh_hans": [
-    "李家超",
-    "APEC",
-    "青年企业家",
-    "青年发展蓝图"
+    "小一入学",
+    "自行分配学位",
+    "教育局",
+    "小一入学电子平台"
    ],
    "zh_hant": [
-    "李家超",
-    "APEC",
-    "青年企業家",
-    "青年發展藍圖"
+    "小一入學",
+    "自行分配學位",
+    "教育局",
+    "小一入學電子平台"
    ]
   },
   "title": {
-   "en": "John Lee addresses APEC young entrepreneurs summit by video, urging youth to seize Greater Bay Area opportunities as over 340 youth measures roll out",
-   "zh_hans": "李家超视像出席APEC青年企业家峰会 勉励青年把握大湾区机遇 逾340项措施支援青年发展",
-   "zh_hant": "李家超視像出席APEC青年企業家峰會 勉勵青年把握大灣區機遇 逾340項措施支援青年發展"
-  },
-  "image_r2_key": "design/202611/20261120-lee-apec-nextgen-young-entrepreneurs-speech-v2.jpg"
- },
- {
-  "category": "world",
-  "id": "20261120-xi-meets-albanese-prabowo-apec-shenzhen",
-  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-xi-meets-albanese-prabowo-apec-shenzhen-v2.jpg",
-  "published_at": "2026-11-20T10:20:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878552-20261120.htm"
-  },
-  "summary": {
-   "en": "President Xi Jinping met separately in Shenzhen this morning with Australian Prime Minister Anthony Albanese and Indonesian President Prabowo Subianto, both of whom are in China to attend the APEC leaders' informal meeting. The two leaders are among the heads of government and state attending the APEC leaders' meeting being held in Shenzhen.",
-   "zh_hans": "国家主席习近平今日上午在深圳，分别会见来华出席亚太经合组织领导人非正式会议的澳洲总理阿尔巴内塞，以及印尼总统普拉博沃。两位领袖均是来华出席正在深圳举行的APEC领袖非正式会议。",
-   "zh_hant": "國家主席習近平今日上午在深圳，分別會見來華出席亞太經合組織領導人非正式會議的澳洲總理阿爾巴內塞，以及印尼總統普拉博沃。兩位領袖均是來華出席正在深圳舉行的APEC領導人非正式會議。"
-  },
-  "tags": {
-   "en": [
-    "Xi Jinping",
-    "Albanese",
-    "Prabowo",
-    "APEC"
-   ],
-   "zh_hans": [
-    "习近平",
-    "阿尔巴内塞",
-    "普拉博沃",
-    "APEC"
-   ],
-   "zh_hant": [
-    "習近平",
-    "阿爾巴內塞",
-    "普拉博沃",
-    "APEC"
-   ]
-  },
-  "title": {
-   "en": "Xi meets Australian PM Albanese and Indonesian President Prabowo separately in Shenzhen as both attend the APEC leaders' meeting",
-   "zh_hans": "习近平深圳分别会见澳洲总理及印尼总统 两人来华出席APEC领袖会议",
-   "zh_hant": "習近平深圳分別會見澳洲總理及印尼總統 兩人來華出席APEC領袖會議"
-  },
-  "image_r2_key": "design/202611/20261120-xi-meets-albanese-prabowo-apec-shenzhen-v2.jpg"
+   "en": "Primary One discretionary places results out on Monday as 18,148 of 32,104 applicants secure places",
+   "zh_hans": "小一自行分配学位下周一放榜 3.2 万人申请 1.8 万人获派",
+   "zh_hant": "小一自行分配學位下周一放榜 3.2 萬人申請 1.8 萬人獲派"
+  }
  },
  {
   "category": "hk",
-  "id": "20261120-lee-infraex-week-opening-speech",
-  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-lee-infraex-week-opening-speech-v2.jpg",
-  "published_at": "2026-11-20T09:48:00+08:00",
+  "id": "20261120-building-maintenance-bureau-413m-funding",
+  "image_url": "",
+  "published_at": "2026-11-20T11:04:00+08:00",
   "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000195.htm"
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878561-20261120.htm"
   },
   "summary": {
-   "en": "Chief Executive John Lee officiated at the grand opening of the inaugural InfraEX Week 2026, attended by about 800 infrastructure leaders, officials and professionals from more than 30 countries and economies, with about 1,000 more joining online. Lee said Hong Kong's First Five-Year Plan, closely aligned with the National 15th Five-Year Plan, provides a strategic roadmap for the city's future. The Northern Metropolis covers one-third of Hong Kong's area and will house about 2.5 million people, create 500,000 jobs and account for about 13% of GDP. The week brings together three concurrent events under the theme \"Envisioning a Sustainable Future: From Insights to Impacts\".",
-   "zh_hans": "行政长官李家超今日主持首届InfraEX Week 2026开幕礼，约800名来自30多个国家及经济体的基建领袖、官员及专业人士出席，另约1,000人网上参与。李家超表示，香港首个五年计划与国家「十五五」规划衔接，为香港未来提供策略蓝图；北部都会区占全港三分之一面积，将容纳约250万人、创造50万个职位，占本地生产总值约13%。活动涵盖三项同期活动，主题为「展望可持续未来：从洞见到影响」。",
-   "zh_hant": "行政長官李家超今日主持首屆InfraEX Week 2026開幕禮，約800名來自30多個國家及經濟體的基建領袖、官員及專業人士出席，另約1,000人網上參與。李家超表示，香港首個五年計劃與國家「十五五」規劃銜接，為香港未來提供策略藍圖；北部都會區佔全港三分之一面積，將容納約250萬人、創造50萬個職位，佔本地生產總值約13%。活動涵蓋三項同期活動，主題為「展望可持續未來：從洞見到影響」。"
+   "en": "The government plans to set up a Building Maintenance Support and Services Bureau, with the Development Bureau submitting a funding paper to the Legislative Council. The bureau follows the government's announcement after the Wang Fuk Court fire that it would be established before the end of the year. The remaining balance of about HK$113 million from the \"Bid Smart\" scheme will go to the new bureau, on top of HK$300 million earmarked by the government, bringing the total to about HK$413 million. Of that, HK$313 million will fund fee waivers, initially focused on buildings under \"Operation Building Bright 2.0\", covering about 80% of private residential and composite buildings aged 30 years or more; owners of the remaining 20% of higher-value buildings would pay in full. The bureau aims to complete company registration and appoint its board within next month, with the first case-management team starting work then to contact owners of about 1,800 outstanding maintenance cases under \"Bid Smart\" that have yet to appoint contractors.",
+   "zh_hans": "政府拟成立「楼宇维修支援及服务局」，发展局向立法会提交文件交代拨款安排。维修局源于宏福苑五级火后政府宣布年底前成立的安排。「招标妥」约 1.13 亿元余额将拨入新局，连同政府预留的 3 亿元，总额增至约 4.13 亿元；其中 3.13 亿元用作宽减资助，初步聚焦「楼宇更新大行动 2.0」楼宇，涵盖全港八成楼龄 30 年或以上私人住宅及综合用途楼宇，其余两成楼价较高楼宇建议付全费。目标下月内完成公司注册及委任董事局，首批个案管理团队下月内展开工作，主动联系原「招标妥」下约 1,800 个尚未委聘承建商的维修工程个案业主。",
+   "zh_hant": "政府擬成立「樓宇維修支援及服務局」，發展局向立法會提交文件交代撥款安排。維修局源於宏福苑五級火後政府宣布年底前成立的安排。「招標妥」約 1.13 億元餘額將撥入新局，連同政府預留的 3 億元，總額增至約 4.13 億元；其中 3.13 億元用作寬減資助，初步聚焦「樓宇更新大行動 2.0」樓宇，涵蓋全港八成樓齡 30 年或以上私人住宅及綜合用途樓宇，其餘兩成樓價較高樓宇建議付全費。目標下月內完成公司註冊及委任董事局，首批個案管理團隊下月內展開工作，主動聯繫原「招標妥」下約 1,800 個尚未委聘承建商的維修工程個案業主。"
   },
   "tags": {
    "en": [
-    "John Lee",
-    "InfraEX Week",
-    "Northern Metropolis",
-    "Infrastructure"
+    "Building maintenance bureau",
+    "Operation Building Bright",
+    "Development Bureau",
+    "Wang Fuk Court"
    ],
    "zh_hans": [
-    "李家超",
-    "基建周",
-    "北部都会区",
-    "基建"
+    "楼宇维修局",
+    "楼宇更新大行动",
+    "发展局",
+    "宏福苑"
    ],
    "zh_hant": [
-    "李家超",
-    "基建周",
-    "北部都會區",
-    "基建"
+    "樓宇維修局",
+    "樓宇更新大行動",
+    "發展局",
+    "宏福苑"
    ]
   },
   "title": {
-   "en": "John Lee opens inaugural InfraEX Week as 800 infrastructure leaders gather, with the Northern Metropolis set to house 2.5 million people and create 500,000 jobs",
-   "zh_hans": "李家超主持首届基建周开幕礼 800领袖云集 北都将容纳250万人 创造50万职位",
-   "zh_hant": "李家超主持首屆基建周開幕禮 800領袖雲集 北都將容納250萬人 創造50萬職位"
-  },
-  "image_r2_key": "design/202611/20261120-lee-infraex-week-opening-speech-v2.jpg"
+   "en": "Government proposes HK$413 million to set up building maintenance bureau, with subsidies expected for owners of 80% of ageing buildings",
+   "zh_hans": "政府拟拨 4.13 亿成立楼宇维修局 八成旧楼业主有望获资助",
+   "zh_hant": "政府擬撥 4.13 億成立樓宇維修局 八成舊樓業主有望獲資助"
+  }
  },
  {
   "category": "finance",
-  "id": "20261120-hk-stocks-open-down-359-year-low",
-  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-hk-stocks-open-down-359-year-low-v2.jpg",
-  "published_at": "2026-11-20T09:27:00+08:00",
+  "id": "20261120-pboc-3795b-overnight-reverse-repo",
+  "image_url": "",
+  "published_at": "2026-11-20T10:39:00+08:00",
   "source": {
    "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878548-20261120.htm"
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878554-20261120.htm"
   },
   "summary": {
-   "en": "Hong Kong stocks opened below this year's low, with the Hang Seng Index at 22,482 in the pre-opening auction, down 359 points or about 1.6%, a new low for the year. The Hang Seng Tech Index stood at 3,541, down 107 points or about 3%. Alibaba steadied after 10 straight days of losses, opening about 1% higher, after adjusted profit rose 92% year on year but still missed expectations. NetEase and Kuaishou fell more than 13% and 8% respectively after their results.",
-   "zh_hans": "港股开市跌穿年内低位，恒生指数竞价时段报22,482点，跌359点，跌幅约1.6%，创年内新低；科技指数报3,541点，跌107点，跌幅约3%。阿里巴巴连跌10日后回稳，高开约1%，上季经调整盈利按年升92%，但仍低于预期；网易及快手绩后分别急挫逾13%及逾8%。",
-   "zh_hant": "港股開市跌穿年內低位，恒生指數競價時段報22,482點，跌359點，跌幅約1.6%，創年內新低；科技指數報3,541點，跌107點，跌幅約3%。阿里巴巴連跌10日後回穩，高開約1%，上季經調整盈利按年升92%，但仍低於預期；網易及快手績後分別急挫逾13%及逾8%。"
+   "en": "The People's Bank of China conducted 379.5 billion yuan of overnight reverse repurchase operations in the open market, with the rate held at 1.25%. After offsetting maturities, the open market switched to a net withdrawal of 688 billion yuan in a single day, with a cumulative net withdrawal of 284.5 billion yuan this week.",
+   "zh_hans": "人民银行公开市场开展 3,795 亿元人民币隔夜逆回购操作，利率维持 1.25 厘。对冲到期量后，公开市场单日转为净回笼 6,880 亿元，本周累计净回笼 2,845 亿元。",
+   "zh_hant": "人民銀行公開市場開展 3,795 億元人民幣隔夜逆回購操作，利率維持 1.25 厘。對沖到期量後，公開市場單日轉為淨回籠 6,880 億元，本周累計淨回籠 2,845 億元。"
   },
   "tags": {
    "en": [
-    "Hang Seng Index",
-    "Hong Kong stocks",
-    "NetEase",
-    "Alibaba"
+    "PBOC",
+    "Reverse repo",
+    "Open market operations",
+    "Liquidity"
    ],
    "zh_hans": [
-    "恒生指数",
-    "港股",
-    "网易",
-    "阿里巴巴"
-   ],
-   "zh_hant": [
-    "恒生指數",
-    "港股",
-    "網易",
-    "阿里巴巴"
-   ]
-  },
-  "title": {
-   "en": "Hang Seng falls 359 points at the open to a new low for the year, tech index down 3% as NetEase tumbles over 13% after results while Alibaba steadies",
-   "zh_hans": "港股竞价跌359点创年内新低 科指跌3% 网易绩后挫逾13% 阿里回稳",
-   "zh_hant": "港股競價跌359點創年內新低 科指跌3% 網易績後挫逾13% 阿里回穩"
-  },
-  "image_r2_key": "design/202611/20261120-hk-stocks-open-down-359-year-low-v2.jpg"
- },
- {
-  "category": "finance",
-  "id": "20261120-china-nov-lpr-unchanged",
-  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-china-nov-lpr-unchanged-v2.jpg",
-  "published_at": "2026-11-20T09:18:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878545-20261120.htm"
-  },
-  "summary": {
-   "en": "Mainland China's November loan prime rates are unchanged. The People's Bank of China announced that the one-year LPR stays at 3% and the over-five-year LPR at 3.5%, with both rates at the same levels since May last year.",
-   "zh_hans": "内地11月贷款市场报价利率维持不变。人民银行公布，1年期LPR维持于3厘，5年期以上LPR维持于3.5厘，两者自去年5月起处于同一水平。",
-   "zh_hant": "內地11月貸款市場報價利率維持不變。人民銀行公布，1年期LPR維持於3厘，5年期以上LPR維持於3.5厘，兩者自去年5月起處於同一水平。"
-  },
-  "tags": {
-   "en": [
-    "Loan prime rate",
-    "People's Bank of China",
-    "Interest rates"
-   ],
-   "zh_hans": [
-    "贷款市场报价利率",
     "人民银行",
-    "利率"
+    "逆回购",
+    "公开市场操作",
+    "流动性"
    ],
    "zh_hant": [
-    "貸款市場報價利率",
     "人民銀行",
-    "利率"
+    "逆回購",
+    "公開市場操作",
+    "流動性"
    ]
   },
   "title": {
-   "en": "China's November loan prime rates unchanged, with the one-year LPR at 3% and the over-five-year rate at 3.5%, steady since May last year",
-   "zh_hans": "内地11月贷款市场报价利率维持不变 1年期3厘 5年期以上3.5厘 自去年5月起未变",
-   "zh_hant": "內地11月貸款市場報價利率維持不變 1年期3厘 5年期以上3.5厘 自去年5月起未變"
+   "en": "PBOC drains a net 688 billion yuan in a single day, with 284.5 billion yuan withdrawn this week",
+   "zh_hans": "人行单日净回笼 6880 亿 本周累计收水 2845 亿",
+   "zh_hant": "人行單日淨回籠 6880 億 本周累計收水 2845 億"
+  }
+ },
+ {
+  "category": "entertainment",
+  "id": "20261120-tvb-59th-anniversary-gala",
+  "image_url": "",
+  "published_at": "2026-11-20T00:00:31+08:00",
+  "source": {
+   "name": "明報",
+   "url": "https://news.mingpao.com/pns/%e5%a8%9b%e6%a8%82/article/20261120/s00016/1795111550887/%e8%a8%b1%e5%bf%97%e5%ae%89%e5%8f%b0%e6%85%b6%e7%8d%bb%e5%94%b1-%e9%a6%ac%e5%9c%8b%e6%98%8e%e3%80%8c%e7%a5%9e%e9%9a%b1%e3%80%8d%e9%81%bf%e5%90%8c%e5%a0%b4-%e7%be%85%e5%98%89%e8%89%af%e7%82%92%e7%86%b1%e6%b0%a3%e6%b0%9b-%e9%a1%8f%e5%bf%97%e6%81%92%e8%b4%8f45%e8%90%ac"
   },
-  "image_r2_key": "design/202611/20261120-china-nov-lpr-unchanged-v2.jpg"
+  "summary": {
+   "en": "TVB's 59th anniversary gala, \"TVB Anniversary Gala\", was held at Television City on the evening of November 19, with more than 200 artistes taking part. Headline performer Andy Hui, appearing in the same event as Kenneth Ma for the first time since the 2019 \"On Sum\" incident seven years ago, said neither of them felt awkward; Ma was not seen on stage while Hui performed, avoiding a shared frame, and only reappeared for the grand prize draw at the end. Roger Kwok led more than 170 artistes in the opening song-and-dance numbers \"Kei Gor\" and \"Old Time Buddy\", revealing numbness in the sole of his right foot and saying he will seek further checks and acupuncture. In the \"Tung Cheung Goddess Cup\" 400-metre race, Samantha Lee won in 1 minute 25 seconds, followed by Hilary Lei and Ting Yan Chan. The gala's grand prize of a HK$450,000 credit-card spending waiver was won by \"Midlife, Sing & Shine\" contestant Ngan Chi-hang; Wong Kim-man had drawn a HK$100,000 prize but missed it after going to a convenience store for a chicken thigh, with the prize going to Pierre Ngo. Executive chairman Thomas Hui previewed a show at Kai Tak's main venue next year and five new drama productions.",
+   "zh_hans": "无线庆祝 59 周年《万千星辉贺台庆》19 日晚在电视城举行，逾 200 名艺人参与。压轴嘉宾许志安在「安心事件」7 年后与马国明首度同场，两人都表示不尴尬；许志安演出时马国明未有现身台前，避过同框，直至尾声大抽奖才再现身。罗嘉良带领逾 170 名艺人打头阵跳唱《奇哥》及《难兄难弟》，自爆右脚脚底麻痹，将再检查及针灸。《东张女神杯》400 米赛跑，李旻芳以 1 分 25 秒夺冠，黎宽怡第二、陈庭欣第三。台庆大奖 45 万元信用卡免找数签账额由《中年好声音》颜志恒夺得；黄剑文原本抽中 10 万元奖品但到便利店食鸡髀错失机会，由曹永廉补上。行政主席许涛预告明年去启德主场馆举行一个骚，并将开拍 5 部剧。",
+   "zh_hant": "無綫慶祝 59 周年《萬千星輝賀台慶》19 日晚在電視城舉行，逾 200 名藝人參與。壓軸嘉賓許志安在「安心事件」7 年後與馬國明首度同場，兩人都表示不尷尬；許志安演出時馬國明未有現身台前，避過同框，直至尾聲大抽獎才再現身。羅嘉良帶領逾 170 名藝人打頭陣跳唱《奇哥》及《難兄難弟》，自爆右腳腳底麻痺，將再檢查及針灸。《東張女神盃》400 米賽跑，李旻芳以 1 分 25 秒奪冠，黎寬怡第二、陳庭欣第三。台慶大獎 45 萬元信用卡免找數簽帳額由《中年好聲音》顏志恒奪得；黃劍文原本抽中 10 萬元獎品但到便利店食雞髀錯失機會，由曹永廉補上。行政主席許濤預告明年去啟德主場館舉行一個騷，並將開拍 5 部劇。"
+  },
+  "tags": {
+   "en": [
+    "TVB",
+    "Anniversary gala",
+    "Andy Hui",
+    "Kenneth Ma"
+   ],
+   "zh_hans": [
+    "无线",
+    "万千星辉贺台庆",
+    "许志安",
+    "马国明"
+   ],
+   "zh_hant": [
+    "無綫",
+    "萬千星輝賀台慶",
+    "許志安",
+    "馬國明"
+   ]
+  },
+  "title": {
+   "en": "Andy Hui closes TVB's 59th anniversary gala as Kenneth Ma deftly avoids sharing the stage, while Ngan Chi-hang wins the HK$450,000 grand prize",
+   "zh_hans": "许志安台庆压轴献唱 马国明巧妙「神隐」避同框 颜志恒赢 45 万大奖",
+   "zh_hant": "許志安台慶壓軸獻唱 馬國明巧妙「神隱」避同框 顏志恒贏 45 萬大獎"
+  }
  }
 ]
