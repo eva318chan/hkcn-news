@@ -1,5 +1,317 @@
 [
   {
+    "category": "finance",
+    "id": "20261121-gold-barely-holds-3500-week-down-9-pct",
+    "published_at": "2026-11-21T06:29:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878664-20261121.htm"
+    },
+    "summary": {
+      "en": "Gold prices have fallen to a fresh low in more than 14 months, with spot gold dipping to about US$3,502.5 an ounce and hovering near US$3,532, down about 2.5 per cent on the day. The metal is down more than 9 per cent for the week, its biggest weekly drop since March, dragged down by rising expectations of interest rate hikes and a sharp sell-off in artificial intelligence-related shares. December gold futures in New York closed at US$3,515.4, down 4.6 per cent.",
+      "zh_hans": "金价再创逾14个月新低，现货金一度低见每盎司约3,502.5美元，较早时徘徊3,532美元，跌约2.5%。本周累计跌逾9%，是3月以来最大单周跌幅，拖累因素包括加息预期升温，以及人工智能相关股份急挫。纽约期金12月合约收报3,515.4美元，跌4.6%。",
+      "zh_hant": "金價再創逾14個月新低，現貨金一度低見每盎司約3,502.5美元，較早時徘徊3,532美元，跌約2.5%。本周累計跌逾9%，是3月以來最大單周跌幅，拖累因素包括加息預期升溫，以及人工智能相關股份急挫。紐約期金12月合約收報3,515.4美元，跌4.6%。"
+    },
+    "tags": {
+      "en": [
+        "Gold",
+        "Gold price",
+        "Markets"
+      ],
+      "zh_hans": [
+        "黄金",
+        "金价",
+        "市场"
+      ],
+      "zh_hant": [
+        "黃金",
+        "金價",
+        "市場"
+      ]
+    },
+    "title": {
+      "en": "Gold barely holds above $3,500 as weekly plunge tops 9%, worst since March",
+      "zh_hans": "金价险守3500美元大关 本周暴跌逾9%创3月以来最大跌幅",
+      "zh_hant": "金價險守3500美元大關 本周暴跌逾9%創3月以來最大跌幅"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-gold-barely-holds-3500-week-down-9-pct-v2.jpg",
+    "image_prompt": "事實：金價險守3500美元大關，本周暴跌逾9%，創3月以來最大跌幅。場景：光猛日間金舖櫥窗，金條金飾在陽光下金光閃爍，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「金價險守3500美元大關」白字，第二行「本周暴跌逾9% 創3月以來最大跌幅」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-gold-barely-holds-3500-week-down-9-pct-v2.jpg"
+  },
+  {
+    "category": "finance",
+    "id": "20261121-european-stocks-fall-1-3-pct-weekly",
+    "published_at": "2026-11-21T06:28:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878663-20261121.htm"
+    },
+    "summary": {
+      "en": "European stocks have been under selling pressure for days, as cooling enthusiasm for artificial intelligence-related trades deepens a sell-off in technology shares. Britain's FTSE 100 closed at 10,346, down 106 points or 1 per cent, its lowest in more than five months; Germany's DAX closed at 24,802, down 661 points or 2.6 per cent, its lowest close in nearly four months; France's CAC closed at 7,927, down 152 points or about 1.9 per cent, its lowest in nearly a month. For the week, British stocks fell 5.1 per cent, German stocks about 7.3 per cent and French stocks about 5.3 per cent.",
+      "zh_hans": "欧洲股市连续多日捱沽，人工智能相关交易降温，加剧科技股抛售潮。英国富时100指数收报10,346点，跌106点，跌幅1%，创逾5个月新低；德国DAX指数收报24,802点，跌661点，跌幅2.6%，是近4个月收市低位；法国CAC指数收报7,927点，跌152点，跌幅约1.9%，创近1个月低位。本周累计，英股跌5.1%，德股跌约7.3%，法股跌约5.3%。",
+      "zh_hant": "歐洲股市連續多日捱沽，人工智能相關交易降溫，加劇科技股拋售潮。英國富時100指數收報10,346點，跌106點，跌幅1%，創逾5個月新低；德國DAX指數收報24,802點，跌661點，跌幅2.6%，是近4個月收市低位；法國CAC指數收報7,927點，跌152點，跌幅約1.9%，創近1個月低位。本周累計，英股跌5.1%，德股跌約7.3%，法股跌約5.3%。"
+    },
+    "tags": {
+      "en": [
+        "European stocks",
+        "FTSE",
+        "DAX"
+      ],
+      "zh_hans": [
+        "欧洲股市",
+        "富时指数",
+        "德国DAX"
+      ],
+      "zh_hant": [
+        "歐洲股市",
+        "富時指數",
+        "德國DAX"
+      ]
+    },
+    "title": {
+      "en": "UK, French and German stocks fall 1% to nearly 3% as weekly losses reach 5% to 7%",
+      "zh_hans": "英法德股市齐跌逾1%至近3% 本周累跌5%至7%齐创数月新低",
+      "zh_hant": "英法德股市齊跌逾1%至近3% 本周累跌5%至7%齊創數月新低"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-european-stocks-fall-1-3-pct-weekly-v2.jpg",
+    "image_prompt": "事實：英法德股市齊跌逾1%至近3%，本周累跌5%至7%，齊創數月新低。場景：光猛日間歐洲交易所大樓外景，倫敦金融城陽光普照，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「英法德股市齊跌逾1%至近3%」白字，第二行「本周累跌5%至7% 齊創數月新低」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-european-stocks-fall-1-3-pct-weekly-v2.jpg"
+  },
+  {
+    "category": "finance",
+    "id": "20261121-dow-down-949-nasdaq-plunges-5-pct-nvidia-14-pct",
+    "published_at": "2026-11-21T06:16:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878662-20261121.htm"
+    },
+    "summary": {
+      "en": "US stocks plunged, with the Dow Jones and the S&P 500 both falling more than 10 per cent from their record closing highs and entering correction territory. The Dow fell for a fifth straight day, closing at 48,147, down 949 points or 1.9 per cent; the S&P 500 lost the 7,000 level to close at 6,910, down 3.7 per cent, its seventh straight daily fall and the longest losing streak since February 2020; the Nasdaq fell below 23,000 to close at 22,617, down about 5.3 per cent. Nvidia tumbled 14 per cent to its lowest since May last year after reports that the US Securities and Exchange Commission is reviewing potential accounting issues at the chipmaker, dragging other chip and optical-communication shares down 13 to 16 per cent. For the week, the Dow fell 8 per cent and the S&P 500 fell 8.6 per cent, both their biggest weekly drops in more than a year and a half, while the Nasdaq plunged 10 per cent, its biggest weekly fall in more than six and a half years.",
+      "zh_hans": "美股三大指数急跌，道指及标普500指数双双较历史收市高位跌逾一成，进入回调区间。道指连跌5日，收报48,147点，跌949点，跌幅1.9%；标普500指数失守7,000点，收报6,910点，跌3.7%，连跌7日，是2020年2月以来最长连跌纪录；纳指跌穿23,000点，收报22,617点，急挫约5.3%。据报美国证监会正审查辉达潜在会计问题，辉达股价急挫14%，创去年5月以来新低，芯片及光通信股亦大跌。总结全星期，道指跌8%，标普500指数跌8.6%，两者齐创逾一年半以来最大单星期跌幅；纳指本周急跌10%，是逾六年半最大单星期跌幅。",
+      "zh_hant": "美股三大指數急跌，道指及標普500指數雙雙較歷史收市高位跌逾一成，進入回調區間。道指連跌5日，收報48,147點，跌949點，跌幅1.9%；標普500指數失守7,000點，收報6,910點，跌3.7%，連跌7日，是2020年2月以來最長連跌紀錄；納指跌穿23,000點，收報22,617點，急挫約5.3%。據報美國證監會正審查輝達潛在會計問題，輝達股價急挫14%，創去年5月以來新低，晶片及光通信股亦大跌。總結全星期，道指跌8%，標普500指數跌8.6%，兩者齊創逾一年半以來最大單星期跌幅；納指本周急跌10%，是逾六年半最大單星期跌幅。"
+    },
+    "tags": {
+      "en": [
+        "US stocks",
+        "Dow Jones",
+        "Nvidia"
+      ],
+      "zh_hans": [
+        "美股",
+        "道琼斯",
+        "辉达"
+      ],
+      "zh_hant": [
+        "美股",
+        "道瓊斯",
+        "輝達"
+      ]
+    },
+    "title": {
+      "en": "US stocks plunge as Dow sheds 949 points and Nasdaq dives 5.3% with Nvidia down 14%",
+      "zh_hans": "美股急泻 道指跌949点纳指挫5.3% 辉达暴跌14%拖累芯片股",
+      "zh_hant": "美股急瀉 道指跌949點納指挫5.3% 輝達暴跌14%拖累晶片股"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-dow-down-949-nasdaq-plunges-5-pct-nvidia-14-pct-v2.jpg",
+    "image_prompt": "事實：美股急瀉，道指跌949點，納指挫5.3%，輝達暴跌14%。場景：光猛日間紐約證券交易所外景，交易大堂內紅色下跌箭頭，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「美股急瀉 道指跌949點納指挫5.3%」白字，第二行「輝達暴跌14%拖累晶片股」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-dow-down-949-nasdaq-plunges-5-pct-nvidia-14-pct-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-red-fire-danger-warning-issued",
+    "published_at": "2026-11-21T06:10:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/21/P2026112100121.htm"
+    },
+    "summary": {
+      "en": "The Hong Kong Observatory has issued a red fire danger warning, with the fire danger situation today (November 21) rated red and the fire risk extreme. The countryside is extremely vulnerable to fire. Anyone spending the day in the countryside should take pre-cooked food for a picnic and take all measures to prevent hill fires. Lighting fires illegally in the countryside carries a penalty of $25,000 and a year's imprisonment.",
+      "zh_hans": "天文台发出红色火灾危险警告，指今日（11月21日）火警危险情况属红色，火警风险极高，郊野特别容易发生火警。市民如到郊野，应带备已煮熟的食物野餐，并采取一切措施防止山火。在郊野非法生火可被罚款25,000元及监禁一年。",
+      "zh_hant": "天文台發出紅色火災危險警告，指今日（11月21日）火警危險情況屬紅色，火警風險極高，郊野特別容易發生火警。市民如到郊野，應帶備已煮熟的食物野餐，並採取一切措施防止山火。在郊野非法生火可被罰款25,000元及監禁一年。"
+    },
+    "tags": {
+      "en": [
+        "Fire danger warning",
+        "Observatory",
+        "Countryside"
+      ],
+      "zh_hans": [
+        "火灾危险警告",
+        "天文台",
+        "郊野"
+      ],
+      "zh_hant": [
+        "火災危險警告",
+        "天文台",
+        "郊野"
+      ]
+    },
+    "title": {
+      "en": "Red fire danger warning in force as fire risk hits extreme; illegal countryside fires carry a year in jail",
+      "zh_hans": "红色火灾危险警告生效 火警风险极高 郊野非法生火可囚一年",
+      "zh_hant": "紅色火災危險警告生效 火警風險極高 郊野非法生火可囚一年"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-red-fire-danger-warning-issued-v2.jpg",
+    "image_prompt": "事實：紅色火災危險警告生效，火警風險極高，郊野非法生火可囚一年。場景：光猛日間香港郊野山徑，陽光下乾草山坡，藍天白雲，畫面明亮通透，唔用黑沉夜景，唔可以捏造火災現場或傷者畫面。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「紅色火災危險警告生效」白字，第二行「火警風險極高 郊野非法生火可囚一年」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-red-fire-danger-warning-issued-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-cold-weather-warning-cancelled",
+    "published_at": "2026-11-21T06:09:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878661-20261121.htm"
+    },
+    "summary": {
+      "en": "The Hong Kong Observatory cancelled the cold weather warning at 6am today. The warning had been in force during the cold spell, during which the Observatory recorded a low of 12.7 degrees yesterday, the lowest since autumn began. The Observatory also issued a red fire danger warning this morning, reminding the public to be careful with fire.",
+      "zh_hans": "天文台在今日上午6时取消寒冷天气警告。警告在寒潮期间生效，昨日天文台录得入秋以来最低气温12.7度；天文台同时在今早发出红色火灾危险警告，提醒市民小心防火。",
+      "zh_hant": "天文台在今日上午6時取消寒冷天氣警告。警告在寒潮期間生效，昨日天文台錄得入秋以來最低氣溫12.7度；天文台同時在今早發出紅色火災危險警告，提醒市民小心防火。"
+    },
+    "tags": {
+      "en": [
+        "Cold weather warning",
+        "Observatory",
+        "Weather"
+      ],
+      "zh_hans": [
+        "寒冷天气警告",
+        "天文台",
+        "天气"
+      ],
+      "zh_hant": [
+        "寒冷天氣警告",
+        "天文台",
+        "天氣"
+      ]
+    },
+    "title": {
+      "en": "Cold weather warning cancelled as Observatory issues red fire danger warning instead",
+      "zh_hans": "寒冷天气警告取消 天文台同日改发红色火灾危险警告",
+      "zh_hant": "寒冷天氣警告取消 天文台同日改發紅色火災危險警告"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-cold-weather-warning-cancelled-v2.jpg",
+    "image_prompt": "事實：寒冷天氣警告取消，天文台同日改發紅色火災危險警告。場景：光猛日間香港街頭，陽光普照，市民著輕便外套，藍天白雲，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「寒冷天氣警告取消」白字，第二行「天文台同日改發紅色火災危險警告」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-cold-weather-warning-cancelled-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-flag-day-three-charities-nov-21",
+    "published_at": "2026-11-21T06:00:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/21/P2026111900200.htm"
+    },
+    "summary": {
+      "en": "Three charities are holding a regional flag day today (November 21), selling flags from 7am to 12.30pm. On Hong Kong Island, the Hong Kong Alzheimer's Disease Association is selling flags with yellow collection bags and blue flags; in Kowloon, the Hong Kong Guide Dogs Association Limited is selling flags with red bags and pink flags; and in the New Territories, the Society for Abandoned Animals Limited is selling flags with orange bags and blue flags. The Social Welfare Department reminded the public not to donate and to report to the police immediately if they suspect a fraudulent flag-selling activity; enquiries can be made on the department's hotline at 2343 2255 or the 1823 Call Centre at 3142 2678.",
+      "zh_hans": "三个慈善团体今日（11月21日）上午7时至12时半举行分区卖旗日。港岛由香港认知障碍症协会卖旗（黄色钱袋、蓝色旗仔）；九龙由香港导盲犬协会卖旗（红色钱袋、粉红色旗仔）；新界由保护遗弃动物协会卖旗（橙色钱袋、蓝色旗仔）。社会福利署提醒市民，如怀疑遇到假冒卖旗活动，切勿捐款并应立即报警；查询可致电社署热线2343 2255或1823电话中心3142 2678。",
+      "zh_hant": "三個慈善團體今日（11月21日）上午7時至12時半舉行分區賣旗日。港島由香港認知障礙症協會賣旗（黃色錢袋、藍色旗仔）；九龍由香港導盲犬協會賣旗（紅色錢袋、粉紅色旗仔）；新界由保護遺棄動物協會賣旗（橙色錢袋、藍色旗仔）。社會福利署提醒市民，如懷疑遇到假冒賣旗活動，切勿捐款並應立即報警；查詢可致電社署熱線2343 2255或1823電話中心3142 2678。"
+    },
+    "tags": {
+      "en": [
+        "Flag day",
+        "Charity",
+        "Social Welfare Department"
+      ],
+      "zh_hans": [
+        "卖旗日",
+        "慈善",
+        "社会福利署"
+      ],
+      "zh_hant": [
+        "賣旗日",
+        "慈善",
+        "社會福利署"
+      ]
+    },
+    "title": {
+      "en": "Regional flag day today as three charities sell flags across Hong Kong Island, Kowloon and the New Territories",
+      "zh_hans": "今日分区卖旗日 三慈善团体分驻港九新界 上午7时至12时半筹款",
+      "zh_hant": "今日分區賣旗日 三慈善團體分駐港九新界 上午7時至12時半籌款"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-flag-day-three-charities-nov-21-v2.jpg",
+    "image_prompt": "事實：今日分區賣旗日，三慈善團體分駐港九新界，上午7時至12時半籌款。場景：光猛日間香港街頭，義工手持旗仔同錢袋，陽光普照，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「今日分區賣旗日」白字，第二行「三慈善團體分駐港九新界籌款」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-flag-day-three-charities-nov-21-v2.jpg"
+  },
+  {
+    "category": "world",
+    "id": "20261121-trump-trilateral-summit-unprecedented-significant",
+    "published_at": "2026-11-21T05:15:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878660-20261121.htm"
+    },
+    "summary": {
+      "en": "US President Donald Trump has hailed the first-ever trilateral summit of the leaders of China, Russia and the United States as unprecedented and hugely significant. Speaking at a White House press conference to sum up his Asia trip, Trump described the APEC leaders' informal meeting in Shenzhen as a very successful economic gathering, and the three-way leaders' meeting as one of the most significant international summits in years. He said the atmosphere was very warm and the three leaders get along very well. Trump added that the historic summit produced an unprecedented trilateral peace declaration, with the three countries formally agreeing that a nuclear conflict must never be allowed to happen.",
+      "zh_hans": "美国总统特朗普盛赞中俄美元首首次三方会晤史无前例、意义重大。他在白宫记者会总结亚洲之行时表示，深圳亚太经合组织领导人非正式会议是一场非常成功的经济会议，而三国领导人首次三方会晤更是多年来最具意义的国际峰会之一。他说会晤气氛非常热烈，三人关系非常融洽；峰会达成的三方和平宣言亦是史无前例，美、俄、中三国正式达成共识，绝不能让核冲突发生。",
+      "zh_hant": "美國總統特朗普盛讚中俄美元首首次三方會晤史無前例、意義重大。他在白宮記者會總結亞洲之行時表示，深圳亞太經合組織領導人非正式會議是一場非常成功的經濟會議，而三國領導人首次三方會晤更是多年來最具意義的國際峰會之一。他說會晤氣氛非常熱烈，三人關係非常融洽；峰會達成的三方和平宣言亦是史無前例，美、俄、中三國正式達成共識，絕不能讓核衝突發生。"
+    },
+    "tags": {
+      "en": [
+        "Trump",
+        "China-Russia-US summit",
+        "APEC"
+      ],
+      "zh_hans": [
+        "特朗普",
+        "中俄美元首会晤",
+        "亚太经合组织"
+      ],
+      "zh_hant": [
+        "特朗普",
+        "中俄美元首會晤",
+        "亞太經合組織"
+      ]
+    },
+    "title": {
+      "en": "Trump hails unprecedented China-Russia-US summit as leaders agree nuclear conflict must never happen",
+      "zh_hans": "特朗普盛赞中俄美元首会晤史无前例 三方和平宣言定调绝不容核冲突",
+      "zh_hant": "特朗普盛讚中俄美元首會晤史無前例 三方和平宣言定調絕不容核衝突"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-trump-trilateral-summit-unprecedented-significant-v2.jpg",
+    "image_prompt": "事實：特朗普盛讚中俄美元首會晤史無前例，三方和平宣言定調絕不容核衝突。場景：光猛日間國際峰會會場外景，藍天白雲，陽光普照，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「特朗普盛讚中俄美元首會晤史無前例」白字，第二行「三方和平宣言定調絕不容核衝突」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-trump-trilateral-summit-unprecedented-significant-v2.jpg"
+  },
+  {
+    "category": "world",
+    "id": "20261121-eisenkot-emergency-government-coalition-fails",
+    "published_at": "2026-11-21T04:40:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878658-20261121.htm"
+    },
+    "summary": {
+      "en": "Gadi Eisenkot, leader of Israel's Yashar party, says that if attempts to form a majority governing coalition fail, he will seek to form a national emergency government. In a statement on social media, Eisenkot said he had met several Israeli party leaders over the past week to discuss ways to form a new government, including a coalition with Jewish religious parties, a coalition with the Likud bloc led by caretaker prime minister Benjamin Netanyahu, or a national emergency government. He stressed he would not allow negotiations to drag on indefinitely and would submit a government-formation plan to parliament for approval in due course. Israeli media reported that the emergency-government option could be a minority government based on an alliance of four opposition parties.",
+      "zh_hans": "以色列正直党领导人埃森科特表示，如果组建多数派执政联盟的尝试失败，他将寻求组建国家紧急政府。他在社交媒体发表声明，指过去一周会见多名以色列政党领导人，探讨组建新政府的途径，包括与犹太宗教政党组建联盟、与看守政府总理内塔尼亚胡领导的利库德集团组建联盟，或组建国家紧急政府。他强调不会允许谈判无限期拖延，将适时把组阁方案提交议会寻求批准。以色列传媒报道，国家紧急政府的方案可能是建立一个以反对派阵营四大政党联盟为基础的少数派政府。",
+      "zh_hant": "以色列正直黨領導人埃森科特表示，如果組建多數派執政聯盟的嘗試失敗，他將尋求組建國家緊急政府。他在社交媒體發表聲明，指過去一周會見多名以色列政黨領導人，探討組建新政府的途徑，包括與猶太宗教政黨組建聯盟、與看守政府總理內塔尼亞胡領導的利庫德集團組建聯盟，或組建國家緊急政府。他強調不會允許談判無限期拖延，將適時把組閣方案提交議會尋求批准。以色列傳媒報道，國家緊急政府的方案可能是建立一個以反對派陣營四大政黨聯盟為基礎的少數派政府。"
+    },
+    "tags": {
+      "en": [
+        "Israel",
+        "Eisenkot",
+        "Coalition"
+      ],
+      "zh_hans": [
+        "以色列",
+        "埃森科特",
+        "组阁"
+      ],
+      "zh_hant": [
+        "以色列",
+        "埃森科特",
+        "組閣"
+      ]
+    },
+    "title": {
+      "en": "Israel's Eisenkot says he will seek emergency government if coalition talks fail",
+      "zh_hans": "以色列组阁僵局 埃森科特扬言组建紧急政府 拒让谈判无限拖延",
+      "zh_hant": "以色列組閣僵局 埃森科特揚言組建緊急政府 拒讓談判無限拖延"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-eisenkot-emergency-government-coalition-fails-v2.jpg",
+    "image_prompt": "事實：以色列組閣僵局，埃森科特揚言組建緊急政府，拒讓談判無限拖延。場景：光猛日間以色列國會大樓外景，藍天白雲，陽光普照，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「以色列組閣僵局」白字，第二行「埃森科特揚言組建緊急政府」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-eisenkot-emergency-government-coalition-fails-v2.jpg"
+  },
+  {
     "category": "world",
     "id": "20261121-russia-massive-airstrike-kyiv-7-killed",
     "published_at": "2026-11-21T03:46:00+08:00",
@@ -544,310 +856,6 @@
     "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-hkicl-fraudulent-website-fpshk-xyz-v2.jpg",
     "image_prompt": "事實：香港銀行同業結算有限公司示警，假網站fpshk.xyz冒充轉數快客服呃退款，提醒市民提防。場景：光猛日間香港金融區高樓，陽光下一個人手持手機，手機畫面有防騙盾牌標誌，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔，唔可以畫出假網站地址。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「金管局轄下結算公司示警」白字，第二行「假網站冒充轉數快客服呃退款」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
     "image_r2_key": "design/202611/20261121-hkicl-fraudulent-website-fpshk-xyz-v2.jpg"
-  },
-  {
-    "category": "finance",
-    "id": "20261121-gold-barely-holds-3500-week-down-9-pct",
-    "published_at": "2026-11-21T06:29:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878664-20261121.htm"
-    },
-    "summary": {
-      "en": "Gold prices have fallen to a fresh low in more than 14 months, with spot gold dipping to about US$3,502.5 an ounce and hovering near US$3,532, down about 2.5 per cent on the day. The metal is down more than 9 per cent for the week, its biggest weekly drop since March, dragged down by rising expectations of interest rate hikes and a sharp sell-off in artificial intelligence-related shares. December gold futures in New York closed at US$3,515.4, down 4.6 per cent.",
-      "zh_hans": "金价再创逾14个月新低，现货金一度低见每盎司约3,502.5美元，较早时徘徊3,532美元，跌约2.5%。本周累计跌逾9%，是3月以来最大单周跌幅，拖累因素包括加息预期升温，以及人工智能相关股份急挫。纽约期金12月合约收报3,515.4美元，跌4.6%。",
-      "zh_hant": "金價再創逾14個月新低，現貨金一度低見每盎司約3,502.5美元，較早時徘徊3,532美元，跌約2.5%。本周累計跌逾9%，是3月以來最大單周跌幅，拖累因素包括加息預期升溫，以及人工智能相關股份急挫。紐約期金12月合約收報3,515.4美元，跌4.6%。"
-    },
-    "tags": {
-      "en": [
-        "Gold",
-        "Gold price",
-        "Markets"
-      ],
-      "zh_hans": [
-        "黄金",
-        "金价",
-        "市场"
-      ],
-      "zh_hant": [
-        "黃金",
-        "金價",
-        "市場"
-      ]
-    },
-    "title": {
-      "en": "Gold barely holds above $3,500 as weekly plunge tops 9%, worst since March",
-      "zh_hans": "金价险守3500美元大关 本周暴跌逾9%创3月以来最大跌幅",
-      "zh_hant": "金價險守3500美元大關 本周暴跌逾9%創3月以來最大跌幅"
-    },
-    "image_url": "",
-    "image_prompt": "事實：金價險守3500美元大關，本周暴跌逾9%，創3月以來最大跌幅。場景：光猛日間金舖櫥窗，金條金飾在陽光下金光閃爍，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「金價險守3500美元大關」白字，第二行「本周暴跌逾9% 創3月以來最大跌幅」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "finance",
-    "id": "20261121-european-stocks-fall-1-3-pct-weekly",
-    "published_at": "2026-11-21T06:28:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878663-20261121.htm"
-    },
-    "summary": {
-      "en": "European stocks have been under selling pressure for days, as cooling enthusiasm for artificial intelligence-related trades deepens a sell-off in technology shares. Britain's FTSE 100 closed at 10,346, down 106 points or 1 per cent, its lowest in more than five months; Germany's DAX closed at 24,802, down 661 points or 2.6 per cent, its lowest close in nearly four months; France's CAC closed at 7,927, down 152 points or about 1.9 per cent, its lowest in nearly a month. For the week, British stocks fell 5.1 per cent, German stocks about 7.3 per cent and French stocks about 5.3 per cent.",
-      "zh_hans": "欧洲股市连续多日捱沽，人工智能相关交易降温，加剧科技股抛售潮。英国富时100指数收报10,346点，跌106点，跌幅1%，创逾5个月新低；德国DAX指数收报24,802点，跌661点，跌幅2.6%，是近4个月收市低位；法国CAC指数收报7,927点，跌152点，跌幅约1.9%，创近1个月低位。本周累计，英股跌5.1%，德股跌约7.3%，法股跌约5.3%。",
-      "zh_hant": "歐洲股市連續多日捱沽，人工智能相關交易降溫，加劇科技股拋售潮。英國富時100指數收報10,346點，跌106點，跌幅1%，創逾5個月新低；德國DAX指數收報24,802點，跌661點，跌幅2.6%，是近4個月收市低位；法國CAC指數收報7,927點，跌152點，跌幅約1.9%，創近1個月低位。本周累計，英股跌5.1%，德股跌約7.3%，法股跌約5.3%。"
-    },
-    "tags": {
-      "en": [
-        "European stocks",
-        "FTSE",
-        "DAX"
-      ],
-      "zh_hans": [
-        "欧洲股市",
-        "富时指数",
-        "德国DAX"
-      ],
-      "zh_hant": [
-        "歐洲股市",
-        "富時指數",
-        "德國DAX"
-      ]
-    },
-    "title": {
-      "en": "UK, French and German stocks fall 1% to nearly 3% as weekly losses reach 5% to 7%",
-      "zh_hans": "英法德股市齐跌逾1%至近3% 本周累跌5%至7%齐创数月新低",
-      "zh_hant": "英法德股市齊跌逾1%至近3% 本周累跌5%至7%齊創數月新低"
-    },
-    "image_url": "",
-    "image_prompt": "事實：英法德股市齊跌逾1%至近3%，本周累跌5%至7%，齊創數月新低。場景：光猛日間歐洲交易所大樓外景，倫敦金融城陽光普照，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「英法德股市齊跌逾1%至近3%」白字，第二行「本周累跌5%至7% 齊創數月新低」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "finance",
-    "id": "20261121-dow-down-949-nasdaq-plunges-5-pct-nvidia-14-pct",
-    "published_at": "2026-11-21T06:16:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878662-20261121.htm"
-    },
-    "summary": {
-      "en": "US stocks plunged, with the Dow Jones and the S&P 500 both falling more than 10 per cent from their record closing highs and entering correction territory. The Dow fell for a fifth straight day, closing at 48,147, down 949 points or 1.9 per cent; the S&P 500 lost the 7,000 level to close at 6,910, down 3.7 per cent, its seventh straight daily fall and the longest losing streak since February 2020; the Nasdaq fell below 23,000 to close at 22,617, down about 5.3 per cent. Nvidia tumbled 14 per cent to its lowest since May last year after reports that the US Securities and Exchange Commission is reviewing potential accounting issues at the chipmaker, dragging other chip and optical-communication shares down 13 to 16 per cent. For the week, the Dow fell 8 per cent and the S&P 500 fell 8.6 per cent, both their biggest weekly drops in more than a year and a half, while the Nasdaq plunged 10 per cent, its biggest weekly fall in more than six and a half years.",
-      "zh_hans": "美股三大指数急跌，道指及标普500指数双双较历史收市高位跌逾一成，进入回调区间。道指连跌5日，收报48,147点，跌949点，跌幅1.9%；标普500指数失守7,000点，收报6,910点，跌3.7%，连跌7日，是2020年2月以来最长连跌纪录；纳指跌穿23,000点，收报22,617点，急挫约5.3%。据报美国证监会正审查辉达潜在会计问题，辉达股价急挫14%，创去年5月以来新低，芯片及光通信股亦大跌。总结全星期，道指跌8%，标普500指数跌8.6%，两者齐创逾一年半以来最大单星期跌幅；纳指本周急跌10%，是逾六年半最大单星期跌幅。",
-      "zh_hant": "美股三大指數急跌，道指及標普500指數雙雙較歷史收市高位跌逾一成，進入回調區間。道指連跌5日，收報48,147點，跌949點，跌幅1.9%；標普500指數失守7,000點，收報6,910點，跌3.7%，連跌7日，是2020年2月以來最長連跌紀錄；納指跌穿23,000點，收報22,617點，急挫約5.3%。據報美國證監會正審查輝達潛在會計問題，輝達股價急挫14%，創去年5月以來新低，晶片及光通信股亦大跌。總結全星期，道指跌8%，標普500指數跌8.6%，兩者齊創逾一年半以來最大單星期跌幅；納指本周急跌10%，是逾六年半最大單星期跌幅。"
-    },
-    "tags": {
-      "en": [
-        "US stocks",
-        "Dow Jones",
-        "Nvidia"
-      ],
-      "zh_hans": [
-        "美股",
-        "道琼斯",
-        "辉达"
-      ],
-      "zh_hant": [
-        "美股",
-        "道瓊斯",
-        "輝達"
-      ]
-    },
-    "title": {
-      "en": "US stocks plunge as Dow sheds 949 points and Nasdaq dives 5.3% with Nvidia down 14%",
-      "zh_hans": "美股急泻 道指跌949点纳指挫5.3% 辉达暴跌14%拖累芯片股",
-      "zh_hant": "美股急瀉 道指跌949點納指挫5.3% 輝達暴跌14%拖累晶片股"
-    },
-    "image_url": "",
-    "image_prompt": "事實：美股急瀉，道指跌949點，納指挫5.3%，輝達暴跌14%。場景：光猛日間紐約證券交易所外景，交易大堂內紅色下跌箭頭，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「美股急瀉 道指跌949點納指挫5.3%」白字，第二行「輝達暴跌14%拖累晶片股」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-red-fire-danger-warning-issued",
-    "published_at": "2026-11-21T06:10:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/21/P2026112100121.htm"
-    },
-    "summary": {
-      "en": "The Hong Kong Observatory has issued a red fire danger warning, with the fire danger situation today (November 21) rated red and the fire risk extreme. The countryside is extremely vulnerable to fire. Anyone spending the day in the countryside should take pre-cooked food for a picnic and take all measures to prevent hill fires. Lighting fires illegally in the countryside carries a penalty of $25,000 and a year's imprisonment.",
-      "zh_hans": "天文台发出红色火灾危险警告，指今日（11月21日）火警危险情况属红色，火警风险极高，郊野特别容易发生火警。市民如到郊野，应带备已煮熟的食物野餐，并采取一切措施防止山火。在郊野非法生火可被罚款25,000元及监禁一年。",
-      "zh_hant": "天文台發出紅色火災危險警告，指今日（11月21日）火警危險情況屬紅色，火警風險極高，郊野特別容易發生火警。市民如到郊野，應帶備已煮熟的食物野餐，並採取一切措施防止山火。在郊野非法生火可被罰款25,000元及監禁一年。"
-    },
-    "tags": {
-      "en": [
-        "Fire danger warning",
-        "Observatory",
-        "Countryside"
-      ],
-      "zh_hans": [
-        "火灾危险警告",
-        "天文台",
-        "郊野"
-      ],
-      "zh_hant": [
-        "火災危險警告",
-        "天文台",
-        "郊野"
-      ]
-    },
-    "title": {
-      "en": "Red fire danger warning in force as fire risk hits extreme; illegal countryside fires carry a year in jail",
-      "zh_hans": "红色火灾危险警告生效 火警风险极高 郊野非法生火可囚一年",
-      "zh_hant": "紅色火災危險警告生效 火警風險極高 郊野非法生火可囚一年"
-    },
-    "image_url": "",
-    "image_prompt": "事實：紅色火災危險警告生效，火警風險極高，郊野非法生火可囚一年。場景：光猛日間香港郊野山徑，陽光下乾草山坡，藍天白雲，畫面明亮通透，唔用黑沉夜景，唔可以捏造火災現場或傷者畫面。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「紅色火災危險警告生效」白字，第二行「火警風險極高 郊野非法生火可囚一年」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-cold-weather-warning-cancelled",
-    "published_at": "2026-11-21T06:09:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878661-20261121.htm"
-    },
-    "summary": {
-      "en": "The Hong Kong Observatory cancelled the cold weather warning at 6am today. The warning had been in force during the cold spell, during which the Observatory recorded a low of 12.7 degrees yesterday, the lowest since autumn began. The Observatory also issued a red fire danger warning this morning, reminding the public to be careful with fire.",
-      "zh_hans": "天文台在今日上午6时取消寒冷天气警告。警告在寒潮期间生效，昨日天文台录得入秋以来最低气温12.7度；天文台同时在今早发出红色火灾危险警告，提醒市民小心防火。",
-      "zh_hant": "天文台在今日上午6時取消寒冷天氣警告。警告在寒潮期間生效，昨日天文台錄得入秋以來最低氣溫12.7度；天文台同時在今早發出紅色火災危險警告，提醒市民小心防火。"
-    },
-    "tags": {
-      "en": [
-        "Cold weather warning",
-        "Observatory",
-        "Weather"
-      ],
-      "zh_hans": [
-        "寒冷天气警告",
-        "天文台",
-        "天气"
-      ],
-      "zh_hant": [
-        "寒冷天氣警告",
-        "天文台",
-        "天氣"
-      ]
-    },
-    "title": {
-      "en": "Cold weather warning cancelled as Observatory issues red fire danger warning instead",
-      "zh_hans": "寒冷天气警告取消 天文台同日改发红色火灾危险警告",
-      "zh_hant": "寒冷天氣警告取消 天文台同日改發紅色火災危險警告"
-    },
-    "image_url": "",
-    "image_prompt": "事實：寒冷天氣警告取消，天文台同日改發紅色火災危險警告。場景：光猛日間香港街頭，陽光普照，市民著輕便外套，藍天白雲，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「寒冷天氣警告取消」白字，第二行「天文台同日改發紅色火災危險警告」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-flag-day-three-charities-nov-21",
-    "published_at": "2026-11-21T06:00:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/21/P2026111900200.htm"
-    },
-    "summary": {
-      "en": "Three charities are holding a regional flag day today (November 21), selling flags from 7am to 12.30pm. On Hong Kong Island, the Hong Kong Alzheimer's Disease Association is selling flags with yellow collection bags and blue flags; in Kowloon, the Hong Kong Guide Dogs Association Limited is selling flags with red bags and pink flags; and in the New Territories, the Society for Abandoned Animals Limited is selling flags with orange bags and blue flags. The Social Welfare Department reminded the public not to donate and to report to the police immediately if they suspect a fraudulent flag-selling activity; enquiries can be made on the department's hotline at 2343 2255 or the 1823 Call Centre at 3142 2678.",
-      "zh_hans": "三个慈善团体今日（11月21日）上午7时至12时半举行分区卖旗日。港岛由香港认知障碍症协会卖旗（黄色钱袋、蓝色旗仔）；九龙由香港导盲犬协会卖旗（红色钱袋、粉红色旗仔）；新界由保护遗弃动物协会卖旗（橙色钱袋、蓝色旗仔）。社会福利署提醒市民，如怀疑遇到假冒卖旗活动，切勿捐款并应立即报警；查询可致电社署热线2343 2255或1823电话中心3142 2678。",
-      "zh_hant": "三個慈善團體今日（11月21日）上午7時至12時半舉行分區賣旗日。港島由香港認知障礙症協會賣旗（黃色錢袋、藍色旗仔）；九龍由香港導盲犬協會賣旗（紅色錢袋、粉紅色旗仔）；新界由保護遺棄動物協會賣旗（橙色錢袋、藍色旗仔）。社會福利署提醒市民，如懷疑遇到假冒賣旗活動，切勿捐款並應立即報警；查詢可致電社署熱線2343 2255或1823電話中心3142 2678。"
-    },
-    "tags": {
-      "en": [
-        "Flag day",
-        "Charity",
-        "Social Welfare Department"
-      ],
-      "zh_hans": [
-        "卖旗日",
-        "慈善",
-        "社会福利署"
-      ],
-      "zh_hant": [
-        "賣旗日",
-        "慈善",
-        "社會福利署"
-      ]
-    },
-    "title": {
-      "en": "Regional flag day today as three charities sell flags across Hong Kong Island, Kowloon and the New Territories",
-      "zh_hans": "今日分区卖旗日 三慈善团体分驻港九新界 上午7时至12时半筹款",
-      "zh_hant": "今日分區賣旗日 三慈善團體分駐港九新界 上午7時至12時半籌款"
-    },
-    "image_url": "",
-    "image_prompt": "事實：今日分區賣旗日，三慈善團體分駐港九新界，上午7時至12時半籌款。場景：光猛日間香港街頭，義工手持旗仔同錢袋，陽光普照，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「今日分區賣旗日」白字，第二行「三慈善團體分駐港九新界籌款」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "world",
-    "id": "20261121-trump-trilateral-summit-unprecedented-significant",
-    "published_at": "2026-11-21T05:15:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878660-20261121.htm"
-    },
-    "summary": {
-      "en": "US President Donald Trump has hailed the first-ever trilateral summit of the leaders of China, Russia and the United States as unprecedented and hugely significant. Speaking at a White House press conference to sum up his Asia trip, Trump described the APEC leaders' informal meeting in Shenzhen as a very successful economic gathering, and the three-way leaders' meeting as one of the most significant international summits in years. He said the atmosphere was very warm and the three leaders get along very well. Trump added that the historic summit produced an unprecedented trilateral peace declaration, with the three countries formally agreeing that a nuclear conflict must never be allowed to happen.",
-      "zh_hans": "美国总统特朗普盛赞中俄美元首首次三方会晤史无前例、意义重大。他在白宫记者会总结亚洲之行时表示，深圳亚太经合组织领导人非正式会议是一场非常成功的经济会议，而三国领导人首次三方会晤更是多年来最具意义的国际峰会之一。他说会晤气氛非常热烈，三人关系非常融洽；峰会达成的三方和平宣言亦是史无前例，美、俄、中三国正式达成共识，绝不能让核冲突发生。",
-      "zh_hant": "美國總統特朗普盛讚中俄美元首首次三方會晤史無前例、意義重大。他在白宮記者會總結亞洲之行時表示，深圳亞太經合組織領導人非正式會議是一場非常成功的經濟會議，而三國領導人首次三方會晤更是多年來最具意義的國際峰會之一。他說會晤氣氛非常熱烈，三人關係非常融洽；峰會達成的三方和平宣言亦是史無前例，美、俄、中三國正式達成共識，絕不能讓核衝突發生。"
-    },
-    "tags": {
-      "en": [
-        "Trump",
-        "China-Russia-US summit",
-        "APEC"
-      ],
-      "zh_hans": [
-        "特朗普",
-        "中俄美元首会晤",
-        "亚太经合组织"
-      ],
-      "zh_hant": [
-        "特朗普",
-        "中俄美元首會晤",
-        "亞太經合組織"
-      ]
-    },
-    "title": {
-      "en": "Trump hails unprecedented China-Russia-US summit as leaders agree nuclear conflict must never happen",
-      "zh_hans": "特朗普盛赞中俄美元首会晤史无前例 三方和平宣言定调绝不容核冲突",
-      "zh_hant": "特朗普盛讚中俄美元首會晤史無前例 三方和平宣言定調絕不容核衝突"
-    },
-    "image_url": "",
-    "image_prompt": "事實：特朗普盛讚中俄美元首會晤史無前例，三方和平宣言定調絕不容核衝突。場景：光猛日間國際峰會會場外景，藍天白雲，陽光普照，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「特朗普盛讚中俄美元首會晤史無前例」白字，第二行「三方和平宣言定調絕不容核衝突」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "world",
-    "id": "20261121-eisenkot-emergency-government-coalition-fails",
-    "published_at": "2026-11-21T04:40:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878658-20261121.htm"
-    },
-    "summary": {
-      "en": "Gadi Eisenkot, leader of Israel's Yashar party, says that if attempts to form a majority governing coalition fail, he will seek to form a national emergency government. In a statement on social media, Eisenkot said he had met several Israeli party leaders over the past week to discuss ways to form a new government, including a coalition with Jewish religious parties, a coalition with the Likud bloc led by caretaker prime minister Benjamin Netanyahu, or a national emergency government. He stressed he would not allow negotiations to drag on indefinitely and would submit a government-formation plan to parliament for approval in due course. Israeli media reported that the emergency-government option could be a minority government based on an alliance of four opposition parties.",
-      "zh_hans": "以色列正直党领导人埃森科特表示，如果组建多数派执政联盟的尝试失败，他将寻求组建国家紧急政府。他在社交媒体发表声明，指过去一周会见多名以色列政党领导人，探讨组建新政府的途径，包括与犹太宗教政党组建联盟、与看守政府总理内塔尼亚胡领导的利库德集团组建联盟，或组建国家紧急政府。他强调不会允许谈判无限期拖延，将适时把组阁方案提交议会寻求批准。以色列传媒报道，国家紧急政府的方案可能是建立一个以反对派阵营四大政党联盟为基础的少数派政府。",
-      "zh_hant": "以色列正直黨領導人埃森科特表示，如果組建多數派執政聯盟的嘗試失敗，他將尋求組建國家緊急政府。他在社交媒體發表聲明，指過去一周會見多名以色列政黨領導人，探討組建新政府的途徑，包括與猶太宗教政黨組建聯盟、與看守政府總理內塔尼亞胡領導的利庫德集團組建聯盟，或組建國家緊急政府。他強調不會允許談判無限期拖延，將適時把組閣方案提交議會尋求批准。以色列傳媒報道，國家緊急政府的方案可能是建立一個以反對派陣營四大政黨聯盟為基礎的少數派政府。"
-    },
-    "tags": {
-      "en": [
-        "Israel",
-        "Eisenkot",
-        "Coalition"
-      ],
-      "zh_hans": [
-        "以色列",
-        "埃森科特",
-        "组阁"
-      ],
-      "zh_hant": [
-        "以色列",
-        "埃森科特",
-        "組閣"
-      ]
-    },
-    "title": {
-      "en": "Israel's Eisenkot says he will seek emergency government if coalition talks fail",
-      "zh_hans": "以色列组阁僵局 埃森科特扬言组建紧急政府 拒让谈判无限拖延",
-      "zh_hant": "以色列組閣僵局 埃森科特揚言組建緊急政府 拒讓談判無限拖延"
-    },
-    "image_url": "",
-    "image_prompt": "事實：以色列組閣僵局，埃森科特揚言組建緊急政府，拒讓談判無限拖延。場景：光猛日間以色列國會大樓外景，藍天白雲，陽光普照，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「以色列組閣僵局」白字，第二行「埃森科特揚言組建緊急政府」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
   },
   {
     "category": "world",
