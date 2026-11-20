@@ -1,5 +1,160 @@
 [
  {
+  "category": "hk",
+  "id": "20261120-hketo-washington-new-opportunities-global-business",
+  "image_r2_key": "design/202611/20261120-hketo-washington-new-opportunities-global-business.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-hketo-washington-new-opportunities-global-business.jpg",
+  "published_at": "2026-11-20T09:35:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000144.htm"
+  },
+  "summary": {
+   "en": "The Hong Kong Economic and Trade Office in Washington, DC briefed member companies of the US-China Business Council at a \"Hong Kong's New Opportunities for Global Business\" lunch and learn event on November 19 (Washington time) on new business opportunities across Hong Kong's sectors following the 2026 Policy Address and the First Five-Year Plan. Director Elania Luk highlighted Hong Kong's role as a \"super connector\" and its strengths in finance, trade, maritime and aviation, as well as the opportunities the Northern Metropolis offers US businesses. Invest Hong Kong's New York office also explained its bespoke services for US companies looking to set up or expand in Hong Kong.",
+   "zh_hans": "香港驻华盛顿经济贸易办事处昨日在华盛顿时间11月19日举行的午餐学习会上，向美中贸易全国委员会成员公司简介《2026年施政报告》及香港首个五年计划公布后，各行业的新商机。处长卢洁玮强调香港作为「超级联系人」的金融、贸易、海事及航空优势，以及北部都会区为美国企业带来的机遇；投资推广署纽约办事处亦介绍为有意在港设立或扩展业务的美国公司提供度身订造服务。",
+   "zh_hant": "香港駐華盛頓經濟貿易辦事處昨日在華盛頓時間11月19日舉行的午餐學習會上，向美中貿易全國委員會成員公司簡介《2026年施政報告》及香港首個五年計劃公布後，各行業的新商機。處長盧潔瑋強調香港作為「超級聯繫人」的金融、貿易、海事及航空優勢，以及北部都會區為美國企業帶來的機遇；投資推廣署紐約辦事處亦介紹為有意在港設立或擴展業務的美國公司提供度身訂造服務。"
+  },
+  "tags": {
+   "en": [
+    "HKETO Washington",
+    "US-China Business Council",
+    "Northern Metropolis",
+    "Invest Hong Kong"
+   ],
+   "zh_hans": [
+    "驻华盛顿经贸办",
+    "美中贸易全国委员会",
+    "北部都会区",
+    "投资推广署"
+   ],
+   "zh_hant": [
+    "駐華盛頓經貿辦",
+    "美中貿易全國委員會",
+    "北部都會區",
+    "投資推廣署"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong's Washington trade office pitches new business opportunities to US firms, with Director Elania Luk highlighting Northern Metropolis prospects",
+   "zh_hans": "驻华盛顿经贸办向美商推介香港新商机 处长卢洁玮：北都为美国企业带来机遇",
+   "zh_hant": "駐華盛頓經貿辦向美商推介香港新商機 處長盧潔瑋：北都為美國企業帶來機遇"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261120-japan-korea-stocks-plunge-nikkei-kospi",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-japan-korea-stocks-plunge-nikkei-kospi-v2.jpg",
+  "published_at": "2026-11-20T08:06:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878539-20261120.htm"
+  },
+  "summary": {
+   "en": "Japanese and South Korean stocks came under heavy selling pressure in early trading. The Nikkei index was quoted at 58,146, down 1,297 points or 2.18%. South Korea's Kospi index stood at 4,955, down 182 points or 3.56%.",
+   "zh_hans": "日韩股市初段沽压大。日经指数较早时报58146点，跌1297点，跌幅2.18%。首尔综合指数报4955点，跌182点，跌幅3.56%。",
+   "zh_hant": "日韓股市初段沽壓大。日經指數較早時報58146點，跌1297點，跌幅2.18%。首爾綜合指數報4955點，跌182點，跌幅3.56%。"
+  },
+  "tags": {
+   "en": [
+    "Nikkei",
+    "Kospi",
+    "Asian stocks"
+   ],
+   "zh_hans": [
+    "日股",
+    "韩股",
+    "亚洲股市"
+   ],
+   "zh_hant": [
+    "日股",
+    "韓股",
+    "亞洲股市"
+   ]
+  },
+  "title": {
+   "en": "Nikkei Plunges 2.2% and Kospi Tumbles 3.6% as Asian Markets Open Under Heavy Selling",
+   "zh_hans": "日经泻1297点跌2.18% 韩股急挫3.56% 亚洲股市初段齐捱沽",
+   "zh_hant": "日經瀉1297點跌2.18% 韓股急挫3.56% 亞洲股市初段齊捱沽"
+  },
+  "image_r2_key": "design/202611/20261120-japan-korea-stocks-plunge-nikkei-kospi-v2.jpg"
+ },
+ {
+  "category": "finance",
+  "id": "20261120-japan-oct-cpi-2-3-pct-1-year-high",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-japan-oct-cpi-2-3-pct-1-year-high-v2.jpg",
+  "published_at": "2026-11-20T07:51:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878536-20261120.htm"
+  },
+  "summary": {
+   "en": "Japan's inflation picked up to a near one-year high. October's consumer price index rose 2.3% year on year, 0.2 percentage points faster than September's increase. Core CPI also accelerated, rising 2.2% year on year, up 0.1 percentage points, its highest since the end of last year.",
+   "zh_hans": "日本通胀升温，创约1年新高。10月消费物价指数按年升2.3%，比9月升幅加快0.2个百分点。核心消费物价指数按年升幅亦加快0.1个百分点至2.2%，是去年底以来最高。",
+   "zh_hant": "日本通脹升溫，創約1年新高。10月消費物價指數按年升2.3%，比9月升幅加快0.2個百分點。核心消費物價指數按年升幅亦加快0.1個百分點至2.2%，係去年底以嚟最高。"
+  },
+  "tags": {
+   "en": [
+    "Japan inflation",
+    "Consumer prices",
+    "Japan economy"
+   ],
+   "zh_hans": [
+    "日本通胀",
+    "消费物价指数",
+    "日本经济"
+   ],
+   "zh_hant": [
+    "日本通脹",
+    "消費物價指數",
+    "日本經濟"
+   ]
+  },
+  "title": {
+   "en": "Japan October Inflation Hits 2.3%, Near 1-Year High as Core CPI Also Accelerates",
+   "zh_hans": "日本10月通胀2.3%创约1年新高 核心通胀2.2%同创去年底以来最高",
+   "zh_hant": "日本10月通脹2.3%創約1年新高 核心通脹2.2%同創去年底以來最高"
+  },
+  "image_r2_key": "design/202611/20261120-japan-oct-cpi-2-3-pct-1-year-high-v2.jpg"
+ },
+ {
+  "category": "finance",
+  "id": "20261120-dollar-index-1-5-year-high-treasury-yield-5-pct",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-dollar-index-1-5-year-high-treasury-yield-5-pct-v2.jpg",
+  "published_at": "2026-11-20T06:55:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878531-20261120.htm"
+  },
+  "summary": {
+   "en": "The US dollar index kept pushing toward the 104 level, touching 103.97, up more than 0.1%, a fresh high in more than a year and a half and its eighth straight daily gain. US Treasury yields moved lower, with the 10-year yield testing the 5% level, touching a low of 5.04%, down about 3 basis points; the 30-year yield briefly fell below 5.4%, while the 2-year yield slipped to a low of 4.755%. The dollar traded at 159.66 yen, sterling fell below 1.31 against the dollar, and the euro was just under 1.097. Commodity currencies fell sharply, with the Australian dollar breaking below 0.67 to around 0.665 and the New Zealand dollar down to 0.548.",
+   "zh_hans": "美元指数持续上试104关口，高见103.97美元，升逾0.1%，再创逾一年半新高，连升8个交易日。美债孳息率向下，10年期债息下试5厘水平，低见5.04厘，跌约3个基点；30年期债息曾失守5.4厘，两年期债息回落至最低4.755厘。美元兑日圆较早时报159.66，英镑兑美元跌穿1.31，欧元兑美元略低于1.097。商品货币显著向下，澳元兑美元失守0.67，跌至0.665附近；新西兰元兑美元跌至0.548水平。",
+   "zh_hant": "美元指數持續上試104關口，高見103.97，升逾0.1%，再創逾1年半新高，連升8個交易日。美債孳息率向下，10年期債息下試5厘水平，低見5.04厘，跌約3個基點；30年期債息曾失守5.4厘，兩年期債息回落至最低4.755厘。美元兌日圓較早時報159.66，英鎊兌美元跌穿1.31，歐元兌美元略低於1.097。商品貨幣顯著向下，澳元兌美元失守0.67，跌至0.665附近；新西蘭元兌美元跌至0.548水平。"
+  },
+  "tags": {
+   "en": [
+    "US dollar index",
+    "Treasury yields",
+    "Commodity currencies"
+   ],
+   "zh_hans": [
+    "美元指数",
+    "美债",
+    "商品货币"
+   ],
+   "zh_hant": [
+    "美元指數",
+    "美債",
+    "商品貨幣"
+   ]
+  },
+  "title": {
+   "en": "Dollar Index Hits Fresh 1.5-Year High as Treasury Yield Tests 5%; Commodity Currencies Slide",
+   "zh_hans": "美元指数连升8日创年半新高 美债息下试5厘 商品货币齐跌",
+   "zh_hant": "美元指數連升8日創年半新高 美債息下試5厘 商品貨幣齊跌"
+  },
+  "image_r2_key": "design/202611/20261120-dollar-index-1-5-year-high-treasury-yield-5-pct-v2.jpg"
+ },
+ {
   "id": "20261120-gold-tests-3600-14-month-low",
   "category": "finance",
   "published_at": "2026-11-20T06:27:00+08:00",
@@ -426,116 +581,319 @@
  },
  {
   "category": "finance",
-  "id": "20261120-japan-korea-stocks-plunge-nikkei-kospi",
-  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-japan-korea-stocks-plunge-nikkei-kospi-v2.jpg",
-  "published_at": "2026-11-20T08:06:00+08:00",
+  "id": "20261120-finance-ministry-usd-sovereign-bond-hk",
+  "image_url": "",
+  "published_at": "2026-11-20T10:36:00+08:00",
   "source": {
    "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878539-20261120.htm"
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878556-20261120.htm"
   },
   "summary": {
-   "en": "Japanese and South Korean stocks came under heavy selling pressure in early trading. The Nikkei index was quoted at 58,146, down 1,297 points or 2.18%. South Korea's Kospi index stood at 4,955, down 182 points or 3.56%.",
-   "zh_hans": "日韩股市初段沽压大。日经指数较早时报58146点，跌1297点，跌幅2.18%。首尔综合指数报4955点，跌182点，跌幅3.56%。",
-   "zh_hant": "日韓股市初段沽壓大。日經指數較早時報58146點，跌1297點，跌幅2.18%。首爾綜合指數報4955點，跌182點，跌幅3.56%。"
+   "en": "The Ministry of Finance issued US$2 billion of sovereign bonds in Hong Kong yesterday, with a three-year tenor and a coupon of 4.821%, all listed on the Hong Kong Stock Exchange. The issue drew enthusiastic demand from international investors, with total orders of US$72.3 billion, more than 36 times the issue size. Asian investors accounted for 52%, Europe and the Middle East 34%, and the Americas 14%. The ministry has issued US dollar sovereign bonds in Hong Kong several times since 2017, including a record US$6 billion in 2020 and US$4 billion last November.",
+   "zh_hans": "财政部昨日在香港发行20亿美元主权债券，年期3年，发行利率4.821厘，全部在联交所上市。债券受到国际投资者热烈追捧，总认购额723亿美元，是发行金额逾36倍；亚洲投资者占52%，欧洲及中东占34%，美洲占14%。财政部自2017年起多次在港发行美元主权债，2020年发行60亿美元是历来最多，去年11月亦发行40亿美元。",
+   "zh_hant": "財政部昨日在香港發行20億美元主權債券，年期3年，發行利率4.821厘，全部在聯交所上市。債券受到國際投資者熱烈追捧，總認購額723億美元，是發行金額逾36倍；亞洲投資者佔52%，歐洲及中東佔34%，美洲佔14%。財政部自2017年起多次在港發行美元主權債，2020年發行60億美元是歷年最多，去年11月亦發行40億美元。"
   },
   "tags": {
    "en": [
-    "Nikkei",
-    "Kospi",
-    "Asian stocks"
+    "Sovereign bonds",
+    "Ministry of Finance",
+    "Hong Kong",
+    "US dollar bonds"
    ],
    "zh_hans": [
-    "日股",
-    "韩股",
-    "亚洲股市"
+    "主权债券",
+    "财政部",
+    "香港",
+    "美元债券"
    ],
    "zh_hant": [
-    "日股",
-    "韓股",
-    "亞洲股市"
+    "主權債券",
+    "財政部",
+    "香港",
+    "美元債券"
    ]
   },
   "title": {
-   "en": "Nikkei Plunges 2.2% and Kospi Tumbles 3.6% as Asian Markets Open Under Heavy Selling",
-   "zh_hans": "日经泻1297点跌2.18% 韩股急挫3.56% 亚洲股市初段齐捱沽",
-   "zh_hant": "日經瀉1297點跌2.18% 韓股急挫3.56% 亞洲股市初段齊捱沽"
+   "en": "Ministry of Finance issues US$2 billion sovereign bonds in Hong Kong, oversubscribed more than 35 times as orders hit US$72.3 billion",
+   "zh_hans": "财政部在港发行20亿美元主权债 超额认购逾35倍 认购额达723亿美元",
+   "zh_hant": "財政部在港發行20億美元主權債 超額認購逾35倍 認購額達723億美元"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261120-legco-two-power-companies-tariff-review",
+  "image_url": "",
+  "published_at": "2026-11-20T10:33:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878557-20261120.htm"
   },
-  "image_r2_key": "design/202611/20261120-japan-korea-stocks-plunge-nikkei-kospi-v2.jpg"
+  "summary": {
+   "en": "Hong Kong's two power companies will announce next year's tariff adjustment plans on Tuesday, with the Legislative Council's Panel on Environmental Affairs to first discuss the outcome of the annual tariff review. In November, CLP's average net tariff was 148.6 cents per unit, up about 5.7% from January, while HK Electric's net tariff was 183 cents per unit, up about 12% from January. Both companies said international energy prices remain volatile and they will use prudent procurement and diversified fuel strategies to limit the impact of fuel price swings on customers.",
+   "zh_hans": "两间电力公司将于下星期二公布明年电费调整方案，立法会环境事务委员会将先讨论周年电费检讨结果。今年11月，中电平均净电价为每度电148.6仙，较今年1月上调约5.7%；港灯11月净电价为每度电183仙，较1月上升约12%。两电都表示国际能源价格持续波动，会透过审慎采购及多元化燃料策略，尽量减低燃料价格波动对用户的影响。",
+   "zh_hant": "兩間電力公司將於下星期二公布明年電費調整方案，立法會環境事務委員會將先討論周年電費檢討結果。今年11月，中電平均淨電價為每度電148.6仙，較今年1月上調約5.7%；港燈11月淨電價為每度電183仙，較1月上升約12%。兩電都表示國際能源價格持續波動，會透過審慎採購及多元化燃料策略，盡量減低燃料價格波動對用戶的影響。"
+  },
+  "tags": {
+   "en": [
+    "Electricity tariffs",
+    "CLP",
+    "HK Electric",
+    "Legislative Council"
+   ],
+   "zh_hans": [
+    "电费",
+    "中电",
+    "港灯",
+    "立法会"
+   ],
+   "zh_hant": [
+    "電費",
+    "中電",
+    "港燈",
+    "立法會"
+   ]
+  },
+  "title": {
+   "en": "Two power companies to unveil next year's tariff plans on Tuesday as Legco takes up the review, with CLP's net tariff up 5.7% since January and HK Electric's up 12%",
+   "zh_hans": "两电下周二公布明年电费方案 立法会先讨论 中电净电价较年初升5.7% 港灯升12%",
+   "zh_hant": "兩電下周二公布明年電費方案 立法會先討論 中電淨電價較年初升5.7% 港燈升12%"
+  }
+ },
+ {
+  "category": "world",
+  "id": "20261120-china-russia-us-peace-declaration-scholars-un-reform",
+  "image_url": "",
+  "published_at": "2026-11-20T10:31:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878555-20261120.htm"
+  },
+  "summary": {
+   "en": "The leaders of China, Russia and the United States held a historic meeting yesterday and issued a Peace Declaration, saying the three countries, as permanent members of the UN Security Council, are committed to advancing UN reform. The three countries plan to increase production and supply of refined petroleum products and will hold dialogue on reducing nuclear risks and preventing nuclear proliferation. Scholars said the declaration points the way for UN reform, noting China has long insisted on reform and that, as the influence of different countries has changed greatly since the UN was founded, improving representation will be a key focus. Increasing refined oil supply could bring geopolitical stability and confidence to markets.",
+   "zh_hans": "中俄美三国元首昨日举行历史性会晤后发表《和平宣言》，提到三国作为联合国安理会常任理事国，致力推动联合国改革；三国计划增加精炼石油产品的生产和供应，并将就减少核风险、防止核扩散举行对话。有学者认为，宣言为联合国改革提供方向，过去中国一直坚持改革，现时不同国家的影响力已大为变化，如何提升各国代表性将是改革重点；增加精炼石油产品供应可为地缘政治带来稳定性、为市场带来信心。",
+   "zh_hant": "中俄美三國元首昨日舉行歷史性會晤後發表《和平宣言》，提到三國作為聯合國安理會常任理事國，致力推動聯合國改革；三國計劃增加精煉石油產品的生產和供應，並將就減少核風險、防止核擴散舉行對話。有學者認為，宣言為聯合國改革提供方向，過去中國一直堅持改革，現時不同國家的影響力已大為變化，如何提升各國代表性將是改革重點；增加精煉石油產品供應可為地緣政治帶來穩定性、為市場帶來信心。"
+  },
+  "tags": {
+   "en": [
+    "Peace Declaration",
+    "China Russia US",
+    "UN reform",
+    "APEC"
+   ],
+   "zh_hans": [
+    "和平宣言",
+    "中俄美",
+    "联合国改革",
+    "APEC"
+   ],
+   "zh_hant": [
+    "和平宣言",
+    "中俄美",
+    "聯合國改革",
+    "APEC"
+   ]
+  },
+  "title": {
+   "en": "China, Russia and US issue Peace Declaration, with scholars saying it points the way for UN reform and dialogue on nuclear risks",
+   "zh_hans": "中俄美《和平宣言》出炉 学者：为联合国改革提供方向 并就核风险对话",
+   "zh_hant": "中俄美《和平宣言》出爐 學者：為聯合國改革提供方向 並就核風險對話"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261120-lee-apec-nextgen-young-entrepreneurs-speech",
+  "image_url": "",
+  "published_at": "2026-11-20T10:30:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/20/P2026111900230.htm"
+  },
+  "summary": {
+   "en": "Chief Executive John Lee addressed the fourth APEC Next-Gen Young Entrepreneurs Summit by video, under the theme \"From Ideas to Impact: Young Entrepreneurs Driving Asia-Pacific Growth\". He said artificial intelligence is reshaping the economy and that the creativity and collaborative spirit of young entrepreneurs matter, encouraging young people to seize opportunities in the Greater Bay Area. Lee added that Hong Kong's first Youth Development Blueprint has rolled out more than 340 measures in four years, and the First Five-Year Plan will further expand opportunities for youth, with Hong Kong serving as the Greater Bay Area's core international hub connecting the mainland with the world.",
+   "zh_hans": "行政长官李家超以视像方式在第四届APEC Next-Gen青年企业家峰会致辞，主题为「从理念到影响：青年企业家推动亚太增长」。他谈及人工智能正重塑经济，青年创业者的创意与合作精神至关重要，并鼓励青年把握大湾区机遇。李家超又提到，香港首份《青年发展蓝图》推出四年内已推出逾340项措施，首个五年计划将进一步扩大青年发展机会，香港作为大湾区核心国际枢纽，连接内地与世界。",
+   "zh_hant": "行政長官李家超以視像方式在第四屆APEC Next-Gen青年企業家峰會致辭，主題為「從理念到影響：青年企業家推動亞太增長」。他談及人工智能正重塑經濟，青年創業者的創意與合作精神至關重要，並鼓勵青年把握大灣區機遇。李家超又提到，香港首份《青年發展藍圖》推出四年內已推出逾340項措施，首個五年計劃將進一步擴大青年發展機會，香港作為大灣區核心國際樞紐，連接內地與世界。"
+  },
+  "tags": {
+   "en": [
+    "John Lee",
+    "APEC",
+    "Young entrepreneurs",
+    "Youth Development Blueprint"
+   ],
+   "zh_hans": [
+    "李家超",
+    "APEC",
+    "青年企业家",
+    "青年发展蓝图"
+   ],
+   "zh_hant": [
+    "李家超",
+    "APEC",
+    "青年企業家",
+    "青年發展藍圖"
+   ]
+  },
+  "title": {
+   "en": "John Lee addresses APEC young entrepreneurs summit by video, urging youth to seize Greater Bay Area opportunities as over 340 youth measures roll out",
+   "zh_hans": "李家超视像出席APEC青年企业家峰会 勉励青年把握大湾区机遇 逾340项措施支援青年发展",
+   "zh_hant": "李家超視像出席APEC青年企業家峰會 勉勵青年把握大灣區機遇 逾340項措施支援青年發展"
+  }
+ },
+ {
+  "category": "world",
+  "id": "20261120-xi-meets-albanese-prabowo-apec-shenzhen",
+  "image_url": "",
+  "published_at": "2026-11-20T10:20:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878552-20261120.htm"
+  },
+  "summary": {
+   "en": "President Xi Jinping met separately in Shenzhen this morning with Australian Prime Minister Anthony Albanese and Indonesian President Prabowo Subianto, both of whom are in China to attend the APEC leaders' informal meeting. The two leaders are among the heads of government and state attending the APEC leaders' meeting being held in Shenzhen.",
+   "zh_hans": "国家主席习近平今日上午在深圳，分别会见来华出席亚太经合组织领导人非正式会议的澳洲总理阿尔巴内塞，以及印尼总统普拉博沃。两位领袖均是来华出席正在深圳举行的APEC领袖非正式会议。",
+   "zh_hant": "國家主席習近平今日上午在深圳，分別會見來華出席亞太經合組織領導人非正式會議的澳洲總理阿爾巴內塞，以及印尼總統普拉博沃。兩位領袖均是來華出席正在深圳舉行的APEC領導人非正式會議。"
+  },
+  "tags": {
+   "en": [
+    "Xi Jinping",
+    "Albanese",
+    "Prabowo",
+    "APEC"
+   ],
+   "zh_hans": [
+    "习近平",
+    "阿尔巴内塞",
+    "普拉博沃",
+    "APEC"
+   ],
+   "zh_hant": [
+    "習近平",
+    "阿爾巴內塞",
+    "普拉博沃",
+    "APEC"
+   ]
+  },
+  "title": {
+   "en": "Xi meets Australian PM Albanese and Indonesian President Prabowo separately in Shenzhen as both attend the APEC leaders' meeting",
+   "zh_hans": "习近平深圳分别会见澳洲总理及印尼总统 两人来华出席APEC领袖会议",
+   "zh_hant": "習近平深圳分別會見澳洲總理及印尼總統 兩人來華出席APEC領袖會議"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261120-lee-infraex-week-opening-speech",
+  "image_url": "",
+  "published_at": "2026-11-20T09:48:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000195.htm"
+  },
+  "summary": {
+   "en": "Chief Executive John Lee officiated at the grand opening of the inaugural InfraEX Week 2026, attended by about 800 infrastructure leaders, officials and professionals from more than 30 countries and economies, with about 1,000 more joining online. Lee said Hong Kong's First Five-Year Plan, closely aligned with the National 15th Five-Year Plan, provides a strategic roadmap for the city's future. The Northern Metropolis covers one-third of Hong Kong's area and will house about 2.5 million people, create 500,000 jobs and account for about 13% of GDP. The week brings together three concurrent events under the theme \"Envisioning a Sustainable Future: From Insights to Impacts\".",
+   "zh_hans": "行政长官李家超今日主持首届InfraEX Week 2026开幕礼，约800名来自30多个国家及经济体的基建领袖、官员及专业人士出席，另约1,000人网上参与。李家超表示，香港首个五年计划与国家「十五五」规划衔接，为香港未来提供策略蓝图；北部都会区占全港三分之一面积，将容纳约250万人、创造50万个职位，占本地生产总值约13%。活动涵盖三项同期活动，主题为「展望可持续未来：从洞见到影响」。",
+   "zh_hant": "行政長官李家超今日主持首屆InfraEX Week 2026開幕禮，約800名來自30多個國家及經濟體的基建領袖、官員及專業人士出席，另約1,000人網上參與。李家超表示，香港首個五年計劃與國家「十五五」規劃銜接，為香港未來提供策略藍圖；北部都會區佔全港三分之一面積，將容納約250萬人、創造50萬個職位，佔本地生產總值約13%。活動涵蓋三項同期活動，主題為「展望可持續未來：從洞見到影響」。"
+  },
+  "tags": {
+   "en": [
+    "John Lee",
+    "InfraEX Week",
+    "Northern Metropolis",
+    "Infrastructure"
+   ],
+   "zh_hans": [
+    "李家超",
+    "基建周",
+    "北部都会区",
+    "基建"
+   ],
+   "zh_hant": [
+    "李家超",
+    "基建周",
+    "北部都會區",
+    "基建"
+   ]
+  },
+  "title": {
+   "en": "John Lee opens inaugural InfraEX Week as 800 infrastructure leaders gather, with the Northern Metropolis set to house 2.5 million people and create 500,000 jobs",
+   "zh_hans": "李家超主持首届基建周开幕礼 800领袖云集 北都将容纳250万人 创造50万职位",
+   "zh_hant": "李家超主持首屆基建周開幕禮 800領袖雲集 北都將容納250萬人 創造50萬職位"
+  }
  },
  {
   "category": "finance",
-  "id": "20261120-japan-oct-cpi-2-3-pct-1-year-high",
-  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-japan-oct-cpi-2-3-pct-1-year-high-v2.jpg",
-  "published_at": "2026-11-20T07:51:00+08:00",
+  "id": "20261120-hk-stocks-open-down-359-year-low",
+  "image_url": "",
+  "published_at": "2026-11-20T09:27:00+08:00",
   "source": {
    "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878536-20261120.htm"
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878548-20261120.htm"
   },
   "summary": {
-   "en": "Japan's inflation picked up to a near one-year high. October's consumer price index rose 2.3% year on year, 0.2 percentage points faster than September's increase. Core CPI also accelerated, rising 2.2% year on year, up 0.1 percentage points, its highest since the end of last year.",
-   "zh_hans": "日本通胀升温，创约1年新高。10月消费物价指数按年升2.3%，比9月升幅加快0.2个百分点。核心消费物价指数按年升幅亦加快0.1个百分点至2.2%，是去年底以来最高。",
-   "zh_hant": "日本通脹升溫，創約1年新高。10月消費物價指數按年升2.3%，比9月升幅加快0.2個百分點。核心消費物價指數按年升幅亦加快0.1個百分點至2.2%，係去年底以嚟最高。"
+   "en": "Hong Kong stocks opened below this year's low, with the Hang Seng Index at 22,482 in the pre-opening auction, down 359 points or about 1.6%, a new low for the year. The Hang Seng Tech Index stood at 3,541, down 107 points or about 3%. Alibaba steadied after 10 straight days of losses, opening about 1% higher, after adjusted profit rose 92% year on year but still missed expectations. NetEase and Kuaishou fell more than 13% and 8% respectively after their results.",
+   "zh_hans": "港股开市跌穿年内低位，恒生指数竞价时段报22,482点，跌359点，跌幅约1.6%，创年内新低；科技指数报3,541点，跌107点，跌幅约3%。阿里巴巴连跌10日后回稳，高开约1%，上季经调整盈利按年升92%，但仍低于预期；网易及快手绩后分别急挫逾13%及逾8%。",
+   "zh_hant": "港股開市跌穿年內低位，恒生指數競價時段報22,482點，跌359點，跌幅約1.6%，創年內新低；科技指數報3,541點，跌107點，跌幅約3%。阿里巴巴連跌10日後回穩，高開約1%，上季經調整盈利按年升92%，但仍低於預期；網易及快手績後分別急挫逾13%及逾8%。"
   },
   "tags": {
    "en": [
-    "Japan inflation",
-    "Consumer prices",
-    "Japan economy"
+    "Hang Seng Index",
+    "Hong Kong stocks",
+    "NetEase",
+    "Alibaba"
    ],
    "zh_hans": [
-    "日本通胀",
-    "消费物价指数",
-    "日本经济"
+    "恒生指数",
+    "港股",
+    "网易",
+    "阿里巴巴"
    ],
    "zh_hant": [
-    "日本通脹",
-    "消費物價指數",
-    "日本經濟"
+    "恒生指數",
+    "港股",
+    "網易",
+    "阿里巴巴"
    ]
   },
   "title": {
-   "en": "Japan October Inflation Hits 2.3%, Near 1-Year High as Core CPI Also Accelerates",
-   "zh_hans": "日本10月通胀2.3%创约1年新高 核心通胀2.2%同创去年底以来最高",
-   "zh_hant": "日本10月通脹2.3%創約1年新高 核心通脹2.2%同創去年底以來最高"
-  },
-  "image_r2_key": "design/202611/20261120-japan-oct-cpi-2-3-pct-1-year-high-v2.jpg"
+   "en": "Hang Seng falls 359 points at the open to a new low for the year, tech index down 3% as NetEase tumbles over 13% after results while Alibaba steadies",
+   "zh_hans": "港股竞价跌359点创年内新低 科指跌3% 网易绩后挫逾13% 阿里回稳",
+   "zh_hant": "港股競價跌359點創年內新低 科指跌3% 網易績後挫逾13% 阿里回穩"
+  }
  },
  {
   "category": "finance",
-  "id": "20261120-dollar-index-1-5-year-high-treasury-yield-5-pct",
-  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-dollar-index-1-5-year-high-treasury-yield-5-pct-v2.jpg",
-  "published_at": "2026-11-20T06:55:00+08:00",
+  "id": "20261120-china-nov-lpr-unchanged",
+  "image_url": "",
+  "published_at": "2026-11-20T09:18:00+08:00",
   "source": {
    "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878531-20261120.htm"
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878545-20261120.htm"
   },
   "summary": {
-   "en": "The US dollar index kept pushing toward the 104 level, touching 103.97, up more than 0.1%, a fresh high in more than a year and a half and its eighth straight daily gain. US Treasury yields moved lower, with the 10-year yield testing the 5% level, touching a low of 5.04%, down about 3 basis points; the 30-year yield briefly fell below 5.4%, while the 2-year yield slipped to a low of 4.755%. The dollar traded at 159.66 yen, sterling fell below 1.31 against the dollar, and the euro was just under 1.097. Commodity currencies fell sharply, with the Australian dollar breaking below 0.67 to around 0.665 and the New Zealand dollar down to 0.548.",
-   "zh_hans": "美元指数持续上试104关口，高见103.97美元，升逾0.1%，再创逾一年半新高，连升8个交易日。美债孳息率向下，10年期债息下试5厘水平，低见5.04厘，跌约3个基点；30年期债息曾失守5.4厘，两年期债息回落至最低4.755厘。美元兑日圆较早时报159.66，英镑兑美元跌穿1.31，欧元兑美元略低于1.097。商品货币显著向下，澳元兑美元失守0.67，跌至0.665附近；新西兰元兑美元跌至0.548水平。",
-   "zh_hant": "美元指數持續上試104關口，高見103.97，升逾0.1%，再創逾1年半新高，連升8個交易日。美債孳息率向下，10年期債息下試5厘水平，低見5.04厘，跌約3個基點；30年期債息曾失守5.4厘，兩年期債息回落至最低4.755厘。美元兌日圓較早時報159.66，英鎊兌美元跌穿1.31，歐元兌美元略低於1.097。商品貨幣顯著向下，澳元兌美元失守0.67，跌至0.665附近；新西蘭元兌美元跌至0.548水平。"
+   "en": "Mainland China's November loan prime rates are unchanged. The People's Bank of China announced that the one-year LPR stays at 3% and the over-five-year LPR at 3.5%, with both rates at the same levels since May last year.",
+   "zh_hans": "内地11月贷款市场报价利率维持不变。人民银行公布，1年期LPR维持于3厘，5年期以上LPR维持于3.5厘，两者自去年5月起处于同一水平。",
+   "zh_hant": "內地11月貸款市場報價利率維持不變。人民銀行公布，1年期LPR維持於3厘，5年期以上LPR維持於3.5厘，兩者自去年5月起處於同一水平。"
   },
   "tags": {
    "en": [
-    "US dollar index",
-    "Treasury yields",
-    "Commodity currencies"
+    "Loan prime rate",
+    "People's Bank of China",
+    "Interest rates"
    ],
    "zh_hans": [
-    "美元指数",
-    "美债",
-    "商品货币"
+    "贷款市场报价利率",
+    "人民银行",
+    "利率"
    ],
    "zh_hant": [
-    "美元指數",
-    "美債",
-    "商品貨幣"
+    "貸款市場報價利率",
+    "人民銀行",
+    "利率"
    ]
   },
   "title": {
-   "en": "Dollar Index Hits Fresh 1.5-Year High as Treasury Yield Tests 5%; Commodity Currencies Slide",
-   "zh_hans": "美元指数连升8日创年半新高 美债息下试5厘 商品货币齐跌",
-   "zh_hant": "美元指數連升8日創年半新高 美債息下試5厘 商品貨幣齊跌"
-  },
-  "image_r2_key": "design/202611/20261120-dollar-index-1-5-year-high-treasury-yield-5-pct-v2.jpg"
+   "en": "China's November loan prime rates unchanged, with the one-year LPR at 3% and the over-five-year rate at 3.5%, steady since May last year",
+   "zh_hans": "内地11月贷款市场报价利率维持不变 1年期3厘 5年期以上3.5厘 自去年5月起未变",
+   "zh_hant": "內地11月貸款市場報價利率維持不變 1年期3厘 5年期以上3.5厘 自去年5月起未變"
+  }
  }
 ]
