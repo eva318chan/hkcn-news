@@ -1,6 +1,84 @@
 [
   {
     "category": "hk",
+    "id": "20261120-govt-rejects-uscc-report-slams-smears",
+    "published_at": "2026-11-20T21:41:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000803.htm"
+    },
+    "summary": {
+      "en": "The HKSAR Government today issued a statement strongly condemning and firmly refuting the 2026 report of the United States-China Economic and Security Review Commission, calling its contents untrue and biased, smearing \"One Country, Two Systems\" and Hong Kong's national security laws, and interfering in Hong Kong affairs. The Government reiterated that Hong Kong is an inalienable part of China, enjoying a high degree of autonomy under \"One Country, Two Systems\", with residents' rights protected by the Constitution and the Basic Law, an independent judiciary and a solid rule of law. The statement also rebutted the report's claims on the Lai Chee-ying case, the Hong Kong Alliance case and the Wong Chi-fung case one by one, stressing the courts decided each strictly on the evidence and the law, with Wong sentenced to 10 years' imprisonment after pleading guilty. The Government urged the US to stop interfering in Hong Kong affairs, noting the US has run a trade surplus of more than US$250 billion with Hong Kong over the past decade and about 1,550 US companies operate in the city.",
+      "zh_hans": "特区政府今日发表声明，强烈谴责并坚决反驳美国国会美中经济与安全审查委员会发表的2026年度报告，批评报告内容失实偏颇，抹黑「一国两制」及香港维护国家安全的法例，干预香港事务。政府重申香港是中华人民共和国不可分离的部分，在「一国两制」下享有高度自治，市民权利受《宪法》及《基本法》保障，司法独立及法治稳固。声明又就黎智英案、支联会案及黄之锋案逐一反驳，强调法庭均严格按照证据及法律判案，其中黄之锋认罪后被判监10年。政府敦促美方停止干预香港事务，又指美国过去10年在港享有逾2,500亿美元贸易顺差，约1,550间美资企业在港经营。",
+      "zh_hant": "特區政府今日發表聲明，強烈譴責並堅決反駁美國國會美中經濟與安全審查委員會發表的2026年度報告，批評報告內容失實偏頗，抹黑「一國兩制」及香港維護國家安全的法例，干預香港事務。政府重申香港是中華人民共和國不可分離的部分，在「一國兩制」下享有高度自治，市民權利受《憲法》及《基本法》保障，司法獨立及法治穩固。聲明又就黎智英案、支聯會案及黃之鋒案逐一反駁，強調法庭均嚴格按照證據及法律判案，其中黃之鋒認罪後被判監10年。政府敦促美方停止干預香港事務，又指美國過去10年在港享有逾2,500億美元貿易順差，約1,550間美資企業在港經營。"
+    },
+    "tags": {
+      "en": [
+        "US-China Economic and Security Review Commission",
+        "One Country Two Systems",
+        "Hong Kong affairs"
+      ],
+      "zh_hans": [
+        "美中经济与安全审查委员会",
+        "一国两制",
+        "香港事务"
+      ],
+      "zh_hant": [
+        "美中經濟與安全審查委員會",
+        "一國兩制",
+        "香港事務"
+      ]
+    },
+    "title": {
+      "en": "HKSAR Government strongly rejects US commission report, slams biased smears and interference in Hong Kong affairs",
+      "zh_hans": "特区政府强烈反驳美方报告 斥失实抹黑干预香港事务",
+      "zh_hant": "特區政府強烈反駁美方報告 斥失實抹黑干預香港事務"
+    },
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-govt-rejects-uscc-report-slams-smears.jpg",
+    "image_prompt": "事實：特區政府強烈反駁美中經濟與安全審查委員會2026年度報告，斥失實偏頗、干預香港事務。場景：光猛日間政府總部大樓外觀，藍天白雲，莊嚴肅穆，唔用黑沉夜景。風格：電視新聞圖卡風格，16:9，寫實、莊重專業。標題兩行大字直接壓喺畫面上面，第一行「特區政府強烈反駁美方報告」白字，第二行「斥失實抹黑干預香港事務」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261120-govt-rejects-uscc-report-slams-smears.jpg"
+  },
+  {
+    "category": "finance",
+    "id": "20261120-hkex-paperless-securities-five-firms",
+    "published_at": "2026-11-20T21:23:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878644-20261120.htm"
+    },
+    "summary": {
+      "en": "Hong Kong's uncertificated securities market regime took effect this week, and HKEX has updated the list of securities expected to join the paperless system, with the first batch covering five listed companies: HKEX, Television Broadcasts (TVB), China Resources Power, Xiang China International and Min Xin Group. HKEX shares will join the paperless system from February 16 next year, while China Resources Power and Xiang China International will join in March. Under HKEX guidance, listed shares must join the paperless system within five years from November 16, 2026, but investors do not need to rush to convert physical certificates and should watch for announcements from the companies they hold. Investors may open a USI (Uncertificated Securities Market) account with an approved share registrar to hold and manage shares electronically in their own names.",
+      "zh_hans": "香港无纸证券市场制度本周一起实施，港交所网站更新预计参与无纸证券市场的证券名单，首批涉及5间上市公司，包括港交所、无线集团、华润电力、向中国际及闽信集团。港交所股份将于明年2月16日起参与无纸化证券；华润电力及向中国际将于明年3月参与。根据港交所提供的投资者指引，已上市股票须于2026年11月16日起的五年内参与无纸证券市场，投资者目前毋须急于将实物股票无纸化，应留意持有股份的上市公司公告。投资者可选择透过核准证券登记机构开立「持股易」户口，将实物股票转为无纸形式，以自己名义及电子方式持有和管理证券。",
+      "zh_hant": "香港無紙證券市場制度本周一起實施，港交所網站更新預計參與無紙證券市場的證券名單，首批涉及5間上市公司，包括港交所、無綫集團、華潤電力、向中國際及閩信集團。港交所股份將於明年2月16日起參與無紙化證券；華潤電力及向中國際將於明年3月參與。根據港交所提供的投資者指引，已上市股票須於2026年11月16日起的五年內參與無紙證券市場，投資者目前毋須急於將實物股票無紙化，應留意持有股份的上市公司公告。投資者可選擇透過核准證券登記機構開立「持股易」戶口，將實物股票轉為無紙形式，以自己名義及電子方式持有和管理證券。"
+    },
+    "tags": {
+      "en": [
+        "Paperless securities",
+        "HKEX",
+        "TVB"
+      ],
+      "zh_hans": [
+        "无纸证券",
+        "港交所",
+        "无线"
+      ],
+      "zh_hant": [
+        "無紙證券",
+        "港交所",
+        "無綫"
+      ]
+    },
+    "title": {
+      "en": "HKEX unveils first paperless securities list as bourse operator leads the way in February, five firms to join in phases",
+      "zh_hans": "港股无纸化首批名单出炉 港交所明年2月打头阵 5间公司分阶段参与",
+      "zh_hant": "港股無紙化首批名單出爐 港交所明年2月打頭陣 5間公司分階段參與"
+    },
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-hkex-paperless-securities-five-firms.jpg",
+    "image_prompt": "事實：港股無紙化首批5間公司名單出爐，港交所明年2月16日打頭陣，無綫、華潤電力等明年3月跟隨。場景：光猛日間交易大堂，陽光灑入，電子屏幕顯示股價走勢，交易員背影忙碌，氣氛明亮有朝氣，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，明亮通透。標題兩行大字直接壓喺畫面上面，第一行「港股無紙化首批名單出爐」白字，第二行「港交所明年2月打頭陣」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261120-hkex-paperless-securities-five-firms.jpg"
+  },
+  {
+    "category": "hk",
     "id": "20261120-fehd-rodent-crackdown-thunderbolt-skynet",
     "published_at": "2026-11-20T21:05:00+08:00",
     "source": {
@@ -114,6 +192,84 @@
     "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-customs-drug-manufacturing-centre-tsuen-wan-1-6m-seized.jpg"
   },
   {
+    "category": "entertainment",
+    "id": "20261120-detour-2026-design-festival-pmq-opens",
+    "published_at": "2026-11-20T19:33:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000726.htm"
+    },
+    "summary": {
+      "en": "Under Secretary for Culture, Sports and Tourism Raistlin Lau officiated at the opening of the deTour 2026 Design Festival at PMQ tonight. Themed \"BETTER, NOT PERFECT: Prototypes for Tomorrow\", the festival runs for 10 days until November 29, featuring 14 avant-garde works by creators from Hong Kong, the mainland and overseas across three curated zones, plus a pop-up store for the first time. Since its launch in 2014, deTour has drawn more than 1.3 million visitors and brought together over 220 local and overseas design units.",
+      "zh_hans": "文化体育及旅游局副局长刘震今晚主持PMQ元创方deTour 2026设计节开幕礼。今年设计节以「BETTER, NOT PERFECT: Prototypes for Tomorrow」为主题，展期10日至11月29日，展出14件来自香港、内地及海外创作者的前卫作品，分布于三个策展区域，并首次设立快闪店。deTour自2014年推出以来已吸引逾130万名访客，汇聚逾220个本地及海外设计单位。",
+      "zh_hant": "文化體育及旅遊局副局長劉震今晚主持PMQ元創方deTour 2026設計節開幕禮。今年設計節以「BETTER, NOT PERFECT: Prototypes for Tomorrow」為主題，展期10日至11月29日，展出14件來自香港、內地及海外創作者的前衛作品，分佈於三個策展區域，並首次設立快閃店。deTour自2014年推出以來已吸引逾130萬名訪客，匯聚逾220個本地及海外設計單位。"
+    },
+    "tags": {
+      "en": [
+        "deTour",
+        "Design festival",
+        "PMQ"
+      ],
+      "zh_hans": [
+        "deTour",
+        "设计节",
+        "PMQ"
+      ],
+      "zh_hant": [
+        "deTour",
+        "設計節",
+        "PMQ"
+      ]
+    },
+    "title": {
+      "en": "deTour 2026 design festival opens at PMQ with 14 avant-garde works on show until November 29",
+      "zh_hans": "deTour 2026设计节PMQ开幕 14件前卫作品展出 展期至11月29日",
+      "zh_hant": "deTour 2026設計節PMQ開幕 14件前衛作品展出 展期至11月29日"
+    },
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-detour-2026-design-festival-pmq-opens-v2.jpg",
+    "image_prompt": "事實：deTour 2026設計節在PMQ元創方開幕，14件前衛作品展出，展期至11月29日。場景：光猛明亮的設計節展覽空間，陽光灑入，色彩繽紛的前衛裝置藝術、參觀者駐足欣賞，充滿創意活力，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，明亮通透、有朝氣，唔用黑沉夜景。標題兩行大字直接壓喺畫面上面，第一行「deTour設計節開幕」白字，第二行「14件前衛作品 展至11月29日」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261120-detour-2026-design-festival-pmq-opens-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261120-north-point-community-living-room-opens-10th-this-year",
+    "published_at": "2026-11-20T19:26:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_192625_378.html"
+    },
+    "summary": {
+      "en": "The North Point Community Living Room opened today, the 10th such facility to start service this year. Chief Secretary Eric Chan, officiating at the opening ceremony, said the living room has a usable area of about 2,400 sq ft and is expected to serve 270 subdivided-unit households, with 43,000 visits a year. The Eastern District has the most subdivided units on Hong Kong Island; following the Shau Kei Wan living room that opened in March last year, the North Point facility will offer more support to residents in need. Members can cook, dine and join activities there, while social workers will proactively reach out to high-risk families.",
+      "zh_hans": "北角社区客厅今日开幕，是今年第10间投入服务的社区客厅。政务司司长陈国基主持开幕礼时表示，客厅实用面积约2,400平方呎，预计可服务270个劏房户，全年服务43,000人次。东区是港岛最多劏房的地区，继去年3月筲箕湾社区客厅后，北角社区客厅可进一步为区内有需要市民提供服务，会员可在客厅煮食、用膳、参与活动，社工亦会主动接触高风险家庭提供支援。",
+      "zh_hant": "北角社區客廳今日開幕，是今年第10間投入服務的社區客廳。政務司司長陳國基主持開幕禮時表示，客廳實用面積約2,400平方呎，預計可服務270個劏房戶，全年服務43,000人次。東區是港島最多劏房的地區，繼去年3月筲箕灣社區客廳後，北角社區客廳可進一步為區內有需要市民提供服務，會員可在客廳煮食、用膳、參與活動，社工亦會主動接觸高風險家庭提供支援。"
+    },
+    "tags": {
+      "en": [
+        "Community living room",
+        "North Point",
+        "Subdivided units"
+      ],
+      "zh_hans": [
+        "社区客厅",
+        "北角",
+        "劏房户"
+      ],
+      "zh_hant": [
+        "社區客廳",
+        "北角",
+        "劏房戶"
+      ]
+    },
+    "title": {
+      "en": "North Point community living room opens as 10th this year, set to serve 270 subdivided-unit households",
+      "zh_hans": "北角社区客厅开幕 今年第10间 预计服务270个劏房户",
+      "zh_hant": "北角社區客廳開幕 今年第10間 預計服務270劏房戶"
+    },
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-north-point-community-living-room-opens-10th-this-year-v2.jpg",
+    "image_prompt": "事實：北角社區客廳開幕，今年第10間投入服務，預計服務270個劏房戶，全年服務43,000人次。場景：光猛溫暖的社區客廳室內，陽光從大窗灑入，木色桌椅、兒童遊戲區、媽媽們圍坐縫製手作、街坊一起準備小食，氣氛和諧有人情味，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，明亮通透、陽光感、朝氣，唔用黑沉夜景。標題兩行大字直接壓喺畫面上面，第一行「北角社區客廳開幕」白字，第二行「今年第10間 270劏房戶受惠」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261120-north-point-community-living-room-opens-10th-this-year-v2.jpg"
+  },
+  {
     "category": "hk",
     "id": "20261120-infra-leaders-praise-hong-kong-summit",
     "published_at": "2026-11-20T18:39:00+08:00",
@@ -153,6 +309,44 @@
   },
   {
     "category": "hk",
+    "id": "20261120-cold-weather-warning-lowest-12-7-degrees-18-shelters",
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-cold-weather-warning-lowest-12-7-degrees-18-shelters-v2.jpg",
+    "published_at": "2026-11-20T18:37:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878625-20261120.htm"
+    },
+    "summary": {
+      "en": "A strong northeast monsoon has driven temperatures sharply down, with the Observatory recording a low of 12.7°C as of 4pm today — the lowest since autumn — while the Cold Weather Warning and the Strong Monsoon Signal are in force. Urban temperatures are expected to fall to about 13°C tonight and tomorrow, a few degrees lower in the New Territories, before recovering to around 21°C during the day tomorrow, with a slight rebound over the next day or two and another drop mid-next week. The Home Affairs Department has opened 18 temporary cold shelters, which stay open while the Cold Weather Warning is in force and provide free bedding, hot meals and hot water; the public can call 2572 8427 for enquiries.",
+      "zh_hans": "受强烈东北季候风影响，本港气温显著下降，天文台截至今日下午4时录得最低气温12.7度，是入秋以来最低纪录，寒冷天气警告及强烈季候风信号现正生效。天文台预计今晚及明日市区最低气温约13度，新界再低几度，明日日间最高气温回升至约21度，随后一两日气温略为回升，下周中期再度降温。民政事务总署已开放18间临时避寒中心，寒冷天气警告生效期间维持开放，免费提供被铺、热食及热水，有需要市民可致电热线2572 8427查询。",
+      "zh_hant": "受強烈東北季候風影響，本港氣溫顯著下降，天文台截至今日下午4時錄得最低氣溫12.7度，是入秋以來最低紀錄，寒冷天氣警告及強烈季候風信號現正生效。天文台預計今晚及明日市區最低氣溫約13度，新界再低幾度，明日日間最高氣溫回升至約21度，隨後一兩日氣溫略為回升，下周中期再度降溫。民政事務總署已開放18間臨時避寒中心，寒冷天氣警告生效期間維持開放，免費提供被鋪、熱食及熱水，有需要市民可致電熱線2572 8427查詢。"
+    },
+    "tags": {
+      "en": [
+        "Cold Weather Warning",
+        "Observatory",
+        "Cold shelters"
+      ],
+      "zh_hans": [
+        "寒冷天气警告",
+        "天文台",
+        "避寒中心"
+      ],
+      "zh_hant": [
+        "寒冷天氣警告",
+        "天文台",
+        "避寒中心"
+      ]
+    },
+    "title": {
+      "en": "Coldest since autumn at 12.7°C as cold weather warning takes effect; 18 temporary shelters open",
+      "zh_hans": "入秋最冻12.7度！寒冷天气警告生效 18间避寒中心开放",
+      "zh_hant": "入秋最凍12.7度！寒冷天氣警告生效 18間避寒中心開放"
+    },
+    "image_r2_key": "design/202611/20261120-cold-weather-warning-lowest-12-7-degrees-18-shelters-v2.jpg"
+  },
+  {
+    "category": "hk",
     "id": "20261120-immigration-anti-illegal-worker-operations-kai-tak-5-arrested",
     "image_r2_key": "design/202611/20261120-immigration-anti-illegal-worker-operations-kai-tak-5-arrested.jpg",
     "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-immigration-anti-illegal-worker-operations-kai-tak-5-arrested.jpg",
@@ -188,6 +382,44 @@
       "zh_hans": "启德盛事期间扫荡非法劳工 5人落网最高罚5万囚两年",
       "zh_hant": "啟德盛事期間掃蕩非法勞工 5人落網最高罰5萬囚兩年"
     }
+  },
+  {
+    "category": "china",
+    "id": "20261120-mfa-urges-japan-correct-taiwan-remarks",
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-mfa-urges-japan-correct-taiwan-remarks-v2.jpg",
+    "published_at": "2026-11-20T17:56:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878619-20261120.htm"
+    },
+    "summary": {
+      "en": "Foreign ministry spokesman Guo Jiakun told a regular press briefing that for Japan, the urgent task is to correct erroneous words and deeds on the Taiwan question as soon as possible, the important thing is to adopt a correct attitude on historical issues, and the fundamental thing is to be truly objective and rational in its perception of China. Responding to questions about Japanese Prime Minister Sanae Takaichi's latest remarks on Taiwan and Japan's history at the APEC meeting, Guo said abiding by the four political documents between China and Japan is a political responsibility and legal obligation Japan must fulfil, which should be reflected not only in words but also in actions.",
+      "zh_hans": "外交部发言人郭嘉昆在例行记者会表示，对日方而言，当前紧迫的是在台湾问题上尽快纠正错误言行，重要的是在历史问题上采取正确态度，根本的是在对华认知上真正做到客观理性。对于日本首相高市早苗在亚太经合组织会议上有关台湾问题和日本历史问题的最新表态，郭嘉昆回应有关提问时说，恪守中日四个政治文件是日方必须履行的政治责任和法律义务，不仅应体现在表态上，更要落实到行动上。",
+      "zh_hant": "外交部發言人郭嘉昆在例行記者會表示，對日方而言，當前緊迫的是在台灣問題上盡快糾正錯誤言行，重要的是在歷史問題上採取正確態度，根本的是在對華認知上真正做到客觀理性。對於日本首相高市早苗在亞太經合組織會議上有關台灣問題和日本歷史問題的最新表態，郭嘉昆回應有關提問時說，恪守中日四個政治文件是日方必須履行的政治責任和法律義務，不僅應體現在表態上，更要落實到行動上。"
+    },
+    "tags": {
+      "en": [
+        "Foreign ministry",
+        "Taiwan question",
+        "Japan"
+      ],
+      "zh_hans": [
+        "外交部",
+        "台湾问题",
+        "日本"
+      ],
+      "zh_hant": [
+        "外交部",
+        "台灣問題",
+        "日本"
+      ]
+    },
+    "title": {
+      "en": "Foreign ministry urges Japan to correct erroneous words and deeds on Taiwan without delay",
+      "zh_hans": "外交部促日方尽快纠正台湾问题错误言行 恪守四个政治文件",
+      "zh_hant": "外交部促日方盡快糾正台灣問題錯誤言行 恪守四個政治文件"
+    },
+    "image_r2_key": "design/202611/20261120-mfa-urges-japan-correct-taiwan-remarks-v2.jpg"
   },
   {
     "category": "hk",
@@ -229,6 +461,275 @@
   },
   {
     "category": "hk",
+    "id": "20261120-dengue-chikungunya-imported-cases",
+    "published_at": "2026-11-20T17:45:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000623.htm"
+    },
+    "summary": {
+      "en": "The Centre for Health Protection announced today that from November 13 to 19, Hong Kong recorded two imported dengue fever cases, with the patients having visited Vietnam and Cambodia respectively during the incubation period, and one imported chikungunya fever case involving a 71-year-old man who had visited the mainland and is now in stable condition. Hong Kong has recorded 42 dengue cases so far this year, comprising 40 imported and two local cases, and nine confirmed chikungunya cases, including eight imported and one local. The Centre reminded the public to guard against mosquito bites and clear stagnant water, both at home and when travelling, and to use DEET-containing insect repellents properly.",
+      "zh_hans": "卫生署卫生防护中心今日公布，由11月13日至19日，本港录得两宗外地传入的登革热感染个案，病人潜伏期内分别到过越南及柬埔寨；同期亦录得一宗外地传入的基孔肯雅热个案，涉及一名71岁男子，潜伏期内曾到内地，现时情况稳定。本港今年至今累计录得42宗登革热个案，包括40宗外地传入及两宗本地感染；基孔肯雅热则累计9宗，包括8宗输入及1宗本地感染。中心提醒市民外游及在家居均应注意防蚊及清除积水，并正确使用含避蚊胺的驱蚊剂。",
+      "zh_hant": "衞生署衞生防護中心今日公布，由11月13日至19日，本港錄得兩宗外地傳入的登革熱感染個案，病人潛伏期內分別到過越南及柬埔寨；同期亦錄得一宗外地傳入的基孔肯雅熱個案，涉及一名71歲男子，潛伏期內曾到內地，現時情況穩定。本港今年至今累計錄得42宗登革熱個案，包括40宗外地傳入及兩宗本地感染；基孔肯雅熱則累計9宗，包括8宗輸入及1宗本地感染。中心提醒市民外遊及在家居均應注意防蚊及清除積水，並正確使用含避蚊胺的驅蚊劑。"
+    },
+    "tags": {
+      "en": [
+        "Dengue fever",
+        "Chikungunya fever",
+        "Centre for Health Protection"
+      ],
+      "zh_hans": [
+        "登革热",
+        "基孔肯雅热",
+        "卫生防护中心"
+      ],
+      "zh_hant": [
+        "登革熱",
+        "基孔肯雅熱",
+        "衞生防護中心"
+      ]
+    },
+    "title": {
+      "en": "Two imported dengue cases and one chikungunya case in a week, all imported; 42 dengue cases so far this year",
+      "zh_hans": "一周增两宗登革热一宗基孔肯雅热 全属外地传入 今年累计42宗",
+      "zh_hant": "一周增兩宗登革熱一宗基孔肯雅熱 全屬外地傳入 今年累計42宗"
+    },
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-dengue-chikungunya-imported-cases-v2.jpg",
+    "image_prompt": "事實：一周新增兩宗外地傳入登革熱及一宗基孔肯雅熱，市民外遊要防蚊。場景：光猛日間屋苑花園，陽光灑入，工作人員檢查花盆底積水、清理溝渠，蚊患防治宣傳，氣氛明亮有朝氣，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，明亮通透。標題兩行大字直接壓喺畫面上面，第一行「一周增兩宗登革熱一宗基孔肯雅熱」白字，第二行「全屬外地傳入 今年累計42宗」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261120-dengue-chikungunya-imported-cases-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261120-woman-jailed-six-months-alt-smoking-products",
+    "published_at": "2026-11-20T17:30:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000463.htm"
+    },
+    "summary": {
+      "en": "A woman was sentenced today at West Kowloon Magistrates' Courts to six months' imprisonment for illegally importing 38,000 alternative smoking products. The Department of Health's Tobacco and Alcohol Control Office was notified by Customs yesterday that the products had been intercepted in the luggage of the woman arriving from Japan, and immediately arrested and prosecuted her. Since September 19, when amendments to the Tobacco Control Legislation conferred arrest powers on tobacco control inspectors, the office has prosecuted 34 cases involving the importation of large quantities of alternative smoking products, with 37 people convicted and sentenced to between four weeks and eight months in prison. Under the Import and Export Ordinance, importing alternative smoking products carries a maximum penalty of a HK$2 million fine and seven years' imprisonment on indictment.",
+      "zh_hans": "一名女子因非法进口38,000支另类吸烟产品，今日在西九龙裁判法院被判即时监禁6个月。卫生署控烟酒办昨日接获海关通知，在该名由日本抵港的女子行李中检获该批另类烟，随即拘捕及检控。自今年9月19日《2025年控烟法例（修订）条例》赋予控烟酒办督察拘捕权以来，控烟酒办已就进口大量另类吸烟产品检控34宗案件，37人被定罪，判监4星期至8个月不等。根据《进出口条例》，进口另类烟经循公诉程序定罪，最高可判罚款200万元及监禁7年。",
+      "zh_hant": "一名女子因非法進口38,000支另類吸煙產品，今日在西九龍裁判法院被判即時監禁6個月。衞生署控煙酒辦昨日接獲海關通知，在該名由日本抵港的女子行李中檢獲該批另類煙，隨即拘捕及檢控。自今年9月19日《2025年控煙法例（修訂）條例》賦予控煙酒辦督察拘捕權以來，控煙酒辦已就進口大量另類吸煙產品檢控34宗案件，37人被定罪，判監4星期至8個月不等。根據《進出口條例》，進口另類煙經循公訴程序定罪，最高可判罰款200萬元及監禁7年。"
+    },
+    "tags": {
+      "en": [
+        "Alternative smoking products",
+        "Tobacco and Alcohol Control Office",
+        "Customs"
+      ],
+      "zh_hans": [
+        "另类吸烟产品",
+        "控烟酒办",
+        "海关"
+      ],
+      "zh_hant": [
+        "另類吸煙產品",
+        "控煙酒辦",
+        "海關"
+      ]
+    },
+    "title": {
+      "en": "Woman jailed six months for smuggling 38,000 alternative smoking products from Japan; tobacco control office has prosecuted 34 cases",
+      "zh_hans": "日本返港女行李藏3.8万支另类烟 判囚6个月 控烟酒办已检控34案",
+      "zh_hant": "日本返港女行李藏3.8萬支另類煙 判囚6個月 控煙酒辦已檢控34案"
+    },
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-woman-jailed-six-months-alt-smoking-products-v2.jpg",
+    "image_prompt": "事實：女子由日本返港行李藏3.8萬支另類煙，判囚6個月。場景：光猛日間機場入境大堂，海關人員檢查行李，X光機、行李輸送帶，氣氛明亮專業，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，寫實、莊重專業。標題兩行大字直接壓喺畫面上面，第一行「女行李藏3.8萬支另類煙」白字，第二行「判囚6個月 控煙酒辦已檢控34案」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。唔可以描繪被告人臉。",
+    "image_r2_key": "design/202611/20261120-woman-jailed-six-months-alt-smoking-products-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261120-yuen-long-meth-warehouse-27kg-12m-arrested",
+    "published_at": "2026-11-20T17:22:00+08:00",
+    "source": {
+      "name": "香港01",
+      "url": "https://global.hk01.com/突发/60413223/警八乡天水围搜寮屋捣两毒品仓-检-1200万冰毒-拘两尼日利亚男"
+    },
+    "summary": {
+      "en": "Narcotics Bureau officers raided a squatter hut in Pat Heung, Yuen Long, early this morning, arresting two men and seizing about 1kg of suspected methamphetamine and drug packaging tools. Officers then searched two drug warehouses in Kam Sheung Road's Ngau Keng and Tin Shui Wai's Shek Kong Tsuen, seizing about 26kg more of suspected methamphetamine. In total the operation netted about 27kg of suspected meth, with an estimated street value of about HK$12 million. The two arrested men, aged 34 and 39 and both Nigerian nationals holding recognisance forms, will be charged with three counts of trafficking in a dangerous drug and appear at Sha Tin Magistrates' Courts tomorrow.",
+      "zh_hans": "警方毒品调查科今日清晨在元朗八乡及天水围展开反毒品行动，突击搜查下輋一个寮屋单位，制服屋内两名男子，并在单位内检获一包重约1公斤的怀疑冰毒及毒品包装工具。其后人员再搜查两个分别位于锦上路牛径及天水围锡降村的毒品储存仓，在仓内合共检获约26公斤怀疑冰毒。行动中共检获约27公斤怀疑冰毒，总市值约1,200万元。两名34岁及39岁尼日利亚籍男子涉嫌贩运危险药物被捕，将被暂控三项贩运危险药物罪，明日在沙田裁判法院提堂。",
+      "zh_hant": "警方毒品調查科今日清晨在元朗八鄉及天水圍展開反毒品行動，突擊搜查下輋一個寮屋單位，制服屋內兩名男子，並在單位內檢獲一包重約1公斤的懷疑冰毒及毒品包裝工具。其後人員再搜查兩個分別位於錦上路牛徑及天水圍錫降村的毒品儲存倉，在倉內合共檢獲約26公斤懷疑冰毒。行動中共檢獲約27公斤懷疑冰毒，總市值約1,200萬元。兩名34歲及39歲尼日利亞籍男子涉嫌販運危險藥物被捕，將被暫控三項販運危險藥物罪，明日在沙田裁判法院提堂。"
+    },
+    "tags": {
+      "en": [
+        "Methamphetamine",
+        "Yuen Long",
+        "Narcotics Bureau"
+      ],
+      "zh_hans": [
+        "冰毒",
+        "元朗",
+        "毒品调查科"
+      ],
+      "zh_hant": [
+        "冰毒",
+        "元朗",
+        "毒品調查科"
+      ]
+    },
+    "title": {
+      "en": "Police raid two Yuen Long drug warehouses, seize 27kg of meth worth $12m; two Nigerian men to appear in court tomorrow",
+      "zh_hans": "警方捣元朗两毒品仓检27公斤冰毒值1200万 拘两尼日利亚汉明提堂",
+      "zh_hant": "警方搗元朗兩毒品倉檢27公斤冰毒值1200萬 拘兩尼日利亞漢明提堂"
+    },
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-yuen-long-meth-warehouse-27kg-12m-arrested-v2.jpg",
+    "image_prompt": "事實：警方搗破元朗兩毒品倉，檢27公斤冰毒值1200萬，拘兩人。場景：光猛日間警方行動現場，警員在鄉村寮屋外搜查，證物袋、警車，氣氛明亮專業，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，寫實、莊重專業。標題兩行大字直接壓喺畫面上面，第一行「警方搗元朗兩毒品倉」白字，第二行「檢27公斤冰毒值1200萬」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。唔可以描繪被捕人士人臉。",
+    "image_r2_key": "design/202611/20261120-yuen-long-meth-warehouse-27kg-12m-arrested-v2.jpg"
+  },
+  {
+    "category": "finance",
+    "id": "20261120-regina-ip-shk-independent-non-executive-director",
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-regina-ip-shk-independent-non-executive-director-v2.jpg",
+    "published_at": "2026-11-20T17:16:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878613-20261120.htm"
+    },
+    "summary": {
+      "en": "Sun Hung Kai Properties has announced the appointment of Executive Council convenor Regina Ip as an independent non-executive director with immediate effect. Ip, who convenes the Executive Council, joins the developer's board as a new member.",
+      "zh_hans": "新鸿基地产公布，委任行政会议召集人叶刘淑仪为独立非执行董事，即日起生效。叶刘淑仪现任行政会议召集人，是新地董事会新成员。",
+      "zh_hant": "新鴻基地產公布，委任行政會議召集人葉劉淑儀為獨立非執行董事，即日起生效。葉劉淑儀現任行政會議召集人，是新地董事會新成員。"
+    },
+    "tags": {
+      "en": [
+        "Regina Ip",
+        "Sun Hung Kai Properties",
+        "Independent non-executive director"
+      ],
+      "zh_hans": [
+        "叶刘淑仪",
+        "新鸿基地产",
+        "独立非执行董事"
+      ],
+      "zh_hant": [
+        "葉劉淑儀",
+        "新鴻基地產",
+        "獨立非執行董事"
+      ]
+    },
+    "title": {
+      "en": "Regina Ip appointed independent non-executive director of Sun Hung Kai Properties with immediate effect",
+      "zh_hans": "叶刘淑仪获委任新地独立非执行董事 即日生效",
+      "zh_hant": "葉劉淑儀獲委任新地獨立非執行董事 即日生效"
+    },
+    "image_r2_key": "design/202611/20261120-regina-ip-shk-independent-non-executive-director-v2.jpg"
+  },
+  {
+    "category": "finance",
+    "id": "20261120-virtual-asset-services-bill-gazetted-dec-2-first-reading",
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-virtual-asset-services-bill-gazetted-dec-2-first-reading-v2.jpg",
+    "published_at": "2026-11-20T17:15:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000582.htm"
+    },
+    "summary": {
+      "en": "The Government gazetted the Virtual Asset Services Legislation (Amendment) Bill 2026 today, expanding the regulatory regime for virtual asset services to four additional types of services — dealing, advisory, management and custody — with providers required to be licensed by or registered with the Securities and Futures Commission and to pass a fit-and-proper test. Banks and stored value facility licensees regulated by the Hong Kong Monetary Authority must also register with the SFC if they offer virtual asset services in Hong Kong. The bill amends the Anti-Money Laundering and Counter-Terrorist Financing Ordinance and empowers the SFC and the HKMA to implement the regime; it will be introduced to the Legislative Council for first reading on December 2. Secretary for Financial Services and the Treasury Christopher Hui said the regime follows the \"same activity, same risks, same regulation\" principle and is a key step towards a world-leading digital asset regulatory regime.",
+      "zh_hans": "政府今日刊宪《2026年虚拟资产服务法例（修订）条例草案》，将虚拟资产服务监管制度扩大至交易、提供意见、管理及托管四类新增服务，相关服务提供者须向证监会领牌或注册，并须通过适当人选测试。受金管局监管的银行及储值支付工具持牌人如在港提供虚拟资产服务，亦须向证监会注册。条例草案将修订《打击洗钱及恐怖分子资金筹集条例》，并赋权证监会及金管局实施新制度，12月2日提交立法会首读。财经事务及库务局局长许正宇表示，新制度贯彻「相同活动、相同风险、相同监管」原则，是建立世界领先数码资产监管制度的关键一步。",
+      "zh_hant": "政府今日刊憲《2026年虛擬資產服務法例（修訂）條例草案》，將虛擬資產服務監管制度擴大至交易、提供意見、管理及託管四類新增服務，相關服務提供者須向證監會領牌或註冊，並須通過適當人選測試。受金管局監管的銀行及儲值支付工具持牌人如在港提供虛擬資產服務，亦須向證監會註冊。條例草案將修訂《打擊洗錢及恐怖分子資金籌集條例》，並賦權證監會及金管局實施新制度，12月2日提交立法會首讀。財經事務及庫務局局長許正宇表示，新制度貫徹「相同活動、相同風險、相同監管」原則，是建立世界領先數碼資產監管制度的關鍵一步。"
+    },
+    "tags": {
+      "en": [
+        "Virtual assets",
+        "SFC",
+        "Digital assets"
+      ],
+      "zh_hans": [
+        "虚拟资产",
+        "证监会",
+        "数字资产"
+      ],
+      "zh_hant": [
+        "虛擬資產",
+        "證監會",
+        "數碼資產"
+      ]
+    },
+    "title": {
+      "en": "Virtual asset regulation expands to four more services as amendment bill gazetted; first reading on December 2",
+      "zh_hans": "虚拟资产监管扩至交易托管四类服务 刊宪修例 12月2日首读",
+      "zh_hant": "虛擬資產監管擴至交易託管四類服務 刊憲修例 12月2日首讀"
+    },
+    "image_r2_key": "design/202611/20261120-virtual-asset-services-bill-gazetted-dec-2-first-reading-v2.jpg"
+  },
+  {
+    "category": "finance",
+    "id": "20261120-ccl-down-0-66-pct-sixth-weekly-fall",
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-ccl-down-0-66-pct-sixth-weekly-fall-v2.jpg",
+    "published_at": "2026-11-20T17:11:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878606-20261120.htm"
+    },
+    "summary": {
+      "en": "The Centa-City Leading Index, which tracks Hong Kong second-hand home prices, fell 0.66% week on week to 157.56, a sixth consecutive weekly decline and a cumulative drop of 2.26% to a near six-month low. Prices of large estates and small-to-medium units both fell more than 0.7% to over six-month lows, while large units fell more than 0.4% to a near four-month low; all four districts fell, with the New Territories East down nearly 2.6%. Centaline Property said weak Hong Kong stocks and rising expectations of a December rate hike could push the index down another 1.6% by year-end, back to late-April levels.",
+      "zh_hans": "反映本港二手楼价走势的中原城市领先指数最新报157.56点，按周跌0.66%，连跌6个星期，累计回落2.26%，创近半年低位。大型屋苑和中小型单位楼价按周均跌逾0.7%，创逾半年低位；大型单位楼价跌逾0.4%，创近4个月低位；四区楼价全跌，新界东按周跌近2.6%。中原地产表示，受到港股下挫、12月加息预期升温等不利因素影响，CCL到年底前仍有约1.6%下跌空间，或重返4月底的水平。",
+      "zh_hant": "反映本港二手樓價走勢的中原城市領先指數最新報157.56點，按周跌0.66%，連跌6個星期，累計回落2.26%，創近半年低位。大型屋苑和中小型單位樓價按周均跌逾0.7%，創逾半年低位；大型單位樓價跌逾0.4%，創近4個月低位；四區樓價全跌，新界東按周跌近2.6%。中原地產表示，受到港股下挫、12月加息預期升溫等不利因素影響，CCL到年底前仍有約1.6%下跌空間，或重返4月底的水平。"
+    },
+    "tags": {
+      "en": [
+        "Second-hand home prices",
+        "CCL",
+        "Centa-City Leading Index"
+      ],
+      "zh_hans": [
+        "二手楼价",
+        "CCL",
+        "中原城市领先指数"
+      ],
+      "zh_hant": [
+        "二手樓價",
+        "CCL",
+        "中原城市領先指數"
+      ]
+    },
+    "title": {
+      "en": "Second-hand home prices fall for sixth straight week to six-month low; CCL at 157.56",
+      "zh_hans": "二手楼价连跌6星期创半年低 CCL报157.56点 年底前或再跌1.6%",
+      "zh_hant": "二手樓價連跌6星期創半年低 CCL報157.56點 年底前或再跌1.6%"
+    },
+    "image_r2_key": "design/202611/20261120-ccl-down-0-66-pct-sixth-weekly-fall-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261120-chan-kwok-ki-lawful-memorial-wang-fuk-court-fire",
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-chan-kwok-ki-lawful-memorial-wang-fuk-court-fire-v2.jpg",
+    "published_at": "2026-11-20T17:07:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878614-20261120.htm"
+    },
+    "summary": {
+      "en": "Chief Secretary Chan Kwok-ki said that with the Wang Fuk Court fire approaching its first anniversary, any memorial activity that is lawful will be absolutely allowed by the Government, which will not stop or obstruct residents from holding memorials, in response to a group cancelling a planned memorial event. He cautioned that some people online with ulterior motives are trying to exploit memorial activities to cause disruption, urging the public to choose carefully and not be used, and said police will deal with any unlawful acts according to the law. Chan also expressed deep condolences to the victims, especially families who lost loved ones, and said the Government is doing its utmost to help them rebuild their homes and is pursuing comprehensive systemic reform based on the independent committee's report.",
+      "zh_hans": "政务司司长陈国基表示，宏福苑火灾发生接近一年，对于有团体原定举行悼念活动但最终取消，他强调任何悼念活动只要合法，政府绝对容许，亦不会阻止或妨碍市民进行悼念活动。他提醒网上有个别别有用心人士试图利用悼念活动作出破坏行为，市民要小心选择，不要被利用，警方会依法处理所有违法行为。陈国基又向受灾灾民，特别是痛失亲人的灾民致以深切慰问，并表示政府正全力协助灾民重建家园，以及在独立委员会报告基础上推行全面系统改革。",
+      "zh_hant": "政務司司長陳國基表示，宏福苑火災發生接近一年，對於有團體原定舉行悼念活動但最終取消，他強調任何悼念活動只要合法，政府絕對容許，亦不會阻止或妨礙市民進行悼念活動。他提醒網上有個別別有用心人士試圖利用悼念活動作出破壞行為，市民要小心選擇，不要被利用，警方會依法處理所有違法行為。陳國基又向受災災民，特別是痛失親人的災民致以深切慰問，並表示政府正全力協助災民重建家園，以及在獨立委員會報告基礎上推行全面系統改革。"
+    },
+    "tags": {
+      "en": [
+        "Chan Kwok-ki",
+        "Wang Fuk Court",
+        "Memorial"
+      ],
+      "zh_hans": [
+        "陈国基",
+        "宏福苑",
+        "悼念"
+      ],
+      "zh_hant": [
+        "陳國基",
+        "宏福苑",
+        "悼念"
+      ]
+    },
+    "title": {
+      "en": "Chan Kwok-ki: lawful memorials for Wang Fuk Court fire will never be blocked; public urged to beware of exploitation",
+      "zh_hans": "陈国基：合法悼念宏福苑大火绝不阻止 吁提防有人借机搞破坏",
+      "zh_hant": "陳國基：合法悼念宏福苑大火絕不阻止 籲提防有人藉機搞破壞"
+    },
+    "image_r2_key": "design/202611/20261120-chan-kwok-ki-lawful-memorial-wang-fuk-court-fire-v2.jpg"
+  },
+  {
+    "category": "hk",
     "id": "20261120-duty-not-paid-cigarettes-two-passengers-jailed",
     "image_r2_key": "design/202611/20261120-duty-not-paid-cigarettes-two-passengers-jailed.jpg",
     "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-duty-not-paid-cigarettes-two-passengers-jailed.jpg",
@@ -264,6 +765,83 @@
       "zh_hans": "两旅客走私未完税烟判囚5至6个月 一人藏4万支另类吸烟产品",
       "zh_hant": "兩旅客走私未完稅煙判囚5至6個月 一人藏4萬支另類吸煙產品"
     }
+  },
+  {
+    "category": "hk",
+    "id": "20261120-subdivided-units-landlords-28-convicted-fines-112500",
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-subdivided-units-landlords-28-convicted-fines-112500-v2.jpg",
+    "published_at": "2026-11-20T17:00:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000554.htm"
+    },
+    "summary": {
+      "en": "Twenty-eight landlords of subdivided units pleaded guilty at the Eastern Magistrates' Courts today to breaching Part IVA of the Landlord and Tenant (Consolidation) Ordinance and were fined between $800 and $13,600, amounting to $112,500 in total. Their offences included failing to submit a Notice of Tenancy to the Rating and Valuation Department within 60 days of the regulated tenancy commencing, failing to produce bills and written accounts when asking tenants to pay apportioned water and electricity charges, and charging second-term rent above the statutory cap. Since the Ordinance took effect, the department has prosecuted 1,643 cases; 1,478 have been dealt with by the courts, all resulting in convictions involving 1,291 landlords and $4,147,040 in fines, while 165 cases are pending.",
+      "zh_hans": "28名分间单位业主因违反《业主与租客（综合）条例》第IVA部规定，今日在东区裁判法院承认控罪，被判罚款800至13,600元，合共112,500元。违规行为包括未在规管租赁开始后60日内向差饷物业估价署提交租赁通知书、要求租客摊分水电费时未提供账单副本及书面账目，以及收取超出法例上限的第二期租金。条例生效以来，估价署累计提出1,643宗检控，其中1,478宗已由法庭处理并全部定罪，涉及1,291名业主，罚款合共4,147,040元，另有165宗个案正等候审讯。",
+      "zh_hant": "28名分間單位業主因違反《業主與租客（綜合）條例》第IVA部規定，今日在東區裁判法院承認控罪，被判罰款800至13,600元，合共112,500元。違規行為包括未在規管租賃開始後60日內向差餉物業估價署提交租賃通知書、要求租客攤分水電費時未提供帳單副本及書面帳目，以及收取超出法例上限的第二期租金。條例生效以來，估價署累計提出1,643宗檢控，其中1,478宗已由法庭處理並全部定罪，涉及1,291名業主，罰款合共4,147,040元，另有165宗個案正等候審訊。"
+    },
+    "tags": {
+      "en": [
+        "Subdivided units",
+        "Landlords",
+        "Rating and Valuation Department"
+      ],
+      "zh_hans": [
+        "劏房",
+        "分间单位",
+        "差饷物业估价署"
+      ],
+      "zh_hant": [
+        "劏房",
+        "分間單位",
+        "差餉物業估價署"
+      ]
+    },
+    "title": {
+      "en": "28 subdivided-unit landlords convicted of tenancy breaches and fined $112,500 in total",
+      "zh_hans": "28名劏房业主违规被定罪 罚款共11.25万 估价署累计检控1643宗",
+      "zh_hant": "28名劏房業主違規被定罪 罰款共11.25萬 估價署累計檢控1643宗"
+    },
+    "image_r2_key": "design/202611/20261120-subdivided-units-landlords-28-convicted-fines-112500-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261120-ma-on-shan-fu-bao-gardens-water-outage-4200-households",
+    "published_at": "2026-11-20T16:54:00+08:00",
+    "source": {
+      "name": "香港01",
+      "url": "https://global.hk01.com/突发/60413257/马鞍山富宝花园咸淡水管齐爆-12座4200户全面断水-居民冒寒扑水"
+    },
+    "summary": {
+      "en": "Water pipes burst at Fu Bao Gardens in Ma On Shan at around 4am today, cutting fresh and flushing water to all 12 blocks — about 4,200 households. With a cold weather warning in force, residents had to queue in the cold for water. The Water Supplies Department said the estate's internal private water pipes had burst and it has arranged temporary supply, deploying four water trucks and 24 water tanks and sending a special team to help residents collect water. The estate management's contractor is repairing the burst underground pipes, and district councillors say they are pressing for fresh water to be restored before midnight.",
+      "zh_hans": "马鞍山富宝花园今日凌晨约4时食水及咸水总供水系统喉管爆裂，全屋苑12座、约4,200户的食水及冲厕水供应中断，居民要在寒冷天气警告生效下冒寒取水。水务署表示，屋苑内部私人供水管爆裂，已安排临时食水供应，出动4架水车及放置24个水箱，并派「供水特攻队」协助居民取水。管理处承办商正抢修地底爆裂喉管，区议员指争取午夜前先恢复食水供应。",
+      "zh_hant": "馬鞍山富寶花園今日凌晨約4時食水及鹹水總供水系統喉管爆裂，全屋苑12座、約4,200戶的食水及沖廁水供應中斷，居民要在寒冷天氣警告生效下冒寒取水。水務署表示，屋苑內部私人供水管爆裂，已安排臨時食水供應，出動4架水車及放置24個水箱，並派「供水特攻隊」協助居民取水。管理處承辦商正搶修地底爆裂喉管，區議員指爭取午夜前先恢復食水供應。"
+    },
+    "tags": {
+      "en": [
+        "Fu Bao Gardens",
+        "Burst water pipe",
+        "Water Supplies Department"
+      ],
+      "zh_hans": [
+        "富宝花园",
+        "爆水管",
+        "水务署"
+      ],
+      "zh_hant": [
+        "富寶花園",
+        "爆水管",
+        "水務署"
+      ]
+    },
+    "title": {
+      "en": "Fresh and salt water pipes burst at Ma On Shan's Fu Bao Gardens, cutting supply to 4,200 households in 12 blocks as residents queue in the cold",
+      "zh_hans": "马鞍山富宝花园咸淡水管齐爆 12座4200户断水 居民冒寒取水",
+      "zh_hant": "馬鞍山富寶花園鹹淡水管齊爆 12座4200戶斷水 居民冒寒取水"
+    },
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-ma-on-shan-fu-bao-gardens-water-outage-4200-households-v2.jpg",
+    "image_prompt": "事實：馬鞍山富寶花園鹹淡水管爆裂，12座4200戶食水及沖廁水全斷，居民冒寒排隊取水。場景：寒冷天氣下光猛日間屋苑地下大堂外，居民提着水桶水樽在水車水箱前排隊取水，水務署人員協助，氣氛冷清但有序，人物用背影或剪影，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，明亮日光、唔用黑沉夜景。標題兩行大字直接壓喺畫面上面，第一行「富寶花園爆水管」白字，第二行「4200戶斷水 居民冒寒取水」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261120-ma-on-shan-fu-bao-gardens-water-outage-4200-households-v2.jpg"
   },
   {
     "category": "hk",
@@ -533,6 +1111,44 @@
     }
   },
   {
+    "category": "hk",
+    "id": "20261120-unauthorised-building-works-penalty-hike-600k-fine",
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-unauthorised-building-works-penalty-hike-600k-fine-v2.jpg",
+    "published_at": "2026-11-20T16:14:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878601-20261120.htm"
+    },
+    "summary": {
+      "en": "The Government has proposed amending the Buildings Ordinance to raise penalties for unauthorised building works. Unauthorised works that are neither \"designated exempted works\" nor verified face a new $10,000 fixed penalty for failing to comply with a removal order; continued non-compliance can lead to prosecution, with a maximum fine of $200,000 and one year's imprisonment on first conviction, rising to $400,000 and one year's imprisonment on a subsequent conviction. For serious \"specified unauthorised building works\" such as unauthorised basements, the maximum penalty rises to $300,000 and two years' imprisonment, and $600,000 and two years' imprisonment for repeat offences. As of September this year, about 64,800 unauthorised works were subject to overdue removal orders. The Government plans to introduce the bill to the Legislative Council in January next year and aims to complete legislation by mid-year.",
+      "zh_hans": "政府建议修订《建筑物条例》，加重僭建物罚则。不属「指定豁免工程」或未经检核的僭建物，如不遵办清拆令，将引入1万元定额罚款；定额罚款后仍不遵办，屋宇署可提出检控，首次定罪最高罚款维持20万元及监禁1年，再次定罪最高罚则增至40万元及监禁1年。针对性质严重的「指明僭建物」，例如僭建地库，最高罚则提高至30万元及监禁2年，再次定罪增至60万元及监禁2年。截至今年9月，逾期未遵办的清拆令涉及约64,800个僭建物。政府计划明年1月将修例草案提交立法会，争取明年年中完成立法实施。",
+      "zh_hant": "政府建議修訂《建築物條例》，加重僭建物罰則。不屬「指定豁免工程」或未經檢核的僭建物，如不遵辦清拆令，將引入1萬元定額罰款；定額罰款後仍不遵辦，屋宇署可提出檢控，首次定罪最高罰款維持20萬元及監禁1年，再次定罪最高罰則增至40萬元及監禁1年。針對性質嚴重的「指明僭建物」，例如僭建地庫，最高罰則提高至30萬元及監禁2年，再次定罪增至60萬元及監禁2年。截至今年9月，逾期未遵辦的清拆令涉及約64,800個僭建物。政府計劃明年1月將修例草案提交立法會，爭取明年年中完成立法實施。"
+    },
+    "tags": {
+      "en": [
+        "Unauthorised building works",
+        "Buildings Ordinance",
+        "Buildings Department"
+      ],
+      "zh_hans": [
+        "僭建物",
+        "建筑物条例",
+        "屋宇署"
+      ],
+      "zh_hant": [
+        "僭建物",
+        "建築物條例",
+        "屋宇署"
+      ]
+    },
+    "title": {
+      "en": "Government proposes tougher penalties for unauthorised building works, up to $600,000 and two years' jail",
+      "zh_hans": "政府拟修例重罚僭建物 严重个案最高罚60万囚两年 6.48万清拆令未遵办",
+      "zh_hant": "政府擬修例重罰僭建物 嚴重個案最高罰60萬囚兩年 6.48萬清拆令未遵辦"
+    },
+    "image_r2_key": "design/202611/20261120-unauthorised-building-works-penalty-hike-600k-fine-v2.jpg"
+  },
+  {
     "category": "china",
     "id": "20261120-xi-meets-anwar-malaysia-strategic-cooperation",
     "image_r2_key": "design/202611/20261120-xi-meets-anwar-malaysia-strategic-cooperation.jpg",
@@ -569,6 +1185,44 @@
       "zh_hans": "习近平晤安华：中马深化高水平战略协作 做大做优农产品贸易",
       "zh_hant": "習近平晤安華：中馬深化高水平戰略協作 做大做優農產品貿易"
     }
+  },
+  {
+    "category": "hk",
+    "id": "20261120-sham-shui-po-suspicious-item-eod-called",
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-sham-shui-po-suspicious-item-eod-called-v2.jpg",
+    "published_at": "2026-11-20T15:28:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878598-20261120.htm"
+    },
+    "summary": {
+      "en": "A suspicious item was found at a construction site opposite Sham Shui Po Sports Ground at about noon today, and officers from the Explosive Ordnance Disposal Bureau attended to investigate. Police received a report from site staff at nearly 1pm; officers found a suspicious item about 200 millimetres long and 60 millimetres wide. The incident is under further investigation.",
+      "zh_hans": "深水埗运动场对开一个地盘今日中午发现可疑物品，爆炸品处理课人员到场调查。警方中午近1时接获地盘职员报案，指在上址发现可疑物品，爆炸品处理课人员到场后发现一个长约200毫米、阔约60毫米的可疑物品，事件有待进一步调查。",
+      "zh_hant": "深水埗運動場對開一個地盤今日中午發現可疑物品，爆炸品處理課人員到場調查。警方中午近1時接獲地盤職員報案，指在上址發現可疑物品，爆炸品處理課人員到場後發現一個長約200毫米、闊約60毫米的可疑物品，事件有待進一步調查。"
+    },
+    "tags": {
+      "en": [
+        "Sham Shui Po",
+        "Suspicious item",
+        "Explosive Ordnance Disposal"
+      ],
+      "zh_hans": [
+        "深水埗",
+        "可疑物品",
+        "爆炸品处理课"
+      ],
+      "zh_hant": [
+        "深水埗",
+        "可疑物品",
+        "爆炸品處理課"
+      ]
+    },
+    "title": {
+      "en": "Suspicious item found at Sham Shui Po construction site; bomb disposal called in",
+      "zh_hans": "深水埗地盘发现可疑物品 拆弹专家到场 长约20厘米",
+      "zh_hant": "深水埗地盤發現可疑物品 拆彈專家到場 長約20厘米"
+    },
+    "image_r2_key": "design/202611/20261120-sham-shui-po-suspicious-item-eod-called-v2.jpg"
   },
   {
     "category": "china",
@@ -645,6 +1299,45 @@
       "zh_hans": "公屋轮候时间跌至4.4年 十年新低 较高峰缩短1.7年",
       "zh_hant": "公屋輪候時間跌至4.4年 十年新低 較高峰縮短1.7年"
     }
+  },
+  {
+    "category": "hk",
+    "id": "20261120-sham-shui-po-wwii-mortar-shell-eod",
+    "published_at": "2026-11-20T14:41:00+08:00",
+    "source": {
+      "name": "香港01",
+      "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413111/%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%81%8B%E5%8B%95%E5%A0%B4%E5%A4%96%E5%9C%B0%E7%9B%A4-%E7%99%BC%E7%8F%BE%E4%BA%8C%E6%88%B0%E8%8B%B1%E5%BC%8F%E8%BF%AB%E6%93%8A%E7%A0%B2%E5%BD%88-eod%E6%AA%A2%E8%B5%B0%E5%AE%89%E5%85%A8%E8%99%95%E7%90%86"
+    },
+    "summary": {
+      "en": "A Second World War British mortar shell was unearthed at a construction site outside Sham Shui Po Sports Ground today. A worker reported at 12:58pm that a suspicious object had been found and could be an explosive. Police arrived and found a WWII-era British mortar shell about 24cm long and 5cm in diameter. Explosive Ordnance Disposal officers examined it and confirmed there were no explosives inside, before removing it and destroying it safely. No one was injured and the scene was later reopened. The site is part of the Urban Renewal Authority's Cheung Wah Street / Cheung Sha Wan Road redevelopment project.",
+      "zh_hans": "深水埗运动场对开一个地盘今日中午发现战时迫击炮弹。工人于中午12时58分报案，指发现可疑物体，怀疑是爆炸品。警方到场后发现一枚二战时期英式迫击炮弹，长约24厘米，直径约5厘米，爆炸品处理课人员到场调查，证实炮弹内没有残余炸药，其后将其销毁及安全处理。事件中无人受伤，现场其后解封。该地盘是市建局昌华街／长沙湾道重建项目工地。",
+      "zh_hant": "深水埗運動場對開一個地盤今日中午發現戰時迫擊砲彈。工人於中午12時58分報案，指發現可疑物體，懷疑是爆炸品。警方到場後發現一枚二戰時期英式迫擊砲彈，長約24厘米，直徑約5厘米，爆炸品處理課人員到場調查，證實砲彈內沒有殘餘炸藥，其後將其銷毀及安全處理。事件中無人受傷，現場其後解封。該地盤是市建局昌華街／長沙灣道重建項目工地。"
+    },
+    "tags": {
+      "en": [
+        "Mortar shell",
+        "Sham Shui Po",
+        "Explosive Ordnance Disposal"
+      ],
+      "zh_hans": [
+        "迫击炮弹",
+        "深水埗",
+        "爆炸品处理课"
+      ],
+      "zh_hant": [
+        "迫擊砲彈",
+        "深水埗",
+        "爆炸品處理課"
+      ]
+    },
+    "title": {
+      "en": "WWII British mortar shell unearthed at Sham Shui Po construction site, 24cm long with no explosives inside; EOD destroys it safely",
+      "zh_hans": "深水埗地盘挖出二战英式迫击炮弹 长24厘米无炸药 爆炸品处理课销毁",
+      "zh_hant": "深水埗地盤挖出二戰英式迫擊砲彈 長24厘米無炸藥 爆炸品處理課銷毀"
+    },
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-sham-shui-po-wwii-mortar-shell-eod-v2.jpg",
+    "image_prompt": "事實：深水埗地盤挖出二戰英式迫擊砲彈，長24厘米，內無炸藥，爆炸品處理課銷毀。場景：光猛日間地盤現場，圍封膠帶、警員及爆炸品處理課人員在場戒備，挖土機停在一旁，氣氛明亮專業，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，寫實、莊重專業。標題兩行大字直接壓喺畫面上面，第一行「深水埗地盤挖出二戰迫擊砲彈」白字，第二行「長24厘米無炸藥 專家銷毀」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261120-sham-shui-po-wwii-mortar-shell-eod-v2.jpg"
   },
   {
     "category": "finance",
@@ -727,6 +1420,44 @@
       "zh_hans": "16 部意大利经典下月登大银幕 《甜蜜生活》《美丽人生》领衔开锣",
       "zh_hant": "16 部意大利經典下月登大銀幕 《甜蜜生活》《美麗人生》領銜開鑼"
     }
+  },
+  {
+    "category": "hk",
+    "id": "20261120-drug-medical-device-supervision-centre-dec-first-tier",
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-drug-medical-device-supervision-centre-dec-first-tier-v2.jpg",
+    "published_at": "2026-11-20T14:09:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878588-20261120.htm"
+    },
+    "summary": {
+      "en": "Following Hong Kong, China's admission as a regulatory member of the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use, the \"Hong Kong Centre for Medical Products Regulation\" will formally open next month and recruit staff, with full first-tier approval — independently approving new drug registrations — targeted for 2030, possibly sooner if talent, support and experience allow. Assistant Director of Health Dr Tony Chan said five letters of intent have been received since the first phase of first-tier approval began, from the mainland and overseas, and are being assessed. Director of the centre Li Zili said he hopes joining the council will speed up drug approvals and build the centre into a modern, internationally trusted regulator.",
+      "zh_hans": "中国香港正式加入「国际人用人药品注册技术协调会」成为监管机构成员后，下月将正式成立「香港药物及医疗器械监督管理中心」，并陆续招聘所需人员，预期2030年全面推行第一层审批，即自主审批新药注册，如有足够人才和配套，加上经验累积，不排除提前做到。卫生署助理署长陈凌峰表示，第一层审批开展首阶段以来已接获5份意向书，来自内地与海外，当局正进行审评。药物及医疗器械监督管理总监李自力期望，加入协调会后加快药物审批时间，把中心建设成为能力全面、国际公信力强的现代化药监机构。",
+      "zh_hant": "中國香港正式加入「國際人用藥品註冊技術協調會」成為監管機構成員後，下月將正式成立「香港藥物及醫療器械監督管理中心」，並陸續招聘所需人員，預期2030年全面推行第一層審批，即自主審批新藥註冊，如有足夠人才和配套，加上經驗累積，不排除提前做到。衞生署助理署長陳凌峯表示，第一層審批開展首階段以來已接獲5份意向書，來自內地與海外，當局正進行審評。藥物及醫療器械監督管理總監李自力期望，加入協調會後加快藥物審批時間，把中心建設成為能力全面、國際公信力強的現代化藥監機構。"
+    },
+    "tags": {
+      "en": [
+        "Drug regulation",
+        "ICH",
+        "New drug approval"
+      ],
+      "zh_hans": [
+        "药物监管",
+        "ICH",
+        "新药审批"
+      ],
+      "zh_hant": [
+        "藥物監管",
+        "ICH",
+        "新藥審批"
+      ]
+    },
+    "title": {
+      "en": "Hong Kong drug and medical device supervision centre to open next month, targeting first-tier approval by 2030",
+      "zh_hans": "香港药械监管中心下月成立 目标2030年自主审批新药 首层审批接5意向书",
+      "zh_hant": "香港藥械監管中心下月成立 目標2030年自主審批新藥 首層審批接5意向書"
+    },
+    "image_r2_key": "design/202611/20261120-drug-medical-device-supervision-centre-dec-first-tier-v2.jpg"
   },
   {
     "caption": "財政司司長陳茂波在加拿大印太商業峰會致辭。（政府新聞處）",
@@ -975,6 +1706,45 @@
       "zh_hans": "电动车电池回收征费每公斤 6 元 目标 2029 年全面推行",
       "zh_hant": "電動車電池回收徵費每公斤 6 元 目標 2029 年全面推行"
     }
+  },
+  {
+    "category": "hk",
+    "id": "20261120-yoga-instructor-murder-ex-boyfriend-life-sentence",
+    "published_at": "2026-11-20T11:58:00+08:00",
+    "source": {
+      "name": "明報",
+      "url": "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20261120/s00001/1795145957282/%e7%91%9c%e4%bc%bd%e5%b0%8e%e5%b8%ab%e8%a2%ab%e6%ae%ba%e6%a1%88%e5%89%8d%e7%94%b7%e5%8f%8b%e8%ac%80%e6%ae%ba%e7%bd%aa%e6%88%90-%e5%88%a4%e5%9b%9a%e7%b5%82%e8%ba%ab"
+    },
+    "summary": {
+      "en": "Yoga instructor Chow Wai-yin, 23, was found dead in a hotel room bathtub in Tsim Sha Tsui four years ago with about 42 stab wounds. Her ex-boyfriend, Lo Chun-ming, was charged with murder, and a jury unanimously convicted him yesterday. The case was sentenced at the High Court today. Judge Albert Kwok said the defendant killed the victim in the cruellest way, and that she must have suffered terribly and been extremely frightened before she died; every stab carried anger, with the deepest wound reaching 15cm, showing the killing was premeditated. He imposed the mandatory life sentence. In a mitigation letter the defendant called the victim the woman he loved most; the judge said that if he truly loved her, he should have let her go.",
+      "zh_hans": "23岁女瑜伽导师周慧贤4年前在尖沙咀一间酒店房间浴缸内被发现身中约42处刀伤身亡，前男友劳浚铭被控一项谋杀罪。陪审团昨日一致裁定被告谋杀罪成，案件今日在高等法院判刑。法官郭启安指被告用最残忍的手段杀害死者，死者死前必然十分痛苦及极度恐惧，每刀都带着愤怒，最深一刀长达15厘米，反映被告早有预谋，依例判处终身监禁。被告在求情信中称死者是他最深爱的女人，法官指若然深爱，应该放手。",
+      "zh_hant": "23歲女瑜伽導師周慧賢4年前在尖沙咀一間酒店房間浴缸內被發現身中約42處刀傷身亡，前男友勞浚銘被控一項謀殺罪。陪審團昨日一致裁定被告謀殺罪成，案件今日在高等法院判刑。法官郭啟安指被告用最殘忍的手段殺害死者，死者死前必然十分痛苦及極度恐懼，每刀都帶着憤怒，最深一刀長達15厘米，反映被告早有預謀，依例判處終身監禁。被告在求情信中稱死者是他最深愛的女人，法官指若然深愛，應該放手。"
+    },
+    "tags": {
+      "en": [
+        "Yoga instructor",
+        "Murder case",
+        "Life sentence"
+      ],
+      "zh_hans": [
+        "瑜伽导师",
+        "谋杀案",
+        "终身监禁"
+      ],
+      "zh_hant": [
+        "瑜伽導師",
+        "謀殺案",
+        "終身監禁"
+      ]
+    },
+    "title": {
+      "en": "Ex-boyfriend jailed for life for murdering yoga instructor in hotel room; judge says every stab carried anger",
+      "zh_hans": "瑜伽导师酒店被杀案 前男友谋杀罪成判囚终身 官斥每刀带愤怒",
+      "zh_hant": "瑜伽導師酒店被殺案 前男友謀殺罪成判囚終身 官斥每刀帶憤怒"
+    },
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-yoga-instructor-murder-ex-boyfriend-life-sentence-v2.jpg",
+    "image_prompt": "事實：瑜伽導師酒店被殺案，前男友謀殺罪成判囚終身，法官斥每刀帶憤怒。場景：光猛日間高等法院大樓外觀，莊嚴肅穆，藍天白雲，唔用黑沉夜景。風格：電視新聞圖卡風格，16:9，寫實、莊重專業。標題兩行大字直接壓喺畫面上面，第一行「瑜伽導師被殺案」白字，第二行「前男友謀殺罪成 判囚終身」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。唔可以描繪死者或被告人臉，用法院大樓做主體。",
+    "image_r2_key": "design/202611/20261120-yoga-instructor-murder-ex-boyfriend-life-sentence-v2.jpg"
   },
   {
     "category": "world",
@@ -1662,6 +2432,44 @@
     }
   },
   {
+    "category": "world",
+    "id": "20261120-icj-myanmar-rohingya-genocide",
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-icj-myanmar-rohingya-genocide-v2.jpg",
+    "published_at": "2026-11-20T06:39:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878530-20261120.htm"
+    },
+    "summary": {
+      "en": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya minority in its 2017 crackdown, the first time the United Nations' highest court has found a sovereign state guilty of genocide. The court detailed atrocities including security forces killing thousands of civilians, widespread sexual violence against women and extreme violence against children, and ordered Myanmar to allow and assist those who fled to return home safely, voluntarily and with dignity, and to investigate and punish those responsible, with compensation to be decided later. Human rights groups and Rohingya communities welcomed the ruling; Britain's foreign secretary announced the expulsion of Myanmar's military attache in London, summoned its charge d'affaires and foreshadowed further sanctions in the coming days.",
+      "zh_hans": "国际法院裁定，缅甸在2017年镇压行动中对境内罗兴亚少数族群犯下种族灭绝罪行，是联合国最高司法机构首次认定一个主权国家犯下种族灭绝。法院详述缅甸对罗兴亚少数族群的暴行，包括安全部队杀害以千计平民，对妇女实施广泛性暴力，并对儿童施加极端暴力；法院下令缅甸必须批准并协助因暴力逃离家园的民众安全、自愿并有尊严地返回原居地，调查及惩处涉事者，赔偿问题将于日后决定。多个人权组织及罗兴亚社群欢迎裁决；英国外相宣布驱逐缅甸驻英武官，并传召缅甸临时代办，预告未来几日会有进一步制裁行动。",
+      "zh_hant": "國際法院裁定，緬甸在2017年鎮壓行動中對境內羅興亞少數族群犯下種族滅絕罪行，是聯合國最高司法機構首次認定一個主權國家犯下種族滅絕。法院詳述緬甸對羅興亞少數族群的暴行，包括安全部隊殺害以千計平民，對婦女實施廣泛性暴力，並對兒童施加極端暴力；法院下令緬甸必須批准並協助因暴力逃離家園的民眾安全、自願並有尊嚴地返回原居地，調查及懲處涉事者，賠償問題將於日後決定。多個人權組織及羅興亞社群歡迎裁決；英國外相宣布驅逐緬甸駐英武官，並傳召緬甸臨時代辦，預告未來幾日會有進一步制裁行動。"
+    },
+    "tags": {
+      "en": [
+        "International Court of Justice",
+        "Myanmar",
+        "Rohingya"
+      ],
+      "zh_hans": [
+        "国际法院",
+        "缅甸",
+        "罗兴亚人"
+      ],
+      "zh_hant": [
+        "國際法院",
+        "緬甸",
+        "羅興亞人"
+      ]
+    },
+    "title": {
+      "en": "ICJ rules Myanmar committed genocide against Rohingya in first such finding against a sovereign state",
+      "zh_hans": "国际法院首裁主权国家犯种族灭绝 缅甸须助罗兴亚人返家 英驱逐缅武官",
+      "zh_hant": "國際法院首裁主權國家犯種族滅絕 緬甸須助羅興亞人返家 英驅逐緬武官"
+    },
+    "image_r2_key": "design/202611/20261120-icj-myanmar-rohingya-genocide-v2.jpg"
+  },
+  {
     "card_time": "06:27",
     "category": "finance",
     "id": "20261120-gold-tests-3600-14-month-low",
@@ -2125,793 +2933,6 @@
       "en": "Andy Hui closes TVB's 59th anniversary gala as Kenneth Ma deftly avoids sharing the stage, while Ngan Chi-hang wins the HK$450,000 grand prize",
       "zh_hans": "许志安台庆压轴献唱 马国明巧妙「神隐」避同框 颜志恒赢 45 万大奖",
       "zh_hant": "許志安台慶壓軸獻唱 馬國明巧妙「神隱」避同框 顏志恒贏 45 萬大獎"
-    }
-  },
-  {
-    "category": "hk",
-    "id": "20261120-govt-rejects-uscc-report-slams-smears",
-    "published_at": "2026-11-20T21:41:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000803.htm"
-    },
-    "summary": {
-      "en": "The HKSAR Government today issued a statement strongly condemning and firmly refuting the 2026 report of the United States-China Economic and Security Review Commission, calling its contents untrue and biased, smearing \"One Country, Two Systems\" and Hong Kong's national security laws, and interfering in Hong Kong affairs. The Government reiterated that Hong Kong is an inalienable part of China, enjoying a high degree of autonomy under \"One Country, Two Systems\", with residents' rights protected by the Constitution and the Basic Law, an independent judiciary and a solid rule of law. The statement also rebutted the report's claims on the Lai Chee-ying case, the Hong Kong Alliance case and the Wong Chi-fung case one by one, stressing the courts decided each strictly on the evidence and the law, with Wong sentenced to 10 years' imprisonment after pleading guilty. The Government urged the US to stop interfering in Hong Kong affairs, noting the US has run a trade surplus of more than US$250 billion with Hong Kong over the past decade and about 1,550 US companies operate in the city.",
-      "zh_hans": "特区政府今日发表声明，强烈谴责并坚决反驳美国国会美中经济与安全审查委员会发表的2026年度报告，批评报告内容失实偏颇，抹黑「一国两制」及香港维护国家安全的法例，干预香港事务。政府重申香港是中华人民共和国不可分离的部分，在「一国两制」下享有高度自治，市民权利受《宪法》及《基本法》保障，司法独立及法治稳固。声明又就黎智英案、支联会案及黄之锋案逐一反驳，强调法庭均严格按照证据及法律判案，其中黄之锋认罪后被判监10年。政府敦促美方停止干预香港事务，又指美国过去10年在港享有逾2,500亿美元贸易顺差，约1,550间美资企业在港经营。",
-      "zh_hant": "特區政府今日發表聲明，強烈譴責並堅決反駁美國國會美中經濟與安全審查委員會發表的2026年度報告，批評報告內容失實偏頗，抹黑「一國兩制」及香港維護國家安全的法例，干預香港事務。政府重申香港是中華人民共和國不可分離的部分，在「一國兩制」下享有高度自治，市民權利受《憲法》及《基本法》保障，司法獨立及法治穩固。聲明又就黎智英案、支聯會案及黃之鋒案逐一反駁，強調法庭均嚴格按照證據及法律判案，其中黃之鋒認罪後被判監10年。政府敦促美方停止干預香港事務，又指美國過去10年在港享有逾2,500億美元貿易順差，約1,550間美資企業在港經營。"
-    },
-    "tags": {
-      "en": [
-        "US-China Economic and Security Review Commission",
-        "One Country Two Systems",
-        "Hong Kong affairs"
-      ],
-      "zh_hans": [
-        "美中经济与安全审查委员会",
-        "一国两制",
-        "香港事务"
-      ],
-      "zh_hant": [
-        "美中經濟與安全審查委員會",
-        "一國兩制",
-        "香港事務"
-      ]
-    },
-    "title": {
-      "en": "HKSAR Government strongly rejects US commission report, slams biased smears and interference in Hong Kong affairs",
-      "zh_hans": "特区政府强烈反驳美方报告 斥失实抹黑干预香港事务",
-      "zh_hant": "特區政府強烈反駁美方報告 斥失實抹黑干預香港事務"
-    },
-    "image_url": "",
-    "image_prompt": "事實：特區政府強烈反駁美中經濟與安全審查委員會2026年度報告，斥失實偏頗、干預香港事務。場景：光猛日間政府總部大樓外觀，藍天白雲，莊嚴肅穆，唔用黑沉夜景。風格：電視新聞圖卡風格，16:9，寫實、莊重專業。標題兩行大字直接壓喺畫面上面，第一行「特區政府強烈反駁美方報告」白字，第二行「斥失實抹黑干預香港事務」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "finance",
-    "id": "20261120-hkex-paperless-securities-five-firms",
-    "published_at": "2026-11-20T21:23:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878644-20261120.htm"
-    },
-    "summary": {
-      "en": "Hong Kong's uncertificated securities market regime took effect this week, and HKEX has updated the list of securities expected to join the paperless system, with the first batch covering five listed companies: HKEX, Television Broadcasts (TVB), China Resources Power, Xiang China International and Min Xin Group. HKEX shares will join the paperless system from February 16 next year, while China Resources Power and Xiang China International will join in March. Under HKEX guidance, listed shares must join the paperless system within five years from November 16, 2026, but investors do not need to rush to convert physical certificates and should watch for announcements from the companies they hold. Investors may open a USI (Uncertificated Securities Market) account with an approved share registrar to hold and manage shares electronically in their own names.",
-      "zh_hans": "香港无纸证券市场制度本周一起实施，港交所网站更新预计参与无纸证券市场的证券名单，首批涉及5间上市公司，包括港交所、无线集团、华润电力、向中国际及闽信集团。港交所股份将于明年2月16日起参与无纸化证券；华润电力及向中国际将于明年3月参与。根据港交所提供的投资者指引，已上市股票须于2026年11月16日起的五年内参与无纸证券市场，投资者目前毋须急于将实物股票无纸化，应留意持有股份的上市公司公告。投资者可选择透过核准证券登记机构开立「持股易」户口，将实物股票转为无纸形式，以自己名义及电子方式持有和管理证券。",
-      "zh_hant": "香港無紙證券市場制度本周一起實施，港交所網站更新預計參與無紙證券市場的證券名單，首批涉及5間上市公司，包括港交所、無綫集團、華潤電力、向中國際及閩信集團。港交所股份將於明年2月16日起參與無紙化證券；華潤電力及向中國際將於明年3月參與。根據港交所提供的投資者指引，已上市股票須於2026年11月16日起的五年內參與無紙證券市場，投資者目前毋須急於將實物股票無紙化，應留意持有股份的上市公司公告。投資者可選擇透過核准證券登記機構開立「持股易」戶口，將實物股票轉為無紙形式，以自己名義及電子方式持有和管理證券。"
-    },
-    "tags": {
-      "en": [
-        "Paperless securities",
-        "HKEX",
-        "TVB"
-      ],
-      "zh_hans": [
-        "无纸证券",
-        "港交所",
-        "无线"
-      ],
-      "zh_hant": [
-        "無紙證券",
-        "港交所",
-        "無綫"
-      ]
-    },
-    "title": {
-      "en": "HKEX unveils first paperless securities list as bourse operator leads the way in February, five firms to join in phases",
-      "zh_hans": "港股无纸化首批名单出炉 港交所明年2月打头阵 5间公司分阶段参与",
-      "zh_hant": "港股無紙化首批名單出爐 港交所明年2月打頭陣 5間公司分階段參與"
-    },
-    "image_url": "",
-    "image_prompt": "事實：港股無紙化首批5間公司名單出爐，港交所明年2月16日打頭陣，無綫、華潤電力等明年3月跟隨。場景：光猛日間交易大堂，陽光灑入，電子屏幕顯示股價走勢，交易員背影忙碌，氣氛明亮有朝氣，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，明亮通透。標題兩行大字直接壓喺畫面上面，第一行「港股無紙化首批名單出爐」白字，第二行「港交所明年2月打頭陣」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "entertainment",
-    "id": "20261120-detour-2026-design-festival-pmq-opens",
-    "published_at": "2026-11-20T19:33:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000726.htm"
-    },
-    "summary": {
-      "en": "Under Secretary for Culture, Sports and Tourism Raistlin Lau officiated at the opening of the deTour 2026 Design Festival at PMQ tonight. Themed \"BETTER, NOT PERFECT: Prototypes for Tomorrow\", the festival runs for 10 days until November 29, featuring 14 avant-garde works by creators from Hong Kong, the mainland and overseas across three curated zones, plus a pop-up store for the first time. Since its launch in 2014, deTour has drawn more than 1.3 million visitors and brought together over 220 local and overseas design units.",
-      "zh_hans": "文化体育及旅游局副局长刘震今晚主持PMQ元创方deTour 2026设计节开幕礼。今年设计节以「BETTER, NOT PERFECT: Prototypes for Tomorrow」为主题，展期10日至11月29日，展出14件来自香港、内地及海外创作者的前卫作品，分布于三个策展区域，并首次设立快闪店。deTour自2014年推出以来已吸引逾130万名访客，汇聚逾220个本地及海外设计单位。",
-      "zh_hant": "文化體育及旅遊局副局長劉震今晚主持PMQ元創方deTour 2026設計節開幕禮。今年設計節以「BETTER, NOT PERFECT: Prototypes for Tomorrow」為主題，展期10日至11月29日，展出14件來自香港、內地及海外創作者的前衛作品，分佈於三個策展區域，並首次設立快閃店。deTour自2014年推出以來已吸引逾130萬名訪客，匯聚逾220個本地及海外設計單位。"
-    },
-    "tags": {
-      "en": [
-        "deTour",
-        "Design festival",
-        "PMQ"
-      ],
-      "zh_hans": [
-        "deTour",
-        "设计节",
-        "PMQ"
-      ],
-      "zh_hant": [
-        "deTour",
-        "設計節",
-        "PMQ"
-      ]
-    },
-    "title": {
-      "en": "deTour 2026 design festival opens at PMQ with 14 avant-garde works on show until November 29",
-      "zh_hans": "deTour 2026设计节PMQ开幕 14件前卫作品展出 展期至11月29日",
-      "zh_hant": "deTour 2026設計節PMQ開幕 14件前衛作品展出 展期至11月29日"
-    },
-    "image_url": "",
-    "image_prompt": "事實：deTour 2026設計節在PMQ元創方開幕，14件前衛作品展出，展期至11月29日。場景：光猛明亮的設計節展覽空間，陽光灑入，色彩繽紛的前衛裝置藝術、參觀者駐足欣賞，充滿創意活力，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，明亮通透、有朝氣，唔用黑沉夜景。標題兩行大字直接壓喺畫面上面，第一行「deTour設計節開幕」白字，第二行「14件前衛作品 展至11月29日」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261120-north-point-community-living-room-opens-10th-this-year",
-    "published_at": "2026-11-20T19:26:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_192625_378.html"
-    },
-    "summary": {
-      "en": "The North Point Community Living Room opened today, the 10th such facility to start service this year. Chief Secretary Eric Chan, officiating at the opening ceremony, said the living room has a usable area of about 2,400 sq ft and is expected to serve 270 subdivided-unit households, with 43,000 visits a year. The Eastern District has the most subdivided units on Hong Kong Island; following the Shau Kei Wan living room that opened in March last year, the North Point facility will offer more support to residents in need. Members can cook, dine and join activities there, while social workers will proactively reach out to high-risk families.",
-      "zh_hans": "北角社区客厅今日开幕，是今年第10间投入服务的社区客厅。政务司司长陈国基主持开幕礼时表示，客厅实用面积约2,400平方呎，预计可服务270个劏房户，全年服务43,000人次。东区是港岛最多劏房的地区，继去年3月筲箕湾社区客厅后，北角社区客厅可进一步为区内有需要市民提供服务，会员可在客厅煮食、用膳、参与活动，社工亦会主动接触高风险家庭提供支援。",
-      "zh_hant": "北角社區客廳今日開幕，是今年第10間投入服務的社區客廳。政務司司長陳國基主持開幕禮時表示，客廳實用面積約2,400平方呎，預計可服務270個劏房戶，全年服務43,000人次。東區是港島最多劏房的地區，繼去年3月筲箕灣社區客廳後，北角社區客廳可進一步為區內有需要市民提供服務，會員可在客廳煮食、用膳、參與活動，社工亦會主動接觸高風險家庭提供支援。"
-    },
-    "tags": {
-      "en": [
-        "Community living room",
-        "North Point",
-        "Subdivided units"
-      ],
-      "zh_hans": [
-        "社区客厅",
-        "北角",
-        "劏房户"
-      ],
-      "zh_hant": [
-        "社區客廳",
-        "北角",
-        "劏房戶"
-      ]
-    },
-    "title": {
-      "en": "North Point community living room opens as 10th this year, set to serve 270 subdivided-unit households",
-      "zh_hans": "北角社区客厅开幕 今年第10间 预计服务270个劏房户",
-      "zh_hant": "北角社區客廳開幕 今年第10間 預計服務270劏房戶"
-    },
-    "image_url": "",
-    "image_prompt": "事實：北角社區客廳開幕，今年第10間投入服務，預計服務270個劏房戶，全年服務43,000人次。場景：光猛溫暖的社區客廳室內，陽光從大窗灑入，木色桌椅、兒童遊戲區、媽媽們圍坐縫製手作、街坊一起準備小食，氣氛和諧有人情味，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，明亮通透、陽光感、朝氣，唔用黑沉夜景。標題兩行大字直接壓喺畫面上面，第一行「北角社區客廳開幕」白字，第二行「今年第10間 270劏房戶受惠」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261120-cold-weather-warning-lowest-12-7-degrees-18-shelters",
-    "image_url": "",
-    "published_at": "2026-11-20T18:37:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878625-20261120.htm"
-    },
-    "summary": {
-      "en": "A strong northeast monsoon has driven temperatures sharply down, with the Observatory recording a low of 12.7°C as of 4pm today — the lowest since autumn — while the Cold Weather Warning and the Strong Monsoon Signal are in force. Urban temperatures are expected to fall to about 13°C tonight and tomorrow, a few degrees lower in the New Territories, before recovering to around 21°C during the day tomorrow, with a slight rebound over the next day or two and another drop mid-next week. The Home Affairs Department has opened 18 temporary cold shelters, which stay open while the Cold Weather Warning is in force and provide free bedding, hot meals and hot water; the public can call 2572 8427 for enquiries.",
-      "zh_hans": "受强烈东北季候风影响，本港气温显著下降，天文台截至今日下午4时录得最低气温12.7度，是入秋以来最低纪录，寒冷天气警告及强烈季候风信号现正生效。天文台预计今晚及明日市区最低气温约13度，新界再低几度，明日日间最高气温回升至约21度，随后一两日气温略为回升，下周中期再度降温。民政事务总署已开放18间临时避寒中心，寒冷天气警告生效期间维持开放，免费提供被铺、热食及热水，有需要市民可致电热线2572 8427查询。",
-      "zh_hant": "受強烈東北季候風影響，本港氣溫顯著下降，天文台截至今日下午4時錄得最低氣溫12.7度，是入秋以來最低紀錄，寒冷天氣警告及強烈季候風信號現正生效。天文台預計今晚及明日市區最低氣溫約13度，新界再低幾度，明日日間最高氣溫回升至約21度，隨後一兩日氣溫略為回升，下周中期再度降溫。民政事務總署已開放18間臨時避寒中心，寒冷天氣警告生效期間維持開放，免費提供被鋪、熱食及熱水，有需要市民可致電熱線2572 8427查詢。"
-    },
-    "tags": {
-      "en": [
-        "Cold Weather Warning",
-        "Observatory",
-        "Cold shelters"
-      ],
-      "zh_hans": [
-        "寒冷天气警告",
-        "天文台",
-        "避寒中心"
-      ],
-      "zh_hant": [
-        "寒冷天氣警告",
-        "天文台",
-        "避寒中心"
-      ]
-    },
-    "title": {
-      "en": "Coldest since autumn at 12.7°C as cold weather warning takes effect; 18 temporary shelters open",
-      "zh_hans": "入秋最冻12.7度！寒冷天气警告生效 18间避寒中心开放",
-      "zh_hant": "入秋最凍12.7度！寒冷天氣警告生效 18間避寒中心開放"
-    }
-  },
-  {
-    "category": "china",
-    "id": "20261120-mfa-urges-japan-correct-taiwan-remarks",
-    "image_url": "",
-    "published_at": "2026-11-20T17:56:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878619-20261120.htm"
-    },
-    "summary": {
-      "en": "Foreign ministry spokesman Guo Jiakun told a regular press briefing that for Japan, the urgent task is to correct erroneous words and deeds on the Taiwan question as soon as possible, the important thing is to adopt a correct attitude on historical issues, and the fundamental thing is to be truly objective and rational in its perception of China. Responding to questions about Japanese Prime Minister Sanae Takaichi's latest remarks on Taiwan and Japan's history at the APEC meeting, Guo said abiding by the four political documents between China and Japan is a political responsibility and legal obligation Japan must fulfil, which should be reflected not only in words but also in actions.",
-      "zh_hans": "外交部发言人郭嘉昆在例行记者会表示，对日方而言，当前紧迫的是在台湾问题上尽快纠正错误言行，重要的是在历史问题上采取正确态度，根本的是在对华认知上真正做到客观理性。对于日本首相高市早苗在亚太经合组织会议上有关台湾问题和日本历史问题的最新表态，郭嘉昆回应有关提问时说，恪守中日四个政治文件是日方必须履行的政治责任和法律义务，不仅应体现在表态上，更要落实到行动上。",
-      "zh_hant": "外交部發言人郭嘉昆在例行記者會表示，對日方而言，當前緊迫的是在台灣問題上盡快糾正錯誤言行，重要的是在歷史問題上採取正確態度，根本的是在對華認知上真正做到客觀理性。對於日本首相高市早苗在亞太經合組織會議上有關台灣問題和日本歷史問題的最新表態，郭嘉昆回應有關提問時說，恪守中日四個政治文件是日方必須履行的政治責任和法律義務，不僅應體現在表態上，更要落實到行動上。"
-    },
-    "tags": {
-      "en": [
-        "Foreign ministry",
-        "Taiwan question",
-        "Japan"
-      ],
-      "zh_hans": [
-        "外交部",
-        "台湾问题",
-        "日本"
-      ],
-      "zh_hant": [
-        "外交部",
-        "台灣問題",
-        "日本"
-      ]
-    },
-    "title": {
-      "en": "Foreign ministry urges Japan to correct erroneous words and deeds on Taiwan without delay",
-      "zh_hans": "外交部促日方尽快纠正台湾问题错误言行 恪守四个政治文件",
-      "zh_hant": "外交部促日方盡快糾正台灣問題錯誤言行 恪守四個政治文件"
-    }
-  },
-  {
-    "category": "hk",
-    "id": "20261120-dengue-chikungunya-imported-cases",
-    "published_at": "2026-11-20T17:45:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000623.htm"
-    },
-    "summary": {
-      "en": "The Centre for Health Protection announced today that from November 13 to 19, Hong Kong recorded two imported dengue fever cases, with the patients having visited Vietnam and Cambodia respectively during the incubation period, and one imported chikungunya fever case involving a 71-year-old man who had visited the mainland and is now in stable condition. Hong Kong has recorded 42 dengue cases so far this year, comprising 40 imported and two local cases, and nine confirmed chikungunya cases, including eight imported and one local. The Centre reminded the public to guard against mosquito bites and clear stagnant water, both at home and when travelling, and to use DEET-containing insect repellents properly.",
-      "zh_hans": "卫生署卫生防护中心今日公布，由11月13日至19日，本港录得两宗外地传入的登革热感染个案，病人潜伏期内分别到过越南及柬埔寨；同期亦录得一宗外地传入的基孔肯雅热个案，涉及一名71岁男子，潜伏期内曾到内地，现时情况稳定。本港今年至今累计录得42宗登革热个案，包括40宗外地传入及两宗本地感染；基孔肯雅热则累计9宗，包括8宗输入及1宗本地感染。中心提醒市民外游及在家居均应注意防蚊及清除积水，并正确使用含避蚊胺的驱蚊剂。",
-      "zh_hant": "衞生署衞生防護中心今日公布，由11月13日至19日，本港錄得兩宗外地傳入的登革熱感染個案，病人潛伏期內分別到過越南及柬埔寨；同期亦錄得一宗外地傳入的基孔肯雅熱個案，涉及一名71歲男子，潛伏期內曾到內地，現時情況穩定。本港今年至今累計錄得42宗登革熱個案，包括40宗外地傳入及兩宗本地感染；基孔肯雅熱則累計9宗，包括8宗輸入及1宗本地感染。中心提醒市民外遊及在家居均應注意防蚊及清除積水，並正確使用含避蚊胺的驅蚊劑。"
-    },
-    "tags": {
-      "en": [
-        "Dengue fever",
-        "Chikungunya fever",
-        "Centre for Health Protection"
-      ],
-      "zh_hans": [
-        "登革热",
-        "基孔肯雅热",
-        "卫生防护中心"
-      ],
-      "zh_hant": [
-        "登革熱",
-        "基孔肯雅熱",
-        "衞生防護中心"
-      ]
-    },
-    "title": {
-      "en": "Two imported dengue cases and one chikungunya case in a week, all imported; 42 dengue cases so far this year",
-      "zh_hans": "一周增两宗登革热一宗基孔肯雅热 全属外地传入 今年累计42宗",
-      "zh_hant": "一周增兩宗登革熱一宗基孔肯雅熱 全屬外地傳入 今年累計42宗"
-    },
-    "image_url": "",
-    "image_prompt": "事實：一周新增兩宗外地傳入登革熱及一宗基孔肯雅熱，市民外遊要防蚊。場景：光猛日間屋苑花園，陽光灑入，工作人員檢查花盆底積水、清理溝渠，蚊患防治宣傳，氣氛明亮有朝氣，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，明亮通透。標題兩行大字直接壓喺畫面上面，第一行「一周增兩宗登革熱一宗基孔肯雅熱」白字，第二行「全屬外地傳入 今年累計42宗」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261120-woman-jailed-six-months-alt-smoking-products",
-    "published_at": "2026-11-20T17:30:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000463.htm"
-    },
-    "summary": {
-      "en": "A woman was sentenced today at West Kowloon Magistrates' Courts to six months' imprisonment for illegally importing 38,000 alternative smoking products. The Department of Health's Tobacco and Alcohol Control Office was notified by Customs yesterday that the products had been intercepted in the luggage of the woman arriving from Japan, and immediately arrested and prosecuted her. Since September 19, when amendments to the Tobacco Control Legislation conferred arrest powers on tobacco control inspectors, the office has prosecuted 34 cases involving the importation of large quantities of alternative smoking products, with 37 people convicted and sentenced to between four weeks and eight months in prison. Under the Import and Export Ordinance, importing alternative smoking products carries a maximum penalty of a HK$2 million fine and seven years' imprisonment on indictment.",
-      "zh_hans": "一名女子因非法进口38,000支另类吸烟产品，今日在西九龙裁判法院被判即时监禁6个月。卫生署控烟酒办昨日接获海关通知，在该名由日本抵港的女子行李中检获该批另类烟，随即拘捕及检控。自今年9月19日《2025年控烟法例（修订）条例》赋予控烟酒办督察拘捕权以来，控烟酒办已就进口大量另类吸烟产品检控34宗案件，37人被定罪，判监4星期至8个月不等。根据《进出口条例》，进口另类烟经循公诉程序定罪，最高可判罚款200万元及监禁7年。",
-      "zh_hant": "一名女子因非法進口38,000支另類吸煙產品，今日在西九龍裁判法院被判即時監禁6個月。衞生署控煙酒辦昨日接獲海關通知，在該名由日本抵港的女子行李中檢獲該批另類煙，隨即拘捕及檢控。自今年9月19日《2025年控煙法例（修訂）條例》賦予控煙酒辦督察拘捕權以來，控煙酒辦已就進口大量另類吸煙產品檢控34宗案件，37人被定罪，判監4星期至8個月不等。根據《進出口條例》，進口另類煙經循公訴程序定罪，最高可判罰款200萬元及監禁7年。"
-    },
-    "tags": {
-      "en": [
-        "Alternative smoking products",
-        "Tobacco and Alcohol Control Office",
-        "Customs"
-      ],
-      "zh_hans": [
-        "另类吸烟产品",
-        "控烟酒办",
-        "海关"
-      ],
-      "zh_hant": [
-        "另類吸煙產品",
-        "控煙酒辦",
-        "海關"
-      ]
-    },
-    "title": {
-      "en": "Woman jailed six months for smuggling 38,000 alternative smoking products from Japan; tobacco control office has prosecuted 34 cases",
-      "zh_hans": "日本返港女行李藏3.8万支另类烟 判囚6个月 控烟酒办已检控34案",
-      "zh_hant": "日本返港女行李藏3.8萬支另類煙 判囚6個月 控煙酒辦已檢控34案"
-    },
-    "image_url": "",
-    "image_prompt": "事實：女子由日本返港行李藏3.8萬支另類煙，判囚6個月。場景：光猛日間機場入境大堂，海關人員檢查行李，X光機、行李輸送帶，氣氛明亮專業，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，寫實、莊重專業。標題兩行大字直接壓喺畫面上面，第一行「女行李藏3.8萬支另類煙」白字，第二行「判囚6個月 控煙酒辦已檢控34案」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。唔可以描繪被告人臉。"
-  },
-  {
-    "category": "hk",
-    "id": "20261120-yuen-long-meth-warehouse-27kg-12m-arrested",
-    "published_at": "2026-11-20T17:22:00+08:00",
-    "source": {
-      "name": "香港01",
-      "url": "https://global.hk01.com/突发/60413223/警八乡天水围搜寮屋捣两毒品仓-检-1200万冰毒-拘两尼日利亚男"
-    },
-    "summary": {
-      "en": "Narcotics Bureau officers raided a squatter hut in Pat Heung, Yuen Long, early this morning, arresting two men and seizing about 1kg of suspected methamphetamine and drug packaging tools. Officers then searched two drug warehouses in Kam Sheung Road's Ngau Keng and Tin Shui Wai's Shek Kong Tsuen, seizing about 26kg more of suspected methamphetamine. In total the operation netted about 27kg of suspected meth, with an estimated street value of about HK$12 million. The two arrested men, aged 34 and 39 and both Nigerian nationals holding recognisance forms, will be charged with three counts of trafficking in a dangerous drug and appear at Sha Tin Magistrates' Courts tomorrow.",
-      "zh_hans": "警方毒品调查科今日清晨在元朗八乡及天水围展开反毒品行动，突击搜查下輋一个寮屋单位，制服屋内两名男子，并在单位内检获一包重约1公斤的怀疑冰毒及毒品包装工具。其后人员再搜查两个分别位于锦上路牛径及天水围锡降村的毒品储存仓，在仓内合共检获约26公斤怀疑冰毒。行动中共检获约27公斤怀疑冰毒，总市值约1,200万元。两名34岁及39岁尼日利亚籍男子涉嫌贩运危险药物被捕，将被暂控三项贩运危险药物罪，明日在沙田裁判法院提堂。",
-      "zh_hant": "警方毒品調查科今日清晨在元朗八鄉及天水圍展開反毒品行動，突擊搜查下輋一個寮屋單位，制服屋內兩名男子，並在單位內檢獲一包重約1公斤的懷疑冰毒及毒品包裝工具。其後人員再搜查兩個分別位於錦上路牛徑及天水圍錫降村的毒品儲存倉，在倉內合共檢獲約26公斤懷疑冰毒。行動中共檢獲約27公斤懷疑冰毒，總市值約1,200萬元。兩名34歲及39歲尼日利亞籍男子涉嫌販運危險藥物被捕，將被暫控三項販運危險藥物罪，明日在沙田裁判法院提堂。"
-    },
-    "tags": {
-      "en": [
-        "Methamphetamine",
-        "Yuen Long",
-        "Narcotics Bureau"
-      ],
-      "zh_hans": [
-        "冰毒",
-        "元朗",
-        "毒品调查科"
-      ],
-      "zh_hant": [
-        "冰毒",
-        "元朗",
-        "毒品調查科"
-      ]
-    },
-    "title": {
-      "en": "Police raid two Yuen Long drug warehouses, seize 27kg of meth worth $12m; two Nigerian men to appear in court tomorrow",
-      "zh_hans": "警方捣元朗两毒品仓检27公斤冰毒值1200万 拘两尼日利亚汉明提堂",
-      "zh_hant": "警方搗元朗兩毒品倉檢27公斤冰毒值1200萬 拘兩尼日利亞漢明提堂"
-    },
-    "image_url": "",
-    "image_prompt": "事實：警方搗破元朗兩毒品倉，檢27公斤冰毒值1200萬，拘兩人。場景：光猛日間警方行動現場，警員在鄉村寮屋外搜查，證物袋、警車，氣氛明亮專業，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，寫實、莊重專業。標題兩行大字直接壓喺畫面上面，第一行「警方搗元朗兩毒品倉」白字，第二行「檢27公斤冰毒值1200萬」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。唔可以描繪被捕人士人臉。"
-  },
-  {
-    "category": "finance",
-    "id": "20261120-regina-ip-shk-independent-non-executive-director",
-    "image_url": "",
-    "published_at": "2026-11-20T17:16:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878613-20261120.htm"
-    },
-    "summary": {
-      "en": "Sun Hung Kai Properties has announced the appointment of Executive Council convenor Regina Ip as an independent non-executive director with immediate effect. Ip, who convenes the Executive Council, joins the developer's board as a new member.",
-      "zh_hans": "新鸿基地产公布，委任行政会议召集人叶刘淑仪为独立非执行董事，即日起生效。叶刘淑仪现任行政会议召集人，是新地董事会新成员。",
-      "zh_hant": "新鴻基地產公布，委任行政會議召集人葉劉淑儀為獨立非執行董事，即日起生效。葉劉淑儀現任行政會議召集人，是新地董事會新成員。"
-    },
-    "tags": {
-      "en": [
-        "Regina Ip",
-        "Sun Hung Kai Properties",
-        "Independent non-executive director"
-      ],
-      "zh_hans": [
-        "叶刘淑仪",
-        "新鸿基地产",
-        "独立非执行董事"
-      ],
-      "zh_hant": [
-        "葉劉淑儀",
-        "新鴻基地產",
-        "獨立非執行董事"
-      ]
-    },
-    "title": {
-      "en": "Regina Ip appointed independent non-executive director of Sun Hung Kai Properties with immediate effect",
-      "zh_hans": "叶刘淑仪获委任新地独立非执行董事 即日生效",
-      "zh_hant": "葉劉淑儀獲委任新地獨立非執行董事 即日生效"
-    }
-  },
-  {
-    "category": "finance",
-    "id": "20261120-virtual-asset-services-bill-gazetted-dec-2-first-reading",
-    "image_url": "",
-    "published_at": "2026-11-20T17:15:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000582.htm"
-    },
-    "summary": {
-      "en": "The Government gazetted the Virtual Asset Services Legislation (Amendment) Bill 2026 today, expanding the regulatory regime for virtual asset services to four additional types of services — dealing, advisory, management and custody — with providers required to be licensed by or registered with the Securities and Futures Commission and to pass a fit-and-proper test. Banks and stored value facility licensees regulated by the Hong Kong Monetary Authority must also register with the SFC if they offer virtual asset services in Hong Kong. The bill amends the Anti-Money Laundering and Counter-Terrorist Financing Ordinance and empowers the SFC and the HKMA to implement the regime; it will be introduced to the Legislative Council for first reading on December 2. Secretary for Financial Services and the Treasury Christopher Hui said the regime follows the \"same activity, same risks, same regulation\" principle and is a key step towards a world-leading digital asset regulatory regime.",
-      "zh_hans": "政府今日刊宪《2026年虚拟资产服务法例（修订）条例草案》，将虚拟资产服务监管制度扩大至交易、提供意见、管理及托管四类新增服务，相关服务提供者须向证监会领牌或注册，并须通过适当人选测试。受金管局监管的银行及储值支付工具持牌人如在港提供虚拟资产服务，亦须向证监会注册。条例草案将修订《打击洗钱及恐怖分子资金筹集条例》，并赋权证监会及金管局实施新制度，12月2日提交立法会首读。财经事务及库务局局长许正宇表示，新制度贯彻「相同活动、相同风险、相同监管」原则，是建立世界领先数码资产监管制度的关键一步。",
-      "zh_hant": "政府今日刊憲《2026年虛擬資產服務法例（修訂）條例草案》，將虛擬資產服務監管制度擴大至交易、提供意見、管理及託管四類新增服務，相關服務提供者須向證監會領牌或註冊，並須通過適當人選測試。受金管局監管的銀行及儲值支付工具持牌人如在港提供虛擬資產服務，亦須向證監會註冊。條例草案將修訂《打擊洗錢及恐怖分子資金籌集條例》，並賦權證監會及金管局實施新制度，12月2日提交立法會首讀。財經事務及庫務局局長許正宇表示，新制度貫徹「相同活動、相同風險、相同監管」原則，是建立世界領先數碼資產監管制度的關鍵一步。"
-    },
-    "tags": {
-      "en": [
-        "Virtual assets",
-        "SFC",
-        "Digital assets"
-      ],
-      "zh_hans": [
-        "虚拟资产",
-        "证监会",
-        "数字资产"
-      ],
-      "zh_hant": [
-        "虛擬資產",
-        "證監會",
-        "數碼資產"
-      ]
-    },
-    "title": {
-      "en": "Virtual asset regulation expands to four more services as amendment bill gazetted; first reading on December 2",
-      "zh_hans": "虚拟资产监管扩至交易托管四类服务 刊宪修例 12月2日首读",
-      "zh_hant": "虛擬資產監管擴至交易託管四類服務 刊憲修例 12月2日首讀"
-    }
-  },
-  {
-    "category": "finance",
-    "id": "20261120-ccl-down-0-66-pct-sixth-weekly-fall",
-    "image_url": "",
-    "published_at": "2026-11-20T17:11:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878606-20261120.htm"
-    },
-    "summary": {
-      "en": "The Centa-City Leading Index, which tracks Hong Kong second-hand home prices, fell 0.66% week on week to 157.56, a sixth consecutive weekly decline and a cumulative drop of 2.26% to a near six-month low. Prices of large estates and small-to-medium units both fell more than 0.7% to over six-month lows, while large units fell more than 0.4% to a near four-month low; all four districts fell, with the New Territories East down nearly 2.6%. Centaline Property said weak Hong Kong stocks and rising expectations of a December rate hike could push the index down another 1.6% by year-end, back to late-April levels.",
-      "zh_hans": "反映本港二手楼价走势的中原城市领先指数最新报157.56点，按周跌0.66%，连跌6个星期，累计回落2.26%，创近半年低位。大型屋苑和中小型单位楼价按周均跌逾0.7%，创逾半年低位；大型单位楼价跌逾0.4%，创近4个月低位；四区楼价全跌，新界东按周跌近2.6%。中原地产表示，受到港股下挫、12月加息预期升温等不利因素影响，CCL到年底前仍有约1.6%下跌空间，或重返4月底的水平。",
-      "zh_hant": "反映本港二手樓價走勢的中原城市領先指數最新報157.56點，按周跌0.66%，連跌6個星期，累計回落2.26%，創近半年低位。大型屋苑和中小型單位樓價按周均跌逾0.7%，創逾半年低位；大型單位樓價跌逾0.4%，創近4個月低位；四區樓價全跌，新界東按周跌近2.6%。中原地產表示，受到港股下挫、12月加息預期升溫等不利因素影響，CCL到年底前仍有約1.6%下跌空間，或重返4月底的水平。"
-    },
-    "tags": {
-      "en": [
-        "Second-hand home prices",
-        "CCL",
-        "Centa-City Leading Index"
-      ],
-      "zh_hans": [
-        "二手楼价",
-        "CCL",
-        "中原城市领先指数"
-      ],
-      "zh_hant": [
-        "二手樓價",
-        "CCL",
-        "中原城市領先指數"
-      ]
-    },
-    "title": {
-      "en": "Second-hand home prices fall for sixth straight week to six-month low; CCL at 157.56",
-      "zh_hans": "二手楼价连跌6星期创半年低 CCL报157.56点 年底前或再跌1.6%",
-      "zh_hant": "二手樓價連跌6星期創半年低 CCL報157.56點 年底前或再跌1.6%"
-    }
-  },
-  {
-    "category": "hk",
-    "id": "20261120-chan-kwok-ki-lawful-memorial-wang-fuk-court-fire",
-    "image_url": "",
-    "published_at": "2026-11-20T17:07:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878614-20261120.htm"
-    },
-    "summary": {
-      "en": "Chief Secretary Chan Kwok-ki said that with the Wang Fuk Court fire approaching its first anniversary, any memorial activity that is lawful will be absolutely allowed by the Government, which will not stop or obstruct residents from holding memorials, in response to a group cancelling a planned memorial event. He cautioned that some people online with ulterior motives are trying to exploit memorial activities to cause disruption, urging the public to choose carefully and not be used, and said police will deal with any unlawful acts according to the law. Chan also expressed deep condolences to the victims, especially families who lost loved ones, and said the Government is doing its utmost to help them rebuild their homes and is pursuing comprehensive systemic reform based on the independent committee's report.",
-      "zh_hans": "政务司司长陈国基表示，宏福苑火灾发生接近一年，对于有团体原定举行悼念活动但最终取消，他强调任何悼念活动只要合法，政府绝对容许，亦不会阻止或妨碍市民进行悼念活动。他提醒网上有个别别有用心人士试图利用悼念活动作出破坏行为，市民要小心选择，不要被利用，警方会依法处理所有违法行为。陈国基又向受灾灾民，特别是痛失亲人的灾民致以深切慰问，并表示政府正全力协助灾民重建家园，以及在独立委员会报告基础上推行全面系统改革。",
-      "zh_hant": "政務司司長陳國基表示，宏福苑火災發生接近一年，對於有團體原定舉行悼念活動但最終取消，他強調任何悼念活動只要合法，政府絕對容許，亦不會阻止或妨礙市民進行悼念活動。他提醒網上有個別別有用心人士試圖利用悼念活動作出破壞行為，市民要小心選擇，不要被利用，警方會依法處理所有違法行為。陳國基又向受災災民，特別是痛失親人的災民致以深切慰問，並表示政府正全力協助災民重建家園，以及在獨立委員會報告基礎上推行全面系統改革。"
-    },
-    "tags": {
-      "en": [
-        "Chan Kwok-ki",
-        "Wang Fuk Court",
-        "Memorial"
-      ],
-      "zh_hans": [
-        "陈国基",
-        "宏福苑",
-        "悼念"
-      ],
-      "zh_hant": [
-        "陳國基",
-        "宏福苑",
-        "悼念"
-      ]
-    },
-    "title": {
-      "en": "Chan Kwok-ki: lawful memorials for Wang Fuk Court fire will never be blocked; public urged to beware of exploitation",
-      "zh_hans": "陈国基：合法悼念宏福苑大火绝不阻止 吁提防有人借机搞破坏",
-      "zh_hant": "陳國基：合法悼念宏福苑大火絕不阻止 籲提防有人藉機搞破壞"
-    }
-  },
-  {
-    "category": "hk",
-    "id": "20261120-subdivided-units-landlords-28-convicted-fines-112500",
-    "image_url": "",
-    "published_at": "2026-11-20T17:00:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000554.htm"
-    },
-    "summary": {
-      "en": "Twenty-eight landlords of subdivided units pleaded guilty at the Eastern Magistrates' Courts today to breaching Part IVA of the Landlord and Tenant (Consolidation) Ordinance and were fined between $800 and $13,600, amounting to $112,500 in total. Their offences included failing to submit a Notice of Tenancy to the Rating and Valuation Department within 60 days of the regulated tenancy commencing, failing to produce bills and written accounts when asking tenants to pay apportioned water and electricity charges, and charging second-term rent above the statutory cap. Since the Ordinance took effect, the department has prosecuted 1,643 cases; 1,478 have been dealt with by the courts, all resulting in convictions involving 1,291 landlords and $4,147,040 in fines, while 165 cases are pending.",
-      "zh_hans": "28名分间单位业主因违反《业主与租客（综合）条例》第IVA部规定，今日在东区裁判法院承认控罪，被判罚款800至13,600元，合共112,500元。违规行为包括未在规管租赁开始后60日内向差饷物业估价署提交租赁通知书、要求租客摊分水电费时未提供账单副本及书面账目，以及收取超出法例上限的第二期租金。条例生效以来，估价署累计提出1,643宗检控，其中1,478宗已由法庭处理并全部定罪，涉及1,291名业主，罚款合共4,147,040元，另有165宗个案正等候审讯。",
-      "zh_hant": "28名分間單位業主因違反《業主與租客（綜合）條例》第IVA部規定，今日在東區裁判法院承認控罪，被判罰款800至13,600元，合共112,500元。違規行為包括未在規管租賃開始後60日內向差餉物業估價署提交租賃通知書、要求租客攤分水電費時未提供帳單副本及書面帳目，以及收取超出法例上限的第二期租金。條例生效以來，估價署累計提出1,643宗檢控，其中1,478宗已由法庭處理並全部定罪，涉及1,291名業主，罰款合共4,147,040元，另有165宗個案正等候審訊。"
-    },
-    "tags": {
-      "en": [
-        "Subdivided units",
-        "Landlords",
-        "Rating and Valuation Department"
-      ],
-      "zh_hans": [
-        "劏房",
-        "分间单位",
-        "差饷物业估价署"
-      ],
-      "zh_hant": [
-        "劏房",
-        "分間單位",
-        "差餉物業估價署"
-      ]
-    },
-    "title": {
-      "en": "28 subdivided-unit landlords convicted of tenancy breaches and fined $112,500 in total",
-      "zh_hans": "28名劏房业主违规被定罪 罚款共11.25万 估价署累计检控1643宗",
-      "zh_hant": "28名劏房業主違規被定罪 罰款共11.25萬 估價署累計檢控1643宗"
-    }
-  },
-  {
-    "category": "hk",
-    "id": "20261120-ma-on-shan-fu-bao-gardens-water-outage-4200-households",
-    "published_at": "2026-11-20T16:54:00+08:00",
-    "source": {
-      "name": "香港01",
-      "url": "https://global.hk01.com/突发/60413257/马鞍山富宝花园咸淡水管齐爆-12座4200户全面断水-居民冒寒扑水"
-    },
-    "summary": {
-      "en": "Water pipes burst at Fu Bao Gardens in Ma On Shan at around 4am today, cutting fresh and flushing water to all 12 blocks — about 4,200 households. With a cold weather warning in force, residents had to queue in the cold for water. The Water Supplies Department said the estate's internal private water pipes had burst and it has arranged temporary supply, deploying four water trucks and 24 water tanks and sending a special team to help residents collect water. The estate management's contractor is repairing the burst underground pipes, and district councillors say they are pressing for fresh water to be restored before midnight.",
-      "zh_hans": "马鞍山富宝花园今日凌晨约4时食水及咸水总供水系统喉管爆裂，全屋苑12座、约4,200户的食水及冲厕水供应中断，居民要在寒冷天气警告生效下冒寒取水。水务署表示，屋苑内部私人供水管爆裂，已安排临时食水供应，出动4架水车及放置24个水箱，并派「供水特攻队」协助居民取水。管理处承办商正抢修地底爆裂喉管，区议员指争取午夜前先恢复食水供应。",
-      "zh_hant": "馬鞍山富寶花園今日凌晨約4時食水及鹹水總供水系統喉管爆裂，全屋苑12座、約4,200戶的食水及沖廁水供應中斷，居民要在寒冷天氣警告生效下冒寒取水。水務署表示，屋苑內部私人供水管爆裂，已安排臨時食水供應，出動4架水車及放置24個水箱，並派「供水特攻隊」協助居民取水。管理處承辦商正搶修地底爆裂喉管，區議員指爭取午夜前先恢復食水供應。"
-    },
-    "tags": {
-      "en": [
-        "Fu Bao Gardens",
-        "Burst water pipe",
-        "Water Supplies Department"
-      ],
-      "zh_hans": [
-        "富宝花园",
-        "爆水管",
-        "水务署"
-      ],
-      "zh_hant": [
-        "富寶花園",
-        "爆水管",
-        "水務署"
-      ]
-    },
-    "title": {
-      "en": "Fresh and salt water pipes burst at Ma On Shan's Fu Bao Gardens, cutting supply to 4,200 households in 12 blocks as residents queue in the cold",
-      "zh_hans": "马鞍山富宝花园咸淡水管齐爆 12座4200户断水 居民冒寒取水",
-      "zh_hant": "馬鞍山富寶花園鹹淡水管齊爆 12座4200戶斷水 居民冒寒取水"
-    },
-    "image_url": "",
-    "image_prompt": "事實：馬鞍山富寶花園鹹淡水管爆裂，12座4200戶食水及沖廁水全斷，居民冒寒排隊取水。場景：寒冷天氣下光猛日間屋苑地下大堂外，居民提着水桶水樽在水車水箱前排隊取水，水務署人員協助，氣氛冷清但有序，人物用背影或剪影，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，明亮日光、唔用黑沉夜景。標題兩行大字直接壓喺畫面上面，第一行「富寶花園爆水管」白字，第二行「4200戶斷水 居民冒寒取水」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261120-unauthorised-building-works-penalty-hike-600k-fine",
-    "image_url": "",
-    "published_at": "2026-11-20T16:14:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878601-20261120.htm"
-    },
-    "summary": {
-      "en": "The Government has proposed amending the Buildings Ordinance to raise penalties for unauthorised building works. Unauthorised works that are neither \"designated exempted works\" nor verified face a new $10,000 fixed penalty for failing to comply with a removal order; continued non-compliance can lead to prosecution, with a maximum fine of $200,000 and one year's imprisonment on first conviction, rising to $400,000 and one year's imprisonment on a subsequent conviction. For serious \"specified unauthorised building works\" such as unauthorised basements, the maximum penalty rises to $300,000 and two years' imprisonment, and $600,000 and two years' imprisonment for repeat offences. As of September this year, about 64,800 unauthorised works were subject to overdue removal orders. The Government plans to introduce the bill to the Legislative Council in January next year and aims to complete legislation by mid-year.",
-      "zh_hans": "政府建议修订《建筑物条例》，加重僭建物罚则。不属「指定豁免工程」或未经检核的僭建物，如不遵办清拆令，将引入1万元定额罚款；定额罚款后仍不遵办，屋宇署可提出检控，首次定罪最高罚款维持20万元及监禁1年，再次定罪最高罚则增至40万元及监禁1年。针对性质严重的「指明僭建物」，例如僭建地库，最高罚则提高至30万元及监禁2年，再次定罪增至60万元及监禁2年。截至今年9月，逾期未遵办的清拆令涉及约64,800个僭建物。政府计划明年1月将修例草案提交立法会，争取明年年中完成立法实施。",
-      "zh_hant": "政府建議修訂《建築物條例》，加重僭建物罰則。不屬「指定豁免工程」或未經檢核的僭建物，如不遵辦清拆令，將引入1萬元定額罰款；定額罰款後仍不遵辦，屋宇署可提出檢控，首次定罪最高罰款維持20萬元及監禁1年，再次定罪最高罰則增至40萬元及監禁1年。針對性質嚴重的「指明僭建物」，例如僭建地庫，最高罰則提高至30萬元及監禁2年，再次定罪增至60萬元及監禁2年。截至今年9月，逾期未遵辦的清拆令涉及約64,800個僭建物。政府計劃明年1月將修例草案提交立法會，爭取明年年中完成立法實施。"
-    },
-    "tags": {
-      "en": [
-        "Unauthorised building works",
-        "Buildings Ordinance",
-        "Buildings Department"
-      ],
-      "zh_hans": [
-        "僭建物",
-        "建筑物条例",
-        "屋宇署"
-      ],
-      "zh_hant": [
-        "僭建物",
-        "建築物條例",
-        "屋宇署"
-      ]
-    },
-    "title": {
-      "en": "Government proposes tougher penalties for unauthorised building works, up to $600,000 and two years' jail",
-      "zh_hans": "政府拟修例重罚僭建物 严重个案最高罚60万囚两年 6.48万清拆令未遵办",
-      "zh_hant": "政府擬修例重罰僭建物 嚴重個案最高罰60萬囚兩年 6.48萬清拆令未遵辦"
-    }
-  },
-  {
-    "category": "hk",
-    "id": "20261120-sham-shui-po-suspicious-item-eod-called",
-    "image_url": "",
-    "published_at": "2026-11-20T15:28:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878598-20261120.htm"
-    },
-    "summary": {
-      "en": "A suspicious item was found at a construction site opposite Sham Shui Po Sports Ground at about noon today, and officers from the Explosive Ordnance Disposal Bureau attended to investigate. Police received a report from site staff at nearly 1pm; officers found a suspicious item about 200 millimetres long and 60 millimetres wide. The incident is under further investigation.",
-      "zh_hans": "深水埗运动场对开一个地盘今日中午发现可疑物品，爆炸品处理课人员到场调查。警方中午近1时接获地盘职员报案，指在上址发现可疑物品，爆炸品处理课人员到场后发现一个长约200毫米、阔约60毫米的可疑物品，事件有待进一步调查。",
-      "zh_hant": "深水埗運動場對開一個地盤今日中午發現可疑物品，爆炸品處理課人員到場調查。警方中午近1時接獲地盤職員報案，指在上址發現可疑物品，爆炸品處理課人員到場後發現一個長約200毫米、闊約60毫米的可疑物品，事件有待進一步調查。"
-    },
-    "tags": {
-      "en": [
-        "Sham Shui Po",
-        "Suspicious item",
-        "Explosive Ordnance Disposal"
-      ],
-      "zh_hans": [
-        "深水埗",
-        "可疑物品",
-        "爆炸品处理课"
-      ],
-      "zh_hant": [
-        "深水埗",
-        "可疑物品",
-        "爆炸品處理課"
-      ]
-    },
-    "title": {
-      "en": "Suspicious item found at Sham Shui Po construction site; bomb disposal called in",
-      "zh_hans": "深水埗地盘发现可疑物品 拆弹专家到场 长约20厘米",
-      "zh_hant": "深水埗地盤發現可疑物品 拆彈專家到場 長約20厘米"
-    }
-  },
-  {
-    "category": "hk",
-    "id": "20261120-sham-shui-po-wwii-mortar-shell-eod",
-    "published_at": "2026-11-20T14:41:00+08:00",
-    "source": {
-      "name": "香港01",
-      "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413111/%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%81%8B%E5%8B%95%E5%A0%B4%E5%A4%96%E5%9C%B0%E7%9B%A4-%E7%99%BC%E7%8F%BE%E4%BA%8C%E6%88%B0%E8%8B%B1%E5%BC%8F%E8%BF%AB%E6%93%8A%E7%A0%B2%E5%BD%88-eod%E6%AA%A2%E8%B5%B0%E5%AE%89%E5%85%A8%E8%99%95%E7%90%86"
-    },
-    "summary": {
-      "en": "A Second World War British mortar shell was unearthed at a construction site outside Sham Shui Po Sports Ground today. A worker reported at 12:58pm that a suspicious object had been found and could be an explosive. Police arrived and found a WWII-era British mortar shell about 24cm long and 5cm in diameter. Explosive Ordnance Disposal officers examined it and confirmed there were no explosives inside, before removing it and destroying it safely. No one was injured and the scene was later reopened. The site is part of the Urban Renewal Authority's Cheung Wah Street / Cheung Sha Wan Road redevelopment project.",
-      "zh_hans": "深水埗运动场对开一个地盘今日中午发现战时迫击炮弹。工人于中午12时58分报案，指发现可疑物体，怀疑是爆炸品。警方到场后发现一枚二战时期英式迫击炮弹，长约24厘米，直径约5厘米，爆炸品处理课人员到场调查，证实炮弹内没有残余炸药，其后将其销毁及安全处理。事件中无人受伤，现场其后解封。该地盘是市建局昌华街／长沙湾道重建项目工地。",
-      "zh_hant": "深水埗運動場對開一個地盤今日中午發現戰時迫擊砲彈。工人於中午12時58分報案，指發現可疑物體，懷疑是爆炸品。警方到場後發現一枚二戰時期英式迫擊砲彈，長約24厘米，直徑約5厘米，爆炸品處理課人員到場調查，證實砲彈內沒有殘餘炸藥，其後將其銷毀及安全處理。事件中無人受傷，現場其後解封。該地盤是市建局昌華街／長沙灣道重建項目工地。"
-    },
-    "tags": {
-      "en": [
-        "Mortar shell",
-        "Sham Shui Po",
-        "Explosive Ordnance Disposal"
-      ],
-      "zh_hans": [
-        "迫击炮弹",
-        "深水埗",
-        "爆炸品处理课"
-      ],
-      "zh_hant": [
-        "迫擊砲彈",
-        "深水埗",
-        "爆炸品處理課"
-      ]
-    },
-    "title": {
-      "en": "WWII British mortar shell unearthed at Sham Shui Po construction site, 24cm long with no explosives inside; EOD destroys it safely",
-      "zh_hans": "深水埗地盘挖出二战英式迫击炮弹 长24厘米无炸药 爆炸品处理课销毁",
-      "zh_hant": "深水埗地盤挖出二戰英式迫擊砲彈 長24厘米無炸藥 爆炸品處理課銷毀"
-    },
-    "image_url": "",
-    "image_prompt": "事實：深水埗地盤挖出二戰英式迫擊砲彈，長24厘米，內無炸藥，爆炸品處理課銷毀。場景：光猛日間地盤現場，圍封膠帶、警員及爆炸品處理課人員在場戒備，挖土機停在一旁，氣氛明亮專業，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，寫實、莊重專業。標題兩行大字直接壓喺畫面上面，第一行「深水埗地盤挖出二戰迫擊砲彈」白字，第二行「長24厘米無炸藥 專家銷毀」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261120-drug-medical-device-supervision-centre-dec-first-tier",
-    "image_url": "",
-    "published_at": "2026-11-20T14:09:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878588-20261120.htm"
-    },
-    "summary": {
-      "en": "Following Hong Kong, China's admission as a regulatory member of the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use, the \"Hong Kong Centre for Medical Products Regulation\" will formally open next month and recruit staff, with full first-tier approval — independently approving new drug registrations — targeted for 2030, possibly sooner if talent, support and experience allow. Assistant Director of Health Dr Tony Chan said five letters of intent have been received since the first phase of first-tier approval began, from the mainland and overseas, and are being assessed. Director of the centre Li Zili said he hopes joining the council will speed up drug approvals and build the centre into a modern, internationally trusted regulator.",
-      "zh_hans": "中国香港正式加入「国际人用人药品注册技术协调会」成为监管机构成员后，下月将正式成立「香港药物及医疗器械监督管理中心」，并陆续招聘所需人员，预期2030年全面推行第一层审批，即自主审批新药注册，如有足够人才和配套，加上经验累积，不排除提前做到。卫生署助理署长陈凌峰表示，第一层审批开展首阶段以来已接获5份意向书，来自内地与海外，当局正进行审评。药物及医疗器械监督管理总监李自力期望，加入协调会后加快药物审批时间，把中心建设成为能力全面、国际公信力强的现代化药监机构。",
-      "zh_hant": "中國香港正式加入「國際人用藥品註冊技術協調會」成為監管機構成員後，下月將正式成立「香港藥物及醫療器械監督管理中心」，並陸續招聘所需人員，預期2030年全面推行第一層審批，即自主審批新藥註冊，如有足夠人才和配套，加上經驗累積，不排除提前做到。衞生署助理署長陳凌峯表示，第一層審批開展首階段以來已接獲5份意向書，來自內地與海外，當局正進行審評。藥物及醫療器械監督管理總監李自力期望，加入協調會後加快藥物審批時間，把中心建設成為能力全面、國際公信力強的現代化藥監機構。"
-    },
-    "tags": {
-      "en": [
-        "Drug regulation",
-        "ICH",
-        "New drug approval"
-      ],
-      "zh_hans": [
-        "药物监管",
-        "ICH",
-        "新药审批"
-      ],
-      "zh_hant": [
-        "藥物監管",
-        "ICH",
-        "新藥審批"
-      ]
-    },
-    "title": {
-      "en": "Hong Kong drug and medical device supervision centre to open next month, targeting first-tier approval by 2030",
-      "zh_hans": "香港药械监管中心下月成立 目标2030年自主审批新药 首层审批接5意向书",
-      "zh_hant": "香港藥械監管中心下月成立 目標2030年自主審批新藥 首層審批接5意向書"
-    }
-  },
-  {
-    "category": "hk",
-    "id": "20261120-yoga-instructor-murder-ex-boyfriend-life-sentence",
-    "published_at": "2026-11-20T11:58:00+08:00",
-    "source": {
-      "name": "明報",
-      "url": "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20261120/s00001/1795145957282/%e7%91%9c%e4%bc%bd%e5%b0%8e%e5%b8%ab%e8%a2%ab%e6%ae%ba%e6%a1%88%e5%89%8d%e7%94%b7%e5%8f%8b%e8%ac%80%e6%ae%ba%e7%bd%aa%e6%88%90-%e5%88%a4%e5%9b%9a%e7%b5%82%e8%ba%ab"
-    },
-    "summary": {
-      "en": "Yoga instructor Chow Wai-yin, 23, was found dead in a hotel room bathtub in Tsim Sha Tsui four years ago with about 42 stab wounds. Her ex-boyfriend, Lo Chun-ming, was charged with murder, and a jury unanimously convicted him yesterday. The case was sentenced at the High Court today. Judge Albert Kwok said the defendant killed the victim in the cruellest way, and that she must have suffered terribly and been extremely frightened before she died; every stab carried anger, with the deepest wound reaching 15cm, showing the killing was premeditated. He imposed the mandatory life sentence. In a mitigation letter the defendant called the victim the woman he loved most; the judge said that if he truly loved her, he should have let her go.",
-      "zh_hans": "23岁女瑜伽导师周慧贤4年前在尖沙咀一间酒店房间浴缸内被发现身中约42处刀伤身亡，前男友劳浚铭被控一项谋杀罪。陪审团昨日一致裁定被告谋杀罪成，案件今日在高等法院判刑。法官郭启安指被告用最残忍的手段杀害死者，死者死前必然十分痛苦及极度恐惧，每刀都带着愤怒，最深一刀长达15厘米，反映被告早有预谋，依例判处终身监禁。被告在求情信中称死者是他最深爱的女人，法官指若然深爱，应该放手。",
-      "zh_hant": "23歲女瑜伽導師周慧賢4年前在尖沙咀一間酒店房間浴缸內被發現身中約42處刀傷身亡，前男友勞浚銘被控一項謀殺罪。陪審團昨日一致裁定被告謀殺罪成，案件今日在高等法院判刑。法官郭啟安指被告用最殘忍的手段殺害死者，死者死前必然十分痛苦及極度恐懼，每刀都帶着憤怒，最深一刀長達15厘米，反映被告早有預謀，依例判處終身監禁。被告在求情信中稱死者是他最深愛的女人，法官指若然深愛，應該放手。"
-    },
-    "tags": {
-      "en": [
-        "Yoga instructor",
-        "Murder case",
-        "Life sentence"
-      ],
-      "zh_hans": [
-        "瑜伽导师",
-        "谋杀案",
-        "终身监禁"
-      ],
-      "zh_hant": [
-        "瑜伽導師",
-        "謀殺案",
-        "終身監禁"
-      ]
-    },
-    "title": {
-      "en": "Ex-boyfriend jailed for life for murdering yoga instructor in hotel room; judge says every stab carried anger",
-      "zh_hans": "瑜伽导师酒店被杀案 前男友谋杀罪成判囚终身 官斥每刀带愤怒",
-      "zh_hant": "瑜伽導師酒店被殺案 前男友謀殺罪成判囚終身 官斥每刀帶憤怒"
-    },
-    "image_url": "",
-    "image_prompt": "事實：瑜伽導師酒店被殺案，前男友謀殺罪成判囚終身，法官斥每刀帶憤怒。場景：光猛日間高等法院大樓外觀，莊嚴肅穆，藍天白雲，唔用黑沉夜景。風格：電視新聞圖卡風格，16:9，寫實、莊重專業。標題兩行大字直接壓喺畫面上面，第一行「瑜伽導師被殺案」白字，第二行「前男友謀殺罪成 判囚終身」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。唔可以描繪死者或被告人臉，用法院大樓做主體。"
-  },
-  {
-    "category": "world",
-    "id": "20261120-icj-myanmar-rohingya-genocide",
-    "image_url": "",
-    "published_at": "2026-11-20T06:39:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878530-20261120.htm"
-    },
-    "summary": {
-      "en": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya minority in its 2017 crackdown, the first time the United Nations' highest court has found a sovereign state guilty of genocide. The court detailed atrocities including security forces killing thousands of civilians, widespread sexual violence against women and extreme violence against children, and ordered Myanmar to allow and assist those who fled to return home safely, voluntarily and with dignity, and to investigate and punish those responsible, with compensation to be decided later. Human rights groups and Rohingya communities welcomed the ruling; Britain's foreign secretary announced the expulsion of Myanmar's military attache in London, summoned its charge d'affaires and foreshadowed further sanctions in the coming days.",
-      "zh_hans": "国际法院裁定，缅甸在2017年镇压行动中对境内罗兴亚少数族群犯下种族灭绝罪行，是联合国最高司法机构首次认定一个主权国家犯下种族灭绝。法院详述缅甸对罗兴亚少数族群的暴行，包括安全部队杀害以千计平民，对妇女实施广泛性暴力，并对儿童施加极端暴力；法院下令缅甸必须批准并协助因暴力逃离家园的民众安全、自愿并有尊严地返回原居地，调查及惩处涉事者，赔偿问题将于日后决定。多个人权组织及罗兴亚社群欢迎裁决；英国外相宣布驱逐缅甸驻英武官，并传召缅甸临时代办，预告未来几日会有进一步制裁行动。",
-      "zh_hant": "國際法院裁定，緬甸在2017年鎮壓行動中對境內羅興亞少數族群犯下種族滅絕罪行，是聯合國最高司法機構首次認定一個主權國家犯下種族滅絕。法院詳述緬甸對羅興亞少數族群的暴行，包括安全部隊殺害以千計平民，對婦女實施廣泛性暴力，並對兒童施加極端暴力；法院下令緬甸必須批准並協助因暴力逃離家園的民眾安全、自願並有尊嚴地返回原居地，調查及懲處涉事者，賠償問題將於日後決定。多個人權組織及羅興亞社群歡迎裁決；英國外相宣布驅逐緬甸駐英武官，並傳召緬甸臨時代辦，預告未來幾日會有進一步制裁行動。"
-    },
-    "tags": {
-      "en": [
-        "International Court of Justice",
-        "Myanmar",
-        "Rohingya"
-      ],
-      "zh_hans": [
-        "国际法院",
-        "缅甸",
-        "罗兴亚人"
-      ],
-      "zh_hant": [
-        "國際法院",
-        "緬甸",
-        "羅興亞人"
-      ]
-    },
-    "title": {
-      "en": "ICJ rules Myanmar committed genocide against Rohingya in first such finding against a sovereign state",
-      "zh_hans": "国际法院首裁主权国家犯种族灭绝 缅甸须助罗兴亚人返家 英驱逐缅武官",
-      "zh_hant": "國際法院首裁主權國家犯種族滅絕 緬甸須助羅興亞人返家 英驅逐緬武官"
     }
   }
 ]
