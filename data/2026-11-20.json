@@ -582,7 +582,7 @@
  {
   "category": "finance",
   "id": "20261120-finance-ministry-usd-sovereign-bond-hk",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-finance-ministry-usd-sovereign-bond-hk-v2.jpg",
   "published_at": "2026-11-20T10:36:00+08:00",
   "source": {
    "name": "香港電台",
@@ -617,12 +617,13 @@
    "en": "Ministry of Finance issues US$2 billion sovereign bonds in Hong Kong, oversubscribed more than 35 times as orders hit US$72.3 billion",
    "zh_hans": "财政部在港发行20亿美元主权债 超额认购逾35倍 认购额达723亿美元",
    "zh_hant": "財政部在港發行20億美元主權債 超額認購逾35倍 認購額達723億美元"
-  }
+  },
+  "image_r2_key": "design/202611/20261120-finance-ministry-usd-sovereign-bond-hk-v2.jpg"
  },
  {
   "category": "hk",
   "id": "20261120-legco-two-power-companies-tariff-review",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-legco-two-power-companies-tariff-review-v2.jpg",
   "published_at": "2026-11-20T10:33:00+08:00",
   "source": {
    "name": "香港電台",
@@ -657,12 +658,13 @@
    "en": "Two power companies to unveil next year's tariff plans on Tuesday as Legco takes up the review, with CLP's net tariff up 5.7% since January and HK Electric's up 12%",
    "zh_hans": "两电下周二公布明年电费方案 立法会先讨论 中电净电价较年初升5.7% 港灯升12%",
    "zh_hant": "兩電下周二公布明年電費方案 立法會先討論 中電淨電價較年初升5.7% 港燈升12%"
-  }
+  },
+  "image_r2_key": "design/202611/20261120-legco-two-power-companies-tariff-review-v2.jpg"
  },
  {
   "category": "world",
   "id": "20261120-china-russia-us-peace-declaration-scholars-un-reform",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-china-russia-us-peace-declaration-scholars-un-reform-v2.jpg",
   "published_at": "2026-11-20T10:31:00+08:00",
   "source": {
    "name": "香港電台",
@@ -697,12 +699,13 @@
    "en": "China, Russia and US issue Peace Declaration, with scholars saying it points the way for UN reform and dialogue on nuclear risks",
    "zh_hans": "中俄美《和平宣言》出炉 学者：为联合国改革提供方向 并就核风险对话",
    "zh_hant": "中俄美《和平宣言》出爐 學者：為聯合國改革提供方向 並就核風險對話"
-  }
+  },
+  "image_r2_key": "design/202611/20261120-china-russia-us-peace-declaration-scholars-un-reform-v2.jpg"
  },
  {
   "category": "hk",
   "id": "20261120-lee-apec-nextgen-young-entrepreneurs-speech",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-lee-apec-nextgen-young-entrepreneurs-speech-v2.jpg",
   "published_at": "2026-11-20T10:30:00+08:00",
   "source": {
    "name": "政府新聞處",
@@ -737,12 +740,13 @@
    "en": "John Lee addresses APEC young entrepreneurs summit by video, urging youth to seize Greater Bay Area opportunities as over 340 youth measures roll out",
    "zh_hans": "李家超视像出席APEC青年企业家峰会 勉励青年把握大湾区机遇 逾340项措施支援青年发展",
    "zh_hant": "李家超視像出席APEC青年企業家峰會 勉勵青年把握大灣區機遇 逾340項措施支援青年發展"
-  }
+  },
+  "image_r2_key": "design/202611/20261120-lee-apec-nextgen-young-entrepreneurs-speech-v2.jpg"
  },
  {
   "category": "world",
   "id": "20261120-xi-meets-albanese-prabowo-apec-shenzhen",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-xi-meets-albanese-prabowo-apec-shenzhen-v2.jpg",
   "published_at": "2026-11-20T10:20:00+08:00",
   "source": {
    "name": "香港電台",
@@ -777,12 +781,13 @@
    "en": "Xi meets Australian PM Albanese and Indonesian President Prabowo separately in Shenzhen as both attend the APEC leaders' meeting",
    "zh_hans": "习近平深圳分别会见澳洲总理及印尼总统 两人来华出席APEC领袖会议",
    "zh_hant": "習近平深圳分別會見澳洲總理及印尼總統 兩人來華出席APEC領袖會議"
-  }
+  },
+  "image_r2_key": "design/202611/20261120-xi-meets-albanese-prabowo-apec-shenzhen-v2.jpg"
  },
  {
   "category": "hk",
   "id": "20261120-lee-infraex-week-opening-speech",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-lee-infraex-week-opening-speech-v2.jpg",
   "published_at": "2026-11-20T09:48:00+08:00",
   "source": {
    "name": "政府新聞處",
@@ -817,12 +822,13 @@
    "en": "John Lee opens inaugural InfraEX Week as 800 infrastructure leaders gather, with the Northern Metropolis set to house 2.5 million people and create 500,000 jobs",
    "zh_hans": "李家超主持首届基建周开幕礼 800领袖云集 北都将容纳250万人 创造50万职位",
    "zh_hant": "李家超主持首屆基建周開幕禮 800領袖雲集 北都將容納250萬人 創造50萬職位"
-  }
+  },
+  "image_r2_key": "design/202611/20261120-lee-infraex-week-opening-speech-v2.jpg"
  },
  {
   "category": "finance",
   "id": "20261120-hk-stocks-open-down-359-year-low",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-hk-stocks-open-down-359-year-low-v2.jpg",
   "published_at": "2026-11-20T09:27:00+08:00",
   "source": {
    "name": "香港電台",
@@ -857,12 +863,13 @@
    "en": "Hang Seng falls 359 points at the open to a new low for the year, tech index down 3% as NetEase tumbles over 13% after results while Alibaba steadies",
    "zh_hans": "港股竞价跌359点创年内新低 科指跌3% 网易绩后挫逾13% 阿里回稳",
    "zh_hant": "港股競價跌359點創年內新低 科指跌3% 網易績後挫逾13% 阿里回穩"
-  }
+  },
+  "image_r2_key": "design/202611/20261120-hk-stocks-open-down-359-year-low-v2.jpg"
  },
  {
   "category": "finance",
   "id": "20261120-china-nov-lpr-unchanged",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-china-nov-lpr-unchanged-v2.jpg",
   "published_at": "2026-11-20T09:18:00+08:00",
   "source": {
    "name": "香港電台",
@@ -894,6 +901,7 @@
    "en": "China's November loan prime rates unchanged, with the one-year LPR at 3% and the over-five-year rate at 3.5%, steady since May last year",
    "zh_hans": "内地11月贷款市场报价利率维持不变 1年期3厘 5年期以上3.5厘 自去年5月起未变",
    "zh_hant": "內地11月貸款市場報價利率維持不變 1年期3厘 5年期以上3.5厘 自去年5月起未變"
-  }
+  },
+  "image_r2_key": "design/202611/20261120-china-nov-lpr-unchanged-v2.jpg"
  }
 ]
