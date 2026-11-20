@@ -423,5 +423,116 @@
    ]
   },
   "image_r2_key": "design/202611/20261120-denmark-greenland-defence-deal-v2.jpg"
+ },
+ {
+  "category": "finance",
+  "id": "20261120-japan-korea-stocks-plunge-nikkei-kospi",
+  "image_url": "",
+  "published_at": "2026-11-20T08:06:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878539-20261120.htm"
+  },
+  "summary": {
+   "en": "Japanese and South Korean stocks came under heavy selling pressure in early trading. The Nikkei index was quoted at 58,146, down 1,297 points or 2.18%. South Korea's Kospi index stood at 4,955, down 182 points or 3.56%.",
+   "zh_hans": "日韩股市初段沽压大。日经指数较早时报58146点，跌1297点，跌幅2.18%。首尔综合指数报4955点，跌182点，跌幅3.56%。",
+   "zh_hant": "日韓股市初段沽壓大。日經指數較早時報58146點，跌1297點，跌幅2.18%。首爾綜合指數報4955點，跌182點，跌幅3.56%。"
+  },
+  "tags": {
+   "en": [
+    "Nikkei",
+    "Kospi",
+    "Asian stocks"
+   ],
+   "zh_hans": [
+    "日股",
+    "韩股",
+    "亚洲股市"
+   ],
+   "zh_hant": [
+    "日股",
+    "韓股",
+    "亞洲股市"
+   ]
+  },
+  "title": {
+   "en": "Nikkei Plunges 2.2% and Kospi Tumbles 3.6% as Asian Markets Open Under Heavy Selling",
+   "zh_hans": "日经泻1297点跌2.18% 韩股急挫3.56% 亚洲股市初段齐捱沽",
+   "zh_hant": "日經瀉1297點跌2.18% 韓股急挫3.56% 亞洲股市初段齊捱沽"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261120-japan-oct-cpi-2-3-pct-1-year-high",
+  "image_url": "",
+  "published_at": "2026-11-20T07:51:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878536-20261120.htm"
+  },
+  "summary": {
+   "en": "Japan's inflation picked up to a near one-year high. October's consumer price index rose 2.3% year on year, 0.2 percentage points faster than September's increase. Core CPI also accelerated, rising 2.2% year on year, up 0.1 percentage points, its highest since the end of last year.",
+   "zh_hans": "日本通胀升温，创约1年新高。10月消费物价指数按年升2.3%，比9月升幅加快0.2个百分点。核心消费物价指数按年升幅亦加快0.1个百分点至2.2%，是去年底以来最高。",
+   "zh_hant": "日本通脹升溫，創約1年新高。10月消費物價指數按年升2.3%，比9月升幅加快0.2個百分點。核心消費物價指數按年升幅亦加快0.1個百分點至2.2%，係去年底以嚟最高。"
+  },
+  "tags": {
+   "en": [
+    "Japan inflation",
+    "Consumer prices",
+    "Japan economy"
+   ],
+   "zh_hans": [
+    "日本通胀",
+    "消费物价指数",
+    "日本经济"
+   ],
+   "zh_hant": [
+    "日本通脹",
+    "消費物價指數",
+    "日本經濟"
+   ]
+  },
+  "title": {
+   "en": "Japan October Inflation Hits 2.3%, Near 1-Year High as Core CPI Also Accelerates",
+   "zh_hans": "日本10月通胀2.3%创约1年新高 核心通胀2.2%同创去年底以来最高",
+   "zh_hant": "日本10月通脹2.3%創約1年新高 核心通脹2.2%同創去年底以來最高"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261120-dollar-index-1-5-year-high-treasury-yield-5-pct",
+  "image_url": "",
+  "published_at": "2026-11-20T06:55:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878531-20261120.htm"
+  },
+  "summary": {
+   "en": "The US dollar index kept pushing toward the 104 level, touching 103.97, up more than 0.1%, a fresh high in more than a year and a half and its eighth straight daily gain. US Treasury yields moved lower, with the 10-year yield testing the 5% level, touching a low of 5.04%, down about 3 basis points; the 30-year yield briefly fell below 5.4%, while the 2-year yield slipped to a low of 4.755%. The dollar traded at 159.66 yen, sterling fell below 1.31 against the dollar, and the euro was just under 1.097. Commodity currencies fell sharply, with the Australian dollar breaking below 0.67 to around 0.665 and the New Zealand dollar down to 0.548.",
+   "zh_hans": "美元指数持续上试104关口，高见103.97美元，升逾0.1%，再创逾一年半新高，连升8个交易日。美债孳息率向下，10年期债息下试5厘水平，低见5.04厘，跌约3个基点；30年期债息曾失守5.4厘，两年期债息回落至最低4.755厘。美元兑日圆较早时报159.66，英镑兑美元跌穿1.31，欧元兑美元略低于1.097。商品货币显著向下，澳元兑美元失守0.67，跌至0.665附近；新西兰元兑美元跌至0.548水平。",
+   "zh_hant": "美元指數持續上試104關口，高見103.97，升逾0.1%，再創逾1年半新高，連升8個交易日。美債孳息率向下，10年期債息下試5厘水平，低見5.04厘，跌約3個基點；30年期債息曾失守5.4厘，兩年期債息回落至最低4.755厘。美元兌日圓較早時報159.66，英鎊兌美元跌穿1.31，歐元兌美元略低於1.097。商品貨幣顯著向下，澳元兌美元失守0.67，跌至0.665附近；新西蘭元兌美元跌至0.548水平。"
+  },
+  "tags": {
+   "en": [
+    "US dollar index",
+    "Treasury yields",
+    "Commodity currencies"
+   ],
+   "zh_hans": [
+    "美元指数",
+    "美债",
+    "商品货币"
+   ],
+   "zh_hant": [
+    "美元指數",
+    "美債",
+    "商品貨幣"
+   ]
+  },
+  "title": {
+   "en": "Dollar Index Hits Fresh 1.5-Year High as Treasury Yield Tests 5%; Commodity Currencies Slide",
+   "zh_hans": "美元指数连升8日创年半新高 美债息下试5厘 商品货币齐跌",
+   "zh_hant": "美元指數連升8日創年半新高 美債息下試5厘 商品貨幣齊跌"
+  }
  }
 ]
