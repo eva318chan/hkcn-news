@@ -1401,7 +1401,7 @@
  {
   "category": "finance",
   "id": "20261120-taiwan-stocks-plunge-6-23-pct-record-weekly-fall",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-taiwan-stocks-plunge-6-23-pct-record-weekly-fall-v2.jpg",
   "published_at": "2026-11-20T14:27:00+08:00",
   "source": {
    "name": "香港電台",
@@ -1436,12 +1436,13 @@
    "en": "Taiwan stocks plunge 2,393 points in a day to 36,033, with a 17.5% weekly fall — the worst in over 36 years",
    "zh_hans": "台股单日暴跌 2393 点收 36033 点 本周累跌 17.5% 逾 36 年最惨",
    "zh_hant": "台股單日暴跌 2393 點收 36033 點 本周累跌 17.5% 逾 36 年最慘"
-  }
+  },
+  "image_r2_key": "design/202611/20261120-taiwan-stocks-plunge-6-23-pct-record-weekly-fall-v2.jpg"
  },
  {
   "category": "entertainment",
   "id": "20261120-made-in-italy-film-programme-16-classics",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-made-in-italy-film-programme-16-classics-v2.jpg",
   "published_at": "2026-11-20T14:21:00+08:00",
   "source": {
    "name": "政府新聞處",
@@ -1476,6 +1477,7 @@
    "en": "16 Italian classics head to Hong Kong screens from December 13, led by La Dolce Vita and Life Is Beautiful",
    "zh_hans": "16 部意大利经典下月登大银幕 《甜蜜生活》《美丽人生》领衔开锣",
    "zh_hant": "16 部意大利經典下月登大銀幕 《甜蜜生活》《美麗人生》領銜開鑼"
-  }
+  },
+  "image_r2_key": "design/202611/20261120-made-in-italy-film-programme-16-classics-v2.jpg"
  }
 ]
