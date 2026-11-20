@@ -1,5 +1,43 @@
 [
   {
+    "category": "hk",
+    "id": "20261120-fehd-rodent-crackdown-thunderbolt-skynet",
+    "published_at": "2026-11-20T21:05:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000768.htm"
+    },
+    "summary": {
+      "en": "The Food and Environmental Hygiene Department said today it is continuing Operation Thunderbolt and Operation Skynet to combat rodent infestation across Hong Kong. Launched on November 4, Operation Thunderbolt had, as of November 19, carried out targeted inspections at 1,433 locations, identifying 282 rat holes and harbourage places, capturing 161 live rodents and collecting 119 dead rodents, with baiting and sealing completed at 162 locations. At Station Lane Sitting-out Area in Kowloon City, officers captured 12 live rodents and treated eight nests; at Fung Cheung Road Garden in Yuen Long, they collected 17 dead rodents and destroyed seven nests. The third phase of Operation Skynet, targeting food premises in shopping malls, conducted 1,996 inspections at restaurants and other high-risk spots and 1,369 inspections at other food premises, issuing hundreds of vermin elimination and cleansing notices and launching 176 prosecutions.",
+      "zh_hans": "食环署今日表示，继续推行「雷霆行动」及「天网行动」，在全港打击鼠患。11月4日推出的「雷霆行动」截至11月19日，已在全港1,433个地点针对巡查，发现282个鼠洞及鼠窦，捕获161只活鼠、收集119只死鼠，并在162个地点完成放毒饵及封堵鼠洞。九龙城区站巷休憩处捕获12只活鼠、处理8个鼠巢；元朗凤翔路花园收集17只死鼠、捣毁7个鼠巢。「天网行动」第三期针对商场食肆巡查1,996次、其他食物业处所巡查1,369次，发出数百张消灭虫鼠及清洁通知，并提出176宗检控。",
+      "zh_hant": "食環署今日表示，繼續推行「雷霆行動」及「天網行動」，在全港打擊鼠患。11月4日推出的「雷霆行動」截至11月19日，已在全港1,433個地點針對巡查，發現282個鼠洞及鼠竇，捕獲161隻活鼠、收集119隻死鼠，並在162個地點完成放毒餌及封堵鼠洞。九龍城區站巷休憩處捕獲12隻活鼠、處理8個鼠巢；元朗鳳翔路花園收集17隻死鼠、搗毀7個鼠巢。「天網行動」第三期針對商場食肆巡查1,996次、其他食物業處所巡查1,369次，發出數百張消滅蟲鼠及清潔通知，並提出176宗檢控。"
+    },
+    "tags": {
+      "en": [
+        "Rodent control",
+        "Food and Environmental Hygiene Department",
+        "Operation Thunderbolt"
+      ],
+      "zh_hans": [
+        "灭鼠",
+        "食环署",
+        "雷霆行动"
+      ],
+      "zh_hant": [
+        "滅鼠",
+        "食環署",
+        "雷霆行動"
+      ]
+    },
+    "title": {
+      "en": "FEHD's Operation Thunderbolt targets rat nests, inspects 1,433 sites and finds 282 burrows with 161 live rats caught",
+      "zh_hans": "食环署雷霆行动灭鼠 巡查1433地点捣282鼠窦捕161活鼠",
+      "zh_hant": "食環署雷霆行動滅鼠 巡查1433地點搗282鼠竇捕161活鼠"
+    },
+    "image_r2_key": "design/202611/20261120-fehd-rodent-crackdown-thunderbolt-skynet.jpg",
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-fehd-rodent-crackdown-thunderbolt-skynet.jpg"
+  },
+  {
     "category": "finance",
     "id": "20261120-chan-mo-po-hkecic-60th-exports-up-45-pct",
     "published_at": "2026-11-20T20:14:00+08:00",
@@ -74,6 +112,44 @@
     },
     "image_r2_key": "design/202611/20261120-customs-drug-manufacturing-centre-tsuen-wan-1-6m-seized.jpg",
     "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-customs-drug-manufacturing-centre-tsuen-wan-1-6m-seized.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261120-infra-leaders-praise-hong-kong-summit",
+    "published_at": "2026-11-20T18:39:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_183930_656.html"
+    },
+    "summary": {
+      "en": "International Infrastructure Excellence Week 2026 opened in Hong Kong today, with its flagship event, the 2nd International Infrastructure and Projects Leaders Summit, drawing infrastructure leaders and experts from more than 30 countries and regions. Participants praised Hong Kong's achievements in infrastructure. A representative of Qatar's Public Works Authority said Hong Kong has rich experience in planning and delivering major infrastructure and that Qatar will use Hong Kong as a benchmark. A senior partner at Deloitte Australia described the Northern Metropolis as one of the most anticipated projects of its kind in the world. A Hong Kong Polytechnic University professor said Hong Kong's infrastructure is well-developed, of a very high standard and sustainable, able to meet future challenges.",
+      "zh_hans": "国际基建卓越周2026今日开幕，旗舰活动第二届国际基建项目领导峰会吸引来自30多个国家或地区的大型基建项目领袖和专家参与。一众参加者肯定并赞扬香港在基建方面的成绩。卡塔尔公共工程局代表表示，香港在规划和交付大型基建方面拥有丰富经验，当地会以香港作为基准。澳洲德勤资深合伙人形容北部都会区是全球同类计划中其中一个最令人期待的项目。理工大学教授指香港基建完善、水准极高且具可持续性，能应对未来挑战。",
+      "zh_hant": "國際基建卓越周2026今日開幕，旗艦活動第二屆國際基建項目領導峰會吸引來自30多個國家或地區的大型基建項目領袖和專家參與。一眾參加者肯定並讚揚香港在基建方面的成績。卡塔爾公共工程局代表表示，香港在規劃和交付大型基建方面擁有豐富經驗，當地會以香港作為基準。澳洲德勤資深合夥人形容北部都會區是全球同類計劃中其中一個最令人期待的項目。理工大學教授指香港基建完善、水準極高且具可持續性，能應對未來挑戰。"
+    },
+    "tags": {
+      "en": [
+        "Infrastructure",
+        "Northern Metropolis",
+        "InfraEX Week"
+      ],
+      "zh_hans": [
+        "基建",
+        "北部都会区",
+        "国际基建卓越周"
+      ],
+      "zh_hant": [
+        "基建",
+        "北部都會區",
+        "國際基建卓越周"
+      ]
+    },
+    "title": {
+      "en": "Global infrastructure leaders praise Hong Kong's world-class works, call Northern Metropolis one of the world's most anticipated projects",
+      "zh_hans": "国际基建领袖赞港基建世界级 北都成全球最受期待项目之一",
+      "zh_hant": "國際基建領袖讚港基建世界級 北都成全球最受期待項目之一"
+    },
+    "image_r2_key": "design/202611/20261120-infra-leaders-praise-hong-kong-summit.jpg",
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261120-infra-leaders-praise-hong-kong-summit.jpg"
   },
   {
     "category": "hk",
@@ -2052,6 +2128,82 @@
     }
   },
   {
+    "category": "hk",
+    "id": "20261120-govt-rejects-uscc-report-slams-smears",
+    "published_at": "2026-11-20T21:41:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000803.htm"
+    },
+    "summary": {
+      "en": "The HKSAR Government today issued a statement strongly condemning and firmly refuting the 2026 report of the United States-China Economic and Security Review Commission, calling its contents untrue and biased, smearing \"One Country, Two Systems\" and Hong Kong's national security laws, and interfering in Hong Kong affairs. The Government reiterated that Hong Kong is an inalienable part of China, enjoying a high degree of autonomy under \"One Country, Two Systems\", with residents' rights protected by the Constitution and the Basic Law, an independent judiciary and a solid rule of law. The statement also rebutted the report's claims on the Lai Chee-ying case, the Hong Kong Alliance case and the Wong Chi-fung case one by one, stressing the courts decided each strictly on the evidence and the law, with Wong sentenced to 10 years' imprisonment after pleading guilty. The Government urged the US to stop interfering in Hong Kong affairs, noting the US has run a trade surplus of more than US$250 billion with Hong Kong over the past decade and about 1,550 US companies operate in the city.",
+      "zh_hans": "特区政府今日发表声明，强烈谴责并坚决反驳美国国会美中经济与安全审查委员会发表的2026年度报告，批评报告内容失实偏颇，抹黑「一国两制」及香港维护国家安全的法例，干预香港事务。政府重申香港是中华人民共和国不可分离的部分，在「一国两制」下享有高度自治，市民权利受《宪法》及《基本法》保障，司法独立及法治稳固。声明又就黎智英案、支联会案及黄之锋案逐一反驳，强调法庭均严格按照证据及法律判案，其中黄之锋认罪后被判监10年。政府敦促美方停止干预香港事务，又指美国过去10年在港享有逾2,500亿美元贸易顺差，约1,550间美资企业在港经营。",
+      "zh_hant": "特區政府今日發表聲明，強烈譴責並堅決反駁美國國會美中經濟與安全審查委員會發表的2026年度報告，批評報告內容失實偏頗，抹黑「一國兩制」及香港維護國家安全的法例，干預香港事務。政府重申香港是中華人民共和國不可分離的部分，在「一國兩制」下享有高度自治，市民權利受《憲法》及《基本法》保障，司法獨立及法治穩固。聲明又就黎智英案、支聯會案及黃之鋒案逐一反駁，強調法庭均嚴格按照證據及法律判案，其中黃之鋒認罪後被判監10年。政府敦促美方停止干預香港事務，又指美國過去10年在港享有逾2,500億美元貿易順差，約1,550間美資企業在港經營。"
+    },
+    "tags": {
+      "en": [
+        "US-China Economic and Security Review Commission",
+        "One Country Two Systems",
+        "Hong Kong affairs"
+      ],
+      "zh_hans": [
+        "美中经济与安全审查委员会",
+        "一国两制",
+        "香港事务"
+      ],
+      "zh_hant": [
+        "美中經濟與安全審查委員會",
+        "一國兩制",
+        "香港事務"
+      ]
+    },
+    "title": {
+      "en": "HKSAR Government strongly rejects US commission report, slams biased smears and interference in Hong Kong affairs",
+      "zh_hans": "特区政府强烈反驳美方报告 斥失实抹黑干预香港事务",
+      "zh_hant": "特區政府強烈反駁美方報告 斥失實抹黑干預香港事務"
+    },
+    "image_url": "",
+    "image_prompt": "事實：特區政府強烈反駁美中經濟與安全審查委員會2026年度報告，斥失實偏頗、干預香港事務。場景：光猛日間政府總部大樓外觀，藍天白雲，莊嚴肅穆，唔用黑沉夜景。風格：電視新聞圖卡風格，16:9，寫實、莊重專業。標題兩行大字直接壓喺畫面上面，第一行「特區政府強烈反駁美方報告」白字，第二行「斥失實抹黑干預香港事務」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
+  },
+  {
+    "category": "finance",
+    "id": "20261120-hkex-paperless-securities-five-firms",
+    "published_at": "2026-11-20T21:23:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878644-20261120.htm"
+    },
+    "summary": {
+      "en": "Hong Kong's uncertificated securities market regime took effect this week, and HKEX has updated the list of securities expected to join the paperless system, with the first batch covering five listed companies: HKEX, Television Broadcasts (TVB), China Resources Power, Xiang China International and Min Xin Group. HKEX shares will join the paperless system from February 16 next year, while China Resources Power and Xiang China International will join in March. Under HKEX guidance, listed shares must join the paperless system within five years from November 16, 2026, but investors do not need to rush to convert physical certificates and should watch for announcements from the companies they hold. Investors may open a USI (Uncertificated Securities Market) account with an approved share registrar to hold and manage shares electronically in their own names.",
+      "zh_hans": "香港无纸证券市场制度本周一起实施，港交所网站更新预计参与无纸证券市场的证券名单，首批涉及5间上市公司，包括港交所、无线集团、华润电力、向中国际及闽信集团。港交所股份将于明年2月16日起参与无纸化证券；华润电力及向中国际将于明年3月参与。根据港交所提供的投资者指引，已上市股票须于2026年11月16日起的五年内参与无纸证券市场，投资者目前毋须急于将实物股票无纸化，应留意持有股份的上市公司公告。投资者可选择透过核准证券登记机构开立「持股易」户口，将实物股票转为无纸形式，以自己名义及电子方式持有和管理证券。",
+      "zh_hant": "香港無紙證券市場制度本周一起實施，港交所網站更新預計參與無紙證券市場的證券名單，首批涉及5間上市公司，包括港交所、無綫集團、華潤電力、向中國際及閩信集團。港交所股份將於明年2月16日起參與無紙化證券；華潤電力及向中國際將於明年3月參與。根據港交所提供的投資者指引，已上市股票須於2026年11月16日起的五年內參與無紙證券市場，投資者目前毋須急於將實物股票無紙化，應留意持有股份的上市公司公告。投資者可選擇透過核准證券登記機構開立「持股易」戶口，將實物股票轉為無紙形式，以自己名義及電子方式持有和管理證券。"
+    },
+    "tags": {
+      "en": [
+        "Paperless securities",
+        "HKEX",
+        "TVB"
+      ],
+      "zh_hans": [
+        "无纸证券",
+        "港交所",
+        "无线"
+      ],
+      "zh_hant": [
+        "無紙證券",
+        "港交所",
+        "無綫"
+      ]
+    },
+    "title": {
+      "en": "HKEX unveils first paperless securities list as bourse operator leads the way in February, five firms to join in phases",
+      "zh_hans": "港股无纸化首批名单出炉 港交所明年2月打头阵 5间公司分阶段参与",
+      "zh_hant": "港股無紙化首批名單出爐 港交所明年2月打頭陣 5間公司分階段參與"
+    },
+    "image_url": "",
+    "image_prompt": "事實：港股無紙化首批5間公司名單出爐，港交所明年2月16日打頭陣，無綫、華潤電力等明年3月跟隨。場景：光猛日間交易大堂，陽光灑入，電子屏幕顯示股價走勢，交易員背影忙碌，氣氛明亮有朝氣，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，明亮通透。標題兩行大字直接壓喺畫面上面，第一行「港股無紙化首批名單出爐」白字，第二行「港交所明年2月打頭陣」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
+  },
+  {
     "category": "entertainment",
     "id": "20261120-detour-2026-design-festival-pmq-opens",
     "published_at": "2026-11-20T19:33:00+08:00",
@@ -2200,6 +2352,120 @@
       "zh_hans": "外交部促日方尽快纠正台湾问题错误言行 恪守四个政治文件",
       "zh_hant": "外交部促日方盡快糾正台灣問題錯誤言行 恪守四個政治文件"
     }
+  },
+  {
+    "category": "hk",
+    "id": "20261120-dengue-chikungunya-imported-cases",
+    "published_at": "2026-11-20T17:45:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000623.htm"
+    },
+    "summary": {
+      "en": "The Centre for Health Protection announced today that from November 13 to 19, Hong Kong recorded two imported dengue fever cases, with the patients having visited Vietnam and Cambodia respectively during the incubation period, and one imported chikungunya fever case involving a 71-year-old man who had visited the mainland and is now in stable condition. Hong Kong has recorded 42 dengue cases so far this year, comprising 40 imported and two local cases, and nine confirmed chikungunya cases, including eight imported and one local. The Centre reminded the public to guard against mosquito bites and clear stagnant water, both at home and when travelling, and to use DEET-containing insect repellents properly.",
+      "zh_hans": "卫生署卫生防护中心今日公布，由11月13日至19日，本港录得两宗外地传入的登革热感染个案，病人潜伏期内分别到过越南及柬埔寨；同期亦录得一宗外地传入的基孔肯雅热个案，涉及一名71岁男子，潜伏期内曾到内地，现时情况稳定。本港今年至今累计录得42宗登革热个案，包括40宗外地传入及两宗本地感染；基孔肯雅热则累计9宗，包括8宗输入及1宗本地感染。中心提醒市民外游及在家居均应注意防蚊及清除积水，并正确使用含避蚊胺的驱蚊剂。",
+      "zh_hant": "衞生署衞生防護中心今日公布，由11月13日至19日，本港錄得兩宗外地傳入的登革熱感染個案，病人潛伏期內分別到過越南及柬埔寨；同期亦錄得一宗外地傳入的基孔肯雅熱個案，涉及一名71歲男子，潛伏期內曾到內地，現時情況穩定。本港今年至今累計錄得42宗登革熱個案，包括40宗外地傳入及兩宗本地感染；基孔肯雅熱則累計9宗，包括8宗輸入及1宗本地感染。中心提醒市民外遊及在家居均應注意防蚊及清除積水，並正確使用含避蚊胺的驅蚊劑。"
+    },
+    "tags": {
+      "en": [
+        "Dengue fever",
+        "Chikungunya fever",
+        "Centre for Health Protection"
+      ],
+      "zh_hans": [
+        "登革热",
+        "基孔肯雅热",
+        "卫生防护中心"
+      ],
+      "zh_hant": [
+        "登革熱",
+        "基孔肯雅熱",
+        "衞生防護中心"
+      ]
+    },
+    "title": {
+      "en": "Two imported dengue cases and one chikungunya case in a week, all imported; 42 dengue cases so far this year",
+      "zh_hans": "一周增两宗登革热一宗基孔肯雅热 全属外地传入 今年累计42宗",
+      "zh_hant": "一周增兩宗登革熱一宗基孔肯雅熱 全屬外地傳入 今年累計42宗"
+    },
+    "image_url": "",
+    "image_prompt": "事實：一周新增兩宗外地傳入登革熱及一宗基孔肯雅熱，市民外遊要防蚊。場景：光猛日間屋苑花園，陽光灑入，工作人員檢查花盆底積水、清理溝渠，蚊患防治宣傳，氣氛明亮有朝氣，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，明亮通透。標題兩行大字直接壓喺畫面上面，第一行「一周增兩宗登革熱一宗基孔肯雅熱」白字，第二行「全屬外地傳入 今年累計42宗」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
+  },
+  {
+    "category": "hk",
+    "id": "20261120-woman-jailed-six-months-alt-smoking-products",
+    "published_at": "2026-11-20T17:30:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000463.htm"
+    },
+    "summary": {
+      "en": "A woman was sentenced today at West Kowloon Magistrates' Courts to six months' imprisonment for illegally importing 38,000 alternative smoking products. The Department of Health's Tobacco and Alcohol Control Office was notified by Customs yesterday that the products had been intercepted in the luggage of the woman arriving from Japan, and immediately arrested and prosecuted her. Since September 19, when amendments to the Tobacco Control Legislation conferred arrest powers on tobacco control inspectors, the office has prosecuted 34 cases involving the importation of large quantities of alternative smoking products, with 37 people convicted and sentenced to between four weeks and eight months in prison. Under the Import and Export Ordinance, importing alternative smoking products carries a maximum penalty of a HK$2 million fine and seven years' imprisonment on indictment.",
+      "zh_hans": "一名女子因非法进口38,000支另类吸烟产品，今日在西九龙裁判法院被判即时监禁6个月。卫生署控烟酒办昨日接获海关通知，在该名由日本抵港的女子行李中检获该批另类烟，随即拘捕及检控。自今年9月19日《2025年控烟法例（修订）条例》赋予控烟酒办督察拘捕权以来，控烟酒办已就进口大量另类吸烟产品检控34宗案件，37人被定罪，判监4星期至8个月不等。根据《进出口条例》，进口另类烟经循公诉程序定罪，最高可判罚款200万元及监禁7年。",
+      "zh_hant": "一名女子因非法進口38,000支另類吸煙產品，今日在西九龍裁判法院被判即時監禁6個月。衞生署控煙酒辦昨日接獲海關通知，在該名由日本抵港的女子行李中檢獲該批另類煙，隨即拘捕及檢控。自今年9月19日《2025年控煙法例（修訂）條例》賦予控煙酒辦督察拘捕權以來，控煙酒辦已就進口大量另類吸煙產品檢控34宗案件，37人被定罪，判監4星期至8個月不等。根據《進出口條例》，進口另類煙經循公訴程序定罪，最高可判罰款200萬元及監禁7年。"
+    },
+    "tags": {
+      "en": [
+        "Alternative smoking products",
+        "Tobacco and Alcohol Control Office",
+        "Customs"
+      ],
+      "zh_hans": [
+        "另类吸烟产品",
+        "控烟酒办",
+        "海关"
+      ],
+      "zh_hant": [
+        "另類吸煙產品",
+        "控煙酒辦",
+        "海關"
+      ]
+    },
+    "title": {
+      "en": "Woman jailed six months for smuggling 38,000 alternative smoking products from Japan; tobacco control office has prosecuted 34 cases",
+      "zh_hans": "日本返港女行李藏3.8万支另类烟 判囚6个月 控烟酒办已检控34案",
+      "zh_hant": "日本返港女行李藏3.8萬支另類煙 判囚6個月 控煙酒辦已檢控34案"
+    },
+    "image_url": "",
+    "image_prompt": "事實：女子由日本返港行李藏3.8萬支另類煙，判囚6個月。場景：光猛日間機場入境大堂，海關人員檢查行李，X光機、行李輸送帶，氣氛明亮專業，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，寫實、莊重專業。標題兩行大字直接壓喺畫面上面，第一行「女行李藏3.8萬支另類煙」白字，第二行「判囚6個月 控煙酒辦已檢控34案」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。唔可以描繪被告人臉。"
+  },
+  {
+    "category": "hk",
+    "id": "20261120-yuen-long-meth-warehouse-27kg-12m-arrested",
+    "published_at": "2026-11-20T17:22:00+08:00",
+    "source": {
+      "name": "香港01",
+      "url": "https://global.hk01.com/突发/60413223/警八乡天水围搜寮屋捣两毒品仓-检-1200万冰毒-拘两尼日利亚男"
+    },
+    "summary": {
+      "en": "Narcotics Bureau officers raided a squatter hut in Pat Heung, Yuen Long, early this morning, arresting two men and seizing about 1kg of suspected methamphetamine and drug packaging tools. Officers then searched two drug warehouses in Kam Sheung Road's Ngau Keng and Tin Shui Wai's Shek Kong Tsuen, seizing about 26kg more of suspected methamphetamine. In total the operation netted about 27kg of suspected meth, with an estimated street value of about HK$12 million. The two arrested men, aged 34 and 39 and both Nigerian nationals holding recognisance forms, will be charged with three counts of trafficking in a dangerous drug and appear at Sha Tin Magistrates' Courts tomorrow.",
+      "zh_hans": "警方毒品调查科今日清晨在元朗八乡及天水围展开反毒品行动，突击搜查下輋一个寮屋单位，制服屋内两名男子，并在单位内检获一包重约1公斤的怀疑冰毒及毒品包装工具。其后人员再搜查两个分别位于锦上路牛径及天水围锡降村的毒品储存仓，在仓内合共检获约26公斤怀疑冰毒。行动中共检获约27公斤怀疑冰毒，总市值约1,200万元。两名34岁及39岁尼日利亚籍男子涉嫌贩运危险药物被捕，将被暂控三项贩运危险药物罪，明日在沙田裁判法院提堂。",
+      "zh_hant": "警方毒品調查科今日清晨在元朗八鄉及天水圍展開反毒品行動，突擊搜查下輋一個寮屋單位，制服屋內兩名男子，並在單位內檢獲一包重約1公斤的懷疑冰毒及毒品包裝工具。其後人員再搜查兩個分別位於錦上路牛徑及天水圍錫降村的毒品儲存倉，在倉內合共檢獲約26公斤懷疑冰毒。行動中共檢獲約27公斤懷疑冰毒，總市值約1,200萬元。兩名34歲及39歲尼日利亞籍男子涉嫌販運危險藥物被捕，將被暫控三項販運危險藥物罪，明日在沙田裁判法院提堂。"
+    },
+    "tags": {
+      "en": [
+        "Methamphetamine",
+        "Yuen Long",
+        "Narcotics Bureau"
+      ],
+      "zh_hans": [
+        "冰毒",
+        "元朗",
+        "毒品调查科"
+      ],
+      "zh_hant": [
+        "冰毒",
+        "元朗",
+        "毒品調查科"
+      ]
+    },
+    "title": {
+      "en": "Police raid two Yuen Long drug warehouses, seize 27kg of meth worth $12m; two Nigerian men to appear in court tomorrow",
+      "zh_hans": "警方捣元朗两毒品仓检27公斤冰毒值1200万 拘两尼日利亚汉明提堂",
+      "zh_hant": "警方搗元朗兩毒品倉檢27公斤冰毒值1200萬 拘兩尼日利亞漢明提堂"
+    },
+    "image_url": "",
+    "image_prompt": "事實：警方搗破元朗兩毒品倉，檢27公斤冰毒值1200萬，拘兩人。場景：光猛日間警方行動現場，警員在鄉村寮屋外搜查，證物袋、警車，氣氛明亮專業，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，寫實、莊重專業。標題兩行大字直接壓喺畫面上面，第一行「警方搗元朗兩毒品倉」白字，第二行「檢27公斤冰毒值1200萬」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。唔可以描繪被捕人士人臉。"
   },
   {
     "category": "finance",
@@ -2497,6 +2763,44 @@
       "zh_hans": "深水埗地盘发现可疑物品 拆弹专家到场 长约20厘米",
       "zh_hant": "深水埗地盤發現可疑物品 拆彈專家到場 長約20厘米"
     }
+  },
+  {
+    "category": "hk",
+    "id": "20261120-sham-shui-po-wwii-mortar-shell-eod",
+    "published_at": "2026-11-20T14:41:00+08:00",
+    "source": {
+      "name": "香港01",
+      "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413111/%E6%B7%B1%E6%B0%B4%E5%9F%97%E9%81%8B%E5%8B%95%E5%A0%B4%E5%A4%96%E5%9C%B0%E7%9B%A4-%E7%99%BC%E7%8F%BE%E4%BA%8C%E6%88%B0%E8%8B%B1%E5%BC%8F%E8%BF%AB%E6%93%8A%E7%A0%B2%E5%BD%88-eod%E6%AA%A2%E8%B5%B0%E5%AE%89%E5%85%A8%E8%99%95%E7%90%86"
+    },
+    "summary": {
+      "en": "A Second World War British mortar shell was unearthed at a construction site outside Sham Shui Po Sports Ground today. A worker reported at 12:58pm that a suspicious object had been found and could be an explosive. Police arrived and found a WWII-era British mortar shell about 24cm long and 5cm in diameter. Explosive Ordnance Disposal officers examined it and confirmed there were no explosives inside, before removing it and destroying it safely. No one was injured and the scene was later reopened. The site is part of the Urban Renewal Authority's Cheung Wah Street / Cheung Sha Wan Road redevelopment project.",
+      "zh_hans": "深水埗运动场对开一个地盘今日中午发现战时迫击炮弹。工人于中午12时58分报案，指发现可疑物体，怀疑是爆炸品。警方到场后发现一枚二战时期英式迫击炮弹，长约24厘米，直径约5厘米，爆炸品处理课人员到场调查，证实炮弹内没有残余炸药，其后将其销毁及安全处理。事件中无人受伤，现场其后解封。该地盘是市建局昌华街／长沙湾道重建项目工地。",
+      "zh_hant": "深水埗運動場對開一個地盤今日中午發現戰時迫擊砲彈。工人於中午12時58分報案，指發現可疑物體，懷疑是爆炸品。警方到場後發現一枚二戰時期英式迫擊砲彈，長約24厘米，直徑約5厘米，爆炸品處理課人員到場調查，證實砲彈內沒有殘餘炸藥，其後將其銷毀及安全處理。事件中無人受傷，現場其後解封。該地盤是市建局昌華街／長沙灣道重建項目工地。"
+    },
+    "tags": {
+      "en": [
+        "Mortar shell",
+        "Sham Shui Po",
+        "Explosive Ordnance Disposal"
+      ],
+      "zh_hans": [
+        "迫击炮弹",
+        "深水埗",
+        "爆炸品处理课"
+      ],
+      "zh_hant": [
+        "迫擊砲彈",
+        "深水埗",
+        "爆炸品處理課"
+      ]
+    },
+    "title": {
+      "en": "WWII British mortar shell unearthed at Sham Shui Po construction site, 24cm long with no explosives inside; EOD destroys it safely",
+      "zh_hans": "深水埗地盘挖出二战英式迫击炮弹 长24厘米无炸药 爆炸品处理课销毁",
+      "zh_hant": "深水埗地盤挖出二戰英式迫擊砲彈 長24厘米無炸藥 爆炸品處理課銷毀"
+    },
+    "image_url": "",
+    "image_prompt": "事實：深水埗地盤挖出二戰英式迫擊砲彈，長24厘米，內無炸藥，爆炸品處理課銷毀。場景：光猛日間地盤現場，圍封膠帶、警員及爆炸品處理課人員在場戒備，挖土機停在一旁，氣氛明亮專業，人物用背影或側面，唔可以捏造具體人臉。風格：電視新聞圖卡風格，16:9，寫實、莊重專業。標題兩行大字直接壓喺畫面上面，第一行「深水埗地盤挖出二戰迫擊砲彈」白字，第二行「長24厘米無炸藥 專家銷毀」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
   },
   {
     "category": "hk",
