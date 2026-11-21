@@ -1,5 +1,239 @@
 [
   {
+    "category": "world",
+    "id": "20261121-spacex-dragon-returns-earth-splashdown",
+    "published_at": "2026-11-21T12:39:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878689-20261121.htm"
+    },
+    "summary": {
+      "en": "SpaceX's Dragon spacecraft has undocked from the International Space Station and begun its journey back to Earth, carrying a large quantity of research samples and equipment. NASA expects the Dragon to splash down in waters off California on Sunday morning Hong Kong time. The spacecraft is bringing back a 3D-bioprinted blood vessel structure model and frozen samples processed aboard the station for tumour research, which will help scientists study vascular ageing and cardiovascular disease and explore new ways to improve cancer treatment. The cargo Dragon was launched on October 13 aboard a Falcon 9 rocket from Cape Canaveral in Florida, delivering about 2,800 kilograms of research equipment and supplies to the space station.",
+      "zh_hans": "美国太空探索技术公司（SpaceX）的「龙」飞船脱离国际太空站，带回大量科研样本和设备等启程返回地球。美国太空总署预计「龙」飞船在香港时间明早在加州附近海域溅落。太空总署说，「龙」飞船带回包括3D生物打印的血管结构模型，以及在太空站经过处理、用于肿瘤研究的冷冻样本等；这些样本有助科研人员研究血管衰老和心血管疾病，以及探索改进癌症治疗的新方法。货运「龙」飞船上月13日搭乘「猎鹰9」火箭，从佛罗里达州卡纳维拉尔角基地发射升空，为国际太空站运送约2800公斤科研设备和补给物资。",
+      "zh_hant": "美國太空探索技術公司（SpaceX）的「龍」飛船脫離國際太空站，帶回大量科研樣本和設備等啟程返回地球。美國太空總署預計「龍」飛船在香港時間明早在加州附近海域濺落。太空總署說，「龍」飛船帶回包括3D生物打印的血管結構模型，以及在太空站經過處理、用於腫瘤研究的冷凍樣本等；這些樣本有助科研人員研究血管衰老和心血管疾病，以及探索改進癌症治療的新方法。貨運「龍」飛船上月13日搭乘「獵鷹9」火箭，從佛羅里達州卡納維拉爾角基地發射升空，為國際太空站運送約2800公斤科研設備和補給物資。"
+    },
+    "tags": {
+      "en": [
+        "SpaceX",
+        "Dragon spacecraft",
+        "International Space Station"
+      ],
+      "zh_hans": [
+        "SpaceX",
+        "龙飞船",
+        "国际太空站"
+      ],
+      "zh_hant": [
+        "SpaceX",
+        "龍飛船",
+        "國際太空站"
+      ]
+    },
+    "title": {
+      "en": "SpaceX Dragon departs space station for Earth carrying 3D-printed blood vessel samples to aid cancer research",
+      "zh_hans": "SpaceX「龙」飞船离开太空站返地球 带3D打印血管样本助抗癌研究",
+      "zh_hant": "SpaceX「龍」飛船離開太空站返地球 帶3D打印血管樣本助抗癌研究"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-spacex-dragon-returns-earth-splashdown-v2.jpg",
+    "image_prompt": "事實：SpaceX「龍」飛船脫離國際太空站返回地球，帶回3D生物打印血管樣本助抗癌研究。場景：光猛日間太平洋海面，陽光普照，藍天白雲，回收船與降落傘緩緩下降的太空艙，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「SpaceX「龍」飛船返地球」白字，第二行「帶3D血管樣本助抗癌研究」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-spacex-dragon-returns-earth-splashdown-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-paul-chan-uk-netherlands-visit",
+    "published_at": "2026-11-21T12:30:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/21/P2026112100315.htm"
+    },
+    "summary": {
+      "en": "Financial Secretary Paul Chan will depart late tonight for a visit to the United Kingdom and the Netherlands, leading a delegation of more than 20 people including representatives from government departments, public bodies and industry organisations, as well as leaders from the investment and innovation and technology sectors, to strengthen trade and technology exchanges and promote Hong Kong's latest developments in order to secure more investment and cooperation. From November 22 to 25 in the UK, the delegation will visit the University of Cambridge for an innovation dialogue co-hosted by the Hong Kong Trade Development Council and the university, and tour the university's commercialisation arm and research centres of biopharmaceutical companies. In London, Chan will attend the plenary meeting of the Hong Kong-European Business Council, a Hong Kong Business Association luncheon and a Hong Kong dinner hosted by the Trade Development Council, meet local business, finance and think-tank leaders, and attend a financial sector roundtable. From November 25 to 28 in the Netherlands, the delegation will visit Amsterdam, The Hague and Eindhoven, touring innovation parks, innovation centres and technology companies, and attend business meals to brief local audiences on Hong Kong. Chan will return to Hong Kong on the morning of November 29, and Deputy Financial Secretary Michael Wong will act as Financial Secretary during his absence.",
+      "zh_hans": "财政司司长陈茂波今日深夜启程前往英国和荷兰访问。他将率领一个20多人的代表团，成员包括多个政府部门、公营机构和行业组织的代表，以及投资界和创科界的领袖，以增进香港与两地的商贸和创科交流，并推广香港的最新发展，以促成更多的投资与合作。11月22日至25日访问英国期间，代表团会到访剑桥大学，出席由香港贸易发展局与剑桥大学合办的创新对话会，并到访大学的创新成果商品化机构和生物医药企业的研发中心。陈茂波一行其后会在伦敦出席香港—欧洲商务委员会全体会议、香港工商协会午餐会，以及由香港贸易发展局举办的「香港晚宴」。在伦敦期间，他也会与当地工商金融界和智库的领袖会面，并出席金融界圆桌会议。11月25日至28日访问荷兰期间，代表团会前往阿姆斯特丹、海牙和埃因霍温等地，参观多个创科园区、创新中心和创科企业。陈茂波一行也会出席多场商务餐会，向当地各界介绍香港的最新情况。陈茂波一行将于荷兰时间11月28日上午启程回港，11月29日早上返抵香港。在他离港期间，财政司副司长黄伟纶将署任财政司司长。",
+      "zh_hant": "財政司司長陳茂波今日深夜啟程前往英國和荷蘭訪問。他將率領一個20多人代表團，成員包括多個政府部門、公營機構和行業組織的代表，以及投資界和創科界的領袖，以增進香港與兩地的商貿和創科交流，並推廣香港的最新發展，以促成更多的投資與合作。11月22日至25日訪問英國期間，代表團會到訪劍橋大學，出席由香港貿易發展局與劍橋大學合辦的創新對話會，並到訪大學的創新成果商品化機構和生物醫藥企業的研發中心。陳茂波一行其後會在倫敦出席香港－歐洲商務委員會全體會議、香港工商協會午餐會，以及由香港貿易發展局舉辦的「香港晚宴」。在倫敦期間，他也會與當地工商金融界和智庫的領袖會面，並出席金融界圓桌會議。11月25日至28日訪問荷蘭期間，代表團會前往阿姆斯特丹、海牙和埃因霍溫等地，參觀多個創科園區、創新中心和創科企業。陳茂波一行也會出席多場商務餐會，向當地各界介紹香港的最新情況。陳茂波一行將於荷蘭時間11月28日上午啟程回港，11月29日早上返抵香港。在他離港期間，財政司副司長黃偉綸將署任財政司司長。"
+    },
+    "tags": {
+      "en": [
+        "Paul Chan",
+        "United Kingdom",
+        "Netherlands"
+      ],
+      "zh_hans": [
+        "陈茂波",
+        "英国",
+        "荷兰"
+      ],
+      "zh_hant": [
+        "陳茂波",
+        "英國",
+        "荷蘭"
+      ]
+    },
+    "title": {
+      "en": "Paul Chan leads 20-strong delegation to Britain and the Netherlands to promote Hong Kong and win investment",
+      "zh_hans": "陈茂波率团访英荷推广香港 20多人代表团促投资合作",
+      "zh_hant": "陳茂波率團訪英荷推廣香港 20多人代表團促投資合作"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-paul-chan-uk-netherlands-visit-v2.jpg",
+    "image_prompt": "事實：財政司司長陳茂波率20多人代表團訪問英國和荷蘭，推廣香港最新發展促成投資合作。場景：光猛日間倫敦金融區街景，陽光普照，現代玻璃大廈與古典建築並列，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「陳茂波率團訪英荷推廣香港」白字，第二行「20多人代表團促投資合作」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-paul-chan-uk-netherlands-visit-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-customs-fake-goods-money-laundering-800-items",
+    "published_at": "2026-11-21T12:09:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878687-20261121.htm"
+    },
+    "summary": {
+      "en": "Hong Kong Customs has cracked a case involving the sale of counterfeit goods through an online shop and a distribution centre, seizing about 800 items including unlicensed perfume and designer toys with an estimated market value of around HK$500,000. A 61-year-old man was arrested over suspected handling of criminal proceeds of up to HK$6 million. Acting on a tip-off, Customs raided an industrial unit in Kwun Tong on November 11 and seized the suspected items. The arrested local man is an employee of the online shop, responsible for daily storage and dispatch at the distribution centre, and is on police bail pending further investigation. The shop is run by a 30-year-old local man, the arrested man's son and the alleged mastermind, who has been out of Hong Kong for a long time. Customs said the counterfeit perfume is highly convincing and hard for ordinary consumers to tell apart, advising the public to check whether the label on a genuine bottle is centred and whether the engraving on the base is clear and neat. The seller set up its own website and social media accounts to pose as a large-scale online retailer and falsely claimed the goods came from overseas agents. The counterfeit perfume cost HK$100 to HK$200 to make and sold for about HK$700 to HK$1,000, roughly 80 per cent of the genuine price. Customs described the warehouse conditions as poor, posing a possible health risk to users, and said perfume samples will be sent to the Government Laboratory for safety testing, urging the public to shop at reputable stores.",
+      "zh_hans": "海关侦破一宗透过网店及分销中心售卖冒牌物品并涉及清洗黑钱的案件，检获约800件物品，包括无牌香水和潮玩公仔，估计市值约50万元；一名61岁男子被捕，涉及处理怀疑犯罪得益高达600万元。海关根据线报调查，本月11日突击搜查观塘一个工厦单位，检获该批怀疑物品。被捕本地男子是涉案网店职员，负责分销中心日常储存及发货，现正保释候查；涉案网店负责人是30岁本地男子、被捕人的儿子，属案中主谋，长期不在港。海关表示，无牌香水仿真度相当高，一般消费者不容易分辨，提醒市民留意正货樽身贴纸的字较为正中、瓶底刻字清晰整齐；又指卖家设立自家网站及社交媒体账户接单，讹称货品来自海外代理商，营造具规模大型网商形象。无牌香水成本100至200元，售价约700至1000元，约为正货八成。海关形容仓库环境恶劣，或对使用者构成健康风险，稍后会将香水样本送往政府化验所安全测试，呼吁市民光顾信誉良好的店铺。",
+      "zh_hant": "海關偵破一宗透過網店及分銷中心售賣冒牌物品並涉及清洗黑錢的案件，檢獲約800件物品，包括無牌香水和潮玩公仔，估計市值約50萬元；一名61歲男子被捕，涉及處理懷疑犯罪得益高達600萬元。海關根據線報調查，本月11日突擊搜查觀塘一個工廈單位，檢獲該批懷疑物品。被捕本地男子是涉案網店職員，負責分銷中心日常儲存及發貨，現正保釋候查；涉案網店負責人是30歲本地男子、被捕人的兒子，屬案中主謀，長期不在港。海關表示，無牌香水仿真度相當高，一般消費者不容易分辨，提醒市民留意正貨樽身貼紙的字較為正中、瓶底刻字清晰整齊；又指賣家設立自家網站及社交媒體帳戶接單，訛稱貨品來自海外代理商，營造具規模大型網商形象。無牌香水成本100至200元，售價約700至1000元，約為正貨八成。海關形容倉庫環境惡劣，或對使用者構成健康風險，稍後會將香水樣本送往政府化驗所安全測試，呼籲市民光顧信譽良好的店舖。"
+    },
+    "tags": {
+      "en": [
+        "Customs",
+        "Counterfeit goods",
+        "Money laundering"
+      ],
+      "zh_hans": [
+        "海关",
+        "冒牌货",
+        "洗黑钱"
+      ],
+      "zh_hant": [
+        "海關",
+        "冒牌貨",
+        "洗黑錢"
+      ]
+    },
+    "title": {
+      "en": "Customs busts online shop selling counterfeit perfume and designer toys, seizing 800 items and arresting one man over HK$6 million in suspected laundering",
+      "zh_hans": "海关破网店卖冒牌香水潮玩 检800件货拘一人 涉洗黑钱600万",
+      "zh_hant": "海關破網店賣冒牌香水潮玩 檢800件貨拘一人 涉洗黑錢600萬"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-customs-fake-goods-money-laundering-800-items-v2.jpg",
+    "image_prompt": "事實：海關偵破網店售賣冒牌香水及潮玩公仔，檢獲約800件物品，涉洗黑錢600萬元。場景：光猛日間海關行動現場，明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「海關破網店賣冒牌香水潮玩」白字，第二行「檢800件貨 涉洗黑錢600萬」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-customs-fake-goods-money-laundering-800-items-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-chan-mei-bo-commodity-half-tax-4-6b",
+    "published_at": "2026-11-21T11:01:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878685-20261121.htm"
+    },
+    "summary": {
+      "en": "Secretary for Transport and Logistics Mable Chan said the Government will push to pass a half-tax concession for physical commodity trading within this year, as part of efforts to turn Hong Kong into a hub for commodity and green fuel trading. Writing in her blog, Chan said the dedicated task force set up during Maritime Week to develop a green marine fuel trading platform will speed up work with the industry to build a global, diverse and open platform and expand green energy and shipping corridor networks. She said she has been in regular contact with the maritime and port industry to promote a series of tax concessions introduced since the 2020/21 tax year, and the industry is keen to use commodity trading to grow Hong Kong's maritime community. The Taxation (Amendment) (Tax Concessions for Shipping-related Activities and Physical Commodity Trading) Bill 2026, which supports the plan, will resume its second reading at the Legislative Council next Wednesday. Chan said a consultant's rough estimate puts the annual economic benefit of the half-tax concession at about HK$4.6 billion, while also helping attract more commodity trading activity to Hong Kong.",
+      "zh_hans": "运输及物流局局长陈美宝表示，将凭借海运周期间成立的「绿色船用燃料交易平台发展专责小组」，加快与业界携手建设面向全球、多元开放的绿色船用燃料交易平台，持续扩展绿色能源及航运走廊网络，争取年内通过为大宗商品贸易提供半税优惠，推动香港成为大宗商品与绿色燃料交易枢纽。陈美宝在网志表示，最近一直与海运港口业界接触，推广当局由2020/21课税年度开展的一连串税务优惠；业界亦殷切希望透过大宗商品交易带动本地海运社群茁壮发展。政府推动香港成为大宗商品与绿色燃料交易枢纽的《2026年税务（修订）（与航运有关的活动及实物大宗商品交易的税务宽减）条例草案》下周三会在立法会大会恢复二读。陈美宝指出，根据顾问粗略估计，这项半税优惠每年可为香港带来约46亿港元经济效益，同时有助吸引更多大宗商品交易活动在香港进行。",
+      "zh_hant": "運輸及物流局局長陳美寶表示，將憑藉海運週期間成立的「綠色船用燃料交易平台發展專責小組」，加快與業界攜手建設面向全球、多元開放的綠色船用燃料交易平台，持續擴展綠色能源及航運走廊網絡，爭取年內通過為大宗商品貿易提供半稅優惠，推動香港成為大宗商品與綠色燃料交易樞紐。陳美寶在網誌表示，最近一直與海運港口業界接觸，推廣當局由2020/21課稅年度開展的一連串稅務優惠；業界亦殷切希望透過大宗商品交易帶動本地海運社群茁壯發展。政府推動香港成為大宗商品與綠色燃料交易樞紐的《2026年稅務（修訂）（與航運有關的活動及實物大宗商品交易的稅務寬減）條例草案》下周三會在立法會大會恢復二讀。陳美寶指出，根據顧問粗略估計，這項半稅優惠每年可為香港帶來約46億港元經濟效益，同時有助吸引更多大宗商品交易活動在香港進行。"
+    },
+    "tags": {
+      "en": [
+        "Mable Chan",
+        "Commodity trading",
+        "Half-tax concession"
+      ],
+      "zh_hans": [
+        "陈美宝",
+        "大宗商品",
+        "半税优惠"
+      ],
+      "zh_hant": [
+        "陳美寶",
+        "大宗商品",
+        "半稅優惠"
+      ]
+    },
+    "title": {
+      "en": "Hong Kong seeks to pass half-tax break for commodity trading this year, a move estimated to bring HK$4.6 billion a year, transport chief says",
+      "zh_hans": "陈美宝：争取年内通过大宗商品半税优惠 每年料带46亿经济效益",
+      "zh_hant": "陳美寶：爭取年內通過大宗商品半稅優惠 每年料帶46億經濟效益"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-chan-mei-bo-commodity-half-tax-4-6b-v2.jpg",
+    "image_prompt": "事實：陳美寶稱爭取年內通過大宗商品半稅優惠，每年料帶46億港元經濟效益。場景：光猛日間維多利亞港貨櫃碼頭，陽光普照，藍天白雲，貨櫃船與吊機井然有序，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「爭取年內通過大宗商品半稅優惠」白字，第二行「每年料帶46億經濟效益」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-chan-mei-bo-commodity-half-tax-4-6b-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-law-superstars-concerts-kai-tak-2028",
+    "published_at": "2026-11-21T10:51:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878684-20261121.htm"
+    },
+    "summary": {
+      "en": "Secretary for Culture, Sports and Tourism Rosanna Law said she is confident Hong Kong will attract more international superstars to perform in the city in future. Speaking on a radio programme, Law said organisers can book the Hong Kong Coliseum a year in advance, while bookings at Kai Tak Sports Park already extend to 2028. On the difficulty of getting concert tickets, Law said many organisers offer ticket-and-hotel packages with the travel industry, but many fans only want tickets, so an anti-bot ticketing system has been adopted to help them buy. On whether a real-name ticketing system should be introduced, Law said some organisers have tried it, but checking identity cards and issuing wristbands at the door created a heavy burden, and the public should think carefully about whether they want that. She said the Government takes seriously the problem of illegal ticket touting and fake tickets outside concert venues, and police will keep enforcing the law, adding that the Government will not relax or become complacent and must keep improving enforcement and venue arrangements.",
+      "zh_hans": "文化体育及旅游局局长罗淑佩表示，有信心未来会吸引更多国际巨星来港开演唱会。她在一个电台节目表示，如想租用红馆，主办单位可以在一年前订场，启德体育园的订场更已去到2028年。对于演唱会门票「一票难求」，罗淑佩指出，不少主办单位都有与旅游业界提供门票及酒店住宿套票，但很多观众反映只需演唱会门票，为了令他们买到票，已使用「反机械人」订票模式。至于会否推行实名制，罗淑佩表示，曾有主办单位实施实名制，但入场时要核对观众身份证，他们亦要戴手带，造成很大负担，认为外界应该认真思考，是否想这样做。她提到，当局重视在演唱会场地外违法兜售门票甚至卖假门票的问题，警方会持续执法，强调当局不会松懈或自满，需要不断改进执法或场馆安排。",
+      "zh_hant": "文化體育及旅遊局局長羅淑佩表示，有信心未來會吸引更多國際巨星來港開演唱會。她在一個電台節目表示，如想租用紅館，主辦單位可以在一年前訂場，啟德體育園的訂場更已去到2028年。對於演唱會門票「一票難求」，羅淑佩指出，不少主辦單位都有與旅遊業界提供門票及酒店住宿套票，但很多觀眾反映只需演唱會門票，為了令他們買到票，已使用「反機械人」訂票模式。至於會否推行實名制，羅淑佩表示，曾有主辦單位實施實名制，但入場時要核對觀眾身份證，他們亦要戴手帶，造成很大負擔，認為外界應該認真思考，是否想這樣做。她提到，當局重視在演唱會場地外違法兜售門票甚至賣假門票的問題，警方會持續執法，強調當局不會鬆懈或自滿，需要不斷改進執法或場館安排。"
+    },
+    "tags": {
+      "en": [
+        "Rosanna Law",
+        "Concerts",
+        "Kai Tak Sports Park"
+      ],
+      "zh_hans": [
+        "罗淑佩",
+        "演唱会",
+        "启德体育园"
+      ],
+      "zh_hant": [
+        "羅淑佩",
+        "演唱會",
+        "啟德體育園"
+      ]
+    },
+    "title": {
+      "en": "Hong Kong confident of attracting more international superstars as Kai Tak bookings already stretch to 2028, culture chief says",
+      "zh_hans": "罗淑佩：有信心吸引更多国际巨星来港开唱 启德订场已去到2028年",
+      "zh_hant": "羅淑佩：有信心吸引更多國際巨星來港開唱 啟德訂場已去到2028年"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-law-superstars-concerts-kai-tak-2028-v2.jpg",
+    "image_prompt": "事實：羅淑佩稱有信心吸引更多國際巨星來港開演唱會，啟德體育園訂場已去到2028年。場景：光猛日間啟德體育園主場館外景，陽光普照，藍天白雲，現代建築線條明亮，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「有信心吸引更多國際巨星來港開唱」白字，第二行「啟德訂場已去到2028年」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-law-superstars-concerts-kai-tak-2028-v2.jpg"
+  },
+  {
+    "category": "world",
+    "id": "20261121-trump-huang-xi-nuclear-consensus",
+    "published_at": "2026-11-21T10:11:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878680-20261121.htm"
+    },
+    "summary": {
+      "en": "US President Donald Trump said he discussed Nvidia chief executive Jensen Huang with Chinese President Xi Jinping in Shenzhen, though he gave no details. Trump also said he would ban American companies from building artificial intelligence data centres overseas, warning of extremely heavy taxes and claiming the centres would be taken by China. Speaking at a White House press conference summing up his Asia trip, Trump described the APEC meeting in Shenzhen as a very successful economic meeting and the first-ever China-Russia-US trilateral summit as unprecedented and hugely significant, saying the three countries had formally agreed that nuclear conflict must never happen. Reports say Huang has agreed to testify at a public Senate hearing, while his representatives declined to comment; Huang had already agreed to testify behind closed doors to three House committees on December 1.",
+      "zh_hans": "美国总统特朗普表示，早前在深圳与国家主席习近平讨论过英伟达行政总裁黄仁勋，但未有透露细节。他又说，将禁止美国企业在海外兴建人工智能数据中心，警告会向有关企业征收极为沉重的税项，声称数据中心会被中国抢走。特朗普在白宫举行记者会总结亚洲访问，形容深圳APEC会议是非常成功的经济会议，中美俄三国领导人首次三方会晤史无前例、意义重大，三国已正式达成共识，绝不能让核冲突发生。报道指黄仁勋同意在参议院公开听证会作证，其代表拒绝置评；黄仁勋早前已同意12月1日向三个众议院委员会闭门作供。",
+      "zh_hant": "美國總統特朗普表示，早前在深圳與國家主席習近平討論過輝達行政總裁黃仁勳，但未有透露細節。他又說，將禁止美國企業在海外興建人工智能數據中心，警告會向有關企業徵收極為沉重的稅項，聲稱數據中心會被中國搶走。特朗普在白宮舉行記者會總結亞洲訪問，形容深圳APEC會議是非常成功的經濟會議，中美俄三國領導人首次三方會晤史無前例、意義重大，三國已正式達成共識，絕不能讓核衝突發生。報道指黃仁勳同意在參議院公開聽證會作證，其代表拒絕置評；黃仁勳早前已同意12月1日向三個眾議院委員會閉門作供。"
+    },
+    "tags": {
+      "en": [
+        "Trump",
+        "Jensen Huang",
+        "China-Russia-US summit"
+      ],
+      "zh_hans": [
+        "特朗普",
+        "黄仁勋",
+        "中美俄三方会晤"
+      ],
+      "zh_hant": [
+        "特朗普",
+        "黃仁勳",
+        "中美俄三方會晤"
+      ]
+    },
+    "title": {
+      "en": "Trump says he discussed Jensen Huang with Xi as three nations agree nuclear conflict must never happen",
+      "zh_hans": "特朗普称曾与习讨论黄仁勋 三国共识绝不让核冲突发生",
+      "zh_hant": "特朗普稱曾與習討論黃仁勳 三國共識絕不讓核衝突發生"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-trump-huang-xi-nuclear-consensus-v2.jpg",
+    "image_prompt": "事實：特朗普稱曾與習近平討論黃仁勳，三國共識絕不能讓核衝突發生。場景：光猛日間白宮記者會現場，陽光透過窗戶灑入，明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「特朗普稱曾與習討論黃仁勳」白字，第二行「三國共識絕不讓核衝突發生」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-trump-huang-xi-nuclear-consensus-v2.jpg"
+  },
+  {
     "category": "hk",
     "id": "20261121-law-visitors-55m-confidence",
     "published_at": "2026-11-21T10:05:00+08:00",
@@ -1243,234 +1477,6 @@
     "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-hkicl-fraudulent-website-fpshk-xyz-v2.jpg",
     "image_prompt": "事實：香港銀行同業結算有限公司示警，假網站fpshk.xyz冒充轉數快客服呃退款，提醒市民提防。場景：光猛日間香港金融區高樓，陽光下一個人手持手機，手機畫面有防騙盾牌標誌，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔，唔可以畫出假網站地址。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「金管局轄下結算公司示警」白字，第二行「假網站冒充轉數快客服呃退款」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
     "image_r2_key": "design/202611/20261121-hkicl-fraudulent-website-fpshk-xyz-v2.jpg"
-  },
-  {
-    "category": "world",
-    "id": "20261121-spacex-dragon-returns-earth-splashdown",
-    "published_at": "2026-11-21T12:39:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878689-20261121.htm"
-    },
-    "summary": {
-      "en": "SpaceX's Dragon spacecraft has undocked from the International Space Station and begun its journey back to Earth, carrying a large quantity of research samples and equipment. NASA expects the Dragon to splash down in waters off California on Sunday morning Hong Kong time. The spacecraft is bringing back a 3D-bioprinted blood vessel structure model and frozen samples processed aboard the station for tumour research, which will help scientists study vascular ageing and cardiovascular disease and explore new ways to improve cancer treatment. The cargo Dragon was launched on October 13 aboard a Falcon 9 rocket from Cape Canaveral in Florida, delivering about 2,800 kilograms of research equipment and supplies to the space station.",
-      "zh_hans": "美国太空探索技术公司（SpaceX）的「龙」飞船脱离国际太空站，带回大量科研样本和设备等启程返回地球。美国太空总署预计「龙」飞船在香港时间明早在加州附近海域溅落。太空总署说，「龙」飞船带回包括3D生物打印的血管结构模型，以及在太空站经过处理、用于肿瘤研究的冷冻样本等；这些样本有助科研人员研究血管衰老和心血管疾病，以及探索改进癌症治疗的新方法。货运「龙」飞船上月13日搭乘「猎鹰9」火箭，从佛罗里达州卡纳维拉尔角基地发射升空，为国际太空站运送约2800公斤科研设备和补给物资。",
-      "zh_hant": "美國太空探索技術公司（SpaceX）的「龍」飛船脫離國際太空站，帶回大量科研樣本和設備等啟程返回地球。美國太空總署預計「龍」飛船在香港時間明早在加州附近海域濺落。太空總署說，「龍」飛船帶回包括3D生物打印的血管結構模型，以及在太空站經過處理、用於腫瘤研究的冷凍樣本等；這些樣本有助科研人員研究血管衰老和心血管疾病，以及探索改進癌症治療的新方法。貨運「龍」飛船上月13日搭乘「獵鷹9」火箭，從佛羅里達州卡納維拉爾角基地發射升空，為國際太空站運送約2800公斤科研設備和補給物資。"
-    },
-    "tags": {
-      "en": [
-        "SpaceX",
-        "Dragon spacecraft",
-        "International Space Station"
-      ],
-      "zh_hans": [
-        "SpaceX",
-        "龙飞船",
-        "国际太空站"
-      ],
-      "zh_hant": [
-        "SpaceX",
-        "龍飛船",
-        "國際太空站"
-      ]
-    },
-    "title": {
-      "en": "SpaceX Dragon departs space station for Earth carrying 3D-printed blood vessel samples to aid cancer research",
-      "zh_hans": "SpaceX「龙」飞船离开太空站返地球 带3D打印血管样本助抗癌研究",
-      "zh_hant": "SpaceX「龍」飛船離開太空站返地球 帶3D打印血管樣本助抗癌研究"
-    },
-    "image_url": "",
-    "image_prompt": "事實：SpaceX「龍」飛船脫離國際太空站返回地球，帶回3D生物打印血管樣本助抗癌研究。場景：光猛日間太平洋海面，陽光普照，藍天白雲，回收船與降落傘緩緩下降的太空艙，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「SpaceX「龍」飛船返地球」白字，第二行「帶3D血管樣本助抗癌研究」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-paul-chan-uk-netherlands-visit",
-    "published_at": "2026-11-21T12:30:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/21/P2026112100315.htm"
-    },
-    "summary": {
-      "en": "Financial Secretary Paul Chan will depart late tonight for a visit to the United Kingdom and the Netherlands, leading a delegation of more than 20 people including representatives from government departments, public bodies and industry organisations, as well as leaders from the investment and innovation and technology sectors, to strengthen trade and technology exchanges and promote Hong Kong's latest developments in order to secure more investment and cooperation. From November 22 to 25 in the UK, the delegation will visit the University of Cambridge for an innovation dialogue co-hosted by the Hong Kong Trade Development Council and the university, and tour the university's commercialisation arm and research centres of biopharmaceutical companies. In London, Chan will attend the plenary meeting of the Hong Kong-European Business Council, a Hong Kong Business Association luncheon and a Hong Kong dinner hosted by the Trade Development Council, meet local business, finance and think-tank leaders, and attend a financial sector roundtable. From November 25 to 28 in the Netherlands, the delegation will visit Amsterdam, The Hague and Eindhoven, touring innovation parks, innovation centres and technology companies, and attend business meals to brief local audiences on Hong Kong. Chan will return to Hong Kong on the morning of November 29, and Deputy Financial Secretary Michael Wong will act as Financial Secretary during his absence.",
-      "zh_hans": "财政司司长陈茂波今日深夜启程前往英国和荷兰访问。他将率领一个20多人的代表团，成员包括多个政府部门、公营机构和行业组织的代表，以及投资界和创科界的领袖，以增进香港与两地的商贸和创科交流，并推广香港的最新发展，以促成更多的投资与合作。11月22日至25日访问英国期间，代表团会到访剑桥大学，出席由香港贸易发展局与剑桥大学合办的创新对话会，并到访大学的创新成果商品化机构和生物医药企业的研发中心。陈茂波一行其后会在伦敦出席香港—欧洲商务委员会全体会议、香港工商协会午餐会，以及由香港贸易发展局举办的「香港晚宴」。在伦敦期间，他也会与当地工商金融界和智库的领袖会面，并出席金融界圆桌会议。11月25日至28日访问荷兰期间，代表团会前往阿姆斯特丹、海牙和埃因霍温等地，参观多个创科园区、创新中心和创科企业。陈茂波一行也会出席多场商务餐会，向当地各界介绍香港的最新情况。陈茂波一行将于荷兰时间11月28日上午启程回港，11月29日早上返抵香港。在他离港期间，财政司副司长黄伟纶将署任财政司司长。",
-      "zh_hant": "財政司司長陳茂波今日深夜啟程前往英國和荷蘭訪問。他將率領一個20多人代表團，成員包括多個政府部門、公營機構和行業組織的代表，以及投資界和創科界的領袖，以增進香港與兩地的商貿和創科交流，並推廣香港的最新發展，以促成更多的投資與合作。11月22日至25日訪問英國期間，代表團會到訪劍橋大學，出席由香港貿易發展局與劍橋大學合辦的創新對話會，並到訪大學的創新成果商品化機構和生物醫藥企業的研發中心。陳茂波一行其後會在倫敦出席香港－歐洲商務委員會全體會議、香港工商協會午餐會，以及由香港貿易發展局舉辦的「香港晚宴」。在倫敦期間，他也會與當地工商金融界和智庫的領袖會面，並出席金融界圓桌會議。11月25日至28日訪問荷蘭期間，代表團會前往阿姆斯特丹、海牙和埃因霍溫等地，參觀多個創科園區、創新中心和創科企業。陳茂波一行也會出席多場商務餐會，向當地各界介紹香港的最新情況。陳茂波一行將於荷蘭時間11月28日上午啟程回港，11月29日早上返抵香港。在他離港期間，財政司副司長黃偉綸將署任財政司司長。"
-    },
-    "tags": {
-      "en": [
-        "Paul Chan",
-        "United Kingdom",
-        "Netherlands"
-      ],
-      "zh_hans": [
-        "陈茂波",
-        "英国",
-        "荷兰"
-      ],
-      "zh_hant": [
-        "陳茂波",
-        "英國",
-        "荷蘭"
-      ]
-    },
-    "title": {
-      "en": "Paul Chan leads 20-strong delegation to Britain and the Netherlands to promote Hong Kong and win investment",
-      "zh_hans": "陈茂波率团访英荷推广香港 20多人代表团促投资合作",
-      "zh_hant": "陳茂波率團訪英荷推廣香港 20多人代表團促投資合作"
-    },
-    "image_url": "",
-    "image_prompt": "事實：財政司司長陳茂波率20多人代表團訪問英國和荷蘭，推廣香港最新發展促成投資合作。場景：光猛日間倫敦金融區街景，陽光普照，現代玻璃大廈與古典建築並列，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「陳茂波率團訪英荷推廣香港」白字，第二行「20多人代表團促投資合作」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-customs-fake-goods-money-laundering-800-items",
-    "published_at": "2026-11-21T12:09:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878687-20261121.htm"
-    },
-    "summary": {
-      "en": "Hong Kong Customs has cracked a case involving the sale of counterfeit goods through an online shop and a distribution centre, seizing about 800 items including unlicensed perfume and designer toys with an estimated market value of around HK$500,000. A 61-year-old man was arrested over suspected handling of criminal proceeds of up to HK$6 million. Acting on a tip-off, Customs raided an industrial unit in Kwun Tong on November 11 and seized the suspected items. The arrested local man is an employee of the online shop, responsible for daily storage and dispatch at the distribution centre, and is on police bail pending further investigation. The shop is run by a 30-year-old local man, the arrested man's son and the alleged mastermind, who has been out of Hong Kong for a long time. Customs said the counterfeit perfume is highly convincing and hard for ordinary consumers to tell apart, advising the public to check whether the label on a genuine bottle is centred and whether the engraving on the base is clear and neat. The seller set up its own website and social media accounts to pose as a large-scale online retailer and falsely claimed the goods came from overseas agents. The counterfeit perfume cost HK$100 to HK$200 to make and sold for about HK$700 to HK$1,000, roughly 80 per cent of the genuine price. Customs described the warehouse conditions as poor, posing a possible health risk to users, and said perfume samples will be sent to the Government Laboratory for safety testing, urging the public to shop at reputable stores.",
-      "zh_hans": "海关侦破一宗透过网店及分销中心售卖冒牌物品并涉及清洗黑钱的案件，检获约800件物品，包括无牌香水和潮玩公仔，估计市值约50万元；一名61岁男子被捕，涉及处理怀疑犯罪得益高达600万元。海关根据线报调查，本月11日突击搜查观塘一个工厦单位，检获该批怀疑物品。被捕本地男子是涉案网店职员，负责分销中心日常储存及发货，现正保释候查；涉案网店负责人是30岁本地男子、被捕人的儿子，属案中主谋，长期不在港。海关表示，无牌香水仿真度相当高，一般消费者不容易分辨，提醒市民留意正货樽身贴纸的字较为正中、瓶底刻字清晰整齐；又指卖家设立自家网站及社交媒体账户接单，讹称货品来自海外代理商，营造具规模大型网商形象。无牌香水成本100至200元，售价约700至1000元，约为正货八成。海关形容仓库环境恶劣，或对使用者构成健康风险，稍后会将香水样本送往政府化验所安全测试，呼吁市民光顾信誉良好的店铺。",
-      "zh_hant": "海關偵破一宗透過網店及分銷中心售賣冒牌物品並涉及清洗黑錢的案件，檢獲約800件物品，包括無牌香水和潮玩公仔，估計市值約50萬元；一名61歲男子被捕，涉及處理懷疑犯罪得益高達600萬元。海關根據線報調查，本月11日突擊搜查觀塘一個工廈單位，檢獲該批懷疑物品。被捕本地男子是涉案網店職員，負責分銷中心日常儲存及發貨，現正保釋候查；涉案網店負責人是30歲本地男子、被捕人的兒子，屬案中主謀，長期不在港。海關表示，無牌香水仿真度相當高，一般消費者不容易分辨，提醒市民留意正貨樽身貼紙的字較為正中、瓶底刻字清晰整齊；又指賣家設立自家網站及社交媒體帳戶接單，訛稱貨品來自海外代理商，營造具規模大型網商形象。無牌香水成本100至200元，售價約700至1000元，約為正貨八成。海關形容倉庫環境惡劣，或對使用者構成健康風險，稍後會將香水樣本送往政府化驗所安全測試，呼籲市民光顧信譽良好的店舖。"
-    },
-    "tags": {
-      "en": [
-        "Customs",
-        "Counterfeit goods",
-        "Money laundering"
-      ],
-      "zh_hans": [
-        "海关",
-        "冒牌货",
-        "洗黑钱"
-      ],
-      "zh_hant": [
-        "海關",
-        "冒牌貨",
-        "洗黑錢"
-      ]
-    },
-    "title": {
-      "en": "Customs busts online shop selling counterfeit perfume and designer toys, seizing 800 items and arresting one man over HK$6 million in suspected laundering",
-      "zh_hans": "海关破网店卖冒牌香水潮玩 检800件货拘一人 涉洗黑钱600万",
-      "zh_hant": "海關破網店賣冒牌香水潮玩 檢800件貨拘一人 涉洗黑錢600萬"
-    },
-    "image_url": "",
-    "image_prompt": "事實：海關偵破網店售賣冒牌香水及潮玩公仔，檢獲約800件物品，涉洗黑錢600萬元。場景：光猛日間海關行動現場，明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「海關破網店賣冒牌香水潮玩」白字，第二行「檢800件貨 涉洗黑錢600萬」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-chan-mei-bo-commodity-half-tax-4-6b",
-    "published_at": "2026-11-21T11:01:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878685-20261121.htm"
-    },
-    "summary": {
-      "en": "Secretary for Transport and Logistics Mable Chan said the Government will push to pass a half-tax concession for physical commodity trading within this year, as part of efforts to turn Hong Kong into a hub for commodity and green fuel trading. Writing in her blog, Chan said the dedicated task force set up during Maritime Week to develop a green marine fuel trading platform will speed up work with the industry to build a global, diverse and open platform and expand green energy and shipping corridor networks. She said she has been in regular contact with the maritime and port industry to promote a series of tax concessions introduced since the 2020/21 tax year, and the industry is keen to use commodity trading to grow Hong Kong's maritime community. The Taxation (Amendment) (Tax Concessions for Shipping-related Activities and Physical Commodity Trading) Bill 2026, which supports the plan, will resume its second reading at the Legislative Council next Wednesday. Chan said a consultant's rough estimate puts the annual economic benefit of the half-tax concession at about HK$4.6 billion, while also helping attract more commodity trading activity to Hong Kong.",
-      "zh_hans": "运输及物流局局长陈美宝表示，将凭借海运周期间成立的「绿色船用燃料交易平台发展专责小组」，加快与业界携手建设面向全球、多元开放的绿色船用燃料交易平台，持续扩展绿色能源及航运走廊网络，争取年内通过为大宗商品贸易提供半税优惠，推动香港成为大宗商品与绿色燃料交易枢纽。陈美宝在网志表示，最近一直与海运港口业界接触，推广当局由2020/21课税年度开展的一连串税务优惠；业界亦殷切希望透过大宗商品交易带动本地海运社群茁壮发展。政府推动香港成为大宗商品与绿色燃料交易枢纽的《2026年税务（修订）（与航运有关的活动及实物大宗商品交易的税务宽减）条例草案》下周三会在立法会大会恢复二读。陈美宝指出，根据顾问粗略估计，这项半税优惠每年可为香港带来约46亿港元经济效益，同时有助吸引更多大宗商品交易活动在香港进行。",
-      "zh_hant": "運輸及物流局局長陳美寶表示，將憑藉海運週期間成立的「綠色船用燃料交易平台發展專責小組」，加快與業界攜手建設面向全球、多元開放的綠色船用燃料交易平台，持續擴展綠色能源及航運走廊網絡，爭取年內通過為大宗商品貿易提供半稅優惠，推動香港成為大宗商品與綠色燃料交易樞紐。陳美寶在網誌表示，最近一直與海運港口業界接觸，推廣當局由2020/21課稅年度開展的一連串稅務優惠；業界亦殷切希望透過大宗商品交易帶動本地海運社群茁壯發展。政府推動香港成為大宗商品與綠色燃料交易樞紐的《2026年稅務（修訂）（與航運有關的活動及實物大宗商品交易的稅務寬減）條例草案》下周三會在立法會大會恢復二讀。陳美寶指出，根據顧問粗略估計，這項半稅優惠每年可為香港帶來約46億港元經濟效益，同時有助吸引更多大宗商品交易活動在香港進行。"
-    },
-    "tags": {
-      "en": [
-        "Mable Chan",
-        "Commodity trading",
-        "Half-tax concession"
-      ],
-      "zh_hans": [
-        "陈美宝",
-        "大宗商品",
-        "半税优惠"
-      ],
-      "zh_hant": [
-        "陳美寶",
-        "大宗商品",
-        "半稅優惠"
-      ]
-    },
-    "title": {
-      "en": "Hong Kong seeks to pass half-tax break for commodity trading this year, a move estimated to bring HK$4.6 billion a year, transport chief says",
-      "zh_hans": "陈美宝：争取年内通过大宗商品半税优惠 每年料带46亿经济效益",
-      "zh_hant": "陳美寶：爭取年內通過大宗商品半稅優惠 每年料帶46億經濟效益"
-    },
-    "image_url": "",
-    "image_prompt": "事實：陳美寶稱爭取年內通過大宗商品半稅優惠，每年料帶46億港元經濟效益。場景：光猛日間維多利亞港貨櫃碼頭，陽光普照，藍天白雲，貨櫃船與吊機井然有序，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「爭取年內通過大宗商品半稅優惠」白字，第二行「每年料帶46億經濟效益」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-law-superstars-concerts-kai-tak-2028",
-    "published_at": "2026-11-21T10:51:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878684-20261121.htm"
-    },
-    "summary": {
-      "en": "Secretary for Culture, Sports and Tourism Rosanna Law said she is confident Hong Kong will attract more international superstars to perform in the city in future. Speaking on a radio programme, Law said organisers can book the Hong Kong Coliseum a year in advance, while bookings at Kai Tak Sports Park already extend to 2028. On the difficulty of getting concert tickets, Law said many organisers offer ticket-and-hotel packages with the travel industry, but many fans only want tickets, so an anti-bot ticketing system has been adopted to help them buy. On whether a real-name ticketing system should be introduced, Law said some organisers have tried it, but checking identity cards and issuing wristbands at the door created a heavy burden, and the public should think carefully about whether they want that. She said the Government takes seriously the problem of illegal ticket touting and fake tickets outside concert venues, and police will keep enforcing the law, adding that the Government will not relax or become complacent and must keep improving enforcement and venue arrangements.",
-      "zh_hans": "文化体育及旅游局局长罗淑佩表示，有信心未来会吸引更多国际巨星来港开演唱会。她在一个电台节目表示，如想租用红馆，主办单位可以在一年前订场，启德体育园的订场更已去到2028年。对于演唱会门票「一票难求」，罗淑佩指出，不少主办单位都有与旅游业界提供门票及酒店住宿套票，但很多观众反映只需演唱会门票，为了令他们买到票，已使用「反机械人」订票模式。至于会否推行实名制，罗淑佩表示，曾有主办单位实施实名制，但入场时要核对观众身份证，他们亦要戴手带，造成很大负担，认为外界应该认真思考，是否想这样做。她提到，当局重视在演唱会场地外违法兜售门票甚至卖假门票的问题，警方会持续执法，强调当局不会松懈或自满，需要不断改进执法或场馆安排。",
-      "zh_hant": "文化體育及旅遊局局長羅淑佩表示，有信心未來會吸引更多國際巨星來港開演唱會。她在一個電台節目表示，如想租用紅館，主辦單位可以在一年前訂場，啟德體育園的訂場更已去到2028年。對於演唱會門票「一票難求」，羅淑佩指出，不少主辦單位都有與旅遊業界提供門票及酒店住宿套票，但很多觀眾反映只需演唱會門票，為了令他們買到票，已使用「反機械人」訂票模式。至於會否推行實名制，羅淑佩表示，曾有主辦單位實施實名制，但入場時要核對觀眾身份證，他們亦要戴手帶，造成很大負擔，認為外界應該認真思考，是否想這樣做。她提到，當局重視在演唱會場地外違法兜售門票甚至賣假門票的問題，警方會持續執法，強調當局不會鬆懈或自滿，需要不斷改進執法或場館安排。"
-    },
-    "tags": {
-      "en": [
-        "Rosanna Law",
-        "Concerts",
-        "Kai Tak Sports Park"
-      ],
-      "zh_hans": [
-        "罗淑佩",
-        "演唱会",
-        "启德体育园"
-      ],
-      "zh_hant": [
-        "羅淑佩",
-        "演唱會",
-        "啟德體育園"
-      ]
-    },
-    "title": {
-      "en": "Hong Kong confident of attracting more international superstars as Kai Tak bookings already stretch to 2028, culture chief says",
-      "zh_hans": "罗淑佩：有信心吸引更多国际巨星来港开唱 启德订场已去到2028年",
-      "zh_hant": "羅淑佩：有信心吸引更多國際巨星來港開唱 啟德訂場已去到2028年"
-    },
-    "image_url": "",
-    "image_prompt": "事實：羅淑佩稱有信心吸引更多國際巨星來港開演唱會，啟德體育園訂場已去到2028年。場景：光猛日間啟德體育園主場館外景，陽光普照，藍天白雲，現代建築線條明亮，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「有信心吸引更多國際巨星來港開唱」白字，第二行「啟德訂場已去到2028年」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "world",
-    "id": "20261121-trump-huang-xi-nuclear-consensus",
-    "published_at": "2026-11-21T10:11:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878680-20261121.htm"
-    },
-    "summary": {
-      "en": "US President Donald Trump said he discussed Nvidia chief executive Jensen Huang with Chinese President Xi Jinping in Shenzhen, though he gave no details. Trump also said he would ban American companies from building artificial intelligence data centres overseas, warning of extremely heavy taxes and claiming the centres would be taken by China. Speaking at a White House press conference summing up his Asia trip, Trump described the APEC meeting in Shenzhen as a very successful economic meeting and the first-ever China-Russia-US trilateral summit as unprecedented and hugely significant, saying the three countries had formally agreed that nuclear conflict must never happen. Reports say Huang has agreed to testify at a public Senate hearing, while his representatives declined to comment; Huang had already agreed to testify behind closed doors to three House committees on December 1.",
-      "zh_hans": "美国总统特朗普表示，早前在深圳与国家主席习近平讨论过英伟达行政总裁黄仁勋，但未有透露细节。他又说，将禁止美国企业在海外兴建人工智能数据中心，警告会向有关企业征收极为沉重的税项，声称数据中心会被中国抢走。特朗普在白宫举行记者会总结亚洲访问，形容深圳APEC会议是非常成功的经济会议，中美俄三国领导人首次三方会晤史无前例、意义重大，三国已正式达成共识，绝不能让核冲突发生。报道指黄仁勋同意在参议院公开听证会作证，其代表拒绝置评；黄仁勋早前已同意12月1日向三个众议院委员会闭门作供。",
-      "zh_hant": "美國總統特朗普表示，早前在深圳與國家主席習近平討論過輝達行政總裁黃仁勳，但未有透露細節。他又說，將禁止美國企業在海外興建人工智能數據中心，警告會向有關企業徵收極為沉重的稅項，聲稱數據中心會被中國搶走。特朗普在白宮舉行記者會總結亞洲訪問，形容深圳APEC會議是非常成功的經濟會議，中美俄三國領導人首次三方會晤史無前例、意義重大，三國已正式達成共識，絕不能讓核衝突發生。報道指黃仁勳同意在參議院公開聽證會作證，其代表拒絕置評；黃仁勳早前已同意12月1日向三個眾議院委員會閉門作供。"
-    },
-    "tags": {
-      "en": [
-        "Trump",
-        "Jensen Huang",
-        "China-Russia-US summit"
-      ],
-      "zh_hans": [
-        "特朗普",
-        "黄仁勋",
-        "中美俄三方会晤"
-      ],
-      "zh_hant": [
-        "特朗普",
-        "黃仁勳",
-        "中美俄三方會晤"
-      ]
-    },
-    "title": {
-      "en": "Trump says he discussed Jensen Huang with Xi as three nations agree nuclear conflict must never happen",
-      "zh_hans": "特朗普称曾与习讨论黄仁勋 三国共识绝不让核冲突发生",
-      "zh_hant": "特朗普稱曾與習討論黃仁勳 三國共識絕不讓核衝突發生"
-    },
-    "image_url": "",
-    "image_prompt": "事實：特朗普稱曾與習近平討論黃仁勳，三國共識絕不能讓核衝突發生。場景：光猛日間白宮記者會現場，陽光透過窗戶灑入，明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「特朗普稱曾與習討論黃仁勳」白字，第二行「三國共識絕不讓核衝突發生」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
   },
   {
     "category": "finance",
