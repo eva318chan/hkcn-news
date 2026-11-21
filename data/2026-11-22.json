@@ -1,43 +1,5 @@
 [
   {
-    "category": "hk",
-    "id": "20261122-election-committee-subsector-voting-day",
-    "published_at": "2026-11-22T00:10:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878731-20261122.htm"
-    },
-    "summary": {
-      "en": "The Election Committee subsector ordinary election is held today, with 31 subsectors contested and 856 candidates vying for 723 seats among about 5,700 eligible voters. The social welfare subsector is the most competitive, with 25 candidates chasing 15 seats, or 1.66 candidates per seat. The more than 700 winners will join 259 automatically returned members and 518 ex-officio and nominated members to form the new 1,500-member Election Committee, which nominates and elects the Chief Executive and elects 40 Legislative Council members. Five general polling stations are open from 9am to 6pm, and ballot boxes will be taken to the central counting station at the Convention and Exhibition Centre after voting ends.",
-      "zh_hans": "选举委员会界别分组一般选举今日举行，今届共有31个界别分组需要竞逐，856名候选人争夺723个席位，合资格投票人数目约5700人。今次竞逐的界别中，社会福利界最激烈，25人争15席，平均1.66人竞逐一个位。胜出的700多名当选者，将联同自动当选的259人，以及518名当然委员和经提名产生的选委，组成新一届1500人的选举委员会，负责提名行政长官选举候选人及选出行政长官等。全港设有5个一般投票站，早上9时至下午6时开放投票，投票结束后票箱运到湾仔会展中央点票站点票。",
-      "zh_hant": "選舉委員會界別分組一般選舉今日舉行，今屆共有31個界別分組需要競逐，856名候選人爭奪723個席位，合資格投票人數目約5700人。今次競逐的界別中，社會福利界最激烈，25人爭15席，平均1.66人爭一個位。勝出的700多名當選者，將聯同自動當選的259人，以及518名當然委員同經提名產生的選委，組成新一屆1500人的選舉委員會，負責提名行政長官選舉候選人同選出行政長官等。全港設有5個一般投票站，早上9時至下午6時開放投票，投票結束後票箱運到灣仔會展中央點票站點票。"
-    },
-    "tags": {
-      "en": [
-        "Election Committee election",
-        "subsector election",
-        "polling day"
-      ],
-      "zh_hans": [
-        "选委会选举",
-        "界别分组",
-        "投票日"
-      ],
-      "zh_hant": [
-        "選委會選舉",
-        "界別分組",
-        "投票日"
-      ]
-    },
-    "title": {
-      "en": "Election Committee subsector polls open today as 856 candidates vie for 723 seats, social welfare race the hottest",
-      "zh_hans": "选委会界别分组选举今日投票 856人争723席社福界最激烈",
-      "zh_hant": "選委會選舉今日投票 856人爭723席社福界最激烈"
-    },
-    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-election-committee-subsector-voting-day.jpg",
-    "image_r2_key": "design/202611/20261122-election-committee-subsector-voting-day.jpg"
-  },
-  {
     "category": "world",
     "id": "20261122-finland-russian-cargo-ship-fire-drone",
     "published_at": "2026-11-22T01:56:00+08:00",
@@ -72,8 +34,9 @@
       "zh_hans": "俄罗斯货船芬兰湾起火 疑遭无人机袭击 船员撤离",
       "zh_hant": "俄羅斯貨船芬蘭灣起火 疑遭無人機襲擊 船員撤離"
     },
-    "image_url": "",
-    "image_prompt": "事實：俄羅斯貨船在芬蘭灣國際水域疑遭無人機襲擊，船身受損起火，船員撤離，船隻漂入芬蘭領海。場景：光猛日間，遼闊海面上一艘貨船遠景，船身冒出淡淡煙霧，附近有搜救船隻，天空明亮，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「俄羅斯貨船芬蘭灣起火」白字，第二行「疑遭無人機襲擊 船員撤離」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。"
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-finland-russian-cargo-ship-fire-drone-v2.jpg",
+    "image_prompt": "事實：俄羅斯貨船在芬蘭灣國際水域疑遭無人機襲擊，船身受損起火，船員撤離，船隻漂入芬蘭領海。場景：光猛日間，遼闊海面上一艘貨船遠景，船身冒出淡淡煙霧，附近有搜救船隻，天空明亮，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「俄羅斯貨船芬蘭灣起火」白字，第二行「疑遭無人機襲擊 船員撤離」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。",
+    "image_r2_key": "design/202611/20261122-finland-russian-cargo-ship-fire-drone-v2.jpg"
   },
   {
     "category": "world",
@@ -110,8 +73,9 @@
       "zh_hans": "卡塔尔代表团抵德黑兰磋商 美伊斡旋再启动",
       "zh_hant": "卡塔爾代表團抵德黑蘭磋商 美伊斡旋再啟動"
     },
-    "image_url": "",
-    "image_prompt": "事實：卡塔爾代表團抵達德黑蘭，與伊朗磋商兩小時；卡塔爾正斡旋美伊，推動恢復停火及重啟核談判。場景：光猛日間，一個現代化城市天際線遠景，陽光普照，天空明亮，畫面光亮通透；前景一張談判長枱放着文件及水杯。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「卡塔爾代表團抵德黑蘭磋商」白字，第二行「美伊斡旋再啟動」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫任何國旗。圖上除標題外不寫任何其他字。"
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-qatar-delegation-tehran-mediation-v2.jpg",
+    "image_prompt": "事實：卡塔爾代表團抵達德黑蘭，與伊朗磋商兩小時；卡塔爾正斡旋美伊，推動恢復停火及重啟核談判。場景：光猛日間，一個現代化城市天際線遠景，陽光普照，天空明亮，畫面光亮通透；前景一張談判長枱放着文件及水杯。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「卡塔爾代表團抵德黑蘭磋商」白字，第二行「美伊斡旋再啟動」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫任何國旗。圖上除標題外不寫任何其他字。",
+    "image_r2_key": "design/202611/20261122-qatar-delegation-tehran-mediation-v2.jpg"
   },
   {
     "category": "world",
@@ -148,8 +112,9 @@
       "zh_hans": "伊朗称拦截美军F-16迫降 美方否认：中东战机全部安全",
       "zh_hant": "伊朗稱攔截美軍F-16迫降 美方否認：中東戰機全部安全"
     },
-    "image_url": "",
-    "image_prompt": "事實：伊朗稱防空部隊在波斯灣上空攔截一架美軍F-16戰機，令其受損迫降；美軍中央司令部否認，稱中東所有戰機安全。場景：光猛日間，波斯灣遼闊海面，遠方一架戰機剪影飛越海面，天空明亮，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「伊朗稱攔截美軍F-16迫降」白字，第二行「美方否認：中東戰機全部安全」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。"
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-iran-f16-intercept-us-denies-v2.jpg",
+    "image_prompt": "事實：伊朗稱防空部隊在波斯灣上空攔截一架美軍F-16戰機，令其受損迫降；美軍中央司令部否認，稱中東所有戰機安全。場景：光猛日間，波斯灣遼闊海面，遠方一架戰機剪影飛越海面，天空明亮，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「伊朗稱攔截美軍F-16迫降」白字，第二行「美方否認：中東戰機全部安全」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。",
+    "image_r2_key": "design/202611/20261122-iran-f16-intercept-us-denies-v2.jpg"
   },
   {
     "category": "world",
@@ -186,7 +151,46 @@
       "zh_hans": "特朗普称寻求与伊朗达成永久协议 绝不容德黑兰拥有核武",
       "zh_hant": "特朗普稱尋求與伊朗達成永久協議 絕不容德黑蘭擁有核武"
     },
-    "image_url": "",
-    "image_prompt": "事實：特朗普稱將尋求與伊朗達成永久協議，絕不容德黑蘭擁有核武，亦無考慮伊朗政權更迭。場景：光猛日間，一個莊嚴的談判會議室，長枱兩旁放着文件及水杯，窗外陽光灑入，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「特朗普尋求與伊朗達成永久協議」白字，第二行「絕不容德黑蘭擁有核武」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫任何國旗。圖上除標題外不寫任何其他字。"
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-trump-iran-permanent-deal-v2.jpg",
+    "image_prompt": "事實：特朗普稱將尋求與伊朗達成永久協議，絕不容德黑蘭擁有核武，亦無考慮伊朗政權更迭。場景：光猛日間，一個莊嚴的談判會議室，長枱兩旁放着文件及水杯，窗外陽光灑入，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「特朗普尋求與伊朗達成永久協議」白字，第二行「絕不容德黑蘭擁有核武」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫任何國旗。圖上除標題外不寫任何其他字。",
+    "image_r2_key": "design/202611/20261122-trump-iran-permanent-deal-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261122-election-committee-subsector-voting-day",
+    "published_at": "2026-11-22T00:10:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878731-20261122.htm"
+    },
+    "summary": {
+      "en": "The Election Committee subsector ordinary election is held today, with 31 subsectors contested and 856 candidates vying for 723 seats among about 5,700 eligible voters. The social welfare subsector is the most competitive, with 25 candidates chasing 15 seats, or 1.66 candidates per seat. The more than 700 winners will join 259 automatically returned members and 518 ex-officio and nominated members to form the new 1,500-member Election Committee, which nominates and elects the Chief Executive and elects 40 Legislative Council members. Five general polling stations are open from 9am to 6pm, and ballot boxes will be taken to the central counting station at the Convention and Exhibition Centre after voting ends.",
+      "zh_hans": "选举委员会界别分组一般选举今日举行，今届共有31个界别分组需要竞逐，856名候选人争夺723个席位，合资格投票人数目约5700人。今次竞逐的界别中，社会福利界最激烈，25人争15席，平均1.66人竞逐一个位。胜出的700多名当选者，将联同自动当选的259人，以及518名当然委员和经提名产生的选委，组成新一届1500人的选举委员会，负责提名行政长官选举候选人及选出行政长官等。全港设有5个一般投票站，早上9时至下午6时开放投票，投票结束后票箱运到湾仔会展中央点票站点票。",
+      "zh_hant": "選舉委員會界別分組一般選舉今日舉行，今屆共有31個界別分組需要競逐，856名候選人爭奪723個席位，合資格投票人數目約5700人。今次競逐的界別中，社會福利界最激烈，25人爭15席，平均1.66人爭一個位。勝出的700多名當選者，將聯同自動當選的259人，以及518名當然委員同經提名產生的選委，組成新一屆1500人的選舉委員會，負責提名行政長官選舉候選人同選出行政長官等。全港設有5個一般投票站，早上9時至下午6時開放投票，投票結束後票箱運到灣仔會展中央點票站點票。"
+    },
+    "tags": {
+      "en": [
+        "Election Committee election",
+        "subsector election",
+        "polling day"
+      ],
+      "zh_hans": [
+        "选委会选举",
+        "界别分组",
+        "投票日"
+      ],
+      "zh_hant": [
+        "選委會選舉",
+        "界別分組",
+        "投票日"
+      ]
+    },
+    "title": {
+      "en": "Election Committee subsector polls open today as 856 candidates vie for 723 seats, social welfare race the hottest",
+      "zh_hans": "选委会界别分组选举今日投票 856人争723席社福界最激烈",
+      "zh_hant": "選委會選舉今日投票 856人爭723席社福界最激烈"
+    },
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-election-committee-subsector-voting-day.jpg",
+    "image_r2_key": "design/202611/20261122-election-committee-subsector-voting-day.jpg"
   }
 ]

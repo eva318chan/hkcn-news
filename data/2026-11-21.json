@@ -1,6 +1,45 @@
 [
   {
     "category": "hk",
+    "id": "20261121-aeon-credit-unauthorised-system-access",
+    "published_at": "2026-11-21T23:13:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878730-20261121.htm"
+    },
+    "summary": {
+      "en": "AEON Credit Service (Asia) has issued an important notice on its website saying its systems were recently found to have been accessed without authorisation, with no evidence so far that any related data has been misused. The company says it takes the incident very seriously and will keep monitoring the situation to prevent a recurrence, adding that it acted immediately to contain the impact and strengthen system security. It has engaged independent third-party cybersecurity and digital forensics experts to help investigate and assess the potential impact, urged customers to stay vigilant, and said affected customers will be notified individually about measures to protect their interests.",
+      "zh_hans": "AEON信贷财务（亚洲）有限公司在网站发出重要告示，指近日发现公司系统遭到未经授权查阅，现阶段并无证据显示任何相关资料已被不当使用。公司表示高度重视事件，将继续密切监察情况，防止类似事件再发生；发现事件后已立即采取行动遏止影响，并加强系统保安。公司已委聘独立第三方网络安全及数码鉴证专家，协助调查事件及评估潜在影响，并呼吁客户保持警惕，受影响客户将获个别通知有关保障利益的措施。",
+      "zh_hant": "AEON信貸財務（亞洲）有限公司在網站發出重要告示，指近日發現公司系統遭到未經授權查閱，現階段並無證據顯示任何相關資料已被不當使用。公司表示高度重視事件，將繼續密切監察情況，防止類似事件再發生；發現事件後已立即採取行動遏止影響，並加強系統保安。公司已委聘獨立第三方網絡安全及數碼鑑證專家，協助調查事件及評估潛在影響，並呼籲客戶保持警惕，受影響客戶將獲個別通知有關保障利益的措施。"
+    },
+    "tags": {
+      "en": [
+        "AEON",
+        "data security",
+        "cybersecurity"
+      ],
+      "zh_hans": [
+        "AEON",
+        "资料保安",
+        "网络安全"
+      ],
+      "zh_hant": [
+        "AEON",
+        "資料保安",
+        "網絡安全"
+      ]
+    },
+    "title": {
+      "en": "AEON Credit says system hit by unauthorised access, no evidence data misused so far",
+      "zh_hans": "AEON系统遭未经授权查阅 暂无证据资料被滥用",
+      "zh_hant": "AEON系統遭未經授權查閱 暫無證據資料被濫用"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-aeon-credit-unauthorised-system-access-v2.jpg",
+    "image_prompt": "事實：AEON信貸財務系統遭未經授權查閱，公司稱暫無證據顯示資料被不當使用，已聘獨立網絡安全專家調查。場景：光猛日間，現代寫字樓內，一部手提電腦屏幕顯示保安鎖圖案，旁邊放着文件夾，窗外陽光灑入，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「AEON系統遭未經授權查閱」白字，第二行「暫無證據資料被濫用」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫公司標誌。圖上除標題外不寫任何其他字。",
+    "image_r2_key": "design/202611/20261121-aeon-credit-unauthorised-system-access-v2.jpg"
+  },
+  {
+    "category": "hk",
     "id": "20261121-fire-contractor-director-false-certificates-charged",
     "published_at": "2026-11-21T22:41:00+08:00",
     "source": {
@@ -425,6 +464,45 @@
     },
     "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261121-missing-woman-tai-po-so-sau-chun.jpg",
     "image_r2_key": "design/202611/20261121-missing-woman-tai-po-so-sau-chun.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-mic-supply-chain-measures",
+    "published_at": "2026-11-21T16:57:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878713-20261121.htm"
+    },
+    "summary": {
+      "en": "Development Secretary Bernadette Linn said the government is committed to promoting efficient construction, calling modular integrated construction (MiC) one of the most notable achievements of the past decade, with more than 150 public and private projects having adopted it, including staff quarters, public housing, private homes and university dormitories. The government has announced it will reserve 30 hectares in the Northern Metropolis for a large-scale advanced construction industry park. The Development Bureau has rolled out a series of measures to strengthen the MiC supply chain, including a manufacturer accreditation scheme, a cross-boundary trade guide issued with mainland departments, and a cooperation agreement with Guangdong's housing department to jointly raise construction standards. The University of Hong Kong has also released the first MiC standards and guide with support from the bureau and the Hong Kong Institute of Construction.",
+      "zh_hans": "发展局局长甯汉豪表示，特区政府致力推动高效建筑，「组装合成」建筑法是近十年最瞩目的成果之一，至今已有超过150个公营及私营项目采用，涵盖员工宿舍、公营房屋、私人住宅及大学宿舍。政府已宣布在北部都会区预留30公顷土地，建设具规模的先进建造业产业园。发展局已推行一系列措施强化「组装合成」供应链，包括推出制造商认可计划、与内地部门合作发布跨境贸易指南，以及与广东省住建厅签署合作协议，共同推动两地工程建设标准提升。香港大学亦在发展局及香港建筑科技研究院支持下，发布首份「组装合成」标准和指南。",
+      "zh_hant": "發展局局長甯漢豪表示，特區政府致力推動高效建築，「組裝合成」建築法是近十年最矚目的成果之一，至今已有超過150個公營及私營項目採用，涵蓋員工宿舍、公營房屋、私人住宅及大學宿舍。政府已宣布在北部都會區預留30公頃土地，建設具規模的先進建造業產業園。發展局已推行一系列措施強化「組裝合成」供應鏈，包括推出製造商認可計劃、與內地部門合作發布跨境貿易指南，以及與廣東省住建廳簽署合作協議，共同推動兩地工程建設標準提升。香港大學亦在發展局及香港建築科技研究院支持下，發布首份「組裝合成」標準和指南。"
+    },
+    "tags": {
+      "en": [
+        "modular construction",
+        "Northern Metropolis",
+        "Bernadette Linn"
+      ],
+      "zh_hans": [
+        "组装合成",
+        "北部都会区",
+        "甯汉豪"
+      ],
+      "zh_hant": [
+        "組裝合成",
+        "北部都會區",
+        "甯漢豪"
+      ]
+    },
+    "title": {
+      "en": "Over 150 projects now use modular construction as Hong Kong reserves 30 hectares in the Northern Metropolis for an advanced building park",
+      "zh_hans": "甯汉豪：逾150项目采用「组装合成」 北都预留30公顷建先进建造产业园",
+      "zh_hant": "甯漢豪：逾150項目採用「組裝合成」 北都預留30公頃建先進建造產業園"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-mic-supply-chain-measures-v2.jpg",
+    "image_prompt": "事實：發展局局長甯漢豪稱逾150個項目採用「組裝合成」建築法，北部都會區預留30公頃建先進建造業產業園。場景：光猛日間，一個陽光普照的地盤，一部吊機正吊起一個預製組件模塊，背景是現代化高樓，藍天白雲，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「逾150項目採用「組裝合成」」白字，第二行「北都預留30公頃建產業園」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。",
+    "image_r2_key": "design/202611/20261121-mic-supply-chain-measures-v2.jpg"
   },
   {
     "category": "hk",
@@ -2640,82 +2718,6 @@
     "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-hkicl-fraudulent-website-fpshk-xyz-v2.jpg",
     "image_prompt": "事實：香港銀行同業結算有限公司示警，假網站fpshk.xyz冒充轉數快客服呃退款，提醒市民提防。場景：光猛日間香港金融區高樓，陽光下一個人手持手機，手機畫面有防騙盾牌標誌，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔，唔可以畫出假網站地址。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「金管局轄下結算公司示警」白字，第二行「假網站冒充轉數快客服呃退款」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
     "image_r2_key": "design/202611/20261121-hkicl-fraudulent-website-fpshk-xyz-v2.jpg"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-aeon-credit-unauthorised-system-access",
-    "published_at": "2026-11-21T23:13:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878730-20261121.htm"
-    },
-    "summary": {
-      "en": "AEON Credit Service (Asia) has issued an important notice on its website saying its systems were recently found to have been accessed without authorisation, with no evidence so far that any related data has been misused. The company says it takes the incident very seriously and will keep monitoring the situation to prevent a recurrence, adding that it acted immediately to contain the impact and strengthen system security. It has engaged independent third-party cybersecurity and digital forensics experts to help investigate and assess the potential impact, urged customers to stay vigilant, and said affected customers will be notified individually about measures to protect their interests.",
-      "zh_hans": "AEON信贷财务（亚洲）有限公司在网站发出重要告示，指近日发现公司系统遭到未经授权查阅，现阶段并无证据显示任何相关资料已被不当使用。公司表示高度重视事件，将继续密切监察情况，防止类似事件再发生；发现事件后已立即采取行动遏止影响，并加强系统保安。公司已委聘独立第三方网络安全及数码鉴证专家，协助调查事件及评估潜在影响，并呼吁客户保持警惕，受影响客户将获个别通知有关保障利益的措施。",
-      "zh_hant": "AEON信貸財務（亞洲）有限公司在網站發出重要告示，指近日發現公司系統遭到未經授權查閱，現階段並無證據顯示任何相關資料已被不當使用。公司表示高度重視事件，將繼續密切監察情況，防止類似事件再發生；發現事件後已立即採取行動遏止影響，並加強系統保安。公司已委聘獨立第三方網絡安全及數碼鑑證專家，協助調查事件及評估潛在影響，並呼籲客戶保持警惕，受影響客戶將獲個別通知有關保障利益的措施。"
-    },
-    "tags": {
-      "en": [
-        "AEON",
-        "data security",
-        "cybersecurity"
-      ],
-      "zh_hans": [
-        "AEON",
-        "资料保安",
-        "网络安全"
-      ],
-      "zh_hant": [
-        "AEON",
-        "資料保安",
-        "網絡安全"
-      ]
-    },
-    "title": {
-      "en": "AEON Credit says system hit by unauthorised access, no evidence data misused so far",
-      "zh_hans": "AEON系统遭未经授权查阅 暂无证据资料被滥用",
-      "zh_hant": "AEON系統遭未經授權查閱 暫無證據資料被濫用"
-    },
-    "image_url": "",
-    "image_prompt": "事實：AEON信貸財務系統遭未經授權查閱，公司稱暫無證據顯示資料被不當使用，已聘獨立網絡安全專家調查。場景：光猛日間，現代寫字樓內，一部手提電腦屏幕顯示保安鎖圖案，旁邊放着文件夾，窗外陽光灑入，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「AEON系統遭未經授權查閱」白字，第二行「暫無證據資料被濫用」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫公司標誌。圖上除標題外不寫任何其他字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-mic-supply-chain-measures",
-    "published_at": "2026-11-21T16:57:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878713-20261121.htm"
-    },
-    "summary": {
-      "en": "Development Secretary Bernadette Linn said the government is committed to promoting efficient construction, calling modular integrated construction (MiC) one of the most notable achievements of the past decade, with more than 150 public and private projects having adopted it, including staff quarters, public housing, private homes and university dormitories. The government has announced it will reserve 30 hectares in the Northern Metropolis for a large-scale advanced construction industry park. The Development Bureau has rolled out a series of measures to strengthen the MiC supply chain, including a manufacturer accreditation scheme, a cross-boundary trade guide issued with mainland departments, and a cooperation agreement with Guangdong's housing department to jointly raise construction standards. The University of Hong Kong has also released the first MiC standards and guide with support from the bureau and the Hong Kong Institute of Construction.",
-      "zh_hans": "发展局局长甯汉豪表示，特区政府致力推动高效建筑，「组装合成」建筑法是近十年最瞩目的成果之一，至今已有超过150个公营及私营项目采用，涵盖员工宿舍、公营房屋、私人住宅及大学宿舍。政府已宣布在北部都会区预留30公顷土地，建设具规模的先进建造业产业园。发展局已推行一系列措施强化「组装合成」供应链，包括推出制造商认可计划、与内地部门合作发布跨境贸易指南，以及与广东省住建厅签署合作协议，共同推动两地工程建设标准提升。香港大学亦在发展局及香港建筑科技研究院支持下，发布首份「组装合成」标准和指南。",
-      "zh_hant": "發展局局長甯漢豪表示，特區政府致力推動高效建築，「組裝合成」建築法是近十年最矚目的成果之一，至今已有超過150個公營及私營項目採用，涵蓋員工宿舍、公營房屋、私人住宅及大學宿舍。政府已宣布在北部都會區預留30公頃土地，建設具規模的先進建造業產業園。發展局已推行一系列措施強化「組裝合成」供應鏈，包括推出製造商認可計劃、與內地部門合作發布跨境貿易指南，以及與廣東省住建廳簽署合作協議，共同推動兩地工程建設標準提升。香港大學亦在發展局及香港建築科技研究院支持下，發布首份「組裝合成」標準和指南。"
-    },
-    "tags": {
-      "en": [
-        "modular construction",
-        "Northern Metropolis",
-        "Bernadette Linn"
-      ],
-      "zh_hans": [
-        "组装合成",
-        "北部都会区",
-        "甯汉豪"
-      ],
-      "zh_hant": [
-        "組裝合成",
-        "北部都會區",
-        "甯漢豪"
-      ]
-    },
-    "title": {
-      "en": "Over 150 projects now use modular construction as Hong Kong reserves 30 hectares in the Northern Metropolis for an advanced building park",
-      "zh_hans": "甯汉豪：逾150项目采用「组装合成」 北都预留30公顷建先进建造产业园",
-      "zh_hant": "甯漢豪：逾150項目採用「組裝合成」 北都預留30公頃建先進建造產業園"
-    },
-    "image_url": "",
-    "image_prompt": "事實：發展局局長甯漢豪稱逾150個項目採用「組裝合成」建築法，北部都會區預留30公頃建先進建造業產業園。場景：光猛日間，一個陽光普照的地盤，一部吊機正吊起一個預製組件模塊，背景是現代化高樓，藍天白雲，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「逾150項目採用「組裝合成」」白字，第二行「北都預留30公頃建產業園」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。"
   },
   {
     "category": "world",
