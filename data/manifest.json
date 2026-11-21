@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-11-21",
-      "count": 34
+      "count": 40
     },
     {
       "count": 75,
@@ -254,5 +254,5 @@
     }
   ],
   "site_url": "https://hkcnexpress.com",
-  "updated_at": "2026-11-21T10:58:07.334892+08:00"
+  "updated_at": "2026-11-21T12:47:57.542332+08:00"
 }
