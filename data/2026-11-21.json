@@ -155,6 +155,44 @@
     "image_r2_key": "design/202611/20261121-kwai-chung-school-concrete-injury-v2.jpg"
   },
   {
+    "category": "hk",
+    "id": "20261121-election-committee-vote-tomorrow-lee-visits",
+    "published_at": "2026-11-21T16:47:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878710-20261121.htm"
+    },
+    "summary": {
+      "en": "The Election Committee subsector ordinary election will be held tomorrow. Chief Executive John Lee visited the ordinary polling station at Harbour Road Sports Centre in Wan Chai this afternoon, accompanied by Secretary for Constitutional and Mainland Affairs Erick Tsang and Electoral Affairs Commission chairman Justice David Lok, to inspect the venue setup and final preparations and to cheer on polling staff. Lee said 31 contested subsectors will see about 5,700 voters elect 723 Election Committee members, and urged eligible voters to turn out tomorrow.",
+      "zh_hans": "选举委员会界别分组一般选举明日举行。行政长官李家超今日下午在政制及内地事务局局长谢小华及选管会主席陆启康陪同下，到访湾仔港湾道体育馆的一般投票站，了解场地布置及最后准备情况，并为票站工作人员打气。李家超指今次选举有31个需要竞逐的界别分组，由约5700名投票人选出723名选委会委员，呼吁合资格投票人士明日踊跃投票。",
+      "zh_hant": "選舉委員會界別分組一般選舉明日舉行。行政長官李家超今日下午在政制及內地事務局局長謝小華及選管會主席陸啟康陪同下，到訪灣仔港灣道體育館的一般投票站，了解場地布置及最後準備情況，並為票站工作人員打氣。李家超指今次選舉有31個需要競逐的界別分組，由約5700名投票人選出723名選委會委員，呼籲合資格投票人士明日踴躍投票。"
+    },
+    "tags": {
+      "en": [
+        "Election Committee election",
+        "John Lee",
+        "polling station"
+      ],
+      "zh_hans": [
+        "选委会选举",
+        "李家超",
+        "投票站"
+      ],
+      "zh_hant": [
+        "選委會選舉",
+        "李家超",
+        "投票站"
+      ]
+    },
+    "title": {
+      "en": "Election Committee subsector election tomorrow as about 5,700 voters choose 723 members",
+      "zh_hans": "选委会界别分组选举明日举行 约5700选民选出723名委员",
+      "zh_hant": "選委會界別分組選舉明日舉行 約5700選民選出723名委員"
+    },
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261121-election-committee-vote-tomorrow-lee-visits.jpg",
+    "image_r2_key": "design/202611/20261121-election-committee-vote-tomorrow-lee-visits.jpg"
+  },
+  {
     "category": "world",
     "id": "20261121-trump-praises-xi-great-man-clean-cities",
     "published_at": "2026-11-21T16:45:00+08:00",
@@ -2216,6 +2254,120 @@
     "image_r2_key": "design/202611/20261121-hkicl-fraudulent-website-fpshk-xyz-v2.jpg"
   },
   {
+    "category": "world",
+    "id": "20261121-crimea-bridge-rail-resumes-zelensky-response",
+    "published_at": "2026-11-21T20:33:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878722-20261121.htm"
+    },
+    "summary": {
+      "en": "Russia says rail traffic on the Crimea Bridge has fully resumed after the bridge was damaged in days of Ukrainian attacks. Ukrainian President Volodymyr Zelensky said that before Ukraine struck the bridge, Russian forces had used missiles and drones to attack bridges inside Ukraine more than 100 times, and Ukraine's action was a response. Zelensky said Russia's continued attacks on Ukrainian infrastructure show Moscow has no intention of ending the war and is looking for pretexts to escalate it.",
+      "zh_hans": "俄罗斯副总理尼基京表示，克里米亚大桥铁路段已全面恢复列车通行，大桥早前在连日乌军袭击下结构受损。乌克兰总统泽连斯基星期六与英国国防大臣施卓添会晤时表示，在乌方打击克里米亚大桥前，俄军已使用导弹和无人机，对乌克兰境内桥梁发动逾百次袭击，乌方行动是回应。泽连斯基认为，俄方持续袭击乌克兰基础设施，表明莫斯科没有结束战争的意愿，并寻找借口升级战事。",
+      "zh_hant": "俄羅斯副總理尼基京表示，克里米亞大橋鐵路段已全面恢復列車通行，大橋早前在連日烏軍襲擊下結構受損。烏克蘭總統澤連斯基星期六與英國國防大臣施卓添會晤時表示，在烏方打擊克里米亞大橋前，俄軍已使用導彈和無人機，對烏克蘭境內橋樑發動逾百次襲擊，烏方行動是回應。澤連斯基認為，俄方持續襲擊烏克蘭基礎設施，表明莫斯科沒有結束戰爭的意願，並尋找藉口升級戰事。"
+    },
+    "tags": {
+      "en": [
+        "Crimea Bridge",
+        "Zelensky",
+        "Russia-Ukraine war"
+      ],
+      "zh_hans": [
+        "克里米亚大桥",
+        "泽连斯基",
+        "俄乌战争"
+      ],
+      "zh_hant": [
+        "克里米亞大橋",
+        "澤連斯基",
+        "俄烏戰爭"
+      ]
+    },
+    "title": {
+      "en": "Crimea Bridge rail traffic resumes as Zelensky says Russia struck Ukrainian bridges 100+ times first",
+      "zh_hans": "克里米亚大桥铁路恢复通车 泽连斯基：俄军先袭乌桥梁逾百次",
+      "zh_hant": "克里米亞大橋鐵路恢復通車 澤連斯基：俄軍先襲烏橋樑逾百次"
+    },
+    "image_url": "",
+    "image_prompt": "事實：克里米亞大橋鐵路段全面恢復列車通行，大橋早前在連日烏軍襲擊下結構受損；澤連斯基表示俄軍先以導彈和無人機襲擊烏克蘭境內橋樑逾百次。場景：光猛日間，一條橫跨藍色海面的長橋，橋上有火車行駛，遠處海天一色，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「克里米亞大橋鐵路恢復通車」白字，第二行「澤連斯基：俄軍先襲烏橋樑逾百次」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫爆炸火光。圖上除標題外不寫任何其他字。"
+  },
+  {
+    "category": "world",
+    "id": "20261121-russian-cargo-ship-drone-attack-gulf-finland",
+    "published_at": "2026-11-21T19:57:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878721-20261121.htm"
+    },
+    "summary": {
+      "en": "A Russian cargo ship bound for Kaliningrad was attacked by two drones in international waters in the Gulf of Finland, and its crew is being evacuated while the extent of the damage is assessed. Finland's defence ministry said the military detected the drone attack on Saturday morning; the stricken vessel caught fire and moved from international waters into Finnish territorial waters, posing no danger to other shipping. Authorities are working with domestic and international partners on possible rescue operations. The governor of Kaliningrad said the incident poses no threat to local supplies.",
+      "zh_hans": "一艘前往加里宁格勒的俄罗斯货船，在芬兰湾公海遭到两架无人机攻击，船员正在撤离，受损程度仍在评估。芬兰国防部表示，军方星期六上午侦测到事件，遇袭船只起火后由国际水域进入芬兰领海，对其他海上交通未构成危险，当局正准备可能采取的救援行动。加里宁格勒州州长表示，事件不会对当地物资供应造成威胁。",
+      "zh_hant": "一艘前往加里寧格勒的俄羅斯貨船，在芬蘭灣公海遭到兩架無人機攻擊，船員正在撤離，受損程度仍在評估。芬蘭國防部表示，軍方星期六上午偵測到事件，遇襲船隻起火後由國際水域進入芬蘭領海，對其他海上交通未構成危險，當局正準備可能採取的救援行動。加里寧格勒州州長表示，事件不會對當地物資供應造成威脅。"
+    },
+    "tags": {
+      "en": [
+        "Russian cargo ship",
+        "drone attack",
+        "Gulf of Finland"
+      ],
+      "zh_hans": [
+        "俄罗斯货船",
+        "无人机攻击",
+        "芬兰湾"
+      ],
+      "zh_hant": [
+        "俄羅斯貨船",
+        "無人機攻擊",
+        "芬蘭灣"
+      ]
+    },
+    "title": {
+      "en": "Russian cargo ship hit by drones in Gulf of Finland, catches fire and enters Finnish waters",
+      "zh_hans": "俄货船芬兰湾遭无人机攻击起火 船员撤离驶入芬兰领海",
+      "zh_hant": "俄貨船芬蘭灣遭無人機攻擊起火 船員撤離駛入芬蘭領海"
+    },
+    "image_url": "",
+    "image_prompt": "事實：一艘前往加里寧格勒的俄羅斯貨船在芬蘭灣公海遭兩架無人機攻擊，船隻起火，船員撤離，其後駛入芬蘭領海。場景：光猛日間，波羅的海海面上一艘大型貨船，船身冒出淡淡灰煙，遠處有巡邏船隻，海面平靜，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「俄貨船芬蘭灣遭無人機攻擊起火」白字，第二行「船員撤離駛入芬蘭領海」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫猛烈大火。圖上除標題外不寫任何其他字。"
+  },
+  {
+    "category": "world",
+    "id": "20261121-greece-pm-gta6-christmas-backlash",
+    "published_at": "2026-11-21T18:47:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878720-20261121.htm"
+    },
+    "summary": {
+      "en": "Greek Prime Minister Kyriakos Mitsotakis has come under fire for asking youngsters in a social media video whether they would like the age-restricted video game GTA 6 as a Christmas present. The video was meant to promote a 400-euro pension bonus; Mitsotakis asked young people who would ask their grandparents for GTA 6 for Christmas, adding that grandparents rarely say no to their grandchildren. The main opposition party, Pasok, criticised the prime minister for promoting a game banned for minors just to follow a trend, and newspapers called it a gaffe and a tragic error. Ironically, the Mitsotakis government is aligned with other countries in imposing curbs on young people's use of social media.",
+      "zh_hans": "希腊总理米佐塔基斯因为在社交媒体影片中，询问年轻人是否想收到限制级电玩游戏GTA 6作为圣诞礼物，遭到各界抨击。影片原意是宣传政府发放400欧元退休金红利，米佐塔基斯问年轻人有谁会向祖父母要求GTA 6做圣诞礼物，又指祖父母通常难以拒绝孙仔孙女的要求。主要反对党泛希腊社会运动党批评，总理为跟风推广一款禁止未成年人玩的游戏；有报章形容他失言，亦有报章指是悲剧性错误。讽刺的是，米佐塔基斯政府正与其他国家一致，针对青少年使用社交媒体实施限制。",
+      "zh_hant": "希臘總理米佐塔基斯因為在社交媒體影片中，詢問年輕人是否想收到限制級電玩遊戲GTA 6作為聖誕禮物，遭到各界抨擊。影片原意是宣傳政府發放400歐元退休金紅利，米佐塔基斯問年輕人有誰會向祖父母要求GTA 6做聖誕禮物，又指祖父母通常難以拒絕孫仔孫女的要求。主要反對黨泛希臘社會運動黨批評，總理為跟風推廣一款禁止未成年人玩的遊戲；有報章形容他失言，亦有報章指是悲劇性錯誤。諷刺的是，米佐塔基斯政府正與其他國家一致，針對青少年使用社交媒體實施限制。"
+    },
+    "tags": {
+      "en": [
+        "Greek prime minister",
+        "GTA 6",
+        "age-restricted game"
+      ],
+      "zh_hans": [
+        "希腊总理",
+        "GTA 6",
+        "限制级游戏"
+      ],
+      "zh_hant": [
+        "希臘總理",
+        "GTA 6",
+        "限制級遊戲"
+      ]
+    },
+    "title": {
+      "en": "Greek PM asks youngsters if they want GTA 6 for Christmas, slammed for promoting age-restricted game",
+      "zh_hans": "希腊总理拍片问年轻人想不想收GTA 6 反对党轰鼓励未成年人玩限制级游戏",
+      "zh_hant": "希臘總理問細路想唔想收GTA 6 反對黨轟鼓勵未成年人玩限制級遊戲"
+    },
+    "image_url": "",
+    "image_prompt": "事實：希臘總理米佐塔基斯拍片問年輕人想唔想收到限制級遊戲GTA 6做聖誕禮物，反對黨批評他鼓勵未成年人玩限制級遊戲。場景：光猛室內，一棵聖誕樹旁邊放住遊戲手掣和遊戲盒，暖色燈光，聖誕氣氛輕鬆，畫面光亮通透。風格：輕鬆漫畫風電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「希臘總理問細路想唔想收GTA 6」白字，第二行「反對黨轟鼓勵未成年人玩限制級遊戲」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何真實人物面孔。圖上除標題外不寫任何其他字。"
+  },
+  {
     "category": "china",
     "id": "20261121-li-qiang-wong-singapore-fta-4",
     "published_at": "2026-11-21T17:18:00+08:00",
@@ -2252,44 +2404,6 @@
     },
     "image_url": "",
     "image_prompt": "事實：國務院總理李強在北京釣魚台國賓館與新加坡總理黃循財會談，願加快推進中新自貿協定4.0版談判。場景：莊重明亮的會談場地，長枱空無一人，上面擺放中國和新加坡國旗、茶杯和文件，窗外是北京園林日光，畫面莊重專業、光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「李強晤黃循財」白字，第二行「加快推進自貿協定4.0談判」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面絕對唔可以出現任何人物，連遠景人物都唔可以有，唔畫任何人面。圖上除標題外不寫任何其他字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-election-committee-vote-tomorrow-lee-visits",
-    "published_at": "2026-11-21T16:47:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878710-20261121.htm"
-    },
-    "summary": {
-      "en": "The Election Committee subsector ordinary election will be held tomorrow. Chief Executive John Lee visited the ordinary polling station at Harbour Road Sports Centre in Wan Chai this afternoon, accompanied by Secretary for Constitutional and Mainland Affairs Erick Tsang and Electoral Affairs Commission chairman Justice David Lok, to inspect the venue setup and final preparations and to cheer on polling staff. Lee said 31 contested subsectors will see about 5,700 voters elect 723 Election Committee members, and urged eligible voters to turn out tomorrow.",
-      "zh_hans": "选举委员会界别分组一般选举明日举行。行政长官李家超今日下午在政制及内地事务局局长谢小华及选管会主席陆启康陪同下，到访湾仔港湾道体育馆的一般投票站，了解场地布置及最后准备情况，并为票站工作人员打气。李家超指今次选举有31个需要竞逐的界别分组，由约5700名投票人选出723名选委会委员，呼吁合资格投票人士明日踊跃投票。",
-      "zh_hant": "選舉委員會界別分組一般選舉明日舉行。行政長官李家超今日下午在政制及內地事務局局長謝小華及選管會主席陸啟康陪同下，到訪灣仔港灣道體育館的一般投票站，了解場地布置及最後準備情況，並為票站工作人員打氣。李家超指今次選舉有31個需要競逐的界別分組，由約5700名投票人選出723名選委會委員，呼籲合資格投票人士明日踴躍投票。"
-    },
-    "tags": {
-      "en": [
-        "Election Committee election",
-        "John Lee",
-        "polling station"
-      ],
-      "zh_hans": [
-        "选委会选举",
-        "李家超",
-        "投票站"
-      ],
-      "zh_hant": [
-        "選委會選舉",
-        "李家超",
-        "投票站"
-      ]
-    },
-    "title": {
-      "en": "Election Committee subsector election tomorrow as about 5,700 voters choose 723 members",
-      "zh_hans": "选委会界别分组选举明日举行 约5700选民选出723名委员",
-      "zh_hant": "選委會界別分組選舉明日舉行 約5700選民選出723名委員"
-    },
-    "image_url": "",
-    "image_prompt": "事實：選舉委員會界別分組一般選舉明日舉行，約5700名投票人選出723名選委會委員，李家超到訪灣仔投票站了解準備情況。場景：光猛日間投票站，票箱整齊排列，職員整理選票，背景是體育館大門，畫面光亮通透。畫面唔可以出現任何年份數字、場館名稱、橫額文字；背景橫額留白，唔寫字。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「選委會選舉明日舉行」白字，第二行「5700選民選出723委員」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面以投票站和票箱為主，不畫任何人物面孔。圖上除標題外不寫任何其他字。"
   },
   {
     "category": "world",
