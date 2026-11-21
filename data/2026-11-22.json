@@ -1,5 +1,44 @@
 [
   {
+    "category": "hk",
+    "id": "20261122-yellow-fire-danger-warning",
+    "published_at": "2026-11-22T06:01:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200119.htm"
+    },
+    "summary": {
+      "en": "The Observatory issued a yellow fire danger warning at 6:01 this morning, saying the fire danger situation today is yellow and the risk of fire is high. People are urged to prevent fires from breaking out, and hikers should stay vigilant and not light fires in country parks.",
+      "zh_hans": "天文台今日早上6时01分发出黄色火灾危险警告，表示今日火灾危险情况属黄色，火灾风险颇高。市民应小心防止火警发生，郊游人士亦应提高警觉，切勿在郊野公园内生火。",
+      "zh_hant": "天文台今日早上6時01分發出黃色火災危險警告，表示今日火災危險情況屬黃色，火災風險頗高。市民應小心防止火警發生，郊遊人士亦應提高警覺，切勿在郊野公園內生火。"
+    },
+    "tags": {
+      "en": [
+        "Yellow fire danger warning",
+        "Observatory",
+        "fire prevention"
+      ],
+      "zh_hans": [
+        "黄色火灾危险警告",
+        "天文台",
+        "防火"
+      ],
+      "zh_hant": [
+        "黃色火災危險警告",
+        "天文台",
+        "防火"
+      ]
+    },
+    "title": {
+      "en": "Yellow fire danger warning in force as fire risk runs high, public urged to take care",
+      "zh_hans": "黄色火灾危险警告生效 火灾风险颇高吁市民小心防火",
+      "zh_hant": "黃色火災危險警告生效 火災風險頗高籲市民小心防火"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-yellow-fire-danger-warning-v2.jpg",
+    "image_prompt": "事實：天文台發出黃色火災危險警告，今日火災風險頗高，呼籲市民小心防火，郊遊人士切勿在郊野公園內生火。場景：光猛日間，一個陽光普照的郊野公園山徑，藍天白雲，綠樹成蔭，畫面光亮通透；遠處山坡有淡淡煙霧警示。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「黃色火災危險警告生效」白字，第二行「火災風險頗高 籲小心防火」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。",
+    "image_r2_key": "design/202611/20261122-yellow-fire-danger-warning-v2.jpg"
+  },
+  {
     "category": "world",
     "id": "20261122-iran-diplomat-enriched-uranium-not-leaving",
     "published_at": "2026-11-22T03:48:00+08:00",
@@ -270,43 +309,5 @@
     },
     "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-election-committee-subsector-voting-day.jpg",
     "image_r2_key": "design/202611/20261122-election-committee-subsector-voting-day.jpg"
-  },
-  {
-    "category": "hk",
-    "id": "20261122-yellow-fire-danger-warning",
-    "published_at": "2026-11-22T06:01:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200119.htm"
-    },
-    "summary": {
-      "en": "The Observatory issued a yellow fire danger warning at 6:01 this morning, saying the fire danger situation today is yellow and the risk of fire is high. People are urged to prevent fires from breaking out, and hikers should stay vigilant and not light fires in country parks.",
-      "zh_hans": "天文台今日早上6时01分发出黄色火灾危险警告，表示今日火灾危险情况属黄色，火灾风险颇高。市民应小心防止火警发生，郊游人士亦应提高警觉，切勿在郊野公园内生火。",
-      "zh_hant": "天文台今日早上6時01分發出黃色火災危險警告，表示今日火災危險情況屬黃色，火災風險頗高。市民應小心防止火警發生，郊遊人士亦應提高警覺，切勿在郊野公園內生火。"
-    },
-    "tags": {
-      "en": [
-        "Yellow fire danger warning",
-        "Observatory",
-        "fire prevention"
-      ],
-      "zh_hans": [
-        "黄色火灾危险警告",
-        "天文台",
-        "防火"
-      ],
-      "zh_hant": [
-        "黃色火災危險警告",
-        "天文台",
-        "防火"
-      ]
-    },
-    "title": {
-      "en": "Yellow fire danger warning in force as fire risk runs high, public urged to take care",
-      "zh_hans": "黄色火灾危险警告生效 火灾风险颇高吁市民小心防火",
-      "zh_hant": "黃色火災危險警告生效 火災風險頗高籲市民小心防火"
-    },
-    "image_url": "",
-    "image_prompt": "事實：天文台發出黃色火災危險警告，今日火災風險頗高，呼籲市民小心防火，郊遊人士切勿在郊野公園內生火。場景：光猛日間，一個陽光普照的郊野公園山徑，藍天白雲，綠樹成蔭，畫面光亮通透；遠處山坡有淡淡煙霧警示。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「黃色火災危險警告生效」白字，第二行「火災風險頗高 籲小心防火」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。"
   }
 ]
