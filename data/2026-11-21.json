@@ -1,6 +1,123 @@
 [
   {
     "category": "hk",
+    "id": "20261121-law-visitors-55m-confidence",
+    "published_at": "2026-11-21T10:05:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878679-20261121.htm"
+    },
+    "summary": {
+      "en": "Secretary for Culture, Sports and Tourism Rosanna Law said Hong Kong recorded 46.8 million visitor arrivals in the first ten months of the year, up 12 per cent year on year, and she is fairly confident full-year arrivals will reach 55 million, above the original estimate of 53.8 million. Speaking on a radio programme, Law said the APEC finance ministers' meeting in Hong Kong and the APEC meetings in Shenzhen brought many business leaders, their delegations and families through Hong Kong, with hotel occupancy reaching 92 to 93 per cent at several hotels in Tsim Sha Tsui East. She added that as major international conferences are held in Hong Kong, the outside world can see the city's business opportunities and booming tourism, and many misunderstandings and smears about Hong Kong will fall apart on their own.",
+      "zh_hans": "文化体育及旅游局局长罗淑佩表示，今年头10个月访港旅客已有4,680万人次，按年增长12%，对于全年访港旅客达到5,500万人次有一定信心，原先估算为5,380万人次。她在电台节目表示，早前本港举行APEC财长会，日前深圳举办APEC会议，不少商界领袖带同随员及家眷取道香港前往深圳或离开，酒店住宿情况相当好，以尖东数间酒店为例，入住率达到92至93%。罗淑佩又说，随着大型国际会议召开，外界见到香港的商机，市道及旅游业兴旺，许多对香港的误解以至抹黑的谣言便会不攻自破。",
+      "zh_hant": "文化體育及旅遊局局長羅淑佩表示，今年頭10個月訪港旅客已有4,680萬人次，按年增長12%，對於全年訪港旅客達到5,500萬人次有一定信心，原先估算為5,380萬人次。她在電台節目表示，早前本港舉行APEC財長會，日前深圳舉辦APEC會議，不少商界領袖帶同隨員及家眷取道香港前往深圳或離開，酒店住宿情況相當好，以尖東數間酒店為例，入住率達到92至93%。羅淑佩又說，隨着大型國際會議召開，外界見到香港的商機，市道及旅遊業興旺，許多對香港的誤解以至抹黑的謠言便會不攻自破。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong visitors",
+        "Rosanna Law",
+        "APEC"
+      ],
+      "zh_hans": [
+        "访港旅客",
+        "罗淑佩",
+        "APEC"
+      ],
+      "zh_hant": [
+        "訪港旅客",
+        "羅淑佩",
+        "APEC"
+      ]
+    },
+    "title": {
+      "en": "Hong Kong expects 55 million visitors this year as APEC boosts hotel occupancy above 90%, tourism chief says",
+      "zh_hans": "罗淑佩：全年访港旅客料达5500万人次 APEC带旺酒店入住率逾九成",
+      "zh_hant": "羅淑佩：全年訪港旅客料達5500萬人次 APEC帶旺酒店入住率逾九成"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-law-visitors-55m-confidence-v2.jpg",
+    "image_prompt": "事實：全年訪港旅客料達5500萬人次，頭10個月4680萬人次按年升12%。場景：光猛日間維多利亞港海濱，陽光普照，藍天白雲，遊客熙來攘往，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「全年訪港旅客料達5500萬人次」白字，第二行「APEC帶旺酒店入住率逾九成」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-law-visitors-55m-confidence-v2.jpg"
+  },
+  {
+    "category": "world",
+    "id": "20261121-peru-6-7-earthquake-lima",
+    "published_at": "2026-11-21T09:02:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878674-20261121.htm"
+    },
+    "summary": {
+      "en": "A magnitude 6.7 earthquake struck Peru, with strong shaking felt in the capital Lima and elsewhere. The quake occurred on Friday night local time, with its epicentre 30 kilometres northwest of the city of Junin in Junin province, at a depth of 129 kilometres.",
+      "zh_hans": "秘鲁发生6.7级地震，首都利马等地震感强烈。地震发生在当地星期五晚上，震央位于胡宁省胡宁市西北30公里，震源深度129公里。",
+      "zh_hant": "秘魯發生6.7級地震，首都利馬等地震感強烈。地震發生在當地星期五晚上，震央位於胡寧省胡寧市西北30公里，震源深度129公里。"
+    },
+    "tags": {
+      "en": [
+        "Peru earthquake",
+        "Lima",
+        "Earthquake"
+      ],
+      "zh_hans": [
+        "秘鲁地震",
+        "利马",
+        "地震"
+      ],
+      "zh_hant": [
+        "秘魯地震",
+        "利馬",
+        "地震"
+      ]
+    },
+    "title": {
+      "en": "Magnitude 6.7 earthquake strikes Peru, shaking felt strongly in capital Lima",
+      "zh_hans": "秘鲁6.7级地震 首都利马震感强烈 震源深129公里",
+      "zh_hant": "秘魯6.7級地震 首都利馬震感強烈 震源深129公里"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-peru-6-7-earthquake-lima-v2.jpg",
+    "image_prompt": "事實：秘魯發生6.7級地震，首都利馬震感強烈，震源深度129公里。場景：光猛日間南美安第斯山區城鎮外景，陽光普照，藍天白雲，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔或災場傷亡畫面。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「秘魯6.7級地震」白字，第二行「首都利馬震感強烈 震源深129公里」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-peru-6-7-earthquake-lima-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-yau-ying-wah-apec-cautious-optimism",
+    "published_at": "2026-11-21T08:58:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878673-20261121.htm"
+    },
+    "summary": {
+      "en": "Secretary for Commerce and Economic Development Algernon Yau said the APEC leaders' informal meeting hosted by China in Shenzhen was of a very high scale and standard, and that the Shenzhen meeting complemented Hong Kong's earlier APEC finance ministers' meeting, highlighting Hong Kong's role as a super-connector and super value-adder. Speaking on RTHK's Saturday accountability programme, Yau said that while accompanying the Chief Executive he took part in bilateral talks with various economies on trade, education and the RCEP accession process, and that talks with Chile reached a working holiday agreement, taking Hong Kong's cooperation with Latin American countries to a new stage. On the historic China-Russia-US summit and its Peace Declaration, he said the declaration championed fair and open multilateral trade and innovation, and that as tariff issues are gradually resolved it will also benefit Hong Kong's economic development, so Hong Kong must be cautiously optimistic and plan its way forward.",
+      "zh_hans": "商务及经济发展局局长丘应桦表示，今次由国家举办的APEC领导人非正式会议规模格局非常高，深圳会议与香港早前举行的APEC财长会议相辅相成，突显香港特区作为超级联系人和超级增值人的角色。他在《星期六问责》说，陪同行政长官出席会议期间参与不同经济体的双边会谈，探讨加强贸易和教育合作及加入RCEP进程，与智利的会谈就工作假期达成协议，可见香港与拉丁美洲国家的合作走上新阶段。对于中俄美元首历史性会晤并发表《和平宣言》，他指出宣言提倡公平开放多边贸易主义、着重创新，关税问题逐步解决对香港未来经济发展亦有正面影响，香港要审慎乐观，部署未来路向。",
+      "zh_hant": "商務及經濟發展局局長丘應樺表示，今次由國家舉辦的APEC領導人非正式會議規模格局非常高，深圳會議與香港早前舉行的APEC財長會議相輔相成，突顯香港特區作為超級聯繫人和超級增值人的角色。他在《星期六問責》說，陪同行政長官出席會議期間參與不同經濟體的雙邊會談，探討加強貿易和教育合作及加入RCEP進程，與智利的會談就工作假期達成協議，可見香港與拉丁美洲國家的合作走上新階段。對於中俄美元首歷史性會晤並發表《和平宣言》，他指出宣言提倡公平開放多邊貿易主義、着重創新，關稅問題逐步解決對香港未來經濟發展亦有正面影響，香港要審慎樂觀，部署未來路向。"
+    },
+    "tags": {
+      "en": [
+        "Algernon Yau",
+        "APEC",
+        "China-Russia-US summit"
+      ],
+      "zh_hans": [
+        "丘应桦",
+        "APEC",
+        "中俄美会晤"
+      ],
+      "zh_hant": [
+        "丘應樺",
+        "APEC",
+        "中俄美會晤"
+      ]
+    },
+    "title": {
+      "en": "Trilateral summit bodes well for global outlook and Hong Kong must plan cautiously and optimistically, commerce chief says",
+      "zh_hans": "丘应桦：中俄美首会晤利好环球局势 香港审慎乐观部署路向",
+      "zh_hant": "丘應樺：中俄美首會晤利好環球局勢 香港審慎樂觀部署未來路向"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-yau-ying-wah-apec-cautious-optimism-v2.jpg",
+    "image_prompt": "事實：丘應樺稱中俄美首會晤利好環球局勢，香港要審慎樂觀部署未來路向。場景：光猛日間深圳會議中心外景，陽光普照，藍天白雲，現代建築線條明亮，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「丘應樺：中俄美首會晤利好環球局勢」白字，第二行「香港審慎樂觀部署未來路向」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-yau-ying-wah-apec-cautious-optimism-v2.jpg"
+  },
+  {
+    "category": "hk",
     "id": "20261121-building-maintenance-overhaul-300m-fines",
     "published_at": "2026-11-21T08:10:22+08:00",
     "source": {
@@ -1126,120 +1243,6 @@
     },
     "image_url": "",
     "image_prompt": "事實：特朗普稱曾與習近平討論黃仁勳，三國共識絕不能讓核衝突發生。場景：光猛日間白宮記者會現場，陽光透過窗戶灑入，明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「特朗普稱曾與習討論黃仁勳」白字，第二行「三國共識絕不讓核衝突發生」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-law-visitors-55m-confidence",
-    "published_at": "2026-11-21T10:05:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878679-20261121.htm"
-    },
-    "summary": {
-      "en": "Secretary for Culture, Sports and Tourism Rosanna Law said Hong Kong recorded 46.8 million visitor arrivals in the first ten months of the year, up 12 per cent year on year, and she is fairly confident full-year arrivals will reach 55 million, above the original estimate of 53.8 million. Speaking on a radio programme, Law said the APEC finance ministers' meeting in Hong Kong and the APEC meetings in Shenzhen brought many business leaders, their delegations and families through Hong Kong, with hotel occupancy reaching 92 to 93 per cent at several hotels in Tsim Sha Tsui East. She added that as major international conferences are held in Hong Kong, the outside world can see the city's business opportunities and booming tourism, and many misunderstandings and smears about Hong Kong will fall apart on their own.",
-      "zh_hans": "文化体育及旅游局局长罗淑佩表示，今年头10个月访港旅客已有4,680万人次，按年增长12%，对于全年访港旅客达到5,500万人次有一定信心，原先估算为5,380万人次。她在电台节目表示，早前本港举行APEC财长会，日前深圳举办APEC会议，不少商界领袖带同随员及家眷取道香港前往深圳或离开，酒店住宿情况相当好，以尖东数间酒店为例，入住率达到92至93%。罗淑佩又说，随着大型国际会议召开，外界见到香港的商机，市道及旅游业兴旺，许多对香港的误解以至抹黑的谣言便会不攻自破。",
-      "zh_hant": "文化體育及旅遊局局長羅淑佩表示，今年頭10個月訪港旅客已有4,680萬人次，按年增長12%，對於全年訪港旅客達到5,500萬人次有一定信心，原先估算為5,380萬人次。她在電台節目表示，早前本港舉行APEC財長會，日前深圳舉辦APEC會議，不少商界領袖帶同隨員及家眷取道香港前往深圳或離開，酒店住宿情況相當好，以尖東數間酒店為例，入住率達到92至93%。羅淑佩又說，隨着大型國際會議召開，外界見到香港的商機，市道及旅遊業興旺，許多對香港的誤解以至抹黑的謠言便會不攻自破。"
-    },
-    "tags": {
-      "en": [
-        "Hong Kong visitors",
-        "Rosanna Law",
-        "APEC"
-      ],
-      "zh_hans": [
-        "访港旅客",
-        "罗淑佩",
-        "APEC"
-      ],
-      "zh_hant": [
-        "訪港旅客",
-        "羅淑佩",
-        "APEC"
-      ]
-    },
-    "title": {
-      "en": "Hong Kong expects 55 million visitors this year as APEC boosts hotel occupancy above 90%, tourism chief says",
-      "zh_hans": "罗淑佩：全年访港旅客料达5500万人次 APEC带旺酒店入住率逾九成",
-      "zh_hant": "羅淑佩：全年訪港旅客料達5500萬人次 APEC帶旺酒店入住率逾九成"
-    },
-    "image_url": "",
-    "image_prompt": "事實：全年訪港旅客料達5500萬人次，頭10個月4680萬人次按年升12%。場景：光猛日間維多利亞港海濱，陽光普照，藍天白雲，遊客熙來攘往，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「全年訪港旅客料達5500萬人次」白字，第二行「APEC帶旺酒店入住率逾九成」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "world",
-    "id": "20261121-peru-6-7-earthquake-lima",
-    "published_at": "2026-11-21T09:02:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878674-20261121.htm"
-    },
-    "summary": {
-      "en": "A magnitude 6.7 earthquake struck Peru, with strong shaking felt in the capital Lima and elsewhere. The quake occurred on Friday night local time, with its epicentre 30 kilometres northwest of the city of Junin in Junin province, at a depth of 129 kilometres.",
-      "zh_hans": "秘鲁发生6.7级地震，首都利马等地震感强烈。地震发生在当地星期五晚上，震央位于胡宁省胡宁市西北30公里，震源深度129公里。",
-      "zh_hant": "秘魯發生6.7級地震，首都利馬等地震感強烈。地震發生在當地星期五晚上，震央位於胡寧省胡寧市西北30公里，震源深度129公里。"
-    },
-    "tags": {
-      "en": [
-        "Peru earthquake",
-        "Lima",
-        "Earthquake"
-      ],
-      "zh_hans": [
-        "秘鲁地震",
-        "利马",
-        "地震"
-      ],
-      "zh_hant": [
-        "秘魯地震",
-        "利馬",
-        "地震"
-      ]
-    },
-    "title": {
-      "en": "Magnitude 6.7 earthquake strikes Peru, shaking felt strongly in capital Lima",
-      "zh_hans": "秘鲁6.7级地震 首都利马震感强烈 震源深129公里",
-      "zh_hant": "秘魯6.7級地震 首都利馬震感強烈 震源深129公里"
-    },
-    "image_url": "",
-    "image_prompt": "事實：秘魯發生6.7級地震，首都利馬震感強烈，震源深度129公里。場景：光猛日間南美安第斯山區城鎮外景，陽光普照，藍天白雲，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔或災場傷亡畫面。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「秘魯6.7級地震」白字，第二行「首都利馬震感強烈 震源深129公里」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-yau-ying-wah-apec-cautious-optimism",
-    "published_at": "2026-11-21T08:58:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878673-20261121.htm"
-    },
-    "summary": {
-      "en": "Secretary for Commerce and Economic Development Algernon Yau said the APEC leaders' informal meeting hosted by China in Shenzhen was of a very high scale and standard, and that the Shenzhen meeting complemented Hong Kong's earlier APEC finance ministers' meeting, highlighting Hong Kong's role as a super-connector and super value-adder. Speaking on RTHK's Saturday accountability programme, Yau said that while accompanying the Chief Executive he took part in bilateral talks with various economies on trade, education and the RCEP accession process, and that talks with Chile reached a working holiday agreement, taking Hong Kong's cooperation with Latin American countries to a new stage. On the historic China-Russia-US summit and its Peace Declaration, he said the declaration championed fair and open multilateral trade and innovation, and that as tariff issues are gradually resolved it will also benefit Hong Kong's economic development, so Hong Kong must be cautiously optimistic and plan its way forward.",
-      "zh_hans": "商务及经济发展局局长丘应桦表示，今次由国家举办的APEC领导人非正式会议规模格局非常高，深圳会议与香港早前举行的APEC财长会议相辅相成，突显香港特区作为超级联系人和超级增值人的角色。他在《星期六问责》说，陪同行政长官出席会议期间参与不同经济体的双边会谈，探讨加强贸易和教育合作及加入RCEP进程，与智利的会谈就工作假期达成协议，可见香港与拉丁美洲国家的合作走上新阶段。对于中俄美元首历史性会晤并发表《和平宣言》，他指出宣言提倡公平开放多边贸易主义、着重创新，关税问题逐步解决对香港未来经济发展亦有正面影响，香港要审慎乐观，部署未来路向。",
-      "zh_hant": "商務及經濟發展局局長丘應樺表示，今次由國家舉辦的APEC領導人非正式會議規模格局非常高，深圳會議與香港早前舉行的APEC財長會議相輔相成，突顯香港特區作為超級聯繫人和超級增值人的角色。他在《星期六問責》說，陪同行政長官出席會議期間參與不同經濟體的雙邊會談，探討加強貿易和教育合作及加入RCEP進程，與智利的會談就工作假期達成協議，可見香港與拉丁美洲國家的合作走上新階段。對於中俄美元首歷史性會晤並發表《和平宣言》，他指出宣言提倡公平開放多邊貿易主義、着重創新，關稅問題逐步解決對香港未來經濟發展亦有正面影響，香港要審慎樂觀，部署未來路向。"
-    },
-    "tags": {
-      "en": [
-        "Algernon Yau",
-        "APEC",
-        "China-Russia-US summit"
-      ],
-      "zh_hans": [
-        "丘应桦",
-        "APEC",
-        "中俄美会晤"
-      ],
-      "zh_hant": [
-        "丘應樺",
-        "APEC",
-        "中俄美會晤"
-      ]
-    },
-    "title": {
-      "en": "Trilateral summit bodes well for global outlook and Hong Kong must plan cautiously and optimistically, commerce chief says",
-      "zh_hans": "丘应桦：中俄美首会晤利好环球局势 香港审慎乐观部署路向",
-      "zh_hant": "丘應樺：中俄美首會晤利好環球局勢 香港審慎樂觀部署未來路向"
-    },
-    "image_url": "",
-    "image_prompt": "事實：丘應樺稱中俄美首會晤利好環球局勢，香港要審慎樂觀部署未來路向。場景：光猛日間深圳會議中心外景，陽光普照，藍天白雲，現代建築線條明亮，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「丘應樺：中俄美首會晤利好環球局勢」白字，第二行「香港審慎樂觀部署未來路向」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
   },
   {
     "category": "finance",
