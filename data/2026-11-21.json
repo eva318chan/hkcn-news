@@ -1,5 +1,44 @@
 [
   {
+    "category": "world",
+    "id": "20261121-europe-protests-strikes-public-services",
+    "published_at": "2026-11-21T13:55:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878698-20261121.htm"
+    },
+    "summary": {
+      "en": "Protests and strikes have hit several European countries, with demonstrators demanding more public service spending, higher wages and less defence spending, disrupting transport, health and education services. In Germany, protests broke out in several cities on Friday against the restoration of conscription and cuts to education funding; about 4,500 people marched in Berlin, where police deployed around 1,600 officers. In London, protesters gathered at Parliament Square and Trafalgar Square against military expansion and the rising cost of living, and police arrested several people. Smaller marches took place in Paris and elsewhere in France, where the government plans to deploy 70,000 police and gendarmes nationwide for weekend protests marking the eighth anniversary of the Yellow Vests movement. Unions in Italy and Portugal also called strikes.",
+      "zh_hans": "欧洲多国有民众示威和罢工，要求增加公共服务开支和提高工资，减少国防支出，交通、医疗和教育等服务受影响。德国多个城市星期五爆发示威，反对恢复兵役制和削减教育经费，其中柏林约4500人参加，警方出动约1600名警力维持秩序。英国伦敦示威者聚集议会广场及特拉法加广场，反对军事扩张和生活成本上涨，警方拘捕数人。法国巴黎等地亦有游行，适逢「黄背心运动」8周年，政府计划全国部署7万名警察和宪兵应对。意大利和葡萄牙则有工会发起罢工。",
+      "zh_hant": "歐洲多國有民眾示威和罷工，要求增加公共服務開支和提高工資，減少國防支出，交通、醫療和教育等服務受影響。德國多個城市星期五爆發示威，反對恢復兵役制和削減教育經費，其中柏林約4500人參加，警方出動約1600名警力維持秩序。英國倫敦示威者聚集議會廣場及特拉法加廣場，反對軍事擴張和生活成本上漲，警方拘捕數人。法國巴黎等地亦有遊行，適逢「黃背心運動」8周年，政府計劃全國部署7萬名警察和憲兵應對。意大利和葡萄牙則有工會發起罷工。"
+    },
+    "tags": {
+      "en": [
+        "Europe",
+        "protests",
+        "strikes"
+      ],
+      "zh_hans": [
+        "欧洲",
+        "示威",
+        "罢工"
+      ],
+      "zh_hant": [
+        "歐洲",
+        "示威",
+        "罷工"
+      ]
+    },
+    "title": {
+      "en": "Protests and strikes sweep Europe as Berlin sees 4,500 march and France deploys 70,000 police",
+      "zh_hans": "欧洲多国爆示威罢工潮 柏林4500人上街 法国部署7万警力",
+      "zh_hant": "歐洲多國爆示威罷工潮 柏林4500人上街 法國部署7萬警力"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-europe-protests-strikes-public-services-v2.jpg",
+    "image_prompt": "事實：歐洲多國爆發示威和罷工，要求增加公共服務開支和提高工資，柏林約4500人參加示威，法國部署7萬名警察和憲兵。場景：光猛日間歐洲城市街頭示威，遊行人群、橫額、城市建築，明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔，人物只用剪影或背影。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「歐洲多國爆示威罷工潮」白字，第二行「柏林4500人上街 法國部署7萬警力」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-europe-protests-strikes-public-services-v2.jpg"
+  },
+  {
     "category": "hk",
     "id": "20261121-aiib-office-hk-agreements-signed",
     "published_at": "2026-11-21T13:48:00+08:00",
@@ -36,6 +75,162 @@
     },
     "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261121-aiib-office-hk-agreements-signed.jpg",
     "image_r2_key": "design/202611/20261121-aiib-office-hk-agreements-signed.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-legco-opposes-uscc-report",
+    "published_at": "2026-11-21T13:43:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878696-20261121.htm"
+    },
+    "summary": {
+      "en": "The Legislative Council says it is strongly dissatisfied with and firmly opposes the US-China Economic and Security Review Commission's so-called '2026 report', accusing it of false and biased statements about Hong Kong and of wantonly smearing 'one country, two systems'. A LegCo spokesperson said the council firmly supports the SAR government's statement rebutting the report. The spokesperson noted the report claims the National Security Law and Article 23 legislation systematically erode the rule of law, yet says nothing about the serious violent unrest of 2019, which only the National Security Law could bring under control. The World Justice Project's 2026 Rule of Law Index ranks Hong Kong 24th among 143 countries and regions.",
+      "zh_hans": "立法会表示强烈不满和坚决反对美中经济与安全审议委员会发表所谓「2026年报告」，批评报告对香港情况作出失实、偏颇的陈述，肆意诋毁「一国两制」，并对司法独立、法治、维护国家安全、选举制度及经济发展等多方面无理抹黑。立法会发言人坚定支持特区政府就报告发出的声明，直斥其非。发言人指出，报告指《香港国安法》及《基本法》第23条立法侵蚀法治，却只字不提2019年严重暴力动乱，正是国安法实施才恢复社会秩序。世界正义工程《2026年法治指数》显示，香港在全球143个国家和地区中位列第24位。",
+      "zh_hant": "立法會表示強烈不滿和堅決反對美中經濟與安全審議委員會發表所謂「2026年報告」，批評報告對香港情況作出失實、偏頗的陳述，肆意詆毀「一國兩制」，並對司法獨立、法治、維護國家安全、選舉制度及經濟發展等多方面無理抹黑。立法會發言人堅定支持特區政府就報告發出的聲明，直斥其非。發言人指出，報告指《香港國安法》及《基本法》第23條立法侵蝕法治，卻隻字不提2019年嚴重暴力動亂，正是國安法實施才恢復社會秩序。世界正義工程《2026年法治指數》顯示，香港在全球143個國家和地區中位列第24位。"
+    },
+    "tags": {
+      "en": [
+        "Legislative Council",
+        "USCC report",
+        "one country two systems"
+      ],
+      "zh_hans": [
+        "立法会",
+        "美中经济与安全审议委员会",
+        "一国两制"
+      ],
+      "zh_hant": [
+        "立法會",
+        "美中經濟與安全審議委員會",
+        "一國兩制"
+      ]
+    },
+    "title": {
+      "en": "LegCo firmly opposes USCC '2026 report', accusing it of false and biased attacks on 'one country, two systems'",
+      "zh_hans": "立法会强烈反对美方报告 斥失实抹黑一国两制",
+      "zh_hant": "立法會強烈反對美方報告 斥失實抹黑一國兩制"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-legco-opposes-uscc-report-v2.jpg",
+    "image_prompt": "事實：立法會強烈不滿和堅決反對美中經濟與安全審議委員會所謂「2026年報告」，斥報告失實偏頗、詆毀一國兩制。場景：光猛日間立法會綜合大樓議事廳，明亮通透，莊重專業，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「立法會強烈反對美方報告」白字，第二行「斥失實抹黑一國兩制」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-legco-opposes-uscc-report-v2.jpg"
+  },
+  {
+    "category": "world",
+    "id": "20261121-japan-bear-attacks-warnings",
+    "published_at": "2026-11-21T13:41:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878695-20261121.htm"
+    },
+    "summary": {
+      "en": "Bears have been spotted roaming urban areas across Japan, leaving several people injured and forcing emergency measures including school closures. In Maebashi, Gunma Prefecture, residents have repeatedly seen two bears wandering the city, reportedly a mother and her cub, swimming in a river and walking along residential walls; the cub has been captured while police search for the mother, and at least one man in his 50s has been injured. Public kindergartens and primary and secondary schools in the area have closed. In Shunan, Yamaguchi Prefecture, a man was seriously injured in a bear attack earlier this month and the prefecture has issued a bear warning. Attacks have also been reported in Saitama and Aichi prefectures; with black bears about to hibernate, the government is urging the public to stay alert as bears come into human areas searching for food.",
+      "zh_hans": "日本近期多地发现有熊在市区游荡，已有多人遇袭受伤，涉事地区紧急采取停课等措施。群马县前桥市居民近日经常目击两只熊在市区游荡，有熊在市区河道游泳、在住宅围墙行走，怀疑是母熊和幼熊，幼熊已被捕获，警方正寻找母熊下落；至今至少一名50岁男子遭熊袭击受伤，当地公立幼儿园和中小学停课。山口县周南市本月初一名男子被熊袭击受重伤，县政府发布熊出没警报。埼玉县、爱知县等地亦发生熊袭击人事件，黑熊即将冬眠，政府敦促民众警惕熊为寻找食物而出现在人类生活圈。",
+      "zh_hant": "日本近期多地發現有熊在市區遊蕩，已有多人遇襲受傷，涉事地區緊急採取停課等措施。群馬縣前橋市居民近日經常目擊兩隻熊在市區遊蕩，有熊在市區河道游泳、在住宅圍牆行走，懷疑是母熊和幼熊，幼熊已被捕獲，警方正尋找母熊下落；至今至少一名50歲男子遭熊襲擊受傷，當地公立幼稚園和中小學校停課。山口縣周南市本月初一名男子被熊襲擊受重傷，縣政府發佈熊出沒警報。埼玉縣、愛知縣等地亦發生熊襲擊人事件，黑熊即將冬眠，政府敦促民眾警惕熊為尋找食物而出現在人類生活圈。"
+    },
+    "tags": {
+      "en": [
+        "Japan",
+        "bear attacks",
+        "Gunma"
+      ],
+      "zh_hans": [
+        "日本",
+        "熊袭击",
+        "群马县"
+      ],
+      "zh_hant": [
+        "日本",
+        "熊襲擊",
+        "群馬縣"
+      ]
+    },
+    "title": {
+      "en": "Bears roam Japanese cities and maul residents; schools shut in Gunma as mother bear still at large",
+      "zh_hans": "日本多地熊出没伤人 群马母熊幼熊市区游荡 多间学校停课",
+      "zh_hant": "日本多地熊出沒傷人 群馬母熊市區遊蕩 多間學校停課"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-japan-bear-attacks-warnings-v2.jpg",
+    "image_prompt": "事實：日本多地有熊在市區遊蕩傷人，群馬縣前橋市兩隻熊懷疑母熊和幼熊在市區遊蕩，幼熊已被捕獲，母熊下落未明，多間學校停課。場景：光猛日間日本市區街道邊緣接壤山林，河道、住宅圍牆、樹木，明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔，唔可以捏造具體地標。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「日本多地熊出沒傷人」白字，第二行「群馬母熊市區遊蕩 多間學校停課」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-japan-bear-attacks-warnings-v2.jpg"
+  },
+  {
+    "category": "world",
+    "id": "20261121-bessent-iran-threat-military-base",
+    "published_at": "2026-11-21T13:04:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878692-20261121.htm"
+    },
+    "summary": {
+      "en": "US Treasury Secretary Scott Bessent says he still faces a security threat from Iran and continues to live on a military base. In an interview, Bessent insisted he would not be intimidated by Iranians, saying the US has applied two and a half months of economic pressure on Iran, which he described as the harshest economic isolation ever imposed on a country. He argued that being targeted shows Tehran is feeling the pressure, and said the US will keep pressing Iran's Islamic Revolutionary Guard Corps until it is ready to comply with an agreement. He also accused an irresponsible editor at the Wall Street Journal of publishing a photo that revealed the location of his home.",
+      "zh_hans": "美国财长贝森特表示，他依然面临伊朗的安全威胁，目前仍居住在军事基地。贝森特接受访问时重申，自己不会被伊朗人吓倒，美国已对伊朗实施两个半月的经济施压，形容是史上对一个国家最严厉的经济孤立。他认为如果伊朗人针对他，正表明他们正在承受压力，美国将继续对伊朗伊斯兰革命卫队施压，直到对方准备好遵守协议。他又指责美国《华尔街日报》一名不负责任的编辑发布照片，泄露他住所的位置。",
+      "zh_hant": "美國財長貝森特表示，他依然面臨伊朗的安全威脅，目前仍居住在軍事基地。貝森特接受訪問時重申，自己不會被伊朗人嚇倒，美國已對伊朗實施兩個半月的經濟施壓，形容是史上對一個國家最嚴厲的經濟孤立。他認為如果伊朗人針對他，正表明他們正在承受壓力，美國將繼續向伊朗伊斯蘭革命衛隊施壓，直到對方準備好遵守協議。他又指責美國《華爾街日報》一名不負責任的編輯發佈照片，洩露他住所的位置。"
+    },
+    "tags": {
+      "en": [
+        "Scott Bessent",
+        "Iran",
+        "US Treasury"
+      ],
+      "zh_hans": [
+        "贝森特",
+        "伊朗",
+        "美国财长"
+      ],
+      "zh_hant": [
+        "貝森特",
+        "伊朗",
+        "美國財長"
+      ]
+    },
+    "title": {
+      "en": "Bessent says he still faces Iranian threat and lives on a military base, accusing WSJ editor of leaking his address",
+      "zh_hans": "贝森特自爆仍受伊朗威胁 被迫住军事基地 斥华尔街日报泄住所",
+      "zh_hant": "貝森特自爆仍受伊朗威脅 被迫住軍事基地 斥洩住所"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-bessent-iran-threat-military-base-v2.jpg",
+    "image_prompt": "事實：美國財長貝森特表示依然面臨伊朗安全威脅，目前仍居住在軍事基地，又指責《華爾街日報》編輯發佈照片洩露住所位置。場景：光猛日間美國財政部大樓外貌，石柱、台階、旗桿，明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔，唔可以捏造具體地標細節。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「貝森特自爆仍受伊朗威脅」白字，第二行「被迫住軍事基地 斥洩住所」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-bessent-iran-threat-military-base-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-mtr-tung-chung-line-early-finish-nov-28",
+    "published_at": "2026-11-21T12:41:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878690-20261121.htm"
+    },
+    "summary": {
+      "en": "The MTR's third critical turnout installation for the Tung Chung Line Extension (Tung Chung East section) will take place late on Saturday, November 28. To free up the tracks, train services between Tung Chung and Sunny Bay stations will end early at about 11pm that night, broadly the same arrangement as the previous two occasions, with free shuttle buses running between the two stations. Services between Hong Kong and Sunny Bay stations will run normally, with extra staff and signage at stations. The MTR said it will do its best to complete the works so normal service can resume from the first train the next morning.",
+      "zh_hans": "港铁东涌线延线、东涌东段第三次关键波口安装工序将于11月28日（下周六）深夜进行。为腾出路轨集中完成工序，当晚往来东涌站及欣澳站的列车服务将提早于晚上约11时完结，安排大致与早前两次相同，期间港铁将提供免费接驳巴士往来两站。往来香港站至欣澳站的列车服务维持正常，车站将加派人手及增设指示。港铁表示会尽力确保工序顺利完成，让东涌线翌日头班车起恢复正常服务。",
+      "zh_hant": "港鐵東涌綫延綫、東涌東段第三次關鍵波口安裝工序將於11月28日（下周六）深夜進行。為騰出路軌集中完成工序，當晚往來東涌站及欣澳站的列車服務將提早於晚上約11時完結，安排大致與早前兩次相同，期間港鐵將提供免費接駁巴士往來兩站。往來香港站至欣澳站的列車服務維持正常，車站將加派人手及增設指示。港鐵表示會盡力確保工序順利完成，讓東涌綫翌日頭班車起恢復正常服務。"
+    },
+    "tags": {
+      "en": [
+        "MTR",
+        "Tung Chung Line",
+        "Tung Chung"
+      ],
+      "zh_hans": [
+        "港铁",
+        "东涌线",
+        "东涌"
+      ],
+      "zh_hant": [
+        "港鐵",
+        "東涌綫",
+        "東涌"
+      ]
+    },
+    "title": {
+      "en": "Tung Chung Line extension works next Saturday night; trains between Tung Chung and Sunny Bay to end early at about 11pm",
+      "zh_hans": "东涌线延线下周六晚关键工序 东涌至欣澳列车提早11时收车",
+      "zh_hant": "東涌綫延綫下周六晚關鍵工序 東涌至欣澳列車提早11時收車"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-mtr-tung-chung-line-early-finish-nov-28-v2.jpg",
+    "image_prompt": "事實：港鐵東涌綫延綫下周六（11月28日）深夜進行第三次關鍵波口安裝工序，當晚往來東涌站及欣澳站的列車提早約晚上11時完結。場景：光猛日間港鐵東涌站月台，列車、路軌、月台幕門，明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「東涌綫延綫下周六晚關鍵工序」白字，第二行「東涌至欣澳列車提早11時收車」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-mtr-tung-chung-line-early-finish-nov-28-v2.jpg"
   },
   {
     "category": "world",
@@ -1011,6 +1206,45 @@
     "image_r2_key": "design/202611/20261121-france-bird-flu-highest-risk-level-v2.jpg"
   },
   {
+    "category": "finance",
+    "id": "20261121-bitcoin-below-58000-two-year-low",
+    "published_at": "2026-11-21T02:13:00+08:00",
+    "source": {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play"
+    },
+    "summary": {
+      "en": "Bitcoin has fallen below US$58,000 to its lowest since September 2024, dropping about 6 per cent in a day and touching an intraday low of about US$57,778. The sell-off came as artificial-intelligence shares plunged, with the Nasdaq down about 5 per cent, and as Federal Reserve policymakers raised the prospect of larger interest-rate hikes to fight stubborn inflation. Ether fell about 7 per cent to around US$1,622, while XRP, Solana and BNB lost about 5 to 6 per cent. About US$1.5 billion in leveraged crypto positions were wiped out in 24 hours, and US spot bitcoin exchange-traded funds saw US$582 million in net outflows on Thursday, including a record US$541.1 million redemption from BlackRock's IBIT fund. Bitcoin is down about 25 per cent in November, on track for its worst month since June 2022 and a seventh straight weekly loss, and has fallen more than 50 per cent from its record above US$126,000 set in October 2025.",
+      "zh_hans": "比特币跌穿58,000美元，低见约57,778美元，创2024年9月以来新低，单日跌约6%。人工智能股份急挫拖累纳指跌约5%，联储局官员又提出可能大幅加息应对顽固通胀，加密货币全线受压；以太币跌约7%至约1,622美元，瑞波币、Solana及币安币跌约5%至6%。过去24小时，约15亿美元杠杆仓位被强制平仓；美国现货比特币ETF周四录得5.82亿美元净流出，其中贝莱德IBIT单日流出5.411亿美元，创纪录。比特币11月累跌约25%，料创2022年6月以来最差单月及连续7周下跌，较2025年10月逾126,000美元的历史高位跌逾五成。",
+      "zh_hant": "比特幣跌穿58,000美元，低見約57,778美元，創2024年9月以來新低，單日跌約6%。人工智能股份急挫拖累納指跌約5%，聯儲局官員又提出可能大幅加息應對頑固通脹，加密貨幣全線受壓；以太幣跌約7%至約1,622美元，瑞波幣、Solana及幣安幣跌約5%至6%。過去24小時，約15億美元槓桿倉位被強制平倉；美國現貨比特幣ETF周四錄得5.82億美元淨流出，其中貝萊德IBIT單日流出5.411億美元，創紀錄。比特幣11月累跌約25%，料創2022年6月以來最差單月及連續7周下跌，較2025年10月逾126,000美元的歷史高位跌逾五成。"
+    },
+    "tags": {
+      "en": [
+        "Bitcoin",
+        "Cryptocurrency",
+        "ETF"
+      ],
+      "zh_hans": [
+        "比特币",
+        "加密货币",
+        "ETF"
+      ],
+      "zh_hant": [
+        "比特幣",
+        "加密貨幣",
+        "ETF"
+      ]
+    },
+    "title": {
+      "en": "Bitcoin drops below $58,000 to lowest since September 2024 as $1.5 billion in leveraged bets wiped out",
+      "zh_hans": "比特币失守58000美元创两年新低 单日蒸发15亿美元杠杆仓位",
+      "zh_hant": "比特幣失守58000美元創兩年新低 單日蒸發15億美元槓桿倉位"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-bitcoin-below-58000-two-year-low-v2.jpg",
+    "image_prompt": "事實：比特幣失守58000美元，創2024年9月以來新低，單日蒸發約15億美元槓桿倉位。場景：光猛日間加密貨幣交易畫面，金色比特幣與紅色下跌圖表，陽光普照，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「比特幣失守58000美元」白字，第二行「創兩年新低 單日蒸發15億美元槓桿倉位」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-bitcoin-below-58000-two-year-low-v2.jpg"
+  },
+  {
     "category": "world",
     "id": "20261121-uk-eu-summit-youth-mobility-100k",
     "published_at": "2026-11-21T00:30:00+08:00",
@@ -1517,120 +1751,6 @@
     "image_r2_key": "design/202611/20261121-hkicl-fraudulent-website-fpshk-xyz-v2.jpg"
   },
   {
-    "category": "world",
-    "id": "20261121-europe-protests-strikes-public-services",
-    "published_at": "2026-11-21T13:55:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878698-20261121.htm"
-    },
-    "summary": {
-      "en": "Protests and strikes have hit several European countries, with demonstrators demanding more public service spending, higher wages and less defence spending, disrupting transport, health and education services. In Germany, protests broke out in several cities on Friday against the restoration of conscription and cuts to education funding; about 4,500 people marched in Berlin, where police deployed around 1,600 officers. In London, protesters gathered at Parliament Square and Trafalgar Square against military expansion and the rising cost of living, and police arrested several people. Smaller marches took place in Paris and elsewhere in France, where the government plans to deploy 70,000 police and gendarmes nationwide for weekend protests marking the eighth anniversary of the Yellow Vests movement. Unions in Italy and Portugal also called strikes.",
-      "zh_hans": "欧洲多国有民众示威和罢工，要求增加公共服务开支和提高工资，减少国防支出，交通、医疗和教育等服务受影响。德国多个城市星期五爆发示威，反对恢复兵役制和削减教育经费，其中柏林约4500人参加，警方出动约1600名警力维持秩序。英国伦敦示威者聚集议会广场及特拉法加广场，反对军事扩张和生活成本上涨，警方拘捕数人。法国巴黎等地亦有游行，适逢「黄背心运动」8周年，政府计划全国部署7万名警察和宪兵应对。意大利和葡萄牙则有工会发起罢工。",
-      "zh_hant": "歐洲多國有民眾示威和罷工，要求增加公共服務開支和提高工資，減少國防支出，交通、醫療和教育等服務受影響。德國多個城市星期五爆發示威，反對恢復兵役制和削減教育經費，其中柏林約4500人參加，警方出動約1600名警力維持秩序。英國倫敦示威者聚集議會廣場及特拉法加廣場，反對軍事擴張和生活成本上漲，警方拘捕數人。法國巴黎等地亦有遊行，適逢「黃背心運動」8周年，政府計劃全國部署7萬名警察和憲兵應對。意大利和葡萄牙則有工會發起罷工。"
-    },
-    "tags": {
-      "en": [
-        "Europe",
-        "protests",
-        "strikes"
-      ],
-      "zh_hans": [
-        "欧洲",
-        "示威",
-        "罢工"
-      ],
-      "zh_hant": [
-        "歐洲",
-        "示威",
-        "罷工"
-      ]
-    },
-    "title": {
-      "en": "Protests and strikes sweep Europe as Berlin sees 4,500 march and France deploys 70,000 police",
-      "zh_hans": "欧洲多国爆示威罢工潮 柏林4500人上街 法国部署7万警力",
-      "zh_hant": "歐洲多國爆示威罷工潮 柏林4500人上街 法國部署7萬警力"
-    },
-    "image_url": "",
-    "image_prompt": "事實：歐洲多國爆發示威和罷工，要求增加公共服務開支和提高工資，柏林約4500人參加示威，法國部署7萬名警察和憲兵。場景：光猛日間歐洲城市街頭示威，遊行人群、橫額、城市建築，明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔，人物只用剪影或背影。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「歐洲多國爆示威罷工潮」白字，第二行「柏林4500人上街 法國部署7萬警力」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-legco-opposes-uscc-report",
-    "published_at": "2026-11-21T13:43:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878696-20261121.htm"
-    },
-    "summary": {
-      "en": "The Legislative Council says it is strongly dissatisfied with and firmly opposes the US-China Economic and Security Review Commission's so-called '2026 report', accusing it of false and biased statements about Hong Kong and of wantonly smearing 'one country, two systems'. A LegCo spokesperson said the council firmly supports the SAR government's statement rebutting the report. The spokesperson noted the report claims the National Security Law and Article 23 legislation systematically erode the rule of law, yet says nothing about the serious violent unrest of 2019, which only the National Security Law could bring under control. The World Justice Project's 2026 Rule of Law Index ranks Hong Kong 24th among 143 countries and regions.",
-      "zh_hans": "立法会表示强烈不满和坚决反对美中经济与安全审议委员会发表所谓「2026年报告」，批评报告对香港情况作出失实、偏颇的陈述，肆意诋毁「一国两制」，并对司法独立、法治、维护国家安全、选举制度及经济发展等多方面无理抹黑。立法会发言人坚定支持特区政府就报告发出的声明，直斥其非。发言人指出，报告指《香港国安法》及《基本法》第23条立法侵蚀法治，却只字不提2019年严重暴力动乱，正是国安法实施才恢复社会秩序。世界正义工程《2026年法治指数》显示，香港在全球143个国家和地区中位列第24位。",
-      "zh_hant": "立法會表示強烈不滿和堅決反對美中經濟與安全審議委員會發表所謂「2026年報告」，批評報告對香港情況作出失實、偏頗的陳述，肆意詆毀「一國兩制」，並對司法獨立、法治、維護國家安全、選舉制度及經濟發展等多方面無理抹黑。立法會發言人堅定支持特區政府就報告發出的聲明，直斥其非。發言人指出，報告指《香港國安法》及《基本法》第23條立法侵蝕法治，卻隻字不提2019年嚴重暴力動亂，正是國安法實施才恢復社會秩序。世界正義工程《2026年法治指數》顯示，香港在全球143個國家和地區中位列第24位。"
-    },
-    "tags": {
-      "en": [
-        "Legislative Council",
-        "USCC report",
-        "one country two systems"
-      ],
-      "zh_hans": [
-        "立法会",
-        "美中经济与安全审议委员会",
-        "一国两制"
-      ],
-      "zh_hant": [
-        "立法會",
-        "美中經濟與安全審議委員會",
-        "一國兩制"
-      ]
-    },
-    "title": {
-      "en": "LegCo firmly opposes USCC '2026 report', accusing it of false and biased attacks on 'one country, two systems'",
-      "zh_hans": "立法会强烈反对美方报告 斥失实抹黑一国两制",
-      "zh_hant": "立法會強烈反對美方報告 斥失實抹黑一國兩制"
-    },
-    "image_url": "",
-    "image_prompt": "事實：立法會強烈不滿和堅決反對美中經濟與安全審議委員會所謂「2026年報告」，斥報告失實偏頗、詆毀一國兩制。場景：光猛日間立法會綜合大樓議事廳，明亮通透，莊重專業，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「立法會強烈反對美方報告」白字，第二行「斥失實抹黑一國兩制」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "world",
-    "id": "20261121-japan-bear-attacks-warnings",
-    "published_at": "2026-11-21T13:41:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878695-20261121.htm"
-    },
-    "summary": {
-      "en": "Bears have been spotted roaming urban areas across Japan, leaving several people injured and forcing emergency measures including school closures. In Maebashi, Gunma Prefecture, residents have repeatedly seen two bears wandering the city, reportedly a mother and her cub, swimming in a river and walking along residential walls; the cub has been captured while police search for the mother, and at least one man in his 50s has been injured. Public kindergartens and primary and secondary schools in the area have closed. In Shunan, Yamaguchi Prefecture, a man was seriously injured in a bear attack earlier this month and the prefecture has issued a bear warning. Attacks have also been reported in Saitama and Aichi prefectures; with black bears about to hibernate, the government is urging the public to stay alert as bears come into human areas searching for food.",
-      "zh_hans": "日本近期多地发现有熊在市区游荡，已有多人遇袭受伤，涉事地区紧急采取停课等措施。群马县前桥市居民近日经常目击两只熊在市区游荡，有熊在市区河道游泳、在住宅围墙行走，怀疑是母熊和幼熊，幼熊已被捕获，警方正寻找母熊下落；至今至少一名50岁男子遭熊袭击受伤，当地公立幼儿园和中小学停课。山口县周南市本月初一名男子被熊袭击受重伤，县政府发布熊出没警报。埼玉县、爱知县等地亦发生熊袭击人事件，黑熊即将冬眠，政府敦促民众警惕熊为寻找食物而出现在人类生活圈。",
-      "zh_hant": "日本近期多地發現有熊在市區遊蕩，已有多人遇襲受傷，涉事地區緊急採取停課等措施。群馬縣前橋市居民近日經常目擊兩隻熊在市區遊蕩，有熊在市區河道游泳、在住宅圍牆行走，懷疑是母熊和幼熊，幼熊已被捕獲，警方正尋找母熊下落；至今至少一名50歲男子遭熊襲擊受傷，當地公立幼稚園和中小學校停課。山口縣周南市本月初一名男子被熊襲擊受重傷，縣政府發佈熊出沒警報。埼玉縣、愛知縣等地亦發生熊襲擊人事件，黑熊即將冬眠，政府敦促民眾警惕熊為尋找食物而出現在人類生活圈。"
-    },
-    "tags": {
-      "en": [
-        "Japan",
-        "bear attacks",
-        "Gunma"
-      ],
-      "zh_hans": [
-        "日本",
-        "熊袭击",
-        "群马县"
-      ],
-      "zh_hant": [
-        "日本",
-        "熊襲擊",
-        "群馬縣"
-      ]
-    },
-    "title": {
-      "en": "Bears roam Japanese cities and maul residents; schools shut in Gunma as mother bear still at large",
-      "zh_hans": "日本多地熊出没伤人 群马母熊幼熊市区游荡 多间学校停课",
-      "zh_hant": "日本多地熊出沒傷人 群馬母熊市區遊蕩 多間學校停課"
-    },
-    "image_url": "",
-    "image_prompt": "事實：日本多地有熊在市區遊蕩傷人，群馬縣前橋市兩隻熊懷疑母熊和幼熊在市區遊蕩，幼熊已被捕獲，母熊下落未明，多間學校停課。場景：光猛日間日本市區街道邊緣接壤山林，河道、住宅圍牆、樹木，明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔，唔可以捏造具體地標。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「日本多地熊出沒傷人」白字，第二行「群馬母熊市區遊蕩 多間學校停課」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
     "category": "hk",
     "id": "20261121-yau-bid-rigging-criminalisation",
     "published_at": "2026-11-21T13:21:00+08:00",
@@ -1667,120 +1787,6 @@
     },
     "image_url": "",
     "image_prompt": "事實：商務及經濟發展局局長丘應樺表示，樓宇維修工程圍標問題嚴重，需要立即針對性提出修例，將圍標行為刑事化。場景：光猛日間住宅大廈外牆維修現場，棚架、吊船、工人安全帽等職業符號，明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「樓宇維修圍標問題嚴重」白字，第二行「丘應樺：立即針對性修例」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "world",
-    "id": "20261121-bessent-iran-threat-military-base",
-    "published_at": "2026-11-21T13:04:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878692-20261121.htm"
-    },
-    "summary": {
-      "en": "US Treasury Secretary Scott Bessent says he still faces a security threat from Iran and continues to live on a military base. In an interview, Bessent insisted he would not be intimidated by Iranians, saying the US has applied two and a half months of economic pressure on Iran, which he described as the harshest economic isolation ever imposed on a country. He argued that being targeted shows Tehran is feeling the pressure, and said the US will keep pressing Iran's Islamic Revolutionary Guard Corps until it is ready to comply with an agreement. He also accused an irresponsible editor at the Wall Street Journal of publishing a photo that revealed the location of his home.",
-      "zh_hans": "美国财长贝森特表示，他依然面临伊朗的安全威胁，目前仍居住在军事基地。贝森特接受访问时重申，自己不会被伊朗人吓倒，美国已对伊朗实施两个半月的经济施压，形容是史上对一个国家最严厉的经济孤立。他认为如果伊朗人针对他，正表明他们正在承受压力，美国将继续对伊朗伊斯兰革命卫队施压，直到对方准备好遵守协议。他又指责美国《华尔街日报》一名不负责任的编辑发布照片，泄露他住所的位置。",
-      "zh_hant": "美國財長貝森特表示，他依然面臨伊朗的安全威脅，目前仍居住在軍事基地。貝森特接受訪問時重申，自己不會被伊朗人嚇倒，美國已對伊朗實施兩個半月的經濟施壓，形容是史上對一個國家最嚴厲的經濟孤立。他認為如果伊朗人針對他，正表明他們正在承受壓力，美國將繼續向伊朗伊斯蘭革命衛隊施壓，直到對方準備好遵守協議。他又指責美國《華爾街日報》一名不負責任的編輯發佈照片，洩露他住所的位置。"
-    },
-    "tags": {
-      "en": [
-        "Scott Bessent",
-        "Iran",
-        "US Treasury"
-      ],
-      "zh_hans": [
-        "贝森特",
-        "伊朗",
-        "美国财长"
-      ],
-      "zh_hant": [
-        "貝森特",
-        "伊朗",
-        "美國財長"
-      ]
-    },
-    "title": {
-      "en": "Bessent says he still faces Iranian threat and lives on a military base, accusing WSJ editor of leaking his address",
-      "zh_hans": "贝森特自爆仍受伊朗威胁 被迫住军事基地 斥华尔街日报泄住所",
-      "zh_hant": "貝森特自爆仍受伊朗威脅 被迫住軍事基地 斥洩住所"
-    },
-    "image_url": "",
-    "image_prompt": "事實：美國財長貝森特表示依然面臨伊朗安全威脅，目前仍居住在軍事基地，又指責《華爾街日報》編輯發佈照片洩露住所位置。場景：光猛日間美國財政部大樓外貌，石柱、台階、旗桿，明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔，唔可以捏造具體地標細節。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「貝森特自爆仍受伊朗威脅」白字，第二行「被迫住軍事基地 斥洩住所」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-mtr-tung-chung-line-early-finish-nov-28",
-    "published_at": "2026-11-21T12:41:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878690-20261121.htm"
-    },
-    "summary": {
-      "en": "The MTR's third critical turnout installation for the Tung Chung Line Extension (Tung Chung East section) will take place late on Saturday, November 28. To free up the tracks, train services between Tung Chung and Sunny Bay stations will end early at about 11pm that night, broadly the same arrangement as the previous two occasions, with free shuttle buses running between the two stations. Services between Hong Kong and Sunny Bay stations will run normally, with extra staff and signage at stations. The MTR said it will do its best to complete the works so normal service can resume from the first train the next morning.",
-      "zh_hans": "港铁东涌线延线、东涌东段第三次关键波口安装工序将于11月28日（下周六）深夜进行。为腾出路轨集中完成工序，当晚往来东涌站及欣澳站的列车服务将提早于晚上约11时完结，安排大致与早前两次相同，期间港铁将提供免费接驳巴士往来两站。往来香港站至欣澳站的列车服务维持正常，车站将加派人手及增设指示。港铁表示会尽力确保工序顺利完成，让东涌线翌日头班车起恢复正常服务。",
-      "zh_hant": "港鐵東涌綫延綫、東涌東段第三次關鍵波口安裝工序將於11月28日（下周六）深夜進行。為騰出路軌集中完成工序，當晚往來東涌站及欣澳站的列車服務將提早於晚上約11時完結，安排大致與早前兩次相同，期間港鐵將提供免費接駁巴士往來兩站。往來香港站至欣澳站的列車服務維持正常，車站將加派人手及增設指示。港鐵表示會盡力確保工序順利完成，讓東涌綫翌日頭班車起恢復正常服務。"
-    },
-    "tags": {
-      "en": [
-        "MTR",
-        "Tung Chung Line",
-        "Tung Chung"
-      ],
-      "zh_hans": [
-        "港铁",
-        "东涌线",
-        "东涌"
-      ],
-      "zh_hant": [
-        "港鐵",
-        "東涌綫",
-        "東涌"
-      ]
-    },
-    "title": {
-      "en": "Tung Chung Line extension works next Saturday night; trains between Tung Chung and Sunny Bay to end early at about 11pm",
-      "zh_hans": "东涌线延线下周六晚关键工序 东涌至欣澳列车提早11时收车",
-      "zh_hant": "東涌綫延綫下周六晚關鍵工序 東涌至欣澳列車提早11時收車"
-    },
-    "image_url": "",
-    "image_prompt": "事實：港鐵東涌綫延綫下周六（11月28日）深夜進行第三次關鍵波口安裝工序，當晚往來東涌站及欣澳站的列車提早約晚上11時完結。場景：光猛日間港鐵東涌站月台，列車、路軌、月台幕門，明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「東涌綫延綫下周六晚關鍵工序」白字，第二行「東涌至欣澳列車提早11時收車」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "finance",
-    "id": "20261121-bitcoin-below-58000-two-year-low",
-    "published_at": "2026-11-21T02:13:00+08:00",
-    "source": {
-      "name": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play"
-    },
-    "summary": {
-      "en": "Bitcoin has fallen below US$58,000 to its lowest since September 2024, dropping about 6 per cent in a day and touching an intraday low of about US$57,778. The sell-off came as artificial-intelligence shares plunged, with the Nasdaq down about 5 per cent, and as Federal Reserve policymakers raised the prospect of larger interest-rate hikes to fight stubborn inflation. Ether fell about 7 per cent to around US$1,622, while XRP, Solana and BNB lost about 5 to 6 per cent. About US$1.5 billion in leveraged crypto positions were wiped out in 24 hours, and US spot bitcoin exchange-traded funds saw US$582 million in net outflows on Thursday, including a record US$541.1 million redemption from BlackRock's IBIT fund. Bitcoin is down about 25 per cent in November, on track for its worst month since June 2022 and a seventh straight weekly loss, and has fallen more than 50 per cent from its record above US$126,000 set in October 2025.",
-      "zh_hans": "比特币跌穿58,000美元，低见约57,778美元，创2024年9月以来新低，单日跌约6%。人工智能股份急挫拖累纳指跌约5%，联储局官员又提出可能大幅加息应对顽固通胀，加密货币全线受压；以太币跌约7%至约1,622美元，瑞波币、Solana及币安币跌约5%至6%。过去24小时，约15亿美元杠杆仓位被强制平仓；美国现货比特币ETF周四录得5.82亿美元净流出，其中贝莱德IBIT单日流出5.411亿美元，创纪录。比特币11月累跌约25%，料创2022年6月以来最差单月及连续7周下跌，较2025年10月逾126,000美元的历史高位跌逾五成。",
-      "zh_hant": "比特幣跌穿58,000美元，低見約57,778美元，創2024年9月以來新低，單日跌約6%。人工智能股份急挫拖累納指跌約5%，聯儲局官員又提出可能大幅加息應對頑固通脹，加密貨幣全線受壓；以太幣跌約7%至約1,622美元，瑞波幣、Solana及幣安幣跌約5%至6%。過去24小時，約15億美元槓桿倉位被強制平倉；美國現貨比特幣ETF周四錄得5.82億美元淨流出，其中貝萊德IBIT單日流出5.411億美元，創紀錄。比特幣11月累跌約25%，料創2022年6月以來最差單月及連續7周下跌，較2025年10月逾126,000美元的歷史高位跌逾五成。"
-    },
-    "tags": {
-      "en": [
-        "Bitcoin",
-        "Cryptocurrency",
-        "ETF"
-      ],
-      "zh_hans": [
-        "比特币",
-        "加密货币",
-        "ETF"
-      ],
-      "zh_hant": [
-        "比特幣",
-        "加密貨幣",
-        "ETF"
-      ]
-    },
-    "title": {
-      "en": "Bitcoin drops below $58,000 to lowest since September 2024 as $1.5 billion in leveraged bets wiped out",
-      "zh_hans": "比特币失守58000美元创两年新低 单日蒸发15亿美元杠杆仓位",
-      "zh_hant": "比特幣失守58000美元創兩年新低 單日蒸發15億美元槓桿倉位"
-    },
-    "image_url": "",
-    "image_prompt": "事實：比特幣失守58000美元，創2024年9月以來新低，單日蒸發約15億美元槓桿倉位。場景：光猛日間加密貨幣交易畫面，金色比特幣與紅色下跌圖表，陽光普照，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「比特幣失守58000美元」白字，第二行「創兩年新低 單日蒸發15億美元槓桿倉位」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
   },
   {
     "category": "world",
