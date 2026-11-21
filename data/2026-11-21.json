@@ -1,5 +1,83 @@
 [
   {
+    "category": "china",
+    "id": "20261121-qinghai-delingha-5-6-magnitude-earthquake",
+    "published_at": "2026-11-21T22:37:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878727-20261121.htm"
+    },
+    "summary": {
+      "en": "A 5.6-magnitude earthquake struck Delingha in Qinghai province on Saturday evening, about 70 kilometres from the city centre at a depth of 10 kilometres. No casualties or collapsed buildings have been reported so far. Qinghai's fire and rescue headquarters activated its emergency response plan, with rescue teams already at the epicentre area and more than 260 personnel from three detachments in Xining, Haixi and the special service, along with search dogs and equipment, assembled and ready to deploy.",
+      "zh_hans": "青海省德令哈市傍晚发生5.6级地震，震中距离市区大约70公里，震源深度10公里，暂时未有伤亡或者房屋倒塌报告。青海省消防救援总队在地震后启动应急响应预案，救援队伍已经抵达震中区域，同时集结西宁、特勤和海西三个支队超过260人、搜救犬和装备器材，随时准备出动。",
+      "zh_hant": "青海省德令哈市傍晚發生5.6級地震，震央距離市區大約70公里，震源深度10公里，暫時未有傷亡或者房屋倒塌報告。青海省消防救援總隊在地震後啟動應急響應預案，救援隊伍已經抵達震央區域，同時集結西寧、特勤同海西三個支隊超過260人、搜救犬同裝備器材，隨時準備出動。"
+    },
+    "tags": {
+      "en": [
+        "Qinghai earthquake",
+        "Delingha",
+        "magnitude 5.6"
+      ],
+      "zh_hans": [
+        "青海地震",
+        "德令哈",
+        "5.6级地震"
+      ],
+      "zh_hant": [
+        "青海地震",
+        "德令哈",
+        "5.6級地震"
+      ]
+    },
+    "title": {
+      "en": "5.6-magnitude quake hits Delingha in Qinghai, 260 firefighters on standby with no casualties reported",
+      "zh_hans": "青海德令哈5.6级地震 260消防员戒备暂无伤亡",
+      "zh_hant": "青海德令哈5.6級地震 260消防員戒備暫無傷亡"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-qinghai-delingha-5-6-magnitude-earthquake-v2.jpg",
+    "image_prompt": "事實：青海德令哈市發生5.6級地震，震央距市區約70公里，震源深度10公里，暫無傷亡報告，逾260名消防員集結戒備。場景：光猛日間，青藏高原廣闊草原與遠山，一條公路伸向遠方，幾輛救援車輛沿公路行駛，天空晴朗，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「青海德令哈5.6級地震」白字，第二行「260消防員戒備暫無傷亡」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫倒塌樓宇。圖上除標題外不寫任何其他字。",
+    "image_r2_key": "design/202611/20261121-qinghai-delingha-5-6-magnitude-earthquake-v2.jpg"
+  },
+  {
+    "category": "world",
+    "id": "20261121-iran-claims-intercept-us-f16-persian-gulf",
+    "published_at": "2026-11-21T22:31:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878726-20261121.htm"
+    },
+    "summary": {
+      "en": "Iran's military says its air defence system in the south detected a US F-16 fighter over the Persian Gulf on Friday night and fired a missile at it. The missile exploded near the jet, damaging it and forcing the pilot to abort the mission and make an emergency landing at a nearby airfield. The United States has not yet confirmed the account. Earlier reports from Iran said a US F-16 had sent out an emergency code in UAE airspace early on Saturday while returning from the Strait of Hormuz.",
+      "zh_hans": "伊朗军方宣称，部署在南部的防空系统星期五晚在波斯湾上空探测到一架美军F-16战机，并且发射导弹拦截，导弹在战机附近爆炸，导致战机受损，机师被迫终止任务，在附近机场紧急降落。美国方面暂时未有证实消息。伊朗方面较早时亦有消息指，一架美军F-16战机星期六凌晨从霍尔木兹海峡返航途中，在阿联酋空域发出紧急代码。",
+      "zh_hant": "伊朗軍方宣稱，部署在南部的防空系統星期五晚在波斯灣上空探測到一架美軍F-16戰機，並且發射導彈攔截，導彈在戰機附近爆炸，導致戰機受損，機師被迫終止任務，在附近機場緊急降落。美國方面暫時未有證實消息。伊朗方面較早時亦有消息指，一架美軍F-16戰機星期六凌晨從霍爾木茲海峽返航途中，在阿聯酋空域發出緊急代碼。"
+    },
+    "tags": {
+      "en": [
+        "Iran",
+        "F-16",
+        "Persian Gulf"
+      ],
+      "zh_hans": [
+        "伊朗",
+        "F-16",
+        "波斯湾"
+      ],
+      "zh_hant": [
+        "伊朗",
+        "F-16",
+        "波斯灣"
+      ]
+    },
+    "title": {
+      "en": "Iran claims it hit a US F-16 over the Persian Gulf, US yet to confirm as jet made emergency landing",
+      "zh_hans": "伊朗称波斯湾上空击中美军F-16 美方未证实战机紧急降落",
+      "zh_hant": "伊朗稱波斯灣上空擊中美軍F-16 美方未證實戰機緊急降落"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-iran-claims-intercept-us-f16-persian-gulf-v2.jpg",
+    "image_prompt": "事實：伊朗軍方宣稱在波斯灣上空攔截並擊中一架美軍F-16戰機，戰機受損緊急降落，美國方面暫未證實。場景：光猛日間，波斯灣藍色海面上空，一架戰機剪影在高空飛行，遠處海平線與海岸線，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「伊朗稱波斯灣上空擊中美軍F-16」白字，第二行「美方未證實戰機緊急降落」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫爆炸火光，不畫任何國旗標誌。圖上除標題外不寫任何其他字。",
+    "image_r2_key": "design/202611/20261121-iran-claims-intercept-us-f16-persian-gulf-v2.jpg"
+  },
+  {
     "category": "world",
     "id": "20261121-crimea-bridge-rail-resumes-zelensky-response",
     "published_at": "2026-11-21T20:33:00+08:00",
@@ -233,6 +311,45 @@
     "image_r2_key": "design/202611/20261121-belt-road-scholarship-sharing-session.jpg"
   },
   {
+    "category": "china",
+    "id": "20261121-li-qiang-wong-singapore-fta-4",
+    "published_at": "2026-11-21T17:18:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878716-20261121.htm"
+    },
+    "summary": {
+      "en": "Premier Li Qiang met Singapore Prime Minister Lawrence Wong at the Diaoyutai State Guesthouse in Beijing today. Li said China is ready to work with Singapore to speed up negotiations on version 4.0 of the China-Singapore free trade agreement, promote higher-level two-way opening, deepen industrial integration, upgrade major intergovernmental projects, and strengthen cooperation in artificial intelligence, clean energy, connectivity and finance, while advancing the New International Land-Sea Trade Corridor. He added the two countries should coordinate closely at the United Nations and APEC to promote regional economic integration. Wong said that amid the turbulent international situation, Singapore and China should strengthen communication and jointly meet challenges.",
+      "zh_hans": "国务院总理李强今日在北京钓鱼台国宾馆与新加坡总理黄循财会谈。李强表示，中方愿同新方加快推进中新自贸协定4.0版谈判，促进更高水平双向开放，进一步加强产业融合，推动两国政府间重大项目提质升级，加强人工智能、清洁能源、互联互通及金融等领域合作，推进陆海新通道建设。中新应密切在联合国、亚太经合组织等协调配合，坚定促进区域经济一体化。黄循财说，在当前动荡国际局势下，新中更应加强沟通合作，共同应对挑战。",
+      "zh_hant": "國務院總理李強今日在北京釣魚台國賓館與新加坡總理黃循財會談。李強表示，中方願同新方加快推進中新自貿協定4.0版談判，促進更高水平雙向開放，進一步加強產業融合，推動兩國政府間重大項目提質升級，加強人工智能、清潔能源、互聯互通及金融等領域合作，推進陸海新通道建設。中新應密切在聯合國、亞太經合組織等協調配合，堅定促進區域經濟一體化。黃循財說，在當前動盪國際局勢下，新中更應加強溝通合作，共同應對挑戰。"
+    },
+    "tags": {
+      "en": [
+        "Li Qiang",
+        "Lawrence Wong",
+        "China-Singapore FTA"
+      ],
+      "zh_hans": [
+        "李强",
+        "黄循财",
+        "中新自贸协定"
+      ],
+      "zh_hant": [
+        "李強",
+        "黃循財",
+        "中新自貿協定"
+      ]
+    },
+    "title": {
+      "en": "Li Qiang meets Singapore PM Lawrence Wong, pledges to speed up China-Singapore FTA 4.0 talks",
+      "zh_hans": "李强晤新加坡总理黄循财 愿加快推进中新自贸协定4.0版谈判",
+      "zh_hant": "李強晤新加坡總理黃循財 願加快推進中新自貿協定4.0版談判"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-li-qiang-wong-singapore-fta-4-v2.jpg",
+    "image_prompt": "事實：國務院總理李強在北京釣魚台國賓館與新加坡總理黃循財會談，願加快推進中新自貿協定4.0版談判。場景：光猛日間，一張辦公桌上面並排插住中國國旗同新加坡國旗，旁邊放住一份已簽署嘅文件同鋼筆，背景係明亮嘅辦公室窗景，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「李強晤黃循財」白字，第二行「加快推進自貿協定4.0談判」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面只有辦公桌、國旗、文件同鋼筆，絕對唔可以出現任何人物、任何人臉、任何會議室、任何長枱、任何椅子、任何人群。圖上除標題外不寫任何其他字。",
+    "image_r2_key": "design/202611/20261121-li-qiang-wong-singapore-fta-4-v2.jpg"
+  },
+  {
     "category": "hk",
     "id": "20261121-kwai-chung-school-concrete-injury",
     "published_at": "2026-11-21T16:50:00+08:00",
@@ -347,6 +464,45 @@
     "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-trump-praises-xi-great-man-clean-cities-v2.jpg",
     "image_prompt": "事實：美國總統特朗普盛讚習近平為中國作出卓越貢獻，稱中國城市非常整潔、一塵不染，深圳由小漁村巨變。場景：明亮的白宮記者會講台，背後美國國旗，另一邊是深圳高樓天際線，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「特朗普盛讚習近平卓越貢獻」白字，第二行「指中國城市整潔深圳巨變」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。",
     "image_r2_key": "design/202611/20261121-trump-praises-xi-great-man-clean-cities-v2.jpg"
+  },
+  {
+    "category": "world",
+    "id": "20261121-un-climate-summit-overtime",
+    "published_at": "2026-11-21T16:31:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878706-20261121.htm"
+    },
+    "summary": {
+      "en": "The UN climate summit, due to close on Friday, has gone into overtime after parties failed to reach consensus on some core issues. Negotiation chair Bowen said the summit is party-driven and consensus-based, and the world is watching whether multilateralism can deliver. He stressed that although positions remain far apart, goodwill and the will to reach consensus remain, and delegates are working flat out. Conference president Qu Lumu acknowledged differences persist but said the finish line is near.",
+      "zh_hans": "原定星期五闭幕的联合国气候变化大会，由于各方未能就部分核心议题达成共识，进入加时阶段。大会谈判主席鲍恩表示，气候变化大会由缔约方主导、以协商一致为原则，全世界都观望多边主义是否能够有所作为。他强调，虽然各方立场分歧明显，但仍然保留善意和促成共识的意愿，大家都埋头推进、全力以赴。大会主席屈吕姆承认，各方仍然存在分歧，但距离终点很近。",
+      "zh_hant": "原定星期五閉幕的聯合國氣候變化大會，由於各方未能就部分核心議題達成共識，進入加時階段。大會談判主席鮑恩表示，氣候變化大會由締約方主導、以協商一致為原則，全世界都觀望多邊主義是否能夠有所作為。他強調，雖然各方立場分歧明顯，但仍然保留善意和促成共識的意願，大家都埋頭推進、全力以赴。大會主席屈呂姆承認，各方仍然存在分歧，但距離終點很近。"
+    },
+    "tags": {
+      "en": [
+        "United Nations",
+        "climate change",
+        "climate summit"
+      ],
+      "zh_hans": [
+        "联合国",
+        "气候变化",
+        "气候大会"
+      ],
+      "zh_hant": [
+        "聯合國",
+        "氣候變化",
+        "氣候大會"
+      ]
+    },
+    "title": {
+      "en": "UN climate summit goes into overtime as talks fail to reach consensus by deadline",
+      "zh_hans": "联合国气候大会谈判陷僵局未能闭幕 进入加时阶段 各方分歧仍大",
+      "zh_hant": "聯合國氣候大會談判陷僵局未能閉幕 進入加時階段 各方分歧仍大"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-un-climate-summit-overtime-v2.jpg",
+    "image_prompt": "事實：聯合國氣候變化大會原定星期五閉幕，各方未能就部分核心議題達成共識，進入加時階段；談判主席鮑恩稱各方保留善意和促成共識的意願，大會主席屈呂姆稱距離終點很近。場景：光猛日間大型國際會議中心，陽光透過玻璃幕牆，圓形談判桌與各國名牌，藍色聯合國色調，代表剪影埋頭討論，專業莊重，寫實，唔畫人面特寫。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「聯合國氣候大會未能閉幕」白字，第二行「談判陷僵局進入加時階段」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。標題兩行直接壓在相片上，背後係相片本身，唔加白底、黃底或任何顏色底條；標題只出現一次，絕對唔可以重複。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-un-climate-summit-overtime-v2.jpg"
   },
   {
     "category": "hk",
@@ -2369,158 +2525,6 @@
     "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-hkicl-fraudulent-website-fpshk-xyz-v2.jpg",
     "image_prompt": "事實：香港銀行同業結算有限公司示警，假網站fpshk.xyz冒充轉數快客服呃退款，提醒市民提防。場景：光猛日間香港金融區高樓，陽光下一個人手持手機，手機畫面有防騙盾牌標誌，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔，唔可以畫出假網站地址。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「金管局轄下結算公司示警」白字，第二行「假網站冒充轉數快客服呃退款」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
     "image_r2_key": "design/202611/20261121-hkicl-fraudulent-website-fpshk-xyz-v2.jpg"
-  },
-  {
-    "category": "china",
-    "id": "20261121-qinghai-delingha-5-6-magnitude-earthquake",
-    "published_at": "2026-11-21T22:37:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878727-20261121.htm"
-    },
-    "summary": {
-      "en": "A 5.6-magnitude earthquake struck Delingha in Qinghai province on Saturday evening, about 70 kilometres from the city centre at a depth of 10 kilometres. No casualties or collapsed buildings have been reported so far. Qinghai's fire and rescue headquarters activated its emergency response plan, with rescue teams already at the epicentre area and more than 260 personnel from three detachments in Xining, Haixi and the special service, along with search dogs and equipment, assembled and ready to deploy.",
-      "zh_hans": "青海省德令哈市傍晚发生5.6级地震，震中距离市区大约70公里，震源深度10公里，暂时未有伤亡或者房屋倒塌报告。青海省消防救援总队在地震后启动应急响应预案，救援队伍已经抵达震中区域，同时集结西宁、特勤和海西三个支队超过260人、搜救犬和装备器材，随时准备出动。",
-      "zh_hant": "青海省德令哈市傍晚發生5.6級地震，震央距離市區大約70公里，震源深度10公里，暫時未有傷亡或者房屋倒塌報告。青海省消防救援總隊在地震後啟動應急響應預案，救援隊伍已經抵達震央區域，同時集結西寧、特勤同海西三個支隊超過260人、搜救犬同裝備器材，隨時準備出動。"
-    },
-    "tags": {
-      "en": [
-        "Qinghai earthquake",
-        "Delingha",
-        "magnitude 5.6"
-      ],
-      "zh_hans": [
-        "青海地震",
-        "德令哈",
-        "5.6级地震"
-      ],
-      "zh_hant": [
-        "青海地震",
-        "德令哈",
-        "5.6級地震"
-      ]
-    },
-    "title": {
-      "en": "5.6-magnitude quake hits Delingha in Qinghai, 260 firefighters on standby with no casualties reported",
-      "zh_hans": "青海德令哈5.6级地震 260消防员戒备暂无伤亡",
-      "zh_hant": "青海德令哈5.6級地震 260消防員戒備暫無傷亡"
-    },
-    "image_url": "",
-    "image_prompt": "事實：青海德令哈市發生5.6級地震，震央距市區約70公里，震源深度10公里，暫無傷亡報告，逾260名消防員集結戒備。場景：光猛日間，青藏高原廣闊草原與遠山，一條公路伸向遠方，幾輛救援車輛沿公路行駛，天空晴朗，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「青海德令哈5.6級地震」白字，第二行「260消防員戒備暫無傷亡」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫倒塌樓宇。圖上除標題外不寫任何其他字。"
-  },
-  {
-    "category": "world",
-    "id": "20261121-iran-claims-intercept-us-f16-persian-gulf",
-    "published_at": "2026-11-21T22:31:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878726-20261121.htm"
-    },
-    "summary": {
-      "en": "Iran's military says its air defence system in the south detected a US F-16 fighter over the Persian Gulf on Friday night and fired a missile at it. The missile exploded near the jet, damaging it and forcing the pilot to abort the mission and make an emergency landing at a nearby airfield. The United States has not yet confirmed the account. Earlier reports from Iran said a US F-16 had sent out an emergency code in UAE airspace early on Saturday while returning from the Strait of Hormuz.",
-      "zh_hans": "伊朗军方宣称，部署在南部的防空系统星期五晚在波斯湾上空探测到一架美军F-16战机，并且发射导弹拦截，导弹在战机附近爆炸，导致战机受损，机师被迫终止任务，在附近机场紧急降落。美国方面暂时未有证实消息。伊朗方面较早时亦有消息指，一架美军F-16战机星期六凌晨从霍尔木兹海峡返航途中，在阿联酋空域发出紧急代码。",
-      "zh_hant": "伊朗軍方宣稱，部署在南部的防空系統星期五晚在波斯灣上空探測到一架美軍F-16戰機，並且發射導彈攔截，導彈在戰機附近爆炸，導致戰機受損，機師被迫終止任務，在附近機場緊急降落。美國方面暫時未有證實消息。伊朗方面較早時亦有消息指，一架美軍F-16戰機星期六凌晨從霍爾木茲海峽返航途中，在阿聯酋空域發出緊急代碼。"
-    },
-    "tags": {
-      "en": [
-        "Iran",
-        "F-16",
-        "Persian Gulf"
-      ],
-      "zh_hans": [
-        "伊朗",
-        "F-16",
-        "波斯湾"
-      ],
-      "zh_hant": [
-        "伊朗",
-        "F-16",
-        "波斯灣"
-      ]
-    },
-    "title": {
-      "en": "Iran claims it hit a US F-16 over the Persian Gulf, US yet to confirm as jet made emergency landing",
-      "zh_hans": "伊朗称波斯湾上空击中美军F-16 美方未证实战机紧急降落",
-      "zh_hant": "伊朗稱波斯灣上空擊中美軍F-16 美方未證實戰機緊急降落"
-    },
-    "image_url": "",
-    "image_prompt": "事實：伊朗軍方宣稱在波斯灣上空攔截並擊中一架美軍F-16戰機，戰機受損緊急降落，美國方面暫未證實。場景：光猛日間，波斯灣藍色海面上空，一架戰機剪影在高空飛行，遠處海平線與海岸線，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「伊朗稱波斯灣上空擊中美軍F-16」白字，第二行「美方未證實戰機緊急降落」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫爆炸火光，不畫任何國旗標誌。圖上除標題外不寫任何其他字。"
-  },
-  {
-    "category": "china",
-    "id": "20261121-li-qiang-wong-singapore-fta-4",
-    "published_at": "2026-11-21T17:18:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878716-20261121.htm"
-    },
-    "summary": {
-      "en": "Premier Li Qiang met Singapore Prime Minister Lawrence Wong at the Diaoyutai State Guesthouse in Beijing today. Li said China is ready to work with Singapore to speed up negotiations on version 4.0 of the China-Singapore free trade agreement, promote higher-level two-way opening, deepen industrial integration, upgrade major intergovernmental projects, and strengthen cooperation in artificial intelligence, clean energy, connectivity and finance, while advancing the New International Land-Sea Trade Corridor. He added the two countries should coordinate closely at the United Nations and APEC to promote regional economic integration. Wong said that amid the turbulent international situation, Singapore and China should strengthen communication and jointly meet challenges.",
-      "zh_hans": "国务院总理李强今日在北京钓鱼台国宾馆与新加坡总理黄循财会谈。李强表示，中方愿同新方加快推进中新自贸协定4.0版谈判，促进更高水平双向开放，进一步加强产业融合，推动两国政府间重大项目提质升级，加强人工智能、清洁能源、互联互通及金融等领域合作，推进陆海新通道建设。中新应密切在联合国、亚太经合组织等协调配合，坚定促进区域经济一体化。黄循财说，在当前动荡国际局势下，新中更应加强沟通合作，共同应对挑战。",
-      "zh_hant": "國務院總理李強今日在北京釣魚台國賓館與新加坡總理黃循財會談。李強表示，中方願同新方加快推進中新自貿協定4.0版談判，促進更高水平雙向開放，進一步加強產業融合，推動兩國政府間重大項目提質升級，加強人工智能、清潔能源、互聯互通及金融等領域合作，推進陸海新通道建設。中新應密切在聯合國、亞太經合組織等協調配合，堅定促進區域經濟一體化。黃循財說，在當前動盪國際局勢下，新中更應加強溝通合作，共同應對挑戰。"
-    },
-    "tags": {
-      "en": [
-        "Li Qiang",
-        "Lawrence Wong",
-        "China-Singapore FTA"
-      ],
-      "zh_hans": [
-        "李强",
-        "黄循财",
-        "中新自贸协定"
-      ],
-      "zh_hant": [
-        "李強",
-        "黃循財",
-        "中新自貿協定"
-      ]
-    },
-    "title": {
-      "en": "Li Qiang meets Singapore PM Lawrence Wong, pledges to speed up China-Singapore FTA 4.0 talks",
-      "zh_hans": "李强晤新加坡总理黄循财 愿加快推进中新自贸协定4.0版谈判",
-      "zh_hant": "李強晤新加坡總理黃循財 願加快推進中新自貿協定4.0版談判"
-    },
-    "image_url": "",
-    "image_prompt": "事實：國務院總理李強在北京釣魚台國賓館與新加坡總理黃循財會談，願加快推進中新自貿協定4.0版談判。場景：光猛日間，一張辦公桌上面並排插住中國國旗同新加坡國旗，旁邊放住一份已簽署嘅文件同鋼筆，背景係明亮嘅辦公室窗景，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「李強晤黃循財」白字，第二行「加快推進自貿協定4.0談判」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面只有辦公桌、國旗、文件同鋼筆，絕對唔可以出現任何人物、任何人臉、任何會議室、任何長枱、任何椅子、任何人群。圖上除標題外不寫任何其他字。"
-  },
-  {
-    "category": "world",
-    "id": "20261121-un-climate-summit-overtime",
-    "published_at": "2026-11-21T16:31:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878706-20261121.htm"
-    },
-    "summary": {
-      "en": "The UN climate summit, due to close on Friday, has gone into overtime after parties failed to reach consensus on some core issues. Negotiation chair Bowen said the summit is party-driven and consensus-based, and the world is watching whether multilateralism can deliver. He stressed that although positions remain far apart, goodwill and the will to reach consensus remain, and delegates are working flat out. Conference president Qu Lumu acknowledged differences persist but said the finish line is near.",
-      "zh_hans": "原定星期五闭幕的联合国气候变化大会，由于各方未能就部分核心议题达成共识，进入加时阶段。大会谈判主席鲍恩表示，气候变化大会由缔约方主导、以协商一致为原则，全世界都观望多边主义是否能够有所作为。他强调，虽然各方立场分歧明显，但仍然保留善意和促成共识的意愿，大家都埋头推进、全力以赴。大会主席屈吕姆承认，各方仍然存在分歧，但距离终点很近。",
-      "zh_hant": "原定星期五閉幕的聯合國氣候變化大會，由於各方未能就部分核心議題達成共識，進入加時階段。大會談判主席鮑恩表示，氣候變化大會由締約方主導、以協商一致為原則，全世界都觀望多邊主義是否能夠有所作為。他強調，雖然各方立場分歧明顯，但仍然保留善意和促成共識的意願，大家都埋頭推進、全力以赴。大會主席屈呂姆承認，各方仍然存在分歧，但距離終點很近。"
-    },
-    "tags": {
-      "en": [
-        "United Nations",
-        "climate change",
-        "climate summit"
-      ],
-      "zh_hans": [
-        "联合国",
-        "气候变化",
-        "气候大会"
-      ],
-      "zh_hant": [
-        "聯合國",
-        "氣候變化",
-        "氣候大會"
-      ]
-    },
-    "title": {
-      "en": "UN climate summit goes into overtime as talks fail to reach consensus by deadline",
-      "zh_hans": "联合国气候大会谈判陷僵局未能闭幕 进入加时阶段 各方分歧仍大",
-      "zh_hant": "聯合國氣候大會談判陷僵局未能閉幕 進入加時階段 各方分歧仍大"
-    },
-    "image_url": "",
-    "image_prompt": "事實：聯合國氣候變化大會原定星期五閉幕，各方未能就部分核心議題達成共識，進入加時階段；談判主席鮑恩稱各方保留善意和促成共識的意願，大會主席屈呂姆稱距離終點很近。場景：光猛日間大型國際會議中心，陽光透過玻璃幕牆，圓形談判桌與各國名牌，藍色聯合國色調，代表剪影埋頭討論，專業莊重，寫實，唔畫人面特寫。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「聯合國氣候大會未能閉幕」白字，第二行「談判陷僵局進入加時階段」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。標題兩行直接壓在相片上，背後係相片本身，唔加白底、黃底或任何顏色底條；標題只出現一次，絕對唔可以重複。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
   },
   {
     "category": "world",
