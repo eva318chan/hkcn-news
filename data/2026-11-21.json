@@ -390,6 +390,44 @@
   },
   {
     "category": "hk",
+    "id": "20261121-missing-woman-tai-po-so-sau-chun",
+    "published_at": "2026-11-21T17:02:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878714-20261121.htm"
+    },
+    "summary": {
+      "en": "A 72-year-old woman, So Sau-chun, has gone missing in Tai Po and police are appealing for information. She was last seen on Yuen Shin Road in the early hours of yesterday, and her family reported her missing the same day. She is about 1.6 metres tall, weighs about 55 kilograms, is of medium build with a round face, yellow skin and short black hair, and was last seen wearing a black jacket, black trousers and black-and-white trainers. Anyone with information should call 3661 3113 or email rmpu-ntn-1@police.gov.hk to contact the New Territories North Regional Missing Persons Unit, or contact any police station.",
+      "zh_hans": "一名72岁女子苏秀珍在大埔失踪，警方呼吁市民提供消息。苏秀珍昨日凌晨在完善路最后露面后失踪，其家人同日向警方报案。她身高约1.6米、体重约55公斤、中等身材、圆面型、黄皮肤及蓄短黑发，最后露面时身穿黑色外套、黑色长裤及黑白色波鞋。警方表示，任何人如有该失踪女子的消息或曾见过她，请致电3661 3113或电邮至rmpu-ntn-1@police.gov.hk与新界北总区失踪人口调查组，或与任何一间警署联络。",
+      "zh_hant": "一名72歲女子蘇秀珍在大埔失蹤，警方呼籲市民提供消息。蘇秀珍昨日凌晨在完善路最後露面後失蹤，其家人同日向警方報案。她身高約1.6米、體重約55公斤、中等身材、圓面型、黃皮膚及蓄短黑髮，最後露面時身穿黑色外套、黑色長褲及黑白色波鞋。警方表示，任何人如有該失蹤女子的消息或曾見過她，請致電3661 3113或電郵至rmpu-ntn-1@police.gov.hk與新界北總區失蹤人口調查組，或與任何一間警署聯絡。"
+    },
+    "tags": {
+      "en": [
+        "missing person",
+        "Tai Po",
+        "police appeal"
+      ],
+      "zh_hans": [
+        "失踪人口",
+        "大埔",
+        "警方呼吁"
+      ],
+      "zh_hant": [
+        "失蹤人口",
+        "大埔",
+        "警方呼籲"
+      ]
+    },
+    "title": {
+      "en": "72-year-old woman missing in Tai Po; police appeal for information",
+      "zh_hans": "72岁女子大埔完善路失踪 警方呼吁市民致电3661 3113提供消息",
+      "zh_hant": "72歲女子大埔完善路失蹤 警方呼籲市民致電3661 3113提供消息"
+    },
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261121-missing-woman-tai-po-so-sau-chun.jpg",
+    "image_r2_key": "design/202611/20261121-missing-woman-tai-po-so-sau-chun.jpg"
+  },
+  {
+    "category": "hk",
     "id": "20261121-kwai-chung-school-concrete-injury",
     "published_at": "2026-11-21T16:50:00+08:00",
     "source": {
@@ -619,6 +657,44 @@
     "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-india-fake-liquor-11-dead-manipur-v2.jpg",
     "image_prompt": "事實：印度東北部曼尼普爾邦有人懷疑飲用有問題的酒後不適，至少11人死亡，超過180人送院，48小時內有11人死亡，當局下令徹查；廉價酒有時會摻入具高度毒性的工業化學物質甲醇。場景：光猛日間印度城鎮街頭，救護車停在醫院外，醫護人員剪影忙碌，嚴肅新聞風，寫實，唔畫受害者面孔、唔畫酒樽特寫。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「印度曼尼普爾假酒奪命」白字，第二行「至少11死逾180人送院」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
     "image_r2_key": "design/202611/20261121-india-fake-liquor-11-dead-manipur-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-customs-endangered-turtles-airport",
+    "published_at": "2026-11-21T15:49:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878702-20261121.htm"
+    },
+    "summary": {
+      "en": "Customs officers at the airport seized four live turtles suspected to be a controlled endangered species, with an estimated total value of about HK$4,000. Officers found the turtles in a parcel imported from the United States to Hong Kong and declared as a toy gift box; the case has been referred to the Agriculture, Fisheries and Conservation Department. Customs said that under the Protection of Endangered Species of Plants and Animals Ordinance, importing, exporting or possessing endangered species other than in accordance with the ordinance is illegal, and offenders face a maximum fine of HK$10 million and 10 years' imprisonment, with the items forfeited.",
+      "zh_hans": "海关在机场检获4只怀疑受管制属濒危物种的活龟，估计市值共约四千元。海关人员在一件由美国进口至香港、报称玩具礼盒的包裹中，发现该批活龟，案件已转交渔护署跟进。海关表示，根据《保护濒危动植物物种条例》，任何人如非按照条例规定进出口或管有濒危物种均属违法，一经定罪最高可被判罚款一千万元及监禁十年，有关物品亦会被充公。",
+      "zh_hant": "海關在機場檢獲4隻懷疑受管制屬瀕危物種的活龜，估計市值共約四千元。海關人員在一件由美國進口至香港、報稱玩具禮盒的包裹中，發現該批活龜，案件已轉交漁護署跟進。海關表示，根據《保護瀕危動植物物種條例》，任何人如非按照條例規定進出口或管有瀕危物種均屬違法，一經定罪最高可被判罰款一千萬元及監禁十年，有關物品亦會被充公。"
+    },
+    "tags": {
+      "en": [
+        "Customs",
+        "endangered species",
+        "airport"
+      ],
+      "zh_hans": [
+        "海关",
+        "濒危物种",
+        "机场"
+      ],
+      "zh_hant": [
+        "海關",
+        "瀕危物種",
+        "機場"
+      ]
+    },
+    "title": {
+      "en": "Customs seizes four suspected endangered live turtles at airport hidden in parcel declared as a toy gift box",
+      "zh_hans": "海关机场截获4只濒危活龟 报称玩具礼盒由美国寄港",
+      "zh_hant": "海關機場截獲4隻瀕危活龜 報稱玩具禮盒由美國寄港"
+    },
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261121-customs-endangered-turtles-airport.jpg",
+    "image_r2_key": "design/202611/20261121-customs-endangered-turtles-airport.jpg"
   },
   {
     "category": "hk",
@@ -2602,6 +2678,44 @@
     },
     "image_url": "",
     "image_prompt": "事實：AEON信貸財務系統遭未經授權查閱，公司稱暫無證據顯示資料被不當使用，已聘獨立網絡安全專家調查。場景：光猛日間，現代寫字樓內，一部手提電腦屏幕顯示保安鎖圖案，旁邊放着文件夾，窗外陽光灑入，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「AEON系統遭未經授權查閱」白字，第二行「暫無證據資料被濫用」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫公司標誌。圖上除標題外不寫任何其他字。"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-mic-supply-chain-measures",
+    "published_at": "2026-11-21T16:57:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878713-20261121.htm"
+    },
+    "summary": {
+      "en": "Development Secretary Bernadette Linn said the government is committed to promoting efficient construction, calling modular integrated construction (MiC) one of the most notable achievements of the past decade, with more than 150 public and private projects having adopted it, including staff quarters, public housing, private homes and university dormitories. The government has announced it will reserve 30 hectares in the Northern Metropolis for a large-scale advanced construction industry park. The Development Bureau has rolled out a series of measures to strengthen the MiC supply chain, including a manufacturer accreditation scheme, a cross-boundary trade guide issued with mainland departments, and a cooperation agreement with Guangdong's housing department to jointly raise construction standards. The University of Hong Kong has also released the first MiC standards and guide with support from the bureau and the Hong Kong Institute of Construction.",
+      "zh_hans": "发展局局长甯汉豪表示，特区政府致力推动高效建筑，「组装合成」建筑法是近十年最瞩目的成果之一，至今已有超过150个公营及私营项目采用，涵盖员工宿舍、公营房屋、私人住宅及大学宿舍。政府已宣布在北部都会区预留30公顷土地，建设具规模的先进建造业产业园。发展局已推行一系列措施强化「组装合成」供应链，包括推出制造商认可计划、与内地部门合作发布跨境贸易指南，以及与广东省住建厅签署合作协议，共同推动两地工程建设标准提升。香港大学亦在发展局及香港建筑科技研究院支持下，发布首份「组装合成」标准和指南。",
+      "zh_hant": "發展局局長甯漢豪表示，特區政府致力推動高效建築，「組裝合成」建築法是近十年最矚目的成果之一，至今已有超過150個公營及私營項目採用，涵蓋員工宿舍、公營房屋、私人住宅及大學宿舍。政府已宣布在北部都會區預留30公頃土地，建設具規模的先進建造業產業園。發展局已推行一系列措施強化「組裝合成」供應鏈，包括推出製造商認可計劃、與內地部門合作發布跨境貿易指南，以及與廣東省住建廳簽署合作協議，共同推動兩地工程建設標準提升。香港大學亦在發展局及香港建築科技研究院支持下，發布首份「組裝合成」標準和指南。"
+    },
+    "tags": {
+      "en": [
+        "modular construction",
+        "Northern Metropolis",
+        "Bernadette Linn"
+      ],
+      "zh_hans": [
+        "组装合成",
+        "北部都会区",
+        "甯汉豪"
+      ],
+      "zh_hant": [
+        "組裝合成",
+        "北部都會區",
+        "甯漢豪"
+      ]
+    },
+    "title": {
+      "en": "Over 150 projects now use modular construction as Hong Kong reserves 30 hectares in the Northern Metropolis for an advanced building park",
+      "zh_hans": "甯汉豪：逾150项目采用「组装合成」 北都预留30公顷建先进建造产业园",
+      "zh_hant": "甯漢豪：逾150項目採用「組裝合成」 北都預留30公頃建先進建造產業園"
+    },
+    "image_url": "",
+    "image_prompt": "事實：發展局局長甯漢豪稱逾150個項目採用「組裝合成」建築法，北部都會區預留30公頃建先進建造業產業園。場景：光猛日間，一個陽光普照的地盤，一部吊機正吊起一個預製組件模塊，背景是現代化高樓，藍天白雲，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「逾150項目採用「組裝合成」」白字，第二行「北都預留30公頃建產業園」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。"
   },
   {
     "category": "world",
