@@ -1,6 +1,44 @@
 [
   {
     "category": "hk",
+    "id": "20261121-belt-road-scholarship-sharing-session",
+    "published_at": "2026-11-21T17:20:00+08:00",
+    "source": {
+      "name": "政府新聞處",
+      "url": "https://www.info.gov.hk/gia/general/202611/21/P2026112000337.htm"
+    },
+    "summary": {
+      "en": "The Education Bureau today held the annual sharing session for students and graduates awarded the Belt and Road Scholarship, attended by Under Secretary for Education Jeff Sze and Commissioner for Belt and Road Nicholas Ho, with over 100 awardees now pursuing development in Hong Kong. Sze said the government is drawing up Hong Kong's first five-year plan in line with the national 15th Five-Year Plan, and the bureau will consolidate Hong Kong's strengths in international education and promote the 'Study in Hong Kong' brand. Under the Policy Address, the scholarship quota will rise to 200 a year from the 2027/28 academic year; more than 980 students from 58 Belt and Road countries and regions have received the award so far.",
+      "zh_hans": "教育局今日举办「一带一路奖学金」得奖学生及毕业得奖者年度分享会，副局长施俊辉及一带一路专员何力治出席，与逾100名在港发展的得奖学生及毕业生交流。施俊辉表示，政府配合国家「十五五」规划制定香港首个五年规划，教育局会巩固香港国际化教育优势及推广「留学香港」品牌。按《施政报告》，奖学金名额由2027/28学年起增至每年200个，至今已有逾980名来自58个「一带一路」国家及地区的学生获奖。",
+      "zh_hant": "教育局今日舉辦「一帶一路獎學金」得獎學生及畢業得獎者年度分享會，副局長施俊輝及一帶一路專員何力治出席，與逾100名在港發展的得獎學生及畢業生交流。施俊輝表示，政府配合國家「十五五」規劃制定香港首個五年規劃，教育局會鞏固香港國際化教育優勢及推廣「留學香港」品牌。按《施政報告》，獎學金名額由2027/28學年起增至每年200個，至今已有逾980名來自58個「一帶一路」國家及地區的學生獲獎。"
+    },
+    "tags": {
+      "en": [
+        "Belt and Road Scholarship",
+        "Education Bureau",
+        "Study in Hong Kong"
+      ],
+      "zh_hans": [
+        "一带一路奖学金",
+        "教育局",
+        "留学香港"
+      ],
+      "zh_hant": [
+        "一帶一路獎學金",
+        "教育局",
+        "留學香港"
+      ]
+    },
+    "title": {
+      "en": "Belt and Road Scholarship quota to rise to 200 a year as over 980 students benefit",
+      "zh_hans": "一带一路奖学金名额增至每年200个 已有逾980名学生受惠",
+      "zh_hant": "一帶一路獎學金名額增至每年200個 已有逾980名學生受惠"
+    },
+    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261121-belt-road-scholarship-sharing-session.jpg",
+    "image_r2_key": "design/202611/20261121-belt-road-scholarship-sharing-session.jpg"
+  },
+  {
+    "category": "hk",
     "id": "20261121-police-appeal-missing-woman-tai-po",
     "published_at": "2026-11-21T16:22:00+08:00",
     "source": {
@@ -1981,6 +2019,234 @@
     "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-hkicl-fraudulent-website-fpshk-xyz-v2.jpg",
     "image_prompt": "事實：香港銀行同業結算有限公司示警，假網站fpshk.xyz冒充轉數快客服呃退款，提醒市民提防。場景：光猛日間香港金融區高樓，陽光下一個人手持手機，手機畫面有防騙盾牌標誌，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔，唔可以畫出假網站地址。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「金管局轄下結算公司示警」白字，第二行「假網站冒充轉數快客服呃退款」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
     "image_r2_key": "design/202611/20261121-hkicl-fraudulent-website-fpshk-xyz-v2.jpg"
+  },
+  {
+    "category": "china",
+    "id": "20261121-shenzhou-24-final-rehearsal",
+    "published_at": "2026-11-21T17:50:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878718-20261121.htm"
+    },
+    "summary": {
+      "en": "The Shenzhou-24 mission today completed its final full-area rehearsal before launch, with all systems finishing functional checks, equipment in stable condition and personnel ready. Staff at the Jiuquan Satellite Launch Centre said that after days of weather analysis, tracking and consultations, experts concluded the weather on launch day meets the minimum meteorological conditions for the mission. The launch site will next carry out pre-launch functional checks, joint tests, rocket propellant fuelling and the launch itself.",
+      "zh_hans": "神舟二十四号任务今日完成发射前最后一次全区合练，发射任务各系统完成相关功能检查，设备状态稳定、人员准备就绪。酒泉卫星发射中心人员表示，经过多日天气分析、跟踪和加密会商，专家组认为发射日当日天气满足任务最低气象条件。发射场区之后会进行发射前各项功能检查、联合测试，以及火箭推进剂加注和发射工作。",
+      "zh_hant": "神舟二十四號任務今日完成發射前最後一次全區合練，發射任務各系統完成相關功能檢查，設備狀態穩定、人員準備就緒。酒泉衛星發射中心人員表示，經過多日天氣分析、跟蹤和加密會商，專家組認為發射日當日天氣滿足任務最低氣象條件。發射場區之後會進行發射前各項功能檢查、聯合測試，以及火箭推進劑加注和發射工作。"
+    },
+    "tags": {
+      "en": [
+        "Shenzhou-24",
+        "Jiuquan Satellite Launch Centre",
+        "manned spaceflight"
+      ],
+      "zh_hans": [
+        "神舟二十四号",
+        "酒泉卫星发射中心",
+        "载人航天"
+      ],
+      "zh_hant": [
+        "神舟二十四號",
+        "酒泉衛星發射中心",
+        "載人航天"
+      ]
+    },
+    "title": {
+      "en": "Shenzhou-24 completes final full rehearsal before launch as weather meets requirements",
+      "zh_hans": "神舟二十四号完成发射前最后一次全区合练 天气符合发射条件",
+      "zh_hant": "神舟二十四號完成發射前最後一次全區合練 天氣符合發射條件"
+    },
+    "image_url": "",
+    "image_prompt": "事實：神舟二十四號完成發射前最後一次全區合練，發射日天氣滿足任務最低氣象條件，酒泉衛星發射中心已做好發射前各項準備。場景：藍天白雲之下，酒泉發射場的發射塔高高聳立，火箭豎立在塔架旁，陽光普照，畫面壯麗光亮。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「神舟二十四號完成最後合練」白字，第二行「天氣符合發射條件」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。圖上除標題外不寫任何其他字。"
+  },
+  {
+    "category": "finance",
+    "id": "20261121-gold-banks-warn-speculation",
+    "published_at": "2026-11-21T17:32:00+08:00",
+    "source": {
+      "name": "中國新聞社",
+      "url": "https://portal.sina.com.hk/news-china/sina/2026/11/21/1993524/%E9%87%91%E5%83%B9%E6%8E%A5%E9%80%A3%E8%B7%8C%E7%A0%B4%E6%95%B4%E6%95%B8%E9%97%9C%E5%8F%A3%EF%BC%8C%E4%B8%AD%E5%9C%8B%E5%B7%A5%E5%95%86%E9%8A%80%E8%A1%8C%E3%80%81%E4%B8%AD%E5%9C%8B%E5%BB%BA%E8%A8%AD/"
+    },
+    "summary": {
+      "en": "International gold prices slid all week, breaking through successive round-number levels, with spot gold nearing $3,500 an ounce on Friday, a fresh low in nearly 14 months. After US October inflation data, Federal Reserve officials sent a run of hawkish signals, lifting real interest rates and the dollar and weighing on gold. The Industrial and Commercial Bank of China, China Construction Bank and China Merchants Bank all issued precious-metals market risk warnings the same day, urging investors to stay alert to market changes, keep holdings at a reasonable size, avoid short-term speculation and herd trading, and allocate assets rationally from a medium-to-long-term perspective.",
+      "zh_hans": "国际金价本周一路下探，接连跌破整数关口，21日现货黄金价格贴近每盎司3500美元，创近14个月新低。美国10月通胀数据出炉后，多名联储局官员密集释放偏紧缩政策信号，实际利率抬升、美元走强，黄金承压下行。中国工商银行、中国建设银行及招商银行同日发出贵金属市场波动风险提示，提醒投资者密切关注市场变化，合理控制贵金属资产持仓规模，避免短期投机或跟风交易，从中长期视角理性配置资产。",
+      "zh_hant": "國際金價本周一路下探，接連跌破整數關口，21日現貨黃金價格貼近每盎司3500美元，創近14個月新低。美國10月通脹數據出爐後，多名聯儲局官員密集釋放偏緊縮政策信號，實際利率抬升、美元走強，黃金承壓下行。中國工商銀行、中國建設銀行及招商銀行同日發出貴金屬市場波動風險提示，提醒投資者密切關注市場變化，合理控制貴金屬資產持倉規模，避免短期投機或跟風交易，從中長期視角理性配置資產。"
+    },
+    "tags": {
+      "en": [
+        "gold price",
+        "ICBC",
+        "precious metals"
+      ],
+      "zh_hans": [
+        "金价",
+        "工商银行",
+        "贵金属"
+      ],
+      "zh_hant": [
+        "金價",
+        "工商銀行",
+        "貴金屬"
+      ]
+    },
+    "title": {
+      "en": "Gold nears $3,500 after five-day slide as ICBC, CCB and CMB warn investors against speculation",
+      "zh_hans": "金价连跌五日逼近3500美元 工建招行齐发风险提示吁勿跟风",
+      "zh_hant": "金價連跌五日逼近3500美元 工建招行齊發風險提示籲勿跟風"
+    },
+    "image_url": "",
+    "image_prompt": "事實：國際金價連跌五日逼近每盎司3500美元，創近14個月新低，工商銀行、建設銀行及招商銀行齊發貴金屬風險提示，呼籲投資者勿短期投機或跟風交易。場景：光猛明亮的金舖，櫥窗內金飾閃亮，電子屏幕顯示金價下跌的紅色數字，畫面光亮通透。風格：財經電視新聞圖卡，數字要放大。格式：16:9，大字標題分兩行，第一行「金價連跌五日逼近3500美元」白字，第二行「三大行齊發提示籲勿跟風」黃字，兩行互相呼應，再加紅底白字橫額放大數字「3500美元」，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。圖上除標題和數字橫額外不寫任何其他字。"
+  },
+  {
+    "category": "china",
+    "id": "20261121-li-qiang-wong-singapore-fta-4",
+    "published_at": "2026-11-21T17:18:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878716-20261121.htm"
+    },
+    "summary": {
+      "en": "Premier Li Qiang met Singapore Prime Minister Lawrence Wong at the Diaoyutai State Guesthouse in Beijing today. Li said China is ready to work with Singapore to speed up negotiations on version 4.0 of the China-Singapore free trade agreement, promote higher-level two-way opening, deepen industrial integration, upgrade major intergovernmental projects, and strengthen cooperation in artificial intelligence, clean energy, connectivity and finance, while advancing the New International Land-Sea Trade Corridor. He added the two countries should coordinate closely at the United Nations and APEC to promote regional economic integration. Wong said that amid the turbulent international situation, Singapore and China should strengthen communication and jointly meet challenges.",
+      "zh_hans": "国务院总理李强今日在北京钓鱼台国宾馆与新加坡总理黄循财会谈。李强表示，中方愿同新方加快推进中新自贸协定4.0版谈判，促进更高水平双向开放，进一步加强产业融合，推动两国政府间重大项目提质升级，加强人工智能、清洁能源、互联互通及金融等领域合作，推进陆海新通道建设。中新应密切在联合国、亚太经合组织等协调配合，坚定促进区域经济一体化。黄循财说，在当前动荡国际局势下，新中更应加强沟通合作，共同应对挑战。",
+      "zh_hant": "國務院總理李強今日在北京釣魚台國賓館與新加坡總理黃循財會談。李強表示，中方願同新方加快推進中新自貿協定4.0版談判，促進更高水平雙向開放，進一步加強產業融合，推動兩國政府間重大項目提質升級，加強人工智能、清潔能源、互聯互通及金融等領域合作，推進陸海新通道建設。中新應密切在聯合國、亞太經合組織等協調配合，堅定促進區域經濟一體化。黃循財說，在當前動盪國際局勢下，新中更應加強溝通合作，共同應對挑戰。"
+    },
+    "tags": {
+      "en": [
+        "Li Qiang",
+        "Lawrence Wong",
+        "China-Singapore FTA"
+      ],
+      "zh_hans": [
+        "李强",
+        "黄循财",
+        "中新自贸协定"
+      ],
+      "zh_hant": [
+        "李強",
+        "黃循財",
+        "中新自貿協定"
+      ]
+    },
+    "title": {
+      "en": "Li Qiang meets Singapore PM Lawrence Wong, pledges to speed up China-Singapore FTA 4.0 talks",
+      "zh_hans": "李强晤新加坡总理黄循财 愿加快推进中新自贸协定4.0版谈判",
+      "zh_hant": "李強晤新加坡總理黃循財 願加快推進中新自貿協定4.0版談判"
+    },
+    "image_url": "",
+    "image_prompt": "事實：國務院總理李強在北京釣魚台國賓館與新加坡總理黃循財會談，願加快推進中新自貿協定4.0版談判。場景：莊重明亮的會談場地，長枱兩邊擺放中國和新加坡國旗，窗外是北京園林日光，畫面莊重專業、光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「李強晤黃循財」白字，第二行「加快推進自貿協定4.0談判」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面以會談場面遠景為主，不畫任何人物面孔特寫。圖上除標題外不寫任何其他字。"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-kwai-chung-school-concrete-injury",
+    "published_at": "2026-11-21T16:50:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878712-20261121.htm"
+    },
+    "summary": {
+      "en": "Five students were injured when concrete fell during construction works at a school on On Chit Street, Kwai Chung, at around 10am today, with two suffering eye injuries. All five were taken to Princess Margaret Hospital for treatment. Police are treating the case as an accident involving injuries.",
+      "zh_hans": "葵涌安捷街一间学校今早约10时进行工程期间，有石屎堕下，5名学生受伤，其中两人眼部受伤，全部送往玛嘉烈医院治理。警方将案件列作有人意外受伤处理。",
+      "zh_hant": "葵涌安捷街一間學校今早約10時進行工程期間，有石屎墮下，5名學生受傷，其中兩人眼部受傷，全部送往瑪嘉烈醫院治理。警方將案件列作有人意外受傷處理。"
+    },
+    "tags": {
+      "en": [
+        "Kwai Chung",
+        "school works",
+        "students injured"
+      ],
+      "zh_hans": [
+        "葵涌",
+        "学校工程",
+        "学生受伤"
+      ],
+      "zh_hant": [
+        "葵涌",
+        "學校工程",
+        "學生受傷"
+      ]
+    },
+    "title": {
+      "en": "Five students hurt as concrete falls during works at Kwai Chung school, two suffer eye injuries",
+      "zh_hans": "葵涌学校工程石屎堕下 5名学生受伤送院 两人伤及眼睛",
+      "zh_hant": "葵涌學校工程石屎墮下 5名學生受傷送院 兩人傷及眼睛"
+    },
+    "image_url": "",
+    "image_prompt": "事實：葵涌安捷街一間學校進行工程期間石屎墮下，5名學生受傷送院，其中兩人眼部受傷。場景：光猛日間，一間香港學校外牆搭起棚架，工程圍板圍住施工範圍，救護車停在學校門口，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「葵涌學校工程石屎墮下」白字，第二行「5名學生受傷送院」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫受傷學生近鏡，不畫血。圖上除標題外不寫任何其他字。"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-election-committee-vote-tomorrow-lee-visits",
+    "published_at": "2026-11-21T16:47:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878710-20261121.htm"
+    },
+    "summary": {
+      "en": "The Election Committee subsector ordinary election will be held tomorrow. Chief Executive John Lee visited the ordinary polling station at Harbour Road Sports Centre in Wan Chai this afternoon, accompanied by Secretary for Constitutional and Mainland Affairs Erick Tsang and Electoral Affairs Commission chairman Justice David Lok, to inspect the venue setup and final preparations and to cheer on polling staff. Lee said 31 contested subsectors will see about 5,700 voters elect 723 Election Committee members, and urged eligible voters to turn out tomorrow.",
+      "zh_hans": "选举委员会界别分组一般选举明日举行。行政长官李家超今日下午在政制及内地事务局局长谢小华及选管会主席陆启康陪同下，到访湾仔港湾道体育馆的一般投票站，了解场地布置及最后准备情况，并为票站工作人员打气。李家超指今次选举有31个需要竞逐的界别分组，由约5700名投票人选出723名选委会委员，呼吁合资格投票人士明日踊跃投票。",
+      "zh_hant": "選舉委員會界別分組一般選舉明日舉行。行政長官李家超今日下午在政制及內地事務局局長謝小華及選管會主席陸啟康陪同下，到訪灣仔港灣道體育館的一般投票站，了解場地布置及最後準備情況，並為票站工作人員打氣。李家超指今次選舉有31個需要競逐的界別分組，由約5700名投票人選出723名選委會委員，呼籲合資格投票人士明日踴躍投票。"
+    },
+    "tags": {
+      "en": [
+        "Election Committee election",
+        "John Lee",
+        "polling station"
+      ],
+      "zh_hans": [
+        "选委会选举",
+        "李家超",
+        "投票站"
+      ],
+      "zh_hant": [
+        "選委會選舉",
+        "李家超",
+        "投票站"
+      ]
+    },
+    "title": {
+      "en": "Election Committee subsector election tomorrow as about 5,700 voters choose 723 members",
+      "zh_hans": "选委会界别分组选举明日举行 约5700选民选出723名委员",
+      "zh_hant": "選委會界別分組選舉明日舉行 約5700選民選出723名委員"
+    },
+    "image_url": "",
+    "image_prompt": "事實：選舉委員會界別分組一般選舉明日舉行，約5700名投票人選出723名選委會委員，李家超到訪灣仔投票站了解準備情況。場景：光猛日間投票站，票箱整齊排列，職員整理選票，背景是體育館大門，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「選委會選舉明日舉行」白字，第二行「5700選民選出723委員」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面以投票站和票箱為主，不畫任何人物面孔。圖上除標題外不寫任何其他字。"
+  },
+  {
+    "category": "world",
+    "id": "20261121-trump-praises-xi-great-man-clean-cities",
+    "published_at": "2026-11-21T16:45:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878709-20261121.htm"
+    },
+    "summary": {
+      "en": "US President Donald Trump said the APEC leaders' informal meeting held in Shenzhen was a highly successful economic meeting, and the first trilateral meeting of the leaders of the US, China and Russia was one of the most significant international summits in years. Speaking at a White House press conference on Friday, Trump said the three countries reached a consensus that nuclear conflict must never happen. He described Xi Jinping as a great man who has made outstanding contributions to China, and praised Chinese cities as extremely clean and spotless, full of vitality; Shenzhen was a small fishing village more than 40 years ago but has undergone tremendous change over the past two decades.",
+      "zh_hans": "美国总统特朗普表示，日前在深圳举行的亚太经合组织领导人非正式会议非常成功，美中俄三国领导人举行首次三方会晤，是多年来最具重大意义的国际峰会之一。特朗普星期五在白宫记者会上说，三国达成共识，绝不能让核冲突发生。他形容习近平是伟大的人，为中国作出卓越贡献，又称赞中国城市非常整洁、一尘不染，活力令人惊叹；深圳40多年前是小渔村，但过去20年间发生巨大变化。",
+      "zh_hant": "美國總統特朗普表示，日前在深圳舉行的亞太經合組織領導人非正式會議非常成功，美中俄三國領導人舉行首次三方會晤，是多年來最具重大意義的國際峰會之一。特朗普星期五在白宮記者會上說，三國達成共識，絕不能讓核衝突發生。他形容習近平是偉大的人，為中國作出卓越貢獻，又稱讚中國城市非常整潔、一塵不染，活力令人驚嘆；深圳40多年前是小漁村，但過去20年間發生巨大變化。"
+    },
+    "tags": {
+      "en": [
+        "Donald Trump",
+        "Xi Jinping",
+        "APEC"
+      ],
+      "zh_hans": [
+        "特朗普",
+        "习近平",
+        "APEC"
+      ],
+      "zh_hant": [
+        "特朗普",
+        "習近平",
+        "APEC"
+      ]
+    },
+    "title": {
+      "en": "Trump hails Xi for outstanding contribution to China and praises country's spotless cities",
+      "zh_hans": "特朗普盛赞习近平为中国作出卓越贡献 指中国城市整洁深圳变化惊人",
+      "zh_hant": "特朗普盛讚習近平為中國作出卓越貢獻 指中國城市整潔深圳變化驚人"
+    },
+    "image_url": "",
+    "image_prompt": "事實：美國總統特朗普盛讚習近平為中國作出卓越貢獻，稱中國城市非常整潔、一塵不染，深圳由小漁村巨變。場景：明亮的白宮記者會講台，背後美國國旗，另一邊是深圳高樓天際線，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「特朗普盛讚習近平卓越貢獻」白字，第二行「指中國城市整潔深圳巨變」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。"
   },
   {
     "category": "world",
