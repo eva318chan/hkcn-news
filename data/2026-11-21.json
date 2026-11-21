@@ -2372,6 +2372,82 @@
   },
   {
     "category": "china",
+    "id": "20261121-qinghai-delingha-5-6-magnitude-earthquake",
+    "published_at": "2026-11-21T22:37:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878727-20261121.htm"
+    },
+    "summary": {
+      "en": "A 5.6-magnitude earthquake struck Delingha in Qinghai province on Saturday evening, about 70 kilometres from the city centre at a depth of 10 kilometres. No casualties or collapsed buildings have been reported so far. Qinghai's fire and rescue headquarters activated its emergency response plan, with rescue teams already at the epicentre area and more than 260 personnel from three detachments in Xining, Haixi and the special service, along with search dogs and equipment, assembled and ready to deploy.",
+      "zh_hans": "青海省德令哈市傍晚发生5.6级地震，震中距离市区大约70公里，震源深度10公里，暂时未有伤亡或者房屋倒塌报告。青海省消防救援总队在地震后启动应急响应预案，救援队伍已经抵达震中区域，同时集结西宁、特勤和海西三个支队超过260人、搜救犬和装备器材，随时准备出动。",
+      "zh_hant": "青海省德令哈市傍晚發生5.6級地震，震央距離市區大約70公里，震源深度10公里，暫時未有傷亡或者房屋倒塌報告。青海省消防救援總隊在地震後啟動應急響應預案，救援隊伍已經抵達震央區域，同時集結西寧、特勤同海西三個支隊超過260人、搜救犬同裝備器材，隨時準備出動。"
+    },
+    "tags": {
+      "en": [
+        "Qinghai earthquake",
+        "Delingha",
+        "magnitude 5.6"
+      ],
+      "zh_hans": [
+        "青海地震",
+        "德令哈",
+        "5.6级地震"
+      ],
+      "zh_hant": [
+        "青海地震",
+        "德令哈",
+        "5.6級地震"
+      ]
+    },
+    "title": {
+      "en": "5.6-magnitude quake hits Delingha in Qinghai, 260 firefighters on standby with no casualties reported",
+      "zh_hans": "青海德令哈5.6级地震 260消防员戒备暂无伤亡",
+      "zh_hant": "青海德令哈5.6級地震 260消防員戒備暫無傷亡"
+    },
+    "image_url": "",
+    "image_prompt": "事實：青海德令哈市發生5.6級地震，震央距市區約70公里，震源深度10公里，暫無傷亡報告，逾260名消防員集結戒備。場景：光猛日間，青藏高原廣闊草原與遠山，一條公路伸向遠方，幾輛救援車輛沿公路行駛，天空晴朗，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「青海德令哈5.6級地震」白字，第二行「260消防員戒備暫無傷亡」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫倒塌樓宇。圖上除標題外不寫任何其他字。"
+  },
+  {
+    "category": "world",
+    "id": "20261121-iran-claims-intercept-us-f16-persian-gulf",
+    "published_at": "2026-11-21T22:31:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878726-20261121.htm"
+    },
+    "summary": {
+      "en": "Iran's military says its air defence system in the south detected a US F-16 fighter over the Persian Gulf on Friday night and fired a missile at it. The missile exploded near the jet, damaging it and forcing the pilot to abort the mission and make an emergency landing at a nearby airfield. The United States has not yet confirmed the account. Earlier reports from Iran said a US F-16 had sent out an emergency code in UAE airspace early on Saturday while returning from the Strait of Hormuz.",
+      "zh_hans": "伊朗军方宣称，部署在南部的防空系统星期五晚在波斯湾上空探测到一架美军F-16战机，并且发射导弹拦截，导弹在战机附近爆炸，导致战机受损，机师被迫终止任务，在附近机场紧急降落。美国方面暂时未有证实消息。伊朗方面较早时亦有消息指，一架美军F-16战机星期六凌晨从霍尔木兹海峡返航途中，在阿联酋空域发出紧急代码。",
+      "zh_hant": "伊朗軍方宣稱，部署在南部的防空系統星期五晚在波斯灣上空探測到一架美軍F-16戰機，並且發射導彈攔截，導彈在戰機附近爆炸，導致戰機受損，機師被迫終止任務，在附近機場緊急降落。美國方面暫時未有證實消息。伊朗方面較早時亦有消息指，一架美軍F-16戰機星期六凌晨從霍爾木茲海峽返航途中，在阿聯酋空域發出緊急代碼。"
+    },
+    "tags": {
+      "en": [
+        "Iran",
+        "F-16",
+        "Persian Gulf"
+      ],
+      "zh_hans": [
+        "伊朗",
+        "F-16",
+        "波斯湾"
+      ],
+      "zh_hant": [
+        "伊朗",
+        "F-16",
+        "波斯灣"
+      ]
+    },
+    "title": {
+      "en": "Iran claims it hit a US F-16 over the Persian Gulf, US yet to confirm as jet made emergency landing",
+      "zh_hans": "伊朗称波斯湾上空击中美军F-16 美方未证实战机紧急降落",
+      "zh_hant": "伊朗稱波斯灣上空擊中美軍F-16 美方未證實戰機緊急降落"
+    },
+    "image_url": "",
+    "image_prompt": "事實：伊朗軍方宣稱在波斯灣上空攔截並擊中一架美軍F-16戰機，戰機受損緊急降落，美國方面暫未證實。場景：光猛日間，波斯灣藍色海面上空，一架戰機剪影在高空飛行，遠處海平線與海岸線，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「伊朗稱波斯灣上空擊中美軍F-16」白字，第二行「美方未證實戰機緊急降落」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫爆炸火光，不畫任何國旗標誌。圖上除標題外不寫任何其他字。"
+  },
+  {
+    "category": "china",
     "id": "20261121-li-qiang-wong-singapore-fta-4",
     "published_at": "2026-11-21T17:18:00+08:00",
     "source": {
