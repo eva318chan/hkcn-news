@@ -2,7 +2,14 @@
 <rss version="2.0">
 <channel>
 <title>中港新聞速報</title><link>https://hkcnexpress.com/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language>
-<lastBuildDate>Sun, 22 Nov 2026 04:44:41 +0800</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 06:45:56 +0800</lastBuildDate>
+<item>
+<title>黃色火災危險警告生效 火災風險頗高籲市民小心防火</title>
+<link>https://hkcnexpress.com/a/20261122-yellow-fire-danger-warning.html</link>
+<guid>https://hkcnexpress.com/a/20261122-yellow-fire-danger-warning.html</guid>
+<pubDate>Sun, 22 Nov 2026 06:01:00 +0800</pubDate>
+<description>天文台今日早上6時01分發出黃色火災危險警告，表示今日火災危險情況屬黃色，火災風險頗高。市民應小心防止火警發生，郊遊人士亦應提高警覺，切勿在郊野公園內生火。</description>
+</item>
 <item>
 <title>伊朗堅持濃縮核材料不運出境 斥封鎖等同戰爭將全力打破</title>
 <link>https://hkcnexpress.com/a/20261122-iran-diplomat-enriched-uranium-not-leaving.html</link>
@@ -345,13 +352,6 @@
 <guid>https://hkcnexpress.com/a/20261121-dollar-index-ends-rally-us-10y-below-5-pct.html</guid>
 <pubDate>Sat, 21 Nov 2026 07:35:00 +0800</pubDate>
 <description>美元指數轉跌，結束8日升勢，低見103.57，跌約0.4%。美國10年期債息跌穿5厘，低見4.9059厘，跌約15個基點；30年期債息低見5.291厘，兩年期債息低見4.606厘，全部創逾一星期新低。澳元兌美元跌約0.6%，報0.6617；新西蘭元兌美元跌至0.5468。美元兌日圓跌0.7%，報158.55；歐元兌美元報1.0966，英鎊兌美元貼近1.308。</description>
-</item>
-<item>
-<title>港股ADR下挫 阿里巴巴跌約5% 滙控小米騰訊齊跌逾3%</title>
-<link>https://hkcnexpress.com/a/20261121-hk-adrs-slide-alibaba-down-5-pct.html</link>
-<guid>https://hkcnexpress.com/a/20261121-hk-adrs-slide-alibaba-down-5-pct.html</guid>
-<pubDate>Sat, 21 Nov 2026 07:34:00 +0800</pubDate>
-<description>港股美國預託證券下挫。阿里巴巴ADR比本港昨日收市價跌約5%，以港元計折合報79.4元。滙控、小米、騰訊ADR跌約3%或以上；平保、友邦、港交所、美團、中行ADR跌逾1%至近2%。</description>
 </item>
 </channel>
 </rss>
