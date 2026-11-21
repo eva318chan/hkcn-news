@@ -38,6 +38,84 @@
     "image_r2_key": "design/202611/20261121-police-appeal-missing-woman-tai-po.jpg"
   },
   {
+    "category": "world",
+    "id": "20261121-india-fake-liquor-11-dead-manipur",
+    "published_at": "2026-11-21T16:07:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878704-20261121.htm"
+    },
+    "summary": {
+      "en": "At least 11 people have died and more than 180 have been hospitalised in the north-eastern Indian state of Manipur after suspected consumption of toxic liquor. The state's chief minister said the victims fell ill after drinking, with 11 deaths within 48 hours, and has ordered an investigation, vowing accountability. Such deaths are not uncommon in India, where cheap liquor sold through informal channels is sometimes laced with methanol, a highly toxic industrial chemical.",
+      "zh_hans": "印度东北部曼尼普尔邦有人怀疑饮用有问题的酒后不适，至少11人死亡，超过180人送院。当地首席部长表示，受害者饮酒后出现不适症状，48小时内有11人死亡，已下令就事件展开调查，强调会追究责任。外电报道，在印度，因饮用问题酒类而死亡的事件时有所闻，这类透过非正规渠道贩卖的廉价酒，有时会掺入具高度毒性的工业化学物质甲醇。",
+      "zh_hant": "印度東北部曼尼普爾邦有人懷疑飲用有問題的酒後不適，至少11人死亡，超過180人送院。當地首席部長表示，受害者飲酒後出現不適症狀，48小時內有11人死亡，已下令就事件展開調查，強調會追究責任。外電報道，在印度，因飲用問題酒類而死亡的事件時有所聞，這類透過非正規渠道販賣的廉價酒，有時會摻入具高度毒性的工業化學物質甲醇。"
+    },
+    "tags": {
+      "en": [
+        "India",
+        "toxic liquor",
+        "Manipur"
+      ],
+      "zh_hans": [
+        "印度",
+        "假酒",
+        "曼尼普尔"
+      ],
+      "zh_hant": [
+        "印度",
+        "假酒",
+        "曼尼普爾"
+      ]
+    },
+    "title": {
+      "en": "Suspected toxic liquor kills at least 11 in India's Manipur, over 180 hospitalised",
+      "zh_hans": "印度曼尼普尔假酒夺命 至少11死逾180人送院 当局下令彻查",
+      "zh_hant": "印度曼尼普爾假酒奪命 至少11死逾180人送院 當局下令徹查"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-india-fake-liquor-11-dead-manipur-v2.jpg",
+    "image_prompt": "事實：印度東北部曼尼普爾邦有人懷疑飲用有問題的酒後不適，至少11人死亡，超過180人送院，48小時內有11人死亡，當局下令徹查；廉價酒有時會摻入具高度毒性的工業化學物質甲醇。場景：光猛日間印度城鎮街頭，救護車停在醫院外，醫護人員剪影忙碌，嚴肅新聞風，寫實，唔畫受害者面孔、唔畫酒樽特寫。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「印度曼尼普爾假酒奪命」白字，第二行「至少11死逾180人送院」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-india-fake-liquor-11-dead-manipur-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-air-niugini-engine-fire-davao-landing",
+    "published_at": "2026-11-21T15:43:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878701-20261121.htm"
+    },
+    "summary": {
+      "en": "An Air Niugini flight from Hong Kong to Papua New Guinea made a safe emergency landing in the southern Philippines after a suspected engine fire. The Boeing 767-383ER departed Hong Kong late on Friday night carrying 137 passengers and nine crew; the pilots reported instruments indicating a possible fire in the right engine, followed safety procedures and requested to land at Davao International Airport after midnight. Everyone on board evacuated via emergency slides and no one was injured. The Civil Aviation Authority of the Philippines said no damage to the aircraft has been found so far, and the airport was temporarily closed to accommodate the emergency landing.",
+      "zh_hans": "新几内亚航空一架由香港前往巴布亚新几内亚的客机，因怀疑引擎起火，在菲律宾南部安全降落。涉事波音767-383ER客机星期五深夜由香港起飞，载着137名乘客与9名机组人员，机师在飞行途中报告仪表显示右边引擎可能起火，随即执行安全程序，在午夜过后请求在达沃国际机场降落，机上人员经紧急逃生滑梯撤离，无人受伤。菲律宾民航局表示，目前未发现飞机受损，机场一度因配合客机紧急降落而暂时关闭。",
+      "zh_hant": "新幾內亞航空一架由香港前往巴布亞新幾內亞的客機，因懷疑引擎起火，在菲律賓南部安全降落。涉事波音767-383ER客機星期五深夜由香港起飛，載着137名乘客與9名機組人員，機師在飛行途中報告儀表顯示右邊引擎可能起火，隨即執行安全程序，在午夜過後請求在達沃國際機場降落，機上人員經緊急逃生滑梯撤離，無人受傷。菲律賓民航局表示，目前未發現飛機受損，機場一度因配合客機緊急降落而暫時關閉。"
+    },
+    "tags": {
+      "en": [
+        "aviation safety",
+        "emergency landing",
+        "Philippines"
+      ],
+      "zh_hans": [
+        "航空安全",
+        "紧急降落",
+        "菲律宾"
+      ],
+      "zh_hant": [
+        "航空安全",
+        "緊急降落",
+        "菲律賓"
+      ]
+    },
+    "title": {
+      "en": "Hong Kong flight to Papua New Guinea makes emergency landing in Philippines after suspected engine fire, no injuries",
+      "zh_hans": "港飞巴布亚新几内亚客机疑引擎起火 137乘客菲律宾紧急降落 无人受伤",
+      "zh_hant": "港飛巴布亞新幾內亞客機疑引擎起火 137乘客菲律賓緊急降落 無人受傷"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-air-niugini-engine-fire-davao-landing-v2.jpg",
+    "image_prompt": "事實：新幾內亞航空一架波音767客機由香港飛往巴布亞新幾內亞，疑右邊引擎起火，載137名乘客與9名機組人員，在菲律賓達沃國際機場緊急降落，無人受傷。場景：光猛日間機場跑道，客機安全停在跑道上，消防車與救援車輛在旁戒備，乘客剪影經逃生滑梯有序撤離，專業新聞風，嚴肅寫實，唔畫火焰、唔畫濃煙、唔畫人面特寫。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「港飛巴布亞新幾內亞客機疑引擎起火」白字，第二行「137乘客菲律賓緊急降落 無人受傷」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-air-niugini-engine-fire-davao-landing-v2.jpg"
+  },
+  {
     "category": "hk",
     "id": "20261121-customs-seizes-live-turtles-airport",
     "published_at": "2026-11-21T15:35:00+08:00",
@@ -74,6 +152,45 @@
     },
     "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261121-customs-seizes-live-turtles-airport.jpg",
     "image_r2_key": "design/202611/20261121-customs-seizes-live-turtles-airport.jpg"
+  },
+  {
+    "category": "world",
+    "id": "20261121-zelensky-putin-killer-trump-friend",
+    "published_at": "2026-11-21T15:10:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878700-20261121.htm"
+    },
+    "summary": {
+      "en": "Ukrainian President Volodymyr Zelenskyy has said Russian President Vladimir Putin is a murderer, responding to US President Donald Trump calling Putin a friend. Trump used the term during his meeting with Putin in Shenzhen, saying the two have maintained a very good relationship for years. Zelenskyy told US media that what Trump calls Putin is his own freedom, but for Ukraine, Putin is an enemy and a murderer who kills day and night, and calling him a friend suggests Putin does not feel enough pressure. Trump, summing up his Asia trip at the White House on Friday, said both the Russian and Ukrainian leaders want to end the war and that his good relations with both are a good thing, but did not retract calling Putin a friend.",
+      "zh_hans": "对于美国总统特朗普形容俄罗斯总统普京是朋友，乌克兰总统泽连斯基表明普京是杀人凶手。美俄元首日前在深圳会晤时，特朗普称呼普京为朋友，指两人多年来一直维持非常好的关系。泽连斯基接受美国传媒访问时表示，特朗普如何称呼普京是对方的自由，但对乌克兰而言，普京是敌人和杀人凶手，日日夜夜都杀人，把普京形容为朋友，意味普京感受到的压力未够大。特朗普星期五在白宫总结亚洲之旅时说，俄乌元首都想结束战争，自己与两人都有交情，认为是好事，但未有收回普京是朋友的称呼。",
+      "zh_hant": "對於美國總統特朗普形容俄羅斯總統普京是朋友，烏克蘭總統澤連斯基表明普京是殺人兇手。美俄元首日前在深圳會晤時，特朗普稱呼普京為朋友，指兩人多年來一直維持非常好的關係。澤連斯基接受美國傳媒訪問時表示，特朗普如何稱呼普京是對方的自由，但對烏克蘭而言，普京是敵人和殺人兇手，日日夜夜都殺人，把普京形容為朋友，意味普京感受到的壓力未夠大。特朗普星期五在白宮總結亞洲之旅時說，俄烏元首都想結束戰爭，自己與兩人都有交情，認為是好事，但未有收回普京是朋友的稱呼。"
+    },
+    "tags": {
+      "en": [
+        "Zelenskyy",
+        "Trump",
+        "Russia-Ukraine war"
+      ],
+      "zh_hans": [
+        "泽连斯基",
+        "特朗普",
+        "俄乌战争"
+      ],
+      "zh_hant": [
+        "澤連斯基",
+        "特朗普",
+        "俄烏戰爭"
+      ]
+    },
+    "title": {
+      "en": "Zelenskyy hits back after Trump calls Putin a friend: 'Putin is a murderer'",
+      "zh_hans": "特朗普称普京是朋友 泽连斯基反驳：普京是杀人凶手 日夜杀人",
+      "zh_hant": "特朗普稱普京是朋友 澤連斯基反駁：普京是殺人兇手 日夜殺人"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-zelensky-putin-killer-trump-friend-v2.jpg",
+    "image_prompt": "事實：美國總統特朗普形容俄羅斯總統普京是朋友，烏克蘭總統澤連斯基回應普京是敵人和殺人兇手，日日夜夜都殺人；特朗普稱俄烏元首都想結束戰爭。場景：光猛日間國際會議廳，講台空無一人，烏克蘭與俄羅斯國旗並列，記者會場景，嚴肅外交風，寫實，絕對唔畫任何真實人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「特朗普稱普京是朋友」白字，第二行「澤連斯基：普京是殺人兇手」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-zelensky-putin-killer-trump-friend-v2.jpg"
   },
   {
     "category": "world",
@@ -502,6 +619,45 @@
     "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-law-superstars-concerts-kai-tak-2028-v2.jpg",
     "image_prompt": "事實：羅淑佩稱有信心吸引更多國際巨星來港開演唱會，啟德體育園訂場已去到2028年。場景：光猛日間啟德體育園主場館外景，陽光普照，藍天白雲，現代建築線條明亮，畫面明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「有信心吸引更多國際巨星來港開唱」白字，第二行「啟德訂場已去到2028年」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
     "image_r2_key": "design/202611/20261121-law-superstars-concerts-kai-tak-2028-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-sports-dispute-summit-dec-1",
+    "published_at": "2026-11-21T10:21:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878681-20261121.htm"
+    },
+    "summary": {
+      "en": "The Department of Justice, the Law Society of Hong Kong and the Hong Kong Bar Association will jointly host a sports dispute resolution summit on December 1, with free registration now open. The summit will feature two panel discussions on the latest trends and future development of international sports mediation and arbitration. Deputy Secretary for Justice Cheung Kwok-kwan said that with Kai Tak Sports Park in operation and major international events coming to Hong Kong, the local sports industry is growing fast, and a fair and efficient dispute resolution mechanism has become essential infrastructure for the industry's upgrading. He also revealed that an important regional sports law organisation will set up its headquarters in Hong Kong within this year.",
+      "zh_hans": "律政司、香港律师会及香港大律师公会将于下月1日合办体育争议解决高峰会，现已接受免费登记，高峰会设有两场专题座谈会，探讨国际体育调解及仲裁的最新趋势与未来发展。律政司副司长张国钧表示，随着启德体育园启用及大型国际赛事接连在港举行，本地体育产业正全速发展，建立公平高效的争议解决机制已成为产业升级不可或缺的制度基建。他又透露，今年内将有一家重要的区域性体育法律组织总部落户香港。",
+      "zh_hant": "律政司、香港律師會及香港大律師公會將於下月1日合辦體育爭議解決高峰會，現已接受免費登記，高峰會設有兩場專題座談會，探討國際體育調解及仲裁的最新趨勢與未來發展。律政司副司長張國鈞表示，隨着啟德體育園啟用及大型國際賽事接連在港舉行，本地體育產業正全速發展，建立公平高效的爭議解決機制已成為產業升級不可或缺的制度基建。他又透露，今年內將有一家重要的區域性體育法律組織總部落戶香港。"
+    },
+    "tags": {
+      "en": [
+        "sports dispute resolution",
+        "Department of Justice",
+        "Kai Tak Sports Park"
+      ],
+      "zh_hans": [
+        "体育争议解决",
+        "律政司",
+        "启德体育园"
+      ],
+      "zh_hant": [
+        "體育爭議解決",
+        "律政司",
+        "啟德體育園"
+      ]
+    },
+    "title": {
+      "en": "Sports dispute resolution summit on December 1 to explore global mediation and arbitration trends",
+      "zh_hans": "体育争议解决高峰会下月1日举行 探讨国际调解仲裁新趋势 区域体育法律组织将落户香港",
+      "zh_hant": "體育爭議解決高峰會下月1日舉行 探討國際調解仲裁新趨勢 區域體育法律組織將落戶香港"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261121-sports-dispute-summit-dec-1-v2.jpg",
+    "image_prompt": "事實：律政司、香港律師會及香港大律師公會下月1日合辦體育爭議解決高峰會，探討國際體育調解及仲裁的最新趨勢與未來發展，區域性體育法律組織年內將落戶香港。場景：光猛日間現代會議中心，玻璃幕牆透入陽光，講台與大型屏幕，專業莊重的會議氣氛，藍白主調，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實專業。標題兩行大字直接壓喺畫面上面，第一行「體育爭議解決高峰會下月舉行」白字，第二行「區域體育法律組織將落戶香港」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。",
+    "image_r2_key": "design/202611/20261121-sports-dispute-summit-dec-1-v2.jpg"
   },
   {
     "category": "world",
@@ -1865,120 +2021,6 @@
     "image_prompt": "事實：聯合國氣候變化大會原定星期五閉幕，各方未能就部分核心議題達成共識，進入加時階段；談判主席鮑恩稱各方保留善意和促成共識的意願，大會主席屈呂姆稱距離終點很近。場景：光猛日間大型國際會議中心，陽光透過玻璃幕牆，圓形談判桌與各國名牌，藍色聯合國色調，代表剪影埋頭討論，專業莊重，寫實，唔畫人面特寫。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「聯合國氣候大會未能閉幕」白字，第二行「談判陷僵局進入加時階段」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
   },
   {
-    "category": "world",
-    "id": "20261121-india-fake-liquor-11-dead-manipur",
-    "published_at": "2026-11-21T16:07:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878704-20261121.htm"
-    },
-    "summary": {
-      "en": "At least 11 people have died and more than 180 have been hospitalised in the north-eastern Indian state of Manipur after suspected consumption of toxic liquor. The state's chief minister said the victims fell ill after drinking, with 11 deaths within 48 hours, and has ordered an investigation, vowing accountability. Such deaths are not uncommon in India, where cheap liquor sold through informal channels is sometimes laced with methanol, a highly toxic industrial chemical.",
-      "zh_hans": "印度东北部曼尼普尔邦有人怀疑饮用有问题的酒后不适，至少11人死亡，超过180人送院。当地首席部长表示，受害者饮酒后出现不适症状，48小时内有11人死亡，已下令就事件展开调查，强调会追究责任。外电报道，在印度，因饮用问题酒类而死亡的事件时有所闻，这类透过非正规渠道贩卖的廉价酒，有时会掺入具高度毒性的工业化学物质甲醇。",
-      "zh_hant": "印度東北部曼尼普爾邦有人懷疑飲用有問題的酒後不適，至少11人死亡，超過180人送院。當地首席部長表示，受害者飲酒後出現不適症狀，48小時內有11人死亡，已下令就事件展開調查，強調會追究責任。外電報道，在印度，因飲用問題酒類而死亡的事件時有所聞，這類透過非正規渠道販賣的廉價酒，有時會摻入具高度毒性的工業化學物質甲醇。"
-    },
-    "tags": {
-      "en": [
-        "India",
-        "toxic liquor",
-        "Manipur"
-      ],
-      "zh_hans": [
-        "印度",
-        "假酒",
-        "曼尼普尔"
-      ],
-      "zh_hant": [
-        "印度",
-        "假酒",
-        "曼尼普爾"
-      ]
-    },
-    "title": {
-      "en": "Suspected toxic liquor kills at least 11 in India's Manipur, over 180 hospitalised",
-      "zh_hans": "印度曼尼普尔假酒夺命 至少11死逾180人送院 当局下令彻查",
-      "zh_hant": "印度曼尼普爾假酒奪命 至少11死逾180人送院 當局下令徹查"
-    },
-    "image_url": "",
-    "image_prompt": "事實：印度東北部曼尼普爾邦有人懷疑飲用有問題的酒後不適，至少11人死亡，超過180人送院，48小時內有11人死亡，當局下令徹查；廉價酒有時會摻入具高度毒性的工業化學物質甲醇。場景：光猛日間印度城鎮街頭，救護車停在醫院外，醫護人員剪影忙碌，嚴肅新聞風，寫實，唔畫受害者面孔、唔畫酒樽特寫。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「印度曼尼普爾假酒奪命」白字，第二行「至少11死逾180人送院」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-air-niugini-engine-fire-davao-landing",
-    "published_at": "2026-11-21T15:43:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878701-20261121.htm"
-    },
-    "summary": {
-      "en": "An Air Niugini flight from Hong Kong to Papua New Guinea made a safe emergency landing in the southern Philippines after a suspected engine fire. The Boeing 767-383ER departed Hong Kong late on Friday night carrying 137 passengers and nine crew; the pilots reported instruments indicating a possible fire in the right engine, followed safety procedures and requested to land at Davao International Airport after midnight. Everyone on board evacuated via emergency slides and no one was injured. The Civil Aviation Authority of the Philippines said no damage to the aircraft has been found so far, and the airport was temporarily closed to accommodate the emergency landing.",
-      "zh_hans": "新几内亚航空一架由香港前往巴布亚新几内亚的客机，因怀疑引擎起火，在菲律宾南部安全降落。涉事波音767-383ER客机星期五深夜由香港起飞，载着137名乘客与9名机组人员，机师在飞行途中报告仪表显示右边引擎可能起火，随即执行安全程序，在午夜过后请求在达沃国际机场降落，机上人员经紧急逃生滑梯撤离，无人受伤。菲律宾民航局表示，目前未发现飞机受损，机场一度因配合客机紧急降落而暂时关闭。",
-      "zh_hant": "新幾內亞航空一架由香港前往巴布亞新幾內亞的客機，因懷疑引擎起火，在菲律賓南部安全降落。涉事波音767-383ER客機星期五深夜由香港起飛，載着137名乘客與9名機組人員，機師在飛行途中報告儀表顯示右邊引擎可能起火，隨即執行安全程序，在午夜過後請求在達沃國際機場降落，機上人員經緊急逃生滑梯撤離，無人受傷。菲律賓民航局表示，目前未發現飛機受損，機場一度因配合客機緊急降落而暫時關閉。"
-    },
-    "tags": {
-      "en": [
-        "aviation safety",
-        "emergency landing",
-        "Philippines"
-      ],
-      "zh_hans": [
-        "航空安全",
-        "紧急降落",
-        "菲律宾"
-      ],
-      "zh_hant": [
-        "航空安全",
-        "緊急降落",
-        "菲律賓"
-      ]
-    },
-    "title": {
-      "en": "Hong Kong flight to Papua New Guinea makes emergency landing in Philippines after suspected engine fire, no injuries",
-      "zh_hans": "港飞巴布亚新几内亚客机疑引擎起火 137乘客菲律宾紧急降落 无人受伤",
-      "zh_hant": "港飛巴布亞新幾內亞客機疑引擎起火 137乘客菲律賓緊急降落 無人受傷"
-    },
-    "image_url": "",
-    "image_prompt": "事實：新幾內亞航空一架波音767客機由香港飛往巴布亞新幾內亞，疑右邊引擎起火，載137名乘客與9名機組人員，在菲律賓達沃國際機場緊急降落，無人受傷。場景：光猛日間機場跑道，客機安全停在跑道上，消防車與救援車輛在旁戒備，乘客剪影經逃生滑梯有序撤離，專業新聞風，嚴肅寫實，唔畫火焰、唔畫濃煙、唔畫人面特寫。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「港飛巴布亞新幾內亞客機疑引擎起火」白字，第二行「137乘客菲律賓緊急降落 無人受傷」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "world",
-    "id": "20261121-zelensky-putin-killer-trump-friend",
-    "published_at": "2026-11-21T15:10:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878700-20261121.htm"
-    },
-    "summary": {
-      "en": "Ukrainian President Volodymyr Zelenskyy has said Russian President Vladimir Putin is a murderer, responding to US President Donald Trump calling Putin a friend. Trump used the term during his meeting with Putin in Shenzhen, saying the two have maintained a very good relationship for years. Zelenskyy told US media that what Trump calls Putin is his own freedom, but for Ukraine, Putin is an enemy and a murderer who kills day and night, and calling him a friend suggests Putin does not feel enough pressure. Trump, summing up his Asia trip at the White House on Friday, said both the Russian and Ukrainian leaders want to end the war and that his good relations with both are a good thing, but did not retract calling Putin a friend.",
-      "zh_hans": "对于美国总统特朗普形容俄罗斯总统普京是朋友，乌克兰总统泽连斯基表明普京是杀人凶手。美俄元首日前在深圳会晤时，特朗普称呼普京为朋友，指两人多年来一直维持非常好的关系。泽连斯基接受美国传媒访问时表示，特朗普如何称呼普京是对方的自由，但对乌克兰而言，普京是敌人和杀人凶手，日日夜夜都杀人，把普京形容为朋友，意味普京感受到的压力未够大。特朗普星期五在白宫总结亚洲之旅时说，俄乌元首都想结束战争，自己与两人都有交情，认为是好事，但未有收回普京是朋友的称呼。",
-      "zh_hant": "對於美國總統特朗普形容俄羅斯總統普京是朋友，烏克蘭總統澤連斯基表明普京是殺人兇手。美俄元首日前在深圳會晤時，特朗普稱呼普京為朋友，指兩人多年來一直維持非常好的關係。澤連斯基接受美國傳媒訪問時表示，特朗普如何稱呼普京是對方的自由，但對烏克蘭而言，普京是敵人和殺人兇手，日日夜夜都殺人，把普京形容為朋友，意味普京感受到的壓力未夠大。特朗普星期五在白宮總結亞洲之旅時說，俄烏元首都想結束戰爭，自己與兩人都有交情，認為是好事，但未有收回普京是朋友的稱呼。"
-    },
-    "tags": {
-      "en": [
-        "Zelenskyy",
-        "Trump",
-        "Russia-Ukraine war"
-      ],
-      "zh_hans": [
-        "泽连斯基",
-        "特朗普",
-        "俄乌战争"
-      ],
-      "zh_hant": [
-        "澤連斯基",
-        "特朗普",
-        "俄烏戰爭"
-      ]
-    },
-    "title": {
-      "en": "Zelenskyy hits back after Trump calls Putin a friend: 'Putin is a murderer'",
-      "zh_hans": "特朗普称普京是朋友 泽连斯基反驳：普京是杀人凶手 日夜杀人",
-      "zh_hant": "特朗普稱普京是朋友 澤連斯基反駁：普京是殺人兇手 日夜殺人"
-    },
-    "image_url": "",
-    "image_prompt": "事實：美國總統特朗普形容俄羅斯總統普京是朋友，烏克蘭總統澤連斯基回應普京是敵人和殺人兇手，日日夜夜都殺人；特朗普稱俄烏元首都想結束戰爭。場景：光猛日間國際會議廳，講台空無一人，烏克蘭與俄羅斯國旗並列，記者會場景，嚴肅外交風，寫實，絕對唔畫任何真實人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「特朗普稱普京是朋友」白字，第二行「澤連斯基：普京是殺人兇手」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
     "category": "hk",
     "id": "20261121-yau-bid-rigging-criminalisation",
     "published_at": "2026-11-21T13:21:00+08:00",
@@ -2014,45 +2056,7 @@
       "zh_hant": "樓宇維修圍標問題嚴重 丘應樺：立即針對性修例刑事化"
     },
     "image_url": "",
-    "image_prompt": "事實：商務及經濟發展局局長丘應樺表示，樓宇維修工程圍標問題嚴重，需要立即針對性提出修例，將圍標行為刑事化。場景：光猛日間住宅大廈外牆維修現場，棚架、吊船、工人安全帽等職業符號，明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「樓宇維修圍標問題嚴重」白字，第二行「丘應樺：立即針對性修例」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
-  },
-  {
-    "category": "hk",
-    "id": "20261121-sports-dispute-summit-dec-1",
-    "published_at": "2026-11-21T10:21:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878681-20261121.htm"
-    },
-    "summary": {
-      "en": "The Department of Justice, the Law Society of Hong Kong and the Hong Kong Bar Association will jointly host a sports dispute resolution summit on December 1, with free registration now open. The summit will feature two panel discussions on the latest trends and future development of international sports mediation and arbitration. Deputy Secretary for Justice Cheung Kwok-kwan said that with Kai Tak Sports Park in operation and major international events coming to Hong Kong, the local sports industry is growing fast, and a fair and efficient dispute resolution mechanism has become essential infrastructure for the industry's upgrading. He also revealed that an important regional sports law organisation will set up its headquarters in Hong Kong within this year.",
-      "zh_hans": "律政司、香港律师会及香港大律师公会将于下月1日合办体育争议解决高峰会，现已接受免费登记，高峰会设有两场专题座谈会，探讨国际体育调解及仲裁的最新趋势与未来发展。律政司副司长张国钧表示，随着启德体育园启用及大型国际赛事接连在港举行，本地体育产业正全速发展，建立公平高效的争议解决机制已成为产业升级不可或缺的制度基建。他又透露，今年内将有一家重要的区域性体育法律组织总部落户香港。",
-      "zh_hant": "律政司、香港律師會及香港大律師公會將於下月1日合辦體育爭議解決高峰會，現已接受免費登記，高峰會設有兩場專題座談會，探討國際體育調解及仲裁的最新趨勢與未來發展。律政司副司長張國鈞表示，隨着啟德體育園啟用及大型國際賽事接連在港舉行，本地體育產業正全速發展，建立公平高效的爭議解決機制已成為產業升級不可或缺的制度基建。他又透露，今年內將有一家重要的區域性體育法律組織總部落戶香港。"
-    },
-    "tags": {
-      "en": [
-        "sports dispute resolution",
-        "Department of Justice",
-        "Kai Tak Sports Park"
-      ],
-      "zh_hans": [
-        "体育争议解决",
-        "律政司",
-        "启德体育园"
-      ],
-      "zh_hant": [
-        "體育爭議解決",
-        "律政司",
-        "啟德體育園"
-      ]
-    },
-    "title": {
-      "en": "Sports dispute resolution summit on December 1 to explore global mediation and arbitration trends",
-      "zh_hans": "体育争议解决高峰会下月1日举行 探讨国际调解仲裁新趋势 区域体育法律组织将落户香港",
-      "zh_hant": "體育爭議解決高峰會下月1日舉行 探討國際調解仲裁新趨勢 區域體育法律組織將落戶香港"
-    },
-    "image_url": "",
-    "image_prompt": "事實：律政司、香港律師會及香港大律師公會下月1日合辦體育爭議解決高峰會，探討國際體育調解及仲裁的最新趨勢與未來發展，區域性體育法律組織年內將落戶香港。場景：光猛日間現代會議中心，玻璃幕牆透入陽光，講台與大型屏幕，專業莊重的會議氣氛，藍白主調，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實專業。標題兩行大字直接壓喺畫面上面，第一行「體育爭議解決高峰會下月舉行」白字，第二行「區域體育法律組織將落戶香港」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
+    "image_prompt": "事實：商務及經濟發展局局長丘應樺表示，樓宇維修工程圍標問題嚴重，需要立即針對性提出修例，將圍標行為刑事化。場景：光猛日間住宅大廈外牆維修現場，棚架、吊船、工人安全帽等職業符號，明亮通透，唔用黑沉夜景，唔可以捏造具體人物面孔。風格：電視新聞圖卡風格，16:9，寫實。標題兩行大字直接壓喺畫面上面，第一行「樓宇維修圍標問題嚴重」白字，第二行「丘應樺：立即針對性修例刑事化」黃字，兩行互相呼應，字體粗黑清晰有層次，唔可以用白色長條或白底框包住標題。右下角細字「AI設計圖片」標籤貼住右下角，完整清晰。圖上面除咗標題同圖片本身，唔准寫任何其他字眼，唔准寫尺寸數字。"
   },
   {
     "category": "world",
