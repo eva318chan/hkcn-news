@@ -2527,6 +2527,82 @@
     "image_r2_key": "design/202611/20261121-hkicl-fraudulent-website-fpshk-xyz-v2.jpg"
   },
   {
+    "category": "hk",
+    "id": "20261121-aeon-credit-unauthorised-system-access",
+    "published_at": "2026-11-21T23:13:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878730-20261121.htm"
+    },
+    "summary": {
+      "en": "AEON Credit Service (Asia) has issued an important notice on its website saying its systems were recently found to have been accessed without authorisation, with no evidence so far that any related data has been misused. The company says it takes the incident very seriously and will keep monitoring the situation to prevent a recurrence, adding that it acted immediately to contain the impact and strengthen system security. It has engaged independent third-party cybersecurity and digital forensics experts to help investigate and assess the potential impact, urged customers to stay vigilant, and said affected customers will be notified individually about measures to protect their interests.",
+      "zh_hans": "AEON信贷财务（亚洲）有限公司在网站发出重要告示，指近日发现公司系统遭到未经授权查阅，现阶段并无证据显示任何相关资料已被不当使用。公司表示高度重视事件，将继续密切监察情况，防止类似事件再发生；发现事件后已立即采取行动遏止影响，并加强系统保安。公司已委聘独立第三方网络安全及数码鉴证专家，协助调查事件及评估潜在影响，并呼吁客户保持警惕，受影响客户将获个别通知有关保障利益的措施。",
+      "zh_hant": "AEON信貸財務（亞洲）有限公司在網站發出重要告示，指近日發現公司系統遭到未經授權查閱，現階段並無證據顯示任何相關資料已被不當使用。公司表示高度重視事件，將繼續密切監察情況，防止類似事件再發生；發現事件後已立即採取行動遏止影響，並加強系統保安。公司已委聘獨立第三方網絡安全及數碼鑑證專家，協助調查事件及評估潛在影響，並呼籲客戶保持警惕，受影響客戶將獲個別通知有關保障利益的措施。"
+    },
+    "tags": {
+      "en": [
+        "AEON",
+        "data security",
+        "cybersecurity"
+      ],
+      "zh_hans": [
+        "AEON",
+        "资料保安",
+        "网络安全"
+      ],
+      "zh_hant": [
+        "AEON",
+        "資料保安",
+        "網絡安全"
+      ]
+    },
+    "title": {
+      "en": "AEON Credit says system hit by unauthorised access, no evidence data misused so far",
+      "zh_hans": "AEON系统遭未经授权查阅 暂无证据资料被滥用",
+      "zh_hant": "AEON系統遭未經授權查閱 暫無證據資料被濫用"
+    },
+    "image_url": "",
+    "image_prompt": "事實：AEON信貸財務系統遭未經授權查閱，公司稱暫無證據顯示資料被不當使用，已聘獨立網絡安全專家調查。場景：光猛日間，現代寫字樓內，一部手提電腦屏幕顯示保安鎖圖案，旁邊放着文件夾，窗外陽光灑入，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「AEON系統遭未經授權查閱」白字，第二行「暫無證據資料被濫用」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫公司標誌。圖上除標題外不寫任何其他字。"
+  },
+  {
+    "category": "hk",
+    "id": "20261121-fire-contractor-director-false-certificates-charged",
+    "published_at": "2026-11-21T22:41:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878728-20261121.htm"
+    },
+    "summary": {
+      "en": "The Fire Services Department says it has charged Leung Ping-kei, a director of China Development Engineering, with two counts of aiding and abetting the company in issuing certificates that were false or misleading in a material particular, in connection with the Tai Po Wang Fuk Court case, allegedly in breach of the Fire Service Regulations. The case will be heard at West Kowloon Magistrates' Courts on 21 January next year. Separately, the department's spot checks found certificates issued by Wang Tai Fire Engineering for the annual inspection of the fire detection system at the second phase of Kam Wai Industrial Building were suspected to be false or misleading; the company and its director Chung Kit-man pleaded guilty at Tuen Mun Magistrates' Courts yesterday and were convicted. The department will consider referring the conviction to the disciplinary committee.",
+      "zh_hans": "消防处回复查询时表示，就宏福苑个案已检控中华发展工程有限公司董事梁秉基两项协助及教唆该公司发出在要项上属虚假或具误导性的证明书罪，涉嫌违反《消防规例》，案件明年1月21日在西九龙裁判法院提堂。另外，消防处早前抽查发现，宏泰消防工程有限公司就金威工业大厦二期火警侦测系统周年检查发出的证明书涉嫌虚假或误导，该公司及其董事钟杰文昨日在屯门裁判法院承认控罪，被裁定罪名成立。消防处会考虑将有关定罪个案，转介纪律委员会跟进。",
+      "zh_hant": "消防處回覆查詢時表示，就宏福苑個案已檢控中華發展工程有限公司董事梁秉基兩項協助及教唆該公司發出在要項上屬虛假或具誤導性的證明書罪，涉嫌違反《消防規例》，案件明年1月21日在西九龍裁判法院提堂。另外，消防處早前抽查發現，宏泰消防工程有限公司就金威工業大廈二期火警偵測系統周年檢查發出的證明書涉嫌虛假或誤導，該公司及其董事鍾傑文昨日在屯門裁判法院承認控罪，被裁定罪名成立。消防處會考慮將有關定罪個案轉介紀律委員會跟進。"
+    },
+    "tags": {
+      "en": [
+        "Wang Fuk Court",
+        "Fire Services Department",
+        "false certificates"
+      ],
+      "zh_hans": [
+        "宏福苑",
+        "消防处",
+        "虚假证明书"
+      ],
+      "zh_hant": [
+        "宏福苑",
+        "消防處",
+        "虛假證明書"
+      ]
+    },
+    "title": {
+      "en": "Director of fire contractor in Tai Po blaze case charged over false certificates, to appear in court in January",
+      "zh_hans": "宏福苑案消防承办商董事涉发虚假证明书 明年1月提堂",
+      "zh_hant": "宏福苑案消防承辦商董事涉發虛假證明書 明年1月提堂"
+    },
+    "image_url": "",
+    "image_prompt": "事實：宏福苑案消防承辦商中華發展工程董事梁秉基被控兩項發出虛假證明書罪，明年1月21日提堂；另一承辦商宏泰消防董事已認罪。場景：光猛日間，一座現代法院大樓外觀，莊嚴石屎建築，藍天白雲，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「消防承辦商董事涉發虛假證明書」白字，第二行「宏福苑案明年1月提堂」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫公司標誌。圖上除標題外不寫任何其他字。"
+  },
+  {
     "category": "world",
     "id": "20261121-devillepin-2027-french-presidential-run",
     "published_at": "2026-11-21T01:16:00+08:00",
