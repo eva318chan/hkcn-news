@@ -39,6 +39,45 @@
   "image_r2_key": "design/202611/20261123-pok-fu-lam-woman-dies-after-zebra-crossing-crash-v2.jpg"
  },
  {
+  "category": "hk",
+  "id": "20261123-election-committee-surprise-upsets-record-turnout",
+  "image_prompt": "香港選舉票站或點票中心內景，工作人員點票剪影，氣氛莊重，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「選委會選舉爆冷 陳家強等名人落選」，第二行黃色大字寫「投票率98.79%破紀錄」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-election-committee-surprise-upsets-record-turnout-v2.jpg",
+  "published_at": "2026-11-23T01:08:00+08:00",
+  "source": {
+   "name": "南華早報",
+   "url": "https://www.scmp.com/news/hong-kong/politics/article/3375354/hong-kong-election-committee-race-long-lines-polling-stations-voting-begins?pgtype=topic"
+  },
+  "summary": {
+   "en": "Hong Kong's Election Committee Subsector Ordinary Elections have delivered a string of surprise upsets, even as turnout hit a record 98.79 per cent, with 5,640 of 5,709 registered voters casting ballots for 723 seats contested by 856 candidates. Former secretary for financial services and the treasury Ceajer Chan Ka-keung lost his re-election bid in the finance subsector with 41 votes, two short of the 43 won by Citi Hong Kong chief Aveline San and banking institute chief Carrie Leung. Law Society president Roden Tong Man-lung lost in the legal subsector, and Hong Kong General Chamber of Commerce chief executive Patrick Yeung Wai-tim won only nine votes in commercial (first). In the Hong Kong and Kowloon district committees subsector, Wilson Or Chong-shing topped the poll with 1,244 votes, while the tourism and architectural, surveying, planning and landscape subsectors both needed lotteries to break ties. Electoral Affairs Commission chairman Justice David Lok described the count as smooth, and Chief Executive John Lee congratulated the winners, saying the election showed healthy competition among patriots.",
+   "zh_hans": "选委会界别分组一般选举结果出炉，投票率高达百分之九十八点七九，创历届新高，共有五千六百四十名选民投票，八百五十六名候选人竞逐七百二十三个席位。不过多名重量级人物意外落选，包括前财经事务及库务局局长陈家强在金融界仅得四十一票，以两票之差落败；律师会会长汤文龙在法律界亦以两票之微落选，总商会总裁杨伟添在商界（第一）仅得九票落选。港九分区委员会等三会界别，柯创盛以一千二百四十四票成为票王；旅游界及建筑、测量、都市规划及园境界出现同票，要抽签定胜负。选举管理委员会主席陆启康形容点票过程畅顺，行政长官李家超祝贺当选者，形容选举展现爱国者之间良性竞争。",
+   "zh_hant": "選委會界別分組一般選舉結果出爐，投票率高達百分之九十八點七九，創歷屆新高，共有五千六百四十名選民投票，八百五十六名候選人競逐七百二十三個席位。不過多名重量級人物意外落選，包括前財經事務及庫務局局長陳家強喺金融界僅得四十一票，以兩票之差落敗；律師會會長湯文龍喺法律界亦以兩票之微落選，總商會總裁楊偉添喺商界（第一）僅得九票落選。港九分區委員會等三會界別，柯創盛以一千二百四十四票成為票王；旅遊界及建築、測量、都市規劃及園境界出現同票，要抽籤定勝負。選舉管理委員會主席陸啟康形容點票過程暢順，行政長官李家超祝賀當選者，形容選舉展現愛國者之間良性競爭。"
+  },
+  "tags": {
+   "en": [
+    "Election Committee election",
+    "Ceajer Chan",
+    "turnout"
+   ],
+   "zh_hans": [
+    "选委会选举",
+    "陈家强",
+    "投票率"
+   ],
+   "zh_hant": [
+    "選委會選舉",
+    "陳家強",
+    "投票率"
+   ]
+  },
+  "title": {
+   "en": "Election Committee Poll Sees Surprise Losses for Heavyweights as Turnout Hits Record 98.79%",
+   "zh_hans": "选委会选举爆冷 陈家强等名人落选 投票率98.79%破纪录",
+   "zh_hant": "選委會選舉爆冷 陳家強等名人落選 投票率98.79%破紀錄"
+  },
+  "image_r2_key": "design/202611/20261123-election-committee-surprise-upsets-record-turnout-v2.jpg"
+ },
+ {
   "category": "world",
   "id": "20261123-indonesia-candy-factory-fire-24-body-bags",
   "image_prompt": "印尼工廠區外景，消防車與消防員剪影，煙霧遠景，氣氛緊張沉重，人物用背影或剪影，不要畫出可辨認的具體人臉，絕對不要畫屍體或血腥畫面。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「印尼糖果廠大火尋獲24屍袋」，第二行黃色大字寫「約30人失蹤待DNA確認」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
@@ -76,6 +115,45 @@
    "zh_hant": "印尼糖果廠大火尋獲24屍袋 約30人失蹤待DNA確認"
   },
   "image_r2_key": "design/202611/20261123-indonesia-candy-factory-fire-24-body-bags-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-election-committee-next-ce-views",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-election-committee-next-ce-views-v2-photo.jpg",
+  "published_at": "2026-11-23T00:30:00+08:00",
+  "source": {
+   "name": "香港01",
+   "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413773/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89-%E6%94%AF%E6%8C%81%E6%9D%8E%E5%AE%B6%E8%B6%85%E9%80%A3%E4%BB%BB-%E6%B9%AF%E5%AE%B6%E9%A9%8A-%E8%A8%80%E4%B9%8B%E9%81%8E%E6%97%A9-%E8%91%89%E5%8A%89-%E4%B8%8D%E8%A9%95%E8%AB%96"
+  },
+  "summary": {
+   "en": "Newly elected Election Committee members have been asked about the next Chief Executive race and whether they will back John Lee for re-election. Legal sector member Ronny Tong said it was too early to discuss, adding he did not know whether Lee would run, and stressed the priority was choosing a suitable person rather than whether there was competition; he wants the next leader to handle national security, housing, the economy, welfare and healthcare, and to prioritise the Northern Metropolis. Executive Council convenor Regina Ip declined to comment on backing Lee, saying the next Chief Executive must push higher-level opening up and new quality productive forces; her New People's Party won 16 seats, giving it 20 Election Committee members in total, a result she said she was satisfied with.",
+   "zh_hans": "选委会界别分组选举结果出炉后，多名新当选选委被问到下届特首人选及会否支持李家超连任。法律界选委汤家骅表示，现阶段讨论言之尚早，「我都不知道他会不会出来选」，强调重点是选出合适的人而非有无竞争；他期望下届特首有能力处理国家安全、房屋、经济、社福及医疗等议题，优先推动北部都会区发展。行政会议召集人叶刘淑仪不评论会否支持李家超连任，指下届特首须推动更高水平对外开放、发展新质生产力，协助国家民族复兴走上更高阶；她又透露新民党今次取得16席，连同党内立法会议员及全国政协，合共有20名选委，对成绩感到满意。",
+   "zh_hant": "選委會界別分組選舉結果出爐後，多名新當選選委被問到下屆特首人選及會否支持李家超連任。法律界選委湯家驊表示，現階段討論言之尚早，「我都唔知道佢會唔會出嚟選」，強調重點是選出合適的人而非有無競爭；他期望下屆特首有能力處理國家安全、房屋、經濟、社福及醫療等議題，優先推動北部都會區發展。行政會議召集人葉劉淑儀不評論會否支持李家超連任，指下屆特首須推動更高水平對外開放、發展新質生產力，協助國家民族復興走上更高階；她又透露新民黨今次取得16席，連同黨內立法會議員及全國政協，合共有20名選委，對成績感到滿意。"
+  },
+  "tags": {
+   "en": [
+    "Election Committee election",
+    "Ronny Tong",
+    "Regina Ip"
+   ],
+   "zh_hans": [
+    "选委会选举",
+    "汤家骅",
+    "叶刘淑仪"
+   ],
+   "zh_hant": [
+    "選委會選舉",
+    "湯家驊",
+    "葉劉淑儀"
+   ]
+  },
+  "title": {
+   "en": "Asked About Backing Lee for Re-election, Ronny Tong Says It Is Too Early as Regina Ip Declines to Comment",
+   "zh_hans": "被问撑不撑李家超连任 汤家骅：言之尚早 叶刘不评论",
+   "zh_hant": "被問撐唔撐李家超連任 湯家驊：言之尚早 葉劉不評論"
+  },
+  "image_r2_key": "design/202611/20261123-election-committee-next-ce-views-v2-photo.jpg",
+  "image_caption": "立法會綜合大樓（資料圖片）。（圖片：Wikimedia Commons／Tksteven，CC BY-SA 3.0）"
  },
  {
   "category": "hk",
@@ -154,81 +232,5 @@
    "zh_hant": "大埔唐狗被吊死樹上 姊姊大義滅親報警拘胞弟"
   },
   "image_r2_key": "design/202611/20261123-tai-po-dog-hanging-man-arrested-v2.jpg"
- },
- {
-  "category": "hk",
-  "id": "20261123-election-committee-surprise-upsets-record-turnout",
-  "image_prompt": "香港選舉票站或點票中心內景，工作人員點票剪影，氣氛莊重，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「選委會選舉爆冷 陳家強等名人落選」，第二行黃色大字寫「投票率98.79%破紀錄」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-  "image_url": "",
-  "published_at": "2026-11-23T01:08:00+08:00",
-  "source": {
-   "name": "南華早報",
-   "url": "https://www.scmp.com/news/hong-kong/politics/article/3375354/hong-kong-election-committee-race-long-lines-polling-stations-voting-begins?pgtype=topic"
-  },
-  "summary": {
-   "en": "Hong Kong's Election Committee Subsector Ordinary Elections have delivered a string of surprise upsets, even as turnout hit a record 98.79 per cent, with 5,640 of 5,709 registered voters casting ballots for 723 seats contested by 856 candidates. Former secretary for financial services and the treasury Ceajer Chan Ka-keung lost his re-election bid in the finance subsector with 41 votes, two short of the 43 won by Citi Hong Kong chief Aveline San and banking institute chief Carrie Leung. Law Society president Roden Tong Man-lung lost in the legal subsector, and Hong Kong General Chamber of Commerce chief executive Patrick Yeung Wai-tim won only nine votes in commercial (first). In the Hong Kong and Kowloon district committees subsector, Wilson Or Chong-shing topped the poll with 1,244 votes, while the tourism and architectural, surveying, planning and landscape subsectors both needed lotteries to break ties. Electoral Affairs Commission chairman Justice David Lok described the count as smooth, and Chief Executive John Lee congratulated the winners, saying the election showed healthy competition among patriots.",
-   "zh_hans": "选委会界别分组一般选举结果出炉，投票率高达百分之九十八点七九，创历届新高，共有五千六百四十名选民投票，八百五十六名候选人竞逐七百二十三个席位。不过多名重量级人物意外落选，包括前财经事务及库务局局长陈家强在金融界仅得四十一票，以两票之差落败；律师会会长汤文龙在法律界亦以两票之微落选，总商会总裁杨伟添在商界（第一）仅得九票落选。港九分区委员会等三会界别，柯创盛以一千二百四十四票成为票王；旅游界及建筑、测量、都市规划及园境界出现同票，要抽签定胜负。选举管理委员会主席陆启康形容点票过程畅顺，行政长官李家超祝贺当选者，形容选举展现爱国者之间良性竞争。",
-   "zh_hant": "選委會界別分組一般選舉結果出爐，投票率高達百分之九十八點七九，創歷屆新高，共有五千六百四十名選民投票，八百五十六名候選人競逐七百二十三個席位。不過多名重量級人物意外落選，包括前財經事務及庫務局局長陳家強喺金融界僅得四十一票，以兩票之差落敗；律師會會長湯文龍喺法律界亦以兩票之微落選，總商會總裁楊偉添喺商界（第一）僅得九票落選。港九分區委員會等三會界別，柯創盛以一千二百四十四票成為票王；旅遊界及建築、測量、都市規劃及園境界出現同票，要抽籤定勝負。選舉管理委員會主席陸啟康形容點票過程暢順，行政長官李家超祝賀當選者，形容選舉展現愛國者之間良性競爭。"
-  },
-  "tags": {
-   "en": [
-    "Election Committee election",
-    "Ceajer Chan",
-    "turnout"
-   ],
-   "zh_hans": [
-    "选委会选举",
-    "陈家强",
-    "投票率"
-   ],
-   "zh_hant": [
-    "選委會選舉",
-    "陳家強",
-    "投票率"
-   ]
-  },
-  "title": {
-   "en": "Election Committee Poll Sees Surprise Losses for Heavyweights as Turnout Hits Record 98.79%",
-   "zh_hans": "选委会选举爆冷 陈家强等名人落选 投票率98.79%破纪录",
-   "zh_hant": "選委會選舉爆冷 陳家強等名人落選 投票率98.79%破紀錄"
-  }
- },
- {
-  "category": "hk",
-  "id": "20261123-election-committee-next-ce-views",
-  "image_prompt": "選舉委員會點票中心或會議廳內景，莊重大氣，人物用背影或剪影，不要畫出可辨認的具體人臉，不要畫政府總部或立法會大樓外景，不要畫任何大樓招牌。電視新聞圖卡風格，16:9，畫面光猛明亮。標題只可以分兩行大字直接壓在畫面上，絕對唔可以有第三行文字：第一行白色大字寫「被問撐唔撐李家超連任」，第二行黃色大字寫「湯家驊：言之尚早 葉劉不評論」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-  "image_url": "",
-  "published_at": "2026-11-23T00:30:00+08:00",
-  "source": {
-   "name": "香港01",
-   "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413773/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89-%E6%94%AF%E6%8C%81%E6%9D%8E%E5%AE%B6%E8%B6%85%E9%80%A3%E4%BB%BB-%E6%B9%AF%E5%AE%B6%E9%A9%8A-%E8%A8%80%E4%B9%8B%E9%81%8E%E6%97%A9-%E8%91%89%E5%8A%89-%E4%B8%8D%E8%A9%95%E8%AB%96"
-  },
-  "summary": {
-   "en": "Newly elected Election Committee members have been asked about the next Chief Executive race and whether they will back John Lee for re-election. Legal sector member Ronny Tong said it was too early to discuss, adding he did not know whether Lee would run, and stressed the priority was choosing a suitable person rather than whether there was competition; he wants the next leader to handle national security, housing, the economy, welfare and healthcare, and to prioritise the Northern Metropolis. Executive Council convenor Regina Ip declined to comment on backing Lee, saying the next Chief Executive must push higher-level opening up and new quality productive forces; her New People's Party won 16 seats, giving it 20 Election Committee members in total, a result she said she was satisfied with.",
-   "zh_hans": "选委会界别分组选举结果出炉后，多名新当选选委被问到下届特首人选及会否支持李家超连任。法律界选委汤家骅表示，现阶段讨论言之尚早，「我都不知道他会不会出来选」，强调重点是选出合适的人而非有无竞争；他期望下届特首有能力处理国家安全、房屋、经济、社福及医疗等议题，优先推动北部都会区发展。行政会议召集人叶刘淑仪不评论会否支持李家超连任，指下届特首须推动更高水平对外开放、发展新质生产力，协助国家民族复兴走上更高阶；她又透露新民党今次取得16席，连同党内立法会议员及全国政协，合共有20名选委，对成绩感到满意。",
-   "zh_hant": "選委會界別分組選舉結果出爐後，多名新當選選委被問到下屆特首人選及會否支持李家超連任。法律界選委湯家驊表示，現階段討論言之尚早，「我都唔知道佢會唔會出嚟選」，強調重點是選出合適的人而非有無競爭；他期望下屆特首有能力處理國家安全、房屋、經濟、社福及醫療等議題，優先推動北部都會區發展。行政會議召集人葉劉淑儀不評論會否支持李家超連任，指下屆特首須推動更高水平對外開放、發展新質生產力，協助國家民族復興走上更高階；她又透露新民黨今次取得16席，連同黨內立法會議員及全國政協，合共有20名選委，對成績感到滿意。"
-  },
-  "tags": {
-   "en": [
-    "Election Committee election",
-    "Ronny Tong",
-    "Regina Ip"
-   ],
-   "zh_hans": [
-    "选委会选举",
-    "汤家骅",
-    "叶刘淑仪"
-   ],
-   "zh_hant": [
-    "選委會選舉",
-    "湯家驊",
-    "葉劉淑儀"
-   ]
-  },
-  "title": {
-   "en": "Asked About Backing Lee for Re-election, Ronny Tong Says It Is Too Early as Regina Ip Declines to Comment",
-   "zh_hans": "被问撑不撑李家超连任 汤家骅：言之尚早 叶刘不评论",
-   "zh_hant": "被問撐唔撐李家超連任 湯家驊：言之尚早 葉劉不評論"
-  }
  }
 ]
