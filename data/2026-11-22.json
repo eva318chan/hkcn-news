@@ -39,6 +39,84 @@
   },
   {
     "category": "hk",
+    "id": "20261122-election-turnout-1000-4474-percent",
+    "published_at": "2026-11-22T10:25:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878751-20261122.htm"
+    },
+    "summary": {
+      "en": "Voting in the Election Committee Subsector Ordinary Elections began at 9am today, with 2,554 ballots cast by 10am — a turnout of 44.74% out of 5,709 registered voters. The Commercial (third) subsector led with 98.23%, while grassroots associations and area committee representatives also topped 50%. Officials and lawmakers visited polling stations in the morning and urged eligible voters to cast their ballots. Polls close at 6pm, with 31 subsectors contested.",
+      "zh_hans": "选举委员会界别分组一般选举今早9时开始投票，截至早上10时累计2,554人投票，投票率44.74%，总选民人数5,709人。商界（第三界别）投票率最高达98.23%，基层社团及地区委员会代表界别亦超过五成。投票过程大致顺畅，多名官员及立法会议员早上到票站视察及投票，呼吁合资格选民踊跃投票。投票将于今晚6时结束，31个界别需要竞逐。",
+      "zh_hant": "選舉委員會界別分組一般選舉今早9時開始投票，截至早上10時累計2,554人投票，投票率44.74%，總選民人數5,709人。商界（第三界別）投票率最高達98.23%，基層社團及地區委員會代表界別亦超過五成。投票過程大致順暢，多名官員及立法會議員早上到票站視察及投票，呼籲合資格選民踴躍投票。投票將於今晚6時結束，31個界別需要競逐。"
+    },
+    "tags": {
+      "en": [
+        "Election Committee",
+        "subsector elections",
+        "voter turnout"
+      ],
+      "zh_hans": [
+        "选举委员会",
+        "界别分组选举",
+        "投票率"
+      ],
+      "zh_hant": [
+        "選舉委員會",
+        "界別分組選舉",
+        "投票率"
+      ]
+    },
+    "title": {
+      "en": "Election Committee Polls: 44.74% Turnout by 10am as 2,554 Voters Cast Ballots",
+      "zh_hans": "选委会选举投票率出炉 截至早上10时44.74% 逾2,500人已投票",
+      "zh_hant": "選委會選舉投票率出爐 截至早上10時44.74% 逾2,500人已投票"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-election-turnout-1000-4474-percent-v2.jpg",
+    "image_prompt": "選舉委員會界別分組一般選舉投票日，票站內選民排隊投票的場景，投票箱和工作人員協助選民，氣氛莊重有序，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『選委會選舉投票率44.74%』，第二行黃色大字寫『早上10時逾2,500人已投票』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+    "image_r2_key": "design/202611/20261122-election-turnout-1000-4474-percent-v2.jpg"
+  },
+  {
+    "category": "china",
+    "id": "20261122-china-opposes-us-telecom-number-ban",
+    "published_at": "2026-11-22T10:16:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878750-20261122.htm"
+    },
+    "summary": {
+      "en": "China's Ministry of Commerce has hit back at a US plan to bar Chinese telecom operators from directly obtaining US internet telephone number resources, accusing Washington of abusing regulatory power and overstating national security risks without factual basis, in violation of non-discrimination and fair competition principles. The spokesperson said the US Federal Communications Commission has been pushing decoupling in telecoms, communications and testing certification, going against the consensus reached by the two countries' leaders and undermining trade stability. Beijing urged Washington to withdraw the measures immediately and return to resolving issues through consultation.",
+      "zh_hans": "商务部就美国计划禁止中国电信运营商直接获取美国互联网电话号码资源作出回应，发言人批评美方滥用监管权力、泛化国家安全风险，在缺乏事实依据下违反非歧视和公平竞争原则，肆意打压中国电信企业在美运营。发言人指出，美国联邦通讯委员会近期持续推动中美在电信、通信和检测认证方面脱钩断链，违背两国元首达成的重要共识，破坏中美经贸稳定局面，中方坚决反对，并敦促美方立即撤销有关措施，回到通过磋商解决问题的正确道路上。",
+      "zh_hant": "商務部就美國計劃禁止中國電信運營商直接獲取美國互聯網電話號碼資源作出回應，發言人批評美方濫用監管權力、泛化國家安全風險，在缺乏事實依據下違反非歧視和公平競爭原則，肆意打壓中國電信企業在美運營。發言人指出，美國聯邦通訊委員會近期持續推動中美在電信、通信和檢測認證方面脫鉤斷鏈，違背兩國元首達成的重要共識，破壞中美經貿穩定局面，中方堅決反對，並敦促美方立即撤銷有關措施，回到通過磋商解決問題的正確道路上。"
+    },
+    "tags": {
+      "en": [
+        "China-US relations",
+        "telecom",
+        "Commerce Ministry"
+      ],
+      "zh_hans": [
+        "中美关系",
+        "电信",
+        "商务部"
+      ],
+      "zh_hant": [
+        "中美關係",
+        "電信",
+        "商務部"
+      ]
+    },
+    "title": {
+      "en": "Beijing Slams US Plan to Bar Chinese Telecom Carriers from US Phone Numbers",
+      "zh_hans": "中方强烈反对美方拟禁中国电信商取号 促立即撤销措施",
+      "zh_hant": "中方強烈反對美方擬禁中國電信商取號 促立即撤銷措施"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-china-opposes-us-telecom-number-ban-v2.jpg",
+    "image_prompt": "中美電信議題場景：現代通訊基站和光纖網絡，城市天際線，科技感藍色調，畫面明亮。電視新聞圖卡風格，16:9。標題分兩行大字直接壓在畫面上：第一行白色大字寫『中方強烈反對美方擬禁中國電信商取號』，第二行黃色大字寫『促立即撤銷措施』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+    "image_r2_key": "design/202611/20261122-china-opposes-us-telecom-number-ban-v2.jpg"
+  },
+  {
+    "category": "hk",
     "id": "20261122-customs-methamphetamine-mexico-mold-7m",
     "published_at": "2026-11-22T10:10:00+08:00",
     "source": {
@@ -74,6 +152,123 @@
     },
     "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-customs-methamphetamine-mexico-mold-7m.jpg",
     "image_r2_key": "design/202611/20261122-customs-methamphetamine-mexico-mold-7m.jpg"
+  },
+  {
+    "category": "world",
+    "id": "20261122-france-sixth-saturday-protests",
+    "published_at": "2026-11-22T10:00:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878748-20261122.htm"
+    },
+    "summary": {
+      "en": "Protesters took to the streets in Paris and across France on Saturday, the sixth consecutive Saturday of demonstrations since cost-of-living protests turned into riots on October 17 — but crowds hit a new low. The Interior Ministry put turnout at just over 82,000 nationwide, while unions organising the marches claimed 150,000; the government deployed 70,000 police and gendarmes. The October 17 protests drew an estimated 550,000 people by official count, 800,000 by organisers, with riots in Paris and other cities and at least 3,000 shops damaged; turnout peaked at 575,000 on November 5 before falling back.",
+      "zh_hans": "法国巴黎等多处民众星期六举行新的示威游行，是自上月17日抗议生活成本高企酿成骚乱以来，连续第六个周六有示威活动，但规模创新低。内政部表示全国共有8万2千多人上街，组织游行的工会则称有15万人；政府部署7万名警察和宪兵维持秩序。法国上月17日的全国性示威，政府估计约55万人参与，组织单位则称80万人，巴黎等部分城市酿成骚乱，官方统计全国至少3,000间商店遭破坏；之后每个星期六都有示威，本月5日规模达到57.5万人高峰后回落。",
+      "zh_hant": "法國巴黎等多處民眾星期六舉行新的示威遊行，是自上月17日抗議生活成本高企釀成騷亂以來，連續第六個周六有示威活動，但規模創新低。內政部表示全國共有8萬2千多人上街，組織遊行的工會則稱有15萬人；政府部署7萬名警察和憲兵維持秩序。法國上月17日的全國性示威，政府估計約55萬人參與，組織單位則稱80萬人，巴黎等部分城市釀成騷亂，官方統計全國至少3,000間商店遭破壞；之後每個星期六都有示威，本月5日規模達到57.5萬人高峰後回落。"
+    },
+    "tags": {
+      "en": [
+        "France",
+        "protests",
+        "cost of living"
+      ],
+      "zh_hans": [
+        "法国",
+        "示威",
+        "生活成本"
+      ],
+      "zh_hant": [
+        "法國",
+        "示威",
+        "生活成本"
+      ]
+    },
+    "title": {
+      "en": "France Sees Sixth Straight Saturday of Protests but Crowds Hit New Low",
+      "zh_hans": "法国连续第六个周六爆示威 规模创新低 逾8万人上街",
+      "zh_hant": "法國連續第六個周六爆示威 規模創新低 逾8萬人上街"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-france-sixth-saturday-protests-v2.jpg",
+    "image_prompt": "法國巴黎街頭示威場景：大批市民在寬闊大道上遊行，遠處是巴黎建築，旗幟和標語牌但標語牌上不要寫任何文字，警員在旁維持秩序，人物用背影或遠景，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『法國連續第六個周六爆示威』，第二行黃色大字寫『規模創新低逾8萬人上街』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+    "image_r2_key": "design/202611/20261122-france-sixth-saturday-protests-v2.jpg"
+  },
+  {
+    "category": "hk",
+    "id": "20261122-weather-cooler-midweek-showers",
+    "published_at": "2026-11-22T09:09:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878743-20261122.htm"
+    },
+    "summary": {
+      "en": "The Observatory says a fresh to strong easterly airstream will affect the south China coast over the next two days, bringing more cloud and a slight rise in temperatures. A northeast monsoon is expected to reach the region on Tuesday, bringing cooler weather and a few showers midweek, before easing later in the week as skies clear and temperatures recover along the Guangdong coast.",
+      "zh_hans": "天文台表示，一股清劲至强风程度的偏东气流会在今明两日影响华南沿岸，该区云量增多，气温略为回升。预料东北季候风星期二抵达华南沿岸，本周中期该区气温下降及有几阵雨；季候风本周后期稍为缓和，广东沿岸天色好转，气温回升。",
+      "zh_hant": "天文台表示，一股清勁至強風程度的偏東氣流會在今明兩日影響華南沿岸，該區雲量增多，氣溫略為回升。預料東北季候風星期二抵達華南沿岸，本周中期該區氣溫下降及有幾陣雨；季候風本周後期稍為緩和，廣東沿岸天色好轉，氣溫回升。"
+    },
+    "tags": {
+      "en": [
+        "Observatory",
+        "weather",
+        "monsoon"
+      ],
+      "zh_hans": [
+        "天文台",
+        "天气",
+        "季候风"
+      ],
+      "zh_hant": [
+        "天文台",
+        "天氣",
+        "季候風"
+      ]
+    },
+    "title": {
+      "en": "Cooler Weather Ahead as Northeast Monsoon Brings Showers to South China Coast Midweek",
+      "zh_hans": "天文台预告周中期转凉 华南沿岸气温下降兼有几阵雨",
+      "zh_hant": "天文台預告周中期轉涼 華南沿岸氣溫下降兼有幾陣雨"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-weather-cooler-midweek-showers-v2.jpg",
+    "image_prompt": "華南沿岸天氣場景：維多利亞港上空雲層變化，遠處高樓，市民帶備雨具在海旁行走，風吹動樹木。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『天文台預告周中期轉涼』，第二行黃色大字寫『氣溫下降兼有幾陣雨』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+    "image_r2_key": "design/202611/20261122-weather-cooler-midweek-showers-v2.jpg"
+  },
+  {
+    "category": "china",
+    "id": "20261122-shanghai-two-japanese-restaurant-death",
+    "published_at": "2026-11-22T08:47:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878742-20261122.htm"
+    },
+    "summary": {
+      "en": "Two Japanese men clashed at a restaurant in Shanghai, leaving one dead and the other arrested. Kyodo News reported the incident happened on November 18; both men are in their 50s and are friends. The two were attending a gathering at the restaurant when a dispute broke out, and one may have used violence against the other. The arrested man used to live in Shanghai but now resides in Japan and had travelled to China for the gathering; the deceased lived in Shanghai.",
+      "zh_hans": "两名日本人在上海一间餐厅发生冲突，其中一人死亡，另一人被捕。据共同社报道，事件在本月18日发生，两人都是50多岁的男性，是朋友关系。据了解，两人到访涉事餐厅出席聚会期间突然发生纠纷，其中一人可能对另一人实施暴力行为。报道说，被捕男子曾经在上海居住，现时在日本生活，今次为参加餐厅举办的聚会而赴华；死者则住在上海。",
+      "zh_hant": "兩名日本人在上海一間餐廳發生衝突，其中一人死亡，另一人被捕。據共同社報道，事件在本月18日發生，兩人都是50多歲的男性，是朋友關係。據了解，兩人到訪涉事餐廳出席聚會期間突然發生糾紛，其中一人可能對另一人實施暴力行為。報道說，被捕男子曾經在上海居住，現時在日本生活，今次為參加餐廳舉辦的聚會而赴華；死者則住在上海。"
+    },
+    "tags": {
+      "en": [
+        "Shanghai",
+        "Japan",
+        "homicide"
+      ],
+      "zh_hans": [
+        "上海",
+        "日本",
+        "命案"
+      ],
+      "zh_hant": [
+        "上海",
+        "日本",
+        "命案"
+      ]
+    },
+    "title": {
+      "en": "Two Japanese Men Clash at Shanghai Restaurant Leaving One Dead and One Arrested",
+      "zh_hans": "上海餐厅两日本人冲突酿命案 一人死亡一人被捕",
+      "zh_hant": "上海餐廳兩日本人衝突釀命案 一人死亡一人被捕"
+    },
+    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-shanghai-two-japanese-restaurant-death-v2.jpg",
+    "image_prompt": "上海街頭餐廳外景，夜晚燈光，街道和餐廳招牌，氣氛平靜，沒有人物特寫。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『上海餐廳兩日本人衝突釀命案』，第二行黃色大字寫『一人死亡一人被捕』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+    "image_r2_key": "design/202611/20261122-shanghai-two-japanese-restaurant-death-v2.jpg"
   },
   {
     "category": "hk",
@@ -424,195 +619,5 @@
     },
     "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-election-committee-subsector-voting-day.jpg",
     "image_r2_key": "design/202611/20261122-election-committee-subsector-voting-day.jpg"
-  },
-  {
-    "category": "hk",
-    "id": "20261122-election-turnout-1000-4474-percent",
-    "published_at": "2026-11-22T10:25:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878751-20261122.htm"
-    },
-    "summary": {
-      "en": "Voting in the Election Committee Subsector Ordinary Elections began at 9am today, with 2,554 ballots cast by 10am — a turnout of 44.74% out of 5,709 registered voters. The Commercial (third) subsector led with 98.23%, while grassroots associations and area committee representatives also topped 50%. Officials and lawmakers visited polling stations in the morning and urged eligible voters to cast their ballots. Polls close at 6pm, with 31 subsectors contested.",
-      "zh_hans": "选举委员会界别分组一般选举今早9时开始投票，截至早上10时累计2,554人投票，投票率44.74%，总选民人数5,709人。商界（第三界别）投票率最高达98.23%，基层社团及地区委员会代表界别亦超过五成。投票过程大致顺畅，多名官员及立法会议员早上到票站视察及投票，呼吁合资格选民踊跃投票。投票将于今晚6时结束，31个界别需要竞逐。",
-      "zh_hant": "選舉委員會界別分組一般選舉今早9時開始投票，截至早上10時累計2,554人投票，投票率44.74%，總選民人數5,709人。商界（第三界別）投票率最高達98.23%，基層社團及地區委員會代表界別亦超過五成。投票過程大致順暢，多名官員及立法會議員早上到票站視察及投票，呼籲合資格選民踴躍投票。投票將於今晚6時結束，31個界別需要競逐。"
-    },
-    "tags": {
-      "en": [
-        "Election Committee",
-        "subsector elections",
-        "voter turnout"
-      ],
-      "zh_hans": [
-        "选举委员会",
-        "界别分组选举",
-        "投票率"
-      ],
-      "zh_hant": [
-        "選舉委員會",
-        "界別分組選舉",
-        "投票率"
-      ]
-    },
-    "title": {
-      "en": "Election Committee Polls: 44.74% Turnout by 10am as 2,554 Voters Cast Ballots",
-      "zh_hans": "选委会选举投票率出炉 截至早上10时44.74% 逾2,500人已投票",
-      "zh_hant": "選委會選舉投票率出爐 截至早上10時44.74% 逾2,500人已投票"
-    },
-    "image_url": "",
-    "image_prompt": "選舉委員會界別分組一般選舉投票日，票站內選民排隊投票的場景，投票箱和工作人員協助選民，氣氛莊重有序，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『選委會選舉投票率44.74%』，第二行黃色大字寫『早上10時逾2,500人已投票』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。"
-  },
-  {
-    "category": "china",
-    "id": "20261122-china-opposes-us-telecom-number-ban",
-    "published_at": "2026-11-22T10:16:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878750-20261122.htm"
-    },
-    "summary": {
-      "en": "China's Ministry of Commerce has hit back at a US plan to bar Chinese telecom operators from directly obtaining US internet telephone number resources, accusing Washington of abusing regulatory power and overstating national security risks without factual basis, in violation of non-discrimination and fair competition principles. The spokesperson said the US Federal Communications Commission has been pushing decoupling in telecoms, communications and testing certification, going against the consensus reached by the two countries' leaders and undermining trade stability. Beijing urged Washington to withdraw the measures immediately and return to resolving issues through consultation.",
-      "zh_hans": "商务部就美国计划禁止中国电信运营商直接获取美国互联网电话号码资源作出回应，发言人批评美方滥用监管权力、泛化国家安全风险，在缺乏事实依据下违反非歧视和公平竞争原则，肆意打压中国电信企业在美运营。发言人指出，美国联邦通讯委员会近期持续推动中美在电信、通信和检测认证方面脱钩断链，违背两国元首达成的重要共识，破坏中美经贸稳定局面，中方坚决反对，并敦促美方立即撤销有关措施，回到通过磋商解决问题的正确道路上。",
-      "zh_hant": "商務部就美國計劃禁止中國電信運營商直接獲取美國互聯網電話號碼資源作出回應，發言人批評美方濫用監管權力、泛化國家安全風險，在缺乏事實依據下違反非歧視和公平競爭原則，肆意打壓中國電信企業在美運營。發言人指出，美國聯邦通訊委員會近期持續推動中美在電信、通信和檢測認證方面脫鉤斷鏈，違背兩國元首達成的重要共識，破壞中美經貿穩定局面，中方堅決反對，並敦促美方立即撤銷有關措施，回到通過磋商解決問題的正確道路上。"
-    },
-    "tags": {
-      "en": [
-        "China-US relations",
-        "telecom",
-        "Commerce Ministry"
-      ],
-      "zh_hans": [
-        "中美关系",
-        "电信",
-        "商务部"
-      ],
-      "zh_hant": [
-        "中美關係",
-        "電信",
-        "商務部"
-      ]
-    },
-    "title": {
-      "en": "Beijing Slams US Plan to Bar Chinese Telecom Carriers from US Phone Numbers",
-      "zh_hans": "中方强烈反对美方拟禁中国电信商取号 促立即撤销措施",
-      "zh_hant": "中方強烈反對美方擬禁中國電信商取號 促立即撤銷措施"
-    },
-    "image_url": "",
-    "image_prompt": "中美電信議題場景：現代通訊基站和光纖網絡，城市天際線，科技感藍色調，畫面明亮。電視新聞圖卡風格，16:9。標題分兩行大字直接壓在畫面上：第一行白色大字寫『中方強烈反對美方擬禁中國電信商取號』，第二行黃色大字寫『促立即撤銷措施』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。"
-  },
-  {
-    "category": "world",
-    "id": "20261122-france-sixth-saturday-protests",
-    "published_at": "2026-11-22T10:00:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878748-20261122.htm"
-    },
-    "summary": {
-      "en": "Protesters took to the streets in Paris and across France on Saturday, the sixth consecutive Saturday of demonstrations since cost-of-living protests turned into riots on October 17 — but crowds hit a new low. The Interior Ministry put turnout at just over 82,000 nationwide, while unions organising the marches claimed 150,000; the government deployed 70,000 police and gendarmes. The October 17 protests drew an estimated 550,000 people by official count, 800,000 by organisers, with riots in Paris and other cities and at least 3,000 shops damaged; turnout peaked at 575,000 on November 5 before falling back.",
-      "zh_hans": "法国巴黎等多处民众星期六举行新的示威游行，是自上月17日抗议生活成本高企酿成骚乱以来，连续第六个周六有示威活动，但规模创新低。内政部表示全国共有8万2千多人上街，组织游行的工会则称有15万人；政府部署7万名警察和宪兵维持秩序。法国上月17日的全国性示威，政府估计约55万人参与，组织单位则称80万人，巴黎等部分城市酿成骚乱，官方统计全国至少3,000间商店遭破坏；之后每个星期六都有示威，本月5日规模达到57.5万人高峰后回落。",
-      "zh_hant": "法國巴黎等多處民眾星期六舉行新的示威遊行，是自上月17日抗議生活成本高企釀成騷亂以來，連續第六個周六有示威活動，但規模創新低。內政部表示全國共有8萬2千多人上街，組織遊行的工會則稱有15萬人；政府部署7萬名警察和憲兵維持秩序。法國上月17日的全國性示威，政府估計約55萬人參與，組織單位則稱80萬人，巴黎等部分城市釀成騷亂，官方統計全國至少3,000間商店遭破壞；之後每個星期六都有示威，本月5日規模達到57.5萬人高峰後回落。"
-    },
-    "tags": {
-      "en": [
-        "France",
-        "protests",
-        "cost of living"
-      ],
-      "zh_hans": [
-        "法国",
-        "示威",
-        "生活成本"
-      ],
-      "zh_hant": [
-        "法國",
-        "示威",
-        "生活成本"
-      ]
-    },
-    "title": {
-      "en": "France Sees Sixth Straight Saturday of Protests but Crowds Hit New Low",
-      "zh_hans": "法国连续第六个周六爆示威 规模创新低 逾8万人上街",
-      "zh_hant": "法國連續第六個周六爆示威 規模創新低 逾8萬人上街"
-    },
-    "image_url": "",
-    "image_prompt": "法國巴黎街頭示威場景：大批市民在寬闊大道上遊行，遠處是巴黎建築，旗幟和標語牌但標語牌上不要寫任何文字，警員在旁維持秩序，人物用背影或遠景，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『法國連續第六個周六爆示威』，第二行黃色大字寫『規模創新低逾8萬人上街』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。"
-  },
-  {
-    "category": "hk",
-    "id": "20261122-weather-cooler-midweek-showers",
-    "published_at": "2026-11-22T09:09:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878743-20261122.htm"
-    },
-    "summary": {
-      "en": "The Observatory says a fresh to strong easterly airstream will affect the south China coast over the next two days, bringing more cloud and a slight rise in temperatures. A northeast monsoon is expected to reach the region on Tuesday, bringing cooler weather and a few showers midweek, before easing later in the week as skies clear and temperatures recover along the Guangdong coast.",
-      "zh_hans": "天文台表示，一股清劲至强风程度的偏东气流会在今明两日影响华南沿岸，该区云量增多，气温略为回升。预料东北季候风星期二抵达华南沿岸，本周中期该区气温下降及有几阵雨；季候风本周后期稍为缓和，广东沿岸天色好转，气温回升。",
-      "zh_hant": "天文台表示，一股清勁至強風程度的偏東氣流會在今明兩日影響華南沿岸，該區雲量增多，氣溫略為回升。預料東北季候風星期二抵達華南沿岸，本周中期該區氣溫下降及有幾陣雨；季候風本周後期稍為緩和，廣東沿岸天色好轉，氣溫回升。"
-    },
-    "tags": {
-      "en": [
-        "Observatory",
-        "weather",
-        "monsoon"
-      ],
-      "zh_hans": [
-        "天文台",
-        "天气",
-        "季候风"
-      ],
-      "zh_hant": [
-        "天文台",
-        "天氣",
-        "季候風"
-      ]
-    },
-    "title": {
-      "en": "Cooler Weather Ahead as Northeast Monsoon Brings Showers to South China Coast Midweek",
-      "zh_hans": "天文台预告周中期转凉 华南沿岸气温下降兼有几阵雨",
-      "zh_hant": "天文台預告周中期轉涼 華南沿岸氣溫下降兼有幾陣雨"
-    },
-    "image_url": "",
-    "image_prompt": "華南沿岸天氣場景：維多利亞港上空雲層變化，遠處高樓，市民帶備雨具在海旁行走，風吹動樹木。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『天文台預告周中期轉涼』，第二行黃色大字寫『氣溫下降兼有幾陣雨』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。"
-  },
-  {
-    "category": "china",
-    "id": "20261122-shanghai-two-japanese-restaurant-death",
-    "published_at": "2026-11-22T08:47:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878742-20261122.htm"
-    },
-    "summary": {
-      "en": "Two Japanese men clashed at a restaurant in Shanghai, leaving one dead and the other arrested. Kyodo News reported the incident happened on November 18; both men are in their 50s and are friends. The two were attending a gathering at the restaurant when a dispute broke out, and one may have used violence against the other. The arrested man used to live in Shanghai but now resides in Japan and had travelled to China for the gathering; the deceased lived in Shanghai.",
-      "zh_hans": "两名日本人在上海一间餐厅发生冲突，其中一人死亡，另一人被捕。据共同社报道，事件在本月18日发生，两人都是50多岁的男性，是朋友关系。据了解，两人到访涉事餐厅出席聚会期间突然发生纠纷，其中一人可能对另一人实施暴力行为。报道说，被捕男子曾经在上海居住，现时在日本生活，今次为参加餐厅举办的聚会而赴华；死者则住在上海。",
-      "zh_hant": "兩名日本人在上海一間餐廳發生衝突，其中一人死亡，另一人被捕。據共同社報道，事件在本月18日發生，兩人都是50多歲的男性，是朋友關係。據了解，兩人到訪涉事餐廳出席聚會期間突然發生糾紛，其中一人可能對另一人實施暴力行為。報道說，被捕男子曾經在上海居住，現時在日本生活，今次為參加餐廳舉辦的聚會而赴華；死者則住在上海。"
-    },
-    "tags": {
-      "en": [
-        "Shanghai",
-        "Japan",
-        "homicide"
-      ],
-      "zh_hans": [
-        "上海",
-        "日本",
-        "命案"
-      ],
-      "zh_hant": [
-        "上海",
-        "日本",
-        "命案"
-      ]
-    },
-    "title": {
-      "en": "Two Japanese Men Clash at Shanghai Restaurant Leaving One Dead and One Arrested",
-      "zh_hans": "上海餐厅两日本人冲突酿命案 一人死亡一人被捕",
-      "zh_hant": "上海餐廳兩日本人衝突釀命案 一人死亡一人被捕"
-    },
-    "image_url": "",
-    "image_prompt": "上海街頭餐廳外景，夜晚燈光，街道和餐廳招牌，氣氛平靜，沒有人物特寫。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『上海餐廳兩日本人衝突釀命案』，第二行黃色大字寫『一人死亡一人被捕』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。"
   }
 ]
