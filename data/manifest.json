@@ -2,15 +2,15 @@
  "dates": [
   {
    "date": "2026-11-23",
-   "count": 5
+   "count": 6
   },
   {
    "date": "2026-11-22",
-   "count": 46
+   "count": 48
   },
   {
    "date": "2026-11-21",
-   "count": 71
+   "count": 72
   },
   {
    "count": 75,
@@ -262,5 +262,5 @@
   }
  ],
  "site_url": "https://hkcnexpress.com",
- "updated_at": "2026-11-23T03:11:39.071259+08:00"
+ "updated_at": "2026-11-23T04:47:22.237242+08:00"
 }
