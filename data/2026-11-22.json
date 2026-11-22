@@ -1,1438 +1,1552 @@
 [
-  {
-    "category": "hk",
-    "id": "20261122-chp-meningococcal-case-74yo-man",
-    "published_at": "2026-11-22T20:35:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200580.htm"
-    },
-    "summary": {
-      "en": "The Centre for Health Protection is investigating a case of invasive meningococcal infection involving a 74-year-old man with underlying illness. He developed a fever and malaise on November 19, saw a private doctor the next day and was admitted to Kwong Wah Hospital the same day as his condition worsened; he is now stable and his cerebrospinal fluid tested positive for meningococcus, with a clinical diagnosis of meningitis. He had no travel history during the incubation period, his family members are asymptomatic and have been given preventive drugs, and the case is believed to be sporadic. Six cases have been recorded so far this year, against 11 last year.",
-      "zh_hans": "卫生署卫生防护中心今日调查一宗侵入性脑膜炎双球菌感染个案，患者是一名74岁、有长期病患的男子，11月19日起发烧及不适，翌日到私家医生求诊，同日病情恶化送入广华医院，现时情况稳定，脑脊液样本验出脑膜炎双球菌，临床诊断为脑膜炎。初步调查显示患者潜伏期内没有外游纪录，家人暂无病征并已获处方预防药物，中心认为属散发病例，今年至今共录得6宗，去年全年有11宗。",
-      "zh_hant": "衞生署衞生防護中心今日調查一宗侵入性腦膜炎雙球菌感染個案，患者是一名74歲、有長期病患的男子，11月19日起發燒及不適，翌日到私家醫生求診，同日病情惡化送入廣華醫院，現時情況穩定，腦脊液樣本驗出腦膜炎雙球菌，臨床診斷為腦膜炎。初步調查顯示患者潛伏期內沒有外遊紀錄，家人暫無病徵並已獲處方預防藥物，中心認為屬散發個案，今年至今共錄得6宗，去年全年有11宗。"
-    },
-    "tags": {
-      "en": [
-        "meningococcal infection",
-        "Centre for Health Protection",
-        "Kwong Wah Hospital"
-      ],
-      "zh_hans": [
-        "脑膜炎双球菌",
-        "卫生防护中心",
-        "广华医院"
-      ],
-      "zh_hant": [
-        "腦膜炎雙球菌",
-        "衞生防護中心",
-        "廣華醫院"
-      ]
-    },
-    "title": {
-      "en": "74-Year-Old Man Hospitalised With Meningococcal Meningitis, Sixth Case This Year",
-      "zh_hans": "74岁翁染脑膜炎双球菌入院 今年第6宗",
-      "zh_hant": "74歲翁染腦膜炎雙球菌入院 今年第6宗"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-chp-meningococcal-case-74yo-man-v2.jpg",
-    "image_prompt": "衞生防護中心調查侵入性腦膜炎雙球菌感染個案，醫院病房走廊場景，醫護人員剪影，氣氛冷靜專業，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「74歲翁染腦膜炎雙球菌入院」，第二行黃色大字寫「今年第6宗」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-chp-meningococcal-case-74yo-man-v2.jpg"
+ {
+  "category": "hk",
+  "id": "20261122-chp-meningococcal-case-74yo-man",
+  "published_at": "2026-11-22T20:35:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200580.htm"
   },
-  {
-    "category": "hk",
-    "id": "20261122-asian-ethnic-cultural-performances-30-countries",
-    "published_at": "2026-11-22T19:26:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200307.htm"
-    },
-    "summary": {
-      "en": "The grand finale outdoor carnival of the Asia+ Festival 2026, \"Asian Ethnic Cultural Performances+\", was held this afternoon at the Hong Kong Cultural Centre Piazza and Foyer, with around 30 Belt and Road countries and regions presenting their diverse cultures through ethnic music, dance, handicrafts and signature snacks, attracting over 33,000 members of the public and tourists. Secretary for Culture, Sports and Tourism Rosanna Law said the festival provides a platform for artistic exchanges and reaffirms Hong Kong's role as an East-meets-West centre for international cultural exchanges. The \"Convergence of Cross-Cultural Gifting - Ethnic Cultural Exhibition\" runs at the Cultural Centre Foyer until November 29.",
-      "zh_hans": "亚洲＋艺术节2026压轴户外嘉年华「亚裔艺采＋」今日下午在香港文化中心露天广场及大堂举行，约30个「一带一路」国家及地区以民族音乐、舞蹈、手工艺及特色小食展示多元文化，吸引逾3.3万名市民及旅客参与。文化体育及旅游局局长罗淑佩致辞时表示，艺术节致力为香港提供艺术交流平台，彰显香港作为中外文化艺术交流中心的重要角色。文化展览「融汇．交织——民族文化展」即日起至11月29日在文化中心大堂展出。",
-      "zh_hant": "亞洲＋藝術節2026壓軸戶外嘉年華「亞裔藝采＋」今日下午在香港文化中心露天廣場及大堂舉行，約30個「一帶一路」國家及地區以民族音樂、舞蹈、手工藝及特色小食展示多元文化，吸引逾3.3萬名市民及旅客參與。文化體育及旅遊局局長羅淑佩致辭時表示，藝術節致力為香港提供藝術交流平台，彰顯香港作為中外文化藝術交流中心的重要角色。文化展覽「融匯．交織——民族文化展」即日起至11月29日在文化中心大堂展出。"
-    },
-    "tags": {
-      "en": [
-        "Asian Ethnic Cultural Performances",
-        "Asia+ Festival",
-        "Hong Kong Cultural Centre"
-      ],
-      "zh_hans": [
-        "亚裔艺采",
-        "亚洲＋艺术节",
-        "香港文化中心"
-      ],
-      "zh_hant": [
-        "亞裔藝采",
-        "亞洲＋藝術節",
-        "香港文化中心"
-      ]
-    },
-    "title": {
-      "en": "Asian Ethnic Cultural Performances Draw Over 33,000 as 30 Countries Showcase Cultures",
-      "zh_hans": "30国文化汇聚文化中心 亚裔艺采嘉年华吸逾3.3万人",
-      "zh_hant": "30國文化匯聚文化中心 亞裔藝采嘉年華吸逾3.3萬人"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-asian-ethnic-cultural-performances-30-countries.jpg",
-    "image_r2_key": "design/202611/20261122-asian-ethnic-cultural-performances-30-countries.jpg"
+  "summary": {
+   "en": "The Centre for Health Protection is investigating a case of invasive meningococcal infection involving a 74-year-old man with underlying illness. He developed a fever and malaise on November 19, saw a private doctor the next day and was admitted to Kwong Wah Hospital the same day as his condition worsened; he is now stable and his cerebrospinal fluid tested positive for meningococcus, with a clinical diagnosis of meningitis. He had no travel history during the incubation period, his family members are asymptomatic and have been given preventive drugs, and the case is believed to be sporadic. Six cases have been recorded so far this year, against 11 last year.",
+   "zh_hans": "卫生署卫生防护中心今日调查一宗侵入性脑膜炎双球菌感染个案，患者是一名74岁、有长期病患的男子，11月19日起发烧及不适，翌日到私家医生求诊，同日病情恶化送入广华医院，现时情况稳定，脑脊液样本验出脑膜炎双球菌，临床诊断为脑膜炎。初步调查显示患者潜伏期内没有外游纪录，家人暂无病征并已获处方预防药物，中心认为属散发病例，今年至今共录得6宗，去年全年有11宗。",
+   "zh_hant": "衞生署衞生防護中心今日調查一宗侵入性腦膜炎雙球菌感染個案，患者是一名74歲、有長期病患的男子，11月19日起發燒及不適，翌日到私家醫生求診，同日病情惡化送入廣華醫院，現時情況穩定，腦脊液樣本驗出腦膜炎雙球菌，臨床診斷為腦膜炎。初步調查顯示患者潛伏期內沒有外遊紀錄，家人暫無病徵並已獲處方預防藥物，中心認為屬散發個案，今年至今共錄得6宗，去年全年有11宗。"
   },
-  {
-    "category": "hk",
-    "id": "20261122-lok-encouraged-turnout-98-percent-mature-system",
-    "published_at": "2026-11-22T19:26:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878802-20261122.htm"
-    },
-    "summary": {
-      "en": "Voting in the Election Committee Subsector Elections has closed, and Electoral Affairs Commission chairman Lok Kai-hong said more than 5,600 voters cast ballots for a turnout above 98%, with all ballot boxes delivered to the central counting station at the Convention and Exhibition Centre and results expected to be announced progressively soon. Lok said he would not comment on the turnout figure, but was encouraged by it and believed it showed Hong Kong's electoral system operating with growing maturity. The commission had received one complaint about election advertising as of 6pm and was handling it.",
-      "zh_hans": "选委会界别分组选举投票结束，选管会主席陆启康表示，逾5,600名投票人投票，投票率超过98%，所有票箱已运送到会展中央点票站点票，相信结果不用很久便会陆续公布。他表示不评论投票率，但对投票数字感到鼓舞，认为证明本港选举制度的操作越来越成熟。截至下午6时，选管会收到一宗涉及选举广告的投诉，投诉人指称不知为何收到选举广告，选管会正在处理。",
-      "zh_hant": "選委會界別分組選舉投票結束，選管會主席陸啟康表示，逾5,600名投票人投票，投票率超過98%，所有票箱已運送到會展中央點票站點票，相信結果不用很久便會陸續公布。他表示不評論投票率，但對投票數字感到鼓舞，認為證明本港選舉制度的操作越來越成熟。截至下午6時，選管會收到一宗涉及選舉廣告的投訴，投訴人指稱不知為何收到選舉廣告，選管會正在處理。"
-    },
-    "tags": {
-      "en": [
-        "Election Committee elections",
-        "Lok Kai-hong",
-        "voter turnout"
-      ],
-      "zh_hans": [
-        "选委会选举",
-        "陆启康",
-        "投票率"
-      ],
-      "zh_hant": [
-        "選委會選舉",
-        "陸啟康",
-        "投票率"
-      ]
-    },
-    "title": {
-      "en": "Lok Encouraged by 98% Turnout, Says Electoral System Growing More Mature",
-      "zh_hans": "陆启康：投票率逾98%感鼓舞 证明选举制度越趋成熟",
-      "zh_hant": "陸啟康：投票率逾98%感鼓舞 證明選舉制度越趨成熟"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-lok-encouraged-turnout-98-percent-mature-system-v2.jpg",
-    "image_prompt": "選委會選舉中央點票站內，工作人員點算選票的場景，票箱整齊排列，氣氛莊重有序，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「陸啟康：投票率逾98%感鼓舞」，第二行黃色大字寫「證明選舉制度越趨成熟」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-lok-encouraged-turnout-98-percent-mature-system-v2.jpg"
+  "tags": {
+   "en": [
+    "meningococcal infection",
+    "Centre for Health Protection",
+    "Kwong Wah Hospital"
+   ],
+   "zh_hans": [
+    "脑膜炎双球菌",
+    "卫生防护中心",
+    "广华医院"
+   ],
+   "zh_hant": [
+    "腦膜炎雙球菌",
+    "衞生防護中心",
+    "廣華醫院"
+   ]
   },
-  {
-    "category": "hk",
-    "id": "20261122-election-turnout-final-9879-percent",
-    "published_at": "2026-11-22T18:18:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200487.htm"
-    },
-    "summary": {
-      "en": "Voting in the 2026 Election Committee Subsector Ordinary Elections closed at 6pm today, with 5,640 registered voters casting ballots for a provisional cumulative turnout of about 98.79%, well above the 89.77% recorded in 2021. Sixty-nine voters did not vote. Ballot boxes are being taken to the central counting station at the Hong Kong Convention and Exhibition Centre, where the results will be announced after counting.",
-      "zh_hans": "2026年选举委员会界别分组一般选举今日下午6时结束投票，共有5,640名登记投票人投票，临时累积投票率约98.79%，超越上届的89.77%。选举事务处指，69名投票人未投票。投票结束后，所有票箱运往设于会展的中央点票站点票，点票完成后选举主任会公布结果。",
-      "zh_hant": "2026年選舉委員會界別分組一般選舉今日下午6時結束投票，共有5,640名登記投票人投票，臨時累積投票率約98.79%，超越上屆的89.77%。選舉事務處指，69名投票人未投票。投票結束後，所有票箱運往設於會展的中央點票站點票，點票完成後選舉主任會公布結果。"
-    },
-    "tags": {
-      "en": [
-        "Election Committee",
-        "subsector elections",
-        "voter turnout"
-      ],
-      "zh_hans": [
-        "选举委员会",
-        "界别分组选举",
-        "投票率"
-      ],
-      "zh_hant": [
-        "選舉委員會",
-        "界別分組選舉",
-        "投票率"
-      ]
-    },
-    "title": {
-      "en": "Election Committee Polls Close With Record 98.79% Turnout as 5,640 Vote",
-      "zh_hans": "选委会选举投票结束 最终投票率98.79%创纪录",
-      "zh_hant": "選委會選舉投票結束 最終投票率98.79%創紀錄"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-election-turnout-final-9879-percent-v2.jpg",
-    "image_prompt": "選舉委員會界別分組一般選舉投票日傍晚時分，中央點票站內工作人員點算選票的場景，票箱整齊排列，氣氛莊重有序，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『選委會選舉投票結束』，第二行黃色大字寫『最終投票率98.79%創紀錄』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-election-turnout-final-9879-percent-v2.jpg"
+  "title": {
+   "en": "74-Year-Old Man Hospitalised With Meningococcal Meningitis, Sixth Case This Year",
+   "zh_hans": "74岁翁染脑膜炎双球菌入院 今年第6宗",
+   "zh_hant": "74歲翁染腦膜炎雙球菌入院 今年第6宗"
   },
-  {
-    "category": "hk",
-    "id": "20261122-customs-airport-cannabis-37kg-8m",
-    "published_at": "2026-11-22T17:20:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200401.htm"
-    },
-    "summary": {
-      "en": "Hong Kong Customs detected two drug trafficking cases involving baggage concealment at Hong Kong International Airport on November 20 and 21, seizing about 37.3kg of suspected cannabis buds with an estimated market value of about $8 million. In the first case, a 46-year-old British transit passenger arriving from Bangkok and bound for London was found with about 35kg in two check-in suitcases. In the second, about 2.3kg was found in unclaimed baggage from Bangkok on August 10; a 39-year-old Mainland man was arrested yesterday on arrival via Taipei. Both men have each been charged with trafficking in a dangerous drug and will appear at West Kowloon Magistrates' Courts tomorrow (November 23).",
-      "zh_hans": "香港海关一连两日（11月20日及21日）在香港国际机场破获两宗行李藏毒案，共检获约37.3公斤怀疑大麻花，市值约800万元。首宗案件一名46岁英籍男过境旅客由曼谷抵港拟转机往伦敦，海关在其两个寄舱行李箱搜出约35公斤大麻花；第二宗案件海关在8月10日于一件由曼谷抵港的无人认领行李发现约2.3公斤大麻花，经调查后昨日拘捕一名39岁内地男子。两人各被控一项贩运危险药物罪，明日（11月23日）在西九龙裁判法院提堂。",
-      "zh_hant": "香港海關一連兩日（11月20日及21日）在香港國際機場破獲兩宗行李藏毒案，共檢獲約37.3公斤懷疑大麻花，市值約800萬元。首宗案件一名46歲英籍男過境旅客由曼谷抵港擬轉機往倫敦，海關在其兩個寄艙行李箱搜出約35公斤大麻花；第二宗案件海關在8月10日於一件由曼谷抵港的無人認領行李發現約2.3公斤大麻花，經調查後昨日拘捕一名39歲內地男子。兩人各被控一項販運危險藥物罪，明日（11月23日）在西九龍裁判法院提堂。"
-    },
-    "tags": {
-      "en": [
-        "Customs",
-        "airport",
-        "drug trafficking"
-      ],
-      "zh_hans": [
-        "海关",
-        "机场",
-        "贩毒"
-      ],
-      "zh_hant": [
-        "海關",
-        "機場",
-        "販毒"
-      ]
-    },
-    "title": {
-      "en": "Customs Busts Two Airport Drug Cases Seizing 37.3kg of Cannabis Buds Worth $8m",
-      "zh_hans": "海关机场连破两宗贩毒案 检37.3公斤大麻花值800万",
-      "zh_hant": "海關機場連破兩宗販毒案 檢37.3公斤大麻花值800萬"
-    },
-    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-customs-airport-cannabis-37kg-8m.jpg",
-    "image_r2_key": "design/202611/20261122-customs-airport-cannabis-37kg-8m.jpg"
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-chp-meningococcal-case-74yo-man-v2.jpg",
+  "image_prompt": "衞生防護中心調查侵入性腦膜炎雙球菌感染個案，醫院病房走廊場景，醫護人員剪影，氣氛冷靜專業，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「74歲翁染腦膜炎雙球菌入院」，第二行黃色大字寫「今年第6宗」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-chp-meningococcal-case-74yo-man-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-asian-ethnic-cultural-performances-30-countries",
+  "published_at": "2026-11-22T19:26:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200307.htm"
   },
-  {
-    "category": "china",
-    "id": "20261122-urumqi-earthquake-45-magnitude-no-casualties",
-    "published_at": "2026-11-22T17:08:00+08:00",
-    "source": {
-      "name": "中國日報",
-      "url": "https://global.chinadaily.com.cn/a/202611/22/WS6b02ca2be4b03ebf8519deb6.html"
-    },
-    "summary": {
-      "en": "A 4.5-magnitude earthquake struck Urumqi county in Urumqi, Xinjiang, at 5:08pm today, at a depth of 30 kilometres, with the epicentre at 43.41 degrees north latitude and 88.04 degrees east longitude, according to the China Earthquake Networks Center. The tremor was felt in Changji, Urumqi and Turpan, and the Urumqi emergency management bureau said no reports of collapsed buildings or casualties had been received.",
-      "zh_hans": "新疆乌鲁木齐市乌鲁木齐县今日下午5时08分发生4.5级地震，震源深度30公里，震央位于北纬43.41度、东经88.04度。中国地震台网表示，昌吉、乌鲁木齐市及吐鲁番等地有震感，乌鲁木齐市应急管理局指暂未接获房屋倒塌及人员伤亡报告。",
-      "zh_hant": "新疆烏魯木齊市烏魯木齊縣今日下午5時08分發生4.5級地震，震源深度30公里，震央位於北緯43.41度、東經88.04度。中國地震台網表示，昌吉、烏魯木齊市及吐魯番等地有震感，烏魯木齊市應急管理局指暫未接獲房屋倒塌及人員傷亡報告。"
-    },
-    "tags": {
-      "en": [
-        "earthquake",
-        "Xinjiang",
-        "Urumqi"
-      ],
-      "zh_hans": [
-        "地震",
-        "新疆",
-        "乌鲁木齐"
-      ],
-      "zh_hant": [
-        "地震",
-        "新疆",
-        "烏魯木齊"
-      ]
-    },
-    "title": {
-      "en": "4.5-Magnitude Quake Hits Urumqi County, No Casualties Reported",
-      "zh_hans": "新疆乌鲁木齐县4.5级地震 震源深30公里 暂无伤亡报告",
-      "zh_hant": "新疆烏魯木齊縣4.5級地震 震源深30公里 暫無傷亡報告"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-urumqi-earthquake-45-magnitude-no-casualties-v2.jpg",
-    "image_prompt": "新疆烏魯木齊山區地震場景，遠處山巒與城市天際線，地面輕微震動的感覺，畫面不要出現倒塌樓宇或傷者，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「新疆烏魯木齊縣4.5級地震」，第二行黃色大字寫「震源深30公里 暫無傷亡報告」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-urumqi-earthquake-45-magnitude-no-casualties-v2.jpg"
+  "summary": {
+   "en": "The grand finale outdoor carnival of the Asia+ Festival 2026, \"Asian Ethnic Cultural Performances+\", was held this afternoon at the Hong Kong Cultural Centre Piazza and Foyer, with around 30 Belt and Road countries and regions presenting their diverse cultures through ethnic music, dance, handicrafts and signature snacks, attracting over 33,000 members of the public and tourists. Secretary for Culture, Sports and Tourism Rosanna Law said the festival provides a platform for artistic exchanges and reaffirms Hong Kong's role as an East-meets-West centre for international cultural exchanges. The \"Convergence of Cross-Cultural Gifting - Ethnic Cultural Exhibition\" runs at the Cultural Centre Foyer until November 29.",
+   "zh_hans": "亚洲＋艺术节2026压轴户外嘉年华「亚裔艺采＋」今日下午在香港文化中心露天广场及大堂举行，约30个「一带一路」国家及地区以民族音乐、舞蹈、手工艺及特色小食展示多元文化，吸引逾3.3万名市民及旅客参与。文化体育及旅游局局长罗淑佩致辞时表示，艺术节致力为香港提供艺术交流平台，彰显香港作为中外文化艺术交流中心的重要角色。文化展览「融汇．交织——民族文化展」即日起至11月29日在文化中心大堂展出。",
+   "zh_hant": "亞洲＋藝術節2026壓軸戶外嘉年華「亞裔藝采＋」今日下午在香港文化中心露天廣場及大堂舉行，約30個「一帶一路」國家及地區以民族音樂、舞蹈、手工藝及特色小食展示多元文化，吸引逾3.3萬名市民及旅客參與。文化體育及旅遊局局長羅淑佩致辭時表示，藝術節致力為香港提供藝術交流平台，彰顯香港作為中外文化藝術交流中心的重要角色。文化展覽「融匯．交織——民族文化展」即日起至11月29日在文化中心大堂展出。"
   },
-  {
-    "category": "hk",
-    "id": "20261122-election-turnout-1600-9739-percent",
-    "published_at": "2026-11-22T16:20:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200430.htm"
-    },
-    "summary": {
-      "en": "Voting in the 2026 Election Committee Subsector Ordinary Elections continued to climb, reaching a cumulative turnout of 97.39% by 4pm, with 5,560 of the 5,709 registered voters having cast ballots. Social welfare surged to 92.02% from 53.37% at noon, while insurance was lowest at 81.82%; ten subsectors including Commercial (third), Industrial (first), accountancy and legal had already reached 100%. Polls close at 6pm, after which ballot boxes will be taken to the central counting station at the Hong Kong Convention and Exhibition Centre.",
-      "zh_hans": "2026年选举委员会界别分组一般选举投票率继续攀升，截至下午4时累计投票率达97.39%，5,709名选民中已有5,560人投票。社福界由中午的53.37%急升至92.02%，保险界以81.82%暂时包尾；商界（第三）、工业（第一）、会计界及法律界等10个界别分组已达100%。投票将于下午6时结束，票箱随后运往会展中央点票站点票。",
-      "zh_hant": "2026年選舉委員會界別分組一般選舉投票率繼續攀升，截至下午4時累積投票率達97.39%，5,709名選民中已有5,560人投票。社福界由中午的53.37%急升至92.02%，保險界以81.82%暫時包尾；商界（第三）、工業界（第一）、會計界及法律界等10個界別分組已達100%。投票將於下午6時結束，票箱隨後運往會展中央點票站點票。"
-    },
-    "tags": {
-      "en": [
-        "Election Committee",
-        "subsector elections",
-        "voter turnout"
-      ],
-      "zh_hans": [
-        "选举委员会",
-        "界别分组选举",
-        "投票率"
-      ],
-      "zh_hant": [
-        "選舉委員會",
-        "界別分組選舉",
-        "投票率"
-      ]
-    },
-    "title": {
-      "en": "Election Committee Polls Hit 97.39% as 5,560 Voters Cast Ballots by 4pm",
-      "zh_hans": "选委会选举投票率冲上97.39% 下午4时已有5,560人投票",
-      "zh_hant": "選委會選舉投票率衝上97.39% 下午4時已有5,560人投票"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-election-turnout-1600-9739-percent-v2.jpg",
-    "image_prompt": "選舉委員會界別分組一般選舉投票日下午時分，票站內選民排隊投票的場景，投票箱和工作人員協助選民，氣氛莊重有序，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『選委會選舉投票率97.39%』，第二行黃色大字寫『下午4時5,560人已投票』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-election-turnout-1600-9739-percent-v2.jpg"
+  "tags": {
+   "en": [
+    "Asian Ethnic Cultural Performances",
+    "Asia+ Festival",
+    "Hong Kong Cultural Centre"
+   ],
+   "zh_hans": [
+    "亚裔艺采",
+    "亚洲＋艺术节",
+    "香港文化中心"
+   ],
+   "zh_hant": [
+    "亞裔藝采",
+    "亞洲＋藝術節",
+    "香港文化中心"
+   ]
   },
-  {
-    "category": "hk",
-    "id": "20261122-tsim-sha-tsui-bowring-street-fatal-crash",
-    "published_at": "2026-11-22T15:33:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878780-20261122.htm"
-    },
-    "summary": {
-      "en": "A serious traffic accident in Tsim Sha Tsui this afternoon left one person dead and three injured after a private car reportedly mounted the pavement. Police said the deceased was a non-Chinese man, and the three injured people were taken to hospital. The crash happened outside No. 6 Bowring Street at around 2:30pm; police have cordoned off the scene and are investigating the cause.",
-      "zh_hans": "尖沙咀宝勒巷今日下午发生严重交通意外，一辆私家车怀疑铲上行人路，造成1死3伤。警方表示，死者为一名非华裔男子，另外3名伤者已送院治理。事发于宝勒巷6号对开，下午近2时半警方接报到场，现正封锁现场调查意外原因。",
-      "zh_hant": "尖沙咀寶勒巷今日下午發生嚴重交通意外，一輛私家車懷疑剷上行人路，造成1死3傷。警方表示，死者為一名非華裔男子，另外3名傷者已送院治理。事發於寶勒巷6號對開，下午近2時半警方接報到場，現正封鎖現場調查意外原因。"
-    },
-    "tags": {
-      "en": [
-        "traffic accident",
-        "Tsim Sha Tsui",
-        "Bowring Street"
-      ],
-      "zh_hans": [
-        "交通意外",
-        "尖沙咀",
-        "宝勒巷"
-      ],
-      "zh_hant": [
-        "交通意外",
-        "尖沙咀",
-        "寶勒巷"
-      ]
-    },
-    "title": {
-      "en": "Car Mounts Pavement in Tsim Sha Tsui, Killing One and Injuring Three",
-      "zh_hans": "尖沙咀私家车铲上行人路酿1死3伤 警封宝勒巷调查",
-      "zh_hant": "尖沙咀私家車剷上行人路釀1死3傷 警封寶勒巷調查"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-tsim-sha-tsui-bowring-street-fatal-crash-v2.jpg",
-    "image_prompt": "尖沙咀寶勒巷街頭下午時分，警車停泊在路邊，警方拉起封鎖線調查交通意外，街道兩旁是商店招牌，氣氛凝重但秩序井然，畫面不要出現任何傷者或死者，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『尖沙咀私家車剷上行人路』，第二行黃色大字寫『1死3傷 警封寶勒巷調查』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-tsim-sha-tsui-bowring-street-fatal-crash-v2.jpg"
+  "title": {
+   "en": "Asian Ethnic Cultural Performances Draw Over 33,000 as 30 Countries Showcase Cultures",
+   "zh_hans": "30国文化汇聚文化中心 亚裔艺采嘉年华吸逾3.3万人",
+   "zh_hant": "30國文化匯聚文化中心 亞裔藝采嘉年華吸逾3.3萬人"
   },
-  {
-    "category": "hk",
-    "id": "20261122-election-turnout-1400-9355-percent",
-    "published_at": "2026-11-22T14:17:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878774-20261122.htm"
-    },
-    "summary": {
-      "en": "Voting in the Election Committee Subsector Ordinary Elections began at 9am today. By 2pm, 5,341 voters had cast ballots — a turnout of 93.55% out of 5,709 registered voters, up from 83.03% at noon. Several subsectors reached 100%, including Commercial (third), technology and innovation, Industrial (first), accountancy and legal, while the financial subsector was lowest at 69.12%, with 47 of its 68 voters having voted. The Registration and Electoral Office reminded voters the figures are for provisional reference only; polls close at 6pm, with counting to follow.",
-      "zh_hans": "选举委员会界别分组一般选举今早9时开始投票，截至下午2时累计5,341人投票，投票率93.55%，总选民人数5,709人，较中午12时的83.03%再升。多个界别投票率达100%，包括商界（第三）、科技创新界、工商业（第一）、会计界及法律界；金融界最低，只有69.12%，68名选民中有47人已投票。选举事务处提醒，投票率数字仅供临时参考；投票将于今晚6时结束，随即点票。",
-      "zh_hant": "選舉委員會界別分組一般選舉今早9時開始投票，截至下午2時累計5,341人投票，投票率93.55%，總選民人數5,709人，較中午12時的83.03%再升。多個界別投票率達100%，包括商界（第三）、科技創新界、工業界（第一）、會計界及法律界；金融界最低，只有69.12%，68名選民中有47人已投票。選舉事務處提醒，投票率數字僅供臨時參考；投票將於今晚6時結束，隨即點票。"
-    },
-    "tags": {
-      "en": [
-        "Election Committee",
-        "subsector elections",
-        "voter turnout"
-      ],
-      "zh_hans": [
-        "选举委员会",
-        "界别分组选举",
-        "投票率"
-      ],
-      "zh_hant": [
-        "選舉委員會",
-        "界別分組選舉",
-        "投票率"
-      ]
-    },
-    "title": {
-      "en": "Election Committee Polls Climb to 93.55% Turnout by 2pm as 5,341 Voters Cast Ballots",
-      "zh_hans": "选委会选举投票率冲上93.55% 下午2时已有5,341人投票",
-      "zh_hant": "選委會選舉投票率衝上93.55% 下午2時已有5,341人投票"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-election-turnout-1400-9355-percent-v2.jpg",
-    "image_prompt": "選舉委員會界別分組一般選舉投票日下午時分，票站內選民排隊投票的場景，投票箱和工作人員協助選民，氣氛莊重有序，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『選委會選舉投票率93.55%』，第二行黃色大字寫『下午2時5,341人已投票』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-election-turnout-1400-9355-percent-v2.jpg"
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-asian-ethnic-cultural-performances-30-countries.jpg",
+  "image_r2_key": "design/202611/20261122-asian-ethnic-cultural-performances-30-countries.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-lok-encouraged-turnout-98-percent-mature-system",
+  "published_at": "2026-11-22T19:26:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878802-20261122.htm"
   },
-  {
-    "category": "world",
-    "id": "20261122-iran-energy-shortage-power-cuts",
-    "published_at": "2026-11-22T13:54:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878773-20261122.htm"
-    },
-    "summary": {
-      "en": "As war in the Middle East causes growing damage to key infrastructure, Iran's energy shortage has worsened and the authorities announced power rationing starting today. The head of Iran's national power company told state television that, depending on the region, outages are expected about once every two days and last around two hours, while some areas may face two hours of outages a day. President Masoud Pezeshkian said earlier that US and Israeli strikes on Iran's energy infrastructure have worsened the energy problem and made supply more severe ahead of winter, describing Iran as caught in a silent economic war far harder than military conflict.",
-      "zh_hans": "随着中东战争对关键基础设施造成的破坏加剧，伊朗能源短缺问题恶化，当局宣布由今日起实施限电措施。伊朗国家电力公司负责人向国家电视台说，根据不同地区情况，停电预计每两日一次，每次持续约两小时，部分地区则可能每天停电两小时。伊朗总统佩泽希齐扬早前说，美国和以色列袭击伊朗能源基础设施，加剧能源问题，令冬季来临前的能源供应形势更加严峻，又形容伊朗正卷入一场无声的经济战，这场战争远比军事冲突更艰难。",
-      "zh_hant": "隨著中東戰爭對關鍵基礎設施造成的破壞加劇，伊朗能源短缺問題惡化，當局宣布由今日起實施限電措施。伊朗國家電力公司負責人向國家電視台說，根據不同地區情況，停電預計每兩日一次，每次持續約兩小時，部分地區則可能每天停電兩小時。伊朗總統佩澤希齊揚早前說，美國和以色列襲擊伊朗能源基礎設施，加劇能源問題，令冬季來臨前的能源供應形勢更加嚴峻，又形容伊朗正捲入一場無聲的經濟戰，這場戰爭遠比軍事衝突更艱難。"
-    },
-    "tags": {
-      "en": [
-        "Iran",
-        "energy shortage",
-        "power rationing"
-      ],
-      "zh_hans": [
-        "伊朗",
-        "能源短缺",
-        "限电"
-      ],
-      "zh_hant": [
-        "伊朗",
-        "能源短缺",
-        "限電"
-      ]
-    },
-    "title": {
-      "en": "Iran Imposes Power Rationing as Energy Shortage Worsens After Strikes on Infrastructure",
-      "zh_hans": "伊朗能源短缺恶化今起限电 每两日停电约两小时",
-      "zh_hant": "伊朗能源短缺惡化今起限電 每兩日停電約兩小時"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-iran-energy-shortage-power-cuts-v2.jpg",
-    "image_prompt": "伊朗城市傍晚時分燈火逐漸熄滅的街景，部分窗戶漆黑，部分路燈熄滅，遠處發電廠剪影，氣氛凝重但畫面光亮清晰，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9。標題分兩行大字直接壓在畫面上：第一行白色大字寫『伊朗能源短缺惡化今起限電』，第二行黃色大字寫『每兩日停電約兩小時』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-iran-energy-shortage-power-cuts-v2.jpg"
+  "summary": {
+   "en": "Voting in the Election Committee Subsector Elections has closed, and Electoral Affairs Commission chairman Lok Kai-hong said more than 5,600 voters cast ballots for a turnout above 98%, with all ballot boxes delivered to the central counting station at the Convention and Exhibition Centre and results expected to be announced progressively soon. Lok said he would not comment on the turnout figure, but was encouraged by it and believed it showed Hong Kong's electoral system operating with growing maturity. The commission had received one complaint about election advertising as of 6pm and was handling it.",
+   "zh_hans": "选委会界别分组选举投票结束，选管会主席陆启康表示，逾5,600名投票人投票，投票率超过98%，所有票箱已运送到会展中央点票站点票，相信结果不用很久便会陆续公布。他表示不评论投票率，但对投票数字感到鼓舞，认为证明本港选举制度的操作越来越成熟。截至下午6时，选管会收到一宗涉及选举广告的投诉，投诉人指称不知为何收到选举广告，选管会正在处理。",
+   "zh_hant": "選委會界別分組選舉投票結束，選管會主席陸啟康表示，逾5,600名投票人投票，投票率超過98%，所有票箱已運送到會展中央點票站點票，相信結果不用很久便會陸續公布。他表示不評論投票率，但對投票數字感到鼓舞，認為證明本港選舉制度的操作越來越成熟。截至下午6時，選管會收到一宗涉及選舉廣告的投訴，投訴人指稱不知為何收到選舉廣告，選管會正在處理。"
   },
-  {
-    "category": "hk",
-    "id": "20261122-eac-chairman-urges-vote",
-    "published_at": "2026-11-22T13:05:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200290.htm"
-    },
-    "summary": {
-      "en": "The Chairman of the Electoral Affairs Commission, Mr Justice David Lok, visited the Central Command Centre and the Statistical Information Centre at the Hong Kong Convention and Exhibition Centre this morning with commission members Professor Daniel Shek and Mr Bernard Man, SC, and called on voters and authorised representatives to cast their votes before polls close at 6pm. A total of 856 candidates are contesting 723 seats in 31 subsectors today; by 11am more than 3,900 voters had voted, a turnout of over 68%. The commission reminded voters to vote at their designated polling station and verify their identity with their Hong Kong identity card; ballot boxes will be taken to the Central Counting Station at the HKCEC for counting and results after polls close.",
-      "zh_hans": "选举管理委员会主席陆启康法官今早联同选管会委员石丹理教授及文浩正资深大律师，视察设于香港会议展览中心的中央指挥中心及统计资料中心后，呼吁选民及获授权代表在今晚6时投票结束前尽快投票。今届共有856名候选人竞逐31个界别分组的723个席位，截至上午11时已有逾3,900人投票，累计投票率逾68%。选管会提醒，选民须到指定票站投票，并以香港身份证核实身份；投票结束后票箱将运往会展中央点票站，点票及公布结果。",
-      "zh_hant": "選舉管理委員會主席陸啟康法官今早聯同選管會委員石丹理教授及文浩正資深大律師，視察設於香港會議展覽中心的中央指揮中心及統計資料中心後，呼籲選民及獲授權代表在今晚6時投票結束前盡快投票。今屆共有856名候選人競逐31個界別分組的723個席位，截至上午11時已有逾3,900人投票，累計投票率逾68%。選管會提醒，選民須到指定票站投票，並以香港身份證核實身份；投票結束後票箱將運往會展中央點票站，點票及公布結果。"
-    },
-    "tags": {
-      "en": [
-        "Election Committee",
-        "Electoral Affairs Commission",
-        "David Lok"
-      ],
-      "zh_hans": [
-        "选举委员会",
-        "选管会",
-        "陆启康"
-      ],
-      "zh_hant": [
-        "選舉委員會",
-        "選管會",
-        "陸啟康"
-      ]
-    },
-    "title": {
-      "en": "Election Watchdog Chief Urges Voters to Cast Ballots as 856 Candidates Vie for 723 Seats",
-      "zh_hans": "选管会主席呼吁选民尽快投票 856人争723席今晚6时截票",
-      "zh_hant": "選管會主席呼籲選民盡快投票 856人爭723席今晚6時截票"
-    },
-    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-eac-chairman-urges-vote.jpg",
-    "image_r2_key": "design/202611/20261122-eac-chairman-urges-vote.jpg"
+  "tags": {
+   "en": [
+    "Election Committee elections",
+    "Lok Kai-hong",
+    "voter turnout"
+   ],
+   "zh_hans": [
+    "选委会选举",
+    "陆启康",
+    "投票率"
+   ],
+   "zh_hant": [
+    "選委會選舉",
+    "陸啟康",
+    "投票率"
+   ]
   },
-  {
-    "category": "hk",
-    "id": "20261122-tang-security-monitoring-centre-election",
-    "published_at": "2026-11-22T12:55:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878768-20261122.htm"
-    },
-    "summary": {
-      "en": "The Election Committee Subsector Ordinary Elections began at 9am today. Secretary for Security Chris Tang said the Security Bureau's Emergency Monitoring and Support Centre has been activated to closely monitor conditions around polling stations, with police and Civil Aid Service members on duty at every polling station to maintain order and manage crowds. Tang visited two polling stations this morning and found operations smooth and orderly, thanking all frontline staff for holding their posts.",
-      "zh_hans": "选举委员会界别分组一般选举今早9时开始投票，保安局局长邓炳强表示，为确保选举顺利进行，保安局紧急事故监察及支援中心已经启动，密切监察票站地区市面状况；警队及民安队人员亦在各票站当值，维持秩序及管理人流。邓炳强今早到过两个票站视察，现场运作畅顺、秩序良好，并感谢所有前线人员坚守岗位。",
-      "zh_hant": "選舉委員會界別分組一般選舉今早9時開始投票，保安局局長鄧炳強表示，為確保選舉順利進行，保安局緊急事故監察及支援中心已經啟動，密切監察票站地區市面狀況；警隊及民安隊人員亦在各票站當值，維持秩序及管理人流。鄧炳強今早到過兩個票站視察，現場運作暢順、秩序良好，並感謝所有前線人員堅守崗位。"
-    },
-    "tags": {
-      "en": [
-        "Chris Tang",
-        "Security Bureau",
-        "Election Committee"
-      ],
-      "zh_hans": [
-        "邓炳强",
-        "保安局",
-        "选举委员会"
-      ],
-      "zh_hant": [
-        "鄧炳強",
-        "保安局",
-        "選舉委員會"
-      ]
-    },
-    "title": {
-      "en": "Tang: Security Bureau Monitoring Centre Activated as Police and Civil Aid Service Guard Polling Stations",
-      "zh_hans": "邓炳强：保安局监察中心已启动 警队民安队驻守各票站",
-      "zh_hant": "鄧炳強：保安局監察中心已啟動 警隊民安隊駐守各票站"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-tang-security-monitoring-centre-election-v2.jpg",
-    "image_prompt": "香港選舉投票日，保安局緊急事故監察及支援中心內部的工作場景，工作人員在監察屏幕前工作，票站外警員及民安隊人員維持秩序，氣氛專業有序，人物用背影或側面，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『保安局監察中心已啟動』，第二行黃色大字寫『警隊民安隊駐守各票站』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-tang-security-monitoring-centre-election-v2.jpg"
+  "title": {
+   "en": "Lok Encouraged by 98% Turnout, Says Electoral System Growing More Mature",
+   "zh_hans": "陆启康：投票率逾98%感鼓舞 证明选举制度越趋成熟",
+   "zh_hant": "陸啟康：投票率逾98%感鼓舞 證明選舉制度越趨成熟"
   },
-  {
-    "category": "world",
-    "id": "20261122-south-korea-education-minister-resigns",
-    "published_at": "2026-11-22T12:45:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878765-20261122.htm"
-    },
-    "summary": {
-      "en": "South Korean Education Minister Choi Kyo-jin said he is resigning after the government's handling of cheating prevention for the national college entrance exam caused chaos and inconvenience for candidates and the public, and President Lee Jae-myung has accepted his resignation. Choi said that as the minister in charge he cannot avoid criticism that exam preparations were inadequate, and with the exam over he feels a heavy responsibility. This year's exam was held on November 19 with about 550,000 candidates; after an earlier tax accountant exam exposed cheating using AI devices, the government rushed out anti-cheating measures on the eve of the exam, some announced only a day or two beforehand, drawing criticism for hasty preparation.",
-      "zh_hans": "韩联社报道，韩国教育部长崔教振表示，因大学高考应对作弊工作引发混乱，为考生及公众带来不便，决定承担责任辞职，总统李在明已经接受。崔教振说，作为主管部门负责人，无法回避外界对考试准备不足的指责和批评，考试已经结束，深感责任重大。今次韩国高考本月19日举行，约55万名考生参加；早前税务师资格考试曝出利用人工智能设备作弊，引发社会对高考公平性的广泛担忧，当局在考试前夕紧急推出多项防作弊措施，部分措施在考试前一两天才公布，惹来批评。",
-      "zh_hant": "韓聯社報道，韓國教育部長崔教振表示，因大學高考應對作弊工作引發混亂，為考生及公眾帶來不便，決定承擔責任辭職，總統李在明已經接受。崔教振說，作為主管部門負責人，無法迴避外界對考試準備不足的指責和批評，考試已經結束，深感責任重大。今次韓國高考本月19日舉行，約55萬名考生參加；早前稅務師資格考試曝出利用人工智能設備作弊，引發社會對高考公平性的廣泛擔憂，當局在考試前夕緊急推出多項防作弊措施，部分措施在考試前一兩天才公布，惹來批評。"
-    },
-    "tags": {
-      "en": [
-        "South Korea",
-        "college entrance exam",
-        "education minister"
-      ],
-      "zh_hans": [
-        "韩国",
-        "高考",
-        "教育部长"
-      ],
-      "zh_hant": [
-        "韓國",
-        "高考",
-        "教育部長"
-      ]
-    },
-    "title": {
-      "en": "South Korean Education Minister Resigns Over Chaos in Anti-Cheating Measures for College Entrance Exam",
-      "zh_hans": "韩国高考防作弊惹混乱 教育部长引咎辞职获接纳",
-      "zh_hant": "韓國高考防作弊惹混亂 教育部長引咎辭職獲接納"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-south-korea-education-minister-resigns-v2.jpg",
-    "image_prompt": "韓國首爾政府大樓外的日間場景，記者會講台和咪高峰，背景是現代辦公大樓，氣氛莊重嚴肅，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『韓國高考防作弊惹混亂』，第二行黃色大字寫『教育部長引咎辭職獲接納』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-south-korea-education-minister-resigns-v2.jpg"
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-lok-encouraged-turnout-98-percent-mature-system-v2.jpg",
+  "image_prompt": "選委會選舉中央點票站內，工作人員點算選票的場景，票箱整齊排列，氣氛莊重有序，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「陸啟康：投票率逾98%感鼓舞」，第二行黃色大字寫「證明選舉制度越趨成熟」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-lok-encouraged-turnout-98-percent-mature-system-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-election-turnout-final-9879-percent",
+  "published_at": "2026-11-22T18:18:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200487.htm"
   },
-  {
-    "category": "hk",
-    "id": "20261122-platform-workers-injury-compensation-bill",
-    "published_at": "2026-11-22T12:27:00+08:00",
-    "source": {
-      "name": "Dimsum Daily",
-      "url": "https://www.dimsumdaily.hk/hong-kong-government-plans-three-tier-paid-sick-leave-for-food-delivery-riders-and-couriers/"
-    },
-    "summary": {
-      "en": "The government has completed the draft of a bill to create a work injury compensation mechanism for digital platform workers, and plans to submit it to the Legislative Council next month. Secretary for Labour and Welfare Chris Sun said paid injury sick leave will use a three-tier system based on average daily working hours over the 90 days before an injury: up to three months for no more than three hours a day, six months for three to five hours, and 12 months for five hours or more, paid at four-fifths of wages. The protected working period runs from accepting an order until delivery is completed and the worker returns to their vehicle.",
-      "zh_hans": "政府已完成《数码平台工作者工伤补偿机制条例》草案，计划下月提交立法会审议，为外卖员及送货员提供法定工伤补偿。劳工及福利局局长孙玉菡表示，有薪工伤病假采用三级制，按工伤前90日平均每日工时划分：不超过3小时最多赔3个月、3至5小时赔6个月、5小时或以上赔12个月，金额为五分四工资。受保障的工作期间由接单起计，直至送达并返回交通工具为止。",
-      "zh_hant": "政府已完成《數碼平台工作者工傷補償機制條例》草案，計劃下月提交立法會審議，為外賣員及送貨員提供法定工傷補償。勞工及福利局局長孫玉菡表示，有薪工傷病假採用三級制，按工傷前90日平均每日工時劃分：不超過3小時最多賠3個月、3至5小時賠6個月、5小時或以上賠12個月，金額為五分四工資。受保障的工作期間由接單起計，直至送達並返回交通工具為止。"
-    },
-    "tags": {
-      "en": [
-        "platform workers",
-        "work injury compensation",
-        "Chris Sun"
-      ],
-      "zh_hans": [
-        "外卖员",
-        "工伤补偿",
-        "孙玉菡"
-      ],
-      "zh_hant": [
-        "外賣員",
-        "工傷補償",
-        "孫玉菡"
-      ]
-    },
-    "title": {
-      "en": "Hong Kong Delivery Riders to Get Injury Cover as Draft Bill Heads to LegCo Next Month",
-      "zh_hans": "外卖员终有工伤保障 草案下月交立法会 有薪病假分三级最多赔一年",
-      "zh_hant": "外賣員終有工傷保障 草案下月交立法會 有薪病假分三級最多賠一年"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-platform-workers-injury-compensation-bill-v2.jpg",
-    "image_prompt": "香港街頭日間，一名外賣員穿著制服騎著電單車送餐，背著外賣箱，背景是繁忙的街道和樓宇，氣氛明亮有朝氣，人物用背影或側面，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『外賣員終有工傷保障』，第二行黃色大字寫『草案下月交立法會 最多賠一年病假』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-platform-workers-injury-compensation-bill-v2.jpg"
+  "summary": {
+   "en": "Voting in the 2026 Election Committee Subsector Ordinary Elections closed at 6pm today, with 5,640 registered voters casting ballots for a provisional cumulative turnout of about 98.79%, well above the 89.77% recorded in 2021. Sixty-nine voters did not vote. Ballot boxes are being taken to the central counting station at the Hong Kong Convention and Exhibition Centre, where the results will be announced after counting.",
+   "zh_hans": "2026年选举委员会界别分组一般选举今日下午6时结束投票，共有5,640名登记投票人投票，临时累积投票率约98.79%，超越上届的89.77%。选举事务处指，69名投票人未投票。投票结束后，所有票箱运往设于会展的中央点票站点票，点票完成后选举主任会公布结果。",
+   "zh_hant": "2026年選舉委員會界別分組一般選舉今日下午6時結束投票，共有5,640名登記投票人投票，臨時累積投票率約98.79%，超越上屆的89.77%。選舉事務處指，69名投票人未投票。投票結束後，所有票箱運往設於會展的中央點票站點票，點票完成後選舉主任會公布結果。"
   },
-  {
-    "category": "hk",
-    "id": "20261122-yu-wang-fuk-court-graduate-jobs",
-    "published_at": "2026-11-22T12:22:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878763-20261122.htm"
-    },
-    "summary": {
-      "en": "The Wang Fuk Court fire is approaching its first anniversary, and Secretary for Labour and Welfare Chris Sun said the \"one household, one social worker\" support for affected residents will not be withdrawn, with trauma and mental health support continuing for years. Sun also announced the government will launch a Graduate Employment Kick-start Programme with the business sector next year, offering 10,000 full-time posts of six months or more over two years, with employers receiving up to $6,000 a month per new post for hiring people aged 29 or under with no work experience, regardless of education level. A Shanghai-Hong Kong youth employment scheme will also start next year with 50 places.",
-      "zh_hans": "大埔宏福苑火灾将近一周年，劳工及福利局局长孙玉菡表示，支援受影响住户的「一户一社工」不会退场，创伤后遗及精神健康支援将以年计持续提供。孙玉菡又宣布，政府明年联同商界推出「毕业生就业启航计划」，两年内提供1万个为期六个月或以上的全职职位，雇主每新增一个职位每月可获最多6,000元津贴，对象为29岁或以下、无工作经验的年轻人，学历不限；明年亦会推出沪港青年就业计划，初期设50个名额。",
-      "zh_hant": "大埔宏福苑火災將近一周年，勞工及福利局局長孫玉菡表示，支援受影響住戶的「一戶一社工」不會退場，創傷後遺及精神健康支援將以年計持續提供。孫玉菡又宣布，政府明年聯同商界推出「畢業生就業啟航計劃」，兩年內提供1萬個為期六個月或以上的全職職位，僱主每新增一個職位每月可獲最多6,000元津貼，對象為29歲或以下、無工作經驗的年青人，學歷不限；明年亦會推出滬港青年就業計劃，初期設50個名額。"
-    },
-    "tags": {
-      "en": [
-        "Wang Fuk Court",
-        "Chris Sun",
-        "graduate jobs"
-      ],
-      "zh_hans": [
-        "宏福苑",
-        "孙玉菡",
-        "毕业生就业"
-      ],
-      "zh_hant": [
-        "宏福苑",
-        "孫玉菡",
-        "畢業生就業"
-      ]
-    },
-    "title": {
-      "en": "Sun: Wang Fuk Court 'One Household, One Social Worker' Support to Stay as 10,000 Graduate Jobs Planned",
-      "zh_hans": "孙玉菡：宏福苑「一户一社工」不会退场 明年推毕业生就业计划供万职位",
-      "zh_hant": "孫玉菡：宏福苑「一戶一社工」不會退場 明年推畢業生就業計劃供萬職位"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-yu-wang-fuk-court-graduate-jobs-v2.jpg",
-    "image_prompt": "陽光普照的現代社區中心日間場景，社工與居民家庭親切交談，氣氛溫暖安心，人物用背影或側面，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『宏福苑「一戶一社工」不退場』，第二行黃色大字寫『畢業生就業計劃供萬職位』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-yu-wang-fuk-court-graduate-jobs-v2.jpg"
+  "tags": {
+   "en": [
+    "Election Committee",
+    "subsector elections",
+    "voter turnout"
+   ],
+   "zh_hans": [
+    "选举委员会",
+    "界别分组选举",
+    "投票率"
+   ],
+   "zh_hant": [
+    "選舉委員會",
+    "界別分組選舉",
+    "投票率"
+   ]
   },
-  {
-    "category": "hk",
-    "id": "20261122-election-turnout-1200-8303-percent",
-    "published_at": "2026-11-22T12:17:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200291.htm"
-    },
-    "summary": {
-      "en": "Voting in the Election Committee Subsector Ordinary Elections began at 9am today. By noon, 4,740 voters had cast ballots — a turnout of 83.03% out of 5,709 registered voters, up sharply from 44.74% at 10am. The Commercial (third) subsector reached 100%, followed by technology and innovation at 95.83% and legal at 93.10%, while social welfare was lowest at 53.37%. The Registration and Electoral Office reminded voters the figures are for provisional reference only; polls close at 6pm, with counting to follow.",
-      "zh_hans": "选举委员会界别分组一般选举今早9时开始投票，截至中午12时累计4,740人投票，投票率83.03%，总选民人数5,709人，较早上10时的44.74%大幅上升。商界（第三）投票率达100%，科技创新界95.83%、法律界93.10%；社会福利界最低，只有53.37%。选举事务处提醒，投票率数字仅供临时参考；投票将于今晚6时结束，随即点票。",
-      "zh_hant": "選舉委員會界別分組一般選舉今早9時開始投票，截至中午12時累計4,740人投票，投票率83.03%，總選民人數5,709人，較早上10時的44.74%大幅上升。商界（第三）投票率達100%，科技創新界95.83%、法律界93.10%；社會福利界最低，只有53.37%。選舉事務處提醒，投票率數字僅供臨時參考；投票將於今晚6時結束，隨即點票。"
-    },
-    "tags": {
-      "en": [
-        "Election Committee",
-        "subsector elections",
-        "voter turnout"
-      ],
-      "zh_hans": [
-        "选举委员会",
-        "界别分组选举",
-        "投票率"
-      ],
-      "zh_hant": [
-        "選舉委員會",
-        "界別分組選舉",
-        "投票率"
-      ]
-    },
-    "title": {
-      "en": "Election Committee Polls Surge to 83.03% Turnout by Noon as 4,740 Voters Cast Ballots",
-      "zh_hans": "选委会选举投票率冲上83.03% 中午12时已有4,740人投票",
-      "zh_hant": "選委會選舉投票率衝上83.03% 中午12時已有4,740人投票"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-election-turnout-1200-8303-percent-v2.jpg",
-    "image_prompt": "選舉委員會界別分組一般選舉投票日中午時分，票站內選民排隊投票的場景，投票箱和工作人員協助選民，氣氛莊重有序，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『選委會選舉投票率83.03%』，第二行黃色大字寫『中午12時4,740人已投票』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-election-turnout-1200-8303-percent-v2.jpg"
+  "title": {
+   "en": "Election Committee Polls Close With Record 98.79% Turnout as 5,640 Vote",
+   "zh_hans": "选委会选举投票结束 最终投票率98.79%创纪录",
+   "zh_hant": "選委會選舉投票結束 最終投票率98.79%創紀錄"
   },
-  {
-    "category": "hk",
-    "id": "20261122-chan-bay-area-alliance-aiib-hk",
-    "published_at": "2026-11-22T10:48:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878753-20261122.htm"
-    },
-    "summary": {
-      "en": "President Xi Jinping proposed at the APEC CEO Summit that a World Bay Area Economic Cooperation Alliance be set up, and Financial Secretary Paul Chan said Hong Kong, with its unique advantage of connecting China with the world, will be able to play an even bigger role within it. Writing in his blog, Chan said Hong Kong knows international market rules and cross-boundary cooperation in the Greater Bay Area well, noting the Shenzhen-Hong Kong-Guangzhou innovation cluster remains ranked first in the world by the World Intellectual Property Organization. He added that the Asian Infrastructure Investment Bank's decision to open an office in Hong Kong will take that capability to the international project level; the bank has approved more than US$79 billion in financing for over 400 projects.",
-      "zh_hans": "国家主席习近平在APEC工商领导人峰会提出支持成立世界湾区经济合作联盟，财政司司长陈茂波表示，具备内联外通优势的香港身处其中，定能得到更好发挥。陈茂波在网志指出，香港熟悉国际市场规则和大湾区跨境协作，「深圳—香港—广州」创新集群在世界知识产权组织最新排名继续位居全球第一；亚投行确定在港设立办事处，将这种能力进一步带到国际项目层面，亚投行至今已批出逾790亿美元融资，支持逾400个项目。",
-      "zh_hant": "國家主席習近平在APEC工商領導人峰會提出支持成立世界灣區經濟合作聯盟，財政司司長陳茂波表示，具備內聯外通優勢的香港身處其中，定能得到更好發揮。陳茂波在網誌指出，香港熟悉國際市場規則和大灣區跨境協作，「深圳—香港—廣州」創新集群在世界知識產權組織最新排名繼續位居全球第一；亞投行確定在港設立辦事處，將這種能力進一步帶到國際項目層面，亞投行至今已批出逾790億美元融資，支持逾400個項目。"
-    },
-    "tags": {
-      "en": [
-        "Paul Chan",
-        "Greater Bay Area",
-        "AIIB"
-      ],
-      "zh_hans": [
-        "陈茂波",
-        "大湾区",
-        "亚投行"
-      ],
-      "zh_hant": [
-        "陳茂波",
-        "大灣區",
-        "亞投行"
-      ]
-    },
-    "title": {
-      "en": "Paul Chan: Hong Kong Poised to Shine in World Bay Area Alliance as AIIB Office Opens Doors",
-      "zh_hans": "陈茂波：香港身处世界湾区联盟定能更好发挥 亚投行落户带动国际项目",
-      "zh_hant": "陳茂波：香港身處世界灣區聯盟定能更好發揮 亞投行落戶帶動國際項目"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-chan-bay-area-alliance-aiib-hk-v2.jpg",
-    "image_prompt": "香港維多利亞港和中環金融區的日間場景，陽光普照，海面波光粼粼，摩天大樓林立，展現國際金融中心的氣派。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『陳茂波：香港定能更好發揮』，第二行黃色大字寫『世界灣區聯盟＋亞投行落戶』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-chan-bay-area-alliance-aiib-hk-v2.jpg"
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-election-turnout-final-9879-percent-v2.jpg",
+  "image_prompt": "選舉委員會界別分組一般選舉投票日傍晚時分，中央點票站內工作人員點算選票的場景，票箱整齊排列，氣氛莊重有序，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『選委會選舉投票結束』，第二行黃色大字寫『最終投票率98.79%創紀錄』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-election-turnout-final-9879-percent-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-customs-airport-cannabis-37kg-8m",
+  "published_at": "2026-11-22T17:20:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200401.htm"
   },
-  {
-    "category": "world",
-    "id": "20261122-iran-attacks-us-radar-bahrain",
-    "published_at": "2026-11-22T10:42:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878752-20261122.htm"
-    },
-    "summary": {
-      "en": "Iran's Islamic Revolutionary Guard Corps used missiles and drones to attack the air defence radars at two United States military bases in Bahrain, saying the action was in response to continued US violations of Iranian airspace and claiming two US Patriot air defence radars were hit. The Revolutionary Guard warned that any violation of Iranian airspace would be met with a severe response. Bahrain's interior ministry said separately that a civilian industrial facility was hit in the Iranian attack, causing a fire, with no casualties initially believed.",
-      "zh_hans": "伊朗伊斯兰共和国通讯社报道，伊朗伊斯兰革命卫队使用导弹和无人机，袭击美国在巴林两处军事基地的防空雷达，称行动是回应美军持续侵犯伊朗领空，并称击中两部美军「爱国者」防空系统雷达。革命卫队警告，任何侵犯伊朗领空的行为都将遭到严厉回应。另外，巴林内政部说，一个民用工业设施受到伊朗袭击，引发火灾，初步相信无人员伤亡。",
-      "zh_hant": "伊朗伊斯蘭共和國通訊社報道，伊朗伊斯蘭革命衛隊使用導彈和無人機，襲擊美國在巴林兩處軍事基地的防空雷達，稱行動是回應美軍持續侵犯伊朗領空，並稱擊中兩部美軍「愛國者」防空系統雷達。革命衛隊警告，任何侵犯伊朗領空的行為都將遭到嚴厲回應。另外，巴林內政部說，一個民用工業設施受到伊朗襲擊，引發火災，初步相信無人員傷亡。"
-    },
-    "tags": {
-      "en": [
-        "Iran",
-        "United States",
-        "Bahrain"
-      ],
-      "zh_hans": [
-        "伊朗",
-        "美国",
-        "巴林"
-      ],
-      "zh_hant": [
-        "伊朗",
-        "美國",
-        "巴林"
-      ]
-    },
-    "title": {
-      "en": "Iran Strikes US Air Defence Radars at Two Bahrain Bases in Retaliation for Airspace Violations",
-      "zh_hans": "伊朗导弹无人机袭美军巴林基地雷达 报复美机侵犯领空",
-      "zh_hant": "伊朗導彈無人機襲美軍巴林基地雷達 報復美機侵犯領空"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-iran-attacks-us-radar-bahrain-v2.jpg",
-    "image_prompt": "中東夜空下軍事基地防空雷達的場景，雷達天線指向夜空，遠處有導彈軌跡的光點，氣氛緊張嚴肅但不要血腥暴力，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面以深藍夜空為背景但主體光亮清晰。標題分兩行大字直接壓在畫面上：第一行白色大字寫『伊朗襲美軍巴林基地雷達』，第二行黃色大字寫『報復美機侵犯領空』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-iran-attacks-us-radar-bahrain-v2.jpg"
+  "summary": {
+   "en": "Hong Kong Customs detected two drug trafficking cases involving baggage concealment at Hong Kong International Airport on November 20 and 21, seizing about 37.3kg of suspected cannabis buds with an estimated market value of about $8 million. In the first case, a 46-year-old British transit passenger arriving from Bangkok and bound for London was found with about 35kg in two check-in suitcases. In the second, about 2.3kg was found in unclaimed baggage from Bangkok on August 10; a 39-year-old Mainland man was arrested yesterday on arrival via Taipei. Both men have each been charged with trafficking in a dangerous drug and will appear at West Kowloon Magistrates' Courts tomorrow (November 23).",
+   "zh_hans": "香港海关一连两日（11月20日及21日）在香港国际机场破获两宗行李藏毒案，共检获约37.3公斤怀疑大麻花，市值约800万元。首宗案件一名46岁英籍男过境旅客由曼谷抵港拟转机往伦敦，海关在其两个寄舱行李箱搜出约35公斤大麻花；第二宗案件海关在8月10日于一件由曼谷抵港的无人认领行李发现约2.3公斤大麻花，经调查后昨日拘捕一名39岁内地男子。两人各被控一项贩运危险药物罪，明日（11月23日）在西九龙裁判法院提堂。",
+   "zh_hant": "香港海關一連兩日（11月20日及21日）在香港國際機場破獲兩宗行李藏毒案，共檢獲約37.3公斤懷疑大麻花，市值約800萬元。首宗案件一名46歲英籍男過境旅客由曼谷抵港擬轉機往倫敦，海關在其兩個寄艙行李箱搜出約35公斤大麻花；第二宗案件海關在8月10日於一件由曼谷抵港的無人認領行李發現約2.3公斤大麻花，經調查後昨日拘捕一名39歲內地男子。兩人各被控一項販運危險藥物罪，明日（11月23日）在西九龍裁判法院提堂。"
   },
-  {
-    "category": "hk",
-    "id": "20261122-hk-cinema-mulan-film-festival-toronto",
-    "published_at": "2026-11-22T10:35:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112100134.htm"
-    },
-    "summary": {
-      "en": "The Hong Kong Economic and Trade Office in Toronto is presenting six Hong Kong films at the 2026 Mulan International Film Festival, running from November 21 to December 3 in Toronto, Canada. Director of the Toronto ETO Bill Wong said ahead of the Canadian premiere of 'Cyclone' that the SAR Government supports film production and nurtures talent through funding schemes, encouraging emerging filmmakers to create quality work and explore international markets. The 13-day festival screens 39 films, showcasing the diversity of Chinese-language cinema.",
-      "zh_hans": "香港驻多伦多经济贸易办事处在11月21日至12月3日举行的2026年多伦多木兰国际电影节推介六部香港电影，包括《Cyclone》加拿大首映。多伦多经贸办处长黄伟辉在首映前表示，特区政府一直透过资助计划支持电影制作、培育人才，鼓励新晋电影人创作优质作品、开拓国际市场。今届影展为期13日，共放映39部影片，展现泛华语电影的多元面貌。",
-      "zh_hant": "香港駐多倫多經濟貿易辦事處在11月21日至12月3日舉行的2026年多倫多木蘭國際電影節推介六部香港電影，包括《Cyclone》加拿大首映。多倫多經貿辦處長黃偉輝在首映前表示，特區政府一直透過資助計劃支持電影製作、培育人才，鼓勵新晉電影人創作優質作品、開拓國際市場。今屆影展為期13日，共放映39部影片，展現泛華語電影的多元面貌。"
-    },
-    "tags": {
-      "en": [
-        "Hong Kong cinema",
-        "Mulan Film Festival",
-        "Toronto"
-      ],
-      "zh_hans": [
-        "香港电影",
-        "木兰影展",
-        "多伦多"
-      ],
-      "zh_hant": [
-        "香港電影",
-        "木蘭影展",
-        "多倫多"
-      ]
-    },
-    "title": {
-      "en": "Hong Kong Cinema Takes Centre Stage in Toronto as Six Local Films Screen at Mulan Festival",
-      "zh_hans": "港产片扬威多伦多 六部港片亮相木兰影展 展现香港电影魅力",
-      "zh_hant": "港產片揚威多倫多 六部港片亮相木蘭影展 展現香港電影魅力"
-    },
-    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-hk-cinema-mulan-film-festival-toronto.jpg",
-    "image_r2_key": "design/202611/20261122-hk-cinema-mulan-film-festival-toronto.jpg"
+  "tags": {
+   "en": [
+    "Customs",
+    "airport",
+    "drug trafficking"
+   ],
+   "zh_hans": [
+    "海关",
+    "机场",
+    "贩毒"
+   ],
+   "zh_hant": [
+    "海關",
+    "機場",
+    "販毒"
+   ]
   },
-  {
-    "category": "hk",
-    "id": "20261122-election-turnout-1000-4474-percent",
-    "published_at": "2026-11-22T10:25:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878751-20261122.htm"
-    },
-    "summary": {
-      "en": "Voting in the Election Committee Subsector Ordinary Elections began at 9am today, with 2,554 ballots cast by 10am — a turnout of 44.74% out of 5,709 registered voters. The Commercial (third) subsector led with 98.23%, while grassroots associations and area committee representatives also topped 50%. Officials and lawmakers visited polling stations in the morning and urged eligible voters to cast their ballots. Polls close at 6pm, with 31 subsectors contested.",
-      "zh_hans": "选举委员会界别分组一般选举今早9时开始投票，截至早上10时累计2,554人投票，投票率44.74%，总选民人数5,709人。商界（第三界别）投票率最高达98.23%，基层社团及地区委员会代表界别亦超过五成。投票过程大致顺畅，多名官员及立法会议员早上到票站视察及投票，呼吁合资格选民踊跃投票。投票将于今晚6时结束，31个界别需要竞逐。",
-      "zh_hant": "選舉委員會界別分組一般選舉今早9時開始投票，截至早上10時累計2,554人投票，投票率44.74%，總選民人數5,709人。商界（第三界別）投票率最高達98.23%，基層社團及地區委員會代表界別亦超過五成。投票過程大致順暢，多名官員及立法會議員早上到票站視察及投票，呼籲合資格選民踴躍投票。投票將於今晚6時結束，31個界別需要競逐。"
-    },
-    "tags": {
-      "en": [
-        "Election Committee",
-        "subsector elections",
-        "voter turnout"
-      ],
-      "zh_hans": [
-        "选举委员会",
-        "界别分组选举",
-        "投票率"
-      ],
-      "zh_hant": [
-        "選舉委員會",
-        "界別分組選舉",
-        "投票率"
-      ]
-    },
-    "title": {
-      "en": "Election Committee Polls: 44.74% Turnout by 10am as 2,554 Voters Cast Ballots",
-      "zh_hans": "选委会选举投票率出炉 截至早上10时44.74% 逾2,500人已投票",
-      "zh_hant": "選委會選舉投票率出爐 截至早上10時44.74% 逾2,500人已投票"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-election-turnout-1000-4474-percent-v2.jpg",
-    "image_prompt": "選舉委員會界別分組一般選舉投票日，票站內選民排隊投票的場景，投票箱和工作人員協助選民，氣氛莊重有序，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『選委會選舉投票率44.74%』，第二行黃色大字寫『早上10時逾2,500人已投票』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-election-turnout-1000-4474-percent-v2.jpg"
+  "title": {
+   "en": "Customs Busts Two Airport Drug Cases Seizing 37.3kg of Cannabis Buds Worth $8m",
+   "zh_hans": "海关机场连破两宗贩毒案 检37.3公斤大麻花值800万",
+   "zh_hant": "海關機場連破兩宗販毒案 檢37.3公斤大麻花值800萬"
   },
-  {
-    "category": "china",
-    "id": "20261122-china-opposes-us-telecom-number-ban",
-    "published_at": "2026-11-22T10:16:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878750-20261122.htm"
-    },
-    "summary": {
-      "en": "China's Ministry of Commerce has hit back at a US plan to bar Chinese telecom operators from directly obtaining US internet telephone number resources, accusing Washington of abusing regulatory power and overstating national security risks without factual basis, in violation of non-discrimination and fair competition principles. The spokesperson said the US Federal Communications Commission has been pushing decoupling in telecoms, communications and testing certification, going against the consensus reached by the two countries' leaders and undermining trade stability. Beijing urged Washington to withdraw the measures immediately and return to resolving issues through consultation.",
-      "zh_hans": "商务部就美国计划禁止中国电信运营商直接获取美国互联网电话号码资源作出回应，发言人批评美方滥用监管权力、泛化国家安全风险，在缺乏事实依据下违反非歧视和公平竞争原则，肆意打压中国电信企业在美运营。发言人指出，美国联邦通讯委员会近期持续推动中美在电信、通信和检测认证方面脱钩断链，违背两国元首达成的重要共识，破坏中美经贸稳定局面，中方坚决反对，并敦促美方立即撤销有关措施，回到通过磋商解决问题的正确道路上。",
-      "zh_hant": "商務部就美國計劃禁止中國電信運營商直接獲取美國互聯網電話號碼資源作出回應，發言人批評美方濫用監管權力、泛化國家安全風險，在缺乏事實依據下違反非歧視和公平競爭原則，肆意打壓中國電信企業在美運營。發言人指出，美國聯邦通訊委員會近期持續推動中美在電信、通信和檢測認證方面脫鉤斷鏈，違背兩國元首達成的重要共識，破壞中美經貿穩定局面，中方堅決反對，並敦促美方立即撤銷有關措施，回到通過磋商解決問題的正確道路上。"
-    },
-    "tags": {
-      "en": [
-        "China-US relations",
-        "telecom",
-        "Commerce Ministry"
-      ],
-      "zh_hans": [
-        "中美关系",
-        "电信",
-        "商务部"
-      ],
-      "zh_hant": [
-        "中美關係",
-        "電信",
-        "商務部"
-      ]
-    },
-    "title": {
-      "en": "Beijing Slams US Plan to Bar Chinese Telecom Carriers from US Phone Numbers",
-      "zh_hans": "中方强烈反对美方拟禁中国电信商取号 促立即撤销措施",
-      "zh_hant": "中方強烈反對美方擬禁中國電信商取號 促立即撤銷措施"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-china-opposes-us-telecom-number-ban-v2.jpg",
-    "image_prompt": "中美電信議題場景：現代通訊基站和光纖網絡，城市天際線，科技感藍色調，畫面明亮。電視新聞圖卡風格，16:9。標題分兩行大字直接壓在畫面上：第一行白色大字寫『中方強烈反對美方擬禁中國電信商取號』，第二行黃色大字寫『促立即撤銷措施』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-china-opposes-us-telecom-number-ban-v2.jpg"
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-customs-airport-cannabis-37kg-8m.jpg",
+  "image_r2_key": "design/202611/20261122-customs-airport-cannabis-37kg-8m.jpg"
+ },
+ {
+  "category": "china",
+  "id": "20261122-urumqi-earthquake-45-magnitude-no-casualties",
+  "published_at": "2026-11-22T17:08:00+08:00",
+  "source": {
+   "name": "中國日報",
+   "url": "https://global.chinadaily.com.cn/a/202611/22/WS6b02ca2be4b03ebf8519deb6.html"
   },
-  {
-    "category": "hk",
-    "id": "20261122-customs-methamphetamine-mexico-mold-7m",
-    "published_at": "2026-11-22T10:10:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200207.htm"
-    },
-    "summary": {
-      "en": "Hong Kong Customs seized about 15 kilograms of suspected methamphetamine, worth an estimated $7 million, at the Kwai Chung Customhouse Cargo Examination Compound on November 18. Officers inspected a seaborne consolidated consignment from Mexico declared as plastic container moulds and found the drugs hidden inside a metal mould. A controlled delivery operation led to the arrest of a 41-year-old male recipient in Kwai Chung yesterday; he has been released on bail pending further investigation. Under the Dangerous Drugs Ordinance, drug trafficking carries a maximum penalty of a $5 million fine and life imprisonment.",
-      "zh_hans": "香港海关于11月18日在葵涌海关大楼验货场检查一批由墨西哥抵港、报称载有塑胶容器模具的海运拼箱货物，经风险评估开箱检查后，在一个金属模具内发现约15公斤怀疑冰毒，估计市值约700万元。海关其后展开控制下交付行动，昨日在葵涌拘捕一名41岁男收货人，获准保释候查，案件仍在调查中。根据《危险药物条例》，贩运危险药物最高可判罚款500万元及终身监禁。",
-      "zh_hant": "香港海關於11月18日在葵涌海關大樓驗貨場檢查一批由墨西哥抵港、報稱載有塑膠容器模具的海運拼箱貨物，經風險評估開箱檢查後，在一個金屬模具內發現約15公斤懷疑冰毒，估計市值約700萬元。海關其後展開控制下交付行動，昨日在葵涌拘捕一名41歲男收貨人，獲准保釋候查，案件仍在調查中。根據《危險藥物條例》，販運危險藥物最高可判罰款500萬元及終身監禁。"
-    },
-    "tags": {
-      "en": [
-        "Customs",
-        "methamphetamine",
-        "drug trafficking"
-      ],
-      "zh_hans": [
-        "海关",
-        "冰毒",
-        "贩毒"
-      ],
-      "zh_hant": [
-        "海關",
-        "冰毒",
-        "販毒"
-      ]
-    },
-    "title": {
-      "en": "Customs Seizes 15kg of Meth Worth $7 Million Hidden in Metal Mould from Mexico",
-      "zh_hans": "海关破获墨西哥来货藏毒案 金属模具藏冰毒15公斤 市值700万",
-      "zh_hant": "海關破獲墨西哥來貨藏毒案 金屬模具藏冰毒15公斤 市值700萬"
-    },
-    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-customs-methamphetamine-mexico-mold-7m.jpg",
-    "image_r2_key": "design/202611/20261122-customs-methamphetamine-mexico-mold-7m.jpg"
+  "summary": {
+   "en": "A 4.5-magnitude earthquake struck Urumqi county in Urumqi, Xinjiang, at 5:08pm today, at a depth of 30 kilometres, with the epicentre at 43.41 degrees north latitude and 88.04 degrees east longitude, according to the China Earthquake Networks Center. The tremor was felt in Changji, Urumqi and Turpan, and the Urumqi emergency management bureau said no reports of collapsed buildings or casualties had been received.",
+   "zh_hans": "新疆乌鲁木齐市乌鲁木齐县今日下午5时08分发生4.5级地震，震源深度30公里，震央位于北纬43.41度、东经88.04度。中国地震台网表示，昌吉、乌鲁木齐市及吐鲁番等地有震感，乌鲁木齐市应急管理局指暂未接获房屋倒塌及人员伤亡报告。",
+   "zh_hant": "新疆烏魯木齊市烏魯木齊縣今日下午5時08分發生4.5級地震，震源深度30公里，震央位於北緯43.41度、東經88.04度。中國地震台網表示，昌吉、烏魯木齊市及吐魯番等地有震感，烏魯木齊市應急管理局指暫未接獲房屋倒塌及人員傷亡報告。"
   },
-  {
-    "category": "world",
-    "id": "20261122-france-sixth-saturday-protests",
-    "published_at": "2026-11-22T10:00:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878748-20261122.htm"
-    },
-    "summary": {
-      "en": "Protesters took to the streets in Paris and across France on Saturday, the sixth consecutive Saturday of demonstrations since cost-of-living protests turned into riots on October 17 — but crowds hit a new low. The Interior Ministry put turnout at just over 82,000 nationwide, while unions organising the marches claimed 150,000; the government deployed 70,000 police and gendarmes. The October 17 protests drew an estimated 550,000 people by official count, 800,000 by organisers, with riots in Paris and other cities and at least 3,000 shops damaged; turnout peaked at 575,000 on November 5 before falling back.",
-      "zh_hans": "法国巴黎等多处民众星期六举行新的示威游行，是自上月17日抗议生活成本高企酿成骚乱以来，连续第六个周六有示威活动，但规模创新低。内政部表示全国共有8万2千多人上街，组织游行的工会则称有15万人；政府部署7万名警察和宪兵维持秩序。法国上月17日的全国性示威，政府估计约55万人参与，组织单位则称80万人，巴黎等部分城市酿成骚乱，官方统计全国至少3,000间商店遭破坏；之后每个星期六都有示威，本月5日规模达到57.5万人高峰后回落。",
-      "zh_hant": "法國巴黎等多處民眾星期六舉行新的示威遊行，是自上月17日抗議生活成本高企釀成騷亂以來，連續第六個周六有示威活動，但規模創新低。內政部表示全國共有8萬2千多人上街，組織遊行的工會則稱有15萬人；政府部署7萬名警察和憲兵維持秩序。法國上月17日的全國性示威，政府估計約55萬人參與，組織單位則稱80萬人，巴黎等部分城市釀成騷亂，官方統計全國至少3,000間商店遭破壞；之後每個星期六都有示威，本月5日規模達到57.5萬人高峰後回落。"
-    },
-    "tags": {
-      "en": [
-        "France",
-        "protests",
-        "cost of living"
-      ],
-      "zh_hans": [
-        "法国",
-        "示威",
-        "生活成本"
-      ],
-      "zh_hant": [
-        "法國",
-        "示威",
-        "生活成本"
-      ]
-    },
-    "title": {
-      "en": "France Sees Sixth Straight Saturday of Protests but Crowds Hit New Low",
-      "zh_hans": "法国连续第六个周六爆示威 规模创新低 逾8万人上街",
-      "zh_hant": "法國連續第六個周六爆示威 規模創新低 逾8萬人上街"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-france-sixth-saturday-protests-v2.jpg",
-    "image_prompt": "法國巴黎街頭示威場景：大批市民在寬闊大道上遊行，遠處是巴黎建築，旗幟和標語牌但標語牌上不要寫任何文字，警員在旁維持秩序，人物用背影或遠景，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『法國連續第六個周六爆示威』，第二行黃色大字寫『規模創新低逾8萬人上街』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-france-sixth-saturday-protests-v2.jpg"
+  "tags": {
+   "en": [
+    "earthquake",
+    "Xinjiang",
+    "Urumqi"
+   ],
+   "zh_hans": [
+    "地震",
+    "新疆",
+    "乌鲁木齐"
+   ],
+   "zh_hant": [
+    "地震",
+    "新疆",
+    "烏魯木齊"
+   ]
   },
-  {
-    "category": "hk",
-    "id": "20261122-hk-chile-working-holiday-agreement",
-    "published_at": "2026-11-22T09:42:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878745-20261122.htm"
-    },
-    "summary": {
-      "en": "Hong Kong has signed a working holiday agreement with Chile, with each side offering 100 places a year and visas valid for up to one year. Secretary for Labour and Welfare Chris Sun said it is Hong Kong's first such agreement with a South American country, aimed at giving young people more choices, and it is expected to take effect in the first half of next year. The two sides still need to complete an exchange of letters before the scheme can formally begin.",
-      "zh_hans": "香港与智利签署工作假期计划协议，双方每年各提供100个名额，签证有效期最长一年。劳工及福利局局长孙玉菡表示，这是香港首次与南美洲地区签署同类协议，目的是为年轻人开拓更多选择，预计明年上半年落实推行。双方仍须进行书信交换，方可正式落实计划。",
-      "zh_hant": "香港與智利簽署工作假期計劃協議，雙方每年各提供100個名額，簽證有效期最長一年。勞工及福利局局長孫玉菡表示，這是香港首次與南美洲地區簽署同類協議，目的是為年輕人開拓更多選擇，預計明年上半年落實推行。雙方仍須進行書信交換，方可正式落實計劃。"
-    },
-    "tags": {
-      "en": [
-        "working holiday",
-        "Chile",
-        "Chris Sun"
-      ],
-      "zh_hans": [
-        "工作假期",
-        "智利",
-        "孙玉菡"
-      ],
-      "zh_hant": [
-        "工作假期",
-        "智利",
-        "孫玉菡"
-      ]
-    },
-    "title": {
-      "en": "Hong Kong and Chile Sign Working Holiday Deal With 100 Places a Year",
-      "zh_hans": "香港智利签工作假期协议 每年100名额 最快明年上半年推行",
-      "zh_hant": "香港智利簽工作假期協議 每年100名額 最快明年上半年推行"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-hk-chile-working-holiday-agreement-v2.jpg",
-    "image_prompt": "機場出境大堂日間明亮場景，年輕旅客拖著行李箱準備出發旅行，背景是航班顯示屏和玻璃幕牆，氣氛輕鬆有朝氣，人物用背影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『香港智利簽工作假期協議』，第二行黃色大字寫『每年100名額 最快明年上半年推行』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-hk-chile-working-holiday-agreement-v2.jpg"
+  "title": {
+   "en": "4.5-Magnitude Quake Hits Urumqi County, No Casualties Reported",
+   "zh_hans": "新疆乌鲁木齐县4.5级地震 震源深30公里 暂无伤亡报告",
+   "zh_hant": "新疆烏魯木齊縣4.5級地震 震源深30公里 暫無傷亡報告"
   },
-  {
-    "category": "hk",
-    "id": "20261122-weather-cooler-midweek-showers",
-    "published_at": "2026-11-22T09:09:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878743-20261122.htm"
-    },
-    "summary": {
-      "en": "The Observatory says a fresh to strong easterly airstream will affect the south China coast over the next two days, bringing more cloud and a slight rise in temperatures. A northeast monsoon is expected to reach the region on Tuesday, bringing cooler weather and a few showers midweek, before easing later in the week as skies clear and temperatures recover along the Guangdong coast.",
-      "zh_hans": "天文台表示，一股清劲至强风程度的偏东气流会在今明两日影响华南沿岸，该区云量增多，气温略为回升。预料东北季候风星期二抵达华南沿岸，本周中期该区气温下降及有几阵雨；季候风本周后期稍为缓和，广东沿岸天色好转，气温回升。",
-      "zh_hant": "天文台表示，一股清勁至強風程度的偏東氣流會在今明兩日影響華南沿岸，該區雲量增多，氣溫略為回升。預料東北季候風星期二抵達華南沿岸，本周中期該區氣溫下降及有幾陣雨；季候風本周後期稍為緩和，廣東沿岸天色好轉，氣溫回升。"
-    },
-    "tags": {
-      "en": [
-        "Observatory",
-        "weather",
-        "monsoon"
-      ],
-      "zh_hans": [
-        "天文台",
-        "天气",
-        "季候风"
-      ],
-      "zh_hant": [
-        "天文台",
-        "天氣",
-        "季候風"
-      ]
-    },
-    "title": {
-      "en": "Cooler Weather Ahead as Northeast Monsoon Brings Showers to South China Coast Midweek",
-      "zh_hans": "天文台预告周中期转凉 华南沿岸气温下降兼有几阵雨",
-      "zh_hant": "天文台預告周中期轉涼 華南沿岸氣溫下降兼有幾陣雨"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-weather-cooler-midweek-showers-v2.jpg",
-    "image_prompt": "華南沿岸天氣場景：維多利亞港上空雲層變化，遠處高樓，市民帶備雨具在海旁行走，風吹動樹木。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『天文台預告周中期轉涼』，第二行黃色大字寫『氣溫下降兼有幾陣雨』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-weather-cooler-midweek-showers-v2.jpg"
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-urumqi-earthquake-45-magnitude-no-casualties-v2.jpg",
+  "image_prompt": "新疆烏魯木齊山區地震場景，遠處山巒與城市天際線，地面輕微震動的感覺，畫面不要出現倒塌樓宇或傷者，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「新疆烏魯木齊縣4.5級地震」，第二行黃色大字寫「震源深30公里 暫無傷亡報告」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-urumqi-earthquake-45-magnitude-no-casualties-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-election-turnout-1600-9739-percent",
+  "published_at": "2026-11-22T16:20:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200430.htm"
   },
-  {
-    "category": "world",
-    "id": "20261122-iran-14-tankers-break-us-blockade",
-    "published_at": "2026-11-22T09:01:00+08:00",
-    "source": {
-      "name": "Gulf News",
-      "url": "https://gulfnews.com/world/mena/iran-readies-14-tankers-to-break-us-blockade-what-happens-if-they-try-1.500756460"
-    },
-    "summary": {
-      "en": "An Iranian lawmaker says 14 oil tankers are preparing to challenge the US naval blockade, and the deputy foreign minister has warned Tehran will take 'any action necessary' to break it. The tankers are reportedly gathered near Kharg Island, Iran's main oil export terminal, with crews assigned and Iranian flags raised, though there is no independent confirmation the operation has begun. Around 43 million barrels of Iranian oil remain stranded inside the blockade zone, and shipping through the Strait of Hormuz is about 65% below pre-war levels.",
-      "zh_hans": "伊朗国会议员表示，14艘油轮正准备冲破美国的海上封锁，副外长亦警告德黑兰将采取「一切必要行动」打破封锁。据报有关油轮已在主要出口港卡尔格岛附近集结，船员已就位并升起伊朗国旗，但暂时未有独立证实行动已经展开。美军封锁已令4,300万桶伊朗原油滞留，荷姆兹海峡航运量较战前大跌65%。",
-      "zh_hant": "伊朗國會議員表示，14艘油輪正準備衝破美國的海上封鎖，副外長亦警告德黑蘭將採取「一切必要行動」打破封鎖。據報有關油輪已在主要出口港卡爾格島附近集結，船員已就位並升起伊朗國旗，但暫時未有獨立證實行動已經展開。美軍封鎖已令4,300萬桶伊朗原油滯留，荷姆茲海峽航運量較戰前大跌65%。"
-    },
-    "tags": {
-      "en": [
-        "Iran",
-        "United States",
-        "Strait of Hormuz"
-      ],
-      "zh_hans": [
-        "伊朗",
-        "美国",
-        "荷姆兹海峡"
-      ],
-      "zh_hant": [
-        "伊朗",
-        "美國",
-        "荷姆茲海峽"
-      ]
-    },
-    "title": {
-      "en": "Iran Says 14 Tankers Ready to Challenge US Blockade as Hormuz Shipping Plunges 65%",
-      "zh_hans": "伊朗议员称14艘油轮准备冲破美军封锁 荷姆兹海峡航运急跌65%",
-      "zh_hant": "伊朗議員稱14艘油輪準備衝破美軍封鎖 荷姆茲海峽航運急跌65%"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-iran-14-tankers-break-us-blockade-v2.jpg",
-    "image_prompt": "荷姆茲海峽日間明亮海面，幾艘大型油輪在藍色海面上航行，遠處是海岸線和藍天白雲，氣氛開闊明亮，不要畫軍事衝突或爆炸場面。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『伊朗稱14艘油輪準備衝破封鎖』，第二行黃色大字寫『荷姆茲航運較戰前急跌65%』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-iran-14-tankers-break-us-blockade-v2.jpg"
+  "summary": {
+   "en": "Voting in the 2026 Election Committee Subsector Ordinary Elections continued to climb, reaching a cumulative turnout of 97.39% by 4pm, with 5,560 of the 5,709 registered voters having cast ballots. Social welfare surged to 92.02% from 53.37% at noon, while insurance was lowest at 81.82%; ten subsectors including Commercial (third), Industrial (first), accountancy and legal had already reached 100%. Polls close at 6pm, after which ballot boxes will be taken to the central counting station at the Hong Kong Convention and Exhibition Centre.",
+   "zh_hans": "2026年选举委员会界别分组一般选举投票率继续攀升，截至下午4时累计投票率达97.39%，5,709名选民中已有5,560人投票。社福界由中午的53.37%急升至92.02%，保险界以81.82%暂时包尾；商界（第三）、工业（第一）、会计界及法律界等10个界别分组已达100%。投票将于下午6时结束，票箱随后运往会展中央点票站点票。",
+   "zh_hant": "2026年選舉委員會界別分組一般選舉投票率繼續攀升，截至下午4時累積投票率達97.39%，5,709名選民中已有5,560人投票。社福界由中午的53.37%急升至92.02%，保險界以81.82%暫時包尾；商界（第三）、工業界（第一）、會計界及法律界等10個界別分組已達100%。投票將於下午6時結束，票箱隨後運往會展中央點票站點票。"
   },
-  {
-    "category": "china",
-    "id": "20261122-shanghai-two-japanese-restaurant-death",
-    "published_at": "2026-11-22T08:47:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878742-20261122.htm"
-    },
-    "summary": {
-      "en": "Two Japanese men clashed at a restaurant in Shanghai, leaving one dead and the other arrested. Kyodo News reported the incident happened on November 18; both men are in their 50s and are friends. The two were attending a gathering at the restaurant when a dispute broke out, and one may have used violence against the other. The arrested man used to live in Shanghai but now resides in Japan and had travelled to China for the gathering; the deceased lived in Shanghai.",
-      "zh_hans": "两名日本人在上海一间餐厅发生冲突，其中一人死亡，另一人被捕。据共同社报道，事件在本月18日发生，两人都是50多岁的男性，是朋友关系。据了解，两人到访涉事餐厅出席聚会期间突然发生纠纷，其中一人可能对另一人实施暴力行为。报道说，被捕男子曾经在上海居住，现时在日本生活，今次为参加餐厅举办的聚会而赴华；死者则住在上海。",
-      "zh_hant": "兩名日本人在上海一間餐廳發生衝突，其中一人死亡，另一人被捕。據共同社報道，事件在本月18日發生，兩人都是50多歲的男性，是朋友關係。據了解，兩人到訪涉事餐廳出席聚會期間突然發生糾紛，其中一人可能對另一人實施暴力行為。報道說，被捕男子曾經在上海居住，現時在日本生活，今次為參加餐廳舉辦的聚會而赴華；死者則住在上海。"
-    },
-    "tags": {
-      "en": [
-        "Shanghai",
-        "Japan",
-        "homicide"
-      ],
-      "zh_hans": [
-        "上海",
-        "日本",
-        "命案"
-      ],
-      "zh_hant": [
-        "上海",
-        "日本",
-        "命案"
-      ]
-    },
-    "title": {
-      "en": "Two Japanese Men Clash at Shanghai Restaurant Leaving One Dead and One Arrested",
-      "zh_hans": "上海餐厅两日本人冲突酿命案 一人死亡一人被捕",
-      "zh_hant": "上海餐廳兩日本人衝突釀命案 一人死亡一人被捕"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-shanghai-two-japanese-restaurant-death-v2.jpg",
-    "image_prompt": "上海街頭餐廳外景，夜晚燈光，街道和餐廳招牌，氣氛平靜，沒有人物特寫。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『上海餐廳兩日本人衝突釀命案』，第二行黃色大字寫『一人死亡一人被捕』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
-    "image_r2_key": "design/202611/20261122-shanghai-two-japanese-restaurant-death-v2.jpg"
+  "tags": {
+   "en": [
+    "Election Committee",
+    "subsector elections",
+    "voter turnout"
+   ],
+   "zh_hans": [
+    "选举委员会",
+    "界别分组选举",
+    "投票率"
+   ],
+   "zh_hant": [
+    "選舉委員會",
+    "界別分組選舉",
+    "投票率"
+   ]
   },
-  {
-    "category": "hk",
-    "id": "20261122-yellow-fire-danger-warning",
-    "published_at": "2026-11-22T06:01:00+08:00",
-    "source": {
-      "name": "政府新聞處",
-      "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200119.htm"
-    },
-    "summary": {
-      "en": "The Observatory issued a yellow fire danger warning at 6:01 this morning, saying the fire danger situation today is yellow and the risk of fire is high. People are urged to prevent fires from breaking out, and hikers should stay vigilant and not light fires in country parks.",
-      "zh_hans": "天文台今日早上6时01分发出黄色火灾危险警告，表示今日火灾危险情况属黄色，火灾风险颇高。市民应小心防止火警发生，郊游人士亦应提高警觉，切勿在郊野公园内生火。",
-      "zh_hant": "天文台今日早上6時01分發出黃色火災危險警告，表示今日火災危險情況屬黃色，火災風險頗高。市民應小心防止火警發生，郊遊人士亦應提高警覺，切勿在郊野公園內生火。"
-    },
-    "tags": {
-      "en": [
-        "Yellow fire danger warning",
-        "Observatory",
-        "fire prevention"
-      ],
-      "zh_hans": [
-        "黄色火灾危险警告",
-        "天文台",
-        "防火"
-      ],
-      "zh_hant": [
-        "黃色火災危險警告",
-        "天文台",
-        "防火"
-      ]
-    },
-    "title": {
-      "en": "Yellow fire danger warning in force as fire risk runs high, public urged to take care",
-      "zh_hans": "黄色火灾危险警告生效 火灾风险颇高吁市民小心防火",
-      "zh_hant": "黃色火災危險警告生效 火災風險頗高籲市民小心防火"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-yellow-fire-danger-warning-v2.jpg",
-    "image_prompt": "事實：天文台發出黃色火災危險警告，今日火災風險頗高，呼籲市民小心防火，郊遊人士切勿在郊野公園內生火。場景：光猛日間，一個陽光普照的郊野公園山徑，藍天白雲，綠樹成蔭，畫面光亮通透；遠處山坡有淡淡煙霧警示。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「黃色火災危險警告生效」白字，第二行「火災風險頗高 籲小心防火」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。",
-    "image_r2_key": "design/202611/20261122-yellow-fire-danger-warning-v2.jpg"
+  "title": {
+   "en": "Election Committee Polls Hit 97.39% as 5,560 Voters Cast Ballots by 4pm",
+   "zh_hans": "选委会选举投票率冲上97.39% 下午4时已有5,560人投票",
+   "zh_hant": "選委會選舉投票率衝上97.39% 下午4時已有5,560人投票"
   },
-  {
-    "category": "world",
-    "id": "20261122-japan-heavy-snow-fukushima-isolated",
-    "published_at": "2026-11-22T05:09:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878738-20261122.htm"
-    },
-    "summary": {
-      "en": "Heavy snow has hit Japan's Tohoku and Hokuriku regions over the past two days, disrupting transport and public services. In Kitashiobara village, Fukushima, fallen trees blocked roads around the popular Urabandai resort area, leaving more than 940 residents in over 510 households and at least 500 hotel guests cut off, with about 700 households without power and phone lines down. Snow reached 50 cm in parts of Iwate, and Yamagata Shinkansen services were suspended for the day. Authorities warned of avalanches and landslides.",
-      "zh_hans": "日本东北及北陆地区过去两日落大雪，交通及公共服务受影响。福岛县北盐原村著名景点里磐梯一带，大雪压断树木阻塞道路，510多户、超过940名居民及最少500名住客孤立无援，村内约700户停电，电话亦难以接通。岩手县部分地区积雪达50厘米，山形新干线部分路段全日停运，当局呼吁民众提防雪崩及山泥倾泻。",
-      "zh_hant": "日本東北及北陸地區過去兩日落大雪，交通及公共服務受影響。福島縣北鹽原村著名景點裏磐梯一帶，大雪壓斷樹木阻塞道路，510多戶、超過940名居民及最少500名住客孤立無援，村內約700戶停電，電話亦難以接通。岩手縣部分地區積雪達50厘米，山形新幹線部分路段全日停運，當局呼籲民眾提防雪崩及山泥傾瀉。"
-    },
-    "tags": {
-      "en": [
-        "Japan snow",
-        "Fukushima",
-        "transport disruption"
-      ],
-      "zh_hans": [
-        "日本大雪",
-        "福岛",
-        "交通受阻"
-      ],
-      "zh_hant": [
-        "日本大雪",
-        "福島",
-        "交通受阻"
-      ]
-    },
-    "title": {
-      "en": "Heavy snow cuts off 1,400 people in Japan's Fukushima as power fails and roads close",
-      "zh_hans": "日本东北大雪封村 逾千居民旅客受困断电",
-      "zh_hant": "日本東北大雪封村 逾千居民旅客受困斷電"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-japan-heavy-snow-fukushima-isolated-v2.jpg",
-    "image_prompt": "事實：日本東北及北陸地區落大雪，福島縣著名景點裏磐梯一帶逾千居民及旅客受困，約700戶停電，交通癱瘓。場景：光猛日間，一個被厚雪覆蓋的日本山區村落，雪白屋頂、積雪松樹，陽光照在雪地上，光亮通透；遠處有除雪車與被雪壓彎的樹木。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「日本東北大雪封村」白字，第二行「逾千人受困斷電」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。",
-    "image_r2_key": "design/202611/20261122-japan-heavy-snow-fukushima-isolated-v2.jpg"
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-election-turnout-1600-9739-percent-v2.jpg",
+  "image_prompt": "選舉委員會界別分組一般選舉投票日下午時分，票站內選民排隊投票的場景，投票箱和工作人員協助選民，氣氛莊重有序，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『選委會選舉投票率97.39%』，第二行黃色大字寫『下午4時5,560人已投票』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-election-turnout-1600-9739-percent-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-tsim-sha-tsui-bowring-street-fatal-crash",
+  "published_at": "2026-11-22T15:33:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878780-20261122.htm"
   },
-  {
-    "category": "world",
-    "id": "20261122-iran-diplomat-enriched-uranium-not-leaving",
-    "published_at": "2026-11-22T03:48:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878737-20261122.htm"
-    },
-    "summary": {
-      "en": "Iran's Deputy Foreign Minister for Legal and International Affairs, Gharibabadi, confirmed that a Qatari delegation visited Tehran on Friday evening for about two hours of talks. He said Iran and the United States have not yet started negotiations, and that if talks begin, the two sides will discuss technical details. Iran insists it will not ship enriched nuclear material out of the country, because doing so would force it to seek help from other countries to meet the needs of its domestic nuclear reactors. Gharibabadi added that Iran regards an economic blockade as an act of war and will take all necessary measures to break it; Iran has told the mediators and relevant parties what it plans to do, the US is aware of it, and if the US honours its commitments, Iran will act accordingly.",
-      "zh_hans": "伊朗外交部负责法律和国际事务的副部长加里巴巴迪证实，卡塔尔代表团在过去的星期五晚访问德黑兰，双方磋商约两小时。他表示，伊朗与美国目前未启动谈判，若展开谈判，双方将讨论相关技术细节；伊朗坚持不将浓缩核材料运出境外，因为若将材料运走，为满足国内核反应堆需求，就不得不向其他国家寻求帮助。加里巴巴迪又说，伊朗将经济封锁视为战争行为，将采取一切必要措施打破封锁；伊方已告知调解方及有关方面打算采取的措施，美国亦了解相关情况，只要美国履行承诺，伊朗亦将采取相应行动。",
-      "zh_hant": "伊朗外交部負責法律和國際事務的副部長加里巴巴迪證實，卡塔爾代表團在過去的星期五晚訪問德黑蘭，雙方磋商約兩小時。他表示，伊朗與美國目前未啟動談判，若展開談判，雙方將討論相關技術細節；伊朗堅持不將濃縮核材料運出境外，因為若將材料運走，為滿足國內核反應堆需求，就不得不向其他國家尋求幫助。加里巴巴迪又說，伊朗將經濟封鎖視為戰爭行為，將採取一切必要措施打破封鎖；伊方已告知調解方及有關方面打算採取的措施，美國亦了解相關情況，只要美國履行承諾，伊朗亦將採取相應行動。"
-    },
-    "tags": {
-      "en": [
-        "Iran",
-        "enriched uranium",
-        "Qatar mediation"
-      ],
-      "zh_hans": [
-        "伊朗",
-        "浓缩核材料",
-        "卡塔尔斡旋"
-      ],
-      "zh_hant": [
-        "伊朗",
-        "濃縮核材料",
-        "卡塔爾斡旋"
-      ]
-    },
-    "title": {
-      "en": "Iran insists enriched nuclear material will not leave the country as diplomat calls blockade an act of war",
-      "zh_hans": "伊朗坚持浓缩核材料不运出境 斥封锁等同战争将全力打破",
-      "zh_hant": "伊朗堅持濃縮核材料不運出境 斥封鎖等同戰爭將全力打破"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-iran-diplomat-enriched-uranium-not-leaving-v2.jpg",
-    "image_prompt": "事實：伊朗外交官員強調，德黑蘭堅持不將濃縮核材料運出境外；卡塔爾代表團星期五晚訪德黑蘭磋商兩小時；伊朗視經濟封鎖為戰爭行為。場景：光猛日間，一個莊嚴的外交會議室，長枱上放着文件及水杯，窗外陽光灑入，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「伊朗堅持核材料不運出境」白字，第二行「斥封鎖等同戰爭將全力打破」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫任何國旗。圖上除標題外不寫任何其他字。",
-    "image_r2_key": "design/202611/20261122-iran-diplomat-enriched-uranium-not-leaving-v2.jpg"
+  "summary": {
+   "en": "A serious traffic accident in Tsim Sha Tsui this afternoon left one person dead and three injured after a private car reportedly mounted the pavement. Police said the deceased was a non-Chinese man, and the three injured people were taken to hospital. The crash happened outside No. 6 Bowring Street at around 2:30pm; police have cordoned off the scene and are investigating the cause.",
+   "zh_hans": "尖沙咀宝勒巷今日下午发生严重交通意外，一辆私家车怀疑铲上行人路，造成1死3伤。警方表示，死者为一名非华裔男子，另外3名伤者已送院治理。事发于宝勒巷6号对开，下午近2时半警方接报到场，现正封锁现场调查意外原因。",
+   "zh_hant": "尖沙咀寶勒巷今日下午發生嚴重交通意外，一輛私家車懷疑剷上行人路，造成1死3傷。警方表示，死者為一名非華裔男子，另外3名傷者已送院治理。事發於寶勒巷6號對開，下午近2時半警方接報到場，現正封鎖現場調查意外原因。"
   },
-  {
-    "category": "world",
-    "id": "20261122-rutte-nato-defend-poland-territory",
-    "published_at": "2026-11-22T03:43:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878736-20261122.htm"
-    },
-    "summary": {
-      "en": "NATO Secretary General Mark Rutte said NATO will defend every inch of Polish territory, in response to Poland reporting a violation of its airspace. Speaking to reporters during a visit to the Polish capital Warsaw, Rutte said the airspace violation was a dangerous incident and that the details are still under investigation. Polish Defence Minister Wladyslaw Kosiniak-Kamysz said earlier that during a large-scale Russian overnight air attack on Ukraine, flying objects from Russia violated Polish airspace, with debris found at three sites in the south-eastern Subcarpathian and Lublin provinces, two of which may be missiles and one possibly a jet-powered drone. Russia has not responded.",
-      "zh_hans": "北约秘书长吕特就波兰方面通报的领空被侵犯事件表示，北约将捍卫波兰的每一寸领土。吕特访问波兰首都华沙，接受记者访问时说，波兰领空被侵犯是危险事件，具体情况仍在调查中。波兰国防部长科西尼亚克卡梅什较早时说，俄罗斯对乌克兰发动大规模夜间空袭期间，来自俄罗斯的飞行物侵犯波兰领空，波兰东南部喀尔巴阡山省和卢布林省的三处地点发现坠落物，其中两处可能是导弹，另一处可能为喷气式无人机。俄方未就此作出回应。",
-      "zh_hant": "北約秘書長呂特就波蘭方面通報的領空被侵犯事件表示，北約將捍衛波蘭的每一寸領土。呂特訪問波蘭首都華沙，接受記者訪問時說，波蘭領空被侵犯是危險事件，具體情況仍在調查中。波蘭國防部長科西尼亞克卡梅什較早時說，俄羅斯對烏克蘭發動大規模夜間空襲期間，來自俄羅斯的飛行物侵犯波蘭領空，波蘭東南部喀爾巴阡山省和盧布林省的三處地點發現墜落物，其中兩處可能是導彈，另一處可能為噴氣式無人機。俄方未就此作出回應。"
-    },
-    "tags": {
-      "en": [
-        "NATO",
-        "Poland",
-        "Mark Rutte"
-      ],
-      "zh_hans": [
-        "北约",
-        "波兰",
-        "吕特"
-      ],
-      "zh_hant": [
-        "北約",
-        "波蘭",
-        "呂特"
-      ]
-    },
-    "title": {
-      "en": "NATO will defend every inch of Polish territory, Rutte says as airspace violation is investigated",
-      "zh_hans": "北约保证捍卫波兰每一寸领土 俄飞行物越境事件仍在调查",
-      "zh_hant": "北約保證捍衛波蘭每一寸領土 俄飛行物越境事件仍在調查"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-rutte-nato-defend-poland-territory-v2.jpg",
-    "image_prompt": "事實：北約秘書長呂特保證捍衛波蘭每一寸領土；俄羅斯飛行物在對烏空襲期間侵犯波蘭領空，三處地點發現墜落物。場景：光猛日間，一個明亮的歐洲城市天際線遠景，藍天白雲，畫面光亮通透；前景一條筆直的跑道與停機坪。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「北約保證捍衛波蘭每一寸領土」白字，第二行「俄飛行物越境事件仍在調查」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫任何國旗。圖上除標題外不寫任何其他字。",
-    "image_r2_key": "design/202611/20261122-rutte-nato-defend-poland-territory-v2.jpg"
+  "tags": {
+   "en": [
+    "traffic accident",
+    "Tsim Sha Tsui",
+    "Bowring Street"
+   ],
+   "zh_hans": [
+    "交通意外",
+    "尖沙咀",
+    "宝勒巷"
+   ],
+   "zh_hant": [
+    "交通意外",
+    "尖沙咀",
+    "寶勒巷"
+   ]
   },
-  {
-    "category": "world",
-    "id": "20261122-finland-russian-cargo-ship-fire-drone",
-    "published_at": "2026-11-22T01:56:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878735-20261122.htm"
-    },
-    "summary": {
-      "en": "Finland's Defence Ministry said its border guard monitored a Russian cargo ship that was damaged and on fire in international waters in the eastern Gulf of Finland on Saturday morning, in a suspected drone attack. The damaged vessel has since drifted from international waters into Finnish territorial waters; the Finnish border guard is leading a maritime search and rescue operation and preparing for possible marine pollution, while the Finnish Defence Forces have imposed temporary air and sea restrictions in the eastern Gulf of Finland. The governor of Russia's Leningrad region confirmed that a Russian cargo ship sailing from the region to Kaliningrad was attacked by two drones in international waters in the Gulf of Finland, and that the crew has been evacuated, with losses still being verified.",
-      "zh_hans": "芬兰国防部发公告指出，边防军在当地星期六上午于芬兰湾东部国际水域，监测到一艘俄罗斯货船船身受损并起火，怀疑遭受无人机袭击。受损船只其后由国际水域漂入芬兰领海，芬兰边防军正指挥海上搜救行动，并准备应对可能的海洋环境污染，芬兰国防军已在芬兰湾东部实施临时空域和海域限制措施。俄罗斯列宁格勒州州长证实，一艘由该州驶往加里宁格勒州的俄罗斯货船，在芬兰湾国际水域被两架无人机袭击，船员已被疏散，损失仍在核实。",
-      "zh_hant": "芬蘭國防部發公告指出，邊防軍在當地星期六上午於芬蘭灣東部國際水域，監測到一艘俄羅斯貨船船身受損並起火，懷疑遭受無人機襲擊。受損船隻其後由國際水域漂入芬蘭領海，芬蘭邊防軍正指揮海上搜救行動，並準備應對可能的海洋環境污染，芬蘭國防軍已在芬蘭灣東部實施臨時空域和海域限制措施。俄羅斯列寧格勒州州長證實，一艘由該州駛往加里寧格勒州的俄羅斯貨船，在芬蘭灣國際水域被兩架無人機襲擊，船員已被疏散，損失仍在核實。"
-    },
-    "tags": {
-      "en": [
-        "Gulf of Finland",
-        "Russia",
-        "drone attack"
-      ],
-      "zh_hans": [
-        "芬兰湾",
-        "俄罗斯货船",
-        "无人机袭击"
-      ],
-      "zh_hant": [
-        "芬蘭灣",
-        "俄羅斯貨船",
-        "無人機襲擊"
-      ]
-    },
-    "title": {
-      "en": "Russian cargo ship damaged and on fire in Gulf of Finland after suspected drone attack; crew evacuated",
-      "zh_hans": "俄罗斯货船芬兰湾起火 疑遭无人机袭击 船员撤离",
-      "zh_hant": "俄羅斯貨船芬蘭灣起火 疑遭無人機襲擊 船員撤離"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-finland-russian-cargo-ship-fire-drone-v2.jpg",
-    "image_prompt": "事實：俄羅斯貨船在芬蘭灣國際水域疑遭無人機襲擊，船身受損起火，船員撤離，船隻漂入芬蘭領海。場景：光猛日間，遼闊海面上一艘貨船遠景，船身冒出淡淡煙霧，附近有搜救船隻，天空明亮，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「俄羅斯貨船芬蘭灣起火」白字，第二行「疑遭無人機襲擊 船員撤離」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。",
-    "image_r2_key": "design/202611/20261122-finland-russian-cargo-ship-fire-drone-v2.jpg"
+  "title": {
+   "en": "Car Mounts Pavement in Tsim Sha Tsui, Killing One and Injuring Three",
+   "zh_hans": "尖沙咀私家车铲上行人路酿1死3伤 警封宝勒巷调查",
+   "zh_hant": "尖沙咀私家車剷上行人路釀1死3傷 警封寶勒巷調查"
   },
-  {
-    "category": "world",
-    "id": "20261122-qatar-delegation-tehran-mediation",
-    "published_at": "2026-11-22T01:48:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878734-20261122.htm"
-    },
-    "summary": {
-      "en": "Iranian Deputy Foreign Minister Gharibabadi said a Qatari delegation arrived in the Iranian capital Tehran on Friday evening for two hours of talks. Media reports citing sources said US presidential envoy Witkoff and President Trump's son-in-law Kushner met senior Qatari officials in Berlin on Thursday to discuss mediating between the US and Iran, with Qatar's Prime Minister and Foreign Minister Mohammed and his envoy also attending. As the key mediator between the US and Iran, Qatar has spent weeks working to broker a deal aimed at restoring a ceasefire, restarting nuclear talks and preventing war from reigniting.",
-      "zh_hans": "伊朗副外长加里巴巴迪表示，一个卡塔尔代表团在过去的星期五晚抵达伊朗首都德黑兰，双方进行两小时磋商。传媒引述知情人士报道，美国总统特使威特科夫及总统特朗普的女婿库什纳，在过去的星期四于柏林与卡塔尔高级官员会晤，讨论斡旋美国与伊朗的工作，卡塔尔首相兼外交大臣穆罕默德及他的特使亦有出席。作为美伊之间的关键斡旋方，卡塔尔在几个星期以来一直致力促成一项协议，旨在恢复停火、重启核谈判，并防止战火重燃。",
-      "zh_hant": "伊朗副外長加里巴巴迪表示，一個卡塔爾代表團在過去的星期五晚抵達伊朗首都德黑蘭，雙方進行兩小時磋商。傳媒引述知情人士報道，美國總統特使威特科夫及總統特朗普的女婿庫什納，在過去的星期四於柏林與卡塔爾高級官員會晤，討論斡旋美國與伊朗的工作，卡塔爾首相兼外交大臣穆罕默德及他的特使亦有出席。作為美伊之間的關鍵斡旋方，卡塔爾在幾個星期以來一直致力促成一項協議，旨在恢復停火、重啟核談判，並防止戰火重燃。"
-    },
-    "tags": {
-      "en": [
-        "Qatar",
-        "Iran",
-        "US-Iran mediation"
-      ],
-      "zh_hans": [
-        "卡塔尔",
-        "伊朗",
-        "美伊斡旋"
-      ],
-      "zh_hant": [
-        "卡塔爾",
-        "伊朗",
-        "美伊斡旋"
-      ]
-    },
-    "title": {
-      "en": "Qatari delegation arrives in Tehran for talks as mediation between the US and Iran resumes",
-      "zh_hans": "卡塔尔代表团抵德黑兰磋商 美伊斡旋再启动",
-      "zh_hant": "卡塔爾代表團抵德黑蘭磋商 美伊斡旋再啟動"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-qatar-delegation-tehran-mediation-v2.jpg",
-    "image_prompt": "事實：卡塔爾代表團抵達德黑蘭，與伊朗磋商兩小時；卡塔爾正斡旋美伊，推動恢復停火及重啟核談判。場景：光猛日間，一個現代化城市天際線遠景，陽光普照，天空明亮，畫面光亮通透；前景一張談判長枱放着文件及水杯。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「卡塔爾代表團抵德黑蘭磋商」白字，第二行「美伊斡旋再啟動」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫任何國旗。圖上除標題外不寫任何其他字。",
-    "image_r2_key": "design/202611/20261122-qatar-delegation-tehran-mediation-v2.jpg"
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-tsim-sha-tsui-bowring-street-fatal-crash-v2.jpg",
+  "image_prompt": "尖沙咀寶勒巷街頭下午時分，警車停泊在路邊，警方拉起封鎖線調查交通意外，街道兩旁是商店招牌，氣氛凝重但秩序井然，畫面不要出現任何傷者或死者，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『尖沙咀私家車剷上行人路』，第二行黃色大字寫『1死3傷 警封寶勒巷調查』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-tsim-sha-tsui-bowring-street-fatal-crash-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-election-turnout-1400-9355-percent",
+  "published_at": "2026-11-22T14:17:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878774-20261122.htm"
   },
-  {
-    "category": "world",
-    "id": "20261122-iran-f16-intercept-us-denies",
-    "published_at": "2026-11-22T01:42:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878733-20261122.htm"
-    },
-    "summary": {
-      "en": "Iranian state television reported that Iran's military said its air defence forces intercepted an F-16 fighter over the Persian Gulf on Friday night, with a missile exploding near the jet, damaging it and forcing it to make an emergency landing at a nearby airport. US Central Command denied the claim, saying Iran did not attack a US F-16 on Friday and that all US aircraft in the Middle East are confirmed safe. Iran had earlier on Friday claimed to have intercepted and hit a US F-16.",
-      "zh_hans": "伊朗伊斯兰共和国广播电视台报道，伊朗军方表示，防空部队星期五晚在波斯湾上空拦截一架F-16战斗机，导弹在战机附近爆炸，令战机受损，被迫在附近机场紧急降落。美军中央司令部随即否认，指伊朗所称星期五攻击一架F-16战机的说法不实，伊朗当日并无攻击美国F-16战机，美军在中东地区的所有战机确认安全。伊朗星期五较早时已宣称拦截及击中一架美军F-16战机。",
-      "zh_hant": "伊朗伊斯蘭共和國廣播電視台報道，伊朗軍方表示，防空部隊星期五晚在波斯灣上空攔截一架F-16戰鬥機，導彈在戰機附近爆炸，令戰機受損，被迫在附近機場緊急降落。美軍中央司令部隨即否認，指伊朗所稱星期五攻擊一架F-16戰機的說法不實，伊朗當日並無攻擊美國F-16戰機，美軍在中東地區的所有戰機確認安全。伊朗星期五較早時已宣稱攔截及擊中一架美軍F-16戰機。"
-    },
-    "tags": {
-      "en": [
-        "Iran",
-        "F-16",
-        "US Central Command"
-      ],
-      "zh_hans": [
-        "伊朗",
-        "F-16战机",
-        "美军"
-      ],
-      "zh_hant": [
-        "伊朗",
-        "F-16戰機",
-        "美軍"
-      ]
-    },
-    "title": {
-      "en": "Iran says it intercepted a US F-16 and forced it to land; US denies any jet was hit and says all aircraft safe",
-      "zh_hans": "伊朗称拦截美军F-16迫降 美方否认：中东战机全部安全",
-      "zh_hant": "伊朗稱攔截美軍F-16迫降 美方否認：中東戰機全部安全"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-iran-f16-intercept-us-denies-v2.jpg",
-    "image_prompt": "事實：伊朗稱防空部隊在波斯灣上空攔截一架美軍F-16戰機，令其受損迫降；美軍中央司令部否認，稱中東所有戰機安全。場景：光猛日間，波斯灣遼闊海面，遠方一架戰機剪影飛越海面，天空明亮，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「伊朗稱攔截美軍F-16迫降」白字，第二行「美方否認：中東戰機全部安全」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。",
-    "image_r2_key": "design/202611/20261122-iran-f16-intercept-us-denies-v2.jpg"
+  "summary": {
+   "en": "Voting in the Election Committee Subsector Ordinary Elections began at 9am today. By 2pm, 5,341 voters had cast ballots — a turnout of 93.55% out of 5,709 registered voters, up from 83.03% at noon. Several subsectors reached 100%, including Commercial (third), technology and innovation, Industrial (first), accountancy and legal, while the financial subsector was lowest at 69.12%, with 47 of its 68 voters having voted. The Registration and Electoral Office reminded voters the figures are for provisional reference only; polls close at 6pm, with counting to follow.",
+   "zh_hans": "选举委员会界别分组一般选举今早9时开始投票，截至下午2时累计5,341人投票，投票率93.55%，总选民人数5,709人，较中午12时的83.03%再升。多个界别投票率达100%，包括商界（第三）、科技创新界、工商业（第一）、会计界及法律界；金融界最低，只有69.12%，68名选民中有47人已投票。选举事务处提醒，投票率数字仅供临时参考；投票将于今晚6时结束，随即点票。",
+   "zh_hant": "選舉委員會界別分組一般選舉今早9時開始投票，截至下午2時累計5,341人投票，投票率93.55%，總選民人數5,709人，較中午12時的83.03%再升。多個界別投票率達100%，包括商界（第三）、科技創新界、工業界（第一）、會計界及法律界；金融界最低，只有69.12%，68名選民中有47人已投票。選舉事務處提醒，投票率數字僅供臨時參考；投票將於今晚6時結束，隨即點票。"
   },
-  {
-    "category": "world",
-    "id": "20261122-trump-iran-permanent-deal",
-    "published_at": "2026-11-22T01:29:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878732-20261122.htm"
-    },
-    "summary": {
-      "en": "US President Donald Trump said he will seek a permanent agreement with Iran. In an interview with a local news channel broadcast on Saturday, Trump said what he is doing is to make sure that even if an incompetent president takes office in four, 15 or 20 years, the deal he reaches will remain permanent, and he will not let anyone allow Iran to possess nuclear weapons or renege on the agreement. Trump added that he is not considering regime change in Iran and has never much cared about the regime.",
-      "zh_hans": "美国总统特朗普表示，将寻求与伊朗达成一项永久性协议。他接受当地新闻频道访问，内容在星期六播出。特朗普说，自己所做的是确保即使4年、15年或20年后，美国出现一位不称职的总统，他达成的协议亦将是永久性，他不会让某人允许伊朗拥有核武器，并对达成的协议出尔反尔。特朗普又说，无考虑伊朗政权更迭，他从来不太在乎政权。",
-      "zh_hant": "美國總統特朗普表示，將尋求與伊朗達成一項永久性協議。他接受當地新聞頻道訪問，內容在星期六播出。特朗普說，自己所做的是確保即使4年、15年或20年後，美國出現一位不稱職的總統，他達成的協議亦將是永久性，他不會讓某人允許伊朗擁有核武器，並對達成的協議出爾反爾。特朗普又說，無考慮伊朗政權更迭，他從來不太在乎政權。"
-    },
-    "tags": {
-      "en": [
-        "Donald Trump",
-        "Iran",
-        "nuclear deal"
-      ],
-      "zh_hans": [
-        "特朗普",
-        "伊朗",
-        "核协议"
-      ],
-      "zh_hant": [
-        "特朗普",
-        "伊朗",
-        "核協議"
-      ]
-    },
-    "title": {
-      "en": "Trump says he will seek a permanent deal with Iran and will not let Tehran obtain nuclear weapons",
-      "zh_hans": "特朗普称寻求与伊朗达成永久协议 绝不容德黑兰拥有核武",
-      "zh_hant": "特朗普稱尋求與伊朗達成永久協議 絕不容德黑蘭擁有核武"
-    },
-    "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-trump-iran-permanent-deal-v2.jpg",
-    "image_prompt": "事實：特朗普稱將尋求與伊朗達成永久協議，絕不容德黑蘭擁有核武，亦無考慮伊朗政權更迭。場景：光猛日間，一個莊嚴的談判會議室，長枱兩旁放着文件及水杯，窗外陽光灑入，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「特朗普尋求與伊朗達成永久協議」白字，第二行「絕不容德黑蘭擁有核武」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫任何國旗。圖上除標題外不寫任何其他字。",
-    "image_r2_key": "design/202611/20261122-trump-iran-permanent-deal-v2.jpg"
+  "tags": {
+   "en": [
+    "Election Committee",
+    "subsector elections",
+    "voter turnout"
+   ],
+   "zh_hans": [
+    "选举委员会",
+    "界别分组选举",
+    "投票率"
+   ],
+   "zh_hant": [
+    "選舉委員會",
+    "界別分組選舉",
+    "投票率"
+   ]
   },
-  {
-    "category": "hk",
-    "id": "20261122-election-committee-subsector-voting-day",
-    "published_at": "2026-11-22T00:10:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878731-20261122.htm"
-    },
-    "summary": {
-      "en": "The Election Committee subsector ordinary election is held today, with 31 subsectors contested and 856 candidates vying for 723 seats among about 5,700 eligible voters. The social welfare subsector is the most competitive, with 25 candidates chasing 15 seats, or 1.66 candidates per seat. The more than 700 winners will join 259 automatically returned members and 518 ex-officio and nominated members to form the new 1,500-member Election Committee, which nominates and elects the Chief Executive and elects 40 Legislative Council members. Five general polling stations are open from 9am to 6pm, and ballot boxes will be taken to the central counting station at the Convention and Exhibition Centre after voting ends.",
-      "zh_hans": "选举委员会界别分组一般选举今日举行，今届共有31个界别分组需要竞逐，856名候选人争夺723个席位，合资格投票人数目约5700人。今次竞逐的界别中，社会福利界最激烈，25人争15席，平均1.66人竞逐一个位。胜出的700多名当选者，将联同自动当选的259人，以及518名当然委员和经提名产生的选委，组成新一届1500人的选举委员会，负责提名行政长官选举候选人及选出行政长官等。全港设有5个一般投票站，早上9时至下午6时开放投票，投票结束后票箱运到湾仔会展中央点票站点票。",
-      "zh_hant": "選舉委員會界別分組一般選舉今日舉行，今屆共有31個界別分組需要競逐，856名候選人爭奪723個席位，合資格投票人數目約5700人。今次競逐的界別中，社會福利界最激烈，25人爭15席，平均1.66人爭一個位。勝出的700多名當選者，將聯同自動當選的259人，以及518名當然委員同經提名產生的選委，組成新一屆1500人的選舉委員會，負責提名行政長官選舉候選人同選出行政長官等。全港設有5個一般投票站，早上9時至下午6時開放投票，投票結束後票箱運到灣仔會展中央點票站點票。"
-    },
-    "tags": {
-      "en": [
-        "Election Committee election",
-        "subsector election",
-        "polling day"
-      ],
-      "zh_hans": [
-        "选委会选举",
-        "界别分组",
-        "投票日"
-      ],
-      "zh_hant": [
-        "選委會選舉",
-        "界別分組",
-        "投票日"
-      ]
-    },
-    "title": {
-      "en": "Election Committee subsector polls open today as 856 candidates vie for 723 seats, social welfare race the hottest",
-      "zh_hans": "选委会界别分组选举今日投票 856人争723席社福界最激烈",
-      "zh_hant": "選委會選舉今日投票 856人爭723席社福界最激烈"
-    },
-    "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-election-committee-subsector-voting-day.jpg",
-    "image_r2_key": "design/202611/20261122-election-committee-subsector-voting-day.jpg"
+  "title": {
+   "en": "Election Committee Polls Climb to 93.55% Turnout by 2pm as 5,341 Voters Cast Ballots",
+   "zh_hans": "选委会选举投票率冲上93.55% 下午2时已有5,341人投票",
+   "zh_hant": "選委會選舉投票率衝上93.55% 下午2時已有5,341人投票"
   },
-  {
-    "category": "hk",
-    "id": "20261122-bowring-street-crash-driver-arrested-drink-driving",
-    "published_at": "2026-11-22T16:36:00+08:00",
-    "source": {
-      "name": "香港電台",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878786-20261122.htm"
-    },
-    "summary": {
-      "en": "A serious traffic accident occurred in Bowring Street, Tsim Sha Tsui, at about 2:30pm today, when a private car reportedly mounted the pavement, killing one person and injuring three. Police later arrested a man aged about 38 in Austin Road on suspicion of dangerous driving causing grievous bodily harm and drink driving; a breath test showed he was over the limit.",
-      "zh_hans": "尖沙咀宝勒巷今日下午近2时半发生严重交通意外，一辆私家车怀疑铲上行人路，导致1死3伤。据了解，警方经调查后在柯士甸道拘捕一名年约38岁男子，涉嫌危险驾驶引致他人严重受伤及酒后驾驶，并为他进行酒精呼气测试，发现超标。",
-      "zh_hant": "尖沙咀寶勒巷今日下午近2時半發生嚴重交通意外，一輛私家車懷疑剷上行人路，導致1死3傷。據了解，警方經調查後在柯士甸道拘捕一名年約38歲男子，涉嫌危險駕駛引致他人嚴重受傷及酒後駕駛，並為他進行酒精呼氣測試，發現超標。"
-    },
-    "tags": {
-      "en": [
-        "Bowring Street",
-        "traffic accident",
-        "drink driving"
-      ],
-      "zh_hans": [
-        "宝勒巷",
-        "交通意外",
-        "酒后驾驶"
-      ],
-      "zh_hant": [
-        "寶勒巷",
-        "交通意外",
-        "酒後駕駛"
-      ]
-    },
-    "title": {
-      "en": "Bowring Street Fatal Crash: 38-Year-Old Man Arrested for Dangerous and Drink Driving",
-      "zh_hans": "宝勒巷致命车祸 38岁男涉危驾酒驾被捕 酒精呼气超标",
-      "zh_hant": "寶勒巷致命車禍 38歲男涉危駕酒駕被捕 酒精呼氣超標"
-    },
-    "image_url": "",
-    "image_prompt": "尖沙咀街頭下午時分，警員在路邊調查交通意外，警車停泊在旁，警方拉起封鎖線，街道兩旁是商店招牌，氣氛凝重但秩序井然，畫面不要出現任何傷者或死者，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「寶勒巷致命車禍」，第二行黃色大字寫「38歲男涉危駕酒駕被捕」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。"
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-election-turnout-1400-9355-percent-v2.jpg",
+  "image_prompt": "選舉委員會界別分組一般選舉投票日下午時分，票站內選民排隊投票的場景，投票箱和工作人員協助選民，氣氛莊重有序，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『選委會選舉投票率93.55%』，第二行黃色大字寫『下午2時5,341人已投票』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-election-turnout-1400-9355-percent-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261122-iran-energy-shortage-power-cuts",
+  "published_at": "2026-11-22T13:54:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878773-20261122.htm"
+  },
+  "summary": {
+   "en": "As war in the Middle East causes growing damage to key infrastructure, Iran's energy shortage has worsened and the authorities announced power rationing starting today. The head of Iran's national power company told state television that, depending on the region, outages are expected about once every two days and last around two hours, while some areas may face two hours of outages a day. President Masoud Pezeshkian said earlier that US and Israeli strikes on Iran's energy infrastructure have worsened the energy problem and made supply more severe ahead of winter, describing Iran as caught in a silent economic war far harder than military conflict.",
+   "zh_hans": "随着中东战争对关键基础设施造成的破坏加剧，伊朗能源短缺问题恶化，当局宣布由今日起实施限电措施。伊朗国家电力公司负责人向国家电视台说，根据不同地区情况，停电预计每两日一次，每次持续约两小时，部分地区则可能每天停电两小时。伊朗总统佩泽希齐扬早前说，美国和以色列袭击伊朗能源基础设施，加剧能源问题，令冬季来临前的能源供应形势更加严峻，又形容伊朗正卷入一场无声的经济战，这场战争远比军事冲突更艰难。",
+   "zh_hant": "隨著中東戰爭對關鍵基礎設施造成的破壞加劇，伊朗能源短缺問題惡化，當局宣布由今日起實施限電措施。伊朗國家電力公司負責人向國家電視台說，根據不同地區情況，停電預計每兩日一次，每次持續約兩小時，部分地區則可能每天停電兩小時。伊朗總統佩澤希齊揚早前說，美國和以色列襲擊伊朗能源基礎設施，加劇能源問題，令冬季來臨前的能源供應形勢更加嚴峻，又形容伊朗正捲入一場無聲的經濟戰，這場戰爭遠比軍事衝突更艱難。"
+  },
+  "tags": {
+   "en": [
+    "Iran",
+    "energy shortage",
+    "power rationing"
+   ],
+   "zh_hans": [
+    "伊朗",
+    "能源短缺",
+    "限电"
+   ],
+   "zh_hant": [
+    "伊朗",
+    "能源短缺",
+    "限電"
+   ]
+  },
+  "title": {
+   "en": "Iran Imposes Power Rationing as Energy Shortage Worsens After Strikes on Infrastructure",
+   "zh_hans": "伊朗能源短缺恶化今起限电 每两日停电约两小时",
+   "zh_hant": "伊朗能源短缺惡化今起限電 每兩日停電約兩小時"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-iran-energy-shortage-power-cuts-v2.jpg",
+  "image_prompt": "伊朗城市傍晚時分燈火逐漸熄滅的街景，部分窗戶漆黑，部分路燈熄滅，遠處發電廠剪影，氣氛凝重但畫面光亮清晰，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9。標題分兩行大字直接壓在畫面上：第一行白色大字寫『伊朗能源短缺惡化今起限電』，第二行黃色大字寫『每兩日停電約兩小時』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-iran-energy-shortage-power-cuts-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-eac-chairman-urges-vote",
+  "published_at": "2026-11-22T13:05:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200290.htm"
+  },
+  "summary": {
+   "en": "The Chairman of the Electoral Affairs Commission, Mr Justice David Lok, visited the Central Command Centre and the Statistical Information Centre at the Hong Kong Convention and Exhibition Centre this morning with commission members Professor Daniel Shek and Mr Bernard Man, SC, and called on voters and authorised representatives to cast their votes before polls close at 6pm. A total of 856 candidates are contesting 723 seats in 31 subsectors today; by 11am more than 3,900 voters had voted, a turnout of over 68%. The commission reminded voters to vote at their designated polling station and verify their identity with their Hong Kong identity card; ballot boxes will be taken to the Central Counting Station at the HKCEC for counting and results after polls close.",
+   "zh_hans": "选举管理委员会主席陆启康法官今早联同选管会委员石丹理教授及文浩正资深大律师，视察设于香港会议展览中心的中央指挥中心及统计资料中心后，呼吁选民及获授权代表在今晚6时投票结束前尽快投票。今届共有856名候选人竞逐31个界别分组的723个席位，截至上午11时已有逾3,900人投票，累计投票率逾68%。选管会提醒，选民须到指定票站投票，并以香港身份证核实身份；投票结束后票箱将运往会展中央点票站，点票及公布结果。",
+   "zh_hant": "選舉管理委員會主席陸啟康法官今早聯同選管會委員石丹理教授及文浩正資深大律師，視察設於香港會議展覽中心的中央指揮中心及統計資料中心後，呼籲選民及獲授權代表在今晚6時投票結束前盡快投票。今屆共有856名候選人競逐31個界別分組的723個席位，截至上午11時已有逾3,900人投票，累計投票率逾68%。選管會提醒，選民須到指定票站投票，並以香港身份證核實身份；投票結束後票箱將運往會展中央點票站，點票及公布結果。"
+  },
+  "tags": {
+   "en": [
+    "Election Committee",
+    "Electoral Affairs Commission",
+    "David Lok"
+   ],
+   "zh_hans": [
+    "选举委员会",
+    "选管会",
+    "陆启康"
+   ],
+   "zh_hant": [
+    "選舉委員會",
+    "選管會",
+    "陸啟康"
+   ]
+  },
+  "title": {
+   "en": "Election Watchdog Chief Urges Voters to Cast Ballots as 856 Candidates Vie for 723 Seats",
+   "zh_hans": "选管会主席呼吁选民尽快投票 856人争723席今晚6时截票",
+   "zh_hant": "選管會主席呼籲選民盡快投票 856人爭723席今晚6時截票"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-eac-chairman-urges-vote.jpg",
+  "image_r2_key": "design/202611/20261122-eac-chairman-urges-vote.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-tang-security-monitoring-centre-election",
+  "published_at": "2026-11-22T12:55:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878768-20261122.htm"
+  },
+  "summary": {
+   "en": "The Election Committee Subsector Ordinary Elections began at 9am today. Secretary for Security Chris Tang said the Security Bureau's Emergency Monitoring and Support Centre has been activated to closely monitor conditions around polling stations, with police and Civil Aid Service members on duty at every polling station to maintain order and manage crowds. Tang visited two polling stations this morning and found operations smooth and orderly, thanking all frontline staff for holding their posts.",
+   "zh_hans": "选举委员会界别分组一般选举今早9时开始投票，保安局局长邓炳强表示，为确保选举顺利进行，保安局紧急事故监察及支援中心已经启动，密切监察票站地区市面状况；警队及民安队人员亦在各票站当值，维持秩序及管理人流。邓炳强今早到过两个票站视察，现场运作畅顺、秩序良好，并感谢所有前线人员坚守岗位。",
+   "zh_hant": "選舉委員會界別分組一般選舉今早9時開始投票，保安局局長鄧炳強表示，為確保選舉順利進行，保安局緊急事故監察及支援中心已經啟動，密切監察票站地區市面狀況；警隊及民安隊人員亦在各票站當值，維持秩序及管理人流。鄧炳強今早到過兩個票站視察，現場運作暢順、秩序良好，並感謝所有前線人員堅守崗位。"
+  },
+  "tags": {
+   "en": [
+    "Chris Tang",
+    "Security Bureau",
+    "Election Committee"
+   ],
+   "zh_hans": [
+    "邓炳强",
+    "保安局",
+    "选举委员会"
+   ],
+   "zh_hant": [
+    "鄧炳強",
+    "保安局",
+    "選舉委員會"
+   ]
+  },
+  "title": {
+   "en": "Tang: Security Bureau Monitoring Centre Activated as Police and Civil Aid Service Guard Polling Stations",
+   "zh_hans": "邓炳强：保安局监察中心已启动 警队民安队驻守各票站",
+   "zh_hant": "鄧炳強：保安局監察中心已啟動 警隊民安隊駐守各票站"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-tang-security-monitoring-centre-election-v2.jpg",
+  "image_prompt": "香港選舉投票日，保安局緊急事故監察及支援中心內部的工作場景，工作人員在監察屏幕前工作，票站外警員及民安隊人員維持秩序，氣氛專業有序，人物用背影或側面，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『保安局監察中心已啟動』，第二行黃色大字寫『警隊民安隊駐守各票站』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-tang-security-monitoring-centre-election-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261122-south-korea-education-minister-resigns",
+  "published_at": "2026-11-22T12:45:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878765-20261122.htm"
+  },
+  "summary": {
+   "en": "South Korean Education Minister Choi Kyo-jin said he is resigning after the government's handling of cheating prevention for the national college entrance exam caused chaos and inconvenience for candidates and the public, and President Lee Jae-myung has accepted his resignation. Choi said that as the minister in charge he cannot avoid criticism that exam preparations were inadequate, and with the exam over he feels a heavy responsibility. This year's exam was held on November 19 with about 550,000 candidates; after an earlier tax accountant exam exposed cheating using AI devices, the government rushed out anti-cheating measures on the eve of the exam, some announced only a day or two beforehand, drawing criticism for hasty preparation.",
+   "zh_hans": "韩联社报道，韩国教育部长崔教振表示，因大学高考应对作弊工作引发混乱，为考生及公众带来不便，决定承担责任辞职，总统李在明已经接受。崔教振说，作为主管部门负责人，无法回避外界对考试准备不足的指责和批评，考试已经结束，深感责任重大。今次韩国高考本月19日举行，约55万名考生参加；早前税务师资格考试曝出利用人工智能设备作弊，引发社会对高考公平性的广泛担忧，当局在考试前夕紧急推出多项防作弊措施，部分措施在考试前一两天才公布，惹来批评。",
+   "zh_hant": "韓聯社報道，韓國教育部長崔教振表示，因大學高考應對作弊工作引發混亂，為考生及公眾帶來不便，決定承擔責任辭職，總統李在明已經接受。崔教振說，作為主管部門負責人，無法迴避外界對考試準備不足的指責和批評，考試已經結束，深感責任重大。今次韓國高考本月19日舉行，約55萬名考生參加；早前稅務師資格考試曝出利用人工智能設備作弊，引發社會對高考公平性的廣泛擔憂，當局在考試前夕緊急推出多項防作弊措施，部分措施在考試前一兩天才公布，惹來批評。"
+  },
+  "tags": {
+   "en": [
+    "South Korea",
+    "college entrance exam",
+    "education minister"
+   ],
+   "zh_hans": [
+    "韩国",
+    "高考",
+    "教育部长"
+   ],
+   "zh_hant": [
+    "韓國",
+    "高考",
+    "教育部長"
+   ]
+  },
+  "title": {
+   "en": "South Korean Education Minister Resigns Over Chaos in Anti-Cheating Measures for College Entrance Exam",
+   "zh_hans": "韩国高考防作弊惹混乱 教育部长引咎辞职获接纳",
+   "zh_hant": "韓國高考防作弊惹混亂 教育部長引咎辭職獲接納"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-south-korea-education-minister-resigns-v2.jpg",
+  "image_prompt": "韓國首爾政府大樓外的日間場景，記者會講台和咪高峰，背景是現代辦公大樓，氣氛莊重嚴肅，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『韓國高考防作弊惹混亂』，第二行黃色大字寫『教育部長引咎辭職獲接納』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-south-korea-education-minister-resigns-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-platform-workers-injury-compensation-bill",
+  "published_at": "2026-11-22T12:27:00+08:00",
+  "source": {
+   "name": "Dimsum Daily",
+   "url": "https://www.dimsumdaily.hk/hong-kong-government-plans-three-tier-paid-sick-leave-for-food-delivery-riders-and-couriers/"
+  },
+  "summary": {
+   "en": "The government has completed the draft of a bill to create a work injury compensation mechanism for digital platform workers, and plans to submit it to the Legislative Council next month. Secretary for Labour and Welfare Chris Sun said paid injury sick leave will use a three-tier system based on average daily working hours over the 90 days before an injury: up to three months for no more than three hours a day, six months for three to five hours, and 12 months for five hours or more, paid at four-fifths of wages. The protected working period runs from accepting an order until delivery is completed and the worker returns to their vehicle.",
+   "zh_hans": "政府已完成《数码平台工作者工伤补偿机制条例》草案，计划下月提交立法会审议，为外卖员及送货员提供法定工伤补偿。劳工及福利局局长孙玉菡表示，有薪工伤病假采用三级制，按工伤前90日平均每日工时划分：不超过3小时最多赔3个月、3至5小时赔6个月、5小时或以上赔12个月，金额为五分四工资。受保障的工作期间由接单起计，直至送达并返回交通工具为止。",
+   "zh_hant": "政府已完成《數碼平台工作者工傷補償機制條例》草案，計劃下月提交立法會審議，為外賣員及送貨員提供法定工傷補償。勞工及福利局局長孫玉菡表示，有薪工傷病假採用三級制，按工傷前90日平均每日工時劃分：不超過3小時最多賠3個月、3至5小時賠6個月、5小時或以上賠12個月，金額為五分四工資。受保障的工作期間由接單起計，直至送達並返回交通工具為止。"
+  },
+  "tags": {
+   "en": [
+    "platform workers",
+    "work injury compensation",
+    "Chris Sun"
+   ],
+   "zh_hans": [
+    "外卖员",
+    "工伤补偿",
+    "孙玉菡"
+   ],
+   "zh_hant": [
+    "外賣員",
+    "工傷補償",
+    "孫玉菡"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong Delivery Riders to Get Injury Cover as Draft Bill Heads to LegCo Next Month",
+   "zh_hans": "外卖员终有工伤保障 草案下月交立法会 有薪病假分三级最多赔一年",
+   "zh_hant": "外賣員終有工傷保障 草案下月交立法會 有薪病假分三級最多賠一年"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-platform-workers-injury-compensation-bill-v2.jpg",
+  "image_prompt": "香港街頭日間，一名外賣員穿著制服騎著電單車送餐，背著外賣箱，背景是繁忙的街道和樓宇，氣氛明亮有朝氣，人物用背影或側面，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『外賣員終有工傷保障』，第二行黃色大字寫『草案下月交立法會 最多賠一年病假』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-platform-workers-injury-compensation-bill-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-yu-wang-fuk-court-graduate-jobs",
+  "published_at": "2026-11-22T12:22:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878763-20261122.htm"
+  },
+  "summary": {
+   "en": "The Wang Fuk Court fire is approaching its first anniversary, and Secretary for Labour and Welfare Chris Sun said the \"one household, one social worker\" support for affected residents will not be withdrawn, with trauma and mental health support continuing for years. Sun also announced the government will launch a Graduate Employment Kick-start Programme with the business sector next year, offering 10,000 full-time posts of six months or more over two years, with employers receiving up to $6,000 a month per new post for hiring people aged 29 or under with no work experience, regardless of education level. A Shanghai-Hong Kong youth employment scheme will also start next year with 50 places.",
+   "zh_hans": "大埔宏福苑火灾将近一周年，劳工及福利局局长孙玉菡表示，支援受影响住户的「一户一社工」不会退场，创伤后遗及精神健康支援将以年计持续提供。孙玉菡又宣布，政府明年联同商界推出「毕业生就业启航计划」，两年内提供1万个为期六个月或以上的全职职位，雇主每新增一个职位每月可获最多6,000元津贴，对象为29岁或以下、无工作经验的年轻人，学历不限；明年亦会推出沪港青年就业计划，初期设50个名额。",
+   "zh_hant": "大埔宏福苑火災將近一周年，勞工及福利局局長孫玉菡表示，支援受影響住戶的「一戶一社工」不會退場，創傷後遺及精神健康支援將以年計持續提供。孫玉菡又宣布，政府明年聯同商界推出「畢業生就業啟航計劃」，兩年內提供1萬個為期六個月或以上的全職職位，僱主每新增一個職位每月可獲最多6,000元津貼，對象為29歲或以下、無工作經驗的年青人，學歷不限；明年亦會推出滬港青年就業計劃，初期設50個名額。"
+  },
+  "tags": {
+   "en": [
+    "Wang Fuk Court",
+    "Chris Sun",
+    "graduate jobs"
+   ],
+   "zh_hans": [
+    "宏福苑",
+    "孙玉菡",
+    "毕业生就业"
+   ],
+   "zh_hant": [
+    "宏福苑",
+    "孫玉菡",
+    "畢業生就業"
+   ]
+  },
+  "title": {
+   "en": "Sun: Wang Fuk Court 'One Household, One Social Worker' Support to Stay as 10,000 Graduate Jobs Planned",
+   "zh_hans": "孙玉菡：宏福苑「一户一社工」不会退场 明年推毕业生就业计划供万职位",
+   "zh_hant": "孫玉菡：宏福苑「一戶一社工」不會退場 明年推畢業生就業計劃供萬職位"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-yu-wang-fuk-court-graduate-jobs-v2.jpg",
+  "image_prompt": "陽光普照的現代社區中心日間場景，社工與居民家庭親切交談，氣氛溫暖安心，人物用背影或側面，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『宏福苑「一戶一社工」不退場』，第二行黃色大字寫『畢業生就業計劃供萬職位』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-yu-wang-fuk-court-graduate-jobs-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-election-turnout-1200-8303-percent",
+  "published_at": "2026-11-22T12:17:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200291.htm"
+  },
+  "summary": {
+   "en": "Voting in the Election Committee Subsector Ordinary Elections began at 9am today. By noon, 4,740 voters had cast ballots — a turnout of 83.03% out of 5,709 registered voters, up sharply from 44.74% at 10am. The Commercial (third) subsector reached 100%, followed by technology and innovation at 95.83% and legal at 93.10%, while social welfare was lowest at 53.37%. The Registration and Electoral Office reminded voters the figures are for provisional reference only; polls close at 6pm, with counting to follow.",
+   "zh_hans": "选举委员会界别分组一般选举今早9时开始投票，截至中午12时累计4,740人投票，投票率83.03%，总选民人数5,709人，较早上10时的44.74%大幅上升。商界（第三）投票率达100%，科技创新界95.83%、法律界93.10%；社会福利界最低，只有53.37%。选举事务处提醒，投票率数字仅供临时参考；投票将于今晚6时结束，随即点票。",
+   "zh_hant": "選舉委員會界別分組一般選舉今早9時開始投票，截至中午12時累計4,740人投票，投票率83.03%，總選民人數5,709人，較早上10時的44.74%大幅上升。商界（第三）投票率達100%，科技創新界95.83%、法律界93.10%；社會福利界最低，只有53.37%。選舉事務處提醒，投票率數字僅供臨時參考；投票將於今晚6時結束，隨即點票。"
+  },
+  "tags": {
+   "en": [
+    "Election Committee",
+    "subsector elections",
+    "voter turnout"
+   ],
+   "zh_hans": [
+    "选举委员会",
+    "界别分组选举",
+    "投票率"
+   ],
+   "zh_hant": [
+    "選舉委員會",
+    "界別分組選舉",
+    "投票率"
+   ]
+  },
+  "title": {
+   "en": "Election Committee Polls Surge to 83.03% Turnout by Noon as 4,740 Voters Cast Ballots",
+   "zh_hans": "选委会选举投票率冲上83.03% 中午12时已有4,740人投票",
+   "zh_hant": "選委會選舉投票率衝上83.03% 中午12時已有4,740人投票"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-election-turnout-1200-8303-percent-v2.jpg",
+  "image_prompt": "選舉委員會界別分組一般選舉投票日中午時分，票站內選民排隊投票的場景，投票箱和工作人員協助選民，氣氛莊重有序，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『選委會選舉投票率83.03%』，第二行黃色大字寫『中午12時4,740人已投票』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-election-turnout-1200-8303-percent-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-chan-bay-area-alliance-aiib-hk",
+  "published_at": "2026-11-22T10:48:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878753-20261122.htm"
+  },
+  "summary": {
+   "en": "President Xi Jinping proposed at the APEC CEO Summit that a World Bay Area Economic Cooperation Alliance be set up, and Financial Secretary Paul Chan said Hong Kong, with its unique advantage of connecting China with the world, will be able to play an even bigger role within it. Writing in his blog, Chan said Hong Kong knows international market rules and cross-boundary cooperation in the Greater Bay Area well, noting the Shenzhen-Hong Kong-Guangzhou innovation cluster remains ranked first in the world by the World Intellectual Property Organization. He added that the Asian Infrastructure Investment Bank's decision to open an office in Hong Kong will take that capability to the international project level; the bank has approved more than US$79 billion in financing for over 400 projects.",
+   "zh_hans": "国家主席习近平在APEC工商领导人峰会提出支持成立世界湾区经济合作联盟，财政司司长陈茂波表示，具备内联外通优势的香港身处其中，定能得到更好发挥。陈茂波在网志指出，香港熟悉国际市场规则和大湾区跨境协作，「深圳—香港—广州」创新集群在世界知识产权组织最新排名继续位居全球第一；亚投行确定在港设立办事处，将这种能力进一步带到国际项目层面，亚投行至今已批出逾790亿美元融资，支持逾400个项目。",
+   "zh_hant": "國家主席習近平在APEC工商領導人峰會提出支持成立世界灣區經濟合作聯盟，財政司司長陳茂波表示，具備內聯外通優勢的香港身處其中，定能得到更好發揮。陳茂波在網誌指出，香港熟悉國際市場規則和大灣區跨境協作，「深圳—香港—廣州」創新集群在世界知識產權組織最新排名繼續位居全球第一；亞投行確定在港設立辦事處，將這種能力進一步帶到國際項目層面，亞投行至今已批出逾790億美元融資，支持逾400個項目。"
+  },
+  "tags": {
+   "en": [
+    "Paul Chan",
+    "Greater Bay Area",
+    "AIIB"
+   ],
+   "zh_hans": [
+    "陈茂波",
+    "大湾区",
+    "亚投行"
+   ],
+   "zh_hant": [
+    "陳茂波",
+    "大灣區",
+    "亞投行"
+   ]
+  },
+  "title": {
+   "en": "Paul Chan: Hong Kong Poised to Shine in World Bay Area Alliance as AIIB Office Opens Doors",
+   "zh_hans": "陈茂波：香港身处世界湾区联盟定能更好发挥 亚投行落户带动国际项目",
+   "zh_hant": "陳茂波：香港身處世界灣區聯盟定能更好發揮 亞投行落戶帶動國際項目"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-chan-bay-area-alliance-aiib-hk-v2.jpg",
+  "image_prompt": "香港維多利亞港和中環金融區的日間場景，陽光普照，海面波光粼粼，摩天大樓林立，展現國際金融中心的氣派。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『陳茂波：香港定能更好發揮』，第二行黃色大字寫『世界灣區聯盟＋亞投行落戶』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-chan-bay-area-alliance-aiib-hk-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261122-iran-attacks-us-radar-bahrain",
+  "published_at": "2026-11-22T10:42:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878752-20261122.htm"
+  },
+  "summary": {
+   "en": "Iran's Islamic Revolutionary Guard Corps used missiles and drones to attack the air defence radars at two United States military bases in Bahrain, saying the action was in response to continued US violations of Iranian airspace and claiming two US Patriot air defence radars were hit. The Revolutionary Guard warned that any violation of Iranian airspace would be met with a severe response. Bahrain's interior ministry said separately that a civilian industrial facility was hit in the Iranian attack, causing a fire, with no casualties initially believed.",
+   "zh_hans": "伊朗伊斯兰共和国通讯社报道，伊朗伊斯兰革命卫队使用导弹和无人机，袭击美国在巴林两处军事基地的防空雷达，称行动是回应美军持续侵犯伊朗领空，并称击中两部美军「爱国者」防空系统雷达。革命卫队警告，任何侵犯伊朗领空的行为都将遭到严厉回应。另外，巴林内政部说，一个民用工业设施受到伊朗袭击，引发火灾，初步相信无人员伤亡。",
+   "zh_hant": "伊朗伊斯蘭共和國通訊社報道，伊朗伊斯蘭革命衛隊使用導彈和無人機，襲擊美國在巴林兩處軍事基地的防空雷達，稱行動是回應美軍持續侵犯伊朗領空，並稱擊中兩部美軍「愛國者」防空系統雷達。革命衛隊警告，任何侵犯伊朗領空的行為都將遭到嚴厲回應。另外，巴林內政部說，一個民用工業設施受到伊朗襲擊，引發火災，初步相信無人員傷亡。"
+  },
+  "tags": {
+   "en": [
+    "Iran",
+    "United States",
+    "Bahrain"
+   ],
+   "zh_hans": [
+    "伊朗",
+    "美国",
+    "巴林"
+   ],
+   "zh_hant": [
+    "伊朗",
+    "美國",
+    "巴林"
+   ]
+  },
+  "title": {
+   "en": "Iran Strikes US Air Defence Radars at Two Bahrain Bases in Retaliation for Airspace Violations",
+   "zh_hans": "伊朗导弹无人机袭美军巴林基地雷达 报复美机侵犯领空",
+   "zh_hant": "伊朗導彈無人機襲美軍巴林基地雷達 報復美機侵犯領空"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-iran-attacks-us-radar-bahrain-v2.jpg",
+  "image_prompt": "中東夜空下軍事基地防空雷達的場景，雷達天線指向夜空，遠處有導彈軌跡的光點，氣氛緊張嚴肅但不要血腥暴力，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面以深藍夜空為背景但主體光亮清晰。標題分兩行大字直接壓在畫面上：第一行白色大字寫『伊朗襲美軍巴林基地雷達』，第二行黃色大字寫『報復美機侵犯領空』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-iran-attacks-us-radar-bahrain-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-hk-cinema-mulan-film-festival-toronto",
+  "published_at": "2026-11-22T10:35:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112100134.htm"
+  },
+  "summary": {
+   "en": "The Hong Kong Economic and Trade Office in Toronto is presenting six Hong Kong films at the 2026 Mulan International Film Festival, running from November 21 to December 3 in Toronto, Canada. Director of the Toronto ETO Bill Wong said ahead of the Canadian premiere of 'Cyclone' that the SAR Government supports film production and nurtures talent through funding schemes, encouraging emerging filmmakers to create quality work and explore international markets. The 13-day festival screens 39 films, showcasing the diversity of Chinese-language cinema.",
+   "zh_hans": "香港驻多伦多经济贸易办事处在11月21日至12月3日举行的2026年多伦多木兰国际电影节推介六部香港电影，包括《Cyclone》加拿大首映。多伦多经贸办处长黄伟辉在首映前表示，特区政府一直透过资助计划支持电影制作、培育人才，鼓励新晋电影人创作优质作品、开拓国际市场。今届影展为期13日，共放映39部影片，展现泛华语电影的多元面貌。",
+   "zh_hant": "香港駐多倫多經濟貿易辦事處在11月21日至12月3日舉行的2026年多倫多木蘭國際電影節推介六部香港電影，包括《Cyclone》加拿大首映。多倫多經貿辦處長黃偉輝在首映前表示，特區政府一直透過資助計劃支持電影製作、培育人才，鼓勵新晉電影人創作優質作品、開拓國際市場。今屆影展為期13日，共放映39部影片，展現泛華語電影的多元面貌。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong cinema",
+    "Mulan Film Festival",
+    "Toronto"
+   ],
+   "zh_hans": [
+    "香港电影",
+    "木兰影展",
+    "多伦多"
+   ],
+   "zh_hant": [
+    "香港電影",
+    "木蘭影展",
+    "多倫多"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong Cinema Takes Centre Stage in Toronto as Six Local Films Screen at Mulan Festival",
+   "zh_hans": "港产片扬威多伦多 六部港片亮相木兰影展 展现香港电影魅力",
+   "zh_hant": "港產片揚威多倫多 六部港片亮相木蘭影展 展現香港電影魅力"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-hk-cinema-mulan-film-festival-toronto.jpg",
+  "image_r2_key": "design/202611/20261122-hk-cinema-mulan-film-festival-toronto.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-election-turnout-1000-4474-percent",
+  "published_at": "2026-11-22T10:25:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878751-20261122.htm"
+  },
+  "summary": {
+   "en": "Voting in the Election Committee Subsector Ordinary Elections began at 9am today, with 2,554 ballots cast by 10am — a turnout of 44.74% out of 5,709 registered voters. The Commercial (third) subsector led with 98.23%, while grassroots associations and area committee representatives also topped 50%. Officials and lawmakers visited polling stations in the morning and urged eligible voters to cast their ballots. Polls close at 6pm, with 31 subsectors contested.",
+   "zh_hans": "选举委员会界别分组一般选举今早9时开始投票，截至早上10时累计2,554人投票，投票率44.74%，总选民人数5,709人。商界（第三界别）投票率最高达98.23%，基层社团及地区委员会代表界别亦超过五成。投票过程大致顺畅，多名官员及立法会议员早上到票站视察及投票，呼吁合资格选民踊跃投票。投票将于今晚6时结束，31个界别需要竞逐。",
+   "zh_hant": "選舉委員會界別分組一般選舉今早9時開始投票，截至早上10時累計2,554人投票，投票率44.74%，總選民人數5,709人。商界（第三界別）投票率最高達98.23%，基層社團及地區委員會代表界別亦超過五成。投票過程大致順暢，多名官員及立法會議員早上到票站視察及投票，呼籲合資格選民踴躍投票。投票將於今晚6時結束，31個界別需要競逐。"
+  },
+  "tags": {
+   "en": [
+    "Election Committee",
+    "subsector elections",
+    "voter turnout"
+   ],
+   "zh_hans": [
+    "选举委员会",
+    "界别分组选举",
+    "投票率"
+   ],
+   "zh_hant": [
+    "選舉委員會",
+    "界別分組選舉",
+    "投票率"
+   ]
+  },
+  "title": {
+   "en": "Election Committee Polls: 44.74% Turnout by 10am as 2,554 Voters Cast Ballots",
+   "zh_hans": "选委会选举投票率出炉 截至早上10时44.74% 逾2,500人已投票",
+   "zh_hant": "選委會選舉投票率出爐 截至早上10時44.74% 逾2,500人已投票"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-election-turnout-1000-4474-percent-v2.jpg",
+  "image_prompt": "選舉委員會界別分組一般選舉投票日，票站內選民排隊投票的場景，投票箱和工作人員協助選民，氣氛莊重有序，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『選委會選舉投票率44.74%』，第二行黃色大字寫『早上10時逾2,500人已投票』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-election-turnout-1000-4474-percent-v2.jpg"
+ },
+ {
+  "category": "china",
+  "id": "20261122-china-opposes-us-telecom-number-ban",
+  "published_at": "2026-11-22T10:16:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878750-20261122.htm"
+  },
+  "summary": {
+   "en": "China's Ministry of Commerce has hit back at a US plan to bar Chinese telecom operators from directly obtaining US internet telephone number resources, accusing Washington of abusing regulatory power and overstating national security risks without factual basis, in violation of non-discrimination and fair competition principles. The spokesperson said the US Federal Communications Commission has been pushing decoupling in telecoms, communications and testing certification, going against the consensus reached by the two countries' leaders and undermining trade stability. Beijing urged Washington to withdraw the measures immediately and return to resolving issues through consultation.",
+   "zh_hans": "商务部就美国计划禁止中国电信运营商直接获取美国互联网电话号码资源作出回应，发言人批评美方滥用监管权力、泛化国家安全风险，在缺乏事实依据下违反非歧视和公平竞争原则，肆意打压中国电信企业在美运营。发言人指出，美国联邦通讯委员会近期持续推动中美在电信、通信和检测认证方面脱钩断链，违背两国元首达成的重要共识，破坏中美经贸稳定局面，中方坚决反对，并敦促美方立即撤销有关措施，回到通过磋商解决问题的正确道路上。",
+   "zh_hant": "商務部就美國計劃禁止中國電信運營商直接獲取美國互聯網電話號碼資源作出回應，發言人批評美方濫用監管權力、泛化國家安全風險，在缺乏事實依據下違反非歧視和公平競爭原則，肆意打壓中國電信企業在美運營。發言人指出，美國聯邦通訊委員會近期持續推動中美在電信、通信和檢測認證方面脫鉤斷鏈，違背兩國元首達成的重要共識，破壞中美經貿穩定局面，中方堅決反對，並敦促美方立即撤銷有關措施，回到通過磋商解決問題的正確道路上。"
+  },
+  "tags": {
+   "en": [
+    "China-US relations",
+    "telecom",
+    "Commerce Ministry"
+   ],
+   "zh_hans": [
+    "中美关系",
+    "电信",
+    "商务部"
+   ],
+   "zh_hant": [
+    "中美關係",
+    "電信",
+    "商務部"
+   ]
+  },
+  "title": {
+   "en": "Beijing Slams US Plan to Bar Chinese Telecom Carriers from US Phone Numbers",
+   "zh_hans": "中方强烈反对美方拟禁中国电信商取号 促立即撤销措施",
+   "zh_hant": "中方強烈反對美方擬禁中國電信商取號 促立即撤銷措施"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-china-opposes-us-telecom-number-ban-v2.jpg",
+  "image_prompt": "中美電信議題場景：現代通訊基站和光纖網絡，城市天際線，科技感藍色調，畫面明亮。電視新聞圖卡風格，16:9。標題分兩行大字直接壓在畫面上：第一行白色大字寫『中方強烈反對美方擬禁中國電信商取號』，第二行黃色大字寫『促立即撤銷措施』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-china-opposes-us-telecom-number-ban-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-customs-methamphetamine-mexico-mold-7m",
+  "published_at": "2026-11-22T10:10:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200207.htm"
+  },
+  "summary": {
+   "en": "Hong Kong Customs seized about 15 kilograms of suspected methamphetamine, worth an estimated $7 million, at the Kwai Chung Customhouse Cargo Examination Compound on November 18. Officers inspected a seaborne consolidated consignment from Mexico declared as plastic container moulds and found the drugs hidden inside a metal mould. A controlled delivery operation led to the arrest of a 41-year-old male recipient in Kwai Chung yesterday; he has been released on bail pending further investigation. Under the Dangerous Drugs Ordinance, drug trafficking carries a maximum penalty of a $5 million fine and life imprisonment.",
+   "zh_hans": "香港海关于11月18日在葵涌海关大楼验货场检查一批由墨西哥抵港、报称载有塑胶容器模具的海运拼箱货物，经风险评估开箱检查后，在一个金属模具内发现约15公斤怀疑冰毒，估计市值约700万元。海关其后展开控制下交付行动，昨日在葵涌拘捕一名41岁男收货人，获准保释候查，案件仍在调查中。根据《危险药物条例》，贩运危险药物最高可判罚款500万元及终身监禁。",
+   "zh_hant": "香港海關於11月18日在葵涌海關大樓驗貨場檢查一批由墨西哥抵港、報稱載有塑膠容器模具的海運拼箱貨物，經風險評估開箱檢查後，在一個金屬模具內發現約15公斤懷疑冰毒，估計市值約700萬元。海關其後展開控制下交付行動，昨日在葵涌拘捕一名41歲男收貨人，獲准保釋候查，案件仍在調查中。根據《危險藥物條例》，販運危險藥物最高可判罰款500萬元及終身監禁。"
+  },
+  "tags": {
+   "en": [
+    "Customs",
+    "methamphetamine",
+    "drug trafficking"
+   ],
+   "zh_hans": [
+    "海关",
+    "冰毒",
+    "贩毒"
+   ],
+   "zh_hant": [
+    "海關",
+    "冰毒",
+    "販毒"
+   ]
+  },
+  "title": {
+   "en": "Customs Seizes 15kg of Meth Worth $7 Million Hidden in Metal Mould from Mexico",
+   "zh_hans": "海关破获墨西哥来货藏毒案 金属模具藏冰毒15公斤 市值700万",
+   "zh_hant": "海關破獲墨西哥來貨藏毒案 金屬模具藏冰毒15公斤 市值700萬"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-customs-methamphetamine-mexico-mold-7m.jpg",
+  "image_r2_key": "design/202611/20261122-customs-methamphetamine-mexico-mold-7m.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261122-france-sixth-saturday-protests",
+  "published_at": "2026-11-22T10:00:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878748-20261122.htm"
+  },
+  "summary": {
+   "en": "Protesters took to the streets in Paris and across France on Saturday, the sixth consecutive Saturday of demonstrations since cost-of-living protests turned into riots on October 17 — but crowds hit a new low. The Interior Ministry put turnout at just over 82,000 nationwide, while unions organising the marches claimed 150,000; the government deployed 70,000 police and gendarmes. The October 17 protests drew an estimated 550,000 people by official count, 800,000 by organisers, with riots in Paris and other cities and at least 3,000 shops damaged; turnout peaked at 575,000 on November 5 before falling back.",
+   "zh_hans": "法国巴黎等多处民众星期六举行新的示威游行，是自上月17日抗议生活成本高企酿成骚乱以来，连续第六个周六有示威活动，但规模创新低。内政部表示全国共有8万2千多人上街，组织游行的工会则称有15万人；政府部署7万名警察和宪兵维持秩序。法国上月17日的全国性示威，政府估计约55万人参与，组织单位则称80万人，巴黎等部分城市酿成骚乱，官方统计全国至少3,000间商店遭破坏；之后每个星期六都有示威，本月5日规模达到57.5万人高峰后回落。",
+   "zh_hant": "法國巴黎等多處民眾星期六舉行新的示威遊行，是自上月17日抗議生活成本高企釀成騷亂以來，連續第六個周六有示威活動，但規模創新低。內政部表示全國共有8萬2千多人上街，組織遊行的工會則稱有15萬人；政府部署7萬名警察和憲兵維持秩序。法國上月17日的全國性示威，政府估計約55萬人參與，組織單位則稱80萬人，巴黎等部分城市釀成騷亂，官方統計全國至少3,000間商店遭破壞；之後每個星期六都有示威，本月5日規模達到57.5萬人高峰後回落。"
+  },
+  "tags": {
+   "en": [
+    "France",
+    "protests",
+    "cost of living"
+   ],
+   "zh_hans": [
+    "法国",
+    "示威",
+    "生活成本"
+   ],
+   "zh_hant": [
+    "法國",
+    "示威",
+    "生活成本"
+   ]
+  },
+  "title": {
+   "en": "France Sees Sixth Straight Saturday of Protests but Crowds Hit New Low",
+   "zh_hans": "法国连续第六个周六爆示威 规模创新低 逾8万人上街",
+   "zh_hant": "法國連續第六個周六爆示威 規模創新低 逾8萬人上街"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-france-sixth-saturday-protests-v2.jpg",
+  "image_prompt": "法國巴黎街頭示威場景：大批市民在寬闊大道上遊行，遠處是巴黎建築，旗幟和標語牌但標語牌上不要寫任何文字，警員在旁維持秩序，人物用背影或遠景，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『法國連續第六個周六爆示威』，第二行黃色大字寫『規模創新低逾8萬人上街』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-france-sixth-saturday-protests-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-hk-chile-working-holiday-agreement",
+  "published_at": "2026-11-22T09:42:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878745-20261122.htm"
+  },
+  "summary": {
+   "en": "Hong Kong has signed a working holiday agreement with Chile, with each side offering 100 places a year and visas valid for up to one year. Secretary for Labour and Welfare Chris Sun said it is Hong Kong's first such agreement with a South American country, aimed at giving young people more choices, and it is expected to take effect in the first half of next year. The two sides still need to complete an exchange of letters before the scheme can formally begin.",
+   "zh_hans": "香港与智利签署工作假期计划协议，双方每年各提供100个名额，签证有效期最长一年。劳工及福利局局长孙玉菡表示，这是香港首次与南美洲地区签署同类协议，目的是为年轻人开拓更多选择，预计明年上半年落实推行。双方仍须进行书信交换，方可正式落实计划。",
+   "zh_hant": "香港與智利簽署工作假期計劃協議，雙方每年各提供100個名額，簽證有效期最長一年。勞工及福利局局長孫玉菡表示，這是香港首次與南美洲地區簽署同類協議，目的是為年輕人開拓更多選擇，預計明年上半年落實推行。雙方仍須進行書信交換，方可正式落實計劃。"
+  },
+  "tags": {
+   "en": [
+    "working holiday",
+    "Chile",
+    "Chris Sun"
+   ],
+   "zh_hans": [
+    "工作假期",
+    "智利",
+    "孙玉菡"
+   ],
+   "zh_hant": [
+    "工作假期",
+    "智利",
+    "孫玉菡"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong and Chile Sign Working Holiday Deal With 100 Places a Year",
+   "zh_hans": "香港智利签工作假期协议 每年100名额 最快明年上半年推行",
+   "zh_hant": "香港智利簽工作假期協議 每年100名額 最快明年上半年推行"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-hk-chile-working-holiday-agreement-v2.jpg",
+  "image_prompt": "機場出境大堂日間明亮場景，年輕旅客拖著行李箱準備出發旅行，背景是航班顯示屏和玻璃幕牆，氣氛輕鬆有朝氣，人物用背影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『香港智利簽工作假期協議』，第二行黃色大字寫『每年100名額 最快明年上半年推行』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-hk-chile-working-holiday-agreement-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-weather-cooler-midweek-showers",
+  "published_at": "2026-11-22T09:09:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878743-20261122.htm"
+  },
+  "summary": {
+   "en": "The Observatory says a fresh to strong easterly airstream will affect the south China coast over the next two days, bringing more cloud and a slight rise in temperatures. A northeast monsoon is expected to reach the region on Tuesday, bringing cooler weather and a few showers midweek, before easing later in the week as skies clear and temperatures recover along the Guangdong coast.",
+   "zh_hans": "天文台表示，一股清劲至强风程度的偏东气流会在今明两日影响华南沿岸，该区云量增多，气温略为回升。预料东北季候风星期二抵达华南沿岸，本周中期该区气温下降及有几阵雨；季候风本周后期稍为缓和，广东沿岸天色好转，气温回升。",
+   "zh_hant": "天文台表示，一股清勁至強風程度的偏東氣流會在今明兩日影響華南沿岸，該區雲量增多，氣溫略為回升。預料東北季候風星期二抵達華南沿岸，本周中期該區氣溫下降及有幾陣雨；季候風本周後期稍為緩和，廣東沿岸天色好轉，氣溫回升。"
+  },
+  "tags": {
+   "en": [
+    "Observatory",
+    "weather",
+    "monsoon"
+   ],
+   "zh_hans": [
+    "天文台",
+    "天气",
+    "季候风"
+   ],
+   "zh_hant": [
+    "天文台",
+    "天氣",
+    "季候風"
+   ]
+  },
+  "title": {
+   "en": "Cooler Weather Ahead as Northeast Monsoon Brings Showers to South China Coast Midweek",
+   "zh_hans": "天文台预告周中期转凉 华南沿岸气温下降兼有几阵雨",
+   "zh_hant": "天文台預告周中期轉涼 華南沿岸氣溫下降兼有幾陣雨"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-weather-cooler-midweek-showers-v2.jpg",
+  "image_prompt": "華南沿岸天氣場景：維多利亞港上空雲層變化，遠處高樓，市民帶備雨具在海旁行走，風吹動樹木。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『天文台預告周中期轉涼』，第二行黃色大字寫『氣溫下降兼有幾陣雨』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-weather-cooler-midweek-showers-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261122-iran-14-tankers-break-us-blockade",
+  "published_at": "2026-11-22T09:01:00+08:00",
+  "source": {
+   "name": "Gulf News",
+   "url": "https://gulfnews.com/world/mena/iran-readies-14-tankers-to-break-us-blockade-what-happens-if-they-try-1.500756460"
+  },
+  "summary": {
+   "en": "An Iranian lawmaker says 14 oil tankers are preparing to challenge the US naval blockade, and the deputy foreign minister has warned Tehran will take 'any action necessary' to break it. The tankers are reportedly gathered near Kharg Island, Iran's main oil export terminal, with crews assigned and Iranian flags raised, though there is no independent confirmation the operation has begun. Around 43 million barrels of Iranian oil remain stranded inside the blockade zone, and shipping through the Strait of Hormuz is about 65% below pre-war levels.",
+   "zh_hans": "伊朗国会议员表示，14艘油轮正准备冲破美国的海上封锁，副外长亦警告德黑兰将采取「一切必要行动」打破封锁。据报有关油轮已在主要出口港卡尔格岛附近集结，船员已就位并升起伊朗国旗，但暂时未有独立证实行动已经展开。美军封锁已令4,300万桶伊朗原油滞留，荷姆兹海峡航运量较战前大跌65%。",
+   "zh_hant": "伊朗國會議員表示，14艘油輪正準備衝破美國的海上封鎖，副外長亦警告德黑蘭將採取「一切必要行動」打破封鎖。據報有關油輪已在主要出口港卡爾格島附近集結，船員已就位並升起伊朗國旗，但暫時未有獨立證實行動已經展開。美軍封鎖已令4,300萬桶伊朗原油滯留，荷姆茲海峽航運量較戰前大跌65%。"
+  },
+  "tags": {
+   "en": [
+    "Iran",
+    "United States",
+    "Strait of Hormuz"
+   ],
+   "zh_hans": [
+    "伊朗",
+    "美国",
+    "荷姆兹海峡"
+   ],
+   "zh_hant": [
+    "伊朗",
+    "美國",
+    "荷姆茲海峽"
+   ]
+  },
+  "title": {
+   "en": "Iran Says 14 Tankers Ready to Challenge US Blockade as Hormuz Shipping Plunges 65%",
+   "zh_hans": "伊朗议员称14艘油轮准备冲破美军封锁 荷姆兹海峡航运急跌65%",
+   "zh_hant": "伊朗議員稱14艘油輪準備衝破美軍封鎖 荷姆茲海峽航運急跌65%"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-iran-14-tankers-break-us-blockade-v2.jpg",
+  "image_prompt": "荷姆茲海峽日間明亮海面，幾艘大型油輪在藍色海面上航行，遠處是海岸線和藍天白雲，氣氛開闊明亮，不要畫軍事衝突或爆炸場面。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『伊朗稱14艘油輪準備衝破封鎖』，第二行黃色大字寫『荷姆茲航運較戰前急跌65%』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-iran-14-tankers-break-us-blockade-v2.jpg"
+ },
+ {
+  "category": "china",
+  "id": "20261122-shanghai-two-japanese-restaurant-death",
+  "published_at": "2026-11-22T08:47:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878742-20261122.htm"
+  },
+  "summary": {
+   "en": "Two Japanese men clashed at a restaurant in Shanghai, leaving one dead and the other arrested. Kyodo News reported the incident happened on November 18; both men are in their 50s and are friends. The two were attending a gathering at the restaurant when a dispute broke out, and one may have used violence against the other. The arrested man used to live in Shanghai but now resides in Japan and had travelled to China for the gathering; the deceased lived in Shanghai.",
+   "zh_hans": "两名日本人在上海一间餐厅发生冲突，其中一人死亡，另一人被捕。据共同社报道，事件在本月18日发生，两人都是50多岁的男性，是朋友关系。据了解，两人到访涉事餐厅出席聚会期间突然发生纠纷，其中一人可能对另一人实施暴力行为。报道说，被捕男子曾经在上海居住，现时在日本生活，今次为参加餐厅举办的聚会而赴华；死者则住在上海。",
+   "zh_hant": "兩名日本人在上海一間餐廳發生衝突，其中一人死亡，另一人被捕。據共同社報道，事件在本月18日發生，兩人都是50多歲的男性，是朋友關係。據了解，兩人到訪涉事餐廳出席聚會期間突然發生糾紛，其中一人可能對另一人實施暴力行為。報道說，被捕男子曾經在上海居住，現時在日本生活，今次為參加餐廳舉辦的聚會而赴華；死者則住在上海。"
+  },
+  "tags": {
+   "en": [
+    "Shanghai",
+    "Japan",
+    "homicide"
+   ],
+   "zh_hans": [
+    "上海",
+    "日本",
+    "命案"
+   ],
+   "zh_hant": [
+    "上海",
+    "日本",
+    "命案"
+   ]
+  },
+  "title": {
+   "en": "Two Japanese Men Clash at Shanghai Restaurant Leaving One Dead and One Arrested",
+   "zh_hans": "上海餐厅两日本人冲突酿命案 一人死亡一人被捕",
+   "zh_hant": "上海餐廳兩日本人衝突釀命案 一人死亡一人被捕"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-shanghai-two-japanese-restaurant-death-v2.jpg",
+  "image_prompt": "上海街頭餐廳外景，夜晚燈光，街道和餐廳招牌，氣氛平靜，沒有人物特寫。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫『上海餐廳兩日本人衝突釀命案』，第二行黃色大字寫『一人死亡一人被捕』，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫『AI設計圖片』，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_r2_key": "design/202611/20261122-shanghai-two-japanese-restaurant-death-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-yellow-fire-danger-warning",
+  "published_at": "2026-11-22T06:01:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200119.htm"
+  },
+  "summary": {
+   "en": "The Observatory issued a yellow fire danger warning at 6:01 this morning, saying the fire danger situation today is yellow and the risk of fire is high. People are urged to prevent fires from breaking out, and hikers should stay vigilant and not light fires in country parks.",
+   "zh_hans": "天文台今日早上6时01分发出黄色火灾危险警告，表示今日火灾危险情况属黄色，火灾风险颇高。市民应小心防止火警发生，郊游人士亦应提高警觉，切勿在郊野公园内生火。",
+   "zh_hant": "天文台今日早上6時01分發出黃色火災危險警告，表示今日火災危險情況屬黃色，火災風險頗高。市民應小心防止火警發生，郊遊人士亦應提高警覺，切勿在郊野公園內生火。"
+  },
+  "tags": {
+   "en": [
+    "Yellow fire danger warning",
+    "Observatory",
+    "fire prevention"
+   ],
+   "zh_hans": [
+    "黄色火灾危险警告",
+    "天文台",
+    "防火"
+   ],
+   "zh_hant": [
+    "黃色火災危險警告",
+    "天文台",
+    "防火"
+   ]
+  },
+  "title": {
+   "en": "Yellow fire danger warning in force as fire risk runs high, public urged to take care",
+   "zh_hans": "黄色火灾危险警告生效 火灾风险颇高吁市民小心防火",
+   "zh_hant": "黃色火災危險警告生效 火災風險頗高籲市民小心防火"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-yellow-fire-danger-warning-v2.jpg",
+  "image_prompt": "事實：天文台發出黃色火災危險警告，今日火災風險頗高，呼籲市民小心防火，郊遊人士切勿在郊野公園內生火。場景：光猛日間，一個陽光普照的郊野公園山徑，藍天白雲，綠樹成蔭，畫面光亮通透；遠處山坡有淡淡煙霧警示。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「黃色火災危險警告生效」白字，第二行「火災風險頗高 籲小心防火」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。",
+  "image_r2_key": "design/202611/20261122-yellow-fire-danger-warning-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261122-japan-heavy-snow-fukushima-isolated",
+  "published_at": "2026-11-22T05:09:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878738-20261122.htm"
+  },
+  "summary": {
+   "en": "Heavy snow has hit Japan's Tohoku and Hokuriku regions over the past two days, disrupting transport and public services. In Kitashiobara village, Fukushima, fallen trees blocked roads around the popular Urabandai resort area, leaving more than 940 residents in over 510 households and at least 500 hotel guests cut off, with about 700 households without power and phone lines down. Snow reached 50 cm in parts of Iwate, and Yamagata Shinkansen services were suspended for the day. Authorities warned of avalanches and landslides.",
+   "zh_hans": "日本东北及北陆地区过去两日落大雪，交通及公共服务受影响。福岛县北盐原村著名景点里磐梯一带，大雪压断树木阻塞道路，510多户、超过940名居民及最少500名住客孤立无援，村内约700户停电，电话亦难以接通。岩手县部分地区积雪达50厘米，山形新干线部分路段全日停运，当局呼吁民众提防雪崩及山泥倾泻。",
+   "zh_hant": "日本東北及北陸地區過去兩日落大雪，交通及公共服務受影響。福島縣北鹽原村著名景點裏磐梯一帶，大雪壓斷樹木阻塞道路，510多戶、超過940名居民及最少500名住客孤立無援，村內約700戶停電，電話亦難以接通。岩手縣部分地區積雪達50厘米，山形新幹線部分路段全日停運，當局呼籲民眾提防雪崩及山泥傾瀉。"
+  },
+  "tags": {
+   "en": [
+    "Japan snow",
+    "Fukushima",
+    "transport disruption"
+   ],
+   "zh_hans": [
+    "日本大雪",
+    "福岛",
+    "交通受阻"
+   ],
+   "zh_hant": [
+    "日本大雪",
+    "福島",
+    "交通受阻"
+   ]
+  },
+  "title": {
+   "en": "Heavy snow cuts off 1,400 people in Japan's Fukushima as power fails and roads close",
+   "zh_hans": "日本东北大雪封村 逾千居民旅客受困断电",
+   "zh_hant": "日本東北大雪封村 逾千居民旅客受困斷電"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-japan-heavy-snow-fukushima-isolated-v2.jpg",
+  "image_prompt": "事實：日本東北及北陸地區落大雪，福島縣著名景點裏磐梯一帶逾千居民及旅客受困，約700戶停電，交通癱瘓。場景：光猛日間，一個被厚雪覆蓋的日本山區村落，雪白屋頂、積雪松樹，陽光照在雪地上，光亮通透；遠處有除雪車與被雪壓彎的樹木。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「日本東北大雪封村」白字，第二行「逾千人受困斷電」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。",
+  "image_r2_key": "design/202611/20261122-japan-heavy-snow-fukushima-isolated-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261122-iran-diplomat-enriched-uranium-not-leaving",
+  "published_at": "2026-11-22T03:48:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878737-20261122.htm"
+  },
+  "summary": {
+   "en": "Iran's Deputy Foreign Minister for Legal and International Affairs, Gharibabadi, confirmed that a Qatari delegation visited Tehran on Friday evening for about two hours of talks. He said Iran and the United States have not yet started negotiations, and that if talks begin, the two sides will discuss technical details. Iran insists it will not ship enriched nuclear material out of the country, because doing so would force it to seek help from other countries to meet the needs of its domestic nuclear reactors. Gharibabadi added that Iran regards an economic blockade as an act of war and will take all necessary measures to break it; Iran has told the mediators and relevant parties what it plans to do, the US is aware of it, and if the US honours its commitments, Iran will act accordingly.",
+   "zh_hans": "伊朗外交部负责法律和国际事务的副部长加里巴巴迪证实，卡塔尔代表团在过去的星期五晚访问德黑兰，双方磋商约两小时。他表示，伊朗与美国目前未启动谈判，若展开谈判，双方将讨论相关技术细节；伊朗坚持不将浓缩核材料运出境外，因为若将材料运走，为满足国内核反应堆需求，就不得不向其他国家寻求帮助。加里巴巴迪又说，伊朗将经济封锁视为战争行为，将采取一切必要措施打破封锁；伊方已告知调解方及有关方面打算采取的措施，美国亦了解相关情况，只要美国履行承诺，伊朗亦将采取相应行动。",
+   "zh_hant": "伊朗外交部負責法律和國際事務的副部長加里巴巴迪證實，卡塔爾代表團在過去的星期五晚訪問德黑蘭，雙方磋商約兩小時。他表示，伊朗與美國目前未啟動談判，若展開談判，雙方將討論相關技術細節；伊朗堅持不將濃縮核材料運出境外，因為若將材料運走，為滿足國內核反應堆需求，就不得不向其他國家尋求幫助。加里巴巴迪又說，伊朗將經濟封鎖視為戰爭行為，將採取一切必要措施打破封鎖；伊方已告知調解方及有關方面打算採取的措施，美國亦了解相關情況，只要美國履行承諾，伊朗亦將採取相應行動。"
+  },
+  "tags": {
+   "en": [
+    "Iran",
+    "enriched uranium",
+    "Qatar mediation"
+   ],
+   "zh_hans": [
+    "伊朗",
+    "浓缩核材料",
+    "卡塔尔斡旋"
+   ],
+   "zh_hant": [
+    "伊朗",
+    "濃縮核材料",
+    "卡塔爾斡旋"
+   ]
+  },
+  "title": {
+   "en": "Iran insists enriched nuclear material will not leave the country as diplomat calls blockade an act of war",
+   "zh_hans": "伊朗坚持浓缩核材料不运出境 斥封锁等同战争将全力打破",
+   "zh_hant": "伊朗堅持濃縮核材料不運出境 斥封鎖等同戰爭將全力打破"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-iran-diplomat-enriched-uranium-not-leaving-v2.jpg",
+  "image_prompt": "事實：伊朗外交官員強調，德黑蘭堅持不將濃縮核材料運出境外；卡塔爾代表團星期五晚訪德黑蘭磋商兩小時；伊朗視經濟封鎖為戰爭行為。場景：光猛日間，一個莊嚴的外交會議室，長枱上放着文件及水杯，窗外陽光灑入，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「伊朗堅持核材料不運出境」白字，第二行「斥封鎖等同戰爭將全力打破」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫任何國旗。圖上除標題外不寫任何其他字。",
+  "image_r2_key": "design/202611/20261122-iran-diplomat-enriched-uranium-not-leaving-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261122-rutte-nato-defend-poland-territory",
+  "published_at": "2026-11-22T03:43:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878736-20261122.htm"
+  },
+  "summary": {
+   "en": "NATO Secretary General Mark Rutte said NATO will defend every inch of Polish territory, in response to Poland reporting a violation of its airspace. Speaking to reporters during a visit to the Polish capital Warsaw, Rutte said the airspace violation was a dangerous incident and that the details are still under investigation. Polish Defence Minister Wladyslaw Kosiniak-Kamysz said earlier that during a large-scale Russian overnight air attack on Ukraine, flying objects from Russia violated Polish airspace, with debris found at three sites in the south-eastern Subcarpathian and Lublin provinces, two of which may be missiles and one possibly a jet-powered drone. Russia has not responded.",
+   "zh_hans": "北约秘书长吕特就波兰方面通报的领空被侵犯事件表示，北约将捍卫波兰的每一寸领土。吕特访问波兰首都华沙，接受记者访问时说，波兰领空被侵犯是危险事件，具体情况仍在调查中。波兰国防部长科西尼亚克卡梅什较早时说，俄罗斯对乌克兰发动大规模夜间空袭期间，来自俄罗斯的飞行物侵犯波兰领空，波兰东南部喀尔巴阡山省和卢布林省的三处地点发现坠落物，其中两处可能是导弹，另一处可能为喷气式无人机。俄方未就此作出回应。",
+   "zh_hant": "北約秘書長呂特就波蘭方面通報的領空被侵犯事件表示，北約將捍衛波蘭的每一寸領土。呂特訪問波蘭首都華沙，接受記者訪問時說，波蘭領空被侵犯是危險事件，具體情況仍在調查中。波蘭國防部長科西尼亞克卡梅什較早時說，俄羅斯對烏克蘭發動大規模夜間空襲期間，來自俄羅斯的飛行物侵犯波蘭領空，波蘭東南部喀爾巴阡山省和盧布林省的三處地點發現墜落物，其中兩處可能是導彈，另一處可能為噴氣式無人機。俄方未就此作出回應。"
+  },
+  "tags": {
+   "en": [
+    "NATO",
+    "Poland",
+    "Mark Rutte"
+   ],
+   "zh_hans": [
+    "北约",
+    "波兰",
+    "吕特"
+   ],
+   "zh_hant": [
+    "北約",
+    "波蘭",
+    "呂特"
+   ]
+  },
+  "title": {
+   "en": "NATO will defend every inch of Polish territory, Rutte says as airspace violation is investigated",
+   "zh_hans": "北约保证捍卫波兰每一寸领土 俄飞行物越境事件仍在调查",
+   "zh_hant": "北約保證捍衛波蘭每一寸領土 俄飛行物越境事件仍在調查"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-rutte-nato-defend-poland-territory-v2.jpg",
+  "image_prompt": "事實：北約秘書長呂特保證捍衛波蘭每一寸領土；俄羅斯飛行物在對烏空襲期間侵犯波蘭領空，三處地點發現墜落物。場景：光猛日間，一個明亮的歐洲城市天際線遠景，藍天白雲，畫面光亮通透；前景一條筆直的跑道與停機坪。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「北約保證捍衛波蘭每一寸領土」白字，第二行「俄飛行物越境事件仍在調查」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫任何國旗。圖上除標題外不寫任何其他字。",
+  "image_r2_key": "design/202611/20261122-rutte-nato-defend-poland-territory-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261122-finland-russian-cargo-ship-fire-drone",
+  "published_at": "2026-11-22T01:56:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878735-20261122.htm"
+  },
+  "summary": {
+   "en": "Finland's Defence Ministry said its border guard monitored a Russian cargo ship that was damaged and on fire in international waters in the eastern Gulf of Finland on Saturday morning, in a suspected drone attack. The damaged vessel has since drifted from international waters into Finnish territorial waters; the Finnish border guard is leading a maritime search and rescue operation and preparing for possible marine pollution, while the Finnish Defence Forces have imposed temporary air and sea restrictions in the eastern Gulf of Finland. The governor of Russia's Leningrad region confirmed that a Russian cargo ship sailing from the region to Kaliningrad was attacked by two drones in international waters in the Gulf of Finland, and that the crew has been evacuated, with losses still being verified.",
+   "zh_hans": "芬兰国防部发公告指出，边防军在当地星期六上午于芬兰湾东部国际水域，监测到一艘俄罗斯货船船身受损并起火，怀疑遭受无人机袭击。受损船只其后由国际水域漂入芬兰领海，芬兰边防军正指挥海上搜救行动，并准备应对可能的海洋环境污染，芬兰国防军已在芬兰湾东部实施临时空域和海域限制措施。俄罗斯列宁格勒州州长证实，一艘由该州驶往加里宁格勒州的俄罗斯货船，在芬兰湾国际水域被两架无人机袭击，船员已被疏散，损失仍在核实。",
+   "zh_hant": "芬蘭國防部發公告指出，邊防軍在當地星期六上午於芬蘭灣東部國際水域，監測到一艘俄羅斯貨船船身受損並起火，懷疑遭受無人機襲擊。受損船隻其後由國際水域漂入芬蘭領海，芬蘭邊防軍正指揮海上搜救行動，並準備應對可能的海洋環境污染，芬蘭國防軍已在芬蘭灣東部實施臨時空域和海域限制措施。俄羅斯列寧格勒州州長證實，一艘由該州駛往加里寧格勒州的俄羅斯貨船，在芬蘭灣國際水域被兩架無人機襲擊，船員已被疏散，損失仍在核實。"
+  },
+  "tags": {
+   "en": [
+    "Gulf of Finland",
+    "Russia",
+    "drone attack"
+   ],
+   "zh_hans": [
+    "芬兰湾",
+    "俄罗斯货船",
+    "无人机袭击"
+   ],
+   "zh_hant": [
+    "芬蘭灣",
+    "俄羅斯貨船",
+    "無人機襲擊"
+   ]
+  },
+  "title": {
+   "en": "Russian cargo ship damaged and on fire in Gulf of Finland after suspected drone attack; crew evacuated",
+   "zh_hans": "俄罗斯货船芬兰湾起火 疑遭无人机袭击 船员撤离",
+   "zh_hant": "俄羅斯貨船芬蘭灣起火 疑遭無人機襲擊 船員撤離"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-finland-russian-cargo-ship-fire-drone-v2.jpg",
+  "image_prompt": "事實：俄羅斯貨船在芬蘭灣國際水域疑遭無人機襲擊，船身受損起火，船員撤離，船隻漂入芬蘭領海。場景：光猛日間，遼闊海面上一艘貨船遠景，船身冒出淡淡煙霧，附近有搜救船隻，天空明亮，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「俄羅斯貨船芬蘭灣起火」白字，第二行「疑遭無人機襲擊 船員撤離」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。",
+  "image_r2_key": "design/202611/20261122-finland-russian-cargo-ship-fire-drone-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261122-qatar-delegation-tehran-mediation",
+  "published_at": "2026-11-22T01:48:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878734-20261122.htm"
+  },
+  "summary": {
+   "en": "Iranian Deputy Foreign Minister Gharibabadi said a Qatari delegation arrived in the Iranian capital Tehran on Friday evening for two hours of talks. Media reports citing sources said US presidential envoy Witkoff and President Trump's son-in-law Kushner met senior Qatari officials in Berlin on Thursday to discuss mediating between the US and Iran, with Qatar's Prime Minister and Foreign Minister Mohammed and his envoy also attending. As the key mediator between the US and Iran, Qatar has spent weeks working to broker a deal aimed at restoring a ceasefire, restarting nuclear talks and preventing war from reigniting.",
+   "zh_hans": "伊朗副外长加里巴巴迪表示，一个卡塔尔代表团在过去的星期五晚抵达伊朗首都德黑兰，双方进行两小时磋商。传媒引述知情人士报道，美国总统特使威特科夫及总统特朗普的女婿库什纳，在过去的星期四于柏林与卡塔尔高级官员会晤，讨论斡旋美国与伊朗的工作，卡塔尔首相兼外交大臣穆罕默德及他的特使亦有出席。作为美伊之间的关键斡旋方，卡塔尔在几个星期以来一直致力促成一项协议，旨在恢复停火、重启核谈判，并防止战火重燃。",
+   "zh_hant": "伊朗副外長加里巴巴迪表示，一個卡塔爾代表團在過去的星期五晚抵達伊朗首都德黑蘭，雙方進行兩小時磋商。傳媒引述知情人士報道，美國總統特使威特科夫及總統特朗普的女婿庫什納，在過去的星期四於柏林與卡塔爾高級官員會晤，討論斡旋美國與伊朗的工作，卡塔爾首相兼外交大臣穆罕默德及他的特使亦有出席。作為美伊之間的關鍵斡旋方，卡塔爾在幾個星期以來一直致力促成一項協議，旨在恢復停火、重啟核談判，並防止戰火重燃。"
+  },
+  "tags": {
+   "en": [
+    "Qatar",
+    "Iran",
+    "US-Iran mediation"
+   ],
+   "zh_hans": [
+    "卡塔尔",
+    "伊朗",
+    "美伊斡旋"
+   ],
+   "zh_hant": [
+    "卡塔爾",
+    "伊朗",
+    "美伊斡旋"
+   ]
+  },
+  "title": {
+   "en": "Qatari delegation arrives in Tehran for talks as mediation between the US and Iran resumes",
+   "zh_hans": "卡塔尔代表团抵德黑兰磋商 美伊斡旋再启动",
+   "zh_hant": "卡塔爾代表團抵德黑蘭磋商 美伊斡旋再啟動"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-qatar-delegation-tehran-mediation-v2.jpg",
+  "image_prompt": "事實：卡塔爾代表團抵達德黑蘭，與伊朗磋商兩小時；卡塔爾正斡旋美伊，推動恢復停火及重啟核談判。場景：光猛日間，一個現代化城市天際線遠景，陽光普照，天空明亮，畫面光亮通透；前景一張談判長枱放着文件及水杯。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「卡塔爾代表團抵德黑蘭磋商」白字，第二行「美伊斡旋再啟動」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫任何國旗。圖上除標題外不寫任何其他字。",
+  "image_r2_key": "design/202611/20261122-qatar-delegation-tehran-mediation-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261122-iran-f16-intercept-us-denies",
+  "published_at": "2026-11-22T01:42:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878733-20261122.htm"
+  },
+  "summary": {
+   "en": "Iranian state television reported that Iran's military said its air defence forces intercepted an F-16 fighter over the Persian Gulf on Friday night, with a missile exploding near the jet, damaging it and forcing it to make an emergency landing at a nearby airport. US Central Command denied the claim, saying Iran did not attack a US F-16 on Friday and that all US aircraft in the Middle East are confirmed safe. Iran had earlier on Friday claimed to have intercepted and hit a US F-16.",
+   "zh_hans": "伊朗伊斯兰共和国广播电视台报道，伊朗军方表示，防空部队星期五晚在波斯湾上空拦截一架F-16战斗机，导弹在战机附近爆炸，令战机受损，被迫在附近机场紧急降落。美军中央司令部随即否认，指伊朗所称星期五攻击一架F-16战机的说法不实，伊朗当日并无攻击美国F-16战机，美军在中东地区的所有战机确认安全。伊朗星期五较早时已宣称拦截及击中一架美军F-16战机。",
+   "zh_hant": "伊朗伊斯蘭共和國廣播電視台報道，伊朗軍方表示，防空部隊星期五晚在波斯灣上空攔截一架F-16戰鬥機，導彈在戰機附近爆炸，令戰機受損，被迫在附近機場緊急降落。美軍中央司令部隨即否認，指伊朗所稱星期五攻擊一架F-16戰機的說法不實，伊朗當日並無攻擊美國F-16戰機，美軍在中東地區的所有戰機確認安全。伊朗星期五較早時已宣稱攔截及擊中一架美軍F-16戰機。"
+  },
+  "tags": {
+   "en": [
+    "Iran",
+    "F-16",
+    "US Central Command"
+   ],
+   "zh_hans": [
+    "伊朗",
+    "F-16战机",
+    "美军"
+   ],
+   "zh_hant": [
+    "伊朗",
+    "F-16戰機",
+    "美軍"
+   ]
+  },
+  "title": {
+   "en": "Iran says it intercepted a US F-16 and forced it to land; US denies any jet was hit and says all aircraft safe",
+   "zh_hans": "伊朗称拦截美军F-16迫降 美方否认：中东战机全部安全",
+   "zh_hant": "伊朗稱攔截美軍F-16迫降 美方否認：中東戰機全部安全"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-iran-f16-intercept-us-denies-v2.jpg",
+  "image_prompt": "事實：伊朗稱防空部隊在波斯灣上空攔截一架美軍F-16戰機，令其受損迫降；美軍中央司令部否認，稱中東所有戰機安全。場景：光猛日間，波斯灣遼闊海面，遠方一架戰機剪影飛越海面，天空明亮，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「伊朗稱攔截美軍F-16迫降」白字，第二行「美方否認：中東戰機全部安全」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。",
+  "image_r2_key": "design/202611/20261122-iran-f16-intercept-us-denies-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261122-trump-iran-permanent-deal",
+  "published_at": "2026-11-22T01:29:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878732-20261122.htm"
+  },
+  "summary": {
+   "en": "US President Donald Trump said he will seek a permanent agreement with Iran. In an interview with a local news channel broadcast on Saturday, Trump said what he is doing is to make sure that even if an incompetent president takes office in four, 15 or 20 years, the deal he reaches will remain permanent, and he will not let anyone allow Iran to possess nuclear weapons or renege on the agreement. Trump added that he is not considering regime change in Iran and has never much cared about the regime.",
+   "zh_hans": "美国总统特朗普表示，将寻求与伊朗达成一项永久性协议。他接受当地新闻频道访问，内容在星期六播出。特朗普说，自己所做的是确保即使4年、15年或20年后，美国出现一位不称职的总统，他达成的协议亦将是永久性，他不会让某人允许伊朗拥有核武器，并对达成的协议出尔反尔。特朗普又说，无考虑伊朗政权更迭，他从来不太在乎政权。",
+   "zh_hant": "美國總統特朗普表示，將尋求與伊朗達成一項永久性協議。他接受當地新聞頻道訪問，內容在星期六播出。特朗普說，自己所做的是確保即使4年、15年或20年後，美國出現一位不稱職的總統，他達成的協議亦將是永久性，他不會讓某人允許伊朗擁有核武器，並對達成的協議出爾反爾。特朗普又說，無考慮伊朗政權更迭，他從來不太在乎政權。"
+  },
+  "tags": {
+   "en": [
+    "Donald Trump",
+    "Iran",
+    "nuclear deal"
+   ],
+   "zh_hans": [
+    "特朗普",
+    "伊朗",
+    "核协议"
+   ],
+   "zh_hant": [
+    "特朗普",
+    "伊朗",
+    "核協議"
+   ]
+  },
+  "title": {
+   "en": "Trump says he will seek a permanent deal with Iran and will not let Tehran obtain nuclear weapons",
+   "zh_hans": "特朗普称寻求与伊朗达成永久协议 绝不容德黑兰拥有核武",
+   "zh_hant": "特朗普稱尋求與伊朗達成永久協議 絕不容德黑蘭擁有核武"
+  },
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-trump-iran-permanent-deal-v2.jpg",
+  "image_prompt": "事實：特朗普稱將尋求與伊朗達成永久協議，絕不容德黑蘭擁有核武，亦無考慮伊朗政權更迭。場景：光猛日間，一個莊嚴的談判會議室，長枱兩旁放着文件及水杯，窗外陽光灑入，畫面光亮通透。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「特朗普尋求與伊朗達成永久協議」白字，第二行「絕不容德黑蘭擁有核武」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔，不畫任何國旗。圖上除標題外不寫任何其他字。",
+  "image_r2_key": "design/202611/20261122-trump-iran-permanent-deal-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-election-committee-subsector-voting-day",
+  "published_at": "2026-11-22T00:10:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878731-20261122.htm"
+  },
+  "summary": {
+   "en": "The Election Committee subsector ordinary election is held today, with 31 subsectors contested and 856 candidates vying for 723 seats among about 5,700 eligible voters. The social welfare subsector is the most competitive, with 25 candidates chasing 15 seats, or 1.66 candidates per seat. The more than 700 winners will join 259 automatically returned members and 518 ex-officio and nominated members to form the new 1,500-member Election Committee, which nominates and elects the Chief Executive and elects 40 Legislative Council members. Five general polling stations are open from 9am to 6pm, and ballot boxes will be taken to the central counting station at the Convention and Exhibition Centre after voting ends.",
+   "zh_hans": "选举委员会界别分组一般选举今日举行，今届共有31个界别分组需要竞逐，856名候选人争夺723个席位，合资格投票人数目约5700人。今次竞逐的界别中，社会福利界最激烈，25人争15席，平均1.66人竞逐一个位。胜出的700多名当选者，将联同自动当选的259人，以及518名当然委员和经提名产生的选委，组成新一届1500人的选举委员会，负责提名行政长官选举候选人及选出行政长官等。全港设有5个一般投票站，早上9时至下午6时开放投票，投票结束后票箱运到湾仔会展中央点票站点票。",
+   "zh_hant": "選舉委員會界別分組一般選舉今日舉行，今屆共有31個界別分組需要競逐，856名候選人爭奪723個席位，合資格投票人數目約5700人。今次競逐的界別中，社會福利界最激烈，25人爭15席，平均1.66人爭一個位。勝出的700多名當選者，將聯同自動當選的259人，以及518名當然委員同經提名產生的選委，組成新一屆1500人的選舉委員會，負責提名行政長官選舉候選人同選出行政長官等。全港設有5個一般投票站，早上9時至下午6時開放投票，投票結束後票箱運到灣仔會展中央點票站點票。"
+  },
+  "tags": {
+   "en": [
+    "Election Committee election",
+    "subsector election",
+    "polling day"
+   ],
+   "zh_hans": [
+    "选委会选举",
+    "界别分组",
+    "投票日"
+   ],
+   "zh_hant": [
+    "選委會選舉",
+    "界別分組",
+    "投票日"
+   ]
+  },
+  "title": {
+   "en": "Election Committee subsector polls open today as 856 candidates vie for 723 seats, social welfare race the hottest",
+   "zh_hans": "选委会界别分组选举今日投票 856人争723席社福界最激烈",
+   "zh_hant": "選委會選舉今日投票 856人爭723席社福界最激烈"
+  },
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-election-committee-subsector-voting-day.jpg",
+  "image_r2_key": "design/202611/20261122-election-committee-subsector-voting-day.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261122-election-results-half-sectors-announced",
+  "image_prompt": "選舉點票中心場景，工作人員點算選票，票箱整齊排列，氣氛莊重專業，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「選委會選舉結果陸續出爐」，第二行黃色大字寫「多名前高官勝出 湯文龍落敗」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "",
+  "published_at": "2026-11-22T22:26:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878840-20261122.htm"
+  },
+  "summary": {
+   "en": "Results of the Election Committee subsector ordinary elections are rolling in, with results declared for all 31 contested subsectors: 723 of 856 candidates were elected and 133 lost. Several former senior officials and current Executive Council members have won seats, including former Secretary for Justice Rimsky Yuen, former innovation and technology chief Alfred Sit, ExCo members Jeffrey Lam and Ronny Tong, and former LegCo president Andrew Leung. Business heavyweights including PCCW founder Richard Li and Wharf chairman William Doo have also been elected, but Law Society president Roden Tong lost in the legal sector and Chamber of Commerce CEO Patrick Yeung lost in commercial (first). Final turnout was 98.79%.",
+   "zh_hans": "选举委员会界别分组一般选举结果陆续公布，31个有竞争的界别分组已有结果，856名候选人中723人当选、133人落选。多名前高官及现任行政会议成员胜出，包括律政司前司长袁国强、创新及科技局前局长薛永恒、行会成员林健锋及汤家骅，以及立法会前主席梁君彦。商界多名重量级人物亦在不同界别当选，包括盈科拓展创办人兼主席李泽楷及九龙仓主席吴天海；不过律师会会长汤文龙在法律界落败，总商会总裁杨伟添亦在商界（第一）落选。今届最终投票率98.79%。",
+   "zh_hant": "選舉委員會界別分組一般選舉結果陸續公布，31個有競爭的界別分組已有結果，856名候選人中723人當選、133人落選。多名前高官及現任行政會議成員勝出，包括律政司前司長袁國強、創新及科技局前局長薛永恒、行會成員林健鋒及湯家驊，以及立法會前主席梁君彥。商界多名重量級人物亦在不同界別當選，包括盈科拓展創辦人兼主席李澤楷及九龍倉主席吳天海；不過律師會會長湯文龍在法律界落敗，總商會總裁楊偉添亦在商界（第一）落選。今屆最終投票率98.79%。"
+  },
+  "tags": {
+   "en": [
+    "Election Committee election",
+    "Richard Li",
+    "Roden Tong"
+   ],
+   "zh_hans": [
+    "选委会选举",
+    "李泽楷",
+    "汤文龙"
+   ],
+   "zh_hant": [
+    "選委會選舉",
+    "李澤楷",
+    "湯文龍"
+   ]
+  },
+  "title": {
+   "en": "Election Committee Results Roll In as Ex-Officials Win Seats, Law Society Chief Loses in Legal Sector",
+   "zh_hans": "选委会选举结果陆续出炉 多名前高官胜出 律师会会长汤文龙落败",
+   "zh_hant": "選委會選舉結果陸續出爐 多名前高官勝出 律師會會長湯文龍落敗"
   }
+ },
+ {
+  "category": "hk",
+  "id": "20261122-icac-woo-morocco-iaaca-president-bid",
+  "image_prompt": "國際反貪會議場景，會議廳講台與各國代表剪影，氣氛莊重專業，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「胡英明赴摩洛哥主持反貪年會」，第二行黃色大字寫「競選國際反貪局聯合會新屆主席」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "",
+  "published_at": "2026-11-22T21:30:00+08:00",
+  "source": {
+   "name": "廉政公署",
+   "url": "https://www.icac.org.hk/tc/p/press/index_id_5055.html"
+  },
+  "summary": {
+   "en": "ICAC Commissioner Woo Ying-ming departed for Marrakech, Morocco today to chair the International Association of Anti-Corruption Authorities' annual conference and general assembly as its president, and to stand for the association's next presidency on behalf of the ICAC. The conference marks the IAACA's 20th anniversary and brings together anti-corruption experts, government officials, international organisation representatives and academics from around the world to share the latest anti-corruption strategies. ICAC officers will also host a seminar on using artificial intelligence to fight corruption. Woo returns to Hong Kong on November 26.",
+   "zh_hans": "廉政专员胡英明今日出发前往摩洛哥马拉喀什，以国际反贪局联合会主席身份主持年度研讨会及会员大会，并代表廉署竞逐联合会下届主席。今年是联合会成立20周年，会议云集全球反贪专家、政府官员、国际组织代表及学者，分享最新反贪策略；廉署人员亦会主持专题讲座，讲解人工智能如何协助打击贪污。胡英明定于11月26日返港。",
+   "zh_hant": "廉政專員胡英明今日出發前往摩洛哥馬拉喀什，以國際反貪局聯合會主席身分主持年度研討會及會員大會，並代表廉署競逐聯合會下屆主席。今年是聯合會成立20周年，會議雲集全球反貪專家、政府官員、國際組織代表及學者，分享最新反貪策略；廉署人員亦會主持專題講座，講解人工智能如何協助打擊貪污。胡英明定於11月26日返港。"
+  },
+  "tags": {
+   "en": [
+    "ICAC",
+    "Woo Ying-ming",
+    "IAACA"
+   ],
+   "zh_hans": [
+    "廉政公署",
+    "胡英明",
+    "国际反贪局联合会"
+   ],
+   "zh_hant": [
+    "廉政公署",
+    "胡英明",
+    "國際反貪局聯合會"
+   ]
+  },
+  "title": {
+   "en": "ICAC Chief Heads to Morocco to Chair Anti-Corruption Conference and Seek IAACA Presidency",
+   "zh_hans": "胡英明赴摩洛哥主持反贪年会 竞选国际反贪局联合会新届主席",
+   "zh_hant": "胡英明赴摩洛哥主持反貪年會 競選國際反貪局聯合會新屆主席"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261122-gulf-stocks-slide-iran-tensions",
+  "image_prompt": "證券交易所交易大堂場景，電子屏幕顯示紅色下跌數字和走勢圖，交易員剪影，氣氛緊張專業，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「美伊緊張拖累海灣股市」，第二行黃色大字寫「沙特挫1.7% 卡塔爾跌1.5%」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "",
+  "published_at": "2026-11-22T17:30:00+08:00",
+  "source": {
+   "name": "NDTV Profit",
+   "url": "https://www.ndtvprofit.com/markets/saudi-qatar-stocks-slide-as-us-iran-tensions-rattle-gulf-markets-12362352"
+  },
+  "summary": {
+   "en": "Gulf stock markets fell in early trading on Sunday as Middle East tensions continued to weigh on sentiment. Saudi Arabia's benchmark index slipped 1.7%, with Al Rajhi Bank down 2% and Saudi National Bank, the country's largest lender, down 1.8%; Qatar's market fell 1.5% with nearly all shares in the red, including Qatar Islamic Bank down 1.3%; Bahrain dropped 0.4%. The declines followed Iran's claim that its air defences hit a US F-16 fighter jet over the Gulf, which Washington denied, saying all American warplanes in the Middle East are safe. A Qatari delegation visited Tehran on Friday to mediate, and Iran's foreign minister said Tehran still hopes to end the war through diplomacy.",
+   "zh_hans": "受中东局势持续紧张拖累，海湾股市周日早段普遍下跌。沙特基准指数跌1.7%，蓝筹阿尔拉吉银行跌2%，最大贷款行沙特国家银行跌1.8%；卡塔尔股市跌1.5%，几乎全线下跌，卡塔尔伊斯兰银行跌1.3%；巴林股市跌0.4%。跌市之前，伊朗声称防空部队击中一架美军F-16战机，美方否认，指中东地区所有美军战机均安全。卡塔尔代表团上周五曾到德黑兰斡旋，伊朗外长称仍希望以外交结束战事。",
+   "zh_hant": "受中東局勢持續緊張拖累，海灣股市周日早段普遍下跌。沙特基準指數跌1.7%，藍籌阿爾拉吉銀行跌2%，最大貸款行沙特國家銀行跌1.8%；卡塔爾股市跌1.5%，幾乎全線下跌，卡塔爾伊斯蘭銀行跌1.3%；巴林股市跌0.4%。跌市之前，伊朗聲稱防空部隊擊中一架美軍F-16戰機，美方否認，指中東地區所有美軍戰機均安全。卡塔爾代表團上周五曾到德黑蘭斡旋，伊朗外長稱仍希望以外交結束戰事。"
+  },
+  "tags": {
+   "en": [
+    "Gulf stocks",
+    "Saudi Arabia",
+    "US-Iran tensions"
+   ],
+   "zh_hans": [
+    "海湾股市",
+    "沙特股市",
+    "美伊局势"
+   ],
+   "zh_hant": [
+    "海灣股市",
+    "沙特股市",
+    "美伊局勢"
+   ]
+  },
+  "title": {
+   "en": "Gulf Stocks Slide as US-Iran Tensions Bite, Saudi Index Down 1.7%",
+   "zh_hans": "美伊紧张拖累海湾股市 沙特挫1.7% 卡塔尔跌1.5%",
+   "zh_hant": "美伊緊張拖累海灣股市 沙特挫1.7% 卡塔爾跌1.5%"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261122-bowring-street-crash-driver-arrested-drink-driving",
+  "published_at": "2026-11-22T16:36:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878786-20261122.htm"
+  },
+  "summary": {
+   "en": "A serious traffic accident occurred in Bowring Street, Tsim Sha Tsui, at about 2:30pm today, when a private car reportedly mounted the pavement, killing one person and injuring three. Police later arrested a man aged about 38 in Austin Road on suspicion of dangerous driving causing grievous bodily harm and drink driving; a breath test showed he was over the limit.",
+   "zh_hans": "尖沙咀宝勒巷今日下午近2时半发生严重交通意外，一辆私家车怀疑铲上行人路，导致1死3伤。据了解，警方经调查后在柯士甸道拘捕一名年约38岁男子，涉嫌危险驾驶引致他人严重受伤及酒后驾驶，并为他进行酒精呼气测试，发现超标。",
+   "zh_hant": "尖沙咀寶勒巷今日下午近2時半發生嚴重交通意外，一輛私家車懷疑剷上行人路，導致1死3傷。據了解，警方經調查後在柯士甸道拘捕一名年約38歲男子，涉嫌危險駕駛引致他人嚴重受傷及酒後駕駛，並為他進行酒精呼氣測試，發現超標。"
+  },
+  "tags": {
+   "en": [
+    "Bowring Street",
+    "traffic accident",
+    "drink driving"
+   ],
+   "zh_hans": [
+    "宝勒巷",
+    "交通意外",
+    "酒后驾驶"
+   ],
+   "zh_hant": [
+    "寶勒巷",
+    "交通意外",
+    "酒後駕駛"
+   ]
+  },
+  "title": {
+   "en": "Bowring Street Fatal Crash: 38-Year-Old Man Arrested for Dangerous and Drink Driving",
+   "zh_hans": "宝勒巷致命车祸 38岁男涉危驾酒驾被捕 酒精呼气超标",
+   "zh_hant": "寶勒巷致命車禍 38歲男涉危駕酒駕被捕 酒精呼氣超標"
+  },
+  "image_url": "",
+  "image_prompt": "尖沙咀街頭下午時分，警員在路邊調查交通意外，警車停泊在旁，警方拉起封鎖線，街道兩旁是商店招牌，氣氛凝重但秩序井然，畫面不要出現任何傷者或死者，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「寶勒巷致命車禍」，第二行黃色大字寫「38歲男涉危駕酒駕被捕」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。"
+ }
 ]
