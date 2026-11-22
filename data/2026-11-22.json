@@ -309,5 +309,43 @@
     },
     "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-election-committee-subsector-voting-day.jpg",
     "image_r2_key": "design/202611/20261122-election-committee-subsector-voting-day.jpg"
+  },
+  {
+    "category": "world",
+    "id": "20261122-japan-heavy-snow-fukushima-isolated",
+    "published_at": "2026-11-22T05:09:00+08:00",
+    "source": {
+      "name": "香港電台",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878738-20261122.htm"
+    },
+    "summary": {
+      "en": "Heavy snow has hit Japan's Tohoku and Hokuriku regions over the past two days, disrupting transport and public services. In Kitashiobara village, Fukushima, fallen trees blocked roads around the popular Urabandai resort area, leaving more than 940 residents in over 510 households and at least 500 hotel guests cut off, with about 700 households without power and phone lines down. Snow reached 50 cm in parts of Iwate, and Yamagata Shinkansen services were suspended for the day. Authorities warned of avalanches and landslides.",
+      "zh_hans": "日本东北及北陆地区过去两日落大雪，交通及公共服务受影响。福岛县北盐原村著名景点里磐梯一带，大雪压断树木阻塞道路，510多户、超过940名居民及最少500名住客孤立无援，村内约700户停电，电话亦难以接通。岩手县部分地区积雪达50厘米，山形新干线部分路段全日停运，当局呼吁民众提防雪崩及山泥倾泻。",
+      "zh_hant": "日本東北及北陸地區過去兩日落大雪，交通及公共服務受影響。福島縣北鹽原村著名景點裏磐梯一帶，大雪壓斷樹木阻塞道路，510多戶、超過940名居民及最少500名住客孤立無援，村內約700戶停電，電話亦難以接通。岩手縣部分地區積雪達50厘米，山形新幹線部分路段全日停運，當局呼籲民眾提防雪崩及山泥傾瀉。"
+    },
+    "tags": {
+      "en": [
+        "Japan snow",
+        "Fukushima",
+        "transport disruption"
+      ],
+      "zh_hans": [
+        "日本大雪",
+        "福岛",
+        "交通受阻"
+      ],
+      "zh_hant": [
+        "日本大雪",
+        "福島",
+        "交通受阻"
+      ]
+    },
+    "title": {
+      "en": "Heavy snow cuts off 1,400 people in Japan's Fukushima as power fails and roads close",
+      "zh_hans": "日本东北大雪封村 逾千居民旅客受困断电",
+      "zh_hant": "日本東北大雪封村 逾千居民旅客受困斷電"
+    },
+    "image_url": "",
+    "image_prompt": "事實：日本東北及北陸地區落大雪，福島縣著名景點裏磐梯一帶逾千居民及旅客受困，約700戶停電，交通癱瘓。場景：光猛日間，一個被厚雪覆蓋的日本山區村落，雪白屋頂、積雪松樹，陽光照在雪地上，光亮通透；遠處有除雪車與被雪壓彎的樹木。風格：寫實電視新聞圖卡。格式：16:9，大字標題分兩行，第一行「日本東北大雪封村」白字，第二行「逾千人受困斷電」黃字，兩行互相呼應，標題直接壓在畫面上，絕對不可以用白底框包住標題，右下角細字「AI設計圖片」貼住右下角。畫面不畫任何人物面孔。圖上除標題外不寫任何其他字。"
   }
 ]

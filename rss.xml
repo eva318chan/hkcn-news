@@ -2,13 +2,20 @@
 <rss version="2.0">
 <channel>
 <title>中港新聞速報</title><link>https://hkcnexpress.com/</link><description>中港新聞速報最新新聞</description><language>zh-hk</language>
-<lastBuildDate>Sun, 22 Nov 2026 06:45:56 +0800</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 08:45:32 +0800</lastBuildDate>
 <item>
 <title>黃色火災危險警告生效 火災風險頗高籲市民小心防火</title>
 <link>https://hkcnexpress.com/a/20261122-yellow-fire-danger-warning.html</link>
 <guid>https://hkcnexpress.com/a/20261122-yellow-fire-danger-warning.html</guid>
 <pubDate>Sun, 22 Nov 2026 06:01:00 +0800</pubDate>
 <description>天文台今日早上6時01分發出黃色火災危險警告，表示今日火災危險情況屬黃色，火災風險頗高。市民應小心防止火警發生，郊遊人士亦應提高警覺，切勿在郊野公園內生火。</description>
+</item>
+<item>
+<title>日本東北大雪封村 逾千居民旅客受困斷電</title>
+<link>https://hkcnexpress.com/a/20261122-japan-heavy-snow-fukushima-isolated.html</link>
+<guid>https://hkcnexpress.com/a/20261122-japan-heavy-snow-fukushima-isolated.html</guid>
+<pubDate>Sun, 22 Nov 2026 05:09:00 +0800</pubDate>
+<description>日本東北及北陸地區過去兩日落大雪，交通及公共服務受影響。福島縣北鹽原村著名景點裏磐梯一帶，大雪壓斷樹木阻塞道路，510多戶、超過940名居民及最少500名住客孤立無援，村內約700戶停電，電話亦難以接通。岩手縣部分地區積雪達50厘米，山形新幹線部分路段全日停運，當局呼籲民眾提防雪崩及山泥傾瀉。</description>
 </item>
 <item>
 <title>伊朗堅持濃縮核材料不運出境 斥封鎖等同戰爭將全力打破</title>
@@ -345,13 +352,6 @@
 <guid>https://hkcnexpress.com/a/20261121-building-maintenance-overhaul-300m-fines.html</guid>
 <pubDate>Sat, 21 Nov 2026 08:10:22 +0800</pubDate>
 <description>政府擬修訂《建築物條例》加強規管大型樓宇維修工程，發展局昨日向立法會提交修例建議文件。凡樓宇達4層或以上且被棚架覆蓋達一定範圍的工程，將被列為「大型樓宇維修工程」獨立新類別，日後須由認可人士統籌並事先取得屋宇署批准才可動工，只有註冊一般建築承建商或第I級小型工程承建商才可承接。建議同時分拆驗樓與監工職能以切斷利益鏈，承建商准許或授權使用欠妥物料、違反指定物料標準或嚴重偏離圖則，最高罰則由罰款100萬元大幅增至300萬元及監禁3年；未獲許可擅自開工最高可被罰款200萬元及監禁2年。立法會發展事務委員會下周二（24日）討論建議，局方計劃明年1月將草案提交立法會，爭取明年年中完成立法。</description>
-</item>
-<item>
-<title>美元指數結束8日升勢 美10年債息跌穿5厘 全部創逾一星期新低</title>
-<link>https://hkcnexpress.com/a/20261121-dollar-index-ends-rally-us-10y-below-5-pct.html</link>
-<guid>https://hkcnexpress.com/a/20261121-dollar-index-ends-rally-us-10y-below-5-pct.html</guid>
-<pubDate>Sat, 21 Nov 2026 07:35:00 +0800</pubDate>
-<description>美元指數轉跌，結束8日升勢，低見103.57，跌約0.4%。美國10年期債息跌穿5厘，低見4.9059厘，跌約15個基點；30年期債息低見5.291厘，兩年期債息低見4.606厘，全部創逾一星期新低。澳元兌美元跌約0.6%，報0.6617；新西蘭元兌美元跌至0.5468。美元兌日圓跌0.7%，報158.55；歐元兌美元報1.0966，英鎊兌美元貼近1.308。</description>
 </item>
 </channel>
 </rss>
