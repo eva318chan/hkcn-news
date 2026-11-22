@@ -1,0 +1,40 @@
+[
+ {
+  "category": "hk",
+  "id": "20261123-legco-election-successful-conduct",
+  "image_prompt": "立法會綜合大樓場景，莊重大氣，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「立法會祝賀選委會選舉順利舉行」，第二行黃色大字寫「投票率逾98% 較上屆升約9個百分點」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "",
+  "published_at": "2026-11-23T00:29:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300013.htm"
+  },
+  "summary": {
+   "en": "A Legislative Council spokesman said the 2026 Election Committee subsector ordinary elections were successfully held on November 22, with turnout above 98%, up about nine percentage points from the previous election, and congratulated all elected members. A total of 856 candidates contested 723 seats across 31 subsectors, with both the number of contested subsectors and seats higher than last time. The spokesman said the election fully demonstrated the strengths of the improved electoral system and marked another important milestone in implementing the principle of patriots administering Hong Kong. The Legislative Council will work in unity with the new Election Committee to support the Government in implementing Hong Kong's first five-year plan and aligning with the national 15th Five-Year Plan for high-quality development.",
+   "zh_hans": "立法会发言人表示，2026年选举委员会界别分组一般选举已于11月22日顺利举行，投票率逾98%，较上届上升约9个百分点，并向所有当选委员致贺。是次共有856名候选人竞逐31个界别分组共723个席位，竞逐的界别分组及席位数目均较上届增加。发言人称选举充分体现完善选举制度的优越性，是全面落实「爱国者治港」原则的又一重要里程碑；立法会将与新一届选委会团结一致，支持特区政府落实香港首个五年规划、对接国家「十五五」规划，推动高质量发展。",
+   "zh_hant": "立法會發言人表示，2026年選舉委員會界別分組一般選舉已於11月22日順利舉行，投票率逾98%，較上屆上升約9個百分點，並向所有當選委員致賀。是次共有856名候選人競逐31個界別分組共723個席位，競逐的界別分組及席位數目均較上屆增加。發言人稱選舉充分體現完善選舉制度的優越性，是全面落實「愛國者治港」原則的又一重要里程碑；立法會將與新一屆選委會團結一致，支持特區政府落實香港首個五年規劃、對接國家「十五五」規劃，推動高質量發展。"
+  },
+  "tags": {
+   "en": [
+    "Election Committee election",
+    "Legislative Council",
+    "turnout"
+   ],
+   "zh_hans": [
+    "选委会选举",
+    "立法会",
+    "投票率"
+   ],
+   "zh_hant": [
+    "選委會選舉",
+    "立法會",
+    "投票率"
+   ]
+  },
+  "title": {
+   "en": "LegCo Hails Successful Election Committee Polls as Turnout Jumps About 9 Points",
+   "zh_hans": "立法会祝贺选委会选举顺利举行 投票率逾98%较上届升约9个百分点",
+   "zh_hant": "立法會祝賀選委會選舉順利舉行 投票率逾98%較上屆升約9個百分點"
+  }
+ }
+]

@@ -1,6 +1,44 @@
 [
  {
   "category": "hk",
+  "id": "20261122-lok-election-fair-principles",
+  "image_r2_key": "design/202611/20261122-lok-election-fair-principles.jpg",
+  "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-lok-election-fair-principles.jpg",
+  "published_at": "2026-11-22T22:54:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.news.gov.hk/chi/2026/11/20261122/20261122_225414_935.html"
+  },
+  "summary": {
+   "en": "Vote counting for the Election Committee subsector ordinary elections finished at 10:15 pm, with Electoral Affairs Commission chairman Justice Lok Kai-hong saying the voting and counting went very smoothly and the arrangements embodied the principles of openness, honesty and fairness. Of the 31 contested subsectors, 723 candidates were elected; 259 candidates in the five uncontested subsectors were returned unopposed, and 156 members were nominated by 40 designated bodies. A total of 5,640 voters cast ballots, a cumulative turnout of 98.79%, and counting took about three hours and 45 minutes. The commission is satisfied with the overall arrangements and will review them as required by law and report to the Chief Executive; the official register of Election Committee members will be published on February 1 next year.",
+   "zh_hans": "选举委员会界别分组一般选举点票工作晚上10时15分完成，选管会主席陆启康表示，投票和点票过程十分畅顺，各项选举安排能体现公开、诚实和公平的原则。31个须竞逐的界别分组共723名候选人当选，无竞逐的五个界别分组259名候选人自动当选，另有156名委员由40个指定团体提名产生。是次选举共有5,640名投票人投票，累积投票率98.79%，点票工作用了约3小时45分钟完成，选管会满意整体安排，并会按法例检讨选举安排，向行政长官提交报告书；选委会正式委员登记册将于明年2月1日发表。",
+   "zh_hant": "選舉委員會界別分組一般選舉點票工作晚上10時15分完成，選管會主席陸啟康表示，投票和點票過程十分暢順，各項選舉安排能體現公開、誠實和公平的原則。31個須競逐的界別分組共723名候選人當選，無競逐的五個界別分組259名候選人自動當選，另有156名委員由40個指定團體提名產生。是次選舉共有5,640名投票人投票，累積投票率98.79%，點票工作用了約3小時45分鐘完成，選管會滿意整體安排，並會按法例檢討選舉安排，向行政長官提交報告書；選委會正式委員登記冊將於明年2月1日發表。"
+  },
+  "tags": {
+   "en": [
+    "Election Committee election",
+    "Lok Kai-hong",
+    "98.79% turnout"
+   ],
+   "zh_hans": [
+    "选委会选举",
+    "陆启康",
+    "投票率98.79%"
+   ],
+   "zh_hant": [
+    "選委會選舉",
+    "陸啟康",
+    "投票率98.79%"
+   ]
+  },
+  "title": {
+   "en": "Election Count Complete as EAC Chief Says Process Embodied Open, Honest and Fair Principles",
+   "zh_hans": "选委会选举点票完成 陆启康：过程畅顺体现公平公开原则",
+   "zh_hant": "選委會選舉點票完成 陸啟康：過程暢順體現公平公開原則"
+  }
+ },
+ {
+  "category": "hk",
   "id": "20261122-election-results-half-sectors-announced",
   "image_prompt": "選舉點票中心場景，工作人員點算選票，票箱整齊排列，氣氛莊重專業，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「選委會選舉結果陸續出爐」，第二行黃色大字寫「多名前高官勝出 湯文龍落敗」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
   "image_url": "https://hkcnexpress.com/r2/design/202611/20261122-election-results-half-sectors-announced-v2.jpg",
@@ -1552,5 +1590,119 @@
   },
   "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261122-election-committee-subsector-voting-day.jpg",
   "image_r2_key": "design/202611/20261122-election-committee-subsector-voting-day.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261122-delta-atlanta-delays-system-failure",
+  "image_prompt": "繁忙國際機場航站樓場景，航班顯示屏與排隊旅客剪影，氣氛忙碌緊張，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「達美航空系統故障」，第二行黃色大字寫「亞特蘭大逾360航班延誤」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "",
+  "published_at": "2026-11-22T23:56:00+08:00",
+  "source": {
+   "name": "Simple Flying",
+   "url": "https://simpleflying.com/delta-weight-balance-outage-atlanta-ground-stop-thanksgiving/"
+  },
+  "summary": {
+   "en": "Delta Air Lines' automated weight-and-balance system failed on Sunday morning, prompting the Federal Aviation Administration to impose a ground stop on Delta flights bound for Atlanta at the airline's request, later downgraded to a ground delay programme averaging about 57 minutes. More than 360 flights were delayed at Hartsfield-Jackson Atlanta International Airport, and by 11 am ET, 591 Delta flights nationwide were delayed. Delta said its teams were using manual workarounds to get flights departed while the automated system is restored. The disruption comes days before Thanksgiving, one of the busiest travel periods of the year at the world's busiest airport.",
+   "zh_hans": "美国达美航空的载重平衡自动计算系统周日早上故障，联邦航空局应航空公司要求，对飞往亚特兰大的达美航班实施地面停飞，其后改为地面延误计划，平均延误约57分钟。亚特兰大机场超过360班航班延误，截至上午11时，全美已有591班达美航班受影响；航空公司正用人手方式处理载重计算，争取尽快恢复自动系统。事件正值感恩节假期前夕的出行高峰，全球最繁忙的亚特兰大机场预计每日处理逾30万名旅客。",
+   "zh_hant": "美國達美航空的載重平衡自動計算系統周日早上故障，聯邦航空局應航空公司要求，對飛往亞特蘭大的達美航班實施地面停飛，其後改為地面延誤計劃，平均延誤約57分鐘。亞特蘭大機場超過360班航班延誤，截至上午11時，全美已有591班達美航班受影響；航空公司正用人手方式處理載重計算，爭取盡快恢復自動系統。事件正值感恩節假期前夕的出行高峰，全球最繁忙的亞特蘭大機場預計每日處理逾30萬名旅客。"
+  },
+  "tags": {
+   "en": [
+    "Delta Air Lines",
+    "Atlanta airport",
+    "Thanksgiving"
+   ],
+   "zh_hans": [
+    "达美航空",
+    "亚特兰大机场",
+    "感恩节"
+   ],
+   "zh_hant": [
+    "達美航空",
+    "亞特蘭大機場",
+    "感恩節"
+   ]
+  },
+  "title": {
+   "en": "Delta System Failure Delays 360+ Flights in Atlanta Days Before Thanksgiving",
+   "zh_hans": "达美航空系统故障 亚特兰大逾360航班延误 感恩节前夕大混乱",
+   "zh_hant": "達美航空系統故障 亞特蘭大逾360航班延誤 感恩節前夕大混亂"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261122-lee-congratulates-election-committee",
+  "image_prompt": "行政長官辦公室或政府總部大樓場景，莊重大氣，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「李家超祝賀選委會當選委員」，第二行黃色大字寫「讚選舉展現愛國者良性競爭」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "",
+  "published_at": "2026-11-22T23:06:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878848-20261122.htm"
+  },
+  "summary": {
+   "en": "Chief Executive John Lee said the Election Committee subsector ordinary elections were successfully held and congratulated all elected members on behalf of the SAR Government. The Election Committee comprises 1,500 members from 40 subsectors; in this election, 31 of 36 subsectors were contested, with 856 candidates vying for 723 seats, in what Lee described as healthy competition among patriots who are committed, capable and effective. The new Election Committee takes office on February 1 next year for a five-year term. Lee urged all members to fulfil their duties under the principle of patriots administering Hong Kong and help implement Hong Kong's first five-year plan, and thanked voters, the Electoral Affairs Commission and all staff involved.",
+   "zh_hans": "行政长官李家超表示，选委会界别分组一般选举已圆满举行，代表特区政府祝贺所有当选委员。选委会由40个界别分组共1,500人组成，今次36个界别分组中有31个需要竞逐，856名候选人竞逐723个席位，选举充分展现有担当、有能力、有作为的爱国者之间良性竞争。新一届选委会将于明年2月1日上任，任期五年；李家超期望各委员秉持「爱国者治港」原则履职尽责，助力落实《香港第一个五年规划》，并感谢投票人、选管会及所有参与人员的努力。",
+   "zh_hant": "行政長官李家超表示，選委會界別分組一般選舉已圓滿舉行，代表特區政府祝賀所有當選委員。選委會由40個界別分組共1,500人組成，今次36個界別分組中有31個需要競逐，856名候選人競逐723個席位，選舉充分展現有擔當、有能力、有作為的愛國者之間良性競爭。新一屆選委會將於明年2月1日上任，任期五年；李家超期望各委員秉持「愛國者治港」原則履職盡責，助力落實《香港第一個五年規劃》，並感謝投票人、選管會及所有參與人員的努力。"
+  },
+  "tags": {
+   "en": [
+    "Election Committee election",
+    "John Lee",
+    "patriots administering Hong Kong"
+   ],
+   "zh_hans": [
+    "选委会选举",
+    "李家超",
+    "爱国者治港"
+   ],
+   "zh_hant": [
+    "選委會選舉",
+    "李家超",
+    "愛國者治港"
+   ]
+  },
+  "title": {
+   "en": "Lee Congratulates New Election Committee Members, Hails Healthy Competition Among Patriots",
+   "zh_hans": "李家超祝贺选委会当选委员 赞选举展现爱国者良性竞争",
+   "zh_hant": "李家超祝賀選委會當選委員 讚選舉展現愛國者良性競爭"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261122-tong-wenlong-election-defeat-reaction",
+  "image_prompt": "法律界或律師樓辦公室場景，法律書籍與文件，氣氛莊重專業，人物用背影或剪影，不要畫出可辨認的具體人臉。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「湯文龍落選：睇唔到咩大不了」，第二行黃色大字寫「料或與資深大律師建議有關」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "",
+  "published_at": "2026-11-22T23:01:57+08:00",
+  "source": {
+   "name": "香港01",
+   "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413768/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89-%E5%BE%8B%E5%B8%AB%E6%9C%83%E6%9C%83%E9%95%B7%E6%B9%AF%E6%96%87%E9%BE%8D%E8%90%BD%E9%81%B8-%E7%9D%87%E5%94%94%E5%88%B0%E5%92%A9%E5%A4%A7%E4%B8%8D%E4%BA%86-%E6%96%99%E4%B8%80%E4%BA%8B%E6%9C%89%E9%97%9C"
+  },
+  "summary": {
+   "en": "Law Society president Roden Tong was the only candidate to lose in the legal sector, as 16 candidates contested 15 seats; he received 19 votes, while the Law Society's three council members were all elected with high votes. Tong said winning and losing are normal and there is nothing to make a fuss about, and suggested his defeat may be linked to pushing various reforms and possibly to the Law Society's earlier proposal that solicitor advocates be eligible to become Senior Counsel, saying many people think that is the reason. Newly elected Senior Counsel Ronny Tong said he was surprised by the result, describing the defeat as more political than a question of legal standing; LegCo member Priscilla Leung praised Roden Tong's work and his contributions to the legal profession.",
+   "zh_hans": "律师会会长汤文龙在法律界选举中落选，16名候选人竞逐15席，只有他一人落败，得票19票；律师会3名理事均高票当选。他接受查询时表示胜选、落选乃平常事，「看不到有什么大不了」，估计落选可能与推动不同改革、过程中得失某些人有关；被问到是否与律师会早前建议卓越律师可升为资深大律师有关，他说「好多人觉得是这件事」，「我自己觉得，是也不出奇」。当选的资深大律师汤家骅对结果感到诧异，形容落选关乎政治较多；选委界议员梁美芬则肯定汤文龙过去的工作，赞扬他对法律界建树良多。",
+   "zh_hant": "律師會會長湯文龍在法律界選舉中落選，16名候選人競逐15席，只有他一人落敗，得票19票；律師會3名理事均高票當選。他接受查詢時表示勝選、落選乃平常事，「睇唔到有咩大不了」，估計落選可能與推動不同改革、過程中得失某些人有關；被問到是否與律師會早前建議卓越律師可升為資深大律師有關，他說「好多人覺得係呢樣嘢」，「我自己覺得，係都唔出奇」。當選的資深大律師湯家驊對結果感到詫異，形容落選關乎政治較多；選委界議員梁美芬則肯定湯文龍過去的工作，讚揚他對法律界建樹良多。"
+  },
+  "tags": {
+   "en": [
+    "Election Committee election",
+    "Roden Tong",
+    "Ronny Tong"
+   ],
+   "zh_hans": [
+    "选委会选举",
+    "汤文龙",
+    "汤家骅"
+   ],
+   "zh_hant": [
+    "選委會選舉",
+    "湯文龍",
+    "湯家驊"
+   ]
+  },
+  "title": {
+   "en": "Law Society Chief Shrugs Off Election Defeat, Links It to Senior Counsel Proposal",
+   "zh_hans": "汤文龙落选：看不到有什么大不了 料或与资深大律师建议有关",
+   "zh_hant": "湯文龍落選：睇唔到咩大不了 料或與資深大律師建議有關"
+  }
  }
 ]
