@@ -41,6 +41,46 @@
  },
  {
   "category": "hk",
+  "id": "20261123-candida-auris-wong-tai-sin-hospital",
+  "image_caption": "",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：黃大仙醫院6名男病人帶有耳念珠菌，全部無感染病徵，隔離治療情況穩定。場景：光亮潔淨的現代醫院病房，醫護人員穿戴防護裝備進行環境消毒，淺綠與白色調，窗外日光灑入，氣氛冷靜安心。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「黃大仙醫院爆耳念珠菌」，第二行黃字寫「6男病人中招須隔離情況穩定」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_r2_key": "design/202611/20261123-candida-auris-wong-tai-sin-hospital-refill.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-candida-auris-wong-tai-sin-hospital-refill.jpg",
+  "published_at": "2026-11-23T19:40:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300649.htm"
+  },
+  "summary": {
+   "en": "Six male patients at TWGHs Wong Tai Sin Hospital have been found to be carrying Candida auris. A 62-year-old man in an infirmary ward was confirmed as a carrier during admission screening on November 18, and contact tracing found five more men aged 59 to 86 in the same ward also carrying the fungus. All six have no signs of infection, are being treated in isolation and are in stable condition. The ward has stepped up infection control measures, including enhanced patient and environmental screening, stringent contact precautions and hand hygiene, and thorough cleaning and disinfection. The cases have been reported to the Hospital Authority Head Office and the Centre for Health Protection for follow-up.",
+   "zh_hans": "东华三院黄大仙医院6名男病人证实带有耳念珠菌。一名62岁男病人本月18日入院筛查时证实带菌，院方追踪调查后，再发现同一病房5名59至86岁男病人亦带菌，6人均无感染病征，正接受隔离治疗，情况稳定。病房已加强感染控制措施，包括加强病人及环境筛查、严格接触防范及手部卫生，以及彻底清洁消毒。个案已呈报医管局总办事处及卫生署卫生防护中心跟进。",
+   "zh_hant": "東華三院黃大仙醫院6名男病人證實帶有耳念珠菌。一名62歲男病人本月18日入院篩查時證實帶菌，院方追蹤調查後，再發現同一病房5名59至86歲男病人亦帶菌，6人均無感染病徵，正接受隔離治療，情況穩定。病房已加強感染控制措施，包括加強病人及環境篩查、嚴格接觸防範及手部衞生，以及徹底清潔消毒。個案已呈報醫管局總辦事處及衞生署衞生防護中心跟進。"
+  },
+  "tags": {
+   "en": [
+    "Candida auris",
+    "Wong Tai Sin Hospital",
+    "infection control"
+   ],
+   "zh_hans": [
+    "耳念珠菌",
+    "黄大仙医院",
+    "感染控制"
+   ],
+   "zh_hant": [
+    "耳念珠菌",
+    "黃大仙醫院",
+    "感染控制"
+   ]
+  },
+  "title": {
+   "en": "Six male patients found carrying Candida auris at Wong Tai Sin Hospital, isolated in stable condition",
+   "zh_hans": "黄大仙医院爆耳念珠菌 6男病人中招须隔离",
+   "zh_hant": "黃大仙醫院爆耳念珠菌 6男病人中招須隔離"
+  }
+ },
+ {
+  "category": "hk",
   "id": "20261123-health-secretary-visits-united-christian-hospital",
   "image_caption": "醫務衞生局局長盧寵茂參觀基督教聯合醫院新大樓的日間化療中心。（政府新聞處）",
   "image_prompt": "",
@@ -356,19 +396,59 @@
   "image_r2_key": "design/202611/20261123-hkicl-fraudulent-website-fpshk-help-v2.jpg"
  },
  {
+  "category": "finance",
+  "id": "20261123-bea-fraudulent-website-hkma-alert",
+  "image_caption": "",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：金管局警告東亞銀行假網站，騙徒偽冒網銀登入版。場景：明亮的現代銀行分行大堂與手機網上銀行畫面，保安警示元素，藍白專業色調，畫面有盾牌象徵網絡安全，氣氛警示但不驚嚇。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「金管局警告東亞銀行假網站」，第二行黃字寫「騙徒偽冒網銀登入版提防受騙」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_r2_key": "design/202611/20261123-bea-fraudulent-website-hkma-alert-refill.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-bea-fraudulent-website-hkma-alert-refill.jpg",
+  "published_at": "2026-11-23T17:45:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300543.htm"
+  },
+  "summary": {
+   "en": "The Hong Kong Monetary Authority today alerted the public that the Bank of East Asia has reported a fraudulent website and a spoofed internet banking login screen. The HKMA reminded the public that banks will not send SMS messages or emails with embedded hyperlinks directing customers to log in to carry out transactions, and will not ask customers for sensitive information such as login passwords or one-time passwords by phone, email or SMS. Anyone who has provided personal information to the scammers or conducted transactions through them should contact the bank concerned and report the matter to the police on 2860 5012.",
+   "zh_hans": "金管局今日提醒市民，东亚银行出现伪冒网站及网上银行登入版面，呼吁公众提高警觉。金管局重申，银行不会透过附有连结的短讯或电邮要求客户登入网站办理交易，亦不会以电话、电邮或短讯索取登入密码或一次性密码等敏感资料。市民如曾向骗徒提供个人资料或进行交易，应联络有关银行，并致电2860 5012向警方举报。",
+   "zh_hant": "金管局今日提醒市民，東亞銀行出現偽冒網站及網上銀行登入版面，呼籲公眾提高警覺。金管局重申，銀行不會透過附有連結的短訊或電郵要求客戶登入網站辦理交易，亦不會以電話、電郵或短訊索取登入密碼或一次性密碼等敏感資料。市民如曾向騙徒提供個人資料或進行交易，應聯絡有關銀行，並致電2860 5012向警方舉報。"
+  },
+  "tags": {
+   "en": [
+    "HKMA",
+    "Bank of East Asia",
+    "fraudulent website"
+   ],
+   "zh_hans": [
+    "金管局",
+    "东亚银行",
+    "伪冒网站"
+   ],
+   "zh_hant": [
+    "金管局",
+    "東亞銀行",
+    "偽冒網站"
+   ]
+  },
+  "title": {
+   "en": "HKMA warns of fake Bank of East Asia website spoofing internet banking login",
+   "zh_hans": "金管局警告东亚银行假网站 骗徒伪冒网银登入版",
+   "zh_hant": "金管局警告東亞銀行假網站 騙徒偽冒網銀登入版"
+  }
+ },
+ {
   "category": "hk",
   "id": "20261123-bid-rigging-second-round-33-arrested",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：打擊圍標特遣隊第二輪行動再瓦解一個圍標集團，涉15個屋苑及大廈工程合約逾1.3億，拘捕33人。場景：陽光下的香港住宅大廈外牆，維修棚架和吊船清晰可見，藍天白雲，氣氛嚴肅專業。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「圍標特遣隊第二輪行動再瓦解集團」，第二行黃字寫「涉15屋苑工程合約逾1.3億 拘33人」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-bid-rigging-second-round-33-arrested-v2.jpg",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：打擊圍標特遣隊第二輪行動再瓦解一個圍標集團，涉15個屋苑及大廈工程合約逾1.3億，共拘捕97人。場景：陽光下的香港住宅大廈外牆，維修棚架和吊船清晰可見，藍天白雲，氣氛嚴肅專業。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「圍標特遣隊第二輪行動再瓦解集團」，第二行黃字寫「涉15屋苑工程合約逾1.3億 共拘97人」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-bid-rigging-second-round-33-arrested-v3.jpg",
   "published_at": "2026-11-23T17:41:00+08:00",
   "source": {
    "name": "香港電台",
    "url": "https://news.rthk.hk/rthk/ch/component/k2/1878964-20261123.htm"
   },
   "summary": {
-   "en": "The government's joint task force against bid-rigging in building maintenance works has carried out a second round of operations, smashing another syndicate involving 15 housing estates and residential buildings across Hong Kong, with works contracts totalling more than HK$130 million, and blocking two maintenance contracts worth about HK$7.6 million. Thirty-three people were arrested, including contractors, directors of works companies and owners' corporation members, some with triad backgrounds, on suspicion of forgery and conspiracy to defraud. Secretary for Security Chris Tang said the syndicate bought flats to infiltrate owners' corporations, bribed or intimidated professionals into becoming rubber stamps, and falsely claimed buildings had received mandatory inspection notices to rush owners into approving works and funding. Police also smashed five illegal gambling dens, three illegal petrol stations and ten illicit cigarette warehouses run by the same triad group, arresting a further 64 people.",
-   "zh_hans": "政府打击楼宇维修工程围标联合特遣队近日展开第二轮行动，再瓦解一个围标集团，涉及全港15个屋苑或住宅大厦，工程合约总额逾1亿3000万元，并成功阻止该集团两份价值约760万元的楼宇维修合约。当局拘捕33人，包括承建商、工程公司董事及业主立案法团成员等，部分人有黑社会背景，涉嫌伪造文书及串谋诈骗。保安局局长邓炳强表示，集团预先买入单位渗透法团、收买或恐吓专业人士沦为“橡皮图章”，又讹称大厦收到强制验楼通知，营造工程急需开展的假象，操控招标结果。行动中警方亦捣破该黑社会集团操控的5个非法赌档、3个非法加油站及10个私烟仓，共拘捕64名相关人士。",
-   "zh_hant": "政府打擊樓宇維修工程圍標聯合特遣隊近日展開第二輪行動，再瓦解一個圍標集團，涉及全港15個屋苑或住宅大廈，工程合約總額逾1億3,000萬元，並成功阻止該集團兩份價值約760萬元的樓宇維修合約。當局拘捕33人，包括承建商、工程公司董事及業主立案法團成員等，部分人有黑社會背景，涉嫌偽造文書及串謀詐騙。保安局局長鄧炳強表示，集團預先買入單位滲透法團、收買或恐嚇專業人士淪為「橡皮圖章」，又訛稱大廈收到強制驗樓通知，營造工程急需開展的假象，操控招標結果。行動中警方亦搗破該黑社會集團操控的5個非法賭檔、3個非法加油站及10個私煙倉，共拘捕64名相關人士。"
+   "en": "The government's joint task force against bid-rigging in building maintenance works has carried out a second round of operations, smashing another syndicate involving 15 housing estates and residential buildings across Hong Kong, with works contracts totalling more than HK$130 million, and blocking two maintenance contracts worth about HK$7.6 million. Ninety-seven people were arrested in total: 33 over the bid-rigging itself, including contractors, directors of works companies and owners' corporation members, some with triad backgrounds, on suspicion of forgery and conspiracy to defraud, and 64 more in raids on five illegal gambling dens, three illegal petrol stations and ten illicit cigarette warehouses run by the same triad group. Secretary for Security Chris Tang said the syndicate bought flats to infiltrate owners' corporations, bribed or intimidated professionals into becoming rubber stamps, and falsely claimed buildings had received mandatory inspection notices to rush owners into approving works and funding.",
+   "zh_hans": "政府打击楼宇维修工程围标联合特遣队近日展开第二轮行动，再瓦解一个围标集团，涉及全港15个屋苑或住宅大厦，工程合约总额逾1亿3000万元，并成功阻止该集团两份价值约760万元的楼宇维修合约。行动共拘捕97人：33人涉嫌围标，包括承建商、工程公司董事及业主立案法团成员等，部分人有黑社会背景，涉嫌伪造文书及串谋诈骗；另外64人则在捣破该黑社会集团操控的5个非法赌档、3个非法加油站及10个私烟仓行动中被捕。保安局局长邓炳强表示，集团预先买入单位渗透法团、收买或恐吓专业人士沦为“橡皮图章”，又讹称大厦收到强制验楼通知，营造工程急需开展的假象，操控招标结果。",
+   "zh_hant": "政府打擊樓宇維修工程圍標聯合特遣隊近日展開第二輪行動，再瓦解一個圍標集團，涉及全港15個屋苑或住宅大廈，工程合約總額逾1億3,000萬元，並成功阻止該集團兩份價值約760萬元的樓宇維修合約。行動共拘捕97人：33人涉嫌圍標，包括承建商、工程公司董事及業主立案法團成員等，部分人有黑社會背景，涉嫌偽造文書及串謀詐騙；另外64人則在搗破該黑社會集團操控的5個非法賭檔、3個非法加油站及10個私煙倉行動中被捕。保安局局長鄧炳強表示，集團預先買入單位滲透法團、收買或恐嚇專業人士淪為「橡皮圖章」，又訛稱大廈收到強制驗樓通知，營造工程急需開展的假象，操控招標結果。"
   },
   "tags": {
    "en": [
@@ -388,11 +468,11 @@
    ]
   },
   "title": {
-   "en": "Anti-bid-rigging task force smashes second syndicate covering 15 estates and HK$130m in contracts as 33 arrested",
-   "zh_hans": "围标特遣队第二轮行动再瓦解集团 涉15屋苑工程合约逾1.3亿拘33人",
-   "zh_hant": "圍標特遣隊第二輪行動再瓦解集團 涉15屋苑工程合約逾1.3億 拘33人"
+   "en": "Anti-bid-rigging task force smashes second syndicate covering 15 estates and HK$130m in contracts as 97 arrested in total",
+   "zh_hans": "围标特遣队第二轮行动再瓦解集团 涉15屋苑工程合约逾1.3亿 共拘97人",
+   "zh_hant": "圍標特遣隊第二輪行動再瓦解集團 涉15屋苑工程合約逾1.3億 共拘97人"
   },
-  "image_r2_key": "design/202611/20261123-bid-rigging-second-round-33-arrested-v2.jpg"
+  "image_r2_key": "design/202611/20261123-bid-rigging-second-round-33-arrested-v3.jpg"
  },
  {
   "category": "hk",
@@ -472,6 +552,46 @@
    "zh_hant": "退伍軍人病一周新增4宗 今年累計182宗超去年全年"
   },
   "image_r2_key": "design/202611/20261123-legionnaires-disease-four-new-cases-refill.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-mark-six-snowball-boost",
+  "image_caption": "",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：六合彩首試集氣加碼制，明晚金多寶頭獎料7300萬。場景：光猛熱鬧的投注站外，市民排隊購買六合彩，巨型獎金數字牌，喜慶金色紅色點綴，陽光燦爛，氣氛熱鬧。風格：輕鬆熱鬧，色彩鮮明光亮。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「六合彩首試集氣加碼制」，第二行黃字寫「明晚金多寶頭獎料7300萬」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_r2_key": "design/202611/20261123-mark-six-snowball-boost-refill.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-mark-six-snowball-boost-refill.jpg",
+  "published_at": "2026-11-23T17:02:00+08:00",
+  "source": {
+   "name": "無綫新聞",
+   "url": "https://news.tvb.com/tc/1207948-%E5%85%AD%E5%90%88%E5%BD%A9%E6%98%8E%E6%99%9A%E9%87%91%E5%A4%9A%E5%AF%B6%E9%A0%AD%E7%8D%8E%E6%96%99%E5%8A%A0%E7%A2%BC%E8%87%B37300%E8%90%AC%E6%9C%89%E5%B8%82%E6%B0%91%E6%8C%87%E6%96%B0%E5%88%B6%E8%A8%AD%E5%B0%81%E9%A0%82%E6%A9%9F%E5%88%B6%E4%BB%8D%E5%90%B8%E5%BC%95"
+  },
+  "summary": {
+   "en": "The Mark Six Lucky 2 snowball draw tomorrow night (November 24) will trial for the first time a \"crowd-boost\" mechanism under which the higher the total turnover, the bigger the snowball. As of 2pm today, cumulative turnover had exceeded $65 million, reaching the first tier, so the snowball has been raised from $50 million to $55 million and the jackpot for a $10 single-ticket sole winner is estimated at $73 million. If turnover reaches $70 million or above, the snowball would rise to $60 million and the jackpot could reach $80 million. The Jockey Club said it will decide whether to make the new mechanism permanent depending on public response.",
+   "zh_hans": "明晚（24日）搅珠的六合彩幸运二金多宝，马会首次试行“集气加码制”，投注额愈高、金多宝金额相应递增。截至今日下午2时累积投注额逾6,500万元，达到第一级门槛，金多宝由5,000万元加码至5,500万元，估计头奖一注独中可获7,300万元。若投注额达7,000万元或以上，金多宝将增至6,000万元，头奖最高可达8,000万元。马会表示，会否将新玩法恒常化，将视乎市民反应再决定。",
+   "zh_hant": "明晚（24日）攪珠的六合彩幸運二金多寶，馬會首次試行「集氣加碼制」，投注額愈高、金多寶金額相應遞增。截至今日下午2時累積投注額逾6,500萬元，達到第一級門檻，金多寶由5,000萬元加碼至5,500萬元，估計頭獎一注獨中可獲7,300萬元。若投注額達7,000萬元或以上，金多寶將增至6,000萬元，頭獎最高可達8,000萬元。馬會表示，會否將新玩法恆常化，將視乎市民反應再決定。"
+  },
+  "tags": {
+   "en": [
+    "Mark Six",
+    "snowball draw",
+    "crowd-boost mechanism"
+   ],
+   "zh_hans": [
+    "六合彩",
+    "金多宝",
+    "集气加码制"
+   ],
+   "zh_hant": [
+    "六合彩",
+    "金多寶",
+    "集氣加碼制"
+   ]
+  },
+  "title": {
+   "en": "Mark Six trials 'crowd-boost' snowball as Tuesday jackpot estimated at $73m",
+   "zh_hans": "六合彩首试集气加码制 明晚金多宝头奖料7300万",
+   "zh_hant": "六合彩首試集氣加碼制 明晚金多寶頭獎料7300萬"
+  }
  },
  {
   "category": "hk",
@@ -2778,123 +2898,155 @@
   "image_r2_key": "design/202611/20261123-tai-po-dog-hanging-man-arrested-v2.jpg"
  },
  {
-  "category": "hk",
-  "id": "20261123-candida-auris-wong-tai-sin-hospital",
-  "image_caption": "",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：黃大仙醫院6名男病人帶有耳念珠菌，全部無感染病徵，隔離治療情況穩定。場景：光亮潔淨的現代醫院病房，醫護人員穿戴防護裝備進行環境消毒，淺綠與白色調，窗外日光灑入，氣氛冷靜安心。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「黃大仙醫院爆耳念珠菌」，第二行黃字寫「6男病人中招須隔離情況穩定」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_r2_key": "",
-  "image_url": "",
-  "published_at": "2026-11-23T19:40:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300649.htm"
-  },
-  "summary": {
-   "en": "Six male patients at TWGHs Wong Tai Sin Hospital have been found to be carrying Candida auris. A 62-year-old man in an infirmary ward was confirmed as a carrier during admission screening on November 18, and contact tracing found five more men aged 59 to 86 in the same ward also carrying the fungus. All six have no signs of infection, are being treated in isolation and are in stable condition. The ward has stepped up infection control measures, including enhanced patient and environmental screening, stringent contact precautions and hand hygiene, and thorough cleaning and disinfection. The cases have been reported to the Hospital Authority Head Office and the Centre for Health Protection for follow-up.",
-   "zh_hans": "东华三院黄大仙医院6名男病人证实带有耳念珠菌。一名62岁男病人本月18日入院筛查时证实带菌，院方追踪调查后，再发现同一病房5名59至86岁男病人亦带菌，6人均无感染病征，正接受隔离治疗，情况稳定。病房已加强感染控制措施，包括加强病人及环境筛查、严格接触防范及手部卫生，以及彻底清洁消毒。个案已呈报医管局总办事处及卫生署卫生防护中心跟进。",
-   "zh_hant": "東華三院黃大仙醫院6名男病人證實帶有耳念珠菌。一名62歲男病人本月18日入院篩查時證實帶菌，院方追蹤調查後，再發現同一病房5名59至86歲男病人亦帶菌，6人均無感染病徵，正接受隔離治療，情況穩定。病房已加強感染控制措施，包括加強病人及環境篩查、嚴格接觸防範及手部衞生，以及徹底清潔消毒。個案已呈報醫管局總辦事處及衞生署衞生防護中心跟進。"
-  },
-  "tags": {
-   "en": [
-    "Candida auris",
-    "Wong Tai Sin Hospital",
-    "infection control"
-   ],
-   "zh_hans": [
-    "耳念珠菌",
-    "黄大仙医院",
-    "感染控制"
-   ],
-   "zh_hant": [
-    "耳念珠菌",
-    "黃大仙醫院",
-    "感染控制"
-   ]
-  },
-  "title": {
-   "en": "Six male patients found carrying Candida auris at Wong Tai Sin Hospital, isolated in stable condition",
-   "zh_hans": "黄大仙医院爆耳念珠菌 6男病人中招须隔离",
-   "zh_hant": "黃大仙醫院爆耳念珠菌 6男病人中招須隔離"
-  }
- },
- {
   "category": "finance",
-  "id": "20261123-bea-fraudulent-website-hkma-alert",
-  "image_caption": "",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：金管局警告東亞銀行假網站，騙徒偽冒網銀登入版。場景：明亮的現代銀行分行大堂與手機網上銀行畫面，保安警示元素，藍白專業色調，畫面有盾牌象徵網絡安全，氣氛警示但不驚嚇。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「金管局警告東亞銀行假網站」，第二行黃字寫「騙徒偽冒網銀登入版提防受騙」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_r2_key": "",
+  "id": "20261123-legco-shipping-tax-bill-second-reading",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：立法會星期三復會，恢復航運及大宗商品交易稅務寬免草案二讀辯論。場景：陽光下的立法會綜合大樓外觀，玻璃幕牆與金色外框清晰可見，藍天白雲，氣氛莊重明亮。風格：寫實莊重，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「立法會周三復會二讀航運稅務寬免草案」，第二行黃字寫「涉船務及商品交易優惠」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
   "image_url": "",
-  "published_at": "2026-11-23T17:45:00+08:00",
+  "published_at": "2026-11-23T16:10:00+08:00",
   "source": {
    "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300543.htm"
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300484.htm"
   },
   "summary": {
-   "en": "The Hong Kong Monetary Authority today alerted the public that the Bank of East Asia has reported a fraudulent website and a spoofed internet banking login screen. The HKMA reminded the public that banks will not send SMS messages or emails with embedded hyperlinks directing customers to log in to carry out transactions, and will not ask customers for sensitive information such as login passwords or one-time passwords by phone, email or SMS. Anyone who has provided personal information to the scammers or conducted transactions through them should contact the bank concerned and report the matter to the police on 2860 5012.",
-   "zh_hans": "金管局今日提醒市民，东亚银行出现伪冒网站及网上银行登入版面，呼吁公众提高警觉。金管局重申，银行不会透过附有连结的短讯或电邮要求客户登入网站办理交易，亦不会以电话、电邮或短讯索取登入密码或一次性密码等敏感资料。市民如曾向骗徒提供个人资料或进行交易，应联络有关银行，并致电2860 5012向警方举报。",
-   "zh_hant": "金管局今日提醒市民，東亞銀行出現偽冒網站及網上銀行登入版面，呼籲公眾提高警覺。金管局重申，銀行不會透過附有連結的短訊或電郵要求客戶登入網站辦理交易，亦不會以電話、電郵或短訊索取登入密碼或一次性密碼等敏感資料。市民如曾向騙徒提供個人資料或進行交易，應聯絡有關銀行，並致電2860 5012向警方舉報。"
+   "en": "The Legislative Council will meet at 11am on Wednesday (November 25) to resume the second reading debate on the Inland Revenue (Amendment) (Tax Concessions for Shipping-related Activities and Physical Commodity Trading) Bill 2026. If supported by Members and passed at second reading, the bill will go to the committee of the whole Council before a third reading. Second readings will also resume on the Supplementary Appropriation (2025-2026) Bill and the Environment and Conservation Fund (Amendment) Bill 2026, while four other bills — on MPF schemes, sexual offences legislation, a medical products regulation centre and education — will be introduced for first reading. Members will also debate motions on medical insurance and Hong Kong's role in the country's aerospace development, and put 22 questions to the Government.",
+   "zh_hans": "立法会将于星期三（11月25日）上午11时举行会议，恢复《2026年税务（修订）（航运相关活动及实物商品交易的税务宽免）条例草案》的二读辩论。如获议员支持通过二读，草案将交付全体委员会审议，其后进行三读。同日亦会恢复《2025-2026年追加拨款条例草案》及《环境及自然保育基金（修订）条例草案》的二读辩论；强积金、性罪行法例修订、医药产品规管中心及教育修订等四项草案则会首读。议员亦会就医疗保险成效及香港参与国家航天发展等议题提出动议，并向政府提出22项质询。",
+   "zh_hant": "立法會將於星期三（11月25日）上午11時舉行會議，恢復《2026年稅務（修訂）（航運相關活動及實物商品交易的稅務寬免）條例草案》的二讀辯論。如獲議員支持通過二讀，草案將交付全體委員會審議，其後進行三讀。同日亦會恢復《2025-2026年追加撥款條例草案》及《環境及自然保育基金（修訂）條例草案》的二讀辯論；強積金、性罪行法例修訂、醫藥產品規管中心及教育修訂等四項草案則會首讀。議員亦會就醫療保險成效及香港參與國家航天發展等議題提出動議，並向政府提出22項質詢。"
   },
   "tags": {
    "en": [
-    "HKMA",
-    "Bank of East Asia",
-    "fraudulent website"
+    "Legislative Council",
+    "Shipping",
+    "Tax Concessions"
    ],
    "zh_hans": [
-    "金管局",
-    "东亚银行",
-    "伪冒网站"
+    "立法会",
+    "航运",
+    "税务宽免"
    ],
    "zh_hant": [
-    "金管局",
-    "東亞銀行",
-    "偽冒網站"
+    "立法會",
+    "航運",
+    "稅務寬免"
    ]
   },
   "title": {
-   "en": "HKMA warns of fake Bank of East Asia website spoofing internet banking login",
-   "zh_hans": "金管局警告东亚银行假网站 骗徒伪冒网银登入版",
-   "zh_hant": "金管局警告東亞銀行假網站 騙徒偽冒網銀登入版"
+   "en": "LegCo to resume second reading of shipping tax concessions bill on Wednesday",
+   "zh_hans": "立法会周三复会二读航运税务宽免草案 涉船务及商品交易优惠",
+   "zh_hant": "立法會周三復會二讀航運稅務寬免草案 涉船務及商品交易優惠"
   }
  },
  {
-  "category": "hk",
-  "id": "20261123-mark-six-snowball-boost",
-  "image_caption": "",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：六合彩首試集氣加碼制，明晚金多寶頭獎料7300萬。場景：光猛熱鬧的投注站外，市民排隊購買六合彩，巨型獎金數字牌，喜慶金色紅色點綴，陽光燦爛，氣氛熱鬧。風格：輕鬆熱鬧，色彩鮮明光亮。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「六合彩首試集氣加碼制」，第二行黃字寫「明晚金多寶頭獎料7300萬」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_r2_key": "",
+  "category": "tech",
+  "id": "20261123-zhipu-glm-5-4-release",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：智譜發佈GLM-5.4，首次加入視覺能力，支援百萬上下文，編程配額增五成。場景：陽光明亮的現代辦公室，開發者對着大屏幕工作，屏幕顯示抽象幾何圖形與色彩區塊，窗外藍天白雲，氣氛專業明亮。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「智譜發佈GLM-5.4新增視覺能力」，第二行黃字寫「支援百萬上下文 編程配額增五成」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
   "image_url": "",
-  "published_at": "2026-11-23T17:02:00+08:00",
+  "published_at": "2026-11-23T14:51:00+08:00",
   "source": {
-   "name": "無綫新聞",
-   "url": "https://news.tvb.com/tc/1207948-%E5%85%AD%E5%90%88%E5%BD%A9%E6%98%8E%E6%99%9A%E9%87%91%E5%A4%9A%E5%AF%B6%E9%A0%AD%E7%8D%8E%E6%96%99%E5%8A%A0%E7%A2%BC%E8%87%B37300%E8%90%AC%E6%9C%89%E5%B8%82%E6%B0%91%E6%8C%87%E6%96%B0%E5%88%B6%E8%A8%AD%E5%B0%81%E9%A0%82%E6%A9%9F%E5%88%B6%E4%BB%8D%E5%90%B8%E5%BC%95"
+   "name": "TechNode",
+   "url": "https://technode.com/2026/11/23/zhipu-rolls-out-glm-5-4-with-vision-and-million-token-context/"
   },
   "summary": {
-   "en": "The Mark Six Lucky 2 snowball draw tomorrow night (November 24) will trial for the first time a \"crowd-boost\" mechanism under which the higher the total turnover, the bigger the snowball. As of 2pm today, cumulative turnover had exceeded $65 million, reaching the first tier, so the snowball has been raised from $50 million to $55 million and the jackpot for a $10 single-ticket sole winner is estimated at $73 million. If turnover reaches $70 million or above, the snowball would rise to $60 million and the jackpot could reach $80 million. The Jockey Club said it will decide whether to make the new mechanism permanent depending on public response.",
-   "zh_hans": "明晚（24日）搅珠的六合彩幸运二金多宝，马会首次试行“集气加码制”，投注额愈高、金多宝金额相应递增。截至今日下午2时累积投注额逾6,500万元，达到第一级门槛，金多宝由5,000万元加码至5,500万元，估计头奖一注独中可获7,300万元。若投注额达7,000万元或以上，金多宝将增至6,000万元，头奖最高可达8,000万元。马会表示，会否将新玩法恒常化，将视乎市民反应再决定。",
-   "zh_hant": "明晚（24日）攪珠的六合彩幸運二金多寶，馬會首次試行「集氣加碼制」，投注額愈高、金多寶金額相應遞增。截至今日下午2時累積投注額逾6,500萬元，達到第一級門檻，金多寶由5,000萬元加碼至5,500萬元，估計頭獎一注獨中可獲7,300萬元。若投注額達7,000萬元或以上，金多寶將增至6,000萬元，頭獎最高可達8,000萬元。馬會表示，會否將新玩法恆常化，將視乎市民反應再決定。"
+   "en": "Zhipu (Z.ai) has rolled out GLM-5.4, its next-generation coding model, to all GLM Coding Plan subscribers, adding vision capabilities to the flagship for the first time so developers can debug from screenshots and build front-end interfaces with visual context. The model supports a one-million-token context window and is built on a Loop Transformer architecture that runs 28 layers of its roughly 750-billion-parameter base twice; Zhipu says its overall capability is comparable to models in the 2–3 trillion parameter class. Weekly usage quotas rise 50% over GLM-5.3, while standard API access and open weights are pending safety evaluation, with benchmark scores and pricing yet to be announced.",
+   "zh_hans": "智谱（Z.ai）今日向所有GLM Coding Plan订户全面推出新一代编程模型GLM-5.4，首次在旗舰模型加入视觉能力，可直接处理图片输入，方便开发者对照截图除错及开发前端界面。模型支持100万token上下文，采用Loop Transformer架构，约7500亿参数底层的28层重复运行两次，智谱称整体能力可媲美2至3万亿参数级模型。订户的每周使用配额较GLM-5.3增加五成；标准API及开源权重则有待安全评估后推出，暂未公布基准成绩及定价。",
+   "zh_hant": "智譜（Z.ai）今日向所有GLM Coding Plan訂戶全面推出新一代編程模型GLM-5.4，首次在旗艦模型加入視覺能力，可直接處理圖片輸入，方便開發者對照截圖除錯及開發前端介面。模型支援100萬token上下文，採用Loop Transformer架構，約7,500億參數底層的28層重複運行兩次，智譜稱整體能力可媲美2至3萬億參數級模型。訂戶的每周使用配額較GLM-5.3增加五成；標準API及開源權重則有待安全評估後推出，暫未公布基準成績及定價。"
   },
   "tags": {
    "en": [
-    "Mark Six",
-    "snowball draw",
-    "crowd-boost mechanism"
+    "Zhipu",
+    "GLM-5.4",
+    "Artificial Intelligence"
    ],
    "zh_hans": [
-    "六合彩",
-    "金多宝",
-    "集气加码制"
+    "智谱",
+    "GLM-5.4",
+    "人工智能"
    ],
    "zh_hant": [
-    "六合彩",
-    "金多寶",
-    "集氣加碼制"
+    "智譜",
+    "GLM-5.4",
+    "人工智能"
    ]
   },
   "title": {
-   "en": "Mark Six trials 'crowd-boost' snowball as Tuesday jackpot estimated at $73m",
-   "zh_hans": "六合彩首试集气加码制 明晚金多宝头奖料7300万",
-   "zh_hant": "六合彩首試集氣加碼制 明晚金多寶頭獎料7300萬"
+   "en": "Zhipu rolls out GLM-5.4 with vision and million-token context as coding quotas rise 50%",
+   "zh_hans": "智谱发布GLM-5.4新增视觉能力 支持百万上下文 编程配额增五成",
+   "zh_hant": "智譜發佈GLM-5.4新增視覺能力 支援百萬上下文 編程配額增五成"
+  }
+ },
+ {
+  "category": "world",
+  "id": "20261123-trump-blames-democrats-market-crash-iran",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：特朗普歸咎民主黨釀成股災，伊朗加劇挑釁，美股三大指數一周重挫。場景：陽光下的紐約證券交易所外觀，華爾街街道與美國國旗清晰可見，藍天白雲，氣氛嚴肅明亮。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「特朗普歸咎民主黨釀股災」，第二行黃字寫「伊朗加劇挑釁 美股三大指數一周重挫」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-23T07:31:00+08:00",
+  "source": {
+   "name": "Times Now",
+   "url": "https://www.timesnownews.com/world/us/us-news/us-stock-market-wall-street-dow-nasdaq-donald-trump-says-he-predicted-market-crash-blames-democrats-article-156551791/amp"
+  },
+  "summary": {
+   "en": "US President Donald Trump has blamed the Democrats' victory in the November 3 midterm elections for the rout in US stocks and an escalation by Iran, saying on Truth Social that he predicted both. He claimed Iran launched more drone and missile attacks over the past week than at any point in more than a year, and alleged Iran has killed 81,000 protesters. Wall Street just suffered one of its worst weeks since Covid: the Dow fell 8% to 48,147.33, the S&P 500 dropped 8.6% to 6,910.39 and the Nasdaq lost 10% to 22,617.73, all in correction territory, while the VIX fear gauge touched 40. Futures pointed to a rebound on Monday, with S&P 500 futures up 1.3%.",
+   "zh_hans": "美国总统特朗普在社交平台发文，将美股暴跌及伊朗局势升级归咎于民主党在11月3日中期选举获胜，称自己早已预言两者都会发生。他指伊朗过去一周发动的无人机及导弹袭击较过去一年任何时候都多，又称伊朗已杀害8.1万名示威者。美股上周创纪录重挫，道指一周跌8%至48147点，标普500指数跌8.6%至6910点，纳指跌10%至22617点，三大指数齐陷技术性调整，恐慌指数VIX一度触及40。期货市场显示周一开市有望反弹，标指期货升1.3%。",
+   "zh_hant": "美國總統特朗普在社交平台發文，將美股暴跌及伊朗局勢升級歸咎於民主黨在11月3日中期選舉獲勝，稱自己早已預言兩者都會發生。他指伊朗過去一周發動的無人機及導彈襲擊較過去一年任何時候都多，又稱伊朗已殺害8.1萬名示威者。美股上周創紀錄重挫，道指一周跌8%至48147點，標普500指數跌8.6%至6910點，納指跌10%至22617點，三大指數齊陷技術性調整，恐慌指數VIX一度觸及40。期貨市場顯示周一開市有望反彈，標指期貨升1.3%。"
+  },
+  "tags": {
+   "en": [
+    "Donald Trump",
+    "US Stocks",
+    "Iran"
+   ],
+   "zh_hans": [
+    "特朗普",
+    "美股",
+    "伊朗"
+   ],
+   "zh_hant": [
+    "特朗普",
+    "美股",
+    "伊朗"
+   ]
+  },
+  "title": {
+   "en": "Trump blames Democrats for market rout and Iran escalation as Wall Street suffers worst week since Covid",
+   "zh_hans": "特朗普归咎民主党酿股灾 伊朗加剧挑衅 美股三大指数一周重挫",
+   "zh_hant": "特朗普歸咎民主黨釀股災 伊朗加劇挑釁 美股三大指數一周重挫"
+  }
+ },
+ {
+  "category": "tech",
+  "id": "20261123-us-house-report-chinese-ai-models",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：美國眾議院報告指中國開源AI模型已滲透美國主流產品，Cursor擬棄用Kimi，促聯邦系統禁用。場景：陽光明亮的現代數據中心走廊，伺服器機櫃整齊排列，藍色指示燈閃爍，地面光潔反光，氣氛專業明亮。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「美眾院報告揭中系AI模型滲透美企」，第二行黃字寫「Cursor擬棄用Kimi 促聯邦禁用」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-21T14:09:00+08:00",
+  "source": {
+   "name": "美國眾議院",
+   "url": "https://homeland.house.gov/wp-content/uploads/2026/11/2026.11.20-Joint-Report-PRC-AI-Models.pdf"
+  },
+  "summary": {
+   "en": "Two US House committees have released a 50-page joint report finding that Chinese-developed open-weight AI models are already deeply embedded across the American economy, and urging their exclusion from federal systems and critical infrastructure. The report singles out Cursor, the SpaceX-owned coding platform, whose flagship Composer 2 model was built on Moonshot AI's Kimi K2.5; developer Anysphere said it plans to explore phasing out Chinese models. Airbnb told investigators its customer assistants run on Alibaba's Qwen, handling 80,000 interactions and 250,000 support-call summaries a day, while DoorDash reported deploying 25 Chinese model families, saying replacement could take up to six months. The report also found Chinese developers used proxy networks and fraudulent accounts to harvest outputs from American frontier models, and set out 12 policy recommendations. The Trump administration is separately weighing requiring US firms to disclose their use of Chinese AI models.",
+   "zh_hans": "美国众议院国土安全委员会与中国问题特别委员会发表50页联合调查报告，指中国开发的开源AI模型已深入渗透美国经济，建议将其排除于联邦系统及关键基建之外。报告点名SpaceX旗下编程平台Cursor，其旗舰模型Composer 2以月之暗面的Kimi K2.5为底层，开发商已表示会探讨逐步弃用中国模型；Airbnb每日以阿里巴巴Qwen模型处理约8万次对话及25万次客服摘要，DoorDash则部署25个中国模型家族，替换需时最长6个月。报告亦指中国开发商曾利用代理网络及虚假账户，窃取美国前沿模型输出以复制其能力，并提出12项政策建议。特朗普政府亦正考虑要求美企公开披露使用中国AI模型的情况。",
+   "zh_hant": "美國眾議院國土安全委員會與中國問題特別委員會發表50頁聯合調查報告，指中國開發的開源AI模型已深入滲透美國經濟，建議將其排除於聯邦系統及關鍵基建之外。報告點名SpaceX旗下編程平台Cursor，其旗艦模型Composer 2以月之暗面Kimi K2.5為底層，開發商已表示會探討逐步棄用中國模型；Airbnb每日以阿里巴巴Qwen模型處理約8萬次對話及25萬次客服摘要，DoorDash則部署25個中國模型家族，替換需時最長6個月。報告亦指中國開發商曾利用代理網絡及虛假帳戶，竊取美國前沿模型輸出以複製其能力，並提出12項政策建議。特朗普政府亦正考慮要求美企公開披露使用中國AI模型的情況。"
+  },
+  "tags": {
+   "en": [
+    "Artificial Intelligence",
+    "Chinese AI Models",
+    "US House"
+   ],
+   "zh_hans": [
+    "人工智能",
+    "中国AI模型",
+    "美国众议院"
+   ],
+   "zh_hant": [
+    "人工智能",
+    "中國AI模型",
+    "美國眾議院"
+   ]
+  },
+  "title": {
+   "en": "US House report finds Chinese AI models embedded across American firms as Cursor weighs dropping Kimi",
+   "zh_hans": "美众院报告揭中系AI模型渗透美企 Cursor拟弃用Kimi 促联邦禁用",
+   "zh_hant": "美眾院報告揭中系AI模型滲透美企 Cursor擬棄用Kimi 促聯邦禁用"
   }
  }
 ]
