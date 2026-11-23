@@ -505,5 +505,347 @@
    "zh_hant": "大埔唐狗被吊死樹上 姊姊大義滅親報警拘胞弟"
   },
   "image_r2_key": "design/202611/20261123-tai-po-dog-hanging-man-arrested-v2.jpg"
+ },
+ {
+  "category": "finance",
+  "id": "20261123-first-offshore-rmb-bond-etf-lists-hk",
+  "image_prompt": "香港交易所交易大堂上市儀式現場，嘉賓剪影與鮮花布置，背景是大型電子屏幕，燈光明亮，氣氛隆重，畫面光猛明亮。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「全球首隻離岸人民幣債券ETF今日掛牌」，第二行黃色大字寫「設三櫃台 許正宇：高效參與人民幣資產」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "",
+  "published_at": "2026-11-23T09:53:00+08:00",
+  "source": {
+   "name": "Hongkong Invest",
+   "url": "https://hongkong-invest.com/%E9%A6%96%E9%9A%BB%E9%9B%A2%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B9%A3%E5%82%B5%E5%88%B8etf%E4%B8%8A%E5%B8%82%E3%80%80%E8%A8%B1%E6%AD%A3%E5%AE%87%EF%BC%9A%E6%8F%90%E4%BE%9B%E9%AB%98%E6%95%88%E4%BE%BF/"
+  },
+  "summary": {
+   "en": "The world's first exchange-traded fund tracking offshore yuan bonds listed in Hong Kong today, with Hong Kong dollar, US dollar and yuan counters under the stock codes 03551, 41551 and 83551. Secretary for Financial Services and the Treasury Christopher Hui said at the listing ceremony that the ETF gives investors an efficient and convenient tool, supporting the strategy to grow Hong Kong's offshore yuan pool and broaden yuan investment products. Hui noted Hong Kong handles about 75% of global offshore yuan payments, with yuan deposits of about 1.3 trillion yuan.",
+   "zh_hans": "全球首只追踪离岸人民币债券的交易所买卖基金今日首日挂牌，设港元、美元及人民币三个柜台，股份代号分别为03551、41551及83551。财经事务及库务局局长许正宇出席上市仪式时表示，这只ETF能为投资者提供高效便捷的参与工具，配合壮大离岸人民币资金池及丰富人民币投资产品的策略。许正宇提到，香港处理全球约75%的离岸人民币支付款项，人民币存款余额约1.3万亿元人民币。",
+   "zh_hant": "全球首隻追蹤離岸人民幣債券的交易所買賣基金今日首日掛牌，設港元、美元及人民幣三個櫃台，股份代號分別為03551、41551及83551。財經事務及庫務局局長許正宇出席上市儀式時表示，這隻ETF能為投資者提供高效便捷的參與工具，配合壯大離岸人民幣資金池及豐富人民幣投資產品的策略。許正宇提到，香港處理全球約75%的離岸人民幣支付款項，人民幣存款餘額約1.3萬億元人民幣。"
+  },
+  "tags": {
+   "en": [
+    "yuan bond ETF",
+    "Christopher Hui",
+    "offshore yuan"
+   ],
+   "zh_hans": [
+    "人民币债券ETF",
+    "许正宇",
+    "离岸人民币"
+   ],
+   "zh_hant": [
+    "人民幣債券ETF",
+    "許正宇",
+    "離岸人民幣"
+   ]
+  },
+  "title": {
+   "en": "World's first offshore yuan bond ETF lists in Hong Kong with three counters, offering investors efficient access to yuan assets",
+   "zh_hans": "全球首只离岸人民币债券ETF今日挂牌 设三柜台 许正宇：高效参与人民币资产",
+   "zh_hant": "全球首隻離岸人民幣債券ETF今日掛牌 設三櫃台 許正宇：高效參與人民幣資產"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261123-bessent-fed-overtightening-policy-mistake",
+  "image_prompt": "華盛頓金融區街景，宏偉的政府大樓與聯邦儲備局大樓外觀，藍天白雲，行人匆匆，氣氛嚴肅莊重，畫面光猛明亮。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「貝森特警告儲局過度收緊恐犯政策錯誤」，第二行黃色大字寫「金融體系已現脆弱跡象」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "",
+  "published_at": "2026-11-23T09:33:00+08:00",
+  "source": {
+   "name": "星島頭條",
+   "url": "https://www.stheadline.com/macroeconomics/3640109/貝森特指金融體系脆弱-警告儲局過度收緊-恐犯政策錯誤"
+  },
+  "summary": {
+   "en": "US Treasury Secretary Scott Bessent warned in an interview on Sunday that the Federal Reserve could make a policy mistake and endanger the US economy if it tightens monetary policy too aggressively in response to the latest inflation data. He said the financial system was already showing signs of fragility, financial conditions had tightened noticeably in recent months, and a series of hawkish remarks by Fed officials was worrying. After the Fed held rates steady in September, several officials have signalled support for another rate rise in December on price pressures, while Friday's sharp market sell-off on AI trade unwinds has led some traders to scale back December hike expectations.",
+   "zh_hans": "美国财长贝森特周日接受访问时警告，联储局若为应对最新通胀数据而过度收紧货币政策，可能犯下政策错误，危及美国经济。他指金融体系已出现脆弱迹象，过去数月金融状况亦已明显收紧，联储局官员近期一连串鹰派言论令人忧虑。联储局9月维持利率不变后，多名官员因价格压力表态支持12月再加息；上周五AI交易平仓引发市场急跌，部分交易员已调低12月加息预期。",
+   "zh_hant": "美國財長貝森特周日接受訪問時警告，聯儲局若為應對最新通脹數據而過度收緊貨幣政策，可能犯下政策錯誤，危及美國經濟。他指金融體系已出現脆弱跡象，過去數月金融狀況亦已明顯收緊，聯儲局官員近期一連串鷹派言論令人憂慮。聯儲局9月維持利率不變後，多名官員因價格壓力表態支持12月再加息；上周五AI交易平倉引發市場急跌，部分交易員已調低12月加息預期。"
+  },
+  "tags": {
+   "en": [
+    "Scott Bessent",
+    "Federal Reserve",
+    "interest rates"
+   ],
+   "zh_hans": [
+    "贝森特",
+    "联储局",
+    "加息"
+   ],
+   "zh_hant": [
+    "貝森特",
+    "聯儲局",
+    "加息"
+   ]
+  },
+  "title": {
+   "en": "Bessent warns Fed against overtightening, says financial system already showing fragility",
+   "zh_hans": "贝森特警告储局过度收紧恐犯政策错误 金融体系已现脆弱迹象",
+   "zh_hant": "貝森特警告儲局過度收緊恐犯政策錯誤 金融體系已現脆弱跡象"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261123-hk-macao-affairs-office-liaison-office-election-committee-election",
+  "image_prompt": "陽光下的香港會議展覽中心外景，投票站前工作人員搬運票箱，國旗與區旗飄揚，氣氛莊重，畫面光猛明亮。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「選委會選舉投票率98.79%創新高」，第二行黃色大字寫「港澳辦中聯辦齊發聲 促落實五年規劃」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "",
+  "published_at": "2026-11-23T09:26:21+08:00",
+  "source": {
+   "name": "香港01",
+   "url": "https://www.hk01.com/政情/60413815/選委會選舉-港澳辦-展現高質量民主-中聯辦-肩負五年規劃重任"
+  },
+  "summary": {
+   "en": "The 2026 Election Committee subsector elections were held yesterday, with turnout hitting a record 98.79% as 856 candidates contested 723 seats, and 31 subsectors holding contested elections. A spokesperson for the Hong Kong and Macao Affairs Office said today the election showed a new atmosphere of high-quality democracy suited to Hong Kong, while the Liaison Office said it fully implemented the principle of patriots administering Hong Kong. Both offices urged the new Election Committee members to work with the government to implement Hong Kong's first five-year plan and turn the vision into reality.",
+   "zh_hans": "2026年选举委员会界别分组选举昨日举行，投票率98.79%创新高，856名候选人竞逐723席，31个界别分组出现差额选举。港澳办发言人今日表示，选举展现符合香港实际的高质量民主新气象；中联办发言人亦指，选举全面贯彻「爱国者治港」原则。两办都敦促新一届选委与政府共同落实香港首个五年规划，把「愿景图」转化为「实景图」。",
+   "zh_hant": "2026年選舉委員會界別分組選舉昨日舉行，投票率98.79%創新高，856名候選人競逐723席，31個界別分組出現差額選舉。港澳辦發言人今日表示，選舉展現符合香港實際的高質量民主新氣象；中聯辦發言人亦指，選舉全面貫徹「愛國者治港」原則。兩辦都敦促新一屆選委與政府共同落實香港首個五年規劃，把「願景圖」轉化為「實景圖」。"
+  },
+  "tags": {
+   "en": [
+    "Election Committee election",
+    "Hong Kong and Macao Affairs Office",
+    "Liaison Office"
+   ],
+   "zh_hans": [
+    "选委会选举",
+    "港澳办",
+    "中联办"
+   ],
+   "zh_hant": [
+    "選委會選舉",
+    "港澳辦",
+    "中聯辦"
+   ]
+  },
+  "title": {
+   "en": "Election Committee turnout hits record 98.79% as Beijing offices urge new members to deliver five-year plan",
+   "zh_hans": "选委会选举投票率98.79%创新高 港澳办中联办齐发声 促落实五年规划",
+   "zh_hant": "選委會選舉投票率98.79%創新高 港澳辦中聯辦齊發聲 促落實五年規劃"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261123-hang-seng-index-opens-242-points-lower",
+  "image_prompt": "香港中環交易廣場外景，大型電子屏幕顯示紅色向下箭頭，行人匆匆，藍天白雲，陽光普照，氣氛緊張但畫面光猛明亮。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「恒指低開242點失守22200關」，第二行黃色大字寫「科指跌近2% 零跑小鵬齊挫逾一成」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "",
+  "published_at": "2026-11-23T09:24:37+08:00",
+  "source": {
+   "name": "鳳凰網",
+   "url": "https://finance.ifeng.com/c/8yHUZH7jAdU"
+  },
+  "summary": {
+   "en": "Hong Kong stocks opened lower this morning, with the Hang Seng Index down 1.08%, opening 242 points lower at 22,168, while the Hang Seng Tech Index fell 1.92%. Leapmotor dropped more than 11% and XPeng more than 10%, as tech, auto and semiconductor stocks fell across the board while gold stocks rebounded. US stocks plunged late on Friday, with the S&P 500 down 3.7% and the Nasdaq down 5.2%, prompting several Asian markets to roll out stabilisation measures over the weekend.",
+   "zh_hans": "港股今早低开，恒生指数跌1.08%，低开242点报22,168点；恒生科技指数跌1.92%。零跑汽车跌超11%，小鹏集团跌超10%，科网股、汽车股、半导体股齐跌，黄金股反弹。美股上周五尾盘急跌，标普500指数重挫3.7%、纳斯达克指数跌5.2%，亚洲多地周末推出稳市措施。",
+   "zh_hant": "港股今早低開，恒生指數跌1.08%，低開242點報22,168點；恒生科技指數跌1.92%。零跑汽車跌超11%，小鵬集團跌超10%，科網股、汽車股、半導體股齊跌，黃金股反彈。美股上周五尾盤急跌，標普500指數重挫3.7%、納斯達克指數跌5.2%，亞洲多地周末推出穩市措施。"
+  },
+  "tags": {
+   "en": [
+    "Hang Seng Index",
+    "Hong Kong stocks",
+    "tech stocks"
+   ],
+   "zh_hans": [
+    "恒生指数",
+    "港股",
+    "科技股"
+   ],
+   "zh_hant": [
+    "恒生指數",
+    "港股",
+    "科技股"
+   ]
+  },
+  "title": {
+   "en": "Hang Seng opens 242 points lower, tech index down nearly 2% as Leapmotor and XPeng slide over 10%",
+   "zh_hans": "恒指低开242点失守22200关 科指跌近2% 零跑小鹏齐挫逾一成",
+   "zh_hant": "恒指低開242點失守22200關 科指跌近2% 零跑小鵬齊挫逾一成"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261123-pboc-4995-billion-overnight-reverse-repo",
+  "image_prompt": "北京金融街現代化辦公大樓群，玻璃幕牆反射藍天白雲，街道整潔，陽光普照，氣氛專業穩健，畫面光猛明亮。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「人行開展4995億隔夜逆回購」，第二行黃色大字寫「單日淨投放1200億 周三萬億MLF到期」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "",
+  "published_at": "2026-11-23T09:23:51+08:00",
+  "source": {
+   "name": "第一財經",
+   "url": "https://www.yicai.com/news/103449492.html"
+  },
+  "summary": {
+   "en": "The People's Bank of China conducted 499.5 billion yuan of overnight reverse repurchase operations in the open market today, with the rate unchanged at 1.25%. With 379.5 billion yuan of reverse repos maturing today, the operation resulted in a net injection of 120 billion yuan for the day. Markets are watching Wednesday, when 1 trillion yuan of medium-term lending facility (MLF) loans mature, for the direction of liquidity.",
+   "zh_hans": "人民银行今日在公开市场开展4995亿元人民币隔夜逆回购操作，利率维持1.25厘。今日有3795亿元逆回购到期，对冲后单日转为净投放1200亿元。市场关注周三有1万亿元中期借贷便利（MLF）到期，资金面走向成为焦点。",
+   "zh_hant": "人民銀行今日在公開市場開展4995億元人民幣隔夜逆回購操作，利率維持1.25厘。今日有3795億元逆回購到期，對沖後單日轉為淨投放1200億元。市場關注周三有1萬億元中期借貸便利（MLF）到期，資金面走向成為焦點。"
+  },
+  "tags": {
+   "en": [
+    "People's Bank of China",
+    "reverse repo",
+    "MLF"
+   ],
+   "zh_hans": [
+    "人民银行",
+    "逆回购",
+    "MLF"
+   ],
+   "zh_hant": [
+    "人民銀行",
+    "逆回購",
+    "MLF"
+   ]
+  },
+  "title": {
+   "en": "PBOC offers 499.5 billion yuan in overnight reverse repos, net injection of 120 billion as 1 trillion yuan MLF maturity looms",
+   "zh_hans": "人行开展4995亿隔夜逆回购 单日净投放1200亿 周三万亿MLF到期",
+   "zh_hant": "人行開展4995億隔夜逆回購 單日淨投放1200億 周三萬億MLF到期"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261123-mtr-ho-man-tin-signal-fault",
+  "image_prompt": "早上繁忙時間的港鐵車站月台，一列列車停在月台邊，車站職員在路軌旁檢查信號設備，乘客在月台上有秩序地等候，燈光明亮，氣氛平靜有序，畫面光猛明亮。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「港鐵何文田站信號故障 觀塘綫一度延誤」，第二行黃色大字寫「搶修後陸續恢復正常」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "",
+  "published_at": "2026-11-23T09:14:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878888-20261123.htm"
+  },
+  "summary": {
+   "en": "MTR said a signalling equipment fault near Ho Man Tin station this morning disrupted Kwun Tong line service, with journeys taking an extra 10 to 15 minutes at one point. After repairs, the fault has been cleared and train service is gradually returning to normal.",
+   "zh_hans": "港铁表示，何文田站附近的信号设备今早发生故障，观塘线列车服务受影响，行车时间一度要额外10至15分钟。经抢修后，故障已经处理，列车服务陆续恢复正常。",
+   "zh_hant": "港鐵表示，何文田站附近的信號設備今早發生故障，觀塘綫列車服務受影響，行車時間一度要額外10至15分鐘。經搶修後，故障已經處理，列車服務陸續恢復正常。"
+  },
+  "tags": {
+   "en": [
+    "MTR",
+    "Kwun Tong line",
+    "Ho Man Tin"
+   ],
+   "zh_hans": [
+    "港铁",
+    "观塘线",
+    "何文田"
+   ],
+   "zh_hant": [
+    "港鐵",
+    "觀塘綫",
+    "何文田"
+   ]
+  },
+  "title": {
+   "en": "MTR signal fault at Ho Man Tin delays Kwun Tong line, service gradually resuming after repairs",
+   "zh_hans": "港铁何文田站信号故障 观塘线一度延误 抢修后陆续恢复正常",
+   "zh_hant": "港鐵何文田站信號故障 觀塘綫一度延誤 搶修後陸續恢復正常"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261123-wang-fuk-court-one-household-one-social-worker",
+  "image_prompt": "陽光普照的公共屋邨樓下，社工與長者居民坐着傾談，背景是屋邨大廈與綠樹，氣氛溫暖有人情味，人物用背影或遠景處理，不要畫清晰人臉，畫面光猛明亮。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「宏福苑火災近一年 社工「一戶一社工」未退場」，第二行黃色大字寫「居民最需要一個同行者」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "",
+  "published_at": "2026-11-23T08:48:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878881-20261123.htm"
+  },
+  "summary": {
+   "en": "Nearly a year after the Wang Fuk Court fire, the Social Welfare Department's 'one household, one social worker' programme is still following up on residents' needs. Some residents have had their sleep and appetite affected by rumours and social media clips and need help adjusting, while one resident in his 70s has gone from refusing to leave home to arranging outings with old neighbours. Social workers say what residents need most is a companion who can help them solve different problems.",
+   "zh_hans": "宏福苑火灾发生接近一年，社署「一户一社工」计划一直跟进居民需要。有居民受坊间及社交媒体片段影响，影响睡眠和食欲，需要协助调整心情；亦有70多岁居民由最初不愿离开住所，到现时主动约旧街坊外出。跟进社工表示，居民最需要的，是一个可以协助解决不同问题的同行者。",
+   "zh_hant": "宏福苑火災發生接近一年，社署「一戶一社工」計劃一直跟進居民需要。有居民受坊間及社交媒體片段影響，影響睡眠和食慾，需要協助調整心情；亦有70多歲居民由最初不願離開住所，到現時主動約舊街坊外出。跟進社工表示，居民最需要的，是一個可以協助解決不同問題的同行者。"
+  },
+  "tags": {
+   "en": [
+    "Wang Fuk Court",
+    "social workers",
+    "fire"
+   ],
+   "zh_hans": [
+    "宏福苑",
+    "社工",
+    "火灾"
+   ],
+   "zh_hant": [
+    "宏福苑",
+    "社工",
+    "火災"
+   ]
+  },
+  "title": {
+   "en": "Nearly a year after Wang Fuk Court fire, 'one household, one social worker' support continues as residents rebuild",
+   "zh_hans": "宏福苑火灾近一年 社工「一户一社工」未退场 居民最需要一个同行者",
+   "zh_hant": "宏福苑火災近一年 社工「一戶一社工」未退場 居民最需要一個同行者"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261123-china-three-market-stabilisation-measures-margin-80-percent",
+  "image_prompt": "上海證券交易所交易大堂，電子顯示屏與交易員剪影，燈光明亮，氣氛專業穩健，畫面光猛明亮。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「內地連出三招穩市 融資保證金降至八成」，第二行黃色大字寫「11月30日起實施 料釋放4000億資金」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "",
+  "published_at": "2026-11-23T08:30:00+08:00",
+  "source": {
+   "name": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6669877"
+  },
+  "summary": {
+   "en": "Approved by the China Securities Regulatory Commission, the Shanghai, Shenzhen and Beijing stock exchanges will cut the minimum margin requirement for margin purchases from 100% to 80% from November 30, theoretically freeing about 400 billion yuan of financing capacity across the market. The Shenzhen exchange also opened public consultation on market-making rules for the ChiNext board, while both the Shanghai and Shenzhen exchanges rolled out fee cuts and extended fee waivers, including on listing fees, by two years to 2028. The margin ratio was only raised from 80% to 100% in January and is being cut back ten months later; as of November 19, total margin balances stood at 2.22 trillion yuan, a near one-year low.",
+   "zh_hans": "经中国证监会批准，沪深北交易所将投资者融资买入证券的最低保证金比例由100%调降至80%，自11月30日起实施；全市场理论可释放约4000亿元融资空间。深交所同日就创业板股票做市交易业务细则公开征求意见，引入做市商制度；沪深交易所亦同步推出降费措施，并将免收上市费等措施延长两年至2028年。今年1月保证金比例才由80%上调至100%，十个月后调回；截至11月19日，全市场两融余额2.22万亿元，创近一年新低。",
+   "zh_hant": "經中國證監會批准，滬深北交易所將投資者融資買入證券的最低保證金比例由100%調降至80%，自11月30日起實施；全市場理論可釋放約4000億元融資空間。深交所同日就創業板股票做市交易業務細則公開徵求意見，引入做市商制度；滬深交易所亦同步推出降費措施，並將免收上市費等措施延長兩年至2028年。今年1月保證金比例才由80%上調至100%，十個月後調回；截至11月19日，全市場兩融餘額2.22萬億元，創近一年新低。"
+  },
+  "tags": {
+   "en": [
+    "China stock market",
+    "margin requirement",
+    "market stabilisation"
+   ],
+   "zh_hans": [
+    "内地股市",
+    "融资保证金",
+    "稳市"
+   ],
+   "zh_hant": [
+    "內地股市",
+    "融資保證金",
+    "穩市"
+   ]
+  },
+  "title": {
+   "en": "China rolls out three market-stabilisation measures as margin requirement cut to 80%, seen freeing 400 billion yuan",
+   "zh_hans": "内地连出三招稳市 融资保证金降至八成 11月30日起实施 料释放4000亿资金",
+   "zh_hant": "內地連出三招穩市 融資保證金降至八成 11月30日起實施 料釋放4000億資金"
+  }
+ },
+ {
+  "category": "tech",
+  "id": "20261123-openai-pachocki-perplexity-ai-limits",
+  "image_prompt": "明亮的現代科技辦公室，大型屏幕顯示抽象數據圖表，機械臂剪影在旁，藍白色調，氣氛前瞻專業，畫面光猛明亮。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「OpenAI首席科學家倡設AI發展紅線」，第二行黃色大字寫「以「困惑度」量度能力 未達標唔好越線」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
+  "image_url": "",
+  "published_at": "2026-11-23T05:14:00+08:00",
+  "source": {
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+  },
+  "summary": {
+   "en": "OpenAI chief scientist Jakub Pachocki has proposed in a blog post that the industry use perplexity as a common yardstick for AI progress and agree on shared limits on development. Perplexity measures how well a model predicts the next token on average, with lower numbers meaning better predictions; GPT-4 scored about 0.91, and once scores fell below 0.8, transformative capabilities emerged in areas such as cybersecurity and mathematics. Pachocki called on labs to commit not to cross a threshold until their ability to monitor AI behaviour reaches specific milestones; CEO Sam Altman publicly backed the post, calling it one of the most important things OpenAI has published in a while.",
+   "zh_hans": "OpenAI首席科学家帕乔基发表网志，提议业界以「困惑度」作为量度AI进展的共同指标，并设立共同发展上限。困惑度量度模型平均预测下一个词元的准确程度，数值越低代表预测越准；GPT-4约为0.91，跌破0.8后已出现网络安全及数学等领域的突破性能力。帕乔基呼吁各实验室在监控能力未达具体里程碑之前，承诺不越过有关门槛；行政总裁奥特曼公开支持，称这是OpenAI近期发表过最重要的文章之一。",
+   "zh_hant": "OpenAI首席科學家帕喬基發表網誌，提議業界以「困惑度」作為量度AI進展的共同指標，並設立共同發展上限。困惑度量度模型平均預測下一個詞元的準確程度，數值越低代表預測越準；GPT-4約為0.91，跌破0.8後已出現網絡安全及數學等領域的突破性能力。帕喬基呼籲各實驗室在監控能力未達具體里程碑之前，承諾不越過有關門檻；行政總裁奧特曼公開支持，稱這是OpenAI近期發表過最重要的文章之一。"
+  },
+  "tags": {
+   "en": [
+    "OpenAI",
+    "artificial intelligence",
+    "perplexity"
+   ],
+   "zh_hans": [
+    "OpenAI",
+    "人工智能",
+    "困惑度"
+   ],
+   "zh_hant": [
+    "OpenAI",
+    "人工智能",
+    "困惑度"
+   ]
+  },
+  "title": {
+   "en": "OpenAI chief scientist proposes AI speed limit, using perplexity to measure progress and setting a shared cap",
+   "zh_hans": "OpenAI首席科学家倡设AI发展红线 以「困惑度」量度能力 未达标不要越线",
+   "zh_hant": "OpenAI首席科學家倡設AI發展紅線 以「困惑度」量度能力 未達標唔好越線"
+  }
  }
 ]
