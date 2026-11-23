@@ -81,6 +81,46 @@
  },
  {
   "category": "hk",
+  "id": "20261123-poultry-import-suspension-bird-flu",
+  "image_caption": "",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：英美加日爆禽流感，香港即時暫停進口禽肉禽蛋。場景：陽光下的現代食品檢驗中心，檢驗人員檢查禽肉樣本，冷鏈貨櫃與檢疫設施，藍白專業色調，氣氛嚴謹有序。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「英美加日爆禽流感」，第二行黃字寫「港即時暫停進口禽肉禽蛋」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_r2_key": "design/202611/20261123-poultry-import-suspension-bird-flu-v2.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-poultry-import-suspension-bird-flu-v2.jpg",
+  "published_at": "2026-11-23T18:40:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300553.htm"
+  },
+  "summary": {
+   "en": "The Centre for Food Safety announced today that it has instructed the trade to suspend with immediate effect the import of poultry meat and products, including poultry eggs, from areas in Canada, the United Kingdom, the United States and Japan, after notifications of highly pathogenic H5N1 avian influenza outbreaks in parts of Canada, the UK and the US, and a highly pathogenic H5 outbreak in Aichi Prefecture, Japan. In the first nine months of this year, Hong Kong imported about 33,270 tonnes of chilled and frozen poultry meat and about 92.33 million poultry eggs from the US, about 1,030 tonnes of frozen poultry meat and about 249.94 million poultry eggs from Japan, and about 680 tonnes of poultry meat and about 220,000 poultry eggs from the UK; no poultry meat or eggs were imported from Canada in the same period. The Centre has contacted the authorities of the four places and will closely monitor the situation.",
+   "zh_hans": "食安中心今日宣布，因应世界动物卫生组织通报加拿大、英国及美国部分地区爆发高致病性H5N1禽流感，以及日本爱知县爆发高致病性H5禽流感，即时指示业界暂停从有关地区进口禽肉及禽类产品，包括禽蛋。今年首九个月，本港从美国进口约33,270吨冷藏及冷冻禽肉及约9,233万只禽蛋，从日本进口约1,030吨冷冻禽肉及约2.5亿只禽蛋，从英国进口约680吨禽肉及22万只禽蛋；同期并无从加拿大进口禽肉或禽蛋。食安中心已联络四地当局，会密切监察疫情发展。",
+   "zh_hant": "食安中心今日宣布，因應世界動物衞生組織通報加拿大、英國及美國部分地區爆發高致病性H5N1禽流感，以及日本愛知縣爆發高致病性H5禽流感，即時指示業界暫停從有關地區進口禽肉及禽類產品，包括禽蛋。今年首九個月，本港從美國進口約33,270噸冷藏及冷凍禽肉及約9,233萬隻禽蛋，從日本進口約1,030噸冷凍禽肉及約2.5億隻禽蛋，從英國進口約680噸禽肉及22萬隻禽蛋；同期並無從加拿大進口禽肉或禽蛋。食安中心已聯絡四地當局，會密切監察疫情發展。"
+  },
+  "tags": {
+   "en": [
+    "avian influenza",
+    "poultry import suspension",
+    "Centre for Food Safety"
+   ],
+   "zh_hans": [
+    "禽流感",
+    "暂停进口",
+    "食安中心"
+   ],
+   "zh_hant": [
+    "禽流感",
+    "暫停進口",
+    "食安中心"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong suspends poultry imports from parts of Canada, UK, US and Japan after bird flu outbreaks",
+   "zh_hans": "英美加日爆禽流感 港即时暂停进口禽肉禽蛋",
+   "zh_hant": "英美加日爆禽流感 港即時暫停進口禽肉禽蛋"
+  }
+ },
+ {
+  "category": "hk",
   "id": "20261123-public-housing-building-control-section",
   "image_prompt": "電視新聞圖卡風格，16:9。事實：房屋局成立公屋建築管制組取代獨立審查組，加強規管公屋維修及新建工程。場景：陽光下的香港公共屋邨大樓群，樓宇外牆簇新，藍天白雲，氣氛明朗有序。風格：寫實明朗，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「房屋局成立公屋建築管制組」，第二行黃字寫「接管獨立審查組加強規管維修」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
   "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-public-housing-building-control-section-v2.jpg",
@@ -1370,6 +1410,46 @@
    "zh_hant": "醫管局新主席陳健波12月1日上任 任期兩年 范鴻齡卸任獲致謝"
   },
   "image_r2_key": "design/202611/20261123-ha-chairman-chan-kin-por-dec-1-v2.jpg"
+ },
+ {
+  "category": "finance",
+  "id": "20261123-hsbc-retirement-savings-target",
+  "image_caption": "",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：港人退休目標928萬升7%，平均只儲夠四成半。場景：明亮現代的銀行理財中心，一對中年夫婦與理財顧問傾談退休計劃，窗外維港日景，專業從容，氣氛溫暖光亮。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「港人退休目標928萬升7%」，第二行黃字寫「平均只儲夠四成半缺口難填」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_r2_key": "design/202611/20261123-hsbc-retirement-savings-target-v2.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-hsbc-retirement-savings-target-v2.jpg",
+  "published_at": "2026-11-23T10:21:00+08:00",
+  "source": {
+   "name": "明報",
+   "url": "https://finance.mingpao.com/fin/instantf/20261123/1795401729955/%e5%8c%af%e8%b1%90%e8%aa%bf%e6%9f%a5-%e6%b8%af%e4%ba%ba%e9%80%80%e4%bc%91%e5%84%b2%e8%93%84%e7%9b%ae%e6%a8%99%e6%8c%89%e5%b9%b4%e5%8d%877-%e8%87%b3928%e8%90%ac%e5%85%83"
+  },
+  "summary": {
+   "en": "HSBC has published its global Modern Wealth Report, based on an Ipsos survey of 9,993 affluent and high-net-worth investors across 10 markets. Hong Kong investors' retirement savings target rose 7 per cent from 2025 to US$1.19 million (about HK$9.28 million), but on average they have achieved only 45 per cent of the target, and the gap is becoming harder to close as financial needs grow at different life stages. The survey also found 95 per cent of Hong Kong investors are rethinking how they pass on wealth, 77 per cent expect to retire gradually or flexibly rather than stop working outright, and their top financial considerations are future healthcare needs (37 per cent), lifestyle (33 per cent) and experiences (33 per cent).",
+   "zh_hans": "汇丰发表环球《现代财富报告》，根据益普索调查，访问10个市场共9,993名富裕及高净值投资者。调查显示，香港投资者的退休储蓄目标较2025年上升7%，达119万美元（约928万港元），但平均只达成目标的45%，随着人生步入不同阶段、财务需求日增，填补缺口愈见困难。调查亦发现，95%香港投资者正重新思考财富传承方式；77%预期会逐步或以弹性方式退休，而非直接停止工作；未来医疗需求（37%）、生活方式（33%）及体验（33%）是主要理财考虑。",
+   "zh_hant": "滙豐發表環球《現代財富報告》，根據益普索調查，訪問10個市場共9,993名富裕及高淨值投資者。調查顯示，香港投資者的退休儲蓄目標較2025年上升7%，達119萬美元（約928萬港元），但平均只達成目標的45%，隨着人生步入不同階段、財務需求日增，填補缺口愈見困難。調查亦發現，95%香港投資者正重新思考財富傳承方式；77%預期會逐步或以彈性方式退休，而非直接停止工作；未來醫療需求（37%）、生活方式（33%）及體驗（33%）是主要理財考慮。"
+  },
+  "tags": {
+   "en": [
+    "HSBC",
+    "retirement savings",
+    "Modern Wealth Report"
+   ],
+   "zh_hans": [
+    "汇丰",
+    "退休储蓄",
+    "财富报告"
+   ],
+   "zh_hant": [
+    "滙豐",
+    "退休儲蓄",
+    "財富報告"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong investors' retirement savings target rises 7% to $9.28m, but on average only 45% saved",
+   "zh_hans": "港人退休目标928万升7% 平均只储够四成半",
+   "zh_hant": "港人退休目標928萬升7% 平均只儲夠四成半"
+  }
  },
  {
   "category": "finance",
@@ -2738,46 +2818,6 @@
   }
  },
  {
-  "category": "hk",
-  "id": "20261123-poultry-import-suspension-bird-flu",
-  "image_caption": "",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：英美加日爆禽流感，香港即時暫停進口禽肉禽蛋。場景：陽光下的現代食品檢驗中心，檢驗人員檢查禽肉樣本，冷鏈貨櫃與檢疫設施，藍白專業色調，氣氛嚴謹有序。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「英美加日爆禽流感」，第二行黃字寫「港即時暫停進口禽肉禽蛋」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_r2_key": "",
-  "image_url": "",
-  "published_at": "2026-11-23T18:40:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300553.htm"
-  },
-  "summary": {
-   "en": "The Centre for Food Safety announced today that it has instructed the trade to suspend with immediate effect the import of poultry meat and products, including poultry eggs, from areas in Canada, the United Kingdom, the United States and Japan, after notifications of highly pathogenic H5N1 avian influenza outbreaks in parts of Canada, the UK and the US, and a highly pathogenic H5 outbreak in Aichi Prefecture, Japan. In the first nine months of this year, Hong Kong imported about 33,270 tonnes of chilled and frozen poultry meat and about 92.33 million poultry eggs from the US, about 1,030 tonnes of frozen poultry meat and about 249.94 million poultry eggs from Japan, and about 680 tonnes of poultry meat and about 220,000 poultry eggs from the UK; no poultry meat or eggs were imported from Canada in the same period. The Centre has contacted the authorities of the four places and will closely monitor the situation.",
-   "zh_hans": "食安中心今日宣布，因应世界动物卫生组织通报加拿大、英国及美国部分地区爆发高致病性H5N1禽流感，以及日本爱知县爆发高致病性H5禽流感，即时指示业界暂停从有关地区进口禽肉及禽类产品，包括禽蛋。今年首九个月，本港从美国进口约33,270吨冷藏及冷冻禽肉及约9,233万只禽蛋，从日本进口约1,030吨冷冻禽肉及约2.5亿只禽蛋，从英国进口约680吨禽肉及22万只禽蛋；同期并无从加拿大进口禽肉或禽蛋。食安中心已联络四地当局，会密切监察疫情发展。",
-   "zh_hant": "食安中心今日宣布，因應世界動物衞生組織通報加拿大、英國及美國部分地區爆發高致病性H5N1禽流感，以及日本愛知縣爆發高致病性H5禽流感，即時指示業界暫停從有關地區進口禽肉及禽類產品，包括禽蛋。今年首九個月，本港從美國進口約33,270噸冷藏及冷凍禽肉及約9,233萬隻禽蛋，從日本進口約1,030噸冷凍禽肉及約2.5億隻禽蛋，從英國進口約680噸禽肉及22萬隻禽蛋；同期並無從加拿大進口禽肉或禽蛋。食安中心已聯絡四地當局，會密切監察疫情發展。"
-  },
-  "tags": {
-   "en": [
-    "avian influenza",
-    "poultry import suspension",
-    "Centre for Food Safety"
-   ],
-   "zh_hans": [
-    "禽流感",
-    "暂停进口",
-    "食安中心"
-   ],
-   "zh_hant": [
-    "禽流感",
-    "暫停進口",
-    "食安中心"
-   ]
-  },
-  "title": {
-   "en": "Hong Kong suspends poultry imports from parts of Canada, UK, US and Japan after bird flu outbreaks",
-   "zh_hans": "英美加日爆禽流感 港即时暂停进口禽肉禽蛋",
-   "zh_hant": "英美加日爆禽流感 港即時暫停進口禽肉禽蛋"
-  }
- },
- {
   "category": "finance",
   "id": "20261123-bea-fraudulent-website-hkma-alert",
   "image_caption": "",
@@ -2855,46 +2895,6 @@
    "en": "Mark Six trials 'crowd-boost' snowball as Tuesday jackpot estimated at $73m",
    "zh_hans": "六合彩首试集气加码制 明晚金多宝头奖料7300万",
    "zh_hant": "六合彩首試集氣加碼制 明晚金多寶頭獎料7300萬"
-  }
- },
- {
-  "category": "finance",
-  "id": "20261123-hsbc-retirement-savings-target",
-  "image_caption": "",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：港人退休目標928萬升7%，平均只儲夠四成半。場景：明亮現代的銀行理財中心，一對中年夫婦與理財顧問傾談退休計劃，窗外維港日景，專業從容，氣氛溫暖光亮。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「港人退休目標928萬升7%」，第二行黃字寫「平均只儲夠四成半缺口難填」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_r2_key": "",
-  "image_url": "",
-  "published_at": "2026-11-23T10:21:00+08:00",
-  "source": {
-   "name": "明報",
-   "url": "https://finance.mingpao.com/fin/instantf/20261123/1795401729955/%e5%8c%af%e8%b1%90%e8%aa%bf%e6%9f%a5-%e6%b8%af%e4%ba%ba%e9%80%80%e4%bc%91%e5%84%b2%e8%93%84%e7%9b%ae%e6%a8%99%e6%8c%89%e5%b9%b4%e5%8d%877-%e8%87%b3928%e8%90%ac%e5%85%83"
-  },
-  "summary": {
-   "en": "HSBC has published its global Modern Wealth Report, based on an Ipsos survey of 9,993 affluent and high-net-worth investors across 10 markets. Hong Kong investors' retirement savings target rose 7 per cent from 2025 to US$1.19 million (about HK$9.28 million), but on average they have achieved only 45 per cent of the target, and the gap is becoming harder to close as financial needs grow at different life stages. The survey also found 95 per cent of Hong Kong investors are rethinking how they pass on wealth, 77 per cent expect to retire gradually or flexibly rather than stop working outright, and their top financial considerations are future healthcare needs (37 per cent), lifestyle (33 per cent) and experiences (33 per cent).",
-   "zh_hans": "汇丰发表环球《现代财富报告》，根据益普索调查，访问10个市场共9,993名富裕及高净值投资者。调查显示，香港投资者的退休储蓄目标较2025年上升7%，达119万美元（约928万港元），但平均只达成目标的45%，随着人生步入不同阶段、财务需求日增，填补缺口愈见困难。调查亦发现，95%香港投资者正重新思考财富传承方式；77%预期会逐步或以弹性方式退休，而非直接停止工作；未来医疗需求（37%）、生活方式（33%）及体验（33%）是主要理财考虑。",
-   "zh_hant": "滙豐發表環球《現代財富報告》，根據益普索調查，訪問10個市場共9,993名富裕及高淨值投資者。調查顯示，香港投資者的退休儲蓄目標較2025年上升7%，達119萬美元（約928萬港元），但平均只達成目標的45%，隨着人生步入不同階段、財務需求日增，填補缺口愈見困難。調查亦發現，95%香港投資者正重新思考財富傳承方式；77%預期會逐步或以彈性方式退休，而非直接停止工作；未來醫療需求（37%）、生活方式（33%）及體驗（33%）是主要理財考慮。"
-  },
-  "tags": {
-   "en": [
-    "HSBC",
-    "retirement savings",
-    "Modern Wealth Report"
-   ],
-   "zh_hans": [
-    "汇丰",
-    "退休储蓄",
-    "财富报告"
-   ],
-   "zh_hant": [
-    "滙豐",
-    "退休儲蓄",
-    "財富報告"
-   ]
-  },
-  "title": {
-   "en": "Hong Kong investors' retirement savings target rises 7% to $9.28m, but on average only 45% saved",
-   "zh_hans": "港人退休目标928万升7% 平均只储够四成半",
-   "zh_hant": "港人退休目標928萬升7% 平均只儲夠四成半"
   }
  }
 ]
