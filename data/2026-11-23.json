@@ -789,6 +789,45 @@
   "image_r2_key": "design/202611/20261123-hk-electric-78m-smart-power-v2.jpg"
  },
  {
+  "category": "finance",
+  "id": "20261123-legco-shipping-tax-bill-second-reading",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：立法會星期三復會，恢復航運及大宗商品交易稅務寬免草案二讀辯論。場景：陽光下的立法會綜合大樓外觀，玻璃幕牆與金色外框清晰可見，藍天白雲，氣氛莊重明亮。風格：寫實莊重，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「立法會周三復會二讀航運稅務寬免草案」，第二行黃字寫「涉船務及商品交易優惠」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-legco-shipping-tax-bill-second-reading-v2.jpg",
+  "published_at": "2026-11-23T16:10:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300484.htm"
+  },
+  "summary": {
+   "en": "The Legislative Council will meet at 11am on Wednesday (November 25) to resume the second reading debate on the Inland Revenue (Amendment) (Tax Concessions for Shipping-related Activities and Physical Commodity Trading) Bill 2026. If supported by Members and passed at second reading, the bill will go to the committee of the whole Council before a third reading. Second readings will also resume on the Supplementary Appropriation (2025-2026) Bill and the Environment and Conservation Fund (Amendment) Bill 2026, while four other bills — on MPF schemes, sexual offences legislation, a medical products regulation centre and education — will be introduced for first reading. Members will also debate motions on medical insurance and Hong Kong's role in the country's aerospace development, and put 22 questions to the Government.",
+   "zh_hans": "立法会将于星期三（11月25日）上午11时举行会议，恢复《2026年税务（修订）（航运相关活动及实物商品交易的税务宽免）条例草案》的二读辩论。如获议员支持通过二读，草案将交付全体委员会审议，其后进行三读。同日亦会恢复《2025-2026年追加拨款条例草案》及《环境及自然保育基金（修订）条例草案》的二读辩论；强积金、性罪行法例修订、医药产品规管中心及教育修订等四项草案则会首读。议员亦会就医疗保险成效及香港参与国家航天发展等议题提出动议，并向政府提出22项质询。",
+   "zh_hant": "立法會將於星期三（11月25日）上午11時舉行會議，恢復《2026年稅務（修訂）（航運相關活動及實物商品交易的稅務寬免）條例草案》的二讀辯論。如獲議員支持通過二讀，草案將交付全體委員會審議，其後進行三讀。同日亦會恢復《2025-2026年追加撥款條例草案》及《環境及自然保育基金（修訂）條例草案》的二讀辯論；強積金、性罪行法例修訂、醫藥產品規管中心及教育修訂等四項草案則會首讀。議員亦會就醫療保險成效及香港參與國家航天發展等議題提出動議，並向政府提出22項質詢。"
+  },
+  "tags": {
+   "en": [
+    "Legislative Council",
+    "Shipping",
+    "Tax Concessions"
+   ],
+   "zh_hans": [
+    "立法会",
+    "航运",
+    "税务宽免"
+   ],
+   "zh_hant": [
+    "立法會",
+    "航運",
+    "稅務寬免"
+   ]
+  },
+  "title": {
+   "en": "LegCo to resume second reading of shipping tax concessions bill on Wednesday",
+   "zh_hans": "立法会周三复会二读航运税务宽免草案 涉船务及商品交易优惠",
+   "zh_hant": "立法會周三復會二讀航運稅務寬免草案 涉船務及商品交易優惠"
+  },
+  "image_r2_key": "design/202611/20261123-legco-shipping-tax-bill-second-reading-v2.jpg"
+ },
+ {
   "category": "tech",
   "id": "20261123-honor-700-series-launch",
   "image_prompt": "電視新聞圖卡風格，16:9。事實：榮耀700系列武漢發佈，全系2億像素主攝、9000mAh電池，國補價2899元人民幣起。場景：陽光下的現代科技發佈會舞台，大屏幕只顯示柔和光影、沒有任何文字，觀眾席座無虛席，氣氛熱鬧明亮。風格：寫實熱鬧，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「榮耀700系列武漢發佈」，第二行黃字寫「2億像素 9000mAh電池 2899元起」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
@@ -1062,6 +1101,45 @@
    "zh_hant": "轉數快11月29日凌晨系統提升 暫停服務10小時 宜預早安排付款"
   },
   "image_r2_key": "design/202611/20261123-fps-system-enhancement-nov-29-v2.jpg"
+ },
+ {
+  "category": "tech",
+  "id": "20261123-zhipu-glm-5-4-release",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：智譜發佈GLM-5.4，首次加入視覺能力，支援百萬上下文，編程配額增五成。場景：陽光明亮的現代辦公室，開發者對着大屏幕工作，屏幕顯示抽象幾何圖形與色彩區塊，窗外藍天白雲，氣氛專業明亮。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「智譜發佈GLM-5.4新增視覺能力」，第二行黃字寫「支援百萬上下文 編程配額增五成」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-zhipu-glm-5-4-release-v2.jpg",
+  "published_at": "2026-11-23T14:51:00+08:00",
+  "source": {
+   "name": "TechNode",
+   "url": "https://technode.com/2026/11/23/zhipu-rolls-out-glm-5-4-with-vision-and-million-token-context/"
+  },
+  "summary": {
+   "en": "Zhipu (Z.ai) has rolled out GLM-5.4, its next-generation coding model, to all GLM Coding Plan subscribers, adding vision capabilities to the flagship for the first time so developers can debug from screenshots and build front-end interfaces with visual context. The model supports a one-million-token context window and is built on a Loop Transformer architecture that runs 28 layers of its roughly 750-billion-parameter base twice; Zhipu says its overall capability is comparable to models in the 2–3 trillion parameter class. Weekly usage quotas rise 50% over GLM-5.3, while standard API access and open weights are pending safety evaluation, with benchmark scores and pricing yet to be announced.",
+   "zh_hans": "智谱（Z.ai）今日向所有GLM Coding Plan订户全面推出新一代编程模型GLM-5.4，首次在旗舰模型加入视觉能力，可直接处理图片输入，方便开发者对照截图除错及开发前端界面。模型支持100万token上下文，采用Loop Transformer架构，约7500亿参数底层的28层重复运行两次，智谱称整体能力可媲美2至3万亿参数级模型。订户的每周使用配额较GLM-5.3增加五成；标准API及开源权重则有待安全评估后推出，暂未公布基准成绩及定价。",
+   "zh_hant": "智譜（Z.ai）今日向所有GLM Coding Plan訂戶全面推出新一代編程模型GLM-5.4，首次在旗艦模型加入視覺能力，可直接處理圖片輸入，方便開發者對照截圖除錯及開發前端介面。模型支援100萬token上下文，採用Loop Transformer架構，約7,500億參數底層的28層重複運行兩次，智譜稱整體能力可媲美2至3萬億參數級模型。訂戶的每周使用配額較GLM-5.3增加五成；標準API及開源權重則有待安全評估後推出，暫未公布基準成績及定價。"
+  },
+  "tags": {
+   "en": [
+    "Zhipu",
+    "GLM-5.4",
+    "Artificial Intelligence"
+   ],
+   "zh_hans": [
+    "智谱",
+    "GLM-5.4",
+    "人工智能"
+   ],
+   "zh_hant": [
+    "智譜",
+    "GLM-5.4",
+    "人工智能"
+   ]
+  },
+  "title": {
+   "en": "Zhipu rolls out GLM-5.4 with vision and million-token context as coding quotas rise 50%",
+   "zh_hans": "智谱发布GLM-5.4新增视觉能力 支持百万上下文 编程配额增五成",
+   "zh_hant": "智譜發佈GLM-5.4新增視覺能力 支援百萬上下文 編程配額增五成"
+  },
+  "image_r2_key": "design/202611/20261123-zhipu-glm-5-4-release-v2.jpg"
  },
  {
   "category": "hk",
@@ -2898,80 +2976,43 @@
   "image_r2_key": "design/202611/20261123-tai-po-dog-hanging-man-arrested-v2.jpg"
  },
  {
-  "category": "finance",
-  "id": "20261123-legco-shipping-tax-bill-second-reading",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：立法會星期三復會，恢復航運及大宗商品交易稅務寬免草案二讀辯論。場景：陽光下的立法會綜合大樓外觀，玻璃幕牆與金色外框清晰可見，藍天白雲，氣氛莊重明亮。風格：寫實莊重，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「立法會周三復會二讀航運稅務寬免草案」，第二行黃字寫「涉船務及商品交易優惠」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T16:10:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300484.htm"
-  },
-  "summary": {
-   "en": "The Legislative Council will meet at 11am on Wednesday (November 25) to resume the second reading debate on the Inland Revenue (Amendment) (Tax Concessions for Shipping-related Activities and Physical Commodity Trading) Bill 2026. If supported by Members and passed at second reading, the bill will go to the committee of the whole Council before a third reading. Second readings will also resume on the Supplementary Appropriation (2025-2026) Bill and the Environment and Conservation Fund (Amendment) Bill 2026, while four other bills — on MPF schemes, sexual offences legislation, a medical products regulation centre and education — will be introduced for first reading. Members will also debate motions on medical insurance and Hong Kong's role in the country's aerospace development, and put 22 questions to the Government.",
-   "zh_hans": "立法会将于星期三（11月25日）上午11时举行会议，恢复《2026年税务（修订）（航运相关活动及实物商品交易的税务宽免）条例草案》的二读辩论。如获议员支持通过二读，草案将交付全体委员会审议，其后进行三读。同日亦会恢复《2025-2026年追加拨款条例草案》及《环境及自然保育基金（修订）条例草案》的二读辩论；强积金、性罪行法例修订、医药产品规管中心及教育修订等四项草案则会首读。议员亦会就医疗保险成效及香港参与国家航天发展等议题提出动议，并向政府提出22项质询。",
-   "zh_hant": "立法會將於星期三（11月25日）上午11時舉行會議，恢復《2026年稅務（修訂）（航運相關活動及實物商品交易的稅務寬免）條例草案》的二讀辯論。如獲議員支持通過二讀，草案將交付全體委員會審議，其後進行三讀。同日亦會恢復《2025-2026年追加撥款條例草案》及《環境及自然保育基金（修訂）條例草案》的二讀辯論；強積金、性罪行法例修訂、醫藥產品規管中心及教育修訂等四項草案則會首讀。議員亦會就醫療保險成效及香港參與國家航天發展等議題提出動議，並向政府提出22項質詢。"
-  },
-  "tags": {
-   "en": [
-    "Legislative Council",
-    "Shipping",
-    "Tax Concessions"
-   ],
-   "zh_hans": [
-    "立法会",
-    "航运",
-    "税务宽免"
-   ],
-   "zh_hant": [
-    "立法會",
-    "航運",
-    "稅務寬免"
-   ]
-  },
-  "title": {
-   "en": "LegCo to resume second reading of shipping tax concessions bill on Wednesday",
-   "zh_hans": "立法会周三复会二读航运税务宽免草案 涉船务及商品交易优惠",
-   "zh_hant": "立法會周三復會二讀航運稅務寬免草案 涉船務及商品交易優惠"
-  }
- },
- {
   "category": "tech",
-  "id": "20261123-zhipu-glm-5-4-release",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：智譜發佈GLM-5.4，首次加入視覺能力，支援百萬上下文，編程配額增五成。場景：陽光明亮的現代辦公室，開發者對着大屏幕工作，屏幕顯示抽象幾何圖形與色彩區塊，窗外藍天白雲，氣氛專業明亮。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「智譜發佈GLM-5.4新增視覺能力」，第二行黃字寫「支援百萬上下文 編程配額增五成」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T14:51:00+08:00",
+  "id": "20261123-us-house-report-chinese-ai-models",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：美國眾議院報告指中國開源AI模型已滲透美國主流產品，Cursor擬棄用Kimi，促聯邦系統禁用。場景：陽光明亮的現代數據中心走廊，伺服器機櫃整齊排列，藍色指示燈閃爍，地面光潔反光，氣氛專業明亮。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「美眾院報告揭中系AI模型滲透美企」，第二行黃字寫「Cursor擬棄用Kimi 促聯邦禁用」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-us-house-report-chinese-ai-models-v2.jpg",
+  "published_at": "2026-11-21T14:09:00+08:00",
   "source": {
-   "name": "TechNode",
-   "url": "https://technode.com/2026/11/23/zhipu-rolls-out-glm-5-4-with-vision-and-million-token-context/"
+   "name": "美國眾議院",
+   "url": "https://homeland.house.gov/wp-content/uploads/2026/11/2026.11.20-Joint-Report-PRC-AI-Models.pdf"
   },
   "summary": {
-   "en": "Zhipu (Z.ai) has rolled out GLM-5.4, its next-generation coding model, to all GLM Coding Plan subscribers, adding vision capabilities to the flagship for the first time so developers can debug from screenshots and build front-end interfaces with visual context. The model supports a one-million-token context window and is built on a Loop Transformer architecture that runs 28 layers of its roughly 750-billion-parameter base twice; Zhipu says its overall capability is comparable to models in the 2–3 trillion parameter class. Weekly usage quotas rise 50% over GLM-5.3, while standard API access and open weights are pending safety evaluation, with benchmark scores and pricing yet to be announced.",
-   "zh_hans": "智谱（Z.ai）今日向所有GLM Coding Plan订户全面推出新一代编程模型GLM-5.4，首次在旗舰模型加入视觉能力，可直接处理图片输入，方便开发者对照截图除错及开发前端界面。模型支持100万token上下文，采用Loop Transformer架构，约7500亿参数底层的28层重复运行两次，智谱称整体能力可媲美2至3万亿参数级模型。订户的每周使用配额较GLM-5.3增加五成；标准API及开源权重则有待安全评估后推出，暂未公布基准成绩及定价。",
-   "zh_hant": "智譜（Z.ai）今日向所有GLM Coding Plan訂戶全面推出新一代編程模型GLM-5.4，首次在旗艦模型加入視覺能力，可直接處理圖片輸入，方便開發者對照截圖除錯及開發前端介面。模型支援100萬token上下文，採用Loop Transformer架構，約7,500億參數底層的28層重複運行兩次，智譜稱整體能力可媲美2至3萬億參數級模型。訂戶的每周使用配額較GLM-5.3增加五成；標準API及開源權重則有待安全評估後推出，暫未公布基準成績及定價。"
+   "en": "Two US House committees have released a 50-page joint report finding that Chinese-developed open-weight AI models are already deeply embedded across the American economy, and urging their exclusion from federal systems and critical infrastructure. The report singles out Cursor, the SpaceX-owned coding platform, whose flagship Composer 2 model was built on Moonshot AI's Kimi K2.5; developer Anysphere said it plans to explore phasing out Chinese models. Airbnb told investigators its customer assistants run on Alibaba's Qwen, handling 80,000 interactions and 250,000 support-call summaries a day, while DoorDash reported deploying 25 Chinese model families, saying replacement could take up to six months. The report also found Chinese developers used proxy networks and fraudulent accounts to harvest outputs from American frontier models, and set out 12 policy recommendations. The Trump administration is separately weighing requiring US firms to disclose their use of Chinese AI models.",
+   "zh_hans": "美国众议院国土安全委员会与中国问题特别委员会发表50页联合调查报告，指中国开发的开源AI模型已深入渗透美国经济，建议将其排除于联邦系统及关键基建之外。报告点名SpaceX旗下编程平台Cursor，其旗舰模型Composer 2以月之暗面的Kimi K2.5为底层，开发商已表示会探讨逐步弃用中国模型；Airbnb每日以阿里巴巴Qwen模型处理约8万次对话及25万次客服摘要，DoorDash则部署25个中国模型家族，替换需时最长6个月。报告亦指中国开发商曾利用代理网络及虚假账户，窃取美国前沿模型输出以复制其能力，并提出12项政策建议。特朗普政府亦正考虑要求美企公开披露使用中国AI模型的情况。",
+   "zh_hant": "美國眾議院國土安全委員會與中國問題特別委員會發表50頁聯合調查報告，指中國開發的開源AI模型已深入滲透美國經濟，建議將其排除於聯邦系統及關鍵基建之外。報告點名SpaceX旗下編程平台Cursor，其旗艦模型Composer 2以月之暗面Kimi K2.5為底層，開發商已表示會探討逐步棄用中國模型；Airbnb每日以阿里巴巴Qwen模型處理約8萬次對話及25萬次客服摘要，DoorDash則部署25個中國模型家族，替換需時最長6個月。報告亦指中國開發商曾利用代理網絡及虛假帳戶，竊取美國前沿模型輸出以複製其能力，並提出12項政策建議。特朗普政府亦正考慮要求美企公開披露使用中國AI模型的情況。"
   },
   "tags": {
    "en": [
-    "Zhipu",
-    "GLM-5.4",
-    "Artificial Intelligence"
+    "Artificial Intelligence",
+    "Chinese AI Models",
+    "US House"
    ],
    "zh_hans": [
-    "智谱",
-    "GLM-5.4",
-    "人工智能"
+    "人工智能",
+    "中国AI模型",
+    "美国众议院"
    ],
    "zh_hant": [
-    "智譜",
-    "GLM-5.4",
-    "人工智能"
+    "人工智能",
+    "中國AI模型",
+    "美國眾議院"
    ]
   },
   "title": {
-   "en": "Zhipu rolls out GLM-5.4 with vision and million-token context as coding quotas rise 50%",
-   "zh_hans": "智谱发布GLM-5.4新增视觉能力 支持百万上下文 编程配额增五成",
-   "zh_hant": "智譜發佈GLM-5.4新增視覺能力 支援百萬上下文 編程配額增五成"
-  }
+   "en": "US House report finds Chinese AI models embedded across American firms as Cursor weighs dropping Kimi",
+   "zh_hans": "美众院报告揭中系AI模型渗透美企 Cursor拟弃用Kimi 促联邦禁用",
+   "zh_hant": "美眾院報告揭中系AI模型滲透美企 Cursor擬棄用Kimi 促聯邦禁用"
+  },
+  "image_r2_key": "design/202611/20261123-us-house-report-chinese-ai-models-v2.jpg"
  },
  {
   "category": "world",
@@ -3009,44 +3050,6 @@
    "en": "Trump blames Democrats for market rout and Iran escalation as Wall Street suffers worst week since Covid",
    "zh_hans": "特朗普归咎民主党酿股灾 伊朗加剧挑衅 美股三大指数一周重挫",
    "zh_hant": "特朗普歸咎民主黨釀股災 伊朗加劇挑釁 美股三大指數一周重挫"
-  }
- },
- {
-  "category": "tech",
-  "id": "20261123-us-house-report-chinese-ai-models",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：美國眾議院報告指中國開源AI模型已滲透美國主流產品，Cursor擬棄用Kimi，促聯邦系統禁用。場景：陽光明亮的現代數據中心走廊，伺服器機櫃整齊排列，藍色指示燈閃爍，地面光潔反光，氣氛專業明亮。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「美眾院報告揭中系AI模型滲透美企」，第二行黃字寫「Cursor擬棄用Kimi 促聯邦禁用」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-21T14:09:00+08:00",
-  "source": {
-   "name": "美國眾議院",
-   "url": "https://homeland.house.gov/wp-content/uploads/2026/11/2026.11.20-Joint-Report-PRC-AI-Models.pdf"
-  },
-  "summary": {
-   "en": "Two US House committees have released a 50-page joint report finding that Chinese-developed open-weight AI models are already deeply embedded across the American economy, and urging their exclusion from federal systems and critical infrastructure. The report singles out Cursor, the SpaceX-owned coding platform, whose flagship Composer 2 model was built on Moonshot AI's Kimi K2.5; developer Anysphere said it plans to explore phasing out Chinese models. Airbnb told investigators its customer assistants run on Alibaba's Qwen, handling 80,000 interactions and 250,000 support-call summaries a day, while DoorDash reported deploying 25 Chinese model families, saying replacement could take up to six months. The report also found Chinese developers used proxy networks and fraudulent accounts to harvest outputs from American frontier models, and set out 12 policy recommendations. The Trump administration is separately weighing requiring US firms to disclose their use of Chinese AI models.",
-   "zh_hans": "美国众议院国土安全委员会与中国问题特别委员会发表50页联合调查报告，指中国开发的开源AI模型已深入渗透美国经济，建议将其排除于联邦系统及关键基建之外。报告点名SpaceX旗下编程平台Cursor，其旗舰模型Composer 2以月之暗面的Kimi K2.5为底层，开发商已表示会探讨逐步弃用中国模型；Airbnb每日以阿里巴巴Qwen模型处理约8万次对话及25万次客服摘要，DoorDash则部署25个中国模型家族，替换需时最长6个月。报告亦指中国开发商曾利用代理网络及虚假账户，窃取美国前沿模型输出以复制其能力，并提出12项政策建议。特朗普政府亦正考虑要求美企公开披露使用中国AI模型的情况。",
-   "zh_hant": "美國眾議院國土安全委員會與中國問題特別委員會發表50頁聯合調查報告，指中國開發的開源AI模型已深入滲透美國經濟，建議將其排除於聯邦系統及關鍵基建之外。報告點名SpaceX旗下編程平台Cursor，其旗艦模型Composer 2以月之暗面Kimi K2.5為底層，開發商已表示會探討逐步棄用中國模型；Airbnb每日以阿里巴巴Qwen模型處理約8萬次對話及25萬次客服摘要，DoorDash則部署25個中國模型家族，替換需時最長6個月。報告亦指中國開發商曾利用代理網絡及虛假帳戶，竊取美國前沿模型輸出以複製其能力，並提出12項政策建議。特朗普政府亦正考慮要求美企公開披露使用中國AI模型的情況。"
-  },
-  "tags": {
-   "en": [
-    "Artificial Intelligence",
-    "Chinese AI Models",
-    "US House"
-   ],
-   "zh_hans": [
-    "人工智能",
-    "中国AI模型",
-    "美国众议院"
-   ],
-   "zh_hant": [
-    "人工智能",
-    "中國AI模型",
-    "美國眾議院"
-   ]
-  },
-  "title": {
-   "en": "US House report finds Chinese AI models embedded across American firms as Cursor weighs dropping Kimi",
-   "zh_hans": "美众院报告揭中系AI模型渗透美企 Cursor拟弃用Kimi 促联邦禁用",
-   "zh_hant": "美眾院報告揭中系AI模型滲透美企 Cursor擬棄用Kimi 促聯邦禁用"
   }
  }
 ]
