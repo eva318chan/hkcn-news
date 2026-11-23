@@ -3,7 +3,7 @@
   "category": "world",
   "id": "20261124-trump-iran-progress-oil-plunge",
   "image_prompt": "電視新聞圖卡風格，16:9。事實：特朗普宣布與伊朗談判有進展，暫停轟炸伊朗能源基建五日，油價急挫一成，美股期貨反彈。場景：陽光下的紐約證券交易所外觀，華爾街街道，美國國旗飄揚，藍天白雲，氣氛緊張但明亮。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「特朗普宣布伊朗談判有進展」，第二行黃字寫「停轟五日 油價急挫一成 美股期貨反彈」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261124-trump-iran-progress-oil-plunge-v2.jpg",
   "published_at": "2026-11-24T00:40:00+08:00",
   "source": {
    "name": "The Well News",
@@ -35,6 +35,7 @@
    "en": "Trump says Iran talks making progress with five-day halt on strikes as oil plunges 10% and US futures rebound",
    "zh_hans": "特朗普宣布伊朗谈判有进展 停轰五日 油价急挫一成 美股期货反弹",
    "zh_hant": "特朗普宣布伊朗談判有進展 停轟五日 油價急挫一成 美股期貨反彈"
-  }
+  },
+  "image_r2_key": "design/202611/20261124-trump-iran-progress-oil-plunge-v2.jpg"
  }
 ]

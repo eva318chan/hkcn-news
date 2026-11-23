@@ -1,6 +1,123 @@
 [
  {
   "category": "hk",
+  "id": "20261123-tst-crash-driver-charged",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：寶勒巷奪命車禍，38歲司機被控危險駕駛引致他人死亡等多項罪名，明早九龍城裁判法院提堂。場景：夜晚香港市區街道，警車與救護車紅藍燈光照亮路面，警方封鎖線，氣氛嚴肅緊張，光線明亮清晰。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「寶勒巷奪命車禍」，第二行黃字寫「38歲司機被控危駕致死等罪 明早提堂」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-tst-crash-driver-charged-refill.jpg",
+  "published_at": "2026-11-23T23:07:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878988-20261123.htm"
+  },
+  "summary": {
+   "en": "A 38-year-old driver has been charged over Sunday's fatal crash in Bowring Street, Tsim Sha Tsui, which killed one person and injured three. Police say he faces charges including dangerous driving causing death, failing to report an accident and driving while disqualified, and will appear at Kowloon City Magistrates' Court on Tuesday morning. The car had first hit a traffic sign pole on Minden Row and a parked light goods vehicle on Hart Avenue before turning into Bowring Street and hitting four pedestrians. The driver fled on foot before being caught by police; a preliminary breath test showed he was over the legal alcohol limit.",
+   "zh_hans": "尖沙咀宝勒巷周日致命车祸有新进展：38岁男司机被警方暂控危险驾驶引致他人死亡、发生意外后没有报案及被取消驾驶资格期间驾驶等多项罪名，明早在九龙城裁判法院提堂。警方指司机驾车驶入宝勒巷前，先后在缅甸台撞倒交通标志柱、在赫德道撞向一辆停泊的轻型货车，之后右转入宝勒巷撞倒4名途人，造成1死3伤。司机事后下车逃离现场，有市民尾随并报警；初步酒精呼气测试显示他体内酒精浓度超过法例上限。",
+   "zh_hant": "尖沙咀寶勒巷周日致命車禍有新進展：38歲男司機被警方暫控危險駕駛引致他人死亡、發生意外後沒有報案及被取消駕駛資格期間駕駛等多項罪名，明早在九龍城裁判法院提堂。警方指司機駕車駛入寶勒巷前，先後在緬甸臺撞倒交通標誌柱、在赫德道撞向一輛停泊的輕型貨車，之後右轉入寶勒巷撞倒4名途人，造成1死3傷。司機事後下車逃離現場，有市民尾隨並報警；初步酒精呼氣測試顯示他體內酒精濃度超過法例上限。"
+  },
+  "tags": {
+   "en": [
+    "Tsim Sha Tsui",
+    "Bowring Street",
+    "Fatal Crash"
+   ],
+   "zh_hans": [
+    "尖沙咀",
+    "宝勒巷",
+    "夺命车祸"
+   ],
+   "zh_hant": [
+    "尖沙咀",
+    "寶勒巷",
+    "奪命車禍"
+   ]
+  },
+  "title": {
+   "en": "Bowring Street fatal crash driver charged with dangerous driving causing death, to appear in court on Tuesday morning",
+   "zh_hans": "宝勒巷夺命车祸 38岁司机被控危驾致死等罪 明早九龙城提堂",
+   "zh_hant": "寶勒巷奪命車禍 38歲司機被控危駕致死等罪 明早九龍城提堂"
+  },
+  "image_r2_key": "design/202611/20261123-tst-crash-driver-charged-refill.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261123-huang-reinstated-nvidia-ceo",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：輝達董事會恢復黃仁勳擔任行政總裁，特朗普讚揚決定正確，稱無理由相信構成國家安全風險。場景：陽光下的現代科技公司總部大樓，玻璃幕牆反射藍天，晶片與電路板元素點綴，氣氛專業明亮。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「輝達董事會恢復黃仁勳任CEO」，第二行黃字寫「特朗普：無理由相信構成國安風險」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-huang-reinstated-nvidia-ceo-refill.jpg",
+  "published_at": "2026-11-23T22:54:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878987-20261123.htm"
+  },
+  "summary": {
+   "en": "Nvidia's board has reinstated Jensen Huang as chief executive with immediate effect, ending the scandal that had engulfed the chipmaker. The board said it unanimously decided to restore Huang after a series of discussions, satisfied with his candour and leadership, and after consulting senior US government officials it was confident his return posed no national security risk. The board has also set up a committee of independent directors to investigate reports that Huang became a target of foreign intelligence, and a new national security and export control committee to oversee trade compliance. President Donald Trump praised the decision, calling Huang a great patriot and a national treasure, and said the attorney general had confirmed Washington held no evidence of any wrongdoing by him.",
+   "zh_hans": "美国芯片制造商辉达董事会宣布，卷入婚外情及国家安全丑闻的黄仁勋即时恢复担任行政总裁。董事会表示，经一连串讨论及会议后一致决定恢复他的职务，对他的坦诚及领导能力感到满意，并已听取美国政府高层意见，确信复职不会构成国家安全风险。董事会亦成立由独立董事组成的委员会，调查黄仁勋成为外国情报机构目标的报道，并新设国家安全与出口管制委员会监督贸易合规。总统特朗普赞扬董事会决定正确，形容黄仁勋是伟大的爱国者与国宝，又指司法部长已证实华府未掌握证据证明他有任何不法行为。",
+   "zh_hant": "美國晶片製造商輝達董事會宣布，捲入婚外情及國家安全醜聞的黃仁勳即時恢復擔任行政總裁。董事會表示，經一連串討論及會議後一致決定恢復他的職務，對他的坦誠及領導能力感到滿意，並已聽取美國政府高層意見，確信復職不會構成國家安全風險。董事會亦成立由獨立董事組成的委員會，調查黃仁勳成為外國情報機構目標的報道，並新設國家安全與出口管制委員會監督貿易合規。總統特朗普讚揚董事會決定正確，形容黃仁勳是偉大的愛國者與國寶，又指司法部長已證實華府未掌握證據證明他有任何不法行為。"
+  },
+  "tags": {
+   "en": [
+    "Nvidia",
+    "Jensen Huang",
+    "Donald Trump"
+   ],
+   "zh_hans": [
+    "辉达",
+    "黄仁勋",
+    "特朗普"
+   ],
+   "zh_hant": [
+    "輝達",
+    "黃仁勳",
+    "特朗普"
+   ]
+  },
+  "title": {
+   "en": "Nvidia board reinstates Jensen Huang as CEO as Trump says no reason to see national security risk",
+   "zh_hans": "辉达董事会恢复黄仁勋任CEO 特朗普：无理由相信构成国安风险",
+   "zh_hant": "輝達董事會恢復黃仁勳任CEO 特朗普：無理由相信構成國安風險"
+  },
+  "image_r2_key": "design/202611/20261123-huang-reinstated-nvidia-ceo-refill.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-cold-front-16c-wed-thu",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：冷鋒明早橫過廣東沿岸，周三及周四市區最低氣溫跌至16度，新界再低兩三度。場景：香港維港天際線，冬日清晨陰雲密布，市民穿上厚外套在海濱步行，海面微波，氣氛清涼明亮。風格：寫實清新，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「冷鋒明早橫過廣東沿岸」，第二行黃字寫「周三四市區跌至16度 新界再低兩三度」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-cold-front-16c-wed-thu-refill.jpg",
+  "published_at": "2026-11-23T22:10:00+08:00",
+  "source": {
+   "name": "ezone",
+   "url": "https://ezone.hk/article/20047658/20092967/ezone.hk"
+  },
+  "summary": {
+   "en": "The Hong Kong Observatory has issued a special weather tip: a cold front will cross the Guangdong coast on Tuesday morning, and the northeast monsoon behind it will bring strong northerly winds, cooler weather and showers, with more frequent rain at first. Wednesday and Thursday mornings will be cool, with urban temperatures dropping to around 16 degrees, two to three degrees lower in the New Territories. Residents are advised to keep warm. The Observatory also warned that high tides combined with the monsoon could push coastal water levels slightly above normal on Wednesday night, with minor flooding possible in low-lying areas.",
+   "zh_hans": "天文台发出特别天气提示，一道冷锋明早横过广东沿岸，随后的东北季候风将令本港转吹偏北强风，天气逐步转凉，有几阵雨，初时雨势较为频密。星期三及星期四早晚清凉，市区最低气温在16度左右，新界再低两三度。市民请留意天气变化，注意保暖。天文台又提醒，受天文大潮及东北季候风共同影响，预料星期三晚上沿岸水位较正常稍高，部分低洼地区可能出现轻微水浸。",
+   "zh_hant": "天文台發出特別天氣提示，一道冷鋒明早橫過廣東沿岸，隨後的東北季候風將令本港轉吹偏北強風，天氣逐步轉涼，有幾陣雨，初時雨勢較為頻密。星期三及星期四早晚清涼，市區最低氣溫在16度左右，新界再低兩三度。市民請留意天氣變化，注意保暖。天文台又提醒，受天文大潮及東北季候風共同影響，預料星期三晚上沿岸水位較正常稍高，部分低窪地區可能出現輕微水浸。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Observatory",
+    "Northeast Monsoon",
+    "Cold Weather"
+   ],
+   "zh_hans": [
+    "天文台",
+    "东北季候风",
+    "转凉"
+   ],
+   "zh_hant": [
+    "天文台",
+    "東北季候風",
+    "轉涼"
+   ]
+  },
+  "title": {
+   "en": "Cold front to cross Guangdong coast on Tuesday morning as temperatures fall to 16 degrees on Wednesday and Thursday",
+   "zh_hans": "冷锋明早横过广东沿岸 周三四市区跌至16度 新界再低两三度",
+   "zh_hant": "冷鋒明早橫過廣東沿岸 周三四市區跌至16度 新界再低兩三度"
+  },
+  "image_r2_key": "design/202611/20261123-cold-front-16c-wed-thu-refill.jpg"
+ },
+ {
+  "category": "hk",
   "id": "20261123-customs-airport-drug-cases",
   "image_caption": "海關檢獲約3.5公斤懷疑可卡因。（政府新聞處）",
   "image_prompt": "",
@@ -3052,119 +3169,5 @@
    "zh_hant": "美眾院報告揭中系AI模型滲透美企 Cursor擬棄用Kimi 促聯邦禁用"
   },
   "image_r2_key": "design/202611/20261123-us-house-report-chinese-ai-models-v2.jpg"
- },
- {
-  "category": "hk",
-  "id": "20261123-tst-crash-driver-charged",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：寶勒巷奪命車禍，38歲司機被控危險駕駛引致他人死亡等多項罪名，明早九龍城裁判法院提堂。場景：夜晚香港市區街道，警車與救護車紅藍燈光照亮路面，警方封鎖線，氣氛嚴肅緊張，光線明亮清晰。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「寶勒巷奪命車禍」，第二行黃字寫「38歲司機被控危駕致死等罪 明早提堂」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T23:07:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878988-20261123.htm"
-  },
-  "summary": {
-   "en": "A 38-year-old driver has been charged over Sunday's fatal crash in Bowring Street, Tsim Sha Tsui, which killed one person and injured three. Police say he faces charges including dangerous driving causing death, failing to report an accident and driving while disqualified, and will appear at Kowloon City Magistrates' Court on Tuesday morning. The car had first hit a traffic sign pole on Minden Row and a parked light goods vehicle on Hart Avenue before turning into Bowring Street and hitting four pedestrians. The driver fled on foot before being caught by police; a preliminary breath test showed he was over the legal alcohol limit.",
-   "zh_hans": "尖沙咀宝勒巷周日致命车祸有新进展：38岁男司机被警方暂控危险驾驶引致他人死亡、发生意外后没有报案及被取消驾驶资格期间驾驶等多项罪名，明早在九龙城裁判法院提堂。警方指司机驾车驶入宝勒巷前，先后在缅甸台撞倒交通标志柱、在赫德道撞向一辆停泊的轻型货车，之后右转入宝勒巷撞倒4名途人，造成1死3伤。司机事后下车逃离现场，有市民尾随并报警；初步酒精呼气测试显示他体内酒精浓度超过法例上限。",
-   "zh_hant": "尖沙咀寶勒巷周日致命車禍有新進展：38歲男司機被警方暫控危險駕駛引致他人死亡、發生意外後沒有報案及被取消駕駛資格期間駕駛等多項罪名，明早在九龍城裁判法院提堂。警方指司機駕車駛入寶勒巷前，先後在緬甸臺撞倒交通標誌柱、在赫德道撞向一輛停泊的輕型貨車，之後右轉入寶勒巷撞倒4名途人，造成1死3傷。司機事後下車逃離現場，有市民尾隨並報警；初步酒精呼氣測試顯示他體內酒精濃度超過法例上限。"
-  },
-  "tags": {
-   "en": [
-    "Tsim Sha Tsui",
-    "Bowring Street",
-    "Fatal Crash"
-   ],
-   "zh_hans": [
-    "尖沙咀",
-    "宝勒巷",
-    "夺命车祸"
-   ],
-   "zh_hant": [
-    "尖沙咀",
-    "寶勒巷",
-    "奪命車禍"
-   ]
-  },
-  "title": {
-   "en": "Bowring Street fatal crash driver charged with dangerous driving causing death, to appear in court on Tuesday morning",
-   "zh_hans": "宝勒巷夺命车祸 38岁司机被控危驾致死等罪 明早九龙城提堂",
-   "zh_hant": "寶勒巷奪命車禍 38歲司機被控危駕致死等罪 明早九龍城提堂"
-  }
- },
- {
-  "category": "world",
-  "id": "20261123-huang-reinstated-nvidia-ceo",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：輝達董事會恢復黃仁勳擔任行政總裁，特朗普讚揚決定正確，稱無理由相信構成國家安全風險。場景：陽光下的現代科技公司總部大樓，玻璃幕牆反射藍天，晶片與電路板元素點綴，氣氛專業明亮。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「輝達董事會恢復黃仁勳任CEO」，第二行黃字寫「特朗普：無理由相信構成國安風險」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T22:54:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878987-20261123.htm"
-  },
-  "summary": {
-   "en": "Nvidia's board has reinstated Jensen Huang as chief executive with immediate effect, ending the scandal that had engulfed the chipmaker. The board said it unanimously decided to restore Huang after a series of discussions, satisfied with his candour and leadership, and after consulting senior US government officials it was confident his return posed no national security risk. The board has also set up a committee of independent directors to investigate reports that Huang became a target of foreign intelligence, and a new national security and export control committee to oversee trade compliance. President Donald Trump praised the decision, calling Huang a great patriot and a national treasure, and said the attorney general had confirmed Washington held no evidence of any wrongdoing by him.",
-   "zh_hans": "美国芯片制造商辉达董事会宣布，卷入婚外情及国家安全丑闻的黄仁勋即时恢复担任行政总裁。董事会表示，经一连串讨论及会议后一致决定恢复他的职务，对他的坦诚及领导能力感到满意，并已听取美国政府高层意见，确信复职不会构成国家安全风险。董事会亦成立由独立董事组成的委员会，调查黄仁勋成为外国情报机构目标的报道，并新设国家安全与出口管制委员会监督贸易合规。总统特朗普赞扬董事会决定正确，形容黄仁勋是伟大的爱国者与国宝，又指司法部长已证实华府未掌握证据证明他有任何不法行为。",
-   "zh_hant": "美國晶片製造商輝達董事會宣布，捲入婚外情及國家安全醜聞的黃仁勳即時恢復擔任行政總裁。董事會表示，經一連串討論及會議後一致決定恢復他的職務，對他的坦誠及領導能力感到滿意，並已聽取美國政府高層意見，確信復職不會構成國家安全風險。董事會亦成立由獨立董事組成的委員會，調查黃仁勳成為外國情報機構目標的報道，並新設國家安全與出口管制委員會監督貿易合規。總統特朗普讚揚董事會決定正確，形容黃仁勳是偉大的愛國者與國寶，又指司法部長已證實華府未掌握證據證明他有任何不法行為。"
-  },
-  "tags": {
-   "en": [
-    "Nvidia",
-    "Jensen Huang",
-    "Donald Trump"
-   ],
-   "zh_hans": [
-    "辉达",
-    "黄仁勋",
-    "特朗普"
-   ],
-   "zh_hant": [
-    "輝達",
-    "黃仁勳",
-    "特朗普"
-   ]
-  },
-  "title": {
-   "en": "Nvidia board reinstates Jensen Huang as CEO as Trump says no reason to see national security risk",
-   "zh_hans": "辉达董事会恢复黄仁勋任CEO 特朗普：无理由相信构成国安风险",
-   "zh_hant": "輝達董事會恢復黃仁勳任CEO 特朗普：無理由相信構成國安風險"
-  }
- },
- {
-  "category": "hk",
-  "id": "20261123-cold-front-16c-wed-thu",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：冷鋒明早橫過廣東沿岸，周三及周四市區最低氣溫跌至16度，新界再低兩三度。場景：香港維港天際線，冬日清晨陰雲密布，市民穿上厚外套在海濱步行，海面微波，氣氛清涼明亮。風格：寫實清新，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「冷鋒明早橫過廣東沿岸」，第二行黃字寫「周三四市區跌至16度 新界再低兩三度」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T22:10:00+08:00",
-  "source": {
-   "name": "ezone",
-   "url": "https://ezone.hk/article/20047658/20092967/ezone.hk"
-  },
-  "summary": {
-   "en": "The Hong Kong Observatory has issued a special weather tip: a cold front will cross the Guangdong coast on Tuesday morning, and the northeast monsoon behind it will bring strong northerly winds, cooler weather and showers, with more frequent rain at first. Wednesday and Thursday mornings will be cool, with urban temperatures dropping to around 16 degrees, two to three degrees lower in the New Territories. Residents are advised to keep warm. The Observatory also warned that high tides combined with the monsoon could push coastal water levels slightly above normal on Wednesday night, with minor flooding possible in low-lying areas.",
-   "zh_hans": "天文台发出特别天气提示，一道冷锋明早横过广东沿岸，随后的东北季候风将令本港转吹偏北强风，天气逐步转凉，有几阵雨，初时雨势较为频密。星期三及星期四早晚清凉，市区最低气温在16度左右，新界再低两三度。市民请留意天气变化，注意保暖。天文台又提醒，受天文大潮及东北季候风共同影响，预料星期三晚上沿岸水位较正常稍高，部分低洼地区可能出现轻微水浸。",
-   "zh_hant": "天文台發出特別天氣提示，一道冷鋒明早橫過廣東沿岸，隨後的東北季候風將令本港轉吹偏北強風，天氣逐步轉涼，有幾陣雨，初時雨勢較為頻密。星期三及星期四早晚清涼，市區最低氣溫在16度左右，新界再低兩三度。市民請留意天氣變化，注意保暖。天文台又提醒，受天文大潮及東北季候風共同影響，預料星期三晚上沿岸水位較正常稍高，部分低窪地區可能出現輕微水浸。"
-  },
-  "tags": {
-   "en": [
-    "Hong Kong Observatory",
-    "Northeast Monsoon",
-    "Cold Weather"
-   ],
-   "zh_hans": [
-    "天文台",
-    "东北季候风",
-    "转凉"
-   ],
-   "zh_hant": [
-    "天文台",
-    "東北季候風",
-    "轉涼"
-   ]
-  },
-  "title": {
-   "en": "Cold front to cross Guangdong coast on Tuesday morning as temperatures fall to 16 degrees on Wednesday and Thursday",
-   "zh_hans": "冷锋明早横过广东沿岸 周三四市区跌至16度 新界再低两三度",
-   "zh_hant": "冷鋒明早橫過廣東沿岸 周三四市區跌至16度 新界再低兩三度"
-  }
  }
 ]
