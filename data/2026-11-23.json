@@ -40,6 +40,45 @@
  },
  {
   "category": "hk",
+  "id": "20261123-hongkong-post-fraud-website-warning",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：香港郵政警告假網站行騙，冒認短訊電郵索取個人資料，已報警跟進。場景：陽光下的香港郵政局外景，市民手持手機查看訊息，背景是郵政局大樓與街道，氣氛警惕而清晰。風格：寫實，色彩光亮通透，帶出防騙提醒的嚴肅感。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「香港郵政警告假網站行騙」，第二行黃字寫「冒認短訊電郵索資料 已報警跟進」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-hongkong-post-fraud-website-warning-v2.jpg",
+  "published_at": "2026-11-23T12:40:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300349.htm"
+  },
+  "summary": {
+   "en": "Hongkong Post today warned the public about a fraudulent website impersonating the postal service, along with fake SMS messages and emails purporting to come from it. The fake messages contain a hyperlink leading to a website that asks recipients to provide personal information or pay postage fees. Hongkong Post clarified it has no connection with the fake site, has reported the case to the Police, and urged the public to stay alert.",
+   "zh_hans": "香港邮政今日提醒市民，提防一个冒认香港邮政的假网站及假冒短讯或电邮。假讯息附有超连结，连往假网站要求收件人提供个人资料或缴付邮费。香港邮政澄清与该假网站无关，并已报警跟进，呼吁市民提高警觉。",
+   "zh_hant": "香港郵政今日提醒市民，提防一個冒認香港郵政的假網站及假冒短訊或電郵。假訊息附有超連結，連往假網站要求收件人提供個人資料或繳付郵費。香港郵政澄清與該假網站無關，並已報警跟進，呼籲市民提高警覺。"
+  },
+  "tags": {
+   "en": [
+    "Hongkong Post",
+    "Fake Website",
+    "Scam Alert"
+   ],
+   "zh_hans": [
+    "香港邮政",
+    "假网站",
+    "防骗"
+   ],
+   "zh_hant": [
+    "香港郵政",
+    "假網站",
+    "防騙"
+   ]
+  },
+  "title": {
+   "en": "Hongkong Post warns of fake website harvesting personal data and reports case to police",
+   "zh_hans": "香港邮政警告假网站行骗 冒认短讯电邮索个人资料 已报警跟进",
+   "zh_hant": "香港郵政警告假網站行騙 冒認短訊電郵索個人資料 已報警跟進"
+  },
+  "image_r2_key": "design/202611/20261123-hongkong-post-fraud-website-warning-v2.jpg"
+ },
+ {
+  "category": "hk",
   "id": "20261123-scs-mainland-civil-service-exchange",
   "image_caption": "公務員事務局局長楊何蓓茵（前排中）與公務員學院院長郭蔭庶（前排右五），與參加交流計劃的內地公務員合照。（政府新聞處）",
   "image_r2_key": "design/202611/20261123-scs-mainland-civil-service-exchange.jpg",
@@ -76,6 +115,45 @@
    "zh_hans": "30名内地公务员今起来港交流四星期至三个月 涵盖大湾区京沪渝武杭",
    "zh_hant": "30名內地公務員今起來港交流四星期至三個月 涵蓋大灣區京滬渝武杭"
   }
+ },
+ {
+  "category": "hk",
+  "id": "20261123-ha-chairman-chan-kin-por-dec-1",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：醫管局新主席陳健波12月1日上任，任期兩年，范鴻齡卸任獲致謝。場景：陽光明媚的公立醫院大樓外景，醫護人員與市民在明亮的大堂進出，背景是現代化醫院建築與藍天，氣氛專業而安心。風格：寫實莊重，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「醫管局新主席陳健波12月1日上任」，第二行黃字寫「任期兩年 范鴻齡卸任獲致謝」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-ha-chairman-chan-kin-por-dec-1-v2.jpg",
+  "published_at": "2026-11-23T11:13:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300233.htm"
+  },
+  "summary": {
+   "en": "The Government announced that the Chief Executive has appointed Chan Kin-por as Chairman of the Hospital Authority, alongside one new member and six reappointed members, for two-year terms from December 1, 2026. Chan is currently an Executive Council member, an independent non-executive director of Hong Kong Exchanges and Clearing, and chairman of the ICAC Advisory Committee. The Authority welcomed the appointment and paid tribute to outgoing chairman Henry Fan.",
+   "zh_hans": "政府宣布，行政长官委任陈健波为医院管理局主席，同时委任一名新成员及续任六名现任成员，任期两年，由12月1日起生效。陈健波现为行政会议成员、港交所独立非执行董事及廉政公署咨询委员会主席，医管局欢迎任命，并向即将卸任的主席范鸿龄致谢。",
+   "zh_hant": "政府宣布，行政長官委任陳健波為醫院管理局主席，同時委任一名新成員及續任六名現任成員，任期兩年，由12月1日起生效。陳健波現為行政會議成員、港交所獨立非執行董事及廉政公署諮詢委員會主席，醫管局歡迎任命，並向即將卸任的主席范鴻齡致謝。"
+  },
+  "tags": {
+   "en": [
+    "Hospital Authority",
+    "Chan Kin-por",
+    "Henry Fan"
+   ],
+   "zh_hans": [
+    "医管局",
+    "陈健波",
+    "范鸿龄"
+   ],
+   "zh_hant": [
+    "醫管局",
+    "陳健波",
+    "范鴻齡"
+   ]
+  },
+  "title": {
+   "en": "Chan Kin-por to chair Hospital Authority from December 1 for two years as Fan thanks outgoing chief",
+   "zh_hans": "医管局新主席陈健波12月1日上任 任期两年 范鸿龄卸任获致谢",
+   "zh_hant": "醫管局新主席陳健波12月1日上任 任期兩年 范鴻齡卸任獲致謝"
+  },
+  "image_r2_key": "design/202611/20261123-ha-chairman-chan-kin-por-dec-1-v2.jpg"
  },
  {
   "category": "finance",
@@ -154,6 +232,45 @@
    "zh_hant": "貝森特警告儲局過度收緊恐犯政策錯誤 金融體系已現脆弱跡象"
   },
   "image_r2_key": "design/202611/20261123-bessent-fed-overtightening-policy-mistake-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-rural-election-nominations-open-tomorrow",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：鄉郊代表選舉明起接受提名，明年1月舉行，涵蓋原居民代表、居民代表和街坊代表三類。場景：陽光明媚的新界鄉村村公所外，村民排隊遞交提名表格，背景是綠樹環繞的鄉村建築和藍天白雲，氣氛平和有序。風格：寫實莊重，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「鄉郊代表選舉明起接受提名」，第二行黃字寫「明年1月投票 三類代表同場競逐」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-rural-election-nominations-open-tomorrow-v2.jpg",
+  "published_at": "2026-11-23T09:30:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.news.gov.hk/chi/2026/11/20261123/20261123_105832_768.html"
+  },
+  "summary": {
+   "en": "Nominations for the 2027 Rural Ordinary Election open tomorrow and close on December 7, ahead of polling in January next year. Rural representatives fall into three categories — indigenous inhabitants, residents and market-town representatives — and candidates must be Hong Kong permanent residents aged 21 or above, nominated by at least five registered electors of the village or market town. Nomination forms are available at the Home Affairs Department and district offices, and candidates must submit them in person to the returning officer.",
+   "zh_hans": "2027年乡郊一般选举明年1月举行，候选人提名期明日开始，下月7日结束。乡郊代表分原居民代表、居民代表和街坊代表三类，候选人须为21岁或以上香港永久性居民，并获最少五名该村或墟镇已登记选民提名。提名表格于民政事务总署和各区民政咨询中心派发，亦可于选举网页下载，候选人须亲身向选举主任递交。",
+   "zh_hant": "2027年鄉郊一般選舉明年1月舉行，候選人提名期明日開始，下月7日結束。鄉郊代表分原居民代表、居民代表和街坊代表三類，候選人須為21歲或以上香港永久性居民，並獲最少五名該村或墟鎮已登記選民提名。提名表格於民政事務總署和各區民政諮詢中心派發，亦可於選舉網頁下載，候選人須親身向選舉主任遞交。"
+  },
+  "tags": {
+   "en": [
+    "Rural Election",
+    "2027 Rural Ordinary Election",
+    "Nomination"
+   ],
+   "zh_hans": [
+    "乡郊代表选举",
+    "2027乡郊一般选举",
+    "提名期"
+   ],
+   "zh_hant": [
+    "鄉郊代表選舉",
+    "2027鄉郊一般選舉",
+    "提名期"
+   ]
+  },
+  "title": {
+   "en": "Rural election nominations open tomorrow as January 2027 polls cover three representative categories",
+   "zh_hans": "乡郊代表选举明起接受提名 明年1月投票 三类代表同场竞逐",
+   "zh_hant": "鄉郊代表選舉明起接受提名 明年1月投票 三類代表同場競逐"
+  },
+  "image_r2_key": "design/202611/20261123-rural-election-nominations-open-tomorrow-v2.jpg"
  },
  {
   "category": "hk",
@@ -312,6 +429,45 @@
   "image_r2_key": "design/202611/20261123-mtr-ho-man-tin-signal-fault-v2.jpg"
  },
  {
+  "category": "tech",
+  "id": "20261123-bepicolombo-mercury-orbit-glitch",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：水星探測器BepiColombo成功入軌，八年長征終抵水星，推進器一度故障。場景：浩瀚太空中的水星，佈滿隕石坑的灰色表面在陽光下清晰可見，探測器在軌道上飛行，背景是深邃星空與太陽光芒，氣氛壯麗而充滿探索精神。風格：寫實太空攝影感，色彩鮮明光亮。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「水星探測器BepiColombo成功入軌」，第二行黃字寫「八年長征終抵水星 推進器一度故障」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-bepicolombo-mercury-orbit-glitch-v2.jpg",
+  "published_at": "2026-11-23T09:00:00+08:00",
+  "source": {
+   "name": "phys.org",
+   "url": "https://phys.org/news/2026-11-mercury-visitor-years-pair-spacecraft.html"
+  },
+  "summary": {
+   "en": "The European-Japanese BepiColombo spacecraft slipped into orbit around Mercury on Saturday, ending an eight-year, 10-billion-kilometre journey and becoming only the second mission ever to orbit the Solar System's innermost planet. The European Space Agency said a thruster burn during the manoeuvre was shorter than planned following a software issue, but the spacecraft is safe. Its two orbiters will separate on December 9-10, with science operations due to begin in April 2027.",
+   "zh_hans": "欧洲与日本合作的水星探测器BepiColombo周六成功进入水星轨道，结束八年、逾100亿公里的漫长旅程，成为历来第二个环绕太阳系最内侧行星的任务。欧洲太空总署表示，入轨过程中推进器燃烧时间较预期短，出现软件问题，但探测器安全无恙，两个轨道器将于12月9至10日分离，明年4月开始科学任务。",
+   "zh_hant": "歐洲與日本合作的水星探測器BepiColombo周六成功進入水星軌道，結束八年、逾100億公里的漫長旅程，成為歷來第二個環繞太陽系最內側行星的任務。歐洲太空總署表示，入軌過程中推進器燃燒時間較預期短，出現軟件問題，但探測器安全無恙，兩個軌道器將於12月9至10日分離，明年4月開始科學任務。"
+  },
+  "tags": {
+   "en": [
+    "BepiColombo",
+    "Mercury",
+    "ESA"
+   ],
+   "zh_hans": [
+    "BepiColombo",
+    "水星",
+    "欧洲太空总署"
+   ],
+   "zh_hant": [
+    "BepiColombo",
+    "水星",
+    "歐洲太空總署"
+   ]
+  },
+  "title": {
+   "en": "BepiColombo reaches Mercury orbit after eight-year odyssey despite thruster glitch",
+   "zh_hans": "水星探测器BepiColombo成功入轨 八年长征终抵水星 推进器一度故障",
+   "zh_hant": "水星探測器BepiColombo成功入軌 八年長征終抵水星 推進器一度故障"
+  },
+  "image_r2_key": "design/202611/20261123-bepicolombo-mercury-orbit-glitch-v2.jpg"
+ },
+ {
   "category": "hk",
   "id": "20261123-wang-fuk-court-one-household-one-social-worker",
   "image_prompt": "陽光普照的公共屋邨樓下，社工與長者居民坐着傾談，背景是屋邨大廈與綠樹，氣氛溫暖有人情味，人物用背影或遠景處理，不要畫清晰人臉，畫面光猛明亮。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「宏福苑火災近一年 社工「一戶一社工」未退場」，第二行黃色大字寫「居民最需要一個同行者」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
@@ -388,6 +544,45 @@
    "zh_hant": "內地連出三招穩市 融資保證金降至八成 11月30日起實施 料釋放4000億資金"
   },
   "image_r2_key": "design/202611/20261123-china-three-market-stabilisation-measures-margin-80-percent.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261123-korea-education-minister-resigns-ai-cheating",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：韓國教育部長為高考AI作弊風波辭職，臨考改例惹混亂，111人涉違規。場景：陽光下的韓國大學入學試考場外，考生排隊接受安檢入場，監考人員檢查隨身物品，背景是現代化校園建築與藍天，氣氛緊張有序。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「韓國教育部長為高考AI作弊風波辭職」，第二行黃字寫「臨考改例惹混亂 111人涉違規」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-korea-education-minister-resigns-ai-cheating-v2.jpg",
+  "published_at": "2026-11-23T08:03:00+08:00",
+  "source": {
+   "name": "Dawn",
+   "url": "https://www.dawn.com/news/2046449"
+  },
+  "summary": {
+   "en": "South Korea's Education Minister Choi Kyo-jin resigned on Sunday, taking responsibility for confusion caused by last-minute rule changes aimed at preventing AI-assisted cheating ahead of the national college entrance exam, and President Lee Jae Myung accepted the resignation. The controversy began when the top scorer in a national tax accountant exam confessed to cheating with a miniature camera, a smartphone and generative AI, prompting officials to rush out measures including covering clothing buttons and sending emergency alerts. A total of 111 suspected cheating cases involving electronic devices were detected during the exam.",
+   "zh_hans": "韩国教育部长崔教振周日辞职，为大学入学试「修能」前夕临时更改防AI作弊规则引起的混乱负责，总统李在明已接纳辞呈。风波源于一名税务师考试状元承认以微型相机及智能手机配合生成式AI作弊，教育部门临考前推出多项措施，包括遮盖衣物钮扣及发出紧急警报，考试期间共发现111宗涉电子设备违规个案。",
+   "zh_hant": "韓國教育部長崔教振周日辭職，為大學入學試「修能」前夕臨時更改防AI作弊規則引起的混亂負責，總統李在明已接納辭呈。風波源於一名稅務師考試狀元承認以微型相機及智能手機配合生成式AI作弊，教育部門臨考前推出多項措施，包括遮蓋衣物鈕扣及發出緊急警報，考試期間共發現111宗涉電子設備違規個案。"
+  },
+  "tags": {
+   "en": [
+    "South Korea",
+    "Suneung",
+    "AI Cheating"
+   ],
+   "zh_hans": [
+    "韩国",
+    "修能",
+    "AI作弊"
+   ],
+   "zh_hant": [
+    "韓國",
+    "修能",
+    "AI作弊"
+   ]
+  },
+  "title": {
+   "en": "South Korea education minister quits over exam AI-cheating chaos as 111 caught",
+   "zh_hans": "韩国教育部长为高考AI作弊风波辞职 临考改例惹混乱 111人涉违规",
+   "zh_hant": "韓國教育部長為高考AI作弊風波辭職 臨考改例惹混亂 111人涉違規"
+  },
+  "image_r2_key": "design/202611/20261123-korea-education-minister-resigns-ai-cheating-v2.jpg"
  },
  {
   "category": "hk",
@@ -544,6 +739,45 @@
    "zh_hant": "OpenAI首席科學家倡設AI發展紅線 以「困惑度」量度能力 未達標唔好越線"
   },
   "image_r2_key": "design/202611/20261123-openai-pachocki-perplexity-ai-limits-v2.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261123-trump-warns-iran-strikes-after-jan-1",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：特朗普警告伊朗談判拖延，1月1日後或再動武，批評對方拖延談判。場景：陽光下的白宮外景，美國國旗飄揚，背景是華盛頓藍天與草坪，氣氛莊重嚴肅。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「特朗普警告伊朗談判拖延」，第二行黃字寫「1月1日後或再動武 批評對方拖延談判」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-trump-warns-iran-strikes-after-jan-1-v2.jpg",
+  "published_at": "2026-11-23T05:00:00+08:00",
+  "source": {
+   "name": "Times Now",
+   "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-latest-news-donald-trump-latest-statement-on-us-involvement-israel-conflict-middle-east-tensions-and-strait-of-hormuz-crisis-liveblog-156536030"
+  },
+  "summary": {
+   "en": "US President Donald Trump has warned that the United States could launch fresh military strikes against Iran after January 1 if the two sides fail to reach an agreement, accusing Iranian negotiators of dragging out the talks. Iran claimed to have shot down two US military drones, while US Central Command denied that an F-16 fighter jet had been hit. Tankers were also reported hit near the Strait of Hormuz, keeping regional tensions high.",
+   "zh_hans": "美国总统特朗普警告，若美伊未能达成协议，美国可能在1月1日后对伊朗发动新一轮军事打击，批评伊朗谈判代表拖延谈判。伊朗方面称击落两架美军无人机，美国中央司令部否认有F-16战机被击中；霍尔木兹海峡一带再有油轮遇袭，区内局势持续紧张。",
+   "zh_hant": "美國總統特朗普警告，若美伊未能達成協議，美國可能在1月1日後對伊朗發動新一輪軍事打擊，批評伊朗談判代表拖延談判。伊朗方面稱擊落兩架美軍無人機，美國中央司令部否認有F-16戰機被擊中；霍爾木茲海峽一帶再有油輪遇襲，區內局勢持續緊張。"
+  },
+  "tags": {
+   "en": [
+    "Trump",
+    "Iran",
+    "Strait of Hormuz"
+   ],
+   "zh_hans": [
+    "特朗普",
+    "伊朗",
+    "霍尔木兹海峡"
+   ],
+   "zh_hant": [
+    "特朗普",
+    "伊朗",
+    "霍爾木茲海峽"
+   ]
+  },
+  "title": {
+   "en": "Trump warns Iran of fresh strikes after January 1 if talks keep stalling",
+   "zh_hans": "特朗普警告伊朗谈判拖延 1月1日后或再动武 批评对方拖延谈判",
+   "zh_hant": "特朗普警告伊朗談判拖延 1月1日後或再動武 批評對方拖延談判"
+  },
+  "image_r2_key": "design/202611/20261123-trump-warns-iran-strikes-after-jan-1-v2.jpg"
  },
  {
   "category": "world",
@@ -976,44 +1210,6 @@
  },
  {
   "category": "hk",
-  "id": "20261123-hongkong-post-fraud-website-warning",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：香港郵政警告假網站行騙，冒認短訊電郵索取個人資料，已報警跟進。場景：陽光下的香港郵政局外景，市民手持手機查看訊息，背景是郵政局大樓與街道，氣氛警惕而清晰。風格：寫實，色彩光亮通透，帶出防騙提醒的嚴肅感。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「香港郵政警告假網站行騙」，第二行黃字寫「冒認短訊電郵索資料 已報警跟進」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T12:40:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300349.htm"
-  },
-  "summary": {
-   "en": "Hongkong Post today warned the public about a fraudulent website impersonating the postal service, along with fake SMS messages and emails purporting to come from it. The fake messages contain a hyperlink leading to a website that asks recipients to provide personal information or pay postage fees. Hongkong Post clarified it has no connection with the fake site, has reported the case to the Police, and urged the public to stay alert.",
-   "zh_hans": "香港邮政今日提醒市民，提防一个冒认香港邮政的假网站及假冒短讯或电邮。假讯息附有超连结，连往假网站要求收件人提供个人资料或缴付邮费。香港邮政澄清与该假网站无关，并已报警跟进，呼吁市民提高警觉。",
-   "zh_hant": "香港郵政今日提醒市民，提防一個冒認香港郵政的假網站及假冒短訊或電郵。假訊息附有超連結，連往假網站要求收件人提供個人資料或繳付郵費。香港郵政澄清與該假網站無關，並已報警跟進，呼籲市民提高警覺。"
-  },
-  "tags": {
-   "en": [
-    "Hongkong Post",
-    "Fake Website",
-    "Scam Alert"
-   ],
-   "zh_hans": [
-    "香港邮政",
-    "假网站",
-    "防骗"
-   ],
-   "zh_hant": [
-    "香港郵政",
-    "假網站",
-    "防騙"
-   ]
-  },
-  "title": {
-   "en": "Hongkong Post warns of fake website harvesting personal data and reports case to police",
-   "zh_hans": "香港邮政警告假网站行骗 冒认短讯电邮索个人资料 已报警跟进",
-   "zh_hant": "香港郵政警告假網站行騙 冒認短訊電郵索個人資料 已報警跟進"
-  }
- },
- {
-  "category": "hk",
   "id": "20261123-epd-kam-tin-pig-farm-enforcement",
   "image_prompt": "電視新聞圖卡風格，16:9。事實：環保署再打擊錦田豬場非法排污，突擊行動執法，嚴防錦田河污染。場景：陽光下的新界錦田鄉郊河流，河水清澈，兩岸綠草與農田，環保署人員穿著制服在河邊巡查取樣，背景是藍天與遠山。風格：寫實，色彩光亮通透，帶出保護環境的正面氣氛。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「環保署再打擊錦田豬場非法排污」，第二行黃字寫「突擊行動執法 嚴防錦田河污染」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
   "image_url": "",
@@ -1048,158 +1244,6 @@
    "en": "EPD acts again against suspected illegal pig farm discharge in Kam Tin to protect river",
    "zh_hans": "环保署再打击锦田猪场非法排污 突击行动执法 严防锦田河污染",
    "zh_hant": "環保署再打擊錦田豬場非法排污 突擊行動執法 嚴防錦田河污染"
-  }
- },
- {
-  "category": "hk",
-  "id": "20261123-ha-chairman-chan-kin-por-dec-1",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：醫管局新主席陳健波12月1日上任，任期兩年，范鴻齡卸任獲致謝。場景：陽光明媚的公立醫院大樓外景，醫護人員與市民在明亮的大堂進出，背景是現代化醫院建築與藍天，氣氛專業而安心。風格：寫實莊重，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「醫管局新主席陳健波12月1日上任」，第二行黃字寫「任期兩年 范鴻齡卸任獲致謝」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T11:13:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300233.htm"
-  },
-  "summary": {
-   "en": "The Government announced that the Chief Executive has appointed Chan Kin-por as Chairman of the Hospital Authority, alongside one new member and six reappointed members, for two-year terms from December 1, 2026. Chan is currently an Executive Council member, an independent non-executive director of Hong Kong Exchanges and Clearing, and chairman of the ICAC Advisory Committee. The Authority welcomed the appointment and paid tribute to outgoing chairman Henry Fan.",
-   "zh_hans": "政府宣布，行政长官委任陈健波为医院管理局主席，同时委任一名新成员及续任六名现任成员，任期两年，由12月1日起生效。陈健波现为行政会议成员、港交所独立非执行董事及廉政公署咨询委员会主席，医管局欢迎任命，并向即将卸任的主席范鸿龄致谢。",
-   "zh_hant": "政府宣布，行政長官委任陳健波為醫院管理局主席，同時委任一名新成員及續任六名現任成員，任期兩年，由12月1日起生效。陳健波現為行政會議成員、港交所獨立非執行董事及廉政公署諮詢委員會主席，醫管局歡迎任命，並向即將卸任的主席范鴻齡致謝。"
-  },
-  "tags": {
-   "en": [
-    "Hospital Authority",
-    "Chan Kin-por",
-    "Henry Fan"
-   ],
-   "zh_hans": [
-    "医管局",
-    "陈健波",
-    "范鸿龄"
-   ],
-   "zh_hant": [
-    "醫管局",
-    "陳健波",
-    "范鴻齡"
-   ]
-  },
-  "title": {
-   "en": "Chan Kin-por to chair Hospital Authority from December 1 for two years as Fan thanks outgoing chief",
-   "zh_hans": "医管局新主席陈健波12月1日上任 任期两年 范鸿龄卸任获致谢",
-   "zh_hant": "醫管局新主席陳健波12月1日上任 任期兩年 范鴻齡卸任獲致謝"
-  }
- },
- {
-  "category": "hk",
-  "id": "20261123-rural-election-nominations-open-tomorrow",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：鄉郊代表選舉明起接受提名，明年1月舉行，涵蓋原居民代表、居民代表和街坊代表三類。場景：陽光明媚的新界鄉村村公所外，村民排隊遞交提名表格，背景是綠樹環繞的鄉村建築和藍天白雲，氣氛平和有序。風格：寫實莊重，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「鄉郊代表選舉明起接受提名」，第二行黃字寫「明年1月投票 三類代表同場競逐」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T09:30:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.news.gov.hk/chi/2026/11/20261123/20261123_105832_768.html"
-  },
-  "summary": {
-   "en": "Nominations for the 2027 Rural Ordinary Election open tomorrow and close on December 7, ahead of polling in January next year. Rural representatives fall into three categories — indigenous inhabitants, residents and market-town representatives — and candidates must be Hong Kong permanent residents aged 21 or above, nominated by at least five registered electors of the village or market town. Nomination forms are available at the Home Affairs Department and district offices, and candidates must submit them in person to the returning officer.",
-   "zh_hans": "2027年乡郊一般选举明年1月举行，候选人提名期明日开始，下月7日结束。乡郊代表分原居民代表、居民代表和街坊代表三类，候选人须为21岁或以上香港永久性居民，并获最少五名该村或墟镇已登记选民提名。提名表格于民政事务总署和各区民政咨询中心派发，亦可于选举网页下载，候选人须亲身向选举主任递交。",
-   "zh_hant": "2027年鄉郊一般選舉明年1月舉行，候選人提名期明日開始，下月7日結束。鄉郊代表分原居民代表、居民代表和街坊代表三類，候選人須為21歲或以上香港永久性居民，並獲最少五名該村或墟鎮已登記選民提名。提名表格於民政事務總署和各區民政諮詢中心派發，亦可於選舉網頁下載，候選人須親身向選舉主任遞交。"
-  },
-  "tags": {
-   "en": [
-    "Rural Election",
-    "2027 Rural Ordinary Election",
-    "Nomination"
-   ],
-   "zh_hans": [
-    "乡郊代表选举",
-    "2027乡郊一般选举",
-    "提名期"
-   ],
-   "zh_hant": [
-    "鄉郊代表選舉",
-    "2027鄉郊一般選舉",
-    "提名期"
-   ]
-  },
-  "title": {
-   "en": "Rural election nominations open tomorrow as January 2027 polls cover three representative categories",
-   "zh_hans": "乡郊代表选举明起接受提名 明年1月投票 三类代表同场竞逐",
-   "zh_hant": "鄉郊代表選舉明起接受提名 明年1月投票 三類代表同場競逐"
-  }
- },
- {
-  "category": "tech",
-  "id": "20261123-bepicolombo-mercury-orbit-glitch",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：水星探測器BepiColombo成功入軌，八年長征終抵水星，推進器一度故障。場景：浩瀚太空中的水星，佈滿隕石坑的灰色表面在陽光下清晰可見，探測器在軌道上飛行，背景是深邃星空與太陽光芒，氣氛壯麗而充滿探索精神。風格：寫實太空攝影感，色彩鮮明光亮。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「水星探測器BepiColombo成功入軌」，第二行黃字寫「八年長征終抵水星 推進器一度故障」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T09:00:00+08:00",
-  "source": {
-   "name": "phys.org",
-   "url": "https://phys.org/news/2026-11-mercury-visitor-years-pair-spacecraft.html"
-  },
-  "summary": {
-   "en": "The European-Japanese BepiColombo spacecraft slipped into orbit around Mercury on Saturday, ending an eight-year, 10-billion-kilometre journey and becoming only the second mission ever to orbit the Solar System's innermost planet. The European Space Agency said a thruster burn during the manoeuvre was shorter than planned following a software issue, but the spacecraft is safe. Its two orbiters will separate on December 9-10, with science operations due to begin in April 2027.",
-   "zh_hans": "欧洲与日本合作的水星探测器BepiColombo周六成功进入水星轨道，结束八年、逾100亿公里的漫长旅程，成为历来第二个环绕太阳系最内侧行星的任务。欧洲太空总署表示，入轨过程中推进器燃烧时间较预期短，出现软件问题，但探测器安全无恙，两个轨道器将于12月9至10日分离，明年4月开始科学任务。",
-   "zh_hant": "歐洲與日本合作的水星探測器BepiColombo周六成功進入水星軌道，結束八年、逾100億公里的漫長旅程，成為歷來第二個環繞太陽系最內側行星的任務。歐洲太空總署表示，入軌過程中推進器燃燒時間較預期短，出現軟件問題，但探測器安全無恙，兩個軌道器將於12月9至10日分離，明年4月開始科學任務。"
-  },
-  "tags": {
-   "en": [
-    "BepiColombo",
-    "Mercury",
-    "ESA"
-   ],
-   "zh_hans": [
-    "BepiColombo",
-    "水星",
-    "欧洲太空总署"
-   ],
-   "zh_hant": [
-    "BepiColombo",
-    "水星",
-    "歐洲太空總署"
-   ]
-  },
-  "title": {
-   "en": "BepiColombo reaches Mercury orbit after eight-year odyssey despite thruster glitch",
-   "zh_hans": "水星探测器BepiColombo成功入轨 八年长征终抵水星 推进器一度故障",
-   "zh_hant": "水星探測器BepiColombo成功入軌 八年長征終抵水星 推進器一度故障"
-  }
- },
- {
-  "category": "world",
-  "id": "20261123-korea-education-minister-resigns-ai-cheating",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：韓國教育部長為高考AI作弊風波辭職，臨考改例惹混亂，111人涉違規。場景：陽光下的韓國大學入學試考場外，考生排隊接受安檢入場，監考人員檢查隨身物品，背景是現代化校園建築與藍天，氣氛緊張有序。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「韓國教育部長為高考AI作弊風波辭職」，第二行黃字寫「臨考改例惹混亂 111人涉違規」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T08:03:00+08:00",
-  "source": {
-   "name": "Dawn",
-   "url": "https://www.dawn.com/news/2046449"
-  },
-  "summary": {
-   "en": "South Korea's Education Minister Choi Kyo-jin resigned on Sunday, taking responsibility for confusion caused by last-minute rule changes aimed at preventing AI-assisted cheating ahead of the national college entrance exam, and President Lee Jae Myung accepted the resignation. The controversy began when the top scorer in a national tax accountant exam confessed to cheating with a miniature camera, a smartphone and generative AI, prompting officials to rush out measures including covering clothing buttons and sending emergency alerts. A total of 111 suspected cheating cases involving electronic devices were detected during the exam.",
-   "zh_hans": "韩国教育部长崔教振周日辞职，为大学入学试「修能」前夕临时更改防AI作弊规则引起的混乱负责，总统李在明已接纳辞呈。风波源于一名税务师考试状元承认以微型相机及智能手机配合生成式AI作弊，教育部门临考前推出多项措施，包括遮盖衣物钮扣及发出紧急警报，考试期间共发现111宗涉电子设备违规个案。",
-   "zh_hant": "韓國教育部長崔教振周日辭職，為大學入學試「修能」前夕臨時更改防AI作弊規則引起的混亂負責，總統李在明已接納辭呈。風波源於一名稅務師考試狀元承認以微型相機及智能手機配合生成式AI作弊，教育部門臨考前推出多項措施，包括遮蓋衣物鈕扣及發出緊急警報，考試期間共發現111宗涉電子設備違規個案。"
-  },
-  "tags": {
-   "en": [
-    "South Korea",
-    "Suneung",
-    "AI Cheating"
-   ],
-   "zh_hans": [
-    "韩国",
-    "修能",
-    "AI作弊"
-   ],
-   "zh_hant": [
-    "韓國",
-    "修能",
-    "AI作弊"
-   ]
-  },
-  "title": {
-   "en": "South Korea education minister quits over exam AI-cheating chaos as 111 caught",
-   "zh_hans": "韩国教育部长为高考AI作弊风波辞职 临考改例惹混乱 111人涉违规",
-   "zh_hant": "韓國教育部長為高考AI作弊風波辭職 臨考改例惹混亂 111人涉違規"
   }
  },
  {
@@ -1238,44 +1282,6 @@
    "en": "China's second homegrown cruise ship Adora Flora City sets sail with 3,800 aboard",
    "zh_hans": "中国第二艘国产大邮轮「爱达·花城号」首航 逾3800乘客畅游港越六日五夜",
    "zh_hant": "中國第二艘國產大郵輪「愛達·花城號」首航 逾3800乘客暢遊港越六日五夜"
-  }
- },
- {
-  "category": "world",
-  "id": "20261123-trump-warns-iran-strikes-after-jan-1",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：特朗普警告伊朗談判拖延，1月1日後或再動武，批評對方拖延談判。場景：陽光下的白宮外景，美國國旗飄揚，背景是華盛頓藍天與草坪，氣氛莊重嚴肅。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「特朗普警告伊朗談判拖延」，第二行黃字寫「1月1日後或再動武 批評對方拖延談判」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T05:00:00+08:00",
-  "source": {
-   "name": "Times Now",
-   "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-latest-news-donald-trump-latest-statement-on-us-involvement-israel-conflict-middle-east-tensions-and-strait-of-hormuz-crisis-liveblog-156536030"
-  },
-  "summary": {
-   "en": "US President Donald Trump has warned that the United States could launch fresh military strikes against Iran after January 1 if the two sides fail to reach an agreement, accusing Iranian negotiators of dragging out the talks. Iran claimed to have shot down two US military drones, while US Central Command denied that an F-16 fighter jet had been hit. Tankers were also reported hit near the Strait of Hormuz, keeping regional tensions high.",
-   "zh_hans": "美国总统特朗普警告，若美伊未能达成协议，美国可能在1月1日后对伊朗发动新一轮军事打击，批评伊朗谈判代表拖延谈判。伊朗方面称击落两架美军无人机，美国中央司令部否认有F-16战机被击中；霍尔木兹海峡一带再有油轮遇袭，区内局势持续紧张。",
-   "zh_hant": "美國總統特朗普警告，若美伊未能達成協議，美國可能在1月1日後對伊朗發動新一輪軍事打擊，批評伊朗談判代表拖延談判。伊朗方面稱擊落兩架美軍無人機，美國中央司令部否認有F-16戰機被擊中；霍爾木茲海峽一帶再有油輪遇襲，區內局勢持續緊張。"
-  },
-  "tags": {
-   "en": [
-    "Trump",
-    "Iran",
-    "Strait of Hormuz"
-   ],
-   "zh_hans": [
-    "特朗普",
-    "伊朗",
-    "霍尔木兹海峡"
-   ],
-   "zh_hant": [
-    "特朗普",
-    "伊朗",
-    "霍爾木茲海峽"
-   ]
-  },
-  "title": {
-   "en": "Trump warns Iran of fresh strikes after January 1 if talks keep stalling",
-   "zh_hans": "特朗普警告伊朗谈判拖延 1月1日后或再动武 批评对方拖延谈判",
-   "zh_hant": "特朗普警告伊朗談判拖延 1月1日後或再動武 批評對方拖延談判"
   }
  },
  {
