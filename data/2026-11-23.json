@@ -1,5 +1,122 @@
 [
  {
+  "category": "finance",
+  "id": "20261123-hang-seng-close-22383-down-27",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：恒指收市跌27點報22383點，全日波幅逾400點，汽車股捱沽零跑挫近13%。場景：光亮現代化的股票交易大堂，大型電子屏幕顯示紅色下跌數字，交易員背影在旁，氣氛緊張。風格：寫實，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「恒指收市跌27點報22383點」，第二行黃字寫「全日波幅逾400點 汽車股捱沽零跑挫近13%」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-hang-seng-close-22383-down-27-v2.jpg",
+  "published_at": "2026-11-23T16:34:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878947-20261123.htm"
+  },
+  "summary": {
+   "en": "Hong Kong stocks narrowed their losses by the close, with the Hang Seng Index falling 27 points, or 0.12 per cent, to 22,383 on main-board turnover of nearly HK$253.1 billion. The index had dropped more than 410 points in early trading, breaching the 22,000 level to an intraday low of 21,998, before turning up nearly 30 points in the afternoon. The Hang Seng Tech Index fell three points to 3,508 after dropping more than 3 per cent and losing the 3,400 level early in the session. Car stocks were under pressure, with Nio, Li Auto and XPeng down nearly 4 to more than 6 per cent and Leapmotor plunging nearly 13 per cent, the worst performer among tech index constituents; AI-related shares rose, with Lenovo up nearly 8 per cent, the best performer in both indexes. The three oil majors and the three big mainland telecom stocks fell nearly 1 to nearly 3 per cent, while pharmaceutical and resources shares mostly rose.",
+   "zh_hans": "港股收市跌幅收窄，恒生指数初段曾跌逾410点，失守22000点关口，低见21998点，午后曾转升近30点，收市报22383点，跌27点，跌幅0.12%，主板成交额近2531亿元。科技指数初段曾跌逾3%，失守3400点，收市报3508点，跌3点。汽车股受压，蔚来、理想、小鹏跌近4%至逾6%，零跑大跌近13%，是表现最差的科指成分股；AI相关股份上升，联想集团高收近8%，是表现最好的恒指及科指成分股。三桶油、三大中资电讯股跌近1%至近3%，医药股、资源股普遍上升。",
+   "zh_hant": "港股收市跌幅收窄，恒生指數初段曾跌逾410點，失守22000點關口，低見21998點，午後曾轉升近30點，收市報22383點，跌27點，跌幅0.12%，主板成交額近2531億元。科技指數初段曾跌逾3%，失守3400點，收市報3508點，跌3點。汽車股受壓，蔚來、理想、小鵬跌近4%至逾6%，零跑大跌近13%，是表現最差的科指成份股；AI相關股份上升，聯想集團高收近8%，是表現最好的恒指及科指成份股。三桶油、三大中資電訊股跌近1%至近3%，醫藥股、資源股普遍上升。"
+  },
+  "tags": {
+   "en": [
+    "Hang Seng Index",
+    "Hong Kong stocks",
+    "car stocks"
+   ],
+   "zh_hans": [
+    "恒生指数",
+    "港股",
+    "汽车股"
+   ],
+   "zh_hant": [
+    "恒生指數",
+    "港股",
+    "汽車股"
+   ]
+  },
+  "title": {
+   "en": "Hang Seng closes 27 points lower at 22,383 after swinging more than 400 points as car stocks slide",
+   "zh_hans": "恒指收市跌27点报22383点 全日波幅逾400点 汽车股捱沽零跑挫近13%",
+   "zh_hant": "恒指收市跌27點報22383點 全日波幅逾400點 汽車股捱沽零跑挫近13%"
+  },
+  "image_r2_key": "design/202611/20261123-hang-seng-close-22383-down-27-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-sun-dong-nanjing-hefei-visit",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：孫東今晚率團訪南京合肥，出席內地與香港科技合作會議，25日返港。場景：陽光普照的合肥現代化科研園區，高樓與實驗室大樓，藍天白雲，氣氛專業朝氣。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「孫東今晚率團訪南京合肥」，第二行黃字寫「出席內地與香港科技合作會議 25日返港」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-sun-dong-nanjing-hefei-visit-v2.jpg",
+  "published_at": "2026-11-23T16:30:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300281.htm"
+  },
+  "summary": {
+   "en": "The Secretary for Innovation, Technology and Industry, Professor Sun Dong, will depart for Nanjing and Hefei this evening, leading a Hong Kong delegation to attend the 20th meeting of the Mainland/Hong Kong Science and Technology Co-operation Committee in Hefei on November 25. The meeting, co-chaired by Professor Sun and Vice Minister of Science and Technology Zhang Guangjun, organises and co-ordinates technological exchange and co-operation between the mainland and Hong Kong. In Hefei, Professor Sun will also attend a networking dinner on supporting mainland enterprises in going global, themed Anhui-Hong Kong Partnership: Setting Sail Together, and visit a local university, scientific research platforms and advanced technology companies. In Nanjing he will tour local universities, key research institutes and innovation and technology enterprises. The delegation includes Commissioner for Innovation and Technology Ivan Lee and representatives from universities, innovation and technology parks and research institutes. Professor Sun will return to Hong Kong on the afternoon of November 25, with Under Secretary Lillian Cheong acting as secretary during his absence.",
+   "zh_hans": "创新科技及工业局局长孙东今晚（11月23日）出发前往南京和合肥，率领香港代表团出席11月25日在合肥举行的第20次内地与香港科技合作委员会会议。会议由孙东与科技部副部长张广军共同主持，统筹内地与香港的科技交流合作。孙东在合肥亦会出席以“皖港携手 扬帆同行”为主题的支持内地企业“走出去”交流晚宴，并参观当地大学、科研平台及先进科技企业。访南京期间，他会参观当地大学、重点科研机构及科创企业，了解江苏省推动创科及相关产业的情况。代表团成员包括创新科技署署长李国彬及大学、创科园区和研发机构代表。孙东将于11月25日下午返港，离港期间由副局长张曼莉署任局长。",
+   "zh_hant": "創新科技及工業局局長孫東今晚（11月23日）出發前往南京和合肥，率領香港代表團出席11月25日在合肥舉行的第20次內地與香港科技合作委員會會議。會議由孫東與科技部副部長張廣軍共同主持，統籌內地與香港的科技交流合作。孫東在合肥亦會出席以「皖港攜手 揚帆同行」為主題的支持內地企業「走出去」交流晚宴，並參觀當地大學、科研平台及先進科技企業。訪南京期間，他會參觀當地大學、重點科研機構及科創企業，了解江蘇省推動創科及相關產業的情況。代表團成員包括創新科技署署長李國彬及大學、創科園區和研發機構代表。孫東將於11月25日下午返港，離港期間由副局長張曼莉署任局長。"
+  },
+  "tags": {
+   "en": [
+    "Sun Dong",
+    "Innovation and Technology Bureau",
+    "science and technology co-operation"
+   ],
+   "zh_hans": [
+    "孙东",
+    "创科局",
+    "科技合作"
+   ],
+   "zh_hant": [
+    "孫東",
+    "創科局",
+    "科技合作"
+   ]
+  },
+  "title": {
+   "en": "Innovation chief Sun Dong leads delegation to Nanjing and Hefei for mainland-Hong Kong science and technology talks",
+   "zh_hans": "孙东今晚率团访南京合肥 出席内地与香港科技合作会议 25日返港",
+   "zh_hant": "孫東今晚率團訪南京合肥 出席內地與香港科技合作會議 25日返港"
+  },
+  "image_r2_key": "design/202611/20261123-sun-dong-nanjing-hefei-visit-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-hk-electric-78m-smart-power",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：港燈明年撥7800萬推「智惜用電服務」，劏房戶每戶獲1000元電費津貼。場景：光亮溫暖的香港家庭客廳，長者與家人使用電風扇，窗外陽光灑入，氣氛溫馨。風格：寫實溫暖，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「港燈明年撥7800萬推智惜用電服務」，第二行黃字寫「劏房戶每戶獲1000元電費津貼」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-hk-electric-78m-smart-power-v2.jpg",
+  "published_at": "2026-11-23T16:14:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878945-20261123.htm"
+  },
+  "summary": {
+   "en": "HK Electric said it will set aside HK$78 million next year to roll out an enhanced Smart Power Service, helping disadvantaged groups ease energy costs, assisting buildings in improving energy efficiency and promoting the electrification of transport. On community care, the company will provide electricity subsidies of HK$1,000 per household to eligible subdivided-flat tenants, and distribute cash coupons worth HK$200 each to 10,000 disadvantaged families. HK Electric will also continue its Cool Corner programme next summer, supporting grassroots families and elderly residents in coping with high temperatures through power-safety and energy-saving activities and gifts of air circulator fans. Under its energy-efficiency drive, the Energy Saving Sharing Subsidy Scheme will widen its scope, offering up to HK$500,000 per building or premises to replace or upgrade ageing fixed electrical installations.",
+   "zh_hans": "港灯表示，明年将拨款7800万元，推行已优化的“智惜用电服务”，支援弱势社群减轻能源开支压力、协助楼宇提升能源效益和推动交通工具电气化。社区关爱方面，港灯会为合资格劏房租户提供电费津贴，每户1000元；亦向1万个弱势家庭派发现金券，每户200元。港灯明年亦会继续“港灯清凉角落”计划，透过用电安全和节能活动及赠送空气循环扇，支援基层家庭和长者应对高温天气。改善能源效益方面，“节能共享资助计划”扩大资助范围，每幢楼宇或处所最高可获50万元资助更换或提升老化的固定电力装置。",
+   "zh_hant": "港燈表示，明年將撥款7800萬元，推行已優化的「智惜用電服務」，支援弱勢社群減輕能源開支壓力、協助樓宇提升能源效益和推動交通工具電氣化。社區關愛方面，港燈會為合資格劏房租戶提供電費津貼，每戶1000元；亦向1萬個弱勢家庭派發現金券，每戶200元。港燈明年亦會繼續「港燈清涼角落」計劃，透過用電安全和節能活動及贈送空氣循環扇，支援基層家庭和長者應對高溫天氣。改善能源效益方面，「節能共享資助計劃」擴大資助範圍，每幢樓宇或處所最高可獲50萬元資助更換或提升老化的固定電力裝置。"
+  },
+  "tags": {
+   "en": [
+    "HK Electric",
+    "electricity subsidy",
+    "disadvantaged groups"
+   ],
+   "zh_hans": [
+    "港灯",
+    "电费津贴",
+    "弱势社群"
+   ],
+   "zh_hant": [
+    "港燈",
+    "電費津貼",
+    "弱勢社群"
+   ]
+  },
+  "title": {
+   "en": "HK Electric to spend HK$78 million on smart power service next year as subdivided-flat households get HK$1,000 subsidy",
+   "zh_hans": "港灯明年拨7800万推“智惜用电服务” 劏房户每户获1000元电费津贴",
+   "zh_hant": "港燈明年撥7800萬推「智惜用電服務」 劏房戶每戶獲1000元電費津貼"
+  },
+  "image_r2_key": "design/202611/20261123-hk-electric-78m-smart-power-v2.jpg"
+ },
+ {
   "category": "hk",
   "id": "20261123-passenger-duty-not-paid-cigarettes-jailed",
   "image_caption": "海關檢獲的未完稅香煙。（政府新聞處）",
@@ -40,6 +157,45 @@
   }
  },
  {
+  "category": "finance",
+  "id": "20261123-deloitte-hk-surplus-hk208b",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：德勤料政府本財年錄盈餘208億，儲備增至6863億，倡AI稅優吸高增值產業。場景：陽光下的香港政府總部大樓外觀，維港景色，藍天白雲，氣氛莊重專業。風格：寫實莊重，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「德勤料政府本財年錄盈餘208億」，第二行黃字寫「儲備增至6863億 倡AI稅優吸高增值產業」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-deloitte-hk-surplus-hk208b-v2.jpg",
+  "published_at": "2026-11-23T15:36:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878940-20261123.htm"
+  },
+  "summary": {
+   "en": "Accounting firm Deloitte expects the government to record a fiscal surplus of about HK$20.8 billion this financial year, with fiscal reserves rising to HK$686.3 billion by the end of March next year, reflecting disciplined public finances and success in capturing the economic recovery. Deloitte proposed a series of measures for next year's Budget, including a dedicated tax incentive framework for AI-related spending covering AI applications as well as development; including insurance policy investments in the eligible asset list for family offices; tax incentives for licensed digital asset practitioners in Hong Kong; and extending the stamp duty waiver for market makers to listed warrants, callable bull and bear contracts and other listed structured products. On livelihoods, Deloitte suggested a new salaries tax allowance for employing domestic helpers and an extra married person's allowance for dual-income couples with newborn children.",
+   "zh_hans": "会计师事务所德勤预计，政府本财政年度收支稳健，维持约208亿元财政盈余；预计到明年3月底财政储备将增至6863亿元，反映政府严守财政纪律之余，成功把握经济复苏机遇。德勤对下年度财政预算案提出多项建议，包括就AI相关开支设立专门税务优惠框架，涵盖AI应用而不只限于开发；将保单投资纳入家族办公室“合资格资产”清单；为香港持牌数字资产从业员提供税务优惠；以及将庄家业务印花税宽免扩展至上市认股权证、牛熊证等结构性产品。民生方面，德勤建议在薪俸税下新增聘用家庭佣工免税额，为有新生子女的双职夫妇提供额外已婚人士免税额。",
+   "zh_hant": "會計師事務所德勤預計，政府本財政年度收支穩健，維持約208億元財政盈餘；預計到明年3月底財政儲備將增至6863億元，反映政府嚴守財政紀律之餘，成功把握經濟復蘇機遇。德勤對下年度財政預算案提出多項建議，包括就AI相關開支設立專門稅務優惠框架，涵蓋AI應用而不僅限於開發；將保單投資納入家族辦公室「合資格資產」清單；為香港持牌數字資產從業員提供稅務優惠；以及將莊家業務印花稅寬免擴展至上市認股權證、牛熊證等結構性產品。民生方面，德勤建議在薪俸稅下新增聘用家庭傭工免稅額，為有新生子女的雙職夫婦提供額外已婚人士免稅額。"
+  },
+  "tags": {
+   "en": [
+    "Deloitte",
+    "fiscal surplus",
+    "Budget"
+   ],
+   "zh_hans": [
+    "德勤",
+    "财政盈余",
+    "财政预算案"
+   ],
+   "zh_hant": [
+    "德勤",
+    "財政盈餘",
+    "財政預算案"
+   ]
+  },
+  "title": {
+   "en": "Deloitte forecasts HK$20.8 billion government surplus this year as reserves rise to HK$686.3 billion",
+   "zh_hans": "德勤料政府本财年录盈余208亿 储备增至6863亿 倡AI税优吸高增值产业",
+   "zh_hant": "德勤料政府本財年錄盈餘208億 儲備增至6863億 倡AI稅優吸高增值產業"
+  },
+  "image_r2_key": "design/202611/20261123-deloitte-hk-surplus-hk208b-v2.jpg"
+ },
+ {
   "category": "hk",
   "id": "20261123-hku-histotripsy-kidney-cancer",
   "image_prompt": "電視新聞圖卡風格，16:9。事實：港大完成亞洲首兩宗無創超聲波治腎癌，病人翌日出院，招募15名早期患者試驗。場景：光亮潔淨的現代化醫院手術室，一部先進超聲波治療儀器在中央，醫護人員背影在旁準備，窗外陽光灑入，氣氛專業而充滿希望。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「港大完成亞洲首兩宗無創超聲波治腎癌」，第二行黃字寫「病人翌日出院 招募15名早期患者試驗」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
@@ -77,6 +233,45 @@
    "zh_hant": "港大完成亞洲首兩宗無創超聲波治腎癌 病人翌日出院 招募15名早期患者試驗"
   },
   "image_r2_key": "design/202611/20261123-hku-histotripsy-kidney-cancer.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-light-public-housing-hang-kwong-move-in",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：馬鞍山恆光街簡約公屋上周五入伙，855伙租金1200元起，3萬伙明年首季全數落成。場景：陽光下的馬鞍山恆光街簡約公屋新樓，白色外牆與綠化平台，住戶背影搬入新居，藍天白雲，氣氛溫馨朝氣。風格：寫實溫暖，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「馬鞍山恆光街簡約公屋上周五入伙」，第二行黃字寫「855伙租金1200元起 3萬伙明年首季全數落成」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-light-public-housing-hang-kwong-move-in-v2.jpg",
+  "published_at": "2026-11-23T12:42:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878920-20261123.htm"
+  },
+  "summary": {
+   "en": "The Housing Bureau said this year is a bumper year for light public housing, with the Hang Kwong Street project in Ma On Shan moving in last Friday, November 20. Deputy Financial Secretary Michael Wong, acting Secretary for Housing, handed keys to allocated families on the day. The Hang Kwong Street project is the last light public housing project built using modular integrated construction, offering 855 flats in one-to-two, three-to-four and four-to-five-person layouts, with monthly rents ranging from about HK$1,200 to HK$2,700. The bureau said all 30,000 light public housing flats across Hong Kong will be completed in the first quarter of next year, with the final two projects both school conversion projects.",
+   "zh_hans": "房屋局表示，今年是简约公屋的“丰收年”，马鞍山恒光街简约公屋项目上周五（11月20日）入伙，财政司副司长兼署理房屋局局长黄伟纶到场，向获编配单位的家庭派锁匙。恒光街项目是最后一个用组装合成建筑法兴建的简约公屋项目，共有855个单位，提供一二人、三四人及四五人户型，租金介乎约1200元至2700元。房屋局表示，全港3万个简约公屋单位将于明年首季全数落成，最后两个项目均为学校改建项目。",
+   "zh_hant": "房屋局表示，今年是簡約公屋的「豐收年」，馬鞍山恆光街簡約公屋項目上周五（11月20日）入伙，財政司副司長兼署理房屋局局長黃偉綸到場，向獲編配單位的家庭派鎖匙。恆光街項目是最後一個用組裝合成建築法（MiC）興建的簡約公屋項目，共有855個單位，提供一至二人、三至四人及四至五人戶型，租金介乎約1200元至2700元。房屋局表示，全港3萬個簡約公屋單位將於明年首季全數落成，最後兩個項目均為學校改建項目。"
+  },
+  "tags": {
+   "en": [
+    "light public housing",
+    "Housing Bureau",
+    "Ma On Shan"
+   ],
+   "zh_hans": [
+    "简约公屋",
+    "房屋局",
+    "马鞍山"
+   ],
+   "zh_hant": [
+    "簡約公屋",
+    "房屋局",
+    "馬鞍山"
+   ]
+  },
+  "title": {
+   "en": "Ma On Shan light public housing block moves in with 855 flats from HK$1,200 a month as 30,000-unit target nears completion",
+   "zh_hans": "马鞍山恒光街简约公屋上周五入伙 855伙租金1200元起 3万伙明年首季全数落成",
+   "zh_hant": "馬鞍山恆光街簡約公屋上周五入伙 855伙租金1200元起 3萬伙明年首季全數落成"
+  },
+  "image_r2_key": "design/202611/20261123-light-public-housing-hang-kwong-move-in-v2.jpg"
  },
  {
   "category": "finance",
@@ -311,6 +506,45 @@
    "zh_hant": "尖沙咀奪命車禍閉路電視曝光 私家車7秒撞倒4人 司機涉酒駕被捕"
   },
   "image_r2_key": "design/202611/20261123-tst-crash-cctv-footage-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-customs-counterfeit-hk68m-arrests",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：海關三星期掃蕩冒牌貨，檢12萬件市值6800萬，波鞋電話手錶全中招，兩人被捕。場景：光亮的海關檢查站，關員檢查一箱箱冒牌波鞋與手錶，貨物堆疊整齊，氣氛嚴肅。風格：寫實，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「海關三星期掃蕩冒牌貨」，第二行黃字寫「檢12萬件市值6800萬 兩人被捕」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-customs-counterfeit-hk68m-arrests-v2.jpg",
+  "published_at": "2026-11-23T11:32:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878905-20261123.htm"
+  },
+  "summary": {
+   "en": "Hong Kong Customs seized about 120,000 suspected counterfeit and infringing goods with an estimated market value of about HK$68 million in a three-week codenamed operation that began on October 23, targeting cross-border transshipment and the local supply of counterfeit goods. The seized items included trainers, mobile phones, phone accessories, clothing and watches, and two people were arrested. Customs said the operation targeted the cross-border movement and local distribution of counterfeit goods, with the seized products spanning everyday consumer goods and electronics. Investigations are continuing.",
+   "zh_hans": "海关由上月23日起，一连三星期采取代号特别行动，打击跨境转运及供应本地冒牌及侵权货品，检获约12万件怀疑冒牌及侵权货物，包括波鞋、电话、电话配件、衣服及手表等，估计市值共约6800万元，行动中两人被捕。海关表示，行动针对跨境转运及供应本地的冒牌货品活动，检获货物种类广泛，涵盖日常消费品及电子产品。案件仍在调查中。",
+   "zh_hant": "海關由上月23日起，一連三星期採取代號特別行動，打擊跨境轉運及供應本地冒牌及侵權貨品，檢獲約12萬件懷疑冒牌及侵權貨物，包括波鞋、電話、電話配件、衣服及手錶等，估計市值共約6800萬元，行動中兩人被捕。海關表示，行動針對跨境轉運及供應本地的冒牌貨品活動，檢獲貨物種類廣泛，涵蓋日常消費品及電子產品。案件仍在調查中。"
+  },
+  "tags": {
+   "en": [
+    "Customs",
+    "counterfeit goods",
+    "infringement"
+   ],
+   "zh_hans": [
+    "海关",
+    "冒牌货",
+    "侵权"
+   ],
+   "zh_hant": [
+    "海關",
+    "冒牌貨",
+    "侵權"
+   ]
+  },
+  "title": {
+   "en": "Customs seizes 120,000 counterfeit goods worth HK$68 million in three-week crackdown as two are arrested",
+   "zh_hans": "海关三星期扫荡冒牌货 检12万件市值6800万 波鞋电话手表全中招 两人被捕",
+   "zh_hant": "海關三星期掃蕩冒牌貨 檢12萬件市值6800萬 波鞋電話手錶全中招 兩人被捕"
+  },
+  "image_r2_key": "design/202611/20261123-customs-counterfeit-hk68m-arrests-v2.jpg"
  },
  {
   "category": "hk",
@@ -1755,158 +1989,6 @@
   }
  },
  {
-  "category": "finance",
-  "id": "20261123-hang-seng-close-22383-down-27",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：恒指收市跌27點報22383點，全日波幅逾400點，汽車股捱沽零跑挫近13%。場景：光亮現代化的股票交易大堂，大型電子屏幕顯示紅色下跌數字，交易員背影在旁，氣氛緊張。風格：寫實，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「恒指收市跌27點報22383點」，第二行黃字寫「全日波幅逾400點 汽車股捱沽零跑挫近13%」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T16:34:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878947-20261123.htm"
-  },
-  "summary": {
-   "en": "Hong Kong stocks narrowed their losses by the close, with the Hang Seng Index falling 27 points, or 0.12 per cent, to 22,383 on main-board turnover of nearly HK$253.1 billion. The index had dropped more than 410 points in early trading, breaching the 22,000 level to an intraday low of 21,998, before turning up nearly 30 points in the afternoon. The Hang Seng Tech Index fell three points to 3,508 after dropping more than 3 per cent and losing the 3,400 level early in the session. Car stocks were under pressure, with Nio, Li Auto and XPeng down nearly 4 to more than 6 per cent and Leapmotor plunging nearly 13 per cent, the worst performer among tech index constituents; AI-related shares rose, with Lenovo up nearly 8 per cent, the best performer in both indexes. The three oil majors and the three big mainland telecom stocks fell nearly 1 to nearly 3 per cent, while pharmaceutical and resources shares mostly rose.",
-   "zh_hans": "港股收市跌幅收窄，恒生指数初段曾跌逾410点，失守22000点关口，低见21998点，午后曾转升近30点，收市报22383点，跌27点，跌幅0.12%，主板成交额近2531亿元。科技指数初段曾跌逾3%，失守3400点，收市报3508点，跌3点。汽车股受压，蔚来、理想、小鹏跌近4%至逾6%，零跑大跌近13%，是表现最差的科指成分股；AI相关股份上升，联想集团高收近8%，是表现最好的恒指及科指成分股。三桶油、三大中资电讯股跌近1%至近3%，医药股、资源股普遍上升。",
-   "zh_hant": "港股收市跌幅收窄，恒生指數初段曾跌逾410點，失守22000點關口，低見21998點，午後曾轉升近30點，收市報22383點，跌27點，跌幅0.12%，主板成交額近2531億元。科技指數初段曾跌逾3%，失守3400點，收市報3508點，跌3點。汽車股受壓，蔚來、理想、小鵬跌近4%至逾6%，零跑大跌近13%，是表現最差的科指成份股；AI相關股份上升，聯想集團高收近8%，是表現最好的恒指及科指成份股。三桶油、三大中資電訊股跌近1%至近3%，醫藥股、資源股普遍上升。"
-  },
-  "tags": {
-   "en": [
-    "Hang Seng Index",
-    "Hong Kong stocks",
-    "car stocks"
-   ],
-   "zh_hans": [
-    "恒生指数",
-    "港股",
-    "汽车股"
-   ],
-   "zh_hant": [
-    "恒生指數",
-    "港股",
-    "汽車股"
-   ]
-  },
-  "title": {
-   "en": "Hang Seng closes 27 points lower at 22,383 after swinging more than 400 points as car stocks slide",
-   "zh_hans": "恒指收市跌27点报22383点 全日波幅逾400点 汽车股捱沽零跑挫近13%",
-   "zh_hant": "恒指收市跌27點報22383點 全日波幅逾400點 汽車股捱沽零跑挫近13%"
-  }
- },
- {
-  "category": "hk",
-  "id": "20261123-sun-dong-nanjing-hefei-visit",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：孫東今晚率團訪南京合肥，出席內地與香港科技合作會議，25日返港。場景：陽光普照的合肥現代化科研園區，高樓與實驗室大樓，藍天白雲，氣氛專業朝氣。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「孫東今晚率團訪南京合肥」，第二行黃字寫「出席內地與香港科技合作會議 25日返港」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T16:30:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300281.htm"
-  },
-  "summary": {
-   "en": "The Secretary for Innovation, Technology and Industry, Professor Sun Dong, will depart for Nanjing and Hefei this evening, leading a Hong Kong delegation to attend the 20th meeting of the Mainland/Hong Kong Science and Technology Co-operation Committee in Hefei on November 25. The meeting, co-chaired by Professor Sun and Vice Minister of Science and Technology Zhang Guangjun, organises and co-ordinates technological exchange and co-operation between the mainland and Hong Kong. In Hefei, Professor Sun will also attend a networking dinner on supporting mainland enterprises in going global, themed Anhui-Hong Kong Partnership: Setting Sail Together, and visit a local university, scientific research platforms and advanced technology companies. In Nanjing he will tour local universities, key research institutes and innovation and technology enterprises. The delegation includes Commissioner for Innovation and Technology Ivan Lee and representatives from universities, innovation and technology parks and research institutes. Professor Sun will return to Hong Kong on the afternoon of November 25, with Under Secretary Lillian Cheong acting as secretary during his absence.",
-   "zh_hans": "创新科技及工业局局长孙东今晚（11月23日）出发前往南京和合肥，率领香港代表团出席11月25日在合肥举行的第20次内地与香港科技合作委员会会议。会议由孙东与科技部副部长张广军共同主持，统筹内地与香港的科技交流合作。孙东在合肥亦会出席以“皖港携手 扬帆同行”为主题的支持内地企业“走出去”交流晚宴，并参观当地大学、科研平台及先进科技企业。访南京期间，他会参观当地大学、重点科研机构及科创企业，了解江苏省推动创科及相关产业的情况。代表团成员包括创新科技署署长李国彬及大学、创科园区和研发机构代表。孙东将于11月25日下午返港，离港期间由副局长张曼莉署任局长。",
-   "zh_hant": "創新科技及工業局局長孫東今晚（11月23日）出發前往南京和合肥，率領香港代表團出席11月25日在合肥舉行的第20次內地與香港科技合作委員會會議。會議由孫東與科技部副部長張廣軍共同主持，統籌內地與香港的科技交流合作。孫東在合肥亦會出席以「皖港攜手 揚帆同行」為主題的支持內地企業「走出去」交流晚宴，並參觀當地大學、科研平台及先進科技企業。訪南京期間，他會參觀當地大學、重點科研機構及科創企業，了解江蘇省推動創科及相關產業的情況。代表團成員包括創新科技署署長李國彬及大學、創科園區和研發機構代表。孫東將於11月25日下午返港，離港期間由副局長張曼莉署任局長。"
-  },
-  "tags": {
-   "en": [
-    "Sun Dong",
-    "Innovation and Technology Bureau",
-    "science and technology co-operation"
-   ],
-   "zh_hans": [
-    "孙东",
-    "创科局",
-    "科技合作"
-   ],
-   "zh_hant": [
-    "孫東",
-    "創科局",
-    "科技合作"
-   ]
-  },
-  "title": {
-   "en": "Innovation chief Sun Dong leads delegation to Nanjing and Hefei for mainland-Hong Kong science and technology talks",
-   "zh_hans": "孙东今晚率团访南京合肥 出席内地与香港科技合作会议 25日返港",
-   "zh_hant": "孫東今晚率團訪南京合肥 出席內地與香港科技合作會議 25日返港"
-  }
- },
- {
-  "category": "hk",
-  "id": "20261123-hk-electric-78m-smart-power",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：港燈明年撥7800萬推「智惜用電服務」，劏房戶每戶獲1000元電費津貼。場景：光亮溫暖的香港家庭客廳，長者與家人使用電風扇，窗外陽光灑入，氣氛溫馨。風格：寫實溫暖，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「港燈明年撥7800萬推智惜用電服務」，第二行黃字寫「劏房戶每戶獲1000元電費津貼」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T16:14:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878945-20261123.htm"
-  },
-  "summary": {
-   "en": "HK Electric said it will set aside HK$78 million next year to roll out an enhanced Smart Power Service, helping disadvantaged groups ease energy costs, assisting buildings in improving energy efficiency and promoting the electrification of transport. On community care, the company will provide electricity subsidies of HK$1,000 per household to eligible subdivided-flat tenants, and distribute cash coupons worth HK$200 each to 10,000 disadvantaged families. HK Electric will also continue its Cool Corner programme next summer, supporting grassroots families and elderly residents in coping with high temperatures through power-safety and energy-saving activities and gifts of air circulator fans. Under its energy-efficiency drive, the Energy Saving Sharing Subsidy Scheme will widen its scope, offering up to HK$500,000 per building or premises to replace or upgrade ageing fixed electrical installations.",
-   "zh_hans": "港灯表示，明年将拨款7800万元，推行已优化的“智惜用电服务”，支援弱势社群减轻能源开支压力、协助楼宇提升能源效益和推动交通工具电气化。社区关爱方面，港灯会为合资格劏房租户提供电费津贴，每户1000元；亦向1万个弱势家庭派发现金券，每户200元。港灯明年亦会继续“港灯清凉角落”计划，透过用电安全和节能活动及赠送空气循环扇，支援基层家庭和长者应对高温天气。改善能源效益方面，“节能共享资助计划”扩大资助范围，每幢楼宇或处所最高可获50万元资助更换或提升老化的固定电力装置。",
-   "zh_hant": "港燈表示，明年將撥款7800萬元，推行已優化的「智惜用電服務」，支援弱勢社群減輕能源開支壓力、協助樓宇提升能源效益和推動交通工具電氣化。社區關愛方面，港燈會為合資格劏房租戶提供電費津貼，每戶1000元；亦向1萬個弱勢家庭派發現金券，每戶200元。港燈明年亦會繼續「港燈清涼角落」計劃，透過用電安全和節能活動及贈送空氣循環扇，支援基層家庭和長者應對高溫天氣。改善能源效益方面，「節能共享資助計劃」擴大資助範圍，每幢樓宇或處所最高可獲50萬元資助更換或提升老化的固定電力裝置。"
-  },
-  "tags": {
-   "en": [
-    "HK Electric",
-    "electricity subsidy",
-    "disadvantaged groups"
-   ],
-   "zh_hans": [
-    "港灯",
-    "电费津贴",
-    "弱势社群"
-   ],
-   "zh_hant": [
-    "港燈",
-    "電費津貼",
-    "弱勢社群"
-   ]
-  },
-  "title": {
-   "en": "HK Electric to spend HK$78 million on smart power service next year as subdivided-flat households get HK$1,000 subsidy",
-   "zh_hans": "港灯明年拨7800万推“智惜用电服务” 劏房户每户获1000元电费津贴",
-   "zh_hant": "港燈明年撥7800萬推「智惜用電服務」 劏房戶每戶獲1000元電費津貼"
-  }
- },
- {
-  "category": "finance",
-  "id": "20261123-deloitte-hk-surplus-hk208b",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：德勤料政府本財年錄盈餘208億，儲備增至6863億，倡AI稅優吸高增值產業。場景：陽光下的香港政府總部大樓外觀，維港景色，藍天白雲，氣氛莊重專業。風格：寫實莊重，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「德勤料政府本財年錄盈餘208億」，第二行黃字寫「儲備增至6863億 倡AI稅優吸高增值產業」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T15:36:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878940-20261123.htm"
-  },
-  "summary": {
-   "en": "Accounting firm Deloitte expects the government to record a fiscal surplus of about HK$20.8 billion this financial year, with fiscal reserves rising to HK$686.3 billion by the end of March next year, reflecting disciplined public finances and success in capturing the economic recovery. Deloitte proposed a series of measures for next year's Budget, including a dedicated tax incentive framework for AI-related spending covering AI applications as well as development; including insurance policy investments in the eligible asset list for family offices; tax incentives for licensed digital asset practitioners in Hong Kong; and extending the stamp duty waiver for market makers to listed warrants, callable bull and bear contracts and other listed structured products. On livelihoods, Deloitte suggested a new salaries tax allowance for employing domestic helpers and an extra married person's allowance for dual-income couples with newborn children.",
-   "zh_hans": "会计师事务所德勤预计，政府本财政年度收支稳健，维持约208亿元财政盈余；预计到明年3月底财政储备将增至6863亿元，反映政府严守财政纪律之余，成功把握经济复苏机遇。德勤对下年度财政预算案提出多项建议，包括就AI相关开支设立专门税务优惠框架，涵盖AI应用而不只限于开发；将保单投资纳入家族办公室“合资格资产”清单；为香港持牌数字资产从业员提供税务优惠；以及将庄家业务印花税宽免扩展至上市认股权证、牛熊证等结构性产品。民生方面，德勤建议在薪俸税下新增聘用家庭佣工免税额，为有新生子女的双职夫妇提供额外已婚人士免税额。",
-   "zh_hant": "會計師事務所德勤預計，政府本財政年度收支穩健，維持約208億元財政盈餘；預計到明年3月底財政儲備將增至6863億元，反映政府嚴守財政紀律之餘，成功把握經濟復蘇機遇。德勤對下年度財政預算案提出多項建議，包括就AI相關開支設立專門稅務優惠框架，涵蓋AI應用而不僅限於開發；將保單投資納入家族辦公室「合資格資產」清單；為香港持牌數字資產從業員提供稅務優惠；以及將莊家業務印花稅寬免擴展至上市認股權證、牛熊證等結構性產品。民生方面，德勤建議在薪俸稅下新增聘用家庭傭工免稅額，為有新生子女的雙職夫婦提供額外已婚人士免稅額。"
-  },
-  "tags": {
-   "en": [
-    "Deloitte",
-    "fiscal surplus",
-    "Budget"
-   ],
-   "zh_hans": [
-    "德勤",
-    "财政盈余",
-    "财政预算案"
-   ],
-   "zh_hant": [
-    "德勤",
-    "財政盈餘",
-    "財政預算案"
-   ]
-  },
-  "title": {
-   "en": "Deloitte forecasts HK$20.8 billion government surplus this year as reserves rise to HK$686.3 billion",
-   "zh_hans": "德勤料政府本财年录盈余208亿 储备增至6863亿 倡AI税优吸高增值产业",
-   "zh_hant": "德勤料政府本財年錄盈餘208億 儲備增至6863億 倡AI稅優吸高增值產業"
-  }
- },
- {
   "category": "hk",
   "id": "20261123-worldskills-hk-15-medals",
   "image_prompt": "電視新聞圖卡風格，16:9。事實：世界技能大賽港隊奪15獎創歷屆最佳，1銀14優異獎，李家超讚說好香港故事。場景：光亮的技能比賽場館，年輕選手專注操作軌道車輛技術設備，陽光從窗外灑入，氣氛朝氣蓬勃。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「世界技能大賽港隊奪15獎創歷屆最佳」，第二行黃字寫「1銀14優異獎 李家超讚說好香港故事」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
@@ -2018,82 +2100,6 @@
    "en": "CLP to set aside HK$250 million for community support next year as LegCo reviews power tariff adjustment",
    "zh_hans": "两电电费检讨明立法会讨论 中电明年拨2.5亿支援社区 弱势社群占8000万",
    "zh_hant": "兩電電費檢討明立法會討論 中電明年撥2.5億支援社區 弱勢社群佔8000萬"
-  }
- },
- {
-  "category": "hk",
-  "id": "20261123-light-public-housing-hang-kwong-move-in",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：馬鞍山恆光街簡約公屋上周五入伙，855伙租金1200元起，3萬伙明年首季全數落成。場景：陽光下的馬鞍山恆光街簡約公屋新樓，白色外牆與綠化平台，住戶背影搬入新居，藍天白雲，氣氛溫馨朝氣。風格：寫實溫暖，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「馬鞍山恆光街簡約公屋上周五入伙」，第二行黃字寫「855伙租金1200元起 3萬伙明年首季全數落成」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T12:42:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878920-20261123.htm"
-  },
-  "summary": {
-   "en": "The Housing Bureau said this year is a bumper year for light public housing, with the Hang Kwong Street project in Ma On Shan moving in last Friday, November 20. Deputy Financial Secretary Michael Wong, acting Secretary for Housing, handed keys to allocated families on the day. The Hang Kwong Street project is the last light public housing project built using modular integrated construction, offering 855 flats in one-to-two, three-to-four and four-to-five-person layouts, with monthly rents ranging from about HK$1,200 to HK$2,700. The bureau said all 30,000 light public housing flats across Hong Kong will be completed in the first quarter of next year, with the final two projects both school conversion projects.",
-   "zh_hans": "房屋局表示，今年是简约公屋的“丰收年”，马鞍山恒光街简约公屋项目上周五（11月20日）入伙，财政司副司长兼署理房屋局局长黄伟纶到场，向获编配单位的家庭派锁匙。恒光街项目是最后一个用组装合成建筑法兴建的简约公屋项目，共有855个单位，提供一二人、三四人及四五人户型，租金介乎约1200元至2700元。房屋局表示，全港3万个简约公屋单位将于明年首季全数落成，最后两个项目均为学校改建项目。",
-   "zh_hant": "房屋局表示，今年是簡約公屋的「豐收年」，馬鞍山恆光街簡約公屋項目上周五（11月20日）入伙，財政司副司長兼署理房屋局局長黃偉綸到場，向獲編配單位的家庭派鎖匙。恆光街項目是最後一個用組裝合成建築法（MiC）興建的簡約公屋項目，共有855個單位，提供一至二人、三至四人及四至五人戶型，租金介乎約1200元至2700元。房屋局表示，全港3萬個簡約公屋單位將於明年首季全數落成，最後兩個項目均為學校改建項目。"
-  },
-  "tags": {
-   "en": [
-    "light public housing",
-    "Housing Bureau",
-    "Ma On Shan"
-   ],
-   "zh_hans": [
-    "简约公屋",
-    "房屋局",
-    "马鞍山"
-   ],
-   "zh_hant": [
-    "簡約公屋",
-    "房屋局",
-    "馬鞍山"
-   ]
-  },
-  "title": {
-   "en": "Ma On Shan light public housing block moves in with 855 flats from HK$1,200 a month as 30,000-unit target nears completion",
-   "zh_hans": "马鞍山恒光街简约公屋上周五入伙 855伙租金1200元起 3万伙明年首季全数落成",
-   "zh_hant": "馬鞍山恆光街簡約公屋上周五入伙 855伙租金1200元起 3萬伙明年首季全數落成"
-  }
- },
- {
-  "category": "hk",
-  "id": "20261123-customs-counterfeit-hk68m-arrests",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：海關三星期掃蕩冒牌貨，檢12萬件市值6800萬，波鞋電話手錶全中招，兩人被捕。場景：光亮的海關檢查站，關員檢查一箱箱冒牌波鞋與手錶，貨物堆疊整齊，氣氛嚴肅。風格：寫實，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「海關三星期掃蕩冒牌貨」，第二行黃字寫「檢12萬件市值6800萬 兩人被捕」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T11:32:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878905-20261123.htm"
-  },
-  "summary": {
-   "en": "Hong Kong Customs seized about 120,000 suspected counterfeit and infringing goods with an estimated market value of about HK$68 million in a three-week codenamed operation that began on October 23, targeting cross-border transshipment and the local supply of counterfeit goods. The seized items included trainers, mobile phones, phone accessories, clothing and watches, and two people were arrested. Customs said the operation targeted the cross-border movement and local distribution of counterfeit goods, with the seized products spanning everyday consumer goods and electronics. Investigations are continuing.",
-   "zh_hans": "海关由上月23日起，一连三星期采取代号特别行动，打击跨境转运及供应本地冒牌及侵权货品，检获约12万件怀疑冒牌及侵权货物，包括波鞋、电话、电话配件、衣服及手表等，估计市值共约6800万元，行动中两人被捕。海关表示，行动针对跨境转运及供应本地的冒牌货品活动，检获货物种类广泛，涵盖日常消费品及电子产品。案件仍在调查中。",
-   "zh_hant": "海關由上月23日起，一連三星期採取代號特別行動，打擊跨境轉運及供應本地冒牌及侵權貨品，檢獲約12萬件懷疑冒牌及侵權貨物，包括波鞋、電話、電話配件、衣服及手錶等，估計市值共約6800萬元，行動中兩人被捕。海關表示，行動針對跨境轉運及供應本地的冒牌貨品活動，檢獲貨物種類廣泛，涵蓋日常消費品及電子產品。案件仍在調查中。"
-  },
-  "tags": {
-   "en": [
-    "Customs",
-    "counterfeit goods",
-    "infringement"
-   ],
-   "zh_hans": [
-    "海关",
-    "冒牌货",
-    "侵权"
-   ],
-   "zh_hant": [
-    "海關",
-    "冒牌貨",
-    "侵權"
-   ]
-  },
-  "title": {
-   "en": "Customs seizes 120,000 counterfeit goods worth HK$68 million in three-week crackdown as two are arrested",
-   "zh_hans": "海关三星期扫荡冒牌货 检12万件市值6800万 波鞋电话手表全中招 两人被捕",
-   "zh_hant": "海關三星期掃蕩冒牌貨 檢12萬件市值6800萬 波鞋電話手錶全中招 兩人被捕"
   }
  }
 ]
