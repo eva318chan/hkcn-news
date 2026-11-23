@@ -157,6 +157,84 @@
  },
  {
   "category": "hk",
+  "id": "20261123-tst-crash-cctv-footage",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：尖沙咀奪命車禍閉路電視曝光，私家車7秒撞倒4人，司機涉酒駕被捕。場景：陽光下的尖沙咀寶勒巷街頭，行人路旁拉起警方封鎖線，警員在現場調查，背景是商舖及高樓大廈，氣氛嚴肅凝重。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「尖沙咀奪命車禍閉路電視曝光」，第二行黃字寫「私家車7秒撞倒4人 司機涉酒駕被捕」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-tst-crash-cctv-footage-v2.jpg",
+  "published_at": "2026-11-23T11:33:00+08:00",
+  "source": {
+   "name": "Dimsum Daily",
+   "url": "https://www.dimsumdaily.hk/new-cctv-footage-captures-sequence-of-fatal-tsim-sha-tsui-crash/"
+  },
+  "summary": {
+   "en": "Newly obtained CCTV footage has traced the sequence leading up to Sunday's fatal crash on Prat Avenue in Tsim Sha Tsui, which left one pedestrian dead and three others injured. The private car turned from Mody Road onto Hart Avenue at about 2.28pm, sideswiped a parked van, then turned onto Prat Avenue and mounted the pavement, striking four pedestrians within seven seconds. The 38-year-old driver was arrested on suspicion of drink-driving and dangerous driving causing death, while police are tracing the female passenger who left the scene with him.",
+   "zh_hans": "新曝光的闭路电视片段还原周日尖沙咀致命车祸经过：涉事私家车下午约2时28分由么地道转入赫德道，先撞向一辆停泊的客货车，之后沿赫德道行驶，右转入宝勒巷后铲上左边行人路，7秒内撞倒4名途人，造成1死3伤。38岁男司机事后涉嫌酒后驾驶及危险驾驶引致他人死亡被捕，警方正追查同车女乘客下落。路边酒精呼气测试据报超标，但警署其后的证据性测试结果在法定上限之内。",
+   "zh_hant": "新曝光的閉路電視片段還原周日尖沙咀致命車禍經過：涉事私家車下午約2時28分由麼地道轉入赫德道，先撞向一輛停泊的客貨車，之後沿赫德道行駛，右轉入寶勒巷後剷上左邊行人路，7秒內撞倒4名途人，造成1死3傷。38歲男司機事後涉嫌酒後駕駛及危險駕駛引致他人死亡被捕，警方正追查同車女乘客下落。路邊酒精呼氣測試據報超標，但警署其後的證據性測試結果在法定上限之內。"
+  },
+  "tags": {
+   "en": [
+    "Tsim Sha Tsui crash",
+    "fatal crash",
+    "drink-driving"
+   ],
+   "zh_hans": [
+    "尖沙咀车祸",
+    "夺命车祸",
+    "酒后驾驶"
+   ],
+   "zh_hant": [
+    "尖沙咀車禍",
+    "奪命車禍",
+    "酒後駕駛"
+   ]
+  },
+  "title": {
+   "en": "New CCTV footage traces fatal Tsim Sha Tsui crash as car hits four pedestrians in seven seconds and driver is arrested on drink-driving suspicion",
+   "zh_hans": "尖沙咀夺命车祸闭路电视曝光 私家车7秒撞倒4人 司机涉酒驾被捕",
+   "zh_hant": "尖沙咀奪命車禍閉路電視曝光 私家車7秒撞倒4人 司機涉酒駕被捕"
+  },
+  "image_r2_key": "design/202611/20261123-tst-crash-cctv-footage-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-building-maintenance-new-category",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：大型樓宇維修擬列新類別監管，圍標即除名，審批45日內完成，八成業主獲費用寬免。場景：陽光下的香港舊式住宅大廈外牆，搭起維修棚架，工人正在進行外牆維修工程，街道整潔，藍天白雲。風格：寫實莊重，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「大型樓宇維修擬列新類別監管 圍標即除名」，第二行黃字寫「審批45日內完成 八成業主獲費用寬免」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-building-maintenance-new-category-v2.jpg",
+  "published_at": "2026-11-23T11:29:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878902-20261123.htm"
+  },
+  "summary": {
+   "en": "The Legislative Council's development affairs panel will tomorrow discuss amendments to the Buildings Ordinance that would make large-scale building maintenance works a new regulated category, with stricter oversight and penalties than minor works. Contractors must submit plans and temporary protection arrangements to the Buildings Department before work begins and obtain approval and Fire Services permission; professionals or contractors found guilty of bid-rigging would be struck off directly without a disciplinary hearing. The Development Bureau expects approval within 45 days of receiving complete documents, and fee waivers or discounts for 80 per cent of owners using the maintenance support service.",
+   "zh_hans": "立法会发展事务委员会明日讨论《建筑物条例》修订草案，建议将大型楼宇维修工程列为新工程类别监管，规管及罚则比小型工程更严谨。承建商开工前须向屋宇署提交图则及临时保护措施安排，待审批及消防处批准；如触犯围标罪行，相关专业人士或承建商将直接除名。发展局预计承建商交齐文件后45日内可完成审批，并为八成业主提供维修局服务费用宽免或折扣。",
+   "zh_hant": "立法會發展事務委員會明日討論《建築物條例》修訂草案，建議將大型樓宇維修工程列為新工程類別監管，規管及罰則比小型工程更嚴謹。承建商開工前須向屋宇署提交圖則及臨時保護措施安排，待審批及消防處批准；如觸犯圍標罪行，相關專業人士或承建商將直接除名。發展局預計承建商交齊文件後45日內可完成審批，並為八成業主提供維修局服務費用寬免或折扣。"
+  },
+  "tags": {
+   "en": [
+    "building maintenance",
+    "Buildings Ordinance",
+    "bid-rigging"
+   ],
+   "zh_hans": [
+    "楼宇维修",
+    "建筑物条例",
+    "围标"
+   ],
+   "zh_hant": [
+    "樓宇維修",
+    "建築物條例",
+    "圍標"
+   ]
+  },
+  "title": {
+   "en": "Large-scale building maintenance works face new regulated category as bid-rigging brings instant delisting",
+   "zh_hans": "大型楼宇维修拟列新类别监管 围标即除名 审批45日内完成 八成业主获费用宽免",
+   "zh_hant": "大型樓宇維修擬列新類別監管 圍標即除名 審批45日內完成 八成業主獲費用寬免"
+  },
+  "image_r2_key": "design/202611/20261123-building-maintenance-new-category-v2.jpg"
+ },
+ {
+  "category": "hk",
   "id": "20261123-ha-chairman-chan-kin-por-dec-1",
   "image_prompt": "電視新聞圖卡風格，16:9。事實：醫管局新主席陳健波12月1日上任，任期兩年，范鴻齡卸任獲致謝。場景：陽光明媚的公立醫院大樓外景，醫護人員與市民在明亮的大堂進出，背景是現代化醫院建築與藍天，氣氛專業而安心。風格：寫實莊重，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「醫管局新主席陳健波12月1日上任」，第二行黃字寫「任期兩年 范鴻齡卸任獲致謝」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
   "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-ha-chairman-chan-kin-por-dec-1-v2.jpg",
@@ -1399,82 +1477,6 @@
    "en": "John Lee says Hong Kong will leverage its internal-external strengths to build a world-class bay area",
    "zh_hans": "李家超：香港发挥内联外通优势 共建世界一流湾区 助湾区企业出海开拓蓝海",
    "zh_hant": "李家超：香港發揮內聯外通優勢 共建世界一流灣區 助灣區企業出海開拓藍海 深化五方面協同"
-  }
- },
- {
-  "category": "hk",
-  "id": "20261123-tst-crash-cctv-footage",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：尖沙咀奪命車禍閉路電視曝光，私家車7秒撞倒4人，司機涉酒駕被捕。場景：陽光下的尖沙咀寶勒巷街頭，行人路旁拉起警方封鎖線，警員在現場調查，背景是商舖及高樓大廈，氣氛嚴肅凝重。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「尖沙咀奪命車禍閉路電視曝光」，第二行黃字寫「私家車7秒撞倒4人 司機涉酒駕被捕」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T11:33:00+08:00",
-  "source": {
-   "name": "Dimsum Daily",
-   "url": "https://www.dimsumdaily.hk/new-cctv-footage-captures-sequence-of-fatal-tsim-sha-tsui-crash/"
-  },
-  "summary": {
-   "en": "Newly obtained CCTV footage has traced the sequence leading up to Sunday's fatal crash on Prat Avenue in Tsim Sha Tsui, which left one pedestrian dead and three others injured. The private car turned from Mody Road onto Hart Avenue at about 2.28pm, sideswiped a parked van, then turned onto Prat Avenue and mounted the pavement, striking four pedestrians within seven seconds. The 38-year-old driver was arrested on suspicion of drink-driving and dangerous driving causing death, while police are tracing the female passenger who left the scene with him.",
-   "zh_hans": "新曝光的闭路电视片段还原周日尖沙咀致命车祸经过：涉事私家车下午约2时28分由么地道转入赫德道，先撞向一辆停泊的客货车，之后沿赫德道行驶，右转入宝勒巷后铲上左边行人路，7秒内撞倒4名途人，造成1死3伤。38岁男司机事后涉嫌酒后驾驶及危险驾驶引致他人死亡被捕，警方正追查同车女乘客下落。路边酒精呼气测试据报超标，但警署其后的证据性测试结果在法定上限之内。",
-   "zh_hant": "新曝光的閉路電視片段還原周日尖沙咀致命車禍經過：涉事私家車下午約2時28分由麼地道轉入赫德道，先撞向一輛停泊的客貨車，之後沿赫德道行駛，右轉入寶勒巷後剷上左邊行人路，7秒內撞倒4名途人，造成1死3傷。38歲男司機事後涉嫌酒後駕駛及危險駕駛引致他人死亡被捕，警方正追查同車女乘客下落。路邊酒精呼氣測試據報超標，但警署其後的證據性測試結果在法定上限之內。"
-  },
-  "tags": {
-   "en": [
-    "Tsim Sha Tsui crash",
-    "fatal crash",
-    "drink-driving"
-   ],
-   "zh_hans": [
-    "尖沙咀车祸",
-    "夺命车祸",
-    "酒后驾驶"
-   ],
-   "zh_hant": [
-    "尖沙咀車禍",
-    "奪命車禍",
-    "酒後駕駛"
-   ]
-  },
-  "title": {
-   "en": "New CCTV footage traces fatal Tsim Sha Tsui crash as car hits four pedestrians in seven seconds and driver is arrested on drink-driving suspicion",
-   "zh_hans": "尖沙咀夺命车祸闭路电视曝光 私家车7秒撞倒4人 司机涉酒驾被捕",
-   "zh_hant": "尖沙咀奪命車禍閉路電視曝光 私家車7秒撞倒4人 司機涉酒駕被捕"
-  }
- },
- {
-  "category": "hk",
-  "id": "20261123-building-maintenance-new-category",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：大型樓宇維修擬列新類別監管，圍標即除名，審批45日內完成，八成業主獲費用寬免。場景：陽光下的香港舊式住宅大廈外牆，搭起維修棚架，工人正在進行外牆維修工程，街道整潔，藍天白雲。風格：寫實莊重，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「大型樓宇維修擬列新類別監管 圍標即除名」，第二行黃字寫「審批45日內完成 八成業主獲費用寬免」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T11:29:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878902-20261123.htm"
-  },
-  "summary": {
-   "en": "The Legislative Council's development affairs panel will tomorrow discuss amendments to the Buildings Ordinance that would make large-scale building maintenance works a new regulated category, with stricter oversight and penalties than minor works. Contractors must submit plans and temporary protection arrangements to the Buildings Department before work begins and obtain approval and Fire Services permission; professionals or contractors found guilty of bid-rigging would be struck off directly without a disciplinary hearing. The Development Bureau expects approval within 45 days of receiving complete documents, and fee waivers or discounts for 80 per cent of owners using the maintenance support service.",
-   "zh_hans": "立法会发展事务委员会明日讨论《建筑物条例》修订草案，建议将大型楼宇维修工程列为新工程类别监管，规管及罚则比小型工程更严谨。承建商开工前须向屋宇署提交图则及临时保护措施安排，待审批及消防处批准；如触犯围标罪行，相关专业人士或承建商将直接除名。发展局预计承建商交齐文件后45日内可完成审批，并为八成业主提供维修局服务费用宽免或折扣。",
-   "zh_hant": "立法會發展事務委員會明日討論《建築物條例》修訂草案，建議將大型樓宇維修工程列為新工程類別監管，規管及罰則比小型工程更嚴謹。承建商開工前須向屋宇署提交圖則及臨時保護措施安排，待審批及消防處批准；如觸犯圍標罪行，相關專業人士或承建商將直接除名。發展局預計承建商交齊文件後45日內可完成審批，並為八成業主提供維修局服務費用寬免或折扣。"
-  },
-  "tags": {
-   "en": [
-    "building maintenance",
-    "Buildings Ordinance",
-    "bid-rigging"
-   ],
-   "zh_hans": [
-    "楼宇维修",
-    "建筑物条例",
-    "围标"
-   ],
-   "zh_hant": [
-    "樓宇維修",
-    "建築物條例",
-    "圍標"
-   ]
-  },
-  "title": {
-   "en": "Large-scale building maintenance works face new regulated category as bid-rigging brings instant delisting",
-   "zh_hans": "大型楼宇维修拟列新类别监管 围标即除名 审批45日内完成 八成业主获费用宽免",
-   "zh_hant": "大型樓宇維修擬列新類別監管 圍標即除名 審批45日內完成 八成業主獲費用寬免"
   }
  },
  {
