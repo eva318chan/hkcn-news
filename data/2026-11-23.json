@@ -1,6 +1,45 @@
 [
  {
   "category": "hk",
+  "id": "20261123-public-housing-building-control-section",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：房屋局成立公屋建築管制組取代獨立審查組，加強規管公屋維修及新建工程。場景：陽光下的香港公共屋邨大樓群，樓宇外牆簇新，藍天白雲，氣氛明朗有序。風格：寫實明朗，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「房屋局成立公屋建築管制組」，第二行黃字寫「接管獨立審查組加強規管維修」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-public-housing-building-control-section-v2.jpg",
+  "published_at": "2026-11-23T18:20:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300615.htm"
+  },
+  "summary": {
+   "en": "The Housing Bureau announced today that the Public Housing Building Control Section has been formally established to replace the former Independent Checking Unit, strengthening regulation of existing buildings and maintenance and renovation works in all public rental housing estates and subsidised sale housing courts, as well as new public housing projects by the Housing Authority. The new section has two sub-sections covering new developments and existing building control, and will apply a new regulatory regime to large-scale maintenance projects in individual estates, co-ordinating supervision of the works in an integrated way. Project teams have been set up for the five housing courts and estates currently undergoing large-scale maintenance, with a liaison officer assigned to each, and the officers have already contacted the owners' corporations to explain the section's functions and the help available. The section will also continue improvement measures including targeted regulation of maintenance works, routine surprise inspections, closer monitoring of registered inspectors and contractors, and using technology to combat fraud.",
+   "zh_hans": "房屋局今日宣布，公屋建筑管制组正式成立，取代原有的独立审查组，专责加强规管所有公共租住屋邨及已出售或分拆的资助出售房屋屋苑的现有楼宇、维修及翻新工程，以及房委会的新建公屋发展项目。管制组下设新建发展及现有楼宇管制两个分组，针对个别屋苑或屋邨的大型维修项目实施新监管制度，统筹监督维修工程，改善项目协调及沟通，并处理相关风险。现有楼宇管制分组已为目前正进行大型维修的五个屋苑或屋邨设立专责项目小组，每个屋苑或屋邨均获派联络主任，已主动联络业主立案法团介绍管制组职能及可提供的协助。管制组亦会继续落实多项改善措施，包括针对性规管维修工程、例行突击巡查、加强监察注册检验人员及注册承建商表现，以及善用科技打击欺诈。",
+   "zh_hant": "房屋局今日宣布，公屋建築管制組正式成立，取代原有的獨立審查組，專責加強規管所有公共租住屋邨及已出售或分拆的資助出售房屋屋苑的現有樓宇、維修及翻新工程，以及房委會的新建公屋發展項目。管制組下設新建發展及現有樓宇管制兩個分組，針對個別屋苑或屋邨的大型維修項目實施新監管制度，統籌監督維修工程，改善項目協調及溝通，並處理相關風險。現有樓宇管制分組已為目前正進行大型維修的五個屋苑或屋邨設立專責項目小組，每個屋苑或屋邨均獲派聯絡主任，已主動聯絡業主立案法團介紹管制組職能及可提供的協助。管制組亦會繼續落實多項改善措施，包括針對性規管維修工程、例行突擊巡查、加強監察註冊檢驗人員及註冊承建商表現，以及善用科技打擊欺詐。"
+  },
+  "tags": {
+   "en": [
+    "Public Housing Building Control Section",
+    "Housing Bureau",
+    "public housing maintenance"
+   ],
+   "zh_hans": [
+    "公屋建筑管制组",
+    "房屋局",
+    "公屋维修"
+   ],
+   "zh_hant": [
+    "公屋建築管制組",
+    "房屋局",
+    "公屋維修"
+   ]
+  },
+  "title": {
+   "en": "Housing Bureau sets up public housing building control section to take over from checking unit and tighten maintenance oversight",
+   "zh_hans": "房屋局成立公屋建筑管制组 接管独立审查组加强规管维修",
+   "zh_hant": "房屋局成立公屋建築管制組 接管獨立審查組加強規管維修"
+  },
+  "image_r2_key": "design/202611/20261123-public-housing-building-control-section-v2.jpg"
+ },
+ {
+  "category": "hk",
   "id": "20261123-lee-macrofire-reform-progress-report",
   "image_caption": "李家超（右二）主持會議，聽取就宏福苑大火進行系統性改革的進度報告。（政府新聞處）",
   "image_prompt": "",
@@ -38,6 +77,123 @@
    "zh_hant": "李家超聽取宏福苑大火改革進度報告 促盡快提交六條修例草案"
   },
   "image_r2_key": "design/202611/20261123-lee-macrofire-reform-progress-report.jpg"
+ },
+ {
+  "category": "finance",
+  "id": "20261123-hkicl-fraudulent-website-fpshk-help",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：HKICL再揭假網站fpshk.help冒認買家保障，呼籲市民切勿提供個人資料。場景：陽光下的現代辦公室內，一個人用手機進行網上付款，手機屏幕只顯示模糊光影、沒有任何文字，窗外城市景色明亮，氣氛警惕專業。風格：寫實警惕，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「HKICL再揭假網站冒認買家保障」，第二行黃字寫「fpshk.help呃個人資料 切勿上當」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-hkicl-fraudulent-website-fpshk-help-v2.jpg",
+  "published_at": "2026-11-23T17:45:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300530.htm"
+  },
+  "summary": {
+   "en": "Hong Kong Interbank Clearing Limited has found a fraudulent website at fpshk.help purporting to be from the company, offering services under the guise of Buyer Online Protection including refunds to buyers, reporting of unauthorised online transactions and online transaction support for FPS payments, and directing users to fraudsters impersonating customer service staff. HKICL stressed the website has no affiliation with the company or any of its businesses, and that it does not normally provide FPS services directly to individual members of the public or contact them proactively. The public should only trust the official websites www.hkicl.com.hk and fps.hkicl.com.hk, and can call 2533 1111 to verify suspicious communications; anyone who suspects they have been defrauded should report to police promptly. This is the second such alert from HKICL in a short period, after it exposed the fraudulent website fpshk.xyz on November 21.",
+   "zh_hans": "香港银行同业结算有限公司近日发现假网站fpshk.help冒认该公司，以“买家网上保障”名义提供买家退款、未经授权网上交易举报及网上交易支援等服务，并引导用户联络冒充客服人员的骗徒。结算公司澄清，该假网站与公司及旗下任何业务均无关，并强调在一般情况下不会直接向个别市民提供转数快服务，亦不会主动联络市民。市民应认准结算公司官方网站www.hkicl.com.hk及fps.hkicl.com.hk，如收到可疑来电或讯息，可致电2533 1111核实；怀疑受骗应尽快报警。这是结算公司继本月21日揭发假网站fpshk.xyz后，短期内第二度发出同类警示。",
+   "zh_hant": "香港銀行同業結算有限公司近日發現假網站fpshk.help冒認該公司，以「買家網上保障」名義提供買家退款、未經授權網上交易舉報及網上交易支援等服務，並引導用戶聯絡冒充客服人員的騙徒。結算公司澄清，該假網站與公司及旗下任何業務均無關，並強調在一般情況下不會直接向個別市民提供轉數快服務，亦不會主動聯絡市民。市民應認準結算公司官方網站www.hkicl.com.hk及fps.hkicl.com.hk，如收到可疑來電或訊息，可致電2533 1111核實；懷疑受騙應盡快報警。這是結算公司繼本月21日揭發假網站fpshk.xyz後，短期內第二度發出同類警示。"
+  },
+  "tags": {
+   "en": [
+    "HKICL",
+    "fraudulent website",
+    "Faster Payment System"
+   ],
+   "zh_hans": [
+    "HKICL",
+    "假网站",
+    "转数快"
+   ],
+   "zh_hant": [
+    "HKICL",
+    "假網站",
+    "轉數快"
+   ]
+  },
+  "title": {
+   "en": "HKICL exposes another fake website fpshk.help posing as buyer protection and urges public not to share personal data",
+   "zh_hans": "HKICL再揭假网站冒认买家保障 fpshk.help骗个人资料 切勿上当",
+   "zh_hant": "HKICL再揭假網站冒認買家保障 fpshk.help呃個人資料 切勿上當"
+  },
+  "image_r2_key": "design/202611/20261123-hkicl-fraudulent-website-fpshk-help-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-bid-rigging-second-round-33-arrested",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：打擊圍標特遣隊第二輪行動再瓦解一個圍標集團，涉15個屋苑及大廈工程合約逾1.3億，拘捕33人。場景：陽光下的香港住宅大廈外牆，維修棚架和吊船清晰可見，藍天白雲，氣氛嚴肅專業。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「圍標特遣隊第二輪行動再瓦解集團」，第二行黃字寫「涉15屋苑工程合約逾1.3億 拘33人」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-bid-rigging-second-round-33-arrested-v2.jpg",
+  "published_at": "2026-11-23T17:41:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878964-20261123.htm"
+  },
+  "summary": {
+   "en": "The government's joint task force against bid-rigging in building maintenance works has carried out a second round of operations, smashing another syndicate involving 15 housing estates and residential buildings across Hong Kong, with works contracts totalling more than HK$130 million, and blocking two maintenance contracts worth about HK$7.6 million. Thirty-three people were arrested, including contractors, directors of works companies and owners' corporation members, some with triad backgrounds, on suspicion of forgery and conspiracy to defraud. Secretary for Security Chris Tang said the syndicate bought flats to infiltrate owners' corporations, bribed or intimidated professionals into becoming rubber stamps, and falsely claimed buildings had received mandatory inspection notices to rush owners into approving works and funding. Police also smashed five illegal gambling dens, three illegal petrol stations and ten illicit cigarette warehouses run by the same triad group, arresting a further 64 people.",
+   "zh_hans": "政府打击楼宇维修工程围标联合特遣队近日展开第二轮行动，再瓦解一个围标集团，涉及全港15个屋苑或住宅大厦，工程合约总额逾1亿3000万元，并成功阻止该集团两份价值约760万元的楼宇维修合约。当局拘捕33人，包括承建商、工程公司董事及业主立案法团成员等，部分人有黑社会背景，涉嫌伪造文书及串谋诈骗。保安局局长邓炳强表示，集团预先买入单位渗透法团、收买或恐吓专业人士沦为“橡皮图章”，又讹称大厦收到强制验楼通知，营造工程急需开展的假象，操控招标结果。行动中警方亦捣破该黑社会集团操控的5个非法赌档、3个非法加油站及10个私烟仓，共拘捕64名相关人士。",
+   "zh_hant": "政府打擊樓宇維修工程圍標聯合特遣隊近日展開第二輪行動，再瓦解一個圍標集團，涉及全港15個屋苑或住宅大廈，工程合約總額逾1億3,000萬元，並成功阻止該集團兩份價值約760萬元的樓宇維修合約。當局拘捕33人，包括承建商、工程公司董事及業主立案法團成員等，部分人有黑社會背景，涉嫌偽造文書及串謀詐騙。保安局局長鄧炳強表示，集團預先買入單位滲透法團、收買或恐嚇專業人士淪為「橡皮圖章」，又訛稱大廈收到強制驗樓通知，營造工程急需開展的假象，操控招標結果。行動中警方亦搗破該黑社會集團操控的5個非法賭檔、3個非法加油站及10個私煙倉，共拘捕64名相關人士。"
+  },
+  "tags": {
+   "en": [
+    "bid-rigging",
+    "building maintenance",
+    "Chris Tang"
+   ],
+   "zh_hans": [
+    "打击围标",
+    "楼宇维修",
+    "邓炳强"
+   ],
+   "zh_hant": [
+    "打擊圍標",
+    "樓宇維修",
+    "鄧炳強"
+   ]
+  },
+  "title": {
+   "en": "Anti-bid-rigging task force smashes second syndicate covering 15 estates and HK$130m in contracts as 33 arrested",
+   "zh_hans": "围标特遣队第二轮行动再瓦解集团 涉15屋苑工程合约逾1.3亿拘33人",
+   "zh_hant": "圍標特遣隊第二輪行動再瓦解集團 涉15屋苑工程合約逾1.3億 拘33人"
+  },
+  "image_r2_key": "design/202611/20261123-bid-rigging-second-round-33-arrested-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-hop-on-macrofire-owners-meeting-dec-8",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：宏福苑委任管理人合安下月8日召開業主周年大會，民政局長麥美娟稱按法例要求依法辦事。場景：陽光下的大埔社區中心外觀，居民陸續進出，藍天白雲，氣氛平和有序。風格：寫實平和，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「宏福苑下月8日召開業主大會」，第二行黃字寫「麥美娟稱按法例要求依法辦事」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-hop-on-macrofire-owners-meeting-dec-8-v2.jpg",
+  "published_at": "2026-11-23T16:56:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878955-20261123.htm"
+  },
+  "summary": {
+   "en": "Hop On Management Company, the appointed manager of the Wang Fuk Court owners' corporation, will hold the corporation's annual general meeting at 7pm on December 8 at the Tai Po Community Centre, with owners able to pre-register to attend from now until noon on December 3. The agenda includes a report by the manager on the estate's finances and discussion and voting on the appointment of an auditor for the 2026 financial year. Secretary for Home and Youth Affairs Alice Mak said the meeting is being held in accordance with the Building Management Ordinance, which requires a corporation's management committee to hold its next annual general meeting within 12 to 15 months of the previous one, and that the agenda items are also required by the ordinance.",
+   "zh_hans": "宏福苑业主立案法团的委任管理人合安管理有限公司将于下月8日晚上7时，在大埔社区中心召开法团业主周年大会，业主即日起至下月3日中午可预先登记出席。大会议程包括管理人汇报屋苑财务状况，以及讨论及议决选聘2026年财政年度的核数师。民政及青年事务局局长麦美娟表示，今次召开业主周年大会是按《建筑物管理条例》要求，属依法办事的行动，因为条例要求法团管委会在上一次周年业主大会召开后12至15个月内，召开下一次周年业主大会，议程亦属条例要求。",
+   "zh_hant": "宏福苑業主立案法團的委任管理人合安管理有限公司將於下月8日晚上7時，在大埔社區中心召開法團業主周年大會，業主即日起至下月3日中午可預先登記出席。大會議程包括管理人匯報屋苑財務狀況，以及討論及議決選聘2026年財政年度的核數師。民政及青年事務局局長麥美娟表示，今次召開業主周年大會是按《建築物管理條例》要求，屬依法辦事的行動，因為條例要求法團管委會在上一次周年業主大會召開後12至15個月內，召開下一次周年業主大會，議程亦屬條例要求。"
+  },
+  "tags": {
+   "en": [
+    "Wang Fuk Court",
+    "owners' meeting",
+    "Alice Mak"
+   ],
+   "zh_hans": [
+    "宏福苑",
+    "业主大会",
+    "麦美娟"
+   ],
+   "zh_hant": [
+    "宏福苑",
+    "業主大會",
+    "麥美娟"
+   ]
+  },
+  "title": {
+   "en": "Wang Fuk Court owners' meeting set for December 8 as Alice Mak says it follows the law",
+   "zh_hans": "宏福苑下月8日召开业主大会 麦美娟称按法例要求依法办事",
+   "zh_hant": "宏福苑下月8日召開業主大會 麥美娟稱按法例要求依法辦事"
+  },
+  "image_r2_key": "design/202611/20261123-hop-on-macrofire-owners-meeting-dec-8-v2.jpg"
  },
  {
   "category": "world",
@@ -196,6 +352,45 @@
   "image_r2_key": "design/202611/20261123-hk-electric-78m-smart-power-v2.jpg"
  },
  {
+  "category": "tech",
+  "id": "20261123-honor-700-series-launch",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：榮耀700系列武漢發佈，全系2億像素主攝、9000mAh電池，國補價2899元人民幣起。場景：陽光下的現代科技發佈會舞台，大屏幕只顯示柔和光影、沒有任何文字，觀眾席座無虛席，氣氛熱鬧明亮。風格：寫實熱鬧，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「榮耀700系列武漢發佈」，第二行黃字寫「2億像素 9000mAh電池 2899元起」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-honor-700-series-launch-v2.jpg",
+  "published_at": "2026-11-23T15:55:00+08:00",
+  "source": {
+   "name": "新浪香港",
+   "url": "https://portal.sina.com.hk/technology/sina/2026/11/23/1995338/%e6%a6%ae%e8%80%80700%e7%b3%bb%e5%88%97%e7%99%bc%e4%bd%88%ef%bc%9a%e6%80%a7%e8%83%bd%e8%b6%8a%e7%b4%9a%e9%a6%96%e9%8a%b7%e5%9c%8b%e8%a3%9c%e5%83%b92899%e5%85%83%e8%b5%b7/"
+  },
+  "summary": {
+   "en": "Honor today launched the Honor 700 series at a product event in Wuhan, positioning it as a trendy imaging-focused light flagship. The range comprises three models, the Honor 700 Pro, Honor 700 and Honor 700S, priced from RMB 2,899 after national subsidies, with first sales starting November 27. All models feature a 200-megapixel main camera, while the 700 Pro and 700 add a 50-megapixel periscope telephoto lens with 3.5x optical zoom and 120x digital zoom, plus a 200-megapixel selfie system with an adjustable soft-light ring. The series also carries a 9,000mAh fifth-generation Qinghai Lake battery in a body just 7.96mm thick, 80W wired fast charging, an AI smart rear display and the MagicOS 11 system. Honor chief executive Li Jian said the series was made by young people who love life, for young users who love life.",
+   "zh_hans": "荣耀今日在武汉举行新品发布会，推出定位“潮趣影像轻旗舰”的荣耀700系列，包括荣耀700 Pro、荣耀700及荣耀700S三款机型，国补后售价由2,899元人民币起，11月27日起首销。全系标配2亿像素电影感主摄，荣耀700 Pro及荣耀700另配备5,000万像素潜望长焦，支援3.5倍光学变焦及120倍数字变焦，并配备2亿柔光自拍系统及可调柔光环。系列亦全系搭载9000mAh第五代青海湖电池，机身厚度仅7.96毫米，支援80W有线快充，并配备荣耀AI灵动背屏及MagicOS 11系统。荣耀行政总裁李健表示，系列由一群热爱生活的年轻人打造，献给同样热爱生活的年轻用户。",
+   "zh_hant": "榮耀今日在武漢舉行新品發佈會，推出定位「潮趣影像輕旗艦」的榮耀700系列，包括榮耀700 Pro、榮耀700及榮耀700S三款機型，國補後售價由2,899元人民幣起，11月27日起首銷。全系標配2億像素電影感主攝，榮耀700 Pro及榮耀700另配備5,000萬像素潛望長焦，支援3.5倍光學變焦及120倍數字變焦，並配備2億柔光自拍系統及可調柔光環。系列亦全系搭載9000mAh第五代青海湖電池，機身厚度僅7.96毫米，支援80W有線快充，並配備榮耀AI靈動背屏及MagicOS 11系統。榮耀行政總裁李健表示，系列由一群熱愛生活的年輕人打造，獻給同樣熱愛生活的年輕用戶。"
+  },
+  "tags": {
+   "en": [
+    "Honor 700",
+    "smartphone",
+    "product launch"
+   ],
+   "zh_hans": [
+    "荣耀700",
+    "智能手机",
+    "新品发布"
+   ],
+   "zh_hant": [
+    "榮耀700",
+    "智能手機",
+    "新品發佈"
+   ]
+  },
+  "title": {
+   "en": "Honor 700 series debuts in Wuhan with 200MP cameras across the range and 9,000mAh batteries from RMB 2,899",
+   "zh_hans": "荣耀700系列武汉发布 2亿像素 9000mAh电池 2899元起",
+   "zh_hant": "榮耀700系列武漢發佈 2億像素 9000mAh電池 2899元起"
+  },
+  "image_r2_key": "design/202611/20261123-honor-700-series-launch-v2.jpg"
+ },
+ {
   "category": "hk",
   "id": "20261123-passenger-duty-not-paid-cigarettes-jailed",
   "image_caption": "海關檢獲的未完稅香煙。（政府新聞處）",
@@ -352,6 +547,45 @@
    "zh_hant": "國際刑警大會下周一連四日香港舉行 逾千人與會 全港設臨時限飛區禁無人機"
   },
   "image_r2_key": "design/202611/20261123-interpol-general-assembly-hk.jpg"
+ },
+ {
+  "category": "finance",
+  "id": "20261123-fps-system-enhancement-nov-29",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：轉數快11月29日凌晨1時至上午11時系統提升，暫停服務10小時，市民宜預早安排付款。場景：陽光下的香港街頭，一個人在便利店櫃枱前用手機付款，畫面光亮，氣氛日常輕鬆。風格：寫實輕鬆，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「轉數快11月29日凌晨系統提升」，第二行黃字寫「暫停服務10小時 宜預早安排付款」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-fps-system-enhancement-nov-29-v2.jpg",
+  "published_at": "2026-11-23T15:00:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300443.htm"
+  },
+  "summary": {
+   "en": "The Hong Kong Monetary Authority announced today that the Faster Payment System will be unavailable from 1am to 11am on Sunday, November 29, for a planned system enhancement by its operator, Hong Kong Interbank Clearing Limited. The ten-hour suspension means the public will not be able to make FPS payments or transfers during that period. The authority has asked banks and stored value facility operators to notify customers in advance and in good time, and members of the public can contact individual banks or operators for details of the affected services and should make advance arrangements for their payment activities if necessary.",
+   "zh_hans": "金管局今日宣布，转数快将于11月29日（星期日）凌晨1时至上午11时，因应系统提升暂停服务10小时，期间市民无法使用转数快付款及转账。系统提升由转数快营运机构香港银行同业结算有限公司进行。金管局已要求银行及储值支付工具营运商提前及适时通知客户，市民可向个别银行或营运商查询受影响服务详情，如有需要应预早安排付款活动。",
+   "zh_hant": "金管局今日宣布，轉數快將於11月29日（星期日）凌晨1時至上午11時，因應系統提升暫停服務10小時，期間市民無法使用轉數快付款及轉賬。系統提升由轉數快營運機構香港銀行同業結算有限公司進行。金管局已要求銀行及儲值支付工具營運商提前及適時通知客戶，市民可向個別銀行或營運商查詢受影響服務詳情，如有需要應預早安排付款活動。"
+  },
+  "tags": {
+   "en": [
+    "Faster Payment System",
+    "HKMA",
+    "system enhancement"
+   ],
+   "zh_hans": [
+    "转数快",
+    "金管局",
+    "系统提升"
+   ],
+   "zh_hant": [
+    "轉數快",
+    "金管局",
+    "系統提升"
+   ]
+  },
+  "title": {
+   "en": "Faster Payment System to pause for 10 hours on November 29 for upgrade as public told to plan payments early",
+   "zh_hans": "转数快11月29日凌晨系统提升 暂停服务10小时 宜预早安排付款",
+   "zh_hant": "轉數快11月29日凌晨系統提升 暫停服務10小時 宜預早安排付款"
+  },
+  "image_r2_key": "design/202611/20261123-fps-system-enhancement-nov-29-v2.jpg"
  },
  {
   "category": "hk",
@@ -2149,44 +2383,6 @@
  },
  {
   "category": "hk",
-  "id": "20261123-public-housing-building-control-section",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：房屋局成立公屋建築管制組取代獨立審查組，加強規管公屋維修及新建工程。場景：陽光下的香港公共屋邨大樓群，樓宇外牆簇新，藍天白雲，氣氛明朗有序。風格：寫實明朗，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「房屋局成立公屋建築管制組」，第二行黃字寫「接管獨立審查組加強規管維修」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T18:20:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300615.htm"
-  },
-  "summary": {
-   "en": "The Housing Bureau announced today that the Public Housing Building Control Section has been formally established to replace the former Independent Checking Unit, strengthening regulation of existing buildings and maintenance and renovation works in all public rental housing estates and subsidised sale housing courts, as well as new public housing projects by the Housing Authority. The new section has two sub-sections covering new developments and existing building control, and will apply a new regulatory regime to large-scale maintenance projects in individual estates, co-ordinating supervision of the works in an integrated way. Project teams have been set up for the five housing courts and estates currently undergoing large-scale maintenance, with a liaison officer assigned to each, and the officers have already contacted the owners' corporations to explain the section's functions and the help available. The section will also continue improvement measures including targeted regulation of maintenance works, routine surprise inspections, closer monitoring of registered inspectors and contractors, and using technology to combat fraud.",
-   "zh_hans": "房屋局今日宣布，公屋建筑管制组正式成立，取代原有的独立审查组，专责加强规管所有公共租住屋邨及已出售或分拆的资助出售房屋屋苑的现有楼宇、维修及翻新工程，以及房委会的新建公屋发展项目。管制组下设新建发展及现有楼宇管制两个分组，针对个别屋苑或屋邨的大型维修项目实施新监管制度，统筹监督维修工程，改善项目协调及沟通，并处理相关风险。现有楼宇管制分组已为目前正进行大型维修的五个屋苑或屋邨设立专责项目小组，每个屋苑或屋邨均获派联络主任，已主动联络业主立案法团介绍管制组职能及可提供的协助。管制组亦会继续落实多项改善措施，包括针对性规管维修工程、例行突击巡查、加强监察注册检验人员及注册承建商表现，以及善用科技打击欺诈。",
-   "zh_hant": "房屋局今日宣布，公屋建築管制組正式成立，取代原有的獨立審查組，專責加強規管所有公共租住屋邨及已出售或分拆的資助出售房屋屋苑的現有樓宇、維修及翻新工程，以及房委會的新建公屋發展項目。管制組下設新建發展及現有樓宇管制兩個分組，針對個別屋苑或屋邨的大型維修項目實施新監管制度，統籌監督維修工程，改善項目協調及溝通，並處理相關風險。現有樓宇管制分組已為目前正進行大型維修的五個屋苑或屋邨設立專責項目小組，每個屋苑或屋邨均獲派聯絡主任，已主動聯絡業主立案法團介紹管制組職能及可提供的協助。管制組亦會繼續落實多項改善措施，包括針對性規管維修工程、例行突擊巡查、加強監察註冊檢驗人員及註冊承建商表現，以及善用科技打擊欺詐。"
-  },
-  "tags": {
-   "en": [
-    "Public Housing Building Control Section",
-    "Housing Bureau",
-    "public housing maintenance"
-   ],
-   "zh_hans": [
-    "公屋建筑管制组",
-    "房屋局",
-    "公屋维修"
-   ],
-   "zh_hant": [
-    "公屋建築管制組",
-    "房屋局",
-    "公屋維修"
-   ]
-  },
-  "title": {
-   "en": "Housing Bureau sets up public housing building control section to take over from checking unit and tighten maintenance oversight",
-   "zh_hans": "房屋局成立公屋建筑管制组 接管独立审查组加强规管维修",
-   "zh_hant": "房屋局成立公屋建築管制組 接管獨立審查組加強規管維修"
-  }
- },
- {
-  "category": "hk",
   "id": "20261123-health-bureau-free-medical-macrofire-april",
   "image_prompt": "電視新聞圖卡風格，16:9。事實：衞生局延長宏福苑災民免費醫療至明年4月底，醫管局全費豁免惠及約2500人。場景：陽光下的香港公立醫院大樓外觀，市民在門外有序等候，藍天白雲，氣氛溫暖安心。風格：寫實溫暖，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「宏福苑災民免費醫療延至明年4月底」，第二行黃字寫「醫管局全費豁免惠及約2500人」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
   "image_url": "",
@@ -2262,82 +2458,6 @@
   }
  },
  {
-  "category": "finance",
-  "id": "20261123-hkicl-fraudulent-website-fpshk-help",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：HKICL再揭假網站fpshk.help冒認買家保障，呼籲市民切勿提供個人資料。場景：陽光下的現代辦公室內，一個人用手機進行網上付款，手機屏幕只顯示模糊光影、沒有任何文字，窗外城市景色明亮，氣氛警惕專業。風格：寫實警惕，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「HKICL再揭假網站冒認買家保障」，第二行黃字寫「fpshk.help呃個人資料 切勿上當」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T17:45:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300530.htm"
-  },
-  "summary": {
-   "en": "Hong Kong Interbank Clearing Limited has found a fraudulent website at fpshk.help purporting to be from the company, offering services under the guise of Buyer Online Protection including refunds to buyers, reporting of unauthorised online transactions and online transaction support for FPS payments, and directing users to fraudsters impersonating customer service staff. HKICL stressed the website has no affiliation with the company or any of its businesses, and that it does not normally provide FPS services directly to individual members of the public or contact them proactively. The public should only trust the official websites www.hkicl.com.hk and fps.hkicl.com.hk, and can call 2533 1111 to verify suspicious communications; anyone who suspects they have been defrauded should report to police promptly. This is the second such alert from HKICL in a short period, after it exposed the fraudulent website fpshk.xyz on November 21.",
-   "zh_hans": "香港银行同业结算有限公司近日发现假网站fpshk.help冒认该公司，以“买家网上保障”名义提供买家退款、未经授权网上交易举报及网上交易支援等服务，并引导用户联络冒充客服人员的骗徒。结算公司澄清，该假网站与公司及旗下任何业务均无关，并强调在一般情况下不会直接向个别市民提供转数快服务，亦不会主动联络市民。市民应认准结算公司官方网站www.hkicl.com.hk及fps.hkicl.com.hk，如收到可疑来电或讯息，可致电2533 1111核实；怀疑受骗应尽快报警。这是结算公司继本月21日揭发假网站fpshk.xyz后，短期内第二度发出同类警示。",
-   "zh_hant": "香港銀行同業結算有限公司近日發現假網站fpshk.help冒認該公司，以「買家網上保障」名義提供買家退款、未經授權網上交易舉報及網上交易支援等服務，並引導用戶聯絡冒充客服人員的騙徒。結算公司澄清，該假網站與公司及旗下任何業務均無關，並強調在一般情況下不會直接向個別市民提供轉數快服務，亦不會主動聯絡市民。市民應認準結算公司官方網站www.hkicl.com.hk及fps.hkicl.com.hk，如收到可疑來電或訊息，可致電2533 1111核實；懷疑受騙應盡快報警。這是結算公司繼本月21日揭發假網站fpshk.xyz後，短期內第二度發出同類警示。"
-  },
-  "tags": {
-   "en": [
-    "HKICL",
-    "fraudulent website",
-    "Faster Payment System"
-   ],
-   "zh_hans": [
-    "HKICL",
-    "假网站",
-    "转数快"
-   ],
-   "zh_hant": [
-    "HKICL",
-    "假網站",
-    "轉數快"
-   ]
-  },
-  "title": {
-   "en": "HKICL exposes another fake website fpshk.help posing as buyer protection and urges public not to share personal data",
-   "zh_hans": "HKICL再揭假网站冒认买家保障 fpshk.help骗个人资料 切勿上当",
-   "zh_hant": "HKICL再揭假網站冒認買家保障 fpshk.help呃個人資料 切勿上當"
-  }
- },
- {
-  "category": "hk",
-  "id": "20261123-bid-rigging-second-round-33-arrested",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：打擊圍標特遣隊第二輪行動再瓦解一個圍標集團，涉15個屋苑及大廈工程合約逾1.3億，拘捕33人。場景：陽光下的香港住宅大廈外牆，維修棚架和吊船清晰可見，藍天白雲，氣氛嚴肅專業。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「圍標特遣隊第二輪行動再瓦解集團」，第二行黃字寫「涉15屋苑工程合約逾1.3億 拘33人」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T17:41:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878964-20261123.htm"
-  },
-  "summary": {
-   "en": "The government's joint task force against bid-rigging in building maintenance works has carried out a second round of operations, smashing another syndicate involving 15 housing estates and residential buildings across Hong Kong, with works contracts totalling more than HK$130 million, and blocking two maintenance contracts worth about HK$7.6 million. Thirty-three people were arrested, including contractors, directors of works companies and owners' corporation members, some with triad backgrounds, on suspicion of forgery and conspiracy to defraud. Secretary for Security Chris Tang said the syndicate bought flats to infiltrate owners' corporations, bribed or intimidated professionals into becoming rubber stamps, and falsely claimed buildings had received mandatory inspection notices to rush owners into approving works and funding. Police also smashed five illegal gambling dens, three illegal petrol stations and ten illicit cigarette warehouses run by the same triad group, arresting a further 64 people.",
-   "zh_hans": "政府打击楼宇维修工程围标联合特遣队近日展开第二轮行动，再瓦解一个围标集团，涉及全港15个屋苑或住宅大厦，工程合约总额逾1亿3000万元，并成功阻止该集团两份价值约760万元的楼宇维修合约。当局拘捕33人，包括承建商、工程公司董事及业主立案法团成员等，部分人有黑社会背景，涉嫌伪造文书及串谋诈骗。保安局局长邓炳强表示，集团预先买入单位渗透法团、收买或恐吓专业人士沦为“橡皮图章”，又讹称大厦收到强制验楼通知，营造工程急需开展的假象，操控招标结果。行动中警方亦捣破该黑社会集团操控的5个非法赌档、3个非法加油站及10个私烟仓，共拘捕64名相关人士。",
-   "zh_hant": "政府打擊樓宇維修工程圍標聯合特遣隊近日展開第二輪行動，再瓦解一個圍標集團，涉及全港15個屋苑或住宅大廈，工程合約總額逾1億3,000萬元，並成功阻止該集團兩份價值約760萬元的樓宇維修合約。當局拘捕33人，包括承建商、工程公司董事及業主立案法團成員等，部分人有黑社會背景，涉嫌偽造文書及串謀詐騙。保安局局長鄧炳強表示，集團預先買入單位滲透法團、收買或恐嚇專業人士淪為「橡皮圖章」，又訛稱大廈收到強制驗樓通知，營造工程急需開展的假象，操控招標結果。行動中警方亦搗破該黑社會集團操控的5個非法賭檔、3個非法加油站及10個私煙倉，共拘捕64名相關人士。"
-  },
-  "tags": {
-   "en": [
-    "bid-rigging",
-    "building maintenance",
-    "Chris Tang"
-   ],
-   "zh_hans": [
-    "打击围标",
-    "楼宇维修",
-    "邓炳强"
-   ],
-   "zh_hant": [
-    "打擊圍標",
-    "樓宇維修",
-    "鄧炳強"
-   ]
-  },
-  "title": {
-   "en": "Anti-bid-rigging task force smashes second syndicate covering 15 estates and HK$130m in contracts as 33 arrested",
-   "zh_hans": "围标特遣队第二轮行动再瓦解集团 涉15屋苑工程合约逾1.3亿拘33人",
-   "zh_hant": "圍標特遣隊第二輪行動再瓦解集團 涉15屋苑工程合約逾1.3億 拘33人"
-  }
- },
- {
   "category": "hk",
   "id": "20261123-legionnaires-disease-four-new-cases",
   "image_prompt": "電視新聞圖卡風格，16:9。事實：退伍軍人病一周新增4宗，今年累計182宗已超去年全年167宗。場景：陽光下的香港醫院大樓與社區街景，市民戴口罩行過，藍天白雲，氣氛冷靜有序。風格：寫實冷靜，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「退伍軍人病一周新增4宗」，第二行黃字寫「今年累計182宗超去年全年」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
@@ -2377,82 +2497,6 @@
  },
  {
   "category": "hk",
-  "id": "20261123-hop-on-macrofire-owners-meeting-dec-8",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：宏福苑委任管理人合安下月8日召開業主周年大會，民政局長麥美娟稱按法例要求依法辦事。場景：陽光下的大埔社區中心外觀，居民陸續進出，藍天白雲，氣氛平和有序。風格：寫實平和，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「宏福苑下月8日召開業主大會」，第二行黃字寫「麥美娟稱按法例要求依法辦事」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T16:56:00+08:00",
-  "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878955-20261123.htm"
-  },
-  "summary": {
-   "en": "Hop On Management Company, the appointed manager of the Wang Fuk Court owners' corporation, will hold the corporation's annual general meeting at 7pm on December 8 at the Tai Po Community Centre, with owners able to pre-register to attend from now until noon on December 3. The agenda includes a report by the manager on the estate's finances and discussion and voting on the appointment of an auditor for the 2026 financial year. Secretary for Home and Youth Affairs Alice Mak said the meeting is being held in accordance with the Building Management Ordinance, which requires a corporation's management committee to hold its next annual general meeting within 12 to 15 months of the previous one, and that the agenda items are also required by the ordinance.",
-   "zh_hans": "宏福苑业主立案法团的委任管理人合安管理有限公司将于下月8日晚上7时，在大埔社区中心召开法团业主周年大会，业主即日起至下月3日中午可预先登记出席。大会议程包括管理人汇报屋苑财务状况，以及讨论及议决选聘2026年财政年度的核数师。民政及青年事务局局长麦美娟表示，今次召开业主周年大会是按《建筑物管理条例》要求，属依法办事的行动，因为条例要求法团管委会在上一次周年业主大会召开后12至15个月内，召开下一次周年业主大会，议程亦属条例要求。",
-   "zh_hant": "宏福苑業主立案法團的委任管理人合安管理有限公司將於下月8日晚上7時，在大埔社區中心召開法團業主周年大會，業主即日起至下月3日中午可預先登記出席。大會議程包括管理人匯報屋苑財務狀況，以及討論及議決選聘2026年財政年度的核數師。民政及青年事務局局長麥美娟表示，今次召開業主周年大會是按《建築物管理條例》要求，屬依法辦事的行動，因為條例要求法團管委會在上一次周年業主大會召開後12至15個月內，召開下一次周年業主大會，議程亦屬條例要求。"
-  },
-  "tags": {
-   "en": [
-    "Wang Fuk Court",
-    "owners' meeting",
-    "Alice Mak"
-   ],
-   "zh_hans": [
-    "宏福苑",
-    "业主大会",
-    "麦美娟"
-   ],
-   "zh_hant": [
-    "宏福苑",
-    "業主大會",
-    "麥美娟"
-   ]
-  },
-  "title": {
-   "en": "Wang Fuk Court owners' meeting set for December 8 as Alice Mak says it follows the law",
-   "zh_hans": "宏福苑下月8日召开业主大会 麦美娟称按法例要求依法办事",
-   "zh_hant": "宏福苑下月8日召開業主大會 麥美娟稱按法例要求依法辦事"
-  }
- },
- {
-  "category": "tech",
-  "id": "20261123-honor-700-series-launch",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：榮耀700系列武漢發佈，全系2億像素主攝、9000mAh電池，國補價2899元人民幣起。場景：陽光下的現代科技發佈會舞台，大屏幕只顯示柔和光影、沒有任何文字，觀眾席座無虛席，氣氛熱鬧明亮。風格：寫實熱鬧，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「榮耀700系列武漢發佈」，第二行黃字寫「2億像素 9000mAh電池 2899元起」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T15:55:00+08:00",
-  "source": {
-   "name": "新浪香港",
-   "url": "https://portal.sina.com.hk/technology/sina/2026/11/23/1995338/%e6%a6%ae%e8%80%80700%e7%b3%bb%e5%88%97%e7%99%bc%e4%bd%88%ef%bc%9a%e6%80%a7%e8%83%bd%e8%b6%8a%e7%b4%9a%e9%a6%96%e9%8a%b7%e5%9c%8b%e8%a3%9c%e5%83%b92899%e5%85%83%e8%b5%b7/"
-  },
-  "summary": {
-   "en": "Honor today launched the Honor 700 series at a product event in Wuhan, positioning it as a trendy imaging-focused light flagship. The range comprises three models, the Honor 700 Pro, Honor 700 and Honor 700S, priced from RMB 2,899 after national subsidies, with first sales starting November 27. All models feature a 200-megapixel main camera, while the 700 Pro and 700 add a 50-megapixel periscope telephoto lens with 3.5x optical zoom and 120x digital zoom, plus a 200-megapixel selfie system with an adjustable soft-light ring. The series also carries a 9,000mAh fifth-generation Qinghai Lake battery in a body just 7.96mm thick, 80W wired fast charging, an AI smart rear display and the MagicOS 11 system. Honor chief executive Li Jian said the series was made by young people who love life, for young users who love life.",
-   "zh_hans": "荣耀今日在武汉举行新品发布会，推出定位“潮趣影像轻旗舰”的荣耀700系列，包括荣耀700 Pro、荣耀700及荣耀700S三款机型，国补后售价由2,899元人民币起，11月27日起首销。全系标配2亿像素电影感主摄，荣耀700 Pro及荣耀700另配备5,000万像素潜望长焦，支援3.5倍光学变焦及120倍数字变焦，并配备2亿柔光自拍系统及可调柔光环。系列亦全系搭载9000mAh第五代青海湖电池，机身厚度仅7.96毫米，支援80W有线快充，并配备荣耀AI灵动背屏及MagicOS 11系统。荣耀行政总裁李健表示，系列由一群热爱生活的年轻人打造，献给同样热爱生活的年轻用户。",
-   "zh_hant": "榮耀今日在武漢舉行新品發佈會，推出定位「潮趣影像輕旗艦」的榮耀700系列，包括榮耀700 Pro、榮耀700及榮耀700S三款機型，國補後售價由2,899元人民幣起，11月27日起首銷。全系標配2億像素電影感主攝，榮耀700 Pro及榮耀700另配備5,000萬像素潛望長焦，支援3.5倍光學變焦及120倍數字變焦，並配備2億柔光自拍系統及可調柔光環。系列亦全系搭載9000mAh第五代青海湖電池，機身厚度僅7.96毫米，支援80W有線快充，並配備榮耀AI靈動背屏及MagicOS 11系統。榮耀行政總裁李健表示，系列由一群熱愛生活的年輕人打造，獻給同樣熱愛生活的年輕用戶。"
-  },
-  "tags": {
-   "en": [
-    "Honor 700",
-    "smartphone",
-    "product launch"
-   ],
-   "zh_hans": [
-    "荣耀700",
-    "智能手机",
-    "新品发布"
-   ],
-   "zh_hant": [
-    "榮耀700",
-    "智能手機",
-    "新品發佈"
-   ]
-  },
-  "title": {
-   "en": "Honor 700 series debuts in Wuhan with 200MP cameras across the range and 9,000mAh batteries from RMB 2,899",
-   "zh_hans": "荣耀700系列武汉发布 2亿像素 9000mAh电池 2899元起",
-   "zh_hant": "榮耀700系列武漢發佈 2億像素 9000mAh電池 2899元起"
-  }
- },
- {
-  "category": "hk",
   "id": "20261123-construction-innovation-expo-smart-construction",
   "image_prompt": "電視新聞圖卡風格，16:9。事實：創博會雲集逾190參展商促智能建造，人臉識別進工地、無人機驗棚網。場景：陽光下的香港會議展覽中心展覽大廳，智能建造展覽，機械人與無人機展示，參觀者眾多，藍天白雲透過玻璃幕牆灑入，氣氛朝氣專業。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「創博會雲集逾190參展商促智能建造」，第二行黃字寫「人臉識別進工地、無人機驗棚網」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
   "image_url": "",
@@ -2487,44 +2531,6 @@
    "en": "Construction Innovation Expo draws over 190 exhibitors to push smart building as facial recognition and drones reach sites",
    "zh_hans": "创博会云集逾190参展商促智能建造 人脸识别进工地、无人机验棚网",
    "zh_hant": "創博會雲集逾190參展商促智能建造 人臉識別進工地、無人機驗棚網"
-  }
- },
- {
-  "category": "finance",
-  "id": "20261123-fps-system-enhancement-nov-29",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：轉數快11月29日凌晨1時至上午11時系統提升，暫停服務10小時，市民宜預早安排付款。場景：陽光下的香港街頭，一個人在便利店櫃枱前用手機付款，畫面光亮，氣氛日常輕鬆。風格：寫實輕鬆，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「轉數快11月29日凌晨系統提升」，第二行黃字寫「暫停服務10小時 宜預早安排付款」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
-  "image_url": "",
-  "published_at": "2026-11-23T15:00:00+08:00",
-  "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300443.htm"
-  },
-  "summary": {
-   "en": "The Hong Kong Monetary Authority announced today that the Faster Payment System will be unavailable from 1am to 11am on Sunday, November 29, for a planned system enhancement by its operator, Hong Kong Interbank Clearing Limited. The ten-hour suspension means the public will not be able to make FPS payments or transfers during that period. The authority has asked banks and stored value facility operators to notify customers in advance and in good time, and members of the public can contact individual banks or operators for details of the affected services and should make advance arrangements for their payment activities if necessary.",
-   "zh_hans": "金管局今日宣布，转数快将于11月29日（星期日）凌晨1时至上午11时，因应系统提升暂停服务10小时，期间市民无法使用转数快付款及转账。系统提升由转数快营运机构香港银行同业结算有限公司进行。金管局已要求银行及储值支付工具营运商提前及适时通知客户，市民可向个别银行或营运商查询受影响服务详情，如有需要应预早安排付款活动。",
-   "zh_hant": "金管局今日宣布，轉數快將於11月29日（星期日）凌晨1時至上午11時，因應系統提升暫停服務10小時，期間市民無法使用轉數快付款及轉賬。系統提升由轉數快營運機構香港銀行同業結算有限公司進行。金管局已要求銀行及儲值支付工具營運商提前及適時通知客戶，市民可向個別銀行或營運商查詢受影響服務詳情，如有需要應預早安排付款活動。"
-  },
-  "tags": {
-   "en": [
-    "Faster Payment System",
-    "HKMA",
-    "system enhancement"
-   ],
-   "zh_hans": [
-    "转数快",
-    "金管局",
-    "系统提升"
-   ],
-   "zh_hant": [
-    "轉數快",
-    "金管局",
-    "系統提升"
-   ]
-  },
-  "title": {
-   "en": "Faster Payment System to pause for 10 hours on November 29 for upgrade as public told to plan payments early",
-   "zh_hans": "转数快11月29日凌晨系统提升 暂停服务10小时 宜预早安排付款",
-   "zh_hant": "轉數快11月29日凌晨系統提升 暫停服務10小時 宜預早安排付款"
   }
  }
 ]
