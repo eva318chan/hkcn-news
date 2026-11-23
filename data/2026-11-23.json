@@ -1,5 +1,84 @@
 [
  {
+  "category": "hk",
+  "id": "20261123-lee-macrofire-reform-progress-report",
+  "image_caption": "李家超（右二）主持會議，聽取就宏福苑大火進行系統性改革的進度報告。（政府新聞處）",
+  "image_prompt": "",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-lee-macrofire-reform-progress-report.jpg",
+  "published_at": "2026-11-23T18:10:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878966-20261123.htm"
+  },
+  "summary": {
+   "en": "Chief Executive John Lee today chaired a meeting at the Chief Executive's Office to hear progress reports on systemic reforms following the Wang Fuk Court fire in Tai Po, directing bureaus and departments to press ahead with the reforms and submit amendment bills for six laws to the Legislative Council as soon as possible. He also instructed the steering committee chaired by the Chief Secretary to co-ordinate the reforms and ensure they are implemented in full, and told the cross-departmental task force to step up its crackdown on bid-rigging and to set up a new building maintenance support and services authority. Lee reiterated the government's firm determination to reform the building maintenance system, saying every recommendation must be followed through carefully so that a similar tragedy never happens again, while support for affected residents will continue so they can rebuild their lives as soon as possible.",
+   "zh_hans": "行政长官李家超今日在行政长官办公室主持会议，听取官员汇报大埔宏福苑大火系统性改革的进度，指示各政策局及部门全力推展改革工作，尽快就六条法例的修订草案提交立法会审议。他亦指示由政务司司长主持的督导委员会全力统筹并推展制度改革，确保改革落到实处，并要求跨部门特遣队全力严打围标，尽快落实成立楼宇维修支援及服务局等新措施。李家超重申政府对楼宇维修制度改革的决心坚定，必须仔细推进各项建议的落实工作，不容许类似事件再发生，同时继续全力支援受影响居民，协助他们尽早展开新生活。",
+   "zh_hant": "行政長官李家超今日在行政長官辦公室主持會議，聽取官員匯報大埔宏福苑大火系統性改革的進度，並指示各政策局及部門全力推展改革工作，盡快就六條法例的修訂草案提交立法會審議。他亦指示由政務司司長主持的督導委員會全力統籌並推展制度改革，確保改革落到實處，並要求跨部門特遣隊全力嚴打圍標，盡快落實成立樓宇維修支援及服務局等新措施。李家超重申政府對樓宇維修制度改革的決心堅定，必須仔細推進各項建議的落實工作，不容許類似事件再發生，同時繼續全力支援受影響居民，協助他們盡早展開新生活。"
+  },
+  "tags": {
+   "en": [
+    "Wang Fuk Court fire",
+    "John Lee",
+    "building maintenance reform"
+   ],
+   "zh_hans": [
+    "宏福苑大火",
+    "李家超",
+    "楼宇维修改革"
+   ],
+   "zh_hant": [
+    "宏福苑大火",
+    "李家超",
+    "樓宇維修改革"
+   ]
+  },
+  "title": {
+   "en": "John Lee briefed on Wang Fuk Court fire reform progress as government pushes six amendment bills to LegCo",
+   "zh_hans": "李家超听取宏福苑大火改革进度报告 促尽快提交六条修例草案",
+   "zh_hant": "李家超聽取宏福苑大火改革進度報告 促盡快提交六條修例草案"
+  },
+  "image_r2_key": "design/202611/20261123-lee-macrofire-reform-progress-report.jpg"
+ },
+ {
+  "category": "world",
+  "id": "20261123-trump-backs-huang-nvidia-reinstatement",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：特朗普再撐黃仁勳復職，望輝達董事會重新聘用，紐時爆黃樂曾聯繫中國國安官員。場景：光亮的美國白宮外觀，前景是現代化晶片與電路板特寫，藍天白雲，氣氛嚴肅。風格：寫實，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「特朗普再撐黃仁勳復職」，第二行黃字寫「望輝達董事會重新聘用 紐時爆黃樂曾聯繫中國國安官員」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-trump-backs-huang-nvidia-reinstatement.jpg",
+  "published_at": "2026-11-23T16:41:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878950-20261123.htm"
+  },
+  "summary": {
+   "en": "US President Donald Trump has again voiced support for former Nvidia chief executive Jensen Huang returning to the job, saying he hopes Nvidia's board will rehire him as it would be the best outcome for the company and for the United States. Treasury Secretary Scott Bessent told a CBS programme that Washington is seeking answers on Nvidia's chip sales to China and will establish who was responsible for the company's compliance matters during Huang's tenure. The New York Times, citing people familiar with a US intelligence report, reported that Huang Le, a Chinese woman caught up in the Nvidia scandal, had been in contact with an official from China's Ministry of State Security for more than a year while she was having an affair with Huang. Director of National Intelligence Jay Clayton reiterated that the Trump administration has not reached a conclusion on whether Huang Le is a Chinese spy. In Beijing, the Foreign Ministry has repeatedly said the so-called China spy claims are groundless, urging the US to stop finding excuses for its technology blockade.",
+   "zh_hans": "美国总统特朗普再次表态，支持芯片制造商辉达（Nvidia）前行政总裁黄仁勋复职，希望辉达董事会重新聘用对方，认为这样对公司抑或美国而言，都是最好的结果。财长贝森特接受哥伦比亚广播公司节目访问时说，华府正就辉达向中国销售芯片寻求答案，并会查明黄仁勋在任期间，由谁人负责公司的合规事务。《纽约时报》引述知悉相关美国情报报告的人士报道，卷入辉达丑闻的中国女子黄乐，在与黄仁勋发展婚外情期间，曾经与中国国家安全部一名官员联系一年多。美国国家情报总监克莱顿重申，特朗普政府尚未就黄乐是否中国间谍得出结论。在北京，外交部多次重申，所谓中国间谍论纯属捕风捉影，敦促美方停止为实施科技封锁寻找借口。",
+   "zh_hant": "美國總統特朗普再次表態，支持晶片製造商輝達（Nvidia）前行政總裁黃仁勳復職，希望輝達董事會重新聘用對方，認為這樣對公司抑或美國而言，都是最好的結果。財長貝森特接受哥倫比亞廣播公司節目訪問時說，華府正就輝達向中國銷售晶片尋求答案，並會查明黃仁勳在任期間，由誰人負責公司的合規事務。《紐約時報》引述知悉相關美國情報報告的人士報道，捲入輝達醜聞的中國女子黃樂，在與黃仁勳發展婚外情期間，曾經與中國國家安全部一名官員聯繫一年多。美國國家情報總監克萊頓重申，特朗普政府尚未就黃樂是否中國間諜得出結論。在北京，外交部多次重申，所謂中國間諜論純屬捕風捉影，敦促美方停止為實施科技封鎖尋找藉口。"
+  },
+  "tags": {
+   "en": [
+    "Trump",
+    "Jensen Huang",
+    "Nvidia"
+   ],
+   "zh_hans": [
+    "特朗普",
+    "黄仁勋",
+    "辉达"
+   ],
+   "zh_hant": [
+    "特朗普",
+    "黃仁勳",
+    "輝達"
+   ]
+  },
+  "title": {
+   "en": "Trump again backs Jensen Huang's return to Nvidia as report says Huang Le kept contact with Chinese security official",
+   "zh_hans": "特朗普再撑黄仁勋复职 望辉达董事会重新聘用 纽时爆黄乐曾联系中国国安官员",
+   "zh_hant": "特朗普再撐黃仁勳復職 望輝達董事會重新聘用 紐時爆黃樂曾聯繫中國國安官員"
+  },
+  "image_r2_key": "design/202611/20261123-trump-backs-huang-nvidia-reinstatement.jpg"
+ },
+ {
   "category": "finance",
   "id": "20261123-hang-seng-close-22383-down-27",
   "image_prompt": "電視新聞圖卡風格，16:9。事實：恒指收市跌27點報22383點，全日波幅逾400點，汽車股捱沽零跑挫近13%。場景：光亮現代化的股票交易大堂，大型電子屏幕顯示紅色下跌數字，交易員背影在旁，氣氛緊張。風格：寫實，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「恒指收市跌27點報22383點」，第二行黃字寫「全日波幅逾400點 汽車股捱沽零跑挫近13%」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
@@ -197,6 +276,85 @@
  },
  {
   "category": "hk",
+  "id": "20261123-worldskills-hk-15-medals",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：世界技能大賽港隊奪15獎創歷屆最佳，1銀14優異獎，李家超讚說好香港故事。場景：光亮的技能比賽場館，年輕選手專注操作軌道車輛技術設備，陽光從窗外灑入，氣氛朝氣蓬勃。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「世界技能大賽港隊奪15獎創歷屆最佳」，第二行黃字寫「1銀14優異獎 李家超讚說好香港故事」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-worldskills-hk-15-medals.jpg",
+  "published_at": "2026-11-23T15:30:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878939-20261123.htm"
+  },
+  "summary": {
+   "en": "The Hong Kong, China team won 15 awards at the WorldSkills Competition in Shanghai, including one silver medal and 14 medallions for excellence, a record haul for Hong Kong. Chief Executive John Lee met the delegation at Government Headquarters and praised the competitors for showcasing the talent of the younger generation through superb craftsmanship and fighting spirit, telling Hong Kong's story through action. The competition, described as the Olympics of skills, was hosted by the country in Shanghai for the first time, drawing more than 1,400 competitors from 70 countries and regions; Hong Kong sent 41 competitors across 37 trades, both record numbers. Silver medallist Tang Kwong-tai, who competed in rail vehicle technology, said training was tough but every breakthrough boosted his confidence, and he hopes to become a railway engineer providing safe and reliable rail services.",
+   "zh_hans": "中国香港队在上海世界技能大赛夺得15个奖项，包括1面银牌及14面优异奖章，刷新香港历届最好成绩。行政长官李家超在政府总部与代表团会面，赞扬选手凭借精湛工艺和拼搏精神，展现年轻一代的优秀技能，以实际行动说好香港故事。今届大赛首次由国家在上海举办，来自70个国家或地区逾1400名选手竞逐，香港派出41名选手角逐37个项目，两者均为历届新高。在“轨道车辆技术”项目夺银的邓光大表示，备战辛苦但每次突破都令自己更有信心，未来希望成为铁路工程师，为市民提供安全可靠的铁路服务。",
+   "zh_hant": "中國香港隊在上海世界技能大賽奪得15個獎項，包括1面銀牌及14面優異獎章，刷新香港歷屆最好成績。行政長官李家超在政府總部與代表團會面，讚揚選手憑藉精湛工藝和拼搏精神，展現年輕一代的優秀技能，以實際行動說好香港故事。今屆大賽首次由國家在上海舉辦，來自70個國家或地區逾1400名選手競逐，香港派出41名選手角逐37個項目，兩者均為歷屆新高。在「軌道車輛技術」項目奪銀的鄧光大表示，備戰辛苦但每次突破都令自己更有信心，未來希望成為鐵路工程師，為市民提供安全可靠的鐵路服務。"
+  },
+  "tags": {
+   "en": [
+    "WorldSkills",
+    "Hong Kong team",
+    "vocational education"
+   ],
+   "zh_hans": [
+    "世界技能大赛",
+    "香港代表队",
+    "职专教育"
+   ],
+   "zh_hant": [
+    "世界技能大賽",
+    "香港代表隊",
+    "職專教育"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong wins record 15 medals at WorldSkills as Chief Executive praises team for telling Hong Kong's story",
+   "zh_hans": "世界技能大赛港队夺15奖创历届最佳 1银14优异奖 李家超赞说好香港故事",
+   "zh_hant": "世界技能大賽港隊奪15獎創歷屆最佳 1銀14優異獎 李家超讚說好香港故事"
+  },
+  "image_r2_key": "design/202611/20261123-worldskills-hk-15-medals.jpg",
+  "image_caption": "行政長官李家超與2026年上海世界技能大賽香港代表團會面。（政府新聞處）"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-interpol-general-assembly-hk",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：國際刑警大會下周一連四日香港舉行，逾千人與會，全港設臨時限飛區禁無人機。場景：陽光下的香港會議展覽中心外觀，維多利亞港海面波光粼粼，藍天白雲，氣氛莊重專業。風格：寫實莊重，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「國際刑警大會下周一連四日香港舉行」，第二行黃字寫「逾千人與會 全港設臨時限飛區禁無人機」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-interpol-general-assembly-hk.jpg",
+  "published_at": "2026-11-23T15:20:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878938-20261123.htm"
+  },
+  "summary": {
+   "en": "The 94th Interpol General Assembly will be held in Hong Kong for four days from next Monday, with more than 1,000 participants including police chiefs and senior government officials from 196 member countries expected to attend. The agenda will focus on global fraud, transnational organised crime and AI-related crime, and delegates will be asked to formally approve the Silver Notice mechanism for tracing criminal assets across jurisdictions. Commissioner of Police Joe Chow said hosting the assembly is a vote of confidence from the international law enforcement community, adding that repeated drills have been held over the past year to ensure the event runs safely and smoothly. A city-wide temporary restricted flying zone will be in force from 00:01 on November 30 to 17:00 on December 3, covering small aircraft, drones, helicopters and paragliders, while civil aviation services will not be affected; parts of Victoria Harbour off the Convention and Exhibition Centre will be under marine control and the entire Wan Chai exhibition peninsula will be closed.",
+   "zh_hans": "国际刑警组织第94届全体大会下周一起一连四日在香港举行，预计逾千名参加者、来自196个成员国的警队首长和政府高层出席，讨论全球诈骗、跨国有组织罪行及人工智能相关犯罪，并寻求正式批准“银色通报”机制。警务处处长周一鸣表示，主办大会是国际执法组织对香港投下信任一票，过去一年已在多个范畴多次演练，确保大会安全畅顺。为配合大会，11月30日凌晨零时01分至12月3日下午5时全港设临时限飞区，管制小型飞机、无人机、直升机及滑翔伞等飞行活动，民航机不受影响；会展对开维港部分水域实施海上管制，湾仔会展整个半岛亦会封闭。",
+   "zh_hant": "國際刑警組織第94屆全體大會下周一起一連四日在香港舉行，預計逾千名參加者、來自196個成員國的警隊首長和政府高層出席，討論全球詐騙、跨國有組織罪行及人工智能相關犯罪，並尋求正式批准「銀色通報」機制。警務處處長周一鳴表示，主辦大會是國際執法組織對香港投下信任一票，過去一年已在多個範疇多次演練，確保大會安全暢順。為配合大會，11月30日凌晨零時01分至12月3日下午5時全港設臨時限飛區，管制小型飛機、無人機、直升機及滑翔傘等飛行活動，民航機不受影響；會展對開維港部分水域實施海上管制，灣仔會展整個半島亦會封閉。"
+  },
+  "tags": {
+   "en": [
+    "Interpol General Assembly",
+    "Hong Kong Police",
+    "no-fly zone"
+   ],
+   "zh_hans": [
+    "国际刑警大会",
+    "香港警队",
+    "临时限飞区"
+   ],
+   "zh_hant": [
+    "國際刑警大會",
+    "香港警隊",
+    "臨時限飛區"
+   ]
+  },
+  "title": {
+   "en": "Interpol General Assembly opens in Hong Kong next week as over 1,000 delegates gather and city-wide no-fly zone takes effect",
+   "zh_hans": "国际刑警大会下周一连四日香港举行 逾千人与会 全港设临时限飞区禁无人机",
+   "zh_hant": "國際刑警大會下周一連四日香港舉行 逾千人與會 全港設臨時限飛區禁無人機"
+  },
+  "image_r2_key": "design/202611/20261123-interpol-general-assembly-hk.jpg"
+ },
+ {
+  "category": "hk",
   "id": "20261123-hku-histotripsy-kidney-cancer",
   "image_prompt": "電視新聞圖卡風格，16:9。事實：港大完成亞洲首兩宗無創超聲波治腎癌，病人翌日出院，招募15名早期患者試驗。場景：光亮潔淨的現代化醫院手術室，一部先進超聲波治療儀器在中央，醫護人員背影在旁準備，窗外陽光灑入，氣氛專業而充滿希望。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「港大完成亞洲首兩宗無創超聲波治腎癌」，第二行黃字寫「病人翌日出院 招募15名早期患者試驗」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
   "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-hku-histotripsy-kidney-cancer.jpg",
@@ -233,6 +391,45 @@
    "zh_hant": "港大完成亞洲首兩宗無創超聲波治腎癌 病人翌日出院 招募15名早期患者試驗"
   },
   "image_r2_key": "design/202611/20261123-hku-histotripsy-kidney-cancer.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-clp-tariff-review-250m-fund",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：兩電電費檢討明立法會討論，中電明年撥2.5億支援社區，弱勢社群佔8000萬。場景：陽光明亮的香港住宅區，現代化高樓大廈與電力設施，藍天白雲，氣氛平和。風格：寫實，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「兩電電費檢討明立法會討論」，第二行黃字寫「中電明年撥2.5億支援社區 弱勢社群佔8000萬」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-clp-tariff-review-250m-fund.jpg",
+  "published_at": "2026-11-23T13:45:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878929-20261123.htm"
+  },
+  "summary": {
+   "en": "CLP Power's president of corporate development, Chiang Wai-yin, said the company will present its tariff adjustment proposal to the Legislative Council's environmental affairs panel tomorrow, stressing that CLP will use a diversified fuel mix and cost controls to keep adjustments under control and shield supply from geopolitical pressures. CLP announced it will set aside HK$250 million next year through the CLP Community Energy Saving Fund for a series of community support programmes, including HK$80 million for disadvantaged groups, up more than 30 per cent from last year. Funding for the grassroots household electricity subsidy scheme will rise from HK$50 million this year to HK$60 million, benefiting about 93,000 households, each receiving HK$600 in electricity subsidies; households moving to subdivided units in light public housing will receive HK$1,000 each. Over seven years the scheme has disbursed about HK$270 million to roughly 400,000 households.",
+   "zh_hans": "中电企业发展总裁庄伟茵表示，中电明天会在立法会环境事务委员会会议介绍电费调整方案，强调会透过多元化燃料组合及控制成本，控制好电费调整，确保能源供应不受地缘政治影响。中电公布明年透过中电社区节能基金拨款2亿5千万元，推出一系列社区支援计划，其中支援弱势社群的拨款8千万元，较去年增加超过三成。基层家庭电费补助计划拨款由今年5千万元增至6千万元，受惠家庭增至约9万3千个，每户可获600元电费资助；过渡至“简朴房”的分间单位家庭每户可获1000元。计划推行7年来累计拨款约2亿7千万元，受惠家庭约40万个。",
+   "zh_hant": "中電企業發展總裁莊偉茵表示，中電明天會在立法會環境事務委員會會議介紹電費調整方案，強調會透過多元化燃料組合及控制成本，控制好電費調整，確保能源供應不受地緣政治影響。中電公布明年透過中電社區節能基金撥款2億5千萬元，推出一系列社區支援計劃，其中支援弱勢社群的撥款8千萬元，較去年增加超過三成。基層家庭電費補助計劃撥款由今年5千萬元增至6千萬元，受惠家庭增至約9萬3千個，每戶可獲600元電費資助；過渡至「簡樸房」的分間單位家庭每戶可獲1000元。計劃推行7年來累計撥款約2億7千萬元，受惠家庭約40萬個。"
+  },
+  "tags": {
+   "en": [
+    "CLP",
+    "electricity tariff",
+    "Legislative Council"
+   ],
+   "zh_hans": [
+    "中电",
+    "电费",
+    "立法会"
+   ],
+   "zh_hant": [
+    "中電",
+    "電費",
+    "立法會"
+   ]
+  },
+  "title": {
+   "en": "CLP to set aside HK$250 million for community support next year as LegCo reviews power tariff adjustment",
+   "zh_hans": "两电电费检讨明立法会讨论 中电明年拨2.5亿支援社区 弱势社群占8000万",
+   "zh_hant": "兩電電費檢討明立法會討論 中電明年撥2.5億支援社區 弱勢社群佔8000萬"
+  },
+  "image_r2_key": "design/202611/20261123-clp-tariff-review-250m-fund.jpg"
  },
  {
   "category": "hk",
@@ -1951,155 +2148,383 @@
   "image_r2_key": "design/202611/20261123-tai-po-dog-hanging-man-arrested-v2.jpg"
  },
  {
-  "category": "world",
-  "id": "20261123-trump-backs-huang-nvidia-reinstatement",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：特朗普再撐黃仁勳復職，望輝達董事會重新聘用，紐時爆黃樂曾聯繫中國國安官員。場景：光亮的美國白宮外觀，前景是現代化晶片與電路板特寫，藍天白雲，氣氛嚴肅。風格：寫實，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「特朗普再撐黃仁勳復職」，第二行黃字寫「望輝達董事會重新聘用 紐時爆黃樂曾聯繫中國國安官員」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "category": "hk",
+  "id": "20261123-public-housing-building-control-section",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：房屋局成立公屋建築管制組取代獨立審查組，加強規管公屋維修及新建工程。場景：陽光下的香港公共屋邨大樓群，樓宇外牆簇新，藍天白雲，氣氛明朗有序。風格：寫實明朗，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「房屋局成立公屋建築管制組」，第二行黃字寫「接管獨立審查組加強規管維修」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
   "image_url": "",
-  "published_at": "2026-11-23T16:41:00+08:00",
+  "published_at": "2026-11-23T18:20:00+08:00",
   "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878950-20261123.htm"
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300615.htm"
   },
   "summary": {
-   "en": "US President Donald Trump has again voiced support for former Nvidia chief executive Jensen Huang returning to the job, saying he hopes Nvidia's board will rehire him as it would be the best outcome for the company and for the United States. Treasury Secretary Scott Bessent told a CBS programme that Washington is seeking answers on Nvidia's chip sales to China and will establish who was responsible for the company's compliance matters during Huang's tenure. The New York Times, citing people familiar with a US intelligence report, reported that Huang Le, a Chinese woman caught up in the Nvidia scandal, had been in contact with an official from China's Ministry of State Security for more than a year while she was having an affair with Huang. Director of National Intelligence Jay Clayton reiterated that the Trump administration has not reached a conclusion on whether Huang Le is a Chinese spy. In Beijing, the Foreign Ministry has repeatedly said the so-called China spy claims are groundless, urging the US to stop finding excuses for its technology blockade.",
-   "zh_hans": "美国总统特朗普再次表态，支持芯片制造商辉达（Nvidia）前行政总裁黄仁勋复职，希望辉达董事会重新聘用对方，认为这样对公司抑或美国而言，都是最好的结果。财长贝森特接受哥伦比亚广播公司节目访问时说，华府正就辉达向中国销售芯片寻求答案，并会查明黄仁勋在任期间，由谁人负责公司的合规事务。《纽约时报》引述知悉相关美国情报报告的人士报道，卷入辉达丑闻的中国女子黄乐，在与黄仁勋发展婚外情期间，曾经与中国国家安全部一名官员联系一年多。美国国家情报总监克莱顿重申，特朗普政府尚未就黄乐是否中国间谍得出结论。在北京，外交部多次重申，所谓中国间谍论纯属捕风捉影，敦促美方停止为实施科技封锁寻找借口。",
-   "zh_hant": "美國總統特朗普再次表態，支持晶片製造商輝達（Nvidia）前行政總裁黃仁勳復職，希望輝達董事會重新聘用對方，認為這樣對公司抑或美國而言，都是最好的結果。財長貝森特接受哥倫比亞廣播公司節目訪問時說，華府正就輝達向中國銷售晶片尋求答案，並會查明黃仁勳在任期間，由誰人負責公司的合規事務。《紐約時報》引述知悉相關美國情報報告的人士報道，捲入輝達醜聞的中國女子黃樂，在與黃仁勳發展婚外情期間，曾經與中國國家安全部一名官員聯繫一年多。美國國家情報總監克萊頓重申，特朗普政府尚未就黃樂是否中國間諜得出結論。在北京，外交部多次重申，所謂中國間諜論純屬捕風捉影，敦促美方停止為實施科技封鎖尋找藉口。"
+   "en": "The Housing Bureau announced today that the Public Housing Building Control Section has been formally established to replace the former Independent Checking Unit, strengthening regulation of existing buildings and maintenance and renovation works in all public rental housing estates and subsidised sale housing courts, as well as new public housing projects by the Housing Authority. The new section has two sub-sections covering new developments and existing building control, and will apply a new regulatory regime to large-scale maintenance projects in individual estates, co-ordinating supervision of the works in an integrated way. Project teams have been set up for the five housing courts and estates currently undergoing large-scale maintenance, with a liaison officer assigned to each, and the officers have already contacted the owners' corporations to explain the section's functions and the help available. The section will also continue improvement measures including targeted regulation of maintenance works, routine surprise inspections, closer monitoring of registered inspectors and contractors, and using technology to combat fraud.",
+   "zh_hans": "房屋局今日宣布，公屋建筑管制组正式成立，取代原有的独立审查组，专责加强规管所有公共租住屋邨及已出售或分拆的资助出售房屋屋苑的现有楼宇、维修及翻新工程，以及房委会的新建公屋发展项目。管制组下设新建发展及现有楼宇管制两个分组，针对个别屋苑或屋邨的大型维修项目实施新监管制度，统筹监督维修工程，改善项目协调及沟通，并处理相关风险。现有楼宇管制分组已为目前正进行大型维修的五个屋苑或屋邨设立专责项目小组，每个屋苑或屋邨均获派联络主任，已主动联络业主立案法团介绍管制组职能及可提供的协助。管制组亦会继续落实多项改善措施，包括针对性规管维修工程、例行突击巡查、加强监察注册检验人员及注册承建商表现，以及善用科技打击欺诈。",
+   "zh_hant": "房屋局今日宣布，公屋建築管制組正式成立，取代原有的獨立審查組，專責加強規管所有公共租住屋邨及已出售或分拆的資助出售房屋屋苑的現有樓宇、維修及翻新工程，以及房委會的新建公屋發展項目。管制組下設新建發展及現有樓宇管制兩個分組，針對個別屋苑或屋邨的大型維修項目實施新監管制度，統籌監督維修工程，改善項目協調及溝通，並處理相關風險。現有樓宇管制分組已為目前正進行大型維修的五個屋苑或屋邨設立專責項目小組，每個屋苑或屋邨均獲派聯絡主任，已主動聯絡業主立案法團介紹管制組職能及可提供的協助。管制組亦會繼續落實多項改善措施，包括針對性規管維修工程、例行突擊巡查、加強監察註冊檢驗人員及註冊承建商表現，以及善用科技打擊欺詐。"
   },
   "tags": {
    "en": [
-    "Trump",
-    "Jensen Huang",
-    "Nvidia"
+    "Public Housing Building Control Section",
+    "Housing Bureau",
+    "public housing maintenance"
    ],
    "zh_hans": [
-    "特朗普",
-    "黄仁勋",
-    "辉达"
+    "公屋建筑管制组",
+    "房屋局",
+    "公屋维修"
    ],
    "zh_hant": [
-    "特朗普",
-    "黃仁勳",
-    "輝達"
+    "公屋建築管制組",
+    "房屋局",
+    "公屋維修"
    ]
   },
   "title": {
-   "en": "Trump again backs Jensen Huang's return to Nvidia as report says Huang Le kept contact with Chinese security official",
-   "zh_hans": "特朗普再撑黄仁勋复职 望辉达董事会重新聘用 纽时爆黄乐曾联系中国国安官员",
-   "zh_hant": "特朗普再撐黃仁勳復職 望輝達董事會重新聘用 紐時爆黃樂曾聯繫中國國安官員"
+   "en": "Housing Bureau sets up public housing building control section to take over from checking unit and tighten maintenance oversight",
+   "zh_hans": "房屋局成立公屋建筑管制组 接管独立审查组加强规管维修",
+   "zh_hant": "房屋局成立公屋建築管制組 接管獨立審查組加強規管維修"
   }
  },
  {
   "category": "hk",
-  "id": "20261123-worldskills-hk-15-medals",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：世界技能大賽港隊奪15獎創歷屆最佳，1銀14優異獎，李家超讚說好香港故事。場景：光亮的技能比賽場館，年輕選手專注操作軌道車輛技術設備，陽光從窗外灑入，氣氛朝氣蓬勃。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「世界技能大賽港隊奪15獎創歷屆最佳」，第二行黃字寫「1銀14優異獎 李家超讚說好香港故事」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "id": "20261123-health-bureau-free-medical-macrofire-april",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：衞生局延長宏福苑災民免費醫療至明年4月底，醫管局全費豁免惠及約2500人。場景：陽光下的香港公立醫院大樓外觀，市民在門外有序等候，藍天白雲，氣氛溫暖安心。風格：寫實溫暖，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「宏福苑災民免費醫療延至明年4月底」，第二行黃字寫「醫管局全費豁免惠及約2500人」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
   "image_url": "",
-  "published_at": "2026-11-23T15:30:00+08:00",
+  "published_at": "2026-11-23T18:10:00+08:00",
   "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878939-20261123.htm"
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300359.htm"
   },
   "summary": {
-   "en": "The Hong Kong, China team won 15 awards at the WorldSkills Competition in Shanghai, including one silver medal and 14 medallions for excellence, a record haul for Hong Kong. Chief Executive John Lee met the delegation at Government Headquarters and praised the competitors for showcasing the talent of the younger generation through superb craftsmanship and fighting spirit, telling Hong Kong's story through action. The competition, described as the Olympics of skills, was hosted by the country in Shanghai for the first time, drawing more than 1,400 competitors from 70 countries and regions; Hong Kong sent 41 competitors across 37 trades, both record numbers. Silver medallist Tang Kwong-tai, who competed in rail vehicle technology, said training was tough but every breakthrough boosted his confidence, and he hopes to become a railway engineer providing safe and reliable rail services.",
-   "zh_hans": "中国香港队在上海世界技能大赛夺得15个奖项，包括1面银牌及14面优异奖章，刷新香港历届最好成绩。行政长官李家超在政府总部与代表团会面，赞扬选手凭借精湛工艺和拼搏精神，展现年轻一代的优秀技能，以实际行动说好香港故事。今届大赛首次由国家在上海举办，来自70个国家或地区逾1400名选手竞逐，香港派出41名选手角逐37个项目，两者均为历届新高。在“轨道车辆技术”项目夺银的邓光大表示，备战辛苦但每次突破都令自己更有信心，未来希望成为铁路工程师，为市民提供安全可靠的铁路服务。",
-   "zh_hant": "中國香港隊在上海世界技能大賽奪得15個獎項，包括1面銀牌及14面優異獎章，刷新香港歷屆最好成績。行政長官李家超在政府總部與代表團會面，讚揚選手憑藉精湛工藝和拼搏精神，展現年輕一代的優秀技能，以實際行動說好香港故事。今屆大賽首次由國家在上海舉辦，來自70個國家或地區逾1400名選手競逐，香港派出41名選手角逐37個項目，兩者均為歷屆新高。在「軌道車輛技術」項目奪銀的鄧光大表示，備戰辛苦但每次突破都令自己更有信心，未來希望成為鐵路工程師，為市民提供安全可靠的鐵路服務。"
+   "en": "The Health Bureau announced today that free consultations by family doctors and Chinese medicine practitioners, free denture replacement services and the Hospital Authority's full medical fee waivers for residents affected by the Wang Fuk Court fire in Tai Po, originally due to end this December, will be extended by four months to April 30 next year. Secretary for Health Professor Lo Chung-mau thanked Hospital Authority staff and private healthcare professionals, saying the public and private sectors have done their utmost to care for the injured and affected residents since the fire. As of October 30, hotlines at District Health Centres across the 18 districts had received 641 enquiries and handled 266 referrals, while the Hospital Authority has provided free medical services to about 2,500 affected residents, and all 79 patients admitted to public hospitals because of the fire have been discharged after recovery. Mental health support will also continue, including the 18111 Mental Health Support Hotline and the Hospital Authority's 24-hour Mental Health Direct hotline.",
+   "zh_hans": "卫生局今日宣布，为大埔宏福苑火灾受影响居民提供的家庭医生及中医免费诊症、免费配假牙服务，以及医管局全额医疗费用豁免，原定今年底结束，将延长四个月至明年4月30日。卫生局局长卢宠茂感谢医管局及参与免费诊症的医护人员，指公私营医疗界自火灾以来一直全力照顾伤者及受影响居民。截至10月30日，18区地区康健中心热线共接获641宗查询，处理266宗转介；医管局已为约2,500名受影响居民免费提供所需医疗服务，79名因火灾入住公立医院的伤者已全部康复出院。精神健康支援措施亦会继续，包括18111精神健康支援热线及医管局24小时精神健康专线。",
+   "zh_hant": "衞生局今日宣布，為大埔宏福苑火災受影響居民提供的家庭醫生及中醫免費診症、免費配假牙服務，以及醫管局全額醫療費用豁免，原定今年底結束，將延長四個月至明年4月30日。衞生局局長盧寵茂感謝醫管局及參與免費診症的醫護人員，指公私營醫療界自火災以來一直全力照顧傷者及受影響居民。截至10月30日，18區地區康健中心熱線共接獲641宗查詢，處理266宗轉介；醫管局已為約2,500名受影響居民免費提供所需醫療服務，79名因火災入住公立醫院的傷者已全部康復出院。精神健康支援措施亦會繼續，包括18111精神健康支援熱線及醫管局24小時精神健康專線。"
   },
   "tags": {
    "en": [
-    "WorldSkills",
-    "Hong Kong team",
-    "vocational education"
+    "Wang Fuk Court",
+    "free medical services",
+    "Health Bureau"
    ],
    "zh_hans": [
-    "世界技能大赛",
-    "香港代表队",
-    "职专教育"
+    "宏福苑",
+    "免费医疗",
+    "卫生局"
    ],
    "zh_hant": [
-    "世界技能大賽",
-    "香港代表隊",
-    "職專教育"
+    "宏福苑",
+    "免費醫療",
+    "衞生局"
    ]
   },
   "title": {
-   "en": "Hong Kong wins record 15 medals at WorldSkills as Chief Executive praises team for telling Hong Kong's story",
-   "zh_hans": "世界技能大赛港队夺15奖创历届最佳 1银14优异奖 李家超赞说好香港故事",
-   "zh_hant": "世界技能大賽港隊奪15獎創歷屆最佳 1銀14優異獎 李家超讚說好香港故事"
+   "en": "Free medical care for Wang Fuk Court residents extended to next April as fee waivers reach about 2,500 people",
+   "zh_hans": "宏福苑灾民免费医疗延至明年4月底 医管局全费豁免惠及约2500人",
+   "zh_hant": "宏福苑災民免費醫療延至明年4月底 醫管局全費豁免惠及約2500人"
   }
  },
  {
   "category": "hk",
-  "id": "20261123-interpol-general-assembly-hk",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：國際刑警大會下周一連四日香港舉行，逾千人與會，全港設臨時限飛區禁無人機。場景：陽光下的香港會議展覽中心外觀，維多利亞港海面波光粼粼，藍天白雲，氣氛莊重專業。風格：寫實莊重，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「國際刑警大會下周一連四日香港舉行」，第二行黃字寫「逾千人與會 全港設臨時限飛區禁無人機」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "id": "20261123-lau-fau-shan-eia-public-inspection",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：流浮山發展環評報告即日起供公眾查閱至12月22日，擬建近4.9萬伙住宅單位。場景：陽光下的流浮山海邊，蠔田與漁村景色，遠處深圳灣大橋橫跨海面，藍天白雲，氣氛開闊明亮。風格：寫實開闊，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「流浮山發展環評報告供公眾查閱」，第二行黃字寫「擬建近4.9萬伙 設數字科技樞紐」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
   "image_url": "",
-  "published_at": "2026-11-23T15:20:00+08:00",
+  "published_at": "2026-11-23T17:50:00+08:00",
   "source": {
-   "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878938-20261123.htm"
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300342.htm"
   },
   "summary": {
-   "en": "The 94th Interpol General Assembly will be held in Hong Kong for four days from next Monday, with more than 1,000 participants including police chiefs and senior government officials from 196 member countries expected to attend. The agenda will focus on global fraud, transnational organised crime and AI-related crime, and delegates will be asked to formally approve the Silver Notice mechanism for tracing criminal assets across jurisdictions. Commissioner of Police Joe Chow said hosting the assembly is a vote of confidence from the international law enforcement community, adding that repeated drills have been held over the past year to ensure the event runs safely and smoothly. A city-wide temporary restricted flying zone will be in force from 00:01 on November 30 to 17:00 on December 3, covering small aircraft, drones, helicopters and paragliders, while civil aviation services will not be affected; parts of Victoria Harbour off the Convention and Exhibition Centre will be under marine control and the entire Wan Chai exhibition peninsula will be closed.",
-   "zh_hans": "国际刑警组织第94届全体大会下周一起一连四日在香港举行，预计逾千名参加者、来自196个成员国的警队首长和政府高层出席，讨论全球诈骗、跨国有组织罪行及人工智能相关犯罪，并寻求正式批准“银色通报”机制。警务处处长周一鸣表示，主办大会是国际执法组织对香港投下信任一票，过去一年已在多个范畴多次演练，确保大会安全畅顺。为配合大会，11月30日凌晨零时01分至12月3日下午5时全港设临时限飞区，管制小型飞机、无人机、直升机及滑翔伞等飞行活动，民航机不受影响；会展对开维港部分水域实施海上管制，湾仔会展整个半岛亦会封闭。",
-   "zh_hant": "國際刑警組織第94屆全體大會下周一起一連四日在香港舉行，預計逾千名參加者、來自196個成員國的警隊首長和政府高層出席，討論全球詐騙、跨國有組織罪行及人工智能相關犯罪，並尋求正式批准「銀色通報」機制。警務處處長周一鳴表示，主辦大會是國際執法組織對香港投下信任一票，過去一年已在多個範疇多次演練，確保大會安全暢順。為配合大會，11月30日凌晨零時01分至12月3日下午5時全港設臨時限飛區，管制小型飛機、無人機、直升機及滑翔傘等飛行活動，民航機不受影響；會展對開維港部分水域實施海上管制，灣仔會展整個半島亦會封閉。"
+   "en": "The government announced today that the Environmental Impact Assessment report for the Lau Fau Shan, Tsim Bei Tsui and Pak Nai developments is available for public inspection under the Environmental Impact Assessment Ordinance from today until December 22. Lau Fau Shan is one of the nine New Development Areas in the Northern Metropolis, at its westernmost end, and the government proposes two thematic positionings for it: a Digital Technology Hub and leisure ecotourism, with about 30 hectares next to the future Lau Fau Shan Station earmarked for the hub to drive the digital economy through AI and blockchain. About 48,900 residential units are planned in the developments, including transit-oriented developments near the Lau Fau Shan and Ha Tsuen stations of the Hong Kong-Shenzhen Western Rail Link. The government has said the statutory town planning and other procedures for the Lau Fau Shan development will commence progressively this year.",
+   "zh_hans": "政府今日宣布，流浮山／尖鼻咀／白泥一带发展的环境影响评估报告，即日起按《环境影响评估条例》供公众查阅，至12月22日为止。流浮山发展是北部都会区九个新发展区之一，位于都会区最西端，政府建议以数字科技枢纽及休闲生态旅游为两大主题定位，其中约30公顷毗邻未来流浮山站的土地将发展数字科技枢纽，配合人工智能及区块链等技术推动数字经济。发展范围内计划兴建约48,900个住宅单位，包括流浮山站及厦村站附近以交通为导向的发展项目。政府早前已宣布，流浮山发展的法定城市规划及其他相关程序将于今年内陆续展开。",
+   "zh_hant": "政府今日宣布，流浮山／尖鼻咀／白泥一帶發展的環境影響評估報告，即日起按《環境影響評估條例》供公眾查閱，至12月22日為止。流浮山發展是北部都會區九個新發展區之一，位於都會區最西端，政府建議以數字科技樞紐及休閒生態旅遊為兩大主題定位，其中約30公頃毗鄰未來流浮山站的土地將發展數字科技樞紐，配合人工智能及區塊鏈等技術推動數字經濟。發展範圍內計劃興建約48,900個住宅單位，包括流浮山站及厦村站附近以交通為導向的發展項目。政府早前已宣布，流浮山發展的法定城市規劃及其他相關程序將於今年內陸續展開。"
   },
   "tags": {
    "en": [
-    "Interpol General Assembly",
-    "Hong Kong Police",
-    "no-fly zone"
+    "Lau Fau Shan",
+    "Northern Metropolis",
+    "Environmental Impact Assessment"
    ],
    "zh_hans": [
-    "国际刑警大会",
-    "香港警队",
-    "临时限飞区"
+    "流浮山",
+    "北部都会区",
+    "环评报告"
    ],
    "zh_hant": [
-    "國際刑警大會",
-    "香港警隊",
-    "臨時限飛區"
+    "流浮山",
+    "北部都會區",
+    "環評報告"
    ]
   },
   "title": {
-   "en": "Interpol General Assembly opens in Hong Kong next week as over 1,000 delegates gather and city-wide no-fly zone takes effect",
-   "zh_hans": "国际刑警大会下周一连四日香港举行 逾千人与会 全港设临时限飞区禁无人机",
-   "zh_hant": "國際刑警大會下周一連四日香港舉行 逾千人與會 全港設臨時限飛區禁無人機"
+   "en": "Lau Fau Shan development EIA report open for public inspection as 48,900 homes and digital tech hub planned",
+   "zh_hans": "流浮山发展环评报告供公众查阅 拟建近4.9万伙 设数字科技枢纽",
+   "zh_hant": "流浮山發展環評報告供公眾查閱 擬建近4.9萬伙 設數字科技樞紐"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261123-hkicl-fraudulent-website-fpshk-help",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：HKICL再揭假網站fpshk.help冒認買家保障，呼籲市民切勿提供個人資料。場景：陽光下的現代辦公室內，一個人用手機進行網上付款，手機屏幕只顯示模糊光影、沒有任何文字，窗外城市景色明亮，氣氛警惕專業。風格：寫實警惕，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「HKICL再揭假網站冒認買家保障」，第二行黃字寫「fpshk.help呃個人資料 切勿上當」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-23T17:45:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300530.htm"
+  },
+  "summary": {
+   "en": "Hong Kong Interbank Clearing Limited has found a fraudulent website at fpshk.help purporting to be from the company, offering services under the guise of Buyer Online Protection including refunds to buyers, reporting of unauthorised online transactions and online transaction support for FPS payments, and directing users to fraudsters impersonating customer service staff. HKICL stressed the website has no affiliation with the company or any of its businesses, and that it does not normally provide FPS services directly to individual members of the public or contact them proactively. The public should only trust the official websites www.hkicl.com.hk and fps.hkicl.com.hk, and can call 2533 1111 to verify suspicious communications; anyone who suspects they have been defrauded should report to police promptly. This is the second such alert from HKICL in a short period, after it exposed the fraudulent website fpshk.xyz on November 21.",
+   "zh_hans": "香港银行同业结算有限公司近日发现假网站fpshk.help冒认该公司，以“买家网上保障”名义提供买家退款、未经授权网上交易举报及网上交易支援等服务，并引导用户联络冒充客服人员的骗徒。结算公司澄清，该假网站与公司及旗下任何业务均无关，并强调在一般情况下不会直接向个别市民提供转数快服务，亦不会主动联络市民。市民应认准结算公司官方网站www.hkicl.com.hk及fps.hkicl.com.hk，如收到可疑来电或讯息，可致电2533 1111核实；怀疑受骗应尽快报警。这是结算公司继本月21日揭发假网站fpshk.xyz后，短期内第二度发出同类警示。",
+   "zh_hant": "香港銀行同業結算有限公司近日發現假網站fpshk.help冒認該公司，以「買家網上保障」名義提供買家退款、未經授權網上交易舉報及網上交易支援等服務，並引導用戶聯絡冒充客服人員的騙徒。結算公司澄清，該假網站與公司及旗下任何業務均無關，並強調在一般情況下不會直接向個別市民提供轉數快服務，亦不會主動聯絡市民。市民應認準結算公司官方網站www.hkicl.com.hk及fps.hkicl.com.hk，如收到可疑來電或訊息，可致電2533 1111核實；懷疑受騙應盡快報警。這是結算公司繼本月21日揭發假網站fpshk.xyz後，短期內第二度發出同類警示。"
+  },
+  "tags": {
+   "en": [
+    "HKICL",
+    "fraudulent website",
+    "Faster Payment System"
+   ],
+   "zh_hans": [
+    "HKICL",
+    "假网站",
+    "转数快"
+   ],
+   "zh_hant": [
+    "HKICL",
+    "假網站",
+    "轉數快"
+   ]
+  },
+  "title": {
+   "en": "HKICL exposes another fake website fpshk.help posing as buyer protection and urges public not to share personal data",
+   "zh_hans": "HKICL再揭假网站冒认买家保障 fpshk.help骗个人资料 切勿上当",
+   "zh_hant": "HKICL再揭假網站冒認買家保障 fpshk.help呃個人資料 切勿上當"
   }
  },
  {
   "category": "hk",
-  "id": "20261123-clp-tariff-review-250m-fund",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：兩電電費檢討明立法會討論，中電明年撥2.5億支援社區，弱勢社群佔8000萬。場景：陽光明亮的香港住宅區，現代化高樓大廈與電力設施，藍天白雲，氣氛平和。風格：寫實，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「兩電電費檢討明立法會討論」，第二行黃字寫「中電明年撥2.5億支援社區 弱勢社群佔8000萬」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "id": "20261123-bid-rigging-second-round-33-arrested",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：打擊圍標特遣隊第二輪行動再瓦解一個圍標集團，涉15個屋苑及大廈工程合約逾1.3億，拘捕33人。場景：陽光下的香港住宅大廈外牆，維修棚架和吊船清晰可見，藍天白雲，氣氛嚴肅專業。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「圍標特遣隊第二輪行動再瓦解集團」，第二行黃字寫「涉15屋苑工程合約逾1.3億 拘33人」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
   "image_url": "",
-  "published_at": "2026-11-23T13:45:00+08:00",
+  "published_at": "2026-11-23T17:41:00+08:00",
   "source": {
    "name": "香港電台",
-   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878929-20261123.htm"
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878964-20261123.htm"
   },
   "summary": {
-   "en": "CLP Power's president of corporate development, Chiang Wai-yin, said the company will present its tariff adjustment proposal to the Legislative Council's environmental affairs panel tomorrow, stressing that CLP will use a diversified fuel mix and cost controls to keep adjustments under control and shield supply from geopolitical pressures. CLP announced it will set aside HK$250 million next year through the CLP Community Energy Saving Fund for a series of community support programmes, including HK$80 million for disadvantaged groups, up more than 30 per cent from last year. Funding for the grassroots household electricity subsidy scheme will rise from HK$50 million this year to HK$60 million, benefiting about 93,000 households, each receiving HK$600 in electricity subsidies; households moving to subdivided units in light public housing will receive HK$1,000 each. Over seven years the scheme has disbursed about HK$270 million to roughly 400,000 households.",
-   "zh_hans": "中电企业发展总裁庄伟茵表示，中电明天会在立法会环境事务委员会会议介绍电费调整方案，强调会透过多元化燃料组合及控制成本，控制好电费调整，确保能源供应不受地缘政治影响。中电公布明年透过中电社区节能基金拨款2亿5千万元，推出一系列社区支援计划，其中支援弱势社群的拨款8千万元，较去年增加超过三成。基层家庭电费补助计划拨款由今年5千万元增至6千万元，受惠家庭增至约9万3千个，每户可获600元电费资助；过渡至“简朴房”的分间单位家庭每户可获1000元。计划推行7年来累计拨款约2亿7千万元，受惠家庭约40万个。",
-   "zh_hant": "中電企業發展總裁莊偉茵表示，中電明天會在立法會環境事務委員會會議介紹電費調整方案，強調會透過多元化燃料組合及控制成本，控制好電費調整，確保能源供應不受地緣政治影響。中電公布明年透過中電社區節能基金撥款2億5千萬元，推出一系列社區支援計劃，其中支援弱勢社群的撥款8千萬元，較去年增加超過三成。基層家庭電費補助計劃撥款由今年5千萬元增至6千萬元，受惠家庭增至約9萬3千個，每戶可獲600元電費資助；過渡至「簡樸房」的分間單位家庭每戶可獲1000元。計劃推行7年來累計撥款約2億7千萬元，受惠家庭約40萬個。"
+   "en": "The government's joint task force against bid-rigging in building maintenance works has carried out a second round of operations, smashing another syndicate involving 15 housing estates and residential buildings across Hong Kong, with works contracts totalling more than HK$130 million, and blocking two maintenance contracts worth about HK$7.6 million. Thirty-three people were arrested, including contractors, directors of works companies and owners' corporation members, some with triad backgrounds, on suspicion of forgery and conspiracy to defraud. Secretary for Security Chris Tang said the syndicate bought flats to infiltrate owners' corporations, bribed or intimidated professionals into becoming rubber stamps, and falsely claimed buildings had received mandatory inspection notices to rush owners into approving works and funding. Police also smashed five illegal gambling dens, three illegal petrol stations and ten illicit cigarette warehouses run by the same triad group, arresting a further 64 people.",
+   "zh_hans": "政府打击楼宇维修工程围标联合特遣队近日展开第二轮行动，再瓦解一个围标集团，涉及全港15个屋苑或住宅大厦，工程合约总额逾1亿3000万元，并成功阻止该集团两份价值约760万元的楼宇维修合约。当局拘捕33人，包括承建商、工程公司董事及业主立案法团成员等，部分人有黑社会背景，涉嫌伪造文书及串谋诈骗。保安局局长邓炳强表示，集团预先买入单位渗透法团、收买或恐吓专业人士沦为“橡皮图章”，又讹称大厦收到强制验楼通知，营造工程急需开展的假象，操控招标结果。行动中警方亦捣破该黑社会集团操控的5个非法赌档、3个非法加油站及10个私烟仓，共拘捕64名相关人士。",
+   "zh_hant": "政府打擊樓宇維修工程圍標聯合特遣隊近日展開第二輪行動，再瓦解一個圍標集團，涉及全港15個屋苑或住宅大廈，工程合約總額逾1億3,000萬元，並成功阻止該集團兩份價值約760萬元的樓宇維修合約。當局拘捕33人，包括承建商、工程公司董事及業主立案法團成員等，部分人有黑社會背景，涉嫌偽造文書及串謀詐騙。保安局局長鄧炳強表示，集團預先買入單位滲透法團、收買或恐嚇專業人士淪為「橡皮圖章」，又訛稱大廈收到強制驗樓通知，營造工程急需開展的假象，操控招標結果。行動中警方亦搗破該黑社會集團操控的5個非法賭檔、3個非法加油站及10個私煙倉，共拘捕64名相關人士。"
   },
   "tags": {
    "en": [
-    "CLP",
-    "electricity tariff",
-    "Legislative Council"
+    "bid-rigging",
+    "building maintenance",
+    "Chris Tang"
    ],
    "zh_hans": [
-    "中电",
-    "电费",
-    "立法会"
+    "打击围标",
+    "楼宇维修",
+    "邓炳强"
    ],
    "zh_hant": [
-    "中電",
-    "電費",
-    "立法會"
+    "打擊圍標",
+    "樓宇維修",
+    "鄧炳強"
    ]
   },
   "title": {
-   "en": "CLP to set aside HK$250 million for community support next year as LegCo reviews power tariff adjustment",
-   "zh_hans": "两电电费检讨明立法会讨论 中电明年拨2.5亿支援社区 弱势社群占8000万",
-   "zh_hant": "兩電電費檢討明立法會討論 中電明年撥2.5億支援社區 弱勢社群佔8000萬"
+   "en": "Anti-bid-rigging task force smashes second syndicate covering 15 estates and HK$130m in contracts as 33 arrested",
+   "zh_hans": "围标特遣队第二轮行动再瓦解集团 涉15屋苑工程合约逾1.3亿拘33人",
+   "zh_hant": "圍標特遣隊第二輪行動再瓦解集團 涉15屋苑工程合約逾1.3億 拘33人"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261123-legionnaires-disease-four-new-cases",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：退伍軍人病一周新增4宗，今年累計182宗已超去年全年167宗。場景：陽光下的香港醫院大樓與社區街景，市民戴口罩行過，藍天白雲，氣氛冷靜有序。風格：寫實冷靜，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「退伍軍人病一周新增4宗」，第二行黃字寫「今年累計182宗超去年全年」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-23T17:30:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300547.htm"
+  },
+  "summary": {
+   "en": "The Centre for Health Protection today reported the latest situation on Legionnaires' disease, with four community-acquired cases recorded from November 15 to 21, involving one man and three women aged between 66 and 89, all with underlying illnesses and living in the Eastern, Tai Po and Central and Western districts. The centre is conducting epidemiological investigations, and initial findings show the four cases are sporadic, with no epidemiological links between them or with previously confirmed cases in Hong Kong. As of November 21, 182 cases had been recorded this year, already exceeding the 167 cases in 2025 and 135 in 2024. The centre reminded the public to use and maintain man-made water systems properly, and urged susceptible groups to strictly observe precautions, including cleaning and disinfecting water tanks and shower heads regularly.",
+   "zh_hans": "卫生署卫生防护中心今日公布退伍军人病最新情况，11月15日至21日录得四宗社区感染个案，患者为一男三女，年龄介乎66至89岁，全部有长期病患，分别居于东区、大埔区及中西区。中心正进行流行病学调查，初步显示四宗个案属散发个案，彼此及与以往确诊个案均未发现流行病学关连。截至11月21日，今年累计录得182宗退伍军人病个案，已超越2025年全年的167宗及2024年的135宗。中心提醒市民妥善使用及保养人造供水系统，高危人士应严格遵守预防措施，包括定期清洗消毒水箱及花洒。",
+   "zh_hant": "衞生署衞生防護中心今日公布退伍軍人病最新情況，11月15日至21日錄得四宗社區感染個案，患者為一男三女，年齡介乎66至89歲，全部有長期病患，分別居於東區、大埔區及中西區。中心正進行流行病學調查，初步顯示四宗個案屬散發個案，彼此及與以往確診個案均未發現流行病學關連。截至11月21日，今年累計錄得182宗退伍軍人病個案，已超越2025年全年的167宗及2024年的135宗。中心提醒市民妥善使用及保養人造供水系統，高危人士應嚴格遵守預防措施，包括定期清洗消毒水箱及花灑。"
+  },
+  "tags": {
+   "en": [
+    "Legionnaires' disease",
+    "Centre for Health Protection",
+    "public health"
+   ],
+   "zh_hans": [
+    "退伍军人病",
+    "卫生防护中心",
+    "公共卫生"
+   ],
+   "zh_hant": [
+    "退伍軍人病",
+    "衞生防護中心",
+    "公共衞生"
+   ]
+  },
+  "title": {
+   "en": "Four new Legionnaires' disease cases in a week as year's total hits 182, above all of last year",
+   "zh_hans": "退伍军人病一周新增4宗 今年累计182宗超去年全年",
+   "zh_hant": "退伍軍人病一周新增4宗 今年累計182宗超去年全年"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261123-hop-on-macrofire-owners-meeting-dec-8",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：宏福苑委任管理人合安下月8日召開業主周年大會，民政局長麥美娟稱按法例要求依法辦事。場景：陽光下的大埔社區中心外觀，居民陸續進出，藍天白雲，氣氛平和有序。風格：寫實平和，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「宏福苑下月8日召開業主大會」，第二行黃字寫「麥美娟稱按法例要求依法辦事」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-23T16:56:00+08:00",
+  "source": {
+   "name": "香港電台",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878955-20261123.htm"
+  },
+  "summary": {
+   "en": "Hop On Management Company, the appointed manager of the Wang Fuk Court owners' corporation, will hold the corporation's annual general meeting at 7pm on December 8 at the Tai Po Community Centre, with owners able to pre-register to attend from now until noon on December 3. The agenda includes a report by the manager on the estate's finances and discussion and voting on the appointment of an auditor for the 2026 financial year. Secretary for Home and Youth Affairs Alice Mak said the meeting is being held in accordance with the Building Management Ordinance, which requires a corporation's management committee to hold its next annual general meeting within 12 to 15 months of the previous one, and that the agenda items are also required by the ordinance.",
+   "zh_hans": "宏福苑业主立案法团的委任管理人合安管理有限公司将于下月8日晚上7时，在大埔社区中心召开法团业主周年大会，业主即日起至下月3日中午可预先登记出席。大会议程包括管理人汇报屋苑财务状况，以及讨论及议决选聘2026年财政年度的核数师。民政及青年事务局局长麦美娟表示，今次召开业主周年大会是按《建筑物管理条例》要求，属依法办事的行动，因为条例要求法团管委会在上一次周年业主大会召开后12至15个月内，召开下一次周年业主大会，议程亦属条例要求。",
+   "zh_hant": "宏福苑業主立案法團的委任管理人合安管理有限公司將於下月8日晚上7時，在大埔社區中心召開法團業主周年大會，業主即日起至下月3日中午可預先登記出席。大會議程包括管理人匯報屋苑財務狀況，以及討論及議決選聘2026年財政年度的核數師。民政及青年事務局局長麥美娟表示，今次召開業主周年大會是按《建築物管理條例》要求，屬依法辦事的行動，因為條例要求法團管委會在上一次周年業主大會召開後12至15個月內，召開下一次周年業主大會，議程亦屬條例要求。"
+  },
+  "tags": {
+   "en": [
+    "Wang Fuk Court",
+    "owners' meeting",
+    "Alice Mak"
+   ],
+   "zh_hans": [
+    "宏福苑",
+    "业主大会",
+    "麦美娟"
+   ],
+   "zh_hant": [
+    "宏福苑",
+    "業主大會",
+    "麥美娟"
+   ]
+  },
+  "title": {
+   "en": "Wang Fuk Court owners' meeting set for December 8 as Alice Mak says it follows the law",
+   "zh_hans": "宏福苑下月8日召开业主大会 麦美娟称按法例要求依法办事",
+   "zh_hant": "宏福苑下月8日召開業主大會 麥美娟稱按法例要求依法辦事"
+  }
+ },
+ {
+  "category": "tech",
+  "id": "20261123-honor-700-series-launch",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：榮耀700系列武漢發佈，全系2億像素主攝、9000mAh電池，國補價2899元人民幣起。場景：陽光下的現代科技發佈會舞台，大屏幕只顯示柔和光影、沒有任何文字，觀眾席座無虛席，氣氛熱鬧明亮。風格：寫實熱鬧，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「榮耀700系列武漢發佈」，第二行黃字寫「2億像素 9000mAh電池 2899元起」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-23T15:55:00+08:00",
+  "source": {
+   "name": "新浪香港",
+   "url": "https://portal.sina.com.hk/technology/sina/2026/11/23/1995338/%e6%a6%ae%e8%80%80700%e7%b3%bb%e5%88%97%e7%99%bc%e4%bd%88%ef%bc%9a%e6%80%a7%e8%83%bd%e8%b6%8a%e7%b4%9a%e9%a6%96%e9%8a%b7%e5%9c%8b%e8%a3%9c%e5%83%b92899%e5%85%83%e8%b5%b7/"
+  },
+  "summary": {
+   "en": "Honor today launched the Honor 700 series at a product event in Wuhan, positioning it as a trendy imaging-focused light flagship. The range comprises three models, the Honor 700 Pro, Honor 700 and Honor 700S, priced from RMB 2,899 after national subsidies, with first sales starting November 27. All models feature a 200-megapixel main camera, while the 700 Pro and 700 add a 50-megapixel periscope telephoto lens with 3.5x optical zoom and 120x digital zoom, plus a 200-megapixel selfie system with an adjustable soft-light ring. The series also carries a 9,000mAh fifth-generation Qinghai Lake battery in a body just 7.96mm thick, 80W wired fast charging, an AI smart rear display and the MagicOS 11 system. Honor chief executive Li Jian said the series was made by young people who love life, for young users who love life.",
+   "zh_hans": "荣耀今日在武汉举行新品发布会，推出定位“潮趣影像轻旗舰”的荣耀700系列，包括荣耀700 Pro、荣耀700及荣耀700S三款机型，国补后售价由2,899元人民币起，11月27日起首销。全系标配2亿像素电影感主摄，荣耀700 Pro及荣耀700另配备5,000万像素潜望长焦，支援3.5倍光学变焦及120倍数字变焦，并配备2亿柔光自拍系统及可调柔光环。系列亦全系搭载9000mAh第五代青海湖电池，机身厚度仅7.96毫米，支援80W有线快充，并配备荣耀AI灵动背屏及MagicOS 11系统。荣耀行政总裁李健表示，系列由一群热爱生活的年轻人打造，献给同样热爱生活的年轻用户。",
+   "zh_hant": "榮耀今日在武漢舉行新品發佈會，推出定位「潮趣影像輕旗艦」的榮耀700系列，包括榮耀700 Pro、榮耀700及榮耀700S三款機型，國補後售價由2,899元人民幣起，11月27日起首銷。全系標配2億像素電影感主攝，榮耀700 Pro及榮耀700另配備5,000萬像素潛望長焦，支援3.5倍光學變焦及120倍數字變焦，並配備2億柔光自拍系統及可調柔光環。系列亦全系搭載9000mAh第五代青海湖電池，機身厚度僅7.96毫米，支援80W有線快充，並配備榮耀AI靈動背屏及MagicOS 11系統。榮耀行政總裁李健表示，系列由一群熱愛生活的年輕人打造，獻給同樣熱愛生活的年輕用戶。"
+  },
+  "tags": {
+   "en": [
+    "Honor 700",
+    "smartphone",
+    "product launch"
+   ],
+   "zh_hans": [
+    "荣耀700",
+    "智能手机",
+    "新品发布"
+   ],
+   "zh_hant": [
+    "榮耀700",
+    "智能手機",
+    "新品發佈"
+   ]
+  },
+  "title": {
+   "en": "Honor 700 series debuts in Wuhan with 200MP cameras across the range and 9,000mAh batteries from RMB 2,899",
+   "zh_hans": "荣耀700系列武汉发布 2亿像素 9000mAh电池 2899元起",
+   "zh_hant": "榮耀700系列武漢發佈 2億像素 9000mAh電池 2899元起"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261123-construction-innovation-expo-smart-construction",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：創博會雲集逾190參展商促智能建造，人臉識別進工地、無人機驗棚網。場景：陽光下的香港會議展覽中心展覽大廳，智能建造展覽，機械人與無人機展示，參觀者眾多，藍天白雲透過玻璃幕牆灑入，氣氛朝氣專業。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「創博會雲集逾190參展商促智能建造」，第二行黃字寫「人臉識別進工地、無人機驗棚網」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-23T15:15:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.news.gov.hk/chi/2026/11/20261123/20261123_151551_835.html"
+  },
+  "summary": {
+   "en": "The Construction Innovation Expo 2026 is being held at the Convention and Exhibition Centre as a key event of the International Infrastructure Excellence Week, focusing on AI and smart construction, construction productivity and robotics, construction safety and sustainable construction, with more than 190 local, mainland and overseas exhibitors and an expected attendance of over 26,000. The Construction Industry Council is upgrading the construction workers registration system in phases, piloting facial recognition in place of card tapping at sites to simplify identity checks and improve site access management and safety monitoring. Exhibits also include drones that can inspect works safety and progress and even monitor the fire retardancy of scaffolding nets, as well as a walk-in spatial communications terminal from a mainland technology company that helps owners and contractors understand design and construction progress. Council executive director Thomas Ho said the expo, held once every three years, showcases the industry's newest, strongest and most exciting products and technologies.",
+   "zh_hans": "建造创新博览会2026在会议展览中心举行，是国际基建卓越周的重要活动，聚焦人工智能及智能建造、建造生产力及机械人、建造安全、可持续建造四大关键领域，吸引逾190家本地、内地和海外参展商，预计逾26,000人次参与。建造业议会正分阶段提升建造业工人注册系统，推出先导计划，逐步在工地以人脸识别代替传统拍卡，简化身份核实和出入流程，同时加强工地安全监测。展览亦有无人机可探测工程安全及施工进度，甚至监察棚网阻燃性，以及内地科技公司设立的步入式空间通信终端，方便业主和承建商了解设计和施工进度。建造业议会执行总监郑定寕表示，创博会每三年举办一场，将行业最新、最强、最精彩的产品和技术向业界及公众展示。",
+   "zh_hant": "建造創新博覽會2026在會議展覽中心舉行，是國際基建卓越周的重要活動，聚焦人工智能及智能建造、建造生產力及機械人、建造安全、可持續建造四大關鍵領域，吸引逾190家本地、內地和海外參展商，預計逾26,000人次參與。建造業議會正分階段提升建造業工人註冊系統，推出先導計劃，逐步在工地以人臉識別代替傳統拍卡，簡化身分核實和出入流程，同時加強工地安全監測。展覽亦有無人機可探測工程安全及施工進度，甚至監察棚網阻燃性，以及內地科技公司設立的步入式空間通信終端，方便業主和承建商了解設計和施工進度。建造業議會執行總監鄭定寕表示，創博會每三年舉辦一場，將行業最新、最強、最精彩的產品和技術向業界及公眾展示。"
+  },
+  "tags": {
+   "en": [
+    "Construction Innovation Expo",
+    "smart construction",
+    "Construction Industry Council"
+   ],
+   "zh_hans": [
+    "创博会",
+    "智能建造",
+    "建造业议会"
+   ],
+   "zh_hant": [
+    "創博會",
+    "智能建造",
+    "建造業議會"
+   ]
+  },
+  "title": {
+   "en": "Construction Innovation Expo draws over 190 exhibitors to push smart building as facial recognition and drones reach sites",
+   "zh_hans": "创博会云集逾190参展商促智能建造 人脸识别进工地、无人机验棚网",
+   "zh_hant": "創博會雲集逾190參展商促智能建造 人臉識別進工地、無人機驗棚網"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261123-fps-system-enhancement-nov-29",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：轉數快11月29日凌晨1時至上午11時系統提升，暫停服務10小時，市民宜預早安排付款。場景：陽光下的香港街頭，一個人在便利店櫃枱前用手機付款，畫面光亮，氣氛日常輕鬆。風格：寫實輕鬆，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「轉數快11月29日凌晨系統提升」，第二行黃字寫「暫停服務10小時 宜預早安排付款」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-23T15:00:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300443.htm"
+  },
+  "summary": {
+   "en": "The Hong Kong Monetary Authority announced today that the Faster Payment System will be unavailable from 1am to 11am on Sunday, November 29, for a planned system enhancement by its operator, Hong Kong Interbank Clearing Limited. The ten-hour suspension means the public will not be able to make FPS payments or transfers during that period. The authority has asked banks and stored value facility operators to notify customers in advance and in good time, and members of the public can contact individual banks or operators for details of the affected services and should make advance arrangements for their payment activities if necessary.",
+   "zh_hans": "金管局今日宣布，转数快将于11月29日（星期日）凌晨1时至上午11时，因应系统提升暂停服务10小时，期间市民无法使用转数快付款及转账。系统提升由转数快营运机构香港银行同业结算有限公司进行。金管局已要求银行及储值支付工具营运商提前及适时通知客户，市民可向个别银行或营运商查询受影响服务详情，如有需要应预早安排付款活动。",
+   "zh_hant": "金管局今日宣布，轉數快將於11月29日（星期日）凌晨1時至上午11時，因應系統提升暫停服務10小時，期間市民無法使用轉數快付款及轉賬。系統提升由轉數快營運機構香港銀行同業結算有限公司進行。金管局已要求銀行及儲值支付工具營運商提前及適時通知客戶，市民可向個別銀行或營運商查詢受影響服務詳情，如有需要應預早安排付款活動。"
+  },
+  "tags": {
+   "en": [
+    "Faster Payment System",
+    "HKMA",
+    "system enhancement"
+   ],
+   "zh_hans": [
+    "转数快",
+    "金管局",
+    "系统提升"
+   ],
+   "zh_hant": [
+    "轉數快",
+    "金管局",
+    "系統提升"
+   ]
+  },
+  "title": {
+   "en": "Faster Payment System to pause for 10 hours on November 29 for upgrade as public told to plan payments early",
+   "zh_hans": "转数快11月29日凌晨系统提升 暂停服务10小时 宜预早安排付款",
+   "zh_hant": "轉數快11月29日凌晨系統提升 暫停服務10小時 宜預早安排付款"
   }
  }
 ]
