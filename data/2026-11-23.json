@@ -1,6 +1,86 @@
 [
  {
   "category": "hk",
+  "id": "20261123-customs-airport-drug-cases",
+  "image_caption": "海關檢獲約3.5公斤懷疑可卡因。（政府新聞處）",
+  "image_prompt": "",
+  "image_r2_key": "design/202611/20261123-customs-airport-drug-cases.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-customs-airport-drug-cases.jpg",
+  "published_at": "2026-11-23T19:42:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300685.htm"
+  },
+  "summary": {
+   "en": "Hong Kong Customs detected three drug trafficking cases involving baggage concealment at Hong Kong International Airport over two consecutive days (November 22 and 23), seizing about 3.5 kilograms of suspected cocaine, 1 kilogram of suspected ecstasy powder and 7.2 kilograms of suspected cannabis buds, with an estimated total market value of about $4.1 million. Four people were arrested. A 49-year-old Mainland man has been charged with one count of trafficking in a dangerous drug and will appear at West Kowloon Magistrates' Courts tomorrow (November 24); investigations into the other two cases are ongoing. Under the Dangerous Drugs Ordinance, drug trafficking carries a maximum penalty of a $5 million fine and life imprisonment.",
+   "zh_hans": "香港海关一连两日（11月22及23日）在香港国际机场破获三宗行李藏毒案，检获约3.5公斤怀疑可卡因、1公斤怀疑摇头丸粉末及7.2公斤怀疑大麻花，市值约410万元，拘捕4人。其中一名49岁内地男旅客已被落案起诉一项贩运危险药物罪，明日（24日）在西九龙裁判法院提堂，其余两案仍在调查。海关提醒市民切勿为金钱回报参与贩毒，亦不要替他人携带不明物品出入境。根据《危险药物条例》，贩运危险药物一经定罪，最高可被判罚款500万元及终身监禁。",
+   "zh_hant": "香港海關一連兩日（11月22及23日）在香港國際機場破獲三宗行李藏毒案，檢獲約3.5公斤懷疑可卡因、1公斤懷疑搖頭丸粉末及7.2公斤懷疑大麻花，市值約410萬元，拘捕4人。其中一名49歲內地男旅客已被落案起訴一項販運危險藥物罪，明日（24日）在西九龍裁判法院提堂，其餘兩案仍在調查。海關提醒市民切勿為金錢回報參與販毒，亦不要替他人攜帶不明物品出入境。根據《危險藥物條例》，販運危險藥物一經定罪，最高可被判罰款500萬元及終身監禁。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Customs",
+    "airport drug trafficking",
+    "cocaine"
+   ],
+   "zh_hans": [
+    "海关",
+    "机场贩毒",
+    "可卡因"
+   ],
+   "zh_hant": [
+    "海關",
+    "機場販毒",
+    "可卡因"
+   ]
+  },
+  "title": {
+   "en": "Customs seizes $4.1m in drugs in three airport cases over two days, four arrested",
+   "zh_hans": "海关机场两日破三宗贩毒案 检410万元毒品拘4人",
+   "zh_hant": "海關機場兩日破三宗販毒案 檢410萬元毒品拘4人"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261123-health-secretary-visits-united-christian-hospital",
+  "image_caption": "醫務衞生局局長盧寵茂參觀基督教聯合醫院新大樓的日間化療中心。（政府新聞處）",
+  "image_prompt": "",
+  "image_r2_key": "design/202611/20261123-health-secretary-visits-united-christian-hospital.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-health-secretary-visits-united-christian-hospital.jpg",
+  "published_at": "2026-11-23T19:18:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300514.htm"
+  },
+  "summary": {
+   "en": "Secretary for Health Professor Lo Chung-mau visited United Christian Hospital today to tour the new Ambulatory Care Centre and learn more about the operation of the new building and its services. The 23-storey centre has a total gross floor area of 165,000 square metres and houses specialist outpatient clinics, a rehabilitation garden, physiotherapy and occupational therapy departments and integrated specialist services. The Kowloon East Oncology Centre will commence operations on December 1, providing comprehensive cancer care including radiation therapy and day chemotherapy, and is expected to provide around 8,000 additional cancer-related attendances in 2026-27. The number of specialist outpatient consultation rooms has increased from 81 to 180.",
+   "zh_hans": "医务卫生局局长卢宠茂今日到访基督教联合医院，参观新落成的日间医疗中心，了解新大楼运作及服务安排。楼高23层的日间医疗中心总楼面面积达165,000平方米，设有专科门诊、复康花园、物理及职业治疗部等设施；九龙东肿瘤科中心将于12月1日投入服务，提供放射治疗及日间化疗等综合癌症服务，预计2026-27年度可额外提供约8,000个癌症相关就诊人次。专科门诊诊症室数目已由81间增至180间。",
+   "zh_hant": "醫務衞生局局長盧寵茂今日到訪基督教聯合醫院，參觀新落成的日間醫療中心，了解新大樓運作及服務安排。樓高23層的日間醫療中心總樓面面積達165,000平方米，設有專科門診、復康花園、物理及職業治療部等設施；九龍東腫瘤科中心將於12月1日投入服務，提供放射治療及日間化療等綜合癌症服務，預計2026-27年度可額外提供約8,000個癌症相關就診人次。專科門診診症室數目已由81間增至180間。"
+  },
+  "tags": {
+   "en": [
+    "Lo Chung-mau",
+    "United Christian Hospital",
+    "oncology centre"
+   ],
+   "zh_hans": [
+    "卢宠茂",
+    "基督教联合医院",
+    "肿瘤科中心"
+   ],
+   "zh_hant": [
+    "盧寵茂",
+    "基督教聯合醫院",
+    "腫瘤科中心"
+   ]
+  },
+  "title": {
+   "en": "Health chief tours United Christian Hospital as oncology centre set to open December 1",
+   "zh_hans": "卢宠茂巡基督教联合医院 肿瘤科中心下月启用",
+   "zh_hant": "盧寵茂巡基督教聯合醫院 腫瘤科中心下月啟用"
+  }
+ },
+ {
+  "category": "hk",
   "id": "20261123-public-housing-building-control-section",
   "image_prompt": "電視新聞圖卡風格，16:9。事實：房屋局成立公屋建築管制組取代獨立審查組，加強規管公屋維修及新建工程。場景：陽光下的香港公共屋邨大樓群，樓宇外牆簇新，藍天白雲，氣氛明朗有序。風格：寫實明朗，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「房屋局成立公屋建築管制組」，第二行黃字寫「接管獨立審查組加強規管維修」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
   "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-public-housing-building-control-section-v2.jpg",
@@ -37,6 +117,46 @@
    "zh_hant": "房屋局成立公屋建築管制組 接管獨立審查組加強規管維修"
   },
   "image_r2_key": "design/202611/20261123-public-housing-building-control-section-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-fire-services-passing-out-parade",
+  "image_caption": "行政會議非官守議員召集人葉劉淑儀檢閱消防結業會操。（政府新聞處）",
+  "image_prompt": "",
+  "image_r2_key": "design/202611/20261123-fire-services-passing-out-parade.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-fire-services-passing-out-parade.jpg",
+  "published_at": "2026-11-23T18:20:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300265.htm"
+  },
+  "summary": {
+   "en": "Regina Ip, Convenor of the Non-official Members of the Executive Council, today reviewed the Fire Services passing-out parade for 144 graduates at the Fire and Ambulance Services Academy. The graduates include 38 station officers, 15 senior firemen and firewomen of the Mobilising and Communications Division, 46 firemen and 45 ambulancemen and ambulancewoman, who will be posted to fire stations, ambulance depots and the Fire Services Communications Centre. Speaking at the parade, Mrs Ip said she was pleased to see the department leveraging big data, artificial intelligence, firefighting robots and drones, and praised its Disaster Response and Rescue Team for passing the United Nations assessment to become the nation's first internationally accredited medium search and rescue team.",
+   "zh_hans": "行政会议非官守议员召集人叶刘淑仪今日在消防及救护学院检阅消防结业会操，144名毕业学员包括38名消防队长、15名调派及通讯组高级消防员、46名消防员及45名救护员，将派驻各消防局、救护站及消防通讯中心。叶刘淑仪致辞时表示，乐见消防处善用大数据、人工智能、灭火机器人及无人机等科技加强防火及救援能力，并赞扬灾难应变救援队通过联合国评核，成为国家首支获国际认证的中型搜救队伍。",
+   "zh_hant": "行政會議非官守議員召集人葉劉淑儀今日在消防及救護學院檢閱消防結業會操，144名畢業學員包括38名消防隊長、15名調派及通訊組高級消防員、46名消防員及45名救護員，將派駐各消防局、救護站及消防通訊中心。葉劉淑儀致辭時表示，樂見消防處善用大數據、人工智能、滅火機械人及無人機等科技加強防火及救援能力，並讚揚災難應變救援隊通過聯合國評核，成為國家首支獲國際認證的中型搜救隊伍。"
+  },
+  "tags": {
+   "en": [
+    "Fire Services passing-out parade",
+    "Regina Ip",
+    "Fire Services Department"
+   ],
+   "zh_hans": [
+    "消防结业会操",
+    "叶刘淑仪",
+    "消防处"
+   ],
+   "zh_hant": [
+    "消防結業會操",
+    "葉劉淑儀",
+    "消防處"
+   ]
+  },
+  "title": {
+   "en": "Regina Ip reviews Fire Services passing-out parade as 144 graduates join front line",
+   "zh_hans": "叶刘淑仪检阅消防结业会操 144毕业生派驻各区",
+   "zh_hant": "葉劉淑儀檢閱消防結業會操 144畢業生派駐各區"
+  }
  },
  {
   "category": "hk",
@@ -77,6 +197,84 @@
    "zh_hant": "李家超聽取宏福苑大火改革進度報告 促盡快提交六條修例草案"
   },
   "image_r2_key": "design/202611/20261123-lee-macrofire-reform-progress-report.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-health-bureau-free-medical-macrofire-april",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：衞生局延長宏福苑災民免費醫療至明年4月底，醫管局全費豁免惠及約2500人。場景：陽光下的香港公立醫院大樓外觀，市民在門外有序等候，藍天白雲，氣氛溫暖安心。風格：寫實溫暖，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「宏福苑災民免費醫療延至明年4月底」，第二行黃字寫「醫管局全費豁免惠及約2500人」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-health-bureau-free-medical-macrofire-april-refill.jpg",
+  "published_at": "2026-11-23T18:10:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300359.htm"
+  },
+  "summary": {
+   "en": "The Health Bureau announced today that free consultations by family doctors and Chinese medicine practitioners, free denture replacement services and the Hospital Authority's full medical fee waivers for residents affected by the Wang Fuk Court fire in Tai Po, originally due to end this December, will be extended by four months to April 30 next year. Secretary for Health Professor Lo Chung-mau thanked Hospital Authority staff and private healthcare professionals, saying the public and private sectors have done their utmost to care for the injured and affected residents since the fire. As of October 30, hotlines at District Health Centres across the 18 districts had received 641 enquiries and handled 266 referrals, while the Hospital Authority has provided free medical services to about 2,500 affected residents, and all 79 patients admitted to public hospitals because of the fire have been discharged after recovery. Mental health support will also continue, including the 18111 Mental Health Support Hotline and the Hospital Authority's 24-hour Mental Health Direct hotline.",
+   "zh_hans": "卫生局今日宣布，为大埔宏福苑火灾受影响居民提供的家庭医生及中医免费诊症、免费配假牙服务，以及医管局全额医疗费用豁免，原定今年底结束，将延长四个月至明年4月30日。卫生局局长卢宠茂感谢医管局及参与免费诊症的医护人员，指公私营医疗界自火灾以来一直全力照顾伤者及受影响居民。截至10月30日，18区地区康健中心热线共接获641宗查询，处理266宗转介；医管局已为约2,500名受影响居民免费提供所需医疗服务，79名因火灾入住公立医院的伤者已全部康复出院。精神健康支援措施亦会继续，包括18111精神健康支援热线及医管局24小时精神健康专线。",
+   "zh_hant": "衞生局今日宣布，為大埔宏福苑火災受影響居民提供的家庭醫生及中醫免費診症、免費配假牙服務，以及醫管局全額醫療費用豁免，原定今年底結束，將延長四個月至明年4月30日。衞生局局長盧寵茂感謝醫管局及參與免費診症的醫護人員，指公私營醫療界自火災以來一直全力照顧傷者及受影響居民。截至10月30日，18區地區康健中心熱線共接獲641宗查詢，處理266宗轉介；醫管局已為約2,500名受影響居民免費提供所需醫療服務，79名因火災入住公立醫院的傷者已全部康復出院。精神健康支援措施亦會繼續，包括18111精神健康支援熱線及醫管局24小時精神健康專線。"
+  },
+  "tags": {
+   "en": [
+    "Wang Fuk Court",
+    "free medical services",
+    "Health Bureau"
+   ],
+   "zh_hans": [
+    "宏福苑",
+    "免费医疗",
+    "卫生局"
+   ],
+   "zh_hant": [
+    "宏福苑",
+    "免費醫療",
+    "衞生局"
+   ]
+  },
+  "title": {
+   "en": "Free medical care for Wang Fuk Court residents extended to next April as fee waivers reach about 2,500 people",
+   "zh_hans": "宏福苑灾民免费医疗延至明年4月底 医管局全费豁免惠及约2500人",
+   "zh_hant": "宏福苑災民免費醫療延至明年4月底 醫管局全費豁免惠及約2500人"
+  },
+  "image_r2_key": "design/202611/20261123-health-bureau-free-medical-macrofire-april-refill.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-lau-fau-shan-eia-public-inspection",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：流浮山發展環評報告即日起供公眾查閱至12月22日，擬建近4.9萬伙住宅單位。場景：陽光下的流浮山海邊，蠔田與漁村景色，遠處深圳灣大橋橫跨海面，藍天白雲，氣氛開闊明亮。風格：寫實開闊，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「流浮山發展環評報告供公眾查閱」，第二行黃字寫「擬建近4.9萬伙 設數字科技樞紐」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-lau-fau-shan-eia-public-inspection-refill.jpg",
+  "published_at": "2026-11-23T17:50:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300342.htm"
+  },
+  "summary": {
+   "en": "The government announced today that the Environmental Impact Assessment report for the Lau Fau Shan, Tsim Bei Tsui and Pak Nai developments is available for public inspection under the Environmental Impact Assessment Ordinance from today until December 22. Lau Fau Shan is one of the nine New Development Areas in the Northern Metropolis, at its westernmost end, and the government proposes two thematic positionings for it: a Digital Technology Hub and leisure ecotourism, with about 30 hectares next to the future Lau Fau Shan Station earmarked for the hub to drive the digital economy through AI and blockchain. About 48,900 residential units are planned in the developments, including transit-oriented developments near the Lau Fau Shan and Ha Tsuen stations of the Hong Kong-Shenzhen Western Rail Link. The government has said the statutory town planning and other procedures for the Lau Fau Shan development will commence progressively this year.",
+   "zh_hans": "政府今日宣布，流浮山／尖鼻咀／白泥一带发展的环境影响评估报告，即日起按《环境影响评估条例》供公众查阅，至12月22日为止。流浮山发展是北部都会区九个新发展区之一，位于都会区最西端，政府建议以数字科技枢纽及休闲生态旅游为两大主题定位，其中约30公顷毗邻未来流浮山站的土地将发展数字科技枢纽，配合人工智能及区块链等技术推动数字经济。发展范围内计划兴建约48,900个住宅单位，包括流浮山站及厦村站附近以交通为导向的发展项目。政府早前已宣布，流浮山发展的法定城市规划及其他相关程序将于今年内陆续展开。",
+   "zh_hant": "政府今日宣布，流浮山／尖鼻咀／白泥一帶發展的環境影響評估報告，即日起按《環境影響評估條例》供公眾查閱，至12月22日為止。流浮山發展是北部都會區九個新發展區之一，位於都會區最西端，政府建議以數字科技樞紐及休閒生態旅遊為兩大主題定位，其中約30公頃毗鄰未來流浮山站的土地將發展數字科技樞紐，配合人工智能及區塊鏈等技術推動數字經濟。發展範圍內計劃興建約48,900個住宅單位，包括流浮山站及厦村站附近以交通為導向的發展項目。政府早前已宣布，流浮山發展的法定城市規劃及其他相關程序將於今年內陸續展開。"
+  },
+  "tags": {
+   "en": [
+    "Lau Fau Shan",
+    "Northern Metropolis",
+    "Environmental Impact Assessment"
+   ],
+   "zh_hans": [
+    "流浮山",
+    "北部都会区",
+    "环评报告"
+   ],
+   "zh_hant": [
+    "流浮山",
+    "北部都會區",
+    "環評報告"
+   ]
+  },
+  "title": {
+   "en": "Lau Fau Shan development EIA report open for public inspection as 48,900 homes and digital tech hub planned",
+   "zh_hans": "流浮山发展环评报告供公众查阅 拟建近4.9万伙 设数字科技枢纽",
+   "zh_hant": "流浮山發展環評報告供公眾查閱 擬建近4.9萬伙 設數字科技樞紐"
+  },
+  "image_r2_key": "design/202611/20261123-lau-fau-shan-eia-public-inspection-refill.jpg"
  },
  {
   "category": "finance",
@@ -155,6 +353,85 @@
    "zh_hant": "圍標特遣隊第二輪行動再瓦解集團 涉15屋苑工程合約逾1.3億 拘33人"
   },
   "image_r2_key": "design/202611/20261123-bid-rigging-second-round-33-arrested-v2.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-ai-robot-pigeon-feeding",
+  "image_caption": "漁護署試行人工智能巡邏機械人，協助遏止非法餵飼野鴿。（政府新聞處）",
+  "image_prompt": "",
+  "image_r2_key": "design/202611/20261123-ai-robot-pigeon-feeding.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-ai-robot-pigeon-feeding.jpg",
+  "published_at": "2026-11-23T17:36:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.news.gov.hk/chi/2026/11/20261123/20261123_173619_862.html"
+  },
+  "summary": {
+   "en": "The Agriculture, Fisheries and Conservation Department is stepping up its use of technology to curb illegal pigeon feeding, including trialling artificial intelligence patrol robots at specific locations. Equipped with cameras and sensors, the robots patrol along preset routes and broadcast messages reminding the public not to feed pigeons; when the system detects pigeons gathering or suspected feeding, it captures photos for follow-up. The first phase is being trialled at individual private premises in Tuen Mun and Tsing Yi. Since the department began trialling an AI monitoring system in September last year, 459 fixed penalty notices have been issued for illegal feeding of pigeons or wild birds, and pigeon numbers at counting points across Hong Kong fell by more than 20 per cent in the first quarter of this year compared with when the amended ordinance took effect.",
+   "zh_hans": "渔护署持续加强科技应用，在特定地点试行人工智能巡逻机器人，协助遏止非法喂饲野鸽。机器人可按预设路线巡逻并沿途广播宣传，提醒市民切勿喂饲野鸽；当系统辨识到野鸽聚集或怀疑有人喂饲时，会撷取照片提交署方跟进。机器人首阶段在屯门和青衣个别私人处所试行。署方亦自去年9月起试用人工智能监察系统，至今已就非法喂饲野鸽或野鸟发出459张定额罚款通知书；今年第一季全港野鸽聚集统计点的野鸽数量，较修例初期整体下跌超过两成。",
+   "zh_hant": "漁護署持續加強科技應用，在特定地點試行人工智能巡邏機械人，協助遏止非法餵飼野鴿。機械人可按預設路線巡邏並沿途廣播宣傳，提醒市民切勿餵飼野鴿；當系統辨識到野鴿聚集或懷疑有人餵飼時，會擷取相片提交署方跟進。機械人首階段在屯門和青衣個別私人處所試行。署方亦自去年9月起試用人工智能監察系統，至今已就非法餵飼野鴿或野鳥發出459張定額罰款通知書；今年第一季全港野鴿聚集統計點的野鴿數量，較修例初期整體下跌超過兩成。"
+  },
+  "tags": {
+   "en": [
+    "illegal pigeon feeding",
+    "artificial intelligence",
+    "AFCD"
+   ],
+   "zh_hans": [
+    "非法喂饲野鸽",
+    "人工智能",
+    "渔护署"
+   ],
+   "zh_hant": [
+    "非法餵飼野鴿",
+    "人工智能",
+    "漁護署"
+   ]
+  },
+  "title": {
+   "en": "AI patrol robots help curb illegal pigeon feeding as fines hit 459 and pigeon numbers fall over 20%",
+   "zh_hans": "AI机器人巡逻捉喂鸽 459张告票野鸽少逾两成",
+   "zh_hant": "AI機械人巡邏捉餵鴿 459張告票野鴿少逾兩成"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261123-legionnaires-disease-four-new-cases",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：退伍軍人病一周新增4宗，今年累計182宗已超去年全年167宗。場景：陽光下的香港醫院大樓與社區街景，市民戴口罩行過，藍天白雲，氣氛冷靜有序。風格：寫實冷靜，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「退伍軍人病一周新增4宗」，第二行黃字寫「今年累計182宗超去年全年」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-legionnaires-disease-four-new-cases-refill.jpg",
+  "published_at": "2026-11-23T17:30:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300547.htm"
+  },
+  "summary": {
+   "en": "The Centre for Health Protection today reported the latest situation on Legionnaires' disease, with four community-acquired cases recorded from November 15 to 21, involving one man and three women aged between 66 and 89, all with underlying illnesses and living in the Eastern, Tai Po and Central and Western districts. The centre is conducting epidemiological investigations, and initial findings show the four cases are sporadic, with no epidemiological links between them or with previously confirmed cases in Hong Kong. As of November 21, 182 cases had been recorded this year, already exceeding the 167 cases in 2025 and 135 in 2024. The centre reminded the public to use and maintain man-made water systems properly, and urged susceptible groups to strictly observe precautions, including cleaning and disinfecting water tanks and shower heads regularly.",
+   "zh_hans": "卫生署卫生防护中心今日公布退伍军人病最新情况，11月15日至21日录得四宗社区感染个案，患者为一男三女，年龄介乎66至89岁，全部有长期病患，分别居于东区、大埔区及中西区。中心正进行流行病学调查，初步显示四宗个案属散发个案，彼此及与以往确诊个案均未发现流行病学关连。截至11月21日，今年累计录得182宗退伍军人病个案，已超越2025年全年的167宗及2024年的135宗。中心提醒市民妥善使用及保养人造供水系统，高危人士应严格遵守预防措施，包括定期清洗消毒水箱及花洒。",
+   "zh_hant": "衞生署衞生防護中心今日公布退伍軍人病最新情況，11月15日至21日錄得四宗社區感染個案，患者為一男三女，年齡介乎66至89歲，全部有長期病患，分別居於東區、大埔區及中西區。中心正進行流行病學調查，初步顯示四宗個案屬散發個案，彼此及與以往確診個案均未發現流行病學關連。截至11月21日，今年累計錄得182宗退伍軍人病個案，已超越2025年全年的167宗及2024年的135宗。中心提醒市民妥善使用及保養人造供水系統，高危人士應嚴格遵守預防措施，包括定期清洗消毒水箱及花灑。"
+  },
+  "tags": {
+   "en": [
+    "Legionnaires' disease",
+    "Centre for Health Protection",
+    "public health"
+   ],
+   "zh_hans": [
+    "退伍军人病",
+    "卫生防护中心",
+    "公共卫生"
+   ],
+   "zh_hant": [
+    "退伍軍人病",
+    "衞生防護中心",
+    "公共衞生"
+   ]
+  },
+  "title": {
+   "en": "Four new Legionnaires' disease cases in a week as year's total hits 182, above all of last year",
+   "zh_hans": "退伍军人病一周新增4宗 今年累计182宗超去年全年",
+   "zh_hant": "退伍軍人病一周新增4宗 今年累計182宗超去年全年"
+  },
+  "image_r2_key": "design/202611/20261123-legionnaires-disease-four-new-cases-refill.jpg"
  },
  {
   "category": "hk",
@@ -547,6 +824,45 @@
    "zh_hant": "國際刑警大會下周一連四日香港舉行 逾千人與會 全港設臨時限飛區禁無人機"
   },
   "image_r2_key": "design/202611/20261123-interpol-general-assembly-hk.jpg"
+ },
+ {
+  "category": "hk",
+  "id": "20261123-construction-innovation-expo-smart-construction",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：創博會雲集逾190參展商促智能建造，人臉識別進工地、無人機驗棚網。場景：陽光下的香港會議展覽中心展覽大廳，智能建造展覽，機械人與無人機展示，參觀者眾多，藍天白雲透過玻璃幕牆灑入，氣氛朝氣專業。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「創博會雲集逾190參展商促智能建造」，第二行黃字寫「人臉識別進工地、無人機驗棚網」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-construction-innovation-expo-smart-construction-refill.jpg",
+  "published_at": "2026-11-23T15:15:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.news.gov.hk/chi/2026/11/20261123/20261123_151551_835.html"
+  },
+  "summary": {
+   "en": "The Construction Innovation Expo 2026 is being held at the Convention and Exhibition Centre as a key event of the International Infrastructure Excellence Week, focusing on AI and smart construction, construction productivity and robotics, construction safety and sustainable construction, with more than 190 local, mainland and overseas exhibitors and an expected attendance of over 26,000. The Construction Industry Council is upgrading the construction workers registration system in phases, piloting facial recognition in place of card tapping at sites to simplify identity checks and improve site access management and safety monitoring. Exhibits also include drones that can inspect works safety and progress and even monitor the fire retardancy of scaffolding nets, as well as a walk-in spatial communications terminal from a mainland technology company that helps owners and contractors understand design and construction progress. Council executive director Thomas Ho said the expo, held once every three years, showcases the industry's newest, strongest and most exciting products and technologies.",
+   "zh_hans": "建造创新博览会2026在会议展览中心举行，是国际基建卓越周的重要活动，聚焦人工智能及智能建造、建造生产力及机械人、建造安全、可持续建造四大关键领域，吸引逾190家本地、内地和海外参展商，预计逾26,000人次参与。建造业议会正分阶段提升建造业工人注册系统，推出先导计划，逐步在工地以人脸识别代替传统拍卡，简化身份核实和出入流程，同时加强工地安全监测。展览亦有无人机可探测工程安全及施工进度，甚至监察棚网阻燃性，以及内地科技公司设立的步入式空间通信终端，方便业主和承建商了解设计和施工进度。建造业议会执行总监郑定寕表示，创博会每三年举办一场，将行业最新、最强、最精彩的产品和技术向业界及公众展示。",
+   "zh_hant": "建造創新博覽會2026在會議展覽中心舉行，是國際基建卓越周的重要活動，聚焦人工智能及智能建造、建造生產力及機械人、建造安全、可持續建造四大關鍵領域，吸引逾190家本地、內地和海外參展商，預計逾26,000人次參與。建造業議會正分階段提升建造業工人註冊系統，推出先導計劃，逐步在工地以人臉識別代替傳統拍卡，簡化身分核實和出入流程，同時加強工地安全監測。展覽亦有無人機可探測工程安全及施工進度，甚至監察棚網阻燃性，以及內地科技公司設立的步入式空間通信終端，方便業主和承建商了解設計和施工進度。建造業議會執行總監鄭定寕表示，創博會每三年舉辦一場，將行業最新、最強、最精彩的產品和技術向業界及公眾展示。"
+  },
+  "tags": {
+   "en": [
+    "Construction Innovation Expo",
+    "smart construction",
+    "Construction Industry Council"
+   ],
+   "zh_hans": [
+    "创博会",
+    "智能建造",
+    "建造业议会"
+   ],
+   "zh_hant": [
+    "創博會",
+    "智能建造",
+    "建造業議會"
+   ]
+  },
+  "title": {
+   "en": "Construction Innovation Expo draws over 190 exhibitors to push smart building as facial recognition and drones reach sites",
+   "zh_hans": "创博会云集逾190参展商促智能建造 人脸识别进工地、无人机验棚网",
+   "zh_hant": "創博會雲集逾190參展商促智能建造 人臉識別進工地、無人機驗棚網"
+  },
+  "image_r2_key": "design/202611/20261123-construction-innovation-expo-smart-construction-refill.jpg"
  },
  {
   "category": "finance",
@@ -2383,154 +2699,202 @@
  },
  {
   "category": "hk",
-  "id": "20261123-health-bureau-free-medical-macrofire-april",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：衞生局延長宏福苑災民免費醫療至明年4月底，醫管局全費豁免惠及約2500人。場景：陽光下的香港公立醫院大樓外觀，市民在門外有序等候，藍天白雲，氣氛溫暖安心。風格：寫實溫暖，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「宏福苑災民免費醫療延至明年4月底」，第二行黃字寫「醫管局全費豁免惠及約2500人」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "id": "20261123-candida-auris-wong-tai-sin-hospital",
+  "image_caption": "",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：黃大仙醫院6名男病人帶有耳念珠菌，全部無感染病徵，隔離治療情況穩定。場景：光亮潔淨的現代醫院病房，醫護人員穿戴防護裝備進行環境消毒，淺綠與白色調，窗外日光灑入，氣氛冷靜安心。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「黃大仙醫院爆耳念珠菌」，第二行黃字寫「6男病人中招須隔離情況穩定」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_r2_key": "",
   "image_url": "",
-  "published_at": "2026-11-23T18:10:00+08:00",
+  "published_at": "2026-11-23T19:40:00+08:00",
   "source": {
    "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300359.htm"
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300649.htm"
   },
   "summary": {
-   "en": "The Health Bureau announced today that free consultations by family doctors and Chinese medicine practitioners, free denture replacement services and the Hospital Authority's full medical fee waivers for residents affected by the Wang Fuk Court fire in Tai Po, originally due to end this December, will be extended by four months to April 30 next year. Secretary for Health Professor Lo Chung-mau thanked Hospital Authority staff and private healthcare professionals, saying the public and private sectors have done their utmost to care for the injured and affected residents since the fire. As of October 30, hotlines at District Health Centres across the 18 districts had received 641 enquiries and handled 266 referrals, while the Hospital Authority has provided free medical services to about 2,500 affected residents, and all 79 patients admitted to public hospitals because of the fire have been discharged after recovery. Mental health support will also continue, including the 18111 Mental Health Support Hotline and the Hospital Authority's 24-hour Mental Health Direct hotline.",
-   "zh_hans": "卫生局今日宣布，为大埔宏福苑火灾受影响居民提供的家庭医生及中医免费诊症、免费配假牙服务，以及医管局全额医疗费用豁免，原定今年底结束，将延长四个月至明年4月30日。卫生局局长卢宠茂感谢医管局及参与免费诊症的医护人员，指公私营医疗界自火灾以来一直全力照顾伤者及受影响居民。截至10月30日，18区地区康健中心热线共接获641宗查询，处理266宗转介；医管局已为约2,500名受影响居民免费提供所需医疗服务，79名因火灾入住公立医院的伤者已全部康复出院。精神健康支援措施亦会继续，包括18111精神健康支援热线及医管局24小时精神健康专线。",
-   "zh_hant": "衞生局今日宣布，為大埔宏福苑火災受影響居民提供的家庭醫生及中醫免費診症、免費配假牙服務，以及醫管局全額醫療費用豁免，原定今年底結束，將延長四個月至明年4月30日。衞生局局長盧寵茂感謝醫管局及參與免費診症的醫護人員，指公私營醫療界自火災以來一直全力照顧傷者及受影響居民。截至10月30日，18區地區康健中心熱線共接獲641宗查詢，處理266宗轉介；醫管局已為約2,500名受影響居民免費提供所需醫療服務，79名因火災入住公立醫院的傷者已全部康復出院。精神健康支援措施亦會繼續，包括18111精神健康支援熱線及醫管局24小時精神健康專線。"
+   "en": "Six male patients at TWGHs Wong Tai Sin Hospital have been found to be carrying Candida auris. A 62-year-old man in an infirmary ward was confirmed as a carrier during admission screening on November 18, and contact tracing found five more men aged 59 to 86 in the same ward also carrying the fungus. All six have no signs of infection, are being treated in isolation and are in stable condition. The ward has stepped up infection control measures, including enhanced patient and environmental screening, stringent contact precautions and hand hygiene, and thorough cleaning and disinfection. The cases have been reported to the Hospital Authority Head Office and the Centre for Health Protection for follow-up.",
+   "zh_hans": "东华三院黄大仙医院6名男病人证实带有耳念珠菌。一名62岁男病人本月18日入院筛查时证实带菌，院方追踪调查后，再发现同一病房5名59至86岁男病人亦带菌，6人均无感染病征，正接受隔离治疗，情况稳定。病房已加强感染控制措施，包括加强病人及环境筛查、严格接触防范及手部卫生，以及彻底清洁消毒。个案已呈报医管局总办事处及卫生署卫生防护中心跟进。",
+   "zh_hant": "東華三院黃大仙醫院6名男病人證實帶有耳念珠菌。一名62歲男病人本月18日入院篩查時證實帶菌，院方追蹤調查後，再發現同一病房5名59至86歲男病人亦帶菌，6人均無感染病徵，正接受隔離治療，情況穩定。病房已加強感染控制措施，包括加強病人及環境篩查、嚴格接觸防範及手部衞生，以及徹底清潔消毒。個案已呈報醫管局總辦事處及衞生署衞生防護中心跟進。"
   },
   "tags": {
    "en": [
-    "Wang Fuk Court",
-    "free medical services",
-    "Health Bureau"
+    "Candida auris",
+    "Wong Tai Sin Hospital",
+    "infection control"
    ],
    "zh_hans": [
-    "宏福苑",
-    "免费医疗",
-    "卫生局"
+    "耳念珠菌",
+    "黄大仙医院",
+    "感染控制"
    ],
    "zh_hant": [
-    "宏福苑",
-    "免費醫療",
-    "衞生局"
+    "耳念珠菌",
+    "黃大仙醫院",
+    "感染控制"
    ]
   },
   "title": {
-   "en": "Free medical care for Wang Fuk Court residents extended to next April as fee waivers reach about 2,500 people",
-   "zh_hans": "宏福苑灾民免费医疗延至明年4月底 医管局全费豁免惠及约2500人",
-   "zh_hant": "宏福苑災民免費醫療延至明年4月底 醫管局全費豁免惠及約2500人"
+   "en": "Six male patients found carrying Candida auris at Wong Tai Sin Hospital, isolated in stable condition",
+   "zh_hans": "黄大仙医院爆耳念珠菌 6男病人中招须隔离",
+   "zh_hant": "黃大仙醫院爆耳念珠菌 6男病人中招須隔離"
   }
  },
  {
   "category": "hk",
-  "id": "20261123-lau-fau-shan-eia-public-inspection",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：流浮山發展環評報告即日起供公眾查閱至12月22日，擬建近4.9萬伙住宅單位。場景：陽光下的流浮山海邊，蠔田與漁村景色，遠處深圳灣大橋橫跨海面，藍天白雲，氣氛開闊明亮。風格：寫實開闊，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「流浮山發展環評報告供公眾查閱」，第二行黃字寫「擬建近4.9萬伙 設數字科技樞紐」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "id": "20261123-poultry-import-suspension-bird-flu",
+  "image_caption": "",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：英美加日爆禽流感，香港即時暫停進口禽肉禽蛋。場景：陽光下的現代食品檢驗中心，檢驗人員檢查禽肉樣本，冷鏈貨櫃與檢疫設施，藍白專業色調，氣氛嚴謹有序。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「英美加日爆禽流感」，第二行黃字寫「港即時暫停進口禽肉禽蛋」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_r2_key": "",
   "image_url": "",
-  "published_at": "2026-11-23T17:50:00+08:00",
+  "published_at": "2026-11-23T18:40:00+08:00",
   "source": {
    "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300342.htm"
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300553.htm"
   },
   "summary": {
-   "en": "The government announced today that the Environmental Impact Assessment report for the Lau Fau Shan, Tsim Bei Tsui and Pak Nai developments is available for public inspection under the Environmental Impact Assessment Ordinance from today until December 22. Lau Fau Shan is one of the nine New Development Areas in the Northern Metropolis, at its westernmost end, and the government proposes two thematic positionings for it: a Digital Technology Hub and leisure ecotourism, with about 30 hectares next to the future Lau Fau Shan Station earmarked for the hub to drive the digital economy through AI and blockchain. About 48,900 residential units are planned in the developments, including transit-oriented developments near the Lau Fau Shan and Ha Tsuen stations of the Hong Kong-Shenzhen Western Rail Link. The government has said the statutory town planning and other procedures for the Lau Fau Shan development will commence progressively this year.",
-   "zh_hans": "政府今日宣布，流浮山／尖鼻咀／白泥一带发展的环境影响评估报告，即日起按《环境影响评估条例》供公众查阅，至12月22日为止。流浮山发展是北部都会区九个新发展区之一，位于都会区最西端，政府建议以数字科技枢纽及休闲生态旅游为两大主题定位，其中约30公顷毗邻未来流浮山站的土地将发展数字科技枢纽，配合人工智能及区块链等技术推动数字经济。发展范围内计划兴建约48,900个住宅单位，包括流浮山站及厦村站附近以交通为导向的发展项目。政府早前已宣布，流浮山发展的法定城市规划及其他相关程序将于今年内陆续展开。",
-   "zh_hant": "政府今日宣布，流浮山／尖鼻咀／白泥一帶發展的環境影響評估報告，即日起按《環境影響評估條例》供公眾查閱，至12月22日為止。流浮山發展是北部都會區九個新發展區之一，位於都會區最西端，政府建議以數字科技樞紐及休閒生態旅遊為兩大主題定位，其中約30公頃毗鄰未來流浮山站的土地將發展數字科技樞紐，配合人工智能及區塊鏈等技術推動數字經濟。發展範圍內計劃興建約48,900個住宅單位，包括流浮山站及厦村站附近以交通為導向的發展項目。政府早前已宣布，流浮山發展的法定城市規劃及其他相關程序將於今年內陸續展開。"
+   "en": "The Centre for Food Safety announced today that it has instructed the trade to suspend with immediate effect the import of poultry meat and products, including poultry eggs, from areas in Canada, the United Kingdom, the United States and Japan, after notifications of highly pathogenic H5N1 avian influenza outbreaks in parts of Canada, the UK and the US, and a highly pathogenic H5 outbreak in Aichi Prefecture, Japan. In the first nine months of this year, Hong Kong imported about 33,270 tonnes of chilled and frozen poultry meat and about 92.33 million poultry eggs from the US, about 1,030 tonnes of frozen poultry meat and about 249.94 million poultry eggs from Japan, and about 680 tonnes of poultry meat and about 220,000 poultry eggs from the UK; no poultry meat or eggs were imported from Canada in the same period. The Centre has contacted the authorities of the four places and will closely monitor the situation.",
+   "zh_hans": "食安中心今日宣布，因应世界动物卫生组织通报加拿大、英国及美国部分地区爆发高致病性H5N1禽流感，以及日本爱知县爆发高致病性H5禽流感，即时指示业界暂停从有关地区进口禽肉及禽类产品，包括禽蛋。今年首九个月，本港从美国进口约33,270吨冷藏及冷冻禽肉及约9,233万只禽蛋，从日本进口约1,030吨冷冻禽肉及约2.5亿只禽蛋，从英国进口约680吨禽肉及22万只禽蛋；同期并无从加拿大进口禽肉或禽蛋。食安中心已联络四地当局，会密切监察疫情发展。",
+   "zh_hant": "食安中心今日宣布，因應世界動物衞生組織通報加拿大、英國及美國部分地區爆發高致病性H5N1禽流感，以及日本愛知縣爆發高致病性H5禽流感，即時指示業界暫停從有關地區進口禽肉及禽類產品，包括禽蛋。今年首九個月，本港從美國進口約33,270噸冷藏及冷凍禽肉及約9,233萬隻禽蛋，從日本進口約1,030噸冷凍禽肉及約2.5億隻禽蛋，從英國進口約680噸禽肉及22萬隻禽蛋；同期並無從加拿大進口禽肉或禽蛋。食安中心已聯絡四地當局，會密切監察疫情發展。"
   },
   "tags": {
    "en": [
-    "Lau Fau Shan",
-    "Northern Metropolis",
-    "Environmental Impact Assessment"
+    "avian influenza",
+    "poultry import suspension",
+    "Centre for Food Safety"
    ],
    "zh_hans": [
-    "流浮山",
-    "北部都会区",
-    "环评报告"
+    "禽流感",
+    "暂停进口",
+    "食安中心"
    ],
    "zh_hant": [
-    "流浮山",
-    "北部都會區",
-    "環評報告"
+    "禽流感",
+    "暫停進口",
+    "食安中心"
    ]
   },
   "title": {
-   "en": "Lau Fau Shan development EIA report open for public inspection as 48,900 homes and digital tech hub planned",
-   "zh_hans": "流浮山发展环评报告供公众查阅 拟建近4.9万伙 设数字科技枢纽",
-   "zh_hant": "流浮山發展環評報告供公眾查閱 擬建近4.9萬伙 設數字科技樞紐"
+   "en": "Hong Kong suspends poultry imports from parts of Canada, UK, US and Japan after bird flu outbreaks",
+   "zh_hans": "英美加日爆禽流感 港即时暂停进口禽肉禽蛋",
+   "zh_hant": "英美加日爆禽流感 港即時暫停進口禽肉禽蛋"
+  }
+ },
+ {
+  "category": "finance",
+  "id": "20261123-bea-fraudulent-website-hkma-alert",
+  "image_caption": "",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：金管局警告東亞銀行假網站，騙徒偽冒網銀登入版。場景：明亮的現代銀行分行大堂與手機網上銀行畫面，保安警示元素，藍白專業色調，畫面有盾牌象徵網絡安全，氣氛警示但不驚嚇。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「金管局警告東亞銀行假網站」，第二行黃字寫「騙徒偽冒網銀登入版提防受騙」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_r2_key": "",
+  "image_url": "",
+  "published_at": "2026-11-23T17:45:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300543.htm"
+  },
+  "summary": {
+   "en": "The Hong Kong Monetary Authority today alerted the public that the Bank of East Asia has reported a fraudulent website and a spoofed internet banking login screen. The HKMA reminded the public that banks will not send SMS messages or emails with embedded hyperlinks directing customers to log in to carry out transactions, and will not ask customers for sensitive information such as login passwords or one-time passwords by phone, email or SMS. Anyone who has provided personal information to the scammers or conducted transactions through them should contact the bank concerned and report the matter to the police on 2860 5012.",
+   "zh_hans": "金管局今日提醒市民，东亚银行出现伪冒网站及网上银行登入版面，呼吁公众提高警觉。金管局重申，银行不会透过附有连结的短讯或电邮要求客户登入网站办理交易，亦不会以电话、电邮或短讯索取登入密码或一次性密码等敏感资料。市民如曾向骗徒提供个人资料或进行交易，应联络有关银行，并致电2860 5012向警方举报。",
+   "zh_hant": "金管局今日提醒市民，東亞銀行出現偽冒網站及網上銀行登入版面，呼籲公眾提高警覺。金管局重申，銀行不會透過附有連結的短訊或電郵要求客戶登入網站辦理交易，亦不會以電話、電郵或短訊索取登入密碼或一次性密碼等敏感資料。市民如曾向騙徒提供個人資料或進行交易，應聯絡有關銀行，並致電2860 5012向警方舉報。"
+  },
+  "tags": {
+   "en": [
+    "HKMA",
+    "Bank of East Asia",
+    "fraudulent website"
+   ],
+   "zh_hans": [
+    "金管局",
+    "东亚银行",
+    "伪冒网站"
+   ],
+   "zh_hant": [
+    "金管局",
+    "東亞銀行",
+    "偽冒網站"
+   ]
+  },
+  "title": {
+   "en": "HKMA warns of fake Bank of East Asia website spoofing internet banking login",
+   "zh_hans": "金管局警告东亚银行假网站 骗徒伪冒网银登入版",
+   "zh_hant": "金管局警告東亞銀行假網站 騙徒偽冒網銀登入版"
   }
  },
  {
   "category": "hk",
-  "id": "20261123-legionnaires-disease-four-new-cases",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：退伍軍人病一周新增4宗，今年累計182宗已超去年全年167宗。場景：陽光下的香港醫院大樓與社區街景，市民戴口罩行過，藍天白雲，氣氛冷靜有序。風格：寫實冷靜，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「退伍軍人病一周新增4宗」，第二行黃字寫「今年累計182宗超去年全年」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "id": "20261123-mark-six-snowball-boost",
+  "image_caption": "",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：六合彩首試集氣加碼制，明晚金多寶頭獎料7300萬。場景：光猛熱鬧的投注站外，市民排隊購買六合彩，巨型獎金數字牌，喜慶金色紅色點綴，陽光燦爛，氣氛熱鬧。風格：輕鬆熱鬧，色彩鮮明光亮。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「六合彩首試集氣加碼制」，第二行黃字寫「明晚金多寶頭獎料7300萬」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_r2_key": "",
   "image_url": "",
-  "published_at": "2026-11-23T17:30:00+08:00",
+  "published_at": "2026-11-23T17:02:00+08:00",
   "source": {
-   "name": "政府新聞處",
-   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300547.htm"
+   "name": "無綫新聞",
+   "url": "https://news.tvb.com/tc/1207948-%E5%85%AD%E5%90%88%E5%BD%A9%E6%98%8E%E6%99%9A%E9%87%91%E5%A4%9A%E5%AF%B6%E9%A0%AD%E7%8D%8E%E6%96%99%E5%8A%A0%E7%A2%BC%E8%87%B37300%E8%90%AC%E6%9C%89%E5%B8%82%E6%B0%91%E6%8C%87%E6%96%B0%E5%88%B6%E8%A8%AD%E5%B0%81%E9%A0%82%E6%A9%9F%E5%88%B6%E4%BB%8D%E5%90%B8%E5%BC%95"
   },
   "summary": {
-   "en": "The Centre for Health Protection today reported the latest situation on Legionnaires' disease, with four community-acquired cases recorded from November 15 to 21, involving one man and three women aged between 66 and 89, all with underlying illnesses and living in the Eastern, Tai Po and Central and Western districts. The centre is conducting epidemiological investigations, and initial findings show the four cases are sporadic, with no epidemiological links between them or with previously confirmed cases in Hong Kong. As of November 21, 182 cases had been recorded this year, already exceeding the 167 cases in 2025 and 135 in 2024. The centre reminded the public to use and maintain man-made water systems properly, and urged susceptible groups to strictly observe precautions, including cleaning and disinfecting water tanks and shower heads regularly.",
-   "zh_hans": "卫生署卫生防护中心今日公布退伍军人病最新情况，11月15日至21日录得四宗社区感染个案，患者为一男三女，年龄介乎66至89岁，全部有长期病患，分别居于东区、大埔区及中西区。中心正进行流行病学调查，初步显示四宗个案属散发个案，彼此及与以往确诊个案均未发现流行病学关连。截至11月21日，今年累计录得182宗退伍军人病个案，已超越2025年全年的167宗及2024年的135宗。中心提醒市民妥善使用及保养人造供水系统，高危人士应严格遵守预防措施，包括定期清洗消毒水箱及花洒。",
-   "zh_hant": "衞生署衞生防護中心今日公布退伍軍人病最新情況，11月15日至21日錄得四宗社區感染個案，患者為一男三女，年齡介乎66至89歲，全部有長期病患，分別居於東區、大埔區及中西區。中心正進行流行病學調查，初步顯示四宗個案屬散發個案，彼此及與以往確診個案均未發現流行病學關連。截至11月21日，今年累計錄得182宗退伍軍人病個案，已超越2025年全年的167宗及2024年的135宗。中心提醒市民妥善使用及保養人造供水系統，高危人士應嚴格遵守預防措施，包括定期清洗消毒水箱及花灑。"
+   "en": "The Mark Six Lucky 2 snowball draw tomorrow night (November 24) will trial for the first time a \"crowd-boost\" mechanism under which the higher the total turnover, the bigger the snowball. As of 2pm today, cumulative turnover had exceeded $65 million, reaching the first tier, so the snowball has been raised from $50 million to $55 million and the jackpot for a $10 single-ticket sole winner is estimated at $73 million. If turnover reaches $70 million or above, the snowball would rise to $60 million and the jackpot could reach $80 million. The Jockey Club said it will decide whether to make the new mechanism permanent depending on public response.",
+   "zh_hans": "明晚（24日）搅珠的六合彩幸运二金多宝，马会首次试行“集气加码制”，投注额愈高、金多宝金额相应递增。截至今日下午2时累积投注额逾6,500万元，达到第一级门槛，金多宝由5,000万元加码至5,500万元，估计头奖一注独中可获7,300万元。若投注额达7,000万元或以上，金多宝将增至6,000万元，头奖最高可达8,000万元。马会表示，会否将新玩法恒常化，将视乎市民反应再决定。",
+   "zh_hant": "明晚（24日）攪珠的六合彩幸運二金多寶，馬會首次試行「集氣加碼制」，投注額愈高、金多寶金額相應遞增。截至今日下午2時累積投注額逾6,500萬元，達到第一級門檻，金多寶由5,000萬元加碼至5,500萬元，估計頭獎一注獨中可獲7,300萬元。若投注額達7,000萬元或以上，金多寶將增至6,000萬元，頭獎最高可達8,000萬元。馬會表示，會否將新玩法恆常化，將視乎市民反應再決定。"
   },
   "tags": {
    "en": [
-    "Legionnaires' disease",
-    "Centre for Health Protection",
-    "public health"
+    "Mark Six",
+    "snowball draw",
+    "crowd-boost mechanism"
    ],
    "zh_hans": [
-    "退伍军人病",
-    "卫生防护中心",
-    "公共卫生"
+    "六合彩",
+    "金多宝",
+    "集气加码制"
    ],
    "zh_hant": [
-    "退伍軍人病",
-    "衞生防護中心",
-    "公共衞生"
+    "六合彩",
+    "金多寶",
+    "集氣加碼制"
    ]
   },
   "title": {
-   "en": "Four new Legionnaires' disease cases in a week as year's total hits 182, above all of last year",
-   "zh_hans": "退伍军人病一周新增4宗 今年累计182宗超去年全年",
-   "zh_hant": "退伍軍人病一周新增4宗 今年累計182宗超去年全年"
+   "en": "Mark Six trials 'crowd-boost' snowball as Tuesday jackpot estimated at $73m",
+   "zh_hans": "六合彩首试集气加码制 明晚金多宝头奖料7300万",
+   "zh_hant": "六合彩首試集氣加碼制 明晚金多寶頭獎料7300萬"
   }
  },
  {
-  "category": "hk",
-  "id": "20261123-construction-innovation-expo-smart-construction",
-  "image_prompt": "電視新聞圖卡風格，16:9。事實：創博會雲集逾190參展商促智能建造，人臉識別進工地、無人機驗棚網。場景：陽光下的香港會議展覽中心展覽大廳，智能建造展覽，機械人與無人機展示，參觀者眾多，藍天白雲透過玻璃幕牆灑入，氣氛朝氣專業。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「創博會雲集逾190參展商促智能建造」，第二行黃字寫「人臉識別進工地、無人機驗棚網」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "category": "finance",
+  "id": "20261123-hsbc-retirement-savings-target",
+  "image_caption": "",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：港人退休目標928萬升7%，平均只儲夠四成半。場景：明亮現代的銀行理財中心，一對中年夫婦與理財顧問傾談退休計劃，窗外維港日景，專業從容，氣氛溫暖光亮。風格：寫實專業，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「港人退休目標928萬升7%」，第二行黃字寫「平均只儲夠四成半缺口難填」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角，只出現一次；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_r2_key": "",
   "image_url": "",
-  "published_at": "2026-11-23T15:15:00+08:00",
+  "published_at": "2026-11-23T10:21:00+08:00",
   "source": {
-   "name": "政府新聞處",
-   "url": "https://www.news.gov.hk/chi/2026/11/20261123/20261123_151551_835.html"
+   "name": "明報",
+   "url": "https://finance.mingpao.com/fin/instantf/20261123/1795401729955/%e5%8c%af%e8%b1%90%e8%aa%bf%e6%9f%a5-%e6%b8%af%e4%ba%ba%e9%80%80%e4%bc%91%e5%84%b2%e8%93%84%e7%9b%ae%e6%a8%99%e6%8c%89%e5%b9%b4%e5%8d%877-%e8%87%b3928%e8%90%ac%e5%85%83"
   },
   "summary": {
-   "en": "The Construction Innovation Expo 2026 is being held at the Convention and Exhibition Centre as a key event of the International Infrastructure Excellence Week, focusing on AI and smart construction, construction productivity and robotics, construction safety and sustainable construction, with more than 190 local, mainland and overseas exhibitors and an expected attendance of over 26,000. The Construction Industry Council is upgrading the construction workers registration system in phases, piloting facial recognition in place of card tapping at sites to simplify identity checks and improve site access management and safety monitoring. Exhibits also include drones that can inspect works safety and progress and even monitor the fire retardancy of scaffolding nets, as well as a walk-in spatial communications terminal from a mainland technology company that helps owners and contractors understand design and construction progress. Council executive director Thomas Ho said the expo, held once every three years, showcases the industry's newest, strongest and most exciting products and technologies.",
-   "zh_hans": "建造创新博览会2026在会议展览中心举行，是国际基建卓越周的重要活动，聚焦人工智能及智能建造、建造生产力及机械人、建造安全、可持续建造四大关键领域，吸引逾190家本地、内地和海外参展商，预计逾26,000人次参与。建造业议会正分阶段提升建造业工人注册系统，推出先导计划，逐步在工地以人脸识别代替传统拍卡，简化身份核实和出入流程，同时加强工地安全监测。展览亦有无人机可探测工程安全及施工进度，甚至监察棚网阻燃性，以及内地科技公司设立的步入式空间通信终端，方便业主和承建商了解设计和施工进度。建造业议会执行总监郑定寕表示，创博会每三年举办一场，将行业最新、最强、最精彩的产品和技术向业界及公众展示。",
-   "zh_hant": "建造創新博覽會2026在會議展覽中心舉行，是國際基建卓越周的重要活動，聚焦人工智能及智能建造、建造生產力及機械人、建造安全、可持續建造四大關鍵領域，吸引逾190家本地、內地和海外參展商，預計逾26,000人次參與。建造業議會正分階段提升建造業工人註冊系統，推出先導計劃，逐步在工地以人臉識別代替傳統拍卡，簡化身分核實和出入流程，同時加強工地安全監測。展覽亦有無人機可探測工程安全及施工進度，甚至監察棚網阻燃性，以及內地科技公司設立的步入式空間通信終端，方便業主和承建商了解設計和施工進度。建造業議會執行總監鄭定寕表示，創博會每三年舉辦一場，將行業最新、最強、最精彩的產品和技術向業界及公眾展示。"
+   "en": "HSBC has published its global Modern Wealth Report, based on an Ipsos survey of 9,993 affluent and high-net-worth investors across 10 markets. Hong Kong investors' retirement savings target rose 7 per cent from 2025 to US$1.19 million (about HK$9.28 million), but on average they have achieved only 45 per cent of the target, and the gap is becoming harder to close as financial needs grow at different life stages. The survey also found 95 per cent of Hong Kong investors are rethinking how they pass on wealth, 77 per cent expect to retire gradually or flexibly rather than stop working outright, and their top financial considerations are future healthcare needs (37 per cent), lifestyle (33 per cent) and experiences (33 per cent).",
+   "zh_hans": "汇丰发表环球《现代财富报告》，根据益普索调查，访问10个市场共9,993名富裕及高净值投资者。调查显示，香港投资者的退休储蓄目标较2025年上升7%，达119万美元（约928万港元），但平均只达成目标的45%，随着人生步入不同阶段、财务需求日增，填补缺口愈见困难。调查亦发现，95%香港投资者正重新思考财富传承方式；77%预期会逐步或以弹性方式退休，而非直接停止工作；未来医疗需求（37%）、生活方式（33%）及体验（33%）是主要理财考虑。",
+   "zh_hant": "滙豐發表環球《現代財富報告》，根據益普索調查，訪問10個市場共9,993名富裕及高淨值投資者。調查顯示，香港投資者的退休儲蓄目標較2025年上升7%，達119萬美元（約928萬港元），但平均只達成目標的45%，隨着人生步入不同階段、財務需求日增，填補缺口愈見困難。調查亦發現，95%香港投資者正重新思考財富傳承方式；77%預期會逐步或以彈性方式退休，而非直接停止工作；未來醫療需求（37%）、生活方式（33%）及體驗（33%）是主要理財考慮。"
   },
   "tags": {
    "en": [
-    "Construction Innovation Expo",
-    "smart construction",
-    "Construction Industry Council"
+    "HSBC",
+    "retirement savings",
+    "Modern Wealth Report"
    ],
    "zh_hans": [
-    "创博会",
-    "智能建造",
-    "建造业议会"
+    "汇丰",
+    "退休储蓄",
+    "财富报告"
    ],
    "zh_hant": [
-    "創博會",
-    "智能建造",
-    "建造業議會"
+    "滙豐",
+    "退休儲蓄",
+    "財富報告"
    ]
   },
   "title": {
-   "en": "Construction Innovation Expo draws over 190 exhibitors to push smart building as facial recognition and drones reach sites",
-   "zh_hans": "创博会云集逾190参展商促智能建造 人脸识别进工地、无人机验棚网",
-   "zh_hant": "創博會雲集逾190參展商促智能建造 人臉識別進工地、無人機驗棚網"
+   "en": "Hong Kong investors' retirement savings target rises 7% to $9.28m, but on average only 45% saved",
+   "zh_hans": "港人退休目标928万升7% 平均只储够四成半",
+   "zh_hant": "港人退休目標928萬升7% 平均只儲夠四成半"
   }
  }
 ]
