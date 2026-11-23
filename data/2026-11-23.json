@@ -1,6 +1,84 @@
 [
  {
   "category": "finance",
+  "id": "20261123-hkmc-aiib-letter-of-intent",
+  "image_caption": "香港按揭證券有限公司行政總裁（左）與亞洲基礎設施投資銀行首席投資官（右）簽署意向書，訂立合作框架。（政府新聞處）",
+  "image_r2_key": "design/202611/20261123-hkmc-aiib-letter-of-intent.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-hkmc-aiib-letter-of-intent.jpg",
+  "published_at": "2026-11-23T12:40:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300275.htm"
+  },
+  "summary": {
+   "en": "The Hong Kong Mortgage Corporation Limited and the Asian Infrastructure Investment Bank signed a letter of intent in Hong Kong on November 20, setting out a framework for co-operation between the two institutions. Through the agreement, the two sides intend to strengthen co-operation across a range of areas, including infrastructure financing. The Hong Kong Monetary Authority issued the announcement on behalf of the HKMC.",
+   "zh_hans": "香港按揭证券有限公司与亚洲基础设施投资银行11月20日在港签署意向书，订立双方合作框架，计划在多个范畴加强合作，包括基建融资。金管局代表按揭证券公司发稿公布消息，双方期望透过合作推动基础设施融资发展。",
+   "zh_hant": "香港按揭證券有限公司與亞洲基礎設施投資銀行11月20日在港簽署意向書，訂立雙方合作框架，計劃在多個範疇加強合作，包括基建融資。金管局代表按揭證券公司發稿公布消息，雙方期望透過合作推動基礎設施融資發展。"
+  },
+  "tags": {
+   "en": [
+    "HKMC",
+    "AIIB",
+    "Letter of Intent"
+   ],
+   "zh_hans": [
+    "按揭证券公司",
+    "亚投行",
+    "意向书"
+   ],
+   "zh_hant": [
+    "按揭證券公司",
+    "亞投行",
+    "意向書"
+   ]
+  },
+  "title": {
+   "en": "HKMC and AIIB sign letter of intent to formalise co-operation framework",
+   "zh_hans": "按揭证券公司与亚投行签意向书 11月20日签署 订立合作框架拓基建融资",
+   "zh_hant": "按揭證券公司與亞投行簽意向書 11月20日簽署 訂立合作框架拓基建融資"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261123-scs-mainland-civil-service-exchange",
+  "image_caption": "公務員事務局局長楊何蓓茵（前排中）與公務員學院院長郭蔭庶（前排右五），與參加交流計劃的內地公務員合照。（政府新聞處）",
+  "image_r2_key": "design/202611/20261123-scs-mainland-civil-service-exchange.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-scs-mainland-civil-service-exchange.jpg",
+  "published_at": "2026-11-23T12:35:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300255.htm"
+  },
+  "summary": {
+   "en": "A new batch of 30 mainland civil servants began exchanges in Hong Kong today, working in relevant government departments for between four weeks and three months. The SAR Government continues to run the Civil Service Exchange Programme jointly with mainland cities in the Greater Bay Area as well as Beijing, Shanghai, Chongqing, Wuhan and Hangzhou. Secretary for the Civil Service Ingrid Yeung attended the orientation ceremony and met the participants, with the aim of deepening co-operation.",
+   "zh_hans": "新一批30名内地公务员今日起在港展开交流，于政府相关部门交流四星期至三个月。特区政府继续与大湾区内地城市及北京、上海、重庆、武汉、杭州合办公务员交流计划，公务员事务局局长杨何蓓茵今日出席迎新活动并与参加者会面，期望深化两地合作。",
+   "zh_hant": "新一批30名內地公務員今日起在港展開交流，於政府相關部門交流四星期至三個月。特區政府繼續與大灣區內地城市及北京、上海、重慶、武漢、杭州合辦公務員交流計劃，公務員事務局局長楊何蓓茵今日出席迎新活動並與參加者會面，期望深化兩地合作。"
+  },
+  "tags": {
+   "en": [
+    "Civil Service Exchange",
+    "Mainland Civil Servants",
+    "Civil Service Bureau"
+   ],
+   "zh_hans": [
+    "公务员交流计划",
+    "内地公务员",
+    "公务员事务局"
+   ],
+   "zh_hant": [
+    "公務員交流計劃",
+    "內地公務員",
+    "公務員事務局"
+   ]
+  },
+  "title": {
+   "en": "30 mainland civil servants begin Hong Kong exchanges lasting up to three months",
+   "zh_hans": "30名内地公务员今起来港交流四星期至三个月 涵盖大湾区京沪渝武杭",
+   "zh_hant": "30名內地公務員今起來港交流四星期至三個月 涵蓋大灣區京滬渝武杭"
+  }
+ },
+ {
+  "category": "finance",
   "id": "20261123-first-offshore-rmb-bond-etf-lists-hk",
   "image_prompt": "香港交易所交易大堂上市儀式現場，嘉賓剪影與鮮花布置，背景是大型電子屏幕，燈光明亮，氣氛隆重，畫面光猛明亮。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「全球首隻離岸人民幣債券ETF今日掛牌」，第二行黃色大字寫「設三櫃台 許正宇：高效參與人民幣資產」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
   "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-first-offshore-rmb-bond-etf-lists-hk-v2.jpg",
@@ -546,6 +624,45 @@
   "image_r2_key": "design/202611/20261123-us-bahrain-embassy-security-alert-v2.jpg"
  },
  {
+  "category": "entertainment",
+  "id": "20261123-jace-chan-west-kowloon-jazz-festival",
+  "image_caption": "陳凱詠演繹多首經爵士改編的經典金曲。（西九文化區管理局供圖）",
+  "image_r2_key": "design/202611/20261123-jace-chan-west-kowloon-jazz-festival.jpg",
+  "image_url": "https://www.hkcnexpress.com/r2/design/202611/20261123-jace-chan-west-kowloon-jazz-festival.jpg",
+  "published_at": "2026-11-23T04:15:10+08:00",
+  "source": {
+   "name": "香港文匯報",
+   "url": "https://www.wenweipo.com/a/202611/23/AP6b034e1ce4b028ec01953146.html"
+  },
+  "summary": {
+   "en": "Singer-songwriter Jace Chan, joined by guitarist and composer Terry Chui, made her debut at the Cathay West Kowloon Jazz Festival, with the performances wrapping up the day before yesterday. Tickets sold out quickly after going on sale, prompting organisers to add an extra show, and both performances played to full houses. Chan performed several classic hits rearranged in jazz style, including a surprise mash-up of her own song Long D with Faye Wong's hit.",
+   "zh_hans": "唱作歌手陈凯咏联同结他手张骏豪，首度参与「国泰西九爵士音乐节」，演出前日圆满结束。门票开售即迅速售罄，大会早前特别加开一场，两场均全场爆满。陈凯咏在台上演绎多首经爵士改编的经典金曲，包括《挡不住的爱情》、《小玩意》及《难得有情人》，并将个人作品《Long D》与王菲的《多得他》惊喜联乘。",
+   "zh_hant": "唱作歌手陳凱詠聯同結他手張駿豪，首度參與「國泰西九爵士音樂節」，演出前日圓滿結束。門票開售即迅速售罄，大會早前特別加開一場，兩場均全場爆滿。陳凱詠在台上演繹多首經爵士改編的經典金曲，包括《擋不住的愛情》、《小玩意》及《難得有情人》，並將個人作品《Long D》與王菲的《多得他》驚喜聯乘。"
+  },
+  "tags": {
+   "en": [
+    "Jace Chan",
+    "West Kowloon Jazz Festival",
+    "Terry Chui"
+   ],
+   "zh_hans": [
+    "陈凯咏",
+    "西九爵士音乐节",
+    "张骏豪"
+   ],
+   "zh_hant": [
+    "陳凱詠",
+    "西九爵士音樂節",
+    "張駿豪"
+   ]
+  },
+  "title": {
+   "en": "Jace Chan makes West Kowloon Jazz Festival debut as two sold-out shows thrill fans",
+   "zh_hans": "陈凯咏首登西九爵士音乐节 两场爆满加开一场 爵士改编经典金曲",
+   "zh_hant": "陳凱詠首登西九爵士音樂節 兩場爆滿加開一場 爵士改編經典金曲"
+  }
+ },
+ {
   "category": "hk",
   "id": "20261123-pok-fu-lam-woman-dies-after-zebra-crossing-crash",
   "image_prompt": "香港街道斑馬線場景，清晨街景，行人過路處與樓宇，氣氛沉重莊重，人物用背影或剪影，不要畫出可辨認的具體人臉，不要畫血腥或受傷畫面。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「薄扶林七旬婦斑馬線被撞」，第二行黃色大字寫「留醫6日後不治」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
@@ -819,6 +936,196 @@
   "image_r2_key": "design/202611/20261123-tai-po-dog-hanging-man-arrested-v2.jpg"
  },
  {
+  "category": "hk",
+  "id": "20261123-hongkong-post-fraud-website-warning",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：香港郵政警告假網站行騙，冒認短訊電郵索取個人資料，已報警跟進。場景：陽光下的香港郵政局外景，市民手持手機查看訊息，背景是郵政局大樓與街道，氣氛警惕而清晰。風格：寫實，色彩光亮通透，帶出防騙提醒的嚴肅感。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「香港郵政警告假網站行騙」，第二行黃字寫「冒認短訊電郵索資料 已報警跟進」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-23T12:40:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300349.htm"
+  },
+  "summary": {
+   "en": "Hongkong Post today warned the public about a fraudulent website impersonating the postal service, along with fake SMS messages and emails purporting to come from it. The fake messages contain a hyperlink leading to a website that asks recipients to provide personal information or pay postage fees. Hongkong Post clarified it has no connection with the fake site, has reported the case to the Police, and urged the public to stay alert.",
+   "zh_hans": "香港邮政今日提醒市民，提防一个冒认香港邮政的假网站及假冒短讯或电邮。假讯息附有超连结，连往假网站要求收件人提供个人资料或缴付邮费。香港邮政澄清与该假网站无关，并已报警跟进，呼吁市民提高警觉。",
+   "zh_hant": "香港郵政今日提醒市民，提防一個冒認香港郵政的假網站及假冒短訊或電郵。假訊息附有超連結，連往假網站要求收件人提供個人資料或繳付郵費。香港郵政澄清與該假網站無關，並已報警跟進，呼籲市民提高警覺。"
+  },
+  "tags": {
+   "en": [
+    "Hongkong Post",
+    "Fake Website",
+    "Scam Alert"
+   ],
+   "zh_hans": [
+    "香港邮政",
+    "假网站",
+    "防骗"
+   ],
+   "zh_hant": [
+    "香港郵政",
+    "假網站",
+    "防騙"
+   ]
+  },
+  "title": {
+   "en": "Hongkong Post warns of fake website harvesting personal data and reports case to police",
+   "zh_hans": "香港邮政警告假网站行骗 冒认短讯电邮索个人资料 已报警跟进",
+   "zh_hant": "香港郵政警告假網站行騙 冒認短訊電郵索個人資料 已報警跟進"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261123-epd-kam-tin-pig-farm-enforcement",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：環保署再打擊錦田豬場非法排污，突擊行動執法，嚴防錦田河污染。場景：陽光下的新界錦田鄉郊河流，河水清澈，兩岸綠草與農田，環保署人員穿著制服在河邊巡查取樣，背景是藍天與遠山。風格：寫實，色彩光亮通透，帶出保護環境的正面氣氛。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「環保署再打擊錦田豬場非法排污」，第二行黃字寫「突擊行動執法 嚴防錦田河污染」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-23T12:00:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300225.htm"
+  },
+  "summary": {
+   "en": "The Environmental Protection Department said today it is once again taking enforcement action over a suspected case of illegal discharge of livestock waste from a pig farm in Kam Tin, Yuen Long. The department said it attaches great importance to illegal discharges in the Kam Tin River area and carried out the action during a surprise operation, stressing it will keep cracking down on illegal discharges to protect river water quality.",
+   "zh_hans": "环境保护署今日表示，再次就元朗锦田猪场涉嫌非法排放畜禽废物采取执法行动。环保署高度重视锦田河一带非法排放畜禽废物的情况，在突击行动中采取执法，强调会继续打击非法排污，保障河道水质。",
+   "zh_hant": "環境保護署今日表示，再次就元朗錦田豬場涉嫌非法排放畜禽廢物採取執法行動。環保署高度重視錦田河一帶非法排放畜禽廢物的情況，在突擊行動中採取執法，強調會繼續打擊非法排污，保障河道水質。"
+  },
+  "tags": {
+   "en": [
+    "EPD",
+    "Kam Tin",
+    "Illegal Discharge"
+   ],
+   "zh_hans": [
+    "环保署",
+    "锦田",
+    "非法排污"
+   ],
+   "zh_hant": [
+    "環保署",
+    "錦田",
+    "非法排污"
+   ]
+  },
+  "title": {
+   "en": "EPD acts again against suspected illegal pig farm discharge in Kam Tin to protect river",
+   "zh_hans": "环保署再打击锦田猪场非法排污 突击行动执法 严防锦田河污染",
+   "zh_hant": "環保署再打擊錦田豬場非法排污 突擊行動執法 嚴防錦田河污染"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261123-ha-chairman-chan-kin-por-dec-1",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：醫管局新主席陳健波12月1日上任，任期兩年，范鴻齡卸任獲致謝。場景：陽光明媚的公立醫院大樓外景，醫護人員與市民在明亮的大堂進出，背景是現代化醫院建築與藍天，氣氛專業而安心。風格：寫實莊重，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「醫管局新主席陳健波12月1日上任」，第二行黃字寫「任期兩年 范鴻齡卸任獲致謝」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-23T11:13:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300233.htm"
+  },
+  "summary": {
+   "en": "The Government announced that the Chief Executive has appointed Chan Kin-por as Chairman of the Hospital Authority, alongside one new member and six reappointed members, for two-year terms from December 1, 2026. Chan is currently an Executive Council member, an independent non-executive director of Hong Kong Exchanges and Clearing, and chairman of the ICAC Advisory Committee. The Authority welcomed the appointment and paid tribute to outgoing chairman Henry Fan.",
+   "zh_hans": "政府宣布，行政长官委任陈健波为医院管理局主席，同时委任一名新成员及续任六名现任成员，任期两年，由12月1日起生效。陈健波现为行政会议成员、港交所独立非执行董事及廉政公署咨询委员会主席，医管局欢迎任命，并向即将卸任的主席范鸿龄致谢。",
+   "zh_hant": "政府宣布，行政長官委任陳健波為醫院管理局主席，同時委任一名新成員及續任六名現任成員，任期兩年，由12月1日起生效。陳健波現為行政會議成員、港交所獨立非執行董事及廉政公署諮詢委員會主席，醫管局歡迎任命，並向即將卸任的主席范鴻齡致謝。"
+  },
+  "tags": {
+   "en": [
+    "Hospital Authority",
+    "Chan Kin-por",
+    "Henry Fan"
+   ],
+   "zh_hans": [
+    "医管局",
+    "陈健波",
+    "范鸿龄"
+   ],
+   "zh_hant": [
+    "醫管局",
+    "陳健波",
+    "范鴻齡"
+   ]
+  },
+  "title": {
+   "en": "Chan Kin-por to chair Hospital Authority from December 1 for two years as Fan thanks outgoing chief",
+   "zh_hans": "医管局新主席陈健波12月1日上任 任期两年 范鸿龄卸任获致谢",
+   "zh_hant": "醫管局新主席陳健波12月1日上任 任期兩年 范鴻齡卸任獲致謝"
+  }
+ },
+ {
+  "category": "hk",
+  "id": "20261123-rural-election-nominations-open-tomorrow",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：鄉郊代表選舉明起接受提名，明年1月舉行，涵蓋原居民代表、居民代表和街坊代表三類。場景：陽光明媚的新界鄉村村公所外，村民排隊遞交提名表格，背景是綠樹環繞的鄉村建築和藍天白雲，氣氛平和有序。風格：寫實莊重，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「鄉郊代表選舉明起接受提名」，第二行黃字寫「明年1月投票 三類代表同場競逐」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-23T09:30:00+08:00",
+  "source": {
+   "name": "政府新聞處",
+   "url": "https://www.news.gov.hk/chi/2026/11/20261123/20261123_105832_768.html"
+  },
+  "summary": {
+   "en": "Nominations for the 2027 Rural Ordinary Election open tomorrow and close on December 7, ahead of polling in January next year. Rural representatives fall into three categories — indigenous inhabitants, residents and market-town representatives — and candidates must be Hong Kong permanent residents aged 21 or above, nominated by at least five registered electors of the village or market town. Nomination forms are available at the Home Affairs Department and district offices, and candidates must submit them in person to the returning officer.",
+   "zh_hans": "2027年乡郊一般选举明年1月举行，候选人提名期明日开始，下月7日结束。乡郊代表分原居民代表、居民代表和街坊代表三类，候选人须为21岁或以上香港永久性居民，并获最少五名该村或墟镇已登记选民提名。提名表格于民政事务总署和各区民政咨询中心派发，亦可于选举网页下载，候选人须亲身向选举主任递交。",
+   "zh_hant": "2027年鄉郊一般選舉明年1月舉行，候選人提名期明日開始，下月7日結束。鄉郊代表分原居民代表、居民代表和街坊代表三類，候選人須為21歲或以上香港永久性居民，並獲最少五名該村或墟鎮已登記選民提名。提名表格於民政事務總署和各區民政諮詢中心派發，亦可於選舉網頁下載，候選人須親身向選舉主任遞交。"
+  },
+  "tags": {
+   "en": [
+    "Rural Election",
+    "2027 Rural Ordinary Election",
+    "Nomination"
+   ],
+   "zh_hans": [
+    "乡郊代表选举",
+    "2027乡郊一般选举",
+    "提名期"
+   ],
+   "zh_hant": [
+    "鄉郊代表選舉",
+    "2027鄉郊一般選舉",
+    "提名期"
+   ]
+  },
+  "title": {
+   "en": "Rural election nominations open tomorrow as January 2027 polls cover three representative categories",
+   "zh_hans": "乡郊代表选举明起接受提名 明年1月投票 三类代表同场竞逐",
+   "zh_hant": "鄉郊代表選舉明起接受提名 明年1月投票 三類代表同場競逐"
+  }
+ },
+ {
+  "category": "tech",
+  "id": "20261123-bepicolombo-mercury-orbit-glitch",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：水星探測器BepiColombo成功入軌，八年長征終抵水星，推進器一度故障。場景：浩瀚太空中的水星，佈滿隕石坑的灰色表面在陽光下清晰可見，探測器在軌道上飛行，背景是深邃星空與太陽光芒，氣氛壯麗而充滿探索精神。風格：寫實太空攝影感，色彩鮮明光亮。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「水星探測器BepiColombo成功入軌」，第二行黃字寫「八年長征終抵水星 推進器一度故障」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-23T09:00:00+08:00",
+  "source": {
+   "name": "phys.org",
+   "url": "https://phys.org/news/2026-11-mercury-visitor-years-pair-spacecraft.html"
+  },
+  "summary": {
+   "en": "The European-Japanese BepiColombo spacecraft slipped into orbit around Mercury on Saturday, ending an eight-year, 10-billion-kilometre journey and becoming only the second mission ever to orbit the Solar System's innermost planet. The European Space Agency said a thruster burn during the manoeuvre was shorter than planned following a software issue, but the spacecraft is safe. Its two orbiters will separate on December 9-10, with science operations due to begin in April 2027.",
+   "zh_hans": "欧洲与日本合作的水星探测器BepiColombo周六成功进入水星轨道，结束八年、逾100亿公里的漫长旅程，成为历来第二个环绕太阳系最内侧行星的任务。欧洲太空总署表示，入轨过程中推进器燃烧时间较预期短，出现软件问题，但探测器安全无恙，两个轨道器将于12月9至10日分离，明年4月开始科学任务。",
+   "zh_hant": "歐洲與日本合作的水星探測器BepiColombo周六成功進入水星軌道，結束八年、逾100億公里的漫長旅程，成為歷來第二個環繞太陽系最內側行星的任務。歐洲太空總署表示，入軌過程中推進器燃燒時間較預期短，出現軟件問題，但探測器安全無恙，兩個軌道器將於12月9至10日分離，明年4月開始科學任務。"
+  },
+  "tags": {
+   "en": [
+    "BepiColombo",
+    "Mercury",
+    "ESA"
+   ],
+   "zh_hans": [
+    "BepiColombo",
+    "水星",
+    "欧洲太空总署"
+   ],
+   "zh_hant": [
+    "BepiColombo",
+    "水星",
+    "歐洲太空總署"
+   ]
+  },
+  "title": {
+   "en": "BepiColombo reaches Mercury orbit after eight-year odyssey despite thruster glitch",
+   "zh_hans": "水星探测器BepiColombo成功入轨 八年长征终抵水星 推进器一度故障",
+   "zh_hant": "水星探測器BepiColombo成功入軌 八年長征終抵水星 推進器一度故障"
+  }
+ },
+ {
   "category": "finance",
   "id": "20261123-china-three-market-stabilisation-measures-margin-80-percent",
   "image_prompt": "上海證券交易所交易大堂，電子顯示屏與交易員剪影，燈光明亮，氣氛專業穩健，畫面光猛明亮。電視新聞圖卡風格，16:9，畫面光猛明亮。標題分兩行大字直接壓在畫面上：第一行白色大字寫「內地連出三招穩市 融資保證金降至八成」，第二行黃色大字寫「11月30日起實施 料釋放4000億資金」，兩行互相呼應，字體清晰完整，絕對不要分開、重複或被物件遮住。右下角貼住角落有一行細字寫「AI設計圖片」，只出現一次，不要在其他位置再寫這六個字。圖片上面除了標題和右下角標籤之外，不要寫任何其他文字、數字或說明。",
@@ -854,6 +1161,158 @@
    "en": "China rolls out three market-stabilisation measures as margin requirement cut to 80%, seen freeing 400 billion yuan",
    "zh_hans": "内地连出三招稳市 融资保证金降至八成 11月30日起实施 料释放4000亿资金",
    "zh_hant": "內地連出三招穩市 融資保證金降至八成 11月30日起實施 料釋放4000億資金"
+  }
+ },
+ {
+  "category": "world",
+  "id": "20261123-korea-education-minister-resigns-ai-cheating",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：韓國教育部長為高考AI作弊風波辭職，臨考改例惹混亂，111人涉違規。場景：陽光下的韓國大學入學試考場外，考生排隊接受安檢入場，監考人員檢查隨身物品，背景是現代化校園建築與藍天，氣氛緊張有序。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「韓國教育部長為高考AI作弊風波辭職」，第二行黃字寫「臨考改例惹混亂 111人涉違規」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-23T08:03:00+08:00",
+  "source": {
+   "name": "Dawn",
+   "url": "https://www.dawn.com/news/2046449"
+  },
+  "summary": {
+   "en": "South Korea's Education Minister Choi Kyo-jin resigned on Sunday, taking responsibility for confusion caused by last-minute rule changes aimed at preventing AI-assisted cheating ahead of the national college entrance exam, and President Lee Jae Myung accepted the resignation. The controversy began when the top scorer in a national tax accountant exam confessed to cheating with a miniature camera, a smartphone and generative AI, prompting officials to rush out measures including covering clothing buttons and sending emergency alerts. A total of 111 suspected cheating cases involving electronic devices were detected during the exam.",
+   "zh_hans": "韩国教育部长崔教振周日辞职，为大学入学试「修能」前夕临时更改防AI作弊规则引起的混乱负责，总统李在明已接纳辞呈。风波源于一名税务师考试状元承认以微型相机及智能手机配合生成式AI作弊，教育部门临考前推出多项措施，包括遮盖衣物钮扣及发出紧急警报，考试期间共发现111宗涉电子设备违规个案。",
+   "zh_hant": "韓國教育部長崔教振周日辭職，為大學入學試「修能」前夕臨時更改防AI作弊規則引起的混亂負責，總統李在明已接納辭呈。風波源於一名稅務師考試狀元承認以微型相機及智能手機配合生成式AI作弊，教育部門臨考前推出多項措施，包括遮蓋衣物鈕扣及發出緊急警報，考試期間共發現111宗涉電子設備違規個案。"
+  },
+  "tags": {
+   "en": [
+    "South Korea",
+    "Suneung",
+    "AI Cheating"
+   ],
+   "zh_hans": [
+    "韩国",
+    "修能",
+    "AI作弊"
+   ],
+   "zh_hant": [
+    "韓國",
+    "修能",
+    "AI作弊"
+   ]
+  },
+  "title": {
+   "en": "South Korea education minister quits over exam AI-cheating chaos as 111 caught",
+   "zh_hans": "韩国教育部长为高考AI作弊风波辞职 临考改例惹混乱 111人涉违规",
+   "zh_hant": "韓國教育部長為高考AI作弊風波辭職 臨考改例惹混亂 111人涉違規"
+  }
+ },
+ {
+  "category": "china",
+  "id": "20261123-adora-flora-city-maiden-voyage",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：中國第二艘國產大郵輪「愛達·花城號」首航，逾3800乘客暢遊港越六日五夜。場景：陽光明媚的廣州港口，一艘白色大型郵輪緩緩駛離碼頭，船身潔白宏偉，海面波光粼粼，背景是藍天白雲與港口設施，氣氛喜慶振奮。風格：寫實，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「中國第二艘國產大郵輪「愛達·花城號」首航」，第二行黃字寫「逾3800乘客暢遊港越六日五夜」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-23T08:00:00+08:00",
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/news/article/349306/Morning-Recap-November-23-2026"
+  },
+  "summary": {
+   "en": "China's second domestically built large cruise ship, Adora Flora City, embarked on its maiden commercial voyage from Guangzhou on Sunday, carrying more than 3,800 passengers on a six-day, five-night itinerary to Hong Kong and Hue, Vietnam. It follows Adora Magic City as the second large cruise ship built in China to enter service.",
+   "zh_hans": "中国第二艘国产大型邮轮「爱达·花城号」周日由广州出发，展开首个商业航次，载逾3,800名乘客，展开六日五夜行程，前往香港及越南顺化。这是继「爱达·魔都号」后，中国第二艘自主建造的大型邮轮投入营运。",
+   "zh_hant": "中國第二艘國產大型郵輪「愛達·花城號」周日由廣州出發，展開首個商業航次，載逾3,800名乘客，展開六日五夜行程，前往香港及越南順化。這是繼「愛達·魔都號」後，中國第二艘自主建造的大型郵輪投入營運。"
+  },
+  "tags": {
+   "en": [
+    "Adora Flora City",
+    "Cruise Ship",
+    "Guangzhou"
+   ],
+   "zh_hans": [
+    "爱达·花城号",
+    "国产邮轮",
+    "广州"
+   ],
+   "zh_hant": [
+    "愛達·花城號",
+    "國產郵輪",
+    "廣州"
+   ]
+  },
+  "title": {
+   "en": "China's second homegrown cruise ship Adora Flora City sets sail with 3,800 aboard",
+   "zh_hans": "中国第二艘国产大邮轮「爱达·花城号」首航 逾3800乘客畅游港越六日五夜",
+   "zh_hant": "中國第二艘國產大郵輪「愛達·花城號」首航 逾3800乘客暢遊港越六日五夜"
+  }
+ },
+ {
+  "category": "world",
+  "id": "20261123-trump-warns-iran-strikes-after-jan-1",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：特朗普警告伊朗談判拖延，1月1日後或再動武，批評對方拖延談判。場景：陽光下的白宮外景，美國國旗飄揚，背景是華盛頓藍天與草坪，氣氛莊重嚴肅。風格：寫實嚴肅，色彩光亮通透。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「特朗普警告伊朗談判拖延」，第二行黃字寫「1月1日後或再動武 批評對方拖延談判」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-23T05:00:00+08:00",
+  "source": {
+   "name": "Times Now",
+   "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-latest-news-donald-trump-latest-statement-on-us-involvement-israel-conflict-middle-east-tensions-and-strait-of-hormuz-crisis-liveblog-156536030"
+  },
+  "summary": {
+   "en": "US President Donald Trump has warned that the United States could launch fresh military strikes against Iran after January 1 if the two sides fail to reach an agreement, accusing Iranian negotiators of dragging out the talks. Iran claimed to have shot down two US military drones, while US Central Command denied that an F-16 fighter jet had been hit. Tankers were also reported hit near the Strait of Hormuz, keeping regional tensions high.",
+   "zh_hans": "美国总统特朗普警告，若美伊未能达成协议，美国可能在1月1日后对伊朗发动新一轮军事打击，批评伊朗谈判代表拖延谈判。伊朗方面称击落两架美军无人机，美国中央司令部否认有F-16战机被击中；霍尔木兹海峡一带再有油轮遇袭，区内局势持续紧张。",
+   "zh_hant": "美國總統特朗普警告，若美伊未能達成協議，美國可能在1月1日後對伊朗發動新一輪軍事打擊，批評伊朗談判代表拖延談判。伊朗方面稱擊落兩架美軍無人機，美國中央司令部否認有F-16戰機被擊中；霍爾木茲海峽一帶再有油輪遇襲，區內局勢持續緊張。"
+  },
+  "tags": {
+   "en": [
+    "Trump",
+    "Iran",
+    "Strait of Hormuz"
+   ],
+   "zh_hans": [
+    "特朗普",
+    "伊朗",
+    "霍尔木兹海峡"
+   ],
+   "zh_hant": [
+    "特朗普",
+    "伊朗",
+    "霍爾木茲海峽"
+   ]
+  },
+  "title": {
+   "en": "Trump warns Iran of fresh strikes after January 1 if talks keep stalling",
+   "zh_hans": "特朗普警告伊朗谈判拖延 1月1日后或再动武 批评对方拖延谈判",
+   "zh_hant": "特朗普警告伊朗談判拖延 1月1日後或再動武 批評對方拖延談判"
+  }
+ },
+ {
+  "category": "world",
+  "id": "20261123-russia-missiles-poland-nato-meeting",
+  "image_prompt": "電視新聞圖卡風格，16:9。事實：波蘭證實三枚俄羅斯導彈周五飛入領空，北約周一開會商討空域被侵。場景：白天的波蘭與烏克蘭邊境地區，調查人員在開闊田野檢查導彈殘骸，遠處是邊境哨站與樹林，天空晴朗，氣氛嚴肅。風格：寫實嚴肅，色彩光亮但凝重。格式：大字標題壓在畫面下方，標題是一個連續完整的整體，絕對不可以分開兩部分、重複任何部分、被任何物件遮住或分隔，文字必須完整清晰；第一行白字寫「波蘭證實三枚俄羅斯導彈飛入領空」，第二行黃字寫「北約周一開會商討空域被侵」，兩行互相呼應；右下角細版標籤「AI設計圖片」六字必須完整清晰，貼住圖片右下角；圖片上面除標題外絕對不可以有其他任何字眼。",
+  "image_url": "",
+  "published_at": "2026-11-23T01:49:00+08:00",
+  "source": {
+   "name": "GMA News",
+   "url": "https://www.gmanetwork.com/news/topstories/world/1010442/three-russian-missiles-flew-into-poland-friday-prosecutors-say/story/?just_in"
+  },
+  "summary": {
+   "en": "Polish prosecutors said on Sunday that all three objects that flew into Polish airspace on Friday were Russian Kh-101 missiles, with preliminary debris analysis indicating they were manufactured in the fourth quarter of 2026 at facilities in Dubna, in the Moscow region. Polish authorities are investigating objects found near the border with Ukraine, and NATO's North Atlantic Council will meet in Brussels on Monday to discuss the violation of Polish airspace.",
+   "zh_hans": "波兰检察部门周日表示，周五飞入波兰领空的三个物体全部是俄罗斯Kh-101导弹，残骸初步检验显示导弹于2026年第四季在莫斯科州杜布纳制造。波兰当局正调查在乌克兰边境附近发现的物体，北约北大西洋理事会将于周一在布鲁塞尔开会，讨论波兰空域被侵犯事件。",
+   "zh_hant": "波蘭檢察部門周日表示，周五飛入波蘭領空的三個物體全部是俄羅斯Kh-101導彈，殘骸初步檢驗顯示導彈於2026年第四季在莫斯科州杜布納製造。波蘭當局正調查在烏克蘭邊境附近發現的物體，北約北大西洋理事會將於周一在布魯塞爾開會，討論波蘭空域被侵犯事件。"
+  },
+  "tags": {
+   "en": [
+    "Poland",
+    "Russian Missiles",
+    "NATO"
+   ],
+   "zh_hans": [
+    "波兰",
+    "俄罗斯导弹",
+    "北约"
+   ],
+   "zh_hant": [
+    "波蘭",
+    "俄羅斯導彈",
+    "北約"
+   ]
+  },
+  "title": {
+   "en": "Poland confirms three Russian missiles entered its airspace as NATO meets Monday",
+   "zh_hans": "波兰证实三枚俄罗斯导弹周五飞入领空 北约周一开会商讨空域被侵",
+   "zh_hant": "波蘭證實三枚俄羅斯導彈周五飛入領空 北約周一開會商討空域被侵"
   }
  }
 ]
